@@ -1,0 +1,28 @@
+{
+  "type": "object",
+  "properties": {
+    "approved": {"type": "boolean", "description": "True if score >= 8 and no health safety issues"},
+    "score": {"type": "integer", "description": "Quality score 1-10"},
+    "feedback": {"type": "string", "description": "Specific feedback for revision"},
+    "scientific_accuracy": {
+      "type": "object",
+      "properties": {
+        "sources_cited": {"type": "boolean", "description": "All health claims have cited sources"},
+        "evidence_presented_fairly": {"type": "boolean", "description": "Study findings not exaggerated or misrepresented"},
+        "limitations_noted": {"type": "boolean", "description": "Study limitations mentioned where relevant"},
+        "no_absolute_claims": {"type": "boolean", "description": "No 'proves', 'always', 'never', 'guaranteed'"}
+      },
+      "required": ["sources_cited", "evidence_presented_fairly", "limitations_noted", "no_absolute_claims"]
+    },
+    "health_safety": {
+      "type": "object",
+      "properties": {
+        "no_harmful_advice": {"type": "boolean", "description": "No recommendations that could cause harm"},
+        "disclaimer_present": {"type": "boolean", "description": "Medical disclaimer included where needed"},
+        "balanced_messaging": {"type": "boolean", "description": "Not scaremongering, not overpromising"}
+      },
+      "required": ["no_harmful_advice", "disclaimer_present", "balanced_messaging"]
+    }
+  },
+  "required": ["approved", "score", "feedback", "scientific_accuracy", "health_safety"]
+}

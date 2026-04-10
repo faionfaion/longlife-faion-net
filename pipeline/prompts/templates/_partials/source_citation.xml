@@ -1,0 +1,18 @@
+Source citation rules for health content:
+
+- Every health claim MUST have a cited scientific source with URL
+- Never fabricate studies, journal names, or DOI numbers
+- Preferred source hierarchy:
+  1. Peer-reviewed journals (The Lancet, NEJM, JAMA, Nature Medicine, BMJ, Cell)
+  2. Systematic reviews and meta-analyses (Cochrane Library)
+  3. Official health organizations (WHO, CDC, ECDC, MOZ Ukraine)
+  4. University research press releases (with link to original paper)
+  5. Reputable health news (Medical News Today, Healthline — only as secondary)
+- For each study cited, include: journal name, year, and URL/DOI when available
+- For guides/lifehacks: cite at least 2 independent sources supporting each recommendation
+- For research summaries: link to the original paper, not just a news article about it
+- Distinguish between: RCT, observational study, meta-analysis, animal study, in-vitro
+- Always note study limitations: sample size, population, duration
+- Mark preliminary findings clearly: "попередні дані", "потрібні додаткові дослідження"
+- NEVER present correlation as causation
+- NEVER cite retracted papers

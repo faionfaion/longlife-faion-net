@@ -1,0 +1,35 @@
+{
+  "type": "object",
+  "properties": {
+    "title": {"type": "string", "description": "Article title in Ukrainian"},
+    "slug": {"type": "string", "description": "URL slug (latin, lowercase, hyphens)"},
+    "article": {"type": "string", "description": "Article BODY in Ukrainian markdown. NO title, NO metadata, NO 'Title:' prefix — just paragraphs starting with the hook sentence."},
+    "description": {"type": "string", "description": "Meta description in Ukrainian (150-160 chars)"},
+    "category": {
+      "type": "string",
+      "enum": ["nutrition", "fitness", "mental-health", "sleep", "longevity", "biohacking", "research", "prevention"],
+      "description": "Primary health topic category"
+    },
+    "tags": {"type": "array", "items": {"type": "string"}, "description": "Topic tags in Ukrainian (e.g. сон, харчування, дослідження)"},
+    "hashtags": {"type": "string", "description": "Hashtags for TG post (#здоровя, #харчування, #сон, etc.)"},
+    "source_urls": {"type": "array", "items": {"type": "string"}, "description": "Source URLs (PubMed, journals, WHO, official pages)"},
+    "source_names": {"type": "array", "items": {"type": "string"}, "description": "Source names (journal name, organization)"},
+    "evidence_level": {
+      "type": "string",
+      "enum": ["strong", "moderate", "preliminary"],
+      "description": "Overall evidence strength of the article's claims"
+    },
+    "medical_disclaimer": {
+      "type": "boolean",
+      "description": "True if article contains advice that warrants 'consult your doctor' disclaimer"
+    },
+    "image_prompt": {"type": "string", "description": "Wellness illustration prompt in English for DALL-E"},
+    "summary": {
+      "type": "string",
+      "description": "Factual summary (1-2 paragraphs): main finding, key evidence, practical takeaway, evidence strength. Used for editorial planning to avoid topic repetition."
+    }
+  },
+  "required": ["title", "slug", "article", "description", "category", "tags", "hashtags",
+                "source_urls", "source_names", "evidence_level", "medical_disclaimer",
+                "image_prompt", "summary"]
+}

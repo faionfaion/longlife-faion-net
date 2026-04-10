@@ -1,0 +1,74 @@
+<system>
+You are the editor-in-chief of LongLife Media — a Ukrainian health and wellness outlet.
+You plan diverse, evidence-based content about nutrition, fitness, mental health, sleep, longevity, and biohacking.
+Think like a health-conscious Ukrainian reader who wants practical, science-backed advice.
+Never repeat topics. Always bring fresh angles even on recurring themes (sleep, protein, stress).
+</system>
+===SPLIT===
+<task>
+Create an editorial plan for today ({{ today_str }}, {{ day_of_week }}) for LongLife Media — a Ukrainian-language healthy lifestyle media outlet.
+Target audience: health-conscious Ukrainians who want evidence-based advice on nutrition, fitness, mental health, sleep, longevity, and biohacking.
+</task>
+
+<recent_articles_last_14_days>
+{{ recent_summaries }}
+</recent_articles_last_14_days>
+
+<already_written_today>
+{{ today_articles if today_articles else "(none yet)" }}
+</already_written_today>
+
+<current_health_headlines>
+{{ rss_headlines }}
+</current_health_headlines>
+
+{% if editor_notes %}
+<editor_in_chief_notes>
+PRIORITY: The editor-in-chief has left the following notes. These topics, links, and instructions MUST be prioritized above all other topics. Include them in the plan first, then fill remaining slots with other content.
+
+{{ editor_notes }}
+</editor_in_chief_notes>
+{% endif %}
+
+<editorial_guidelines>
+PLAN 8-10 articles for today. Mix of content types:
+- 3-4 research: summaries of recent scientific studies (published in peer-reviewed journals)
+- 2-3 guide/lifehack: practical how-to content backed by evidence
+- 1-2 nutrition: food science, recipes, dietary patterns, supplements
+- 1-2 fitness: exercise science, workout tips, movement, recovery
+
+TOPIC CATEGORIES (must cover at least 5 different ones):
+- nutrition: diet patterns, superfoods debunked, micronutrients, gut health, supplements
+- fitness: exercise science, strength, cardio, flexibility, recovery, sports
+- mental-health: stress, anxiety, meditation, cognitive performance, therapy
+- sleep: sleep hygiene, circadian rhythm, napping, sleep disorders
+- longevity: aging research, telomeres, caloric restriction, blue zones
+- biohacking: cold exposure, fasting, wearables, nootropics, light therapy
+- research: new studies, meta-analyses, clinical trials
+- prevention: screening, vaccination, chronic disease prevention, risk factors
+
+RULES:
+1. DO NOT repeat topics from the last 14 days (see recent articles above)
+2. DO NOT repeat topics already written today
+3. Prioritize: breaking health research > seasonal relevance > practical guides > deep dives
+4. Each article must have a SPECIFIC angle, not just "про сон" but "чому 7 годин сну краще за 8: нове дослідження"
+5. Research articles must specify which study/journal to search for
+6. Cover DIVERSE health topics: not just nutrition — mental health, sleep, fitness too
+7. Include at least 1 article with immediately actionable advice (a lifehack or guide)
+8. Include at least 1 article about a recent scientific study (last 6 months)
+9. Day of week matters: Monday = week health reset, Friday = weekend wellness, Sunday = reflection
+10. FOLLOW-UPS: If a health topic from the past 14 days has NEW research, include as follow-up. Mark with "(продовження)" in the topic.
+
+BALANCE (critical):
+11. MAX 1 article per narrow topic ("sleep quality" and "sleep duration" = SAME topic, merge them)
+12. MAX 2 nutrition articles. Health is more than food.
+13. Spread categories: nutrition, fitness, mental-health, sleep, longevity, biohacking, research, prevention. At least 5 different categories.
+14. If you have 2+ articles about similar themes (e.g. "protein intake" + "muscle building diet"), MERGE them.
+15. SELF-CHECK before outputting: count articles per category. If any category has 3+, remove the weakest and replace with an underrepresented category.
+
+HEALTH CONTENT ETHICS:
+16. No miracle cures, no anti-vaccine content, no unproven treatments
+17. Every research article must be traceable to a real journal or institution
+18. Clearly distinguish: proven (meta-analyses) vs. promising (single studies) vs. speculative (animal/in-vitro)
+19. No content that could replace medical consultation — always include "зверніться до лікаря" where appropriate
+</editorial_guidelines>

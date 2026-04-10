@@ -1,0 +1,18 @@
+{
+  "type": "object",
+  "required": ["article"],
+  "properties": {
+    "article": {
+      "type": "string",
+      "description": "Revised article body (markdown, no frontmatter)"
+    },
+    "title": {
+      "type": "string",
+      "description": "Updated title (optional)"
+    },
+    "description": {
+      "type": "string",
+      "description": "Updated description (optional, max 120 chars)"
+    }
+  }
+}

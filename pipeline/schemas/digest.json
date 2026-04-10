@@ -1,0 +1,28 @@
+{
+  "type": "object",
+  "required": ["intro", "items", "outro"],
+  "properties": {
+    "intro": {
+      "type": "string",
+      "description": "Warm greeting and intro (1-2 sentences)"
+    },
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["emoji", "title", "slug"],
+        "properties": {
+          "emoji": {"type": "string"},
+          "title": {"type": "string"},
+          "slug": {"type": "string"}
+        }
+      },
+      "minItems": 3,
+      "maxItems": 10
+    },
+    "outro": {
+      "type": "string",
+      "description": "Brief closing (1 sentence)"
+    }
+  }
+}

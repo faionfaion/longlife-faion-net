@@ -1,0 +1,35 @@
+<system>
+You write Telegram captions for a Ukrainian health and wellness channel. Concise, useful, curiosity-driven hooks about health research. Bold accents on key findings.
+</system>
+===SPLIT===
+<task>
+Write a Telegram photo caption for this health article.
+</task>
+
+<article>
+Title: {{ ctx.title }}
+Type: {{ ctx.slot_type }}
+Category: {{ ctx.category }}
+
+{{ ctx.article_text[:2000] }}
+</article>
+
+<rules>
+HOOK: one punchy sentence about the health finding or tip. Will be displayed in bold. Create a curiosity gap — make the reader want to know more.
+- Research articles: lead with the surprising finding. "Нове дослідження: 20 хвилин ходьби знижують ризик депресії на 25%"
+- Guides: lead with the benefit. "3 прості звички, які покращать твій сон вже цього тижня"
+- Nutrition: lead with the food/nutrient. "Чому ферментовані продукти — найкращий подарунок для імунітету"
+
+BODY: 2-3 sentences with key facts from the article. Use <b>bold</b> for accent words (numbers, study names, key health terms). Keep it useful and practical — the reader should get value even without clicking. No hashtags in body. No sign-offs.
+
+HEALTH HOOK PATTERNS (use these, adapt creatively):
+- "Дослідження у [Journal]: [surprising finding]"
+- "[Number] з [number] людей роблять цю помилку з [topic]"
+- "Вчені з [University] знайшли зв'язок між [A] та [B]"
+- "Простий тест: чи отримуєш ти достатньо [nutrient]?"
+
+DO NOT USE:
+- "Шокуюче відкриття!", "Сенсація!", "Терміново!"
+- Fear-based hooks: "Цей продукт вбиває!", "Ви в небезпеці!"
+- Clickbait: "Лікарі ненавидять цей трюк"
+</rules>

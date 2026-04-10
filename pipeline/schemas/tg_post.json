@@ -1,0 +1,14 @@
+{
+  "type": "object",
+  "properties": {
+    "hook": {
+      "type": "string",
+      "description": "Bold hook — 1 sentence about the health finding or tip. Creates curiosity gap. Ukrainian."
+    },
+    "body": {
+      "type": "string",
+      "description": "2-3 sentences: key facts, practical takeaway. Accent words in <b>bold</b>. Ukrainian, HTML only. No hashtags."
+    }
+  },
+  "required": ["hook", "body"]
+}

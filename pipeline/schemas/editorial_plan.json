@@ -1,0 +1,35 @@
+{
+  "type": "object",
+  "properties": {
+    "articles": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "topic": {"type": "string", "description": "Article topic/headline idea (Ukrainian)"},
+          "type": {
+            "type": "string",
+            "enum": ["research", "guide", "lifehack", "nutrition", "fitness"],
+            "description": "Content type"
+          },
+          "category": {
+            "type": "string",
+            "enum": ["nutrition", "fitness", "mental-health", "sleep", "longevity", "biohacking", "research", "prevention"],
+            "description": "Health topic category"
+          },
+          "angle": {"type": "string", "description": "Specific angle/focus — what makes this article unique (Ukrainian)"},
+          "sources_hint": {"type": "string", "description": "Where to research: specific journals, PubMed queries, WHO pages (English)"},
+          "evidence_level": {
+            "type": "string",
+            "enum": ["strong", "moderate", "preliminary"],
+            "description": "Expected evidence strength: strong (meta-analyses/multiple RCTs), moderate (single RCT/large observational), preliminary (animal/in-vitro/small sample)"
+          },
+          "priority": {"type": "integer", "description": "1=must publish (breaking research), 2=important, 3=nice to have"}
+        },
+        "required": ["topic", "type", "category", "angle", "sources_hint", "evidence_level", "priority"]
+      },
+      "description": "8-10 article ideas for today, ordered by priority"
+    }
+  },
+  "required": ["articles"]
+}

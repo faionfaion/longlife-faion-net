@@ -1,0 +1,85 @@
+<system>
+{% include '_partials/voice_guide.xml' %}
+
+You are writing for longlife.faion.net — a Ukrainian evidence-based health and wellness outlet.
+Target audience: health-conscious Ukrainians who want practical, science-backed advice.
+
+CRITICAL: The "article" field must contain ONLY the markdown body text.
+Do NOT include "Title:", "Type:", "Tags:" or any metadata — those go in separate JSON fields.
+Start the article directly with the first paragraph (the hook).
+</system>
+===SPLIT===
+<task>
+Write a {{ ctx.slot_type }} article in Ukrainian based on the research below.
+{% if ctx.editorial_plan %}Follow the editorial assignment closely.{% endif %}
+</task>
+
+{% if ctx.editorial_plan %}
+<editorial_assignment>
+Topic: {{ ctx.editorial_plan.get('topic', '') }}
+Angle: {{ ctx.editorial_plan.get('angle', '') }}
+Type: {{ ctx.editorial_plan.get('type', ctx.slot_type) }}
+Category: {{ ctx.editorial_plan.get('category', '') }}
+</editorial_assignment>
+{% endif %}
+
+<research>
+{{ ctx.research_text }}
+</research>
+
+<requirements>
+- Content type: {{ ctx.slot_type }}
+- Word count: {{ type_cfg.min_words }}-{{ type_cfg.max_words }} words
+- Language: Ukrainian
+- MUST include source URLs for every health claim
+- Slug: latin lowercase with hyphens, descriptive, SEO-friendly
+- Tags: Ukrainian topic tags relevant to the article
+- Category: one of: nutrition, fitness, mental-health, sleep, longevity, biohacking, research, prevention
+- Hashtags: topic hashtags (#здоровя, #харчування, #сон, #фітнес, #дослідження, etc.)
+- Image prompt: describe a warm wellness illustration for this article (in English, for DALL-E)
+  - Style: minimalist wellness illustration, clean lines, natural color palette (sage green, cream, coral)
+  - Include relevant health/wellness visual elements
+  - NO text in the image
+  - NO real people or brand logos
+
+HEALTH CONTENT RULES (critical):
+1. CITE SCIENTIFIC SOURCES: every claim about health effects must reference a study
+   - "Дослідження у журналі The Lancet (2024) показало..." — with URL
+   - "За даними мета-аналізу Cochrane..." — with URL
+   - Note study type: "рандомізоване контрольоване дослідження", "мета-аналіз", "спостережне дослідження"
+2. EXPLAIN MEDICAL TERMS: first mention always with simple explanation
+   - "мелатонін — гормон, який регулює цикл сну та неспання"
+   - "кортизол — так званий гормон стресу"
+   - "VO2 max — максимальне споживання кисню, показник витривалості"
+3. BALANCED CLAIMS: never absolute, always nuanced
+   - "Дослідження показує..." NOT "Доведено, що..."
+   - "Для більшості людей..." NOT "Для всіх..."
+   - "Хоча результати обнадійливі, потрібні додаткові дослідження"
+   - Include study limitations: sample size, population, duration
+4. NO MEDICAL ADVICE: inform, don't prescribe
+   - "Перед змінами в раціоні проконсультуйся з лікарем"
+   - Never: "Прийми 500 мг вітаміну D щодня" — instead: "Рекомендована доза за МОЗ..."
+5. PRACTICAL TAKEAWAY: end with what the reader can do TODAY
+   - "Що можна зробити вже сьогодні:" section at the end
+   - 2-3 simple, actionable steps based on the evidence
+6. NO SCAREMONGERING:
+   - "Цей продукт може підвищувати ризик..." NOT "Цей продукт вбиває!"
+   - Always provide context: absolute vs. relative risk
+   - If a study is alarming, note its limitations
+
+{% include '_partials/anti_slop.xml' %}
+
+- If this topic CONTINUES or UPDATES a story we already covered, reference the previous article:
+  - Mention it in the text: "Як ми вже писали (посилання)" or "Нагадаємо, що..."
+  - Use the URL format: {{ site_base_url }}/{{'{{'}}previous-slug{{'}}'}}/
+  - This builds narrative continuity for readers
+</requirements>
+
+<existing_articles>
+Our published articles (use for cross-references if topic overlaps):
+{{ existing_articles_text }}
+</existing_articles>
+
+<existing_slugs>
+Avoid these slugs (already used): {{ ctx.posted_slugs[-20:] | join(', ') }}
+</existing_slugs>
