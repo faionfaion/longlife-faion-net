@@ -1,0 +1,35 @@
+{
+  "type": "object",
+  "properties": {
+    "scene_description": {
+      "type": "string",
+      "description": "What Vita is doing in this panel, related to the article topic (2-3 sentences)"
+    },
+    "background": {
+      "type": "string",
+      "description": "Background setting: gym, kitchen, lab, park, etc. Include key environmental details"
+    },
+    "pose": {
+      "type": "string",
+      "description": "Vita's body pose and action (e.g. 'power stance with hands on hips', 'mid-squat holding dumbbells')"
+    },
+    "expression": {
+      "type": "string",
+      "description": "Vita's facial expression (e.g. 'confident smile', 'determined training face', 'encouraging look')"
+    },
+    "props": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "Props Vita is holding or that appear in the scene, relevant to article topic"
+    },
+    "text_bubble": {
+      "type": "string",
+      "description": "Short quote from the article in Ukrainian (1 sentence max, key takeaway)"
+    },
+    "color_notes": {
+      "type": "string",
+      "description": "Color palette notes for this specific scene (dominant colors, mood lighting, accents)"
+    }
+  },
+  "required": ["scene_description", "background", "pose", "expression", "props", "text_bubble", "color_notes"]
+}

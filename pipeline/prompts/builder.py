@@ -136,6 +136,14 @@ def build_tg_post_prompt(ctx: PipelineContext) -> tuple[str, str]:
     )
 
 
+def build_comic_scene_prompt(ctx: PipelineContext) -> tuple[str, str]:
+    """Build comic scene prompt for article illustration."""
+    return render(
+        "s_comic_scene.xml.j2",
+        ctx=ctx,
+    )
+
+
 def build_digest_prompt(articles_text: str, today_str: str) -> tuple[str, str]:
     """Build s11 digest prompt."""
     return render(

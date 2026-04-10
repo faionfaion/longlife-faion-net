@@ -1,4 +1,8 @@
-"""Image generation: health/wellness illustrations via OpenAI gpt-image-1."""
+"""Image generation: comic-style illustrations via OpenAI gpt-image-1.
+
+Generates character-consistent comic panels featuring Vita — the LongLife Media mascot.
+Falls back to generic wellness illustration style when no comic scene is provided.
+"""
 
 from __future__ import annotations
 
@@ -18,15 +22,26 @@ OPENAI_API_KEY = os.environ.get(
     "",
 )
 
-_STYLE_FILE = Path(__file__).resolve().parent / "prompts" / "templates" / "_partials" / "image_style.txt"
+_PARTIALS_DIR = Path(__file__).resolve().parent / "prompts" / "templates" / "_partials"
+_STYLE_FILE = _PARTIALS_DIR / "image_style.txt"
+_COMIC_STYLE_FILE = _PARTIALS_DIR / "comic_style.txt"
+_CHARACTER_SHEET_FILE = _PARTIALS_DIR / "character_sheet.md"
 
-# Default style for health/wellness illustrations
+# Default style for health/wellness illustrations (fallback)
 _DEFAULT_STYLE = (
     "Clean, modern health and wellness illustration style. "
     "Soft natural colors (greens, blues, warm earth tones). "
     "Minimalist flat design with gentle gradients. "
     "Positive, calming mood. No text overlays. "
     "Professional medical/health publication quality. "
+)
+
+# Character physical description for prompt consistency
+_CHARACTER_PHYSICAL = (
+    "Tall athletic muscular woman (178cm), long wavy blonde hair past shoulders "
+    "parted on the left, bright green eyes, defined muscles but feminine build, "
+    "sun-kissed skin. Small green leaf tattoo on right shoulder. "
+    "Black fitness smartwatch on left wrist."
 )
 
 
@@ -37,12 +52,48 @@ def _load_style_prefix() -> str:
     return _DEFAULT_STYLE
 
 
-def generate_image(prompt: str, slug: str) -> Path | None:
-    """Generate a health/wellness illustration and save to images dir.
+def _load_comic_style() -> str:
+    """Load comic art style from file."""
+    if _COMIC_STYLE_FILE.exists():
+        return _COMIC_STYLE_FILE.read_text(encoding="utf-8").strip()
+    return "Clean-line comic art panel, bold black outlines, cel-shading, vibrant colors."
+
+
+def _load_character_sheet() -> str:
+    """Load character model sheet for reference."""
+    if _CHARACTER_SHEET_FILE.exists():
+        return _CHARACTER_SHEET_FILE.read_text(encoding="utf-8").strip()
+    return ""
+
+
+def build_comic_prompt(scene_prompt: str) -> str:
+    """Build a full image prompt with character consistency enforced.
+
+    Prepends comic style + character physical description to ensure
+    the generated image matches Vita's model sheet.
 
     Args:
-        prompt: Image description (in English).
+        scene_prompt: Scene description from s_comic_scene stage.
+
+    Returns:
+        Full prompt with style + character + scene.
+    """
+    comic_style = _load_comic_style()
+    return (
+        f"{comic_style} Single panel composition. "
+        f"Character: {_CHARACTER_PHYSICAL} "
+        f"{scene_prompt}"
+    )
+
+
+def generate_image(prompt: str, slug: str, comic_mode: bool = False) -> Path | None:
+    """Generate an illustration and save to images dir.
+
+    Args:
+        prompt: Image description (in English). For comic mode, should already
+                include character description from s_comic_scene stage.
         slug: Article slug for filename.
+        comic_mode: If True, use comic style prefix instead of wellness style.
 
     Returns:
         Path to saved image, or None on failure.
@@ -51,7 +102,11 @@ def generate_image(prompt: str, slug: str) -> Path | None:
         logger.warning("No OPENAI_API_KEY — skipping image generation")
         return None
 
-    full_prompt = f"{_load_style_prefix()}{prompt}"
+    if comic_mode:
+        # Comic mode: prompt already contains character + scene from s_comic_scene
+        full_prompt = prompt
+    else:
+        full_prompt = f"{_load_style_prefix()}{prompt}"
 
     try:
         resp = requests.post(

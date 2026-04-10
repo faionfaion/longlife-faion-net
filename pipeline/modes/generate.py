@@ -19,6 +19,7 @@ from pipeline.stages import (
     s3_generate,
     s4_review,
     s5_revise,
+    s_comic_scene,
     s6_generate_tg,
     s7_deploy,
     s7_save,
@@ -139,6 +140,9 @@ def _generate_one_article(
 
         with time_stage(report, f"review:{topic_label[:30]}"):
             _review_loop(ctx)
+
+        with time_stage(report, f"comic_scene:{topic_label[:30]}"):
+            s_comic_scene.run(ctx)
 
         with time_stage(report, f"tg_caption:{topic_label[:30]}"):
             s6_generate_tg.run(ctx)

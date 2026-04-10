@@ -43,6 +43,9 @@ class PipelineContext:
     tg_post: str = ""
     tg_review_approved: bool = False
 
+    # Comic scene
+    comic_scene: dict = field(default_factory=dict)
+
     # Image
     image_prompt: str = ""
     image_path: Path | None = None
