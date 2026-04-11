@@ -20,7 +20,7 @@ source_names:
   - "PubMed — Flexibility, mobility and all-cause mortality"
   - "PMC — Joint mobility and functional independence in older adults"
   - "BJSM — Sitting-rising test and mortality prediction"
-image: ""
+image: "/images/mobilnist-trenuvannia-hnuchki-suhloby-dovholittia.jpg"
 ---
 
 Є простий тест, який може передбачити вашу тривалість життя краще за аналіз крові. Він називається «sitting-rising test» (SRT) — тест «сісти-встати». Вам потрібно сісти на підлогу з положення стоячи, а потім встати, використовуючи мінімум опори. Кожна опора на руку, коліно або підлогу — мінус бал.

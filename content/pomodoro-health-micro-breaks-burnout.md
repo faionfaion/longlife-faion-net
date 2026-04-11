@@ -19,7 +19,7 @@ source_names:
   - "Occupational Medicine — Dababneh et al., 2001"
   - "International Journal of Environmental Research — Wendsche et al., 2017"
   - "Applied Ergonomics — Galinsky et al., 2007"
-image: ""
+image: "/images/pomodoro-health-micro-breaks-burnout.jpg"
 ---
 
 Ви сидите за комп'ютером вже четверту годину поспіль. Очі сухі, шия болить, у голові туман. Знайомо? А тепер уявіть, що існує простий протокол, який не тільки підвищить вашу продуктивність, а й збереже здоров'я спини, очей і психіки. Це адаптована техніка Помодоро — і вона працює навіть краще, ніж ви думаєте.

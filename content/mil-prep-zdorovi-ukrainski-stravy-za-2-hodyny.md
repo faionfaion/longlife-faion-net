@@ -20,7 +20,7 @@ source_names:
   - "PubMed — Meal planning and diet quality"
   - "Harvard — Meal Preparation Guide"
   - "Examine.com — Meal Frequency Guide"
-image: ""
+image: "/images/mil-prep-zdorovi-ukrainski-stravy-za-2-hodyny.jpg"
 ---
 
 Міл-преп (meal prep) — це підготовка їжі на кілька днів наперед. Дослідження, опубліковане в International Journal of Behavioral Nutrition, показало, що люди, які планують і готують їжу заздалегідь, вживають на 25% більше овочів, мають на 20% кращу якість раціону та на 50% рідше замовляють фастфуд.

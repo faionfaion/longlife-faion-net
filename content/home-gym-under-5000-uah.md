@@ -17,7 +17,7 @@ source_urls:
 source_names:
   - "American College of Sports Medicine — Home Workout Guide"
   - "PubMed — Resistance Band Training Effectiveness"
-image: ""
+image: "/images/home-gym-under-5000-uah.jpg"
 ---
 
 Абонемент у тренажерний зал коштує 800-2000 грн на місяць. За рік це 10 000-24 000 грн, плюс час на дорогу. А що якщо вкласти 5000 грн один раз — і мати повноцінний домашній зал, який прослужить роками?

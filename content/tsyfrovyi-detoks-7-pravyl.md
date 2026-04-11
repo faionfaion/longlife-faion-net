@@ -19,7 +19,7 @@ source_names:
   - "Sleep Foundation — Electronics and Sleep"
   - "PubMed — Screen time and mental health outcomes"
   - "APA — Technology use guidelines"
-image: ""
+image: "/images/tsyfrovyi-detoks-7-pravyl.jpg"
 ---
 
 Середньостатистичний дорослий проводить перед екранами 7-9 годин на день. Для багатьох з нас це неминуче — робота вимагає комп'ютера, зв'язок з близькими йде через месенджери, новини читаємо в телефоні. Повний відмова від екранів — нереалістична. Але зробити екранний час менш шкідливим — цілком можливо.

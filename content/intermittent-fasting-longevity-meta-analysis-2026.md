@@ -19,7 +19,7 @@ source_names:
   - "PubMed — Meta-analysis of intermittent fasting and mortality outcomes"
   - "NEJM — Effects of Intermittent Fasting on Health, Aging, and Disease"
   - "Nature Reviews Endocrinology — Fasting and longevity mechanisms"
-image: ""
+image: "/images/intermittent-fasting-longevity-meta-analysis-2026.jpg"
 ---
 
 Інтервальне голодування (ІГ) вже кілька років залишається однією з найбільш обговорюваних тем у сфері здорового харчування. Але чи справді воно подовжує життя, чи це лише черговий тренд? У лютому 2026 року вийшов масштабний мета-аналіз, який нарешті дає обґрунтовану відповідь.

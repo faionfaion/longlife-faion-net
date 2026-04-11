@@ -19,7 +19,7 @@ source_names:
   - "PubMed — HIIT vs MICT: Updated Systematic Review 2025"
   - "BJSM — High-intensity interval training and cardiometabolic health"
   - "Nature Medicine — Exercise intensity and all-cause mortality"
-image: ""
+image: "/images/hiit-vs-steady-state-cardio-2026.jpg"
 ---
 
 "HIIT спалює жир у 9 разів ефективніше!" — кричать заголовки. "Тривале кардіо вбиває м'язи!" — додають фітнес-блогери. Давайте розберемося, що насправді показують дослідження, і відкинемо маркетинговий шум.

@@ -19,7 +19,7 @@ source_names:
   - "Neuroscience & Biobehavioral Reviews — McLellan et al., 2016"
   - "Sleep Medicine Reviews — Clark & Landolt, 2017"
   - "Journal of Clinical Sleep Medicine — Drake et al., 2013"
-image: ""
+image: "/images/caffeine-performance-optimal-dose.jpg"
 ---
 
 Кава — найпопулярніший психоактивний препарат у світі. Щодня люди випивають понад 2 мільярди чашок. Але скільки кофеїну дійсно покращує продуктивність? Де межа між "бадьорість" та "тривожність"? І о котрій годині остання чашка, щоб не зруйнувати сон? Наука має конкретні відповіді.

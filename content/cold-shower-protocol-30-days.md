@@ -19,7 +19,7 @@ source_names:
   - "PubMed — Effect of Cold Showering on Health (PLOS ONE)"
   - "PMC — Cold Water Immersion and Immune Response"
   - "PubMed — Cold Exposure and Brown Adipose Tissue"
-image: ""
+image: "/images/cold-shower-protocol-30-days.jpg"
 ---
 
 "Просто прийми холодний душ" — порада, яку легко давати і важко виконати. Стати під крижану воду без підготовки — це стрес, а не загартовування. Тому більшість кидають після першої спроби.

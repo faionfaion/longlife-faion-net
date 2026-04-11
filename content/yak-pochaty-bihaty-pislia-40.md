@@ -19,7 +19,7 @@ source_names:
   - "ACSM — Physical Activity Guidelines"
   - "British Journal of Sports Medicine — Running and mortality"
   - "PubMed — Late-onset running and cardiovascular health"
-image: ""
+image: "/images/yak-pochaty-bihaty-pislia-40.jpg"
 ---
 
 «Мені вже пізно починати бігати» — це одна з найпоширеніших помилок, яку я чую від людей після 40. Насправді дослідження показують протилежне: люди, які починають бігати у 40-50 років, отримують такі ж кардіоваскулярні переваги, як і ті, хто бігає з молодості. Єдина умова — робити це правильно.

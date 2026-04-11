@@ -20,7 +20,7 @@ source_names:
   - "PubMed — Protein intake and muscle mass preservation"
   - "ISSN — Position Stand on Protein and Exercise"
   - "PMC — Anabolic resistance and aging"
-image: ""
+image: "/images/bilok-dlia-zberezhennia-miaziv-pislia-30.jpg"
 ---
 
 Починаючи з 30 років, ми втрачаємо 3-8% м'язової маси кожне десятиліття. Після 50 цей процес прискорюється до 1-2% на рік. Цей стан називається саркопенія, і він є одним з головних факторів втрати функціональності та самостійності з віком.

@@ -21,7 +21,7 @@ source_names:
   - "PubMed"
   - "Circulation: Arrhythmia and Electrophysiology"
   - "PMC"
-image: ""
+image: "/images/hrv-tracking-complete-guide.jpg"
 ---
 
 Якщо ви носите розумний годинник або фітнес-трекер, ви, ймовірно, бачили показник HRV. Але що це за число, чому воно щодня різне і як його використовувати для покращення здоров'я? Давайте розберемось.

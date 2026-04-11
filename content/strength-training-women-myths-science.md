@@ -19,7 +19,7 @@ source_names:
   - "British Journal of Sports Medicine — Momma et al., 2022"
   - "Medicine & Science in Sports & Exercise — Westcott, 2012"
   - "Osteoporosis International — Watson et al., 2018"
-image: ""
+image: "/images/strength-training-women-myths-science.jpg"
 ---
 
 "Я не хочу стати перекачаною." Ця фраза — найпоширеніша причина, через яку жінки уникають силових тренувань. І вона ж — найбільший міф у фітнесі. Давайте розберемося, чому саме силові тренування є одним із найважливіших інструментів для жіночого здоров'я та довголіття.

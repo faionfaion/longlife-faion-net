@@ -21,7 +21,7 @@ source_names:
   - "PubMed"
   - "PMC"
   - "Frontiers in Psychology"
-image: ""
+image: "/images/breathing-exercises-lower-cortisol.jpg"
 ---
 
 Серце калатає, долоні вологі, думки скачуть. Стрес. Тривога. Паніка. І ви нічого не можете з цим зробити... чи можете?

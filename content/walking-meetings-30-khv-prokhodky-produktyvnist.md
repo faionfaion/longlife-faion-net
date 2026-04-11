@@ -19,7 +19,7 @@ source_names:
   - "PubMed — Give your ideas some legs: walking and creative thinking"
   - "Harvard Business Review — Benefits of Walking Meetings"
   - "APA — Walking and divergent thinking"
-image: ""
+image: "/images/walking-meetings-30-khv-prokhodky-produktyvnist.jpg"
 ---
 
 Стів Джобс проводив найважливіші зустрічі під час прогулянок Пало-Альто. Марк Цукерберг запрошує кандидатів на роботу на «walking interviews». Арістотель вчив своїх учнів, ходячи колонадами Лікею — його школу навіть називали «перипатетиками» (від грецького «peripatein» — ходити).

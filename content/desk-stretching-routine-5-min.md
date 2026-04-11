@@ -19,7 +19,7 @@ source_names:
   - "PubMed — Workplace stretching interventions and musculoskeletal pain"
   - "WHO — Physical Activity Fact Sheet"
   - "PubMed — Sedentary behavior and neck/shoulder pain in office workers"
-image: ""
+image: "/images/desk-stretching-routine-5-min.jpg"
 ---
 
 Якщо ви працюєте за комп'ютером, ваше тіло знає цю позу: голова вперед, плечі піднятий, поперек округлений, зап'ястки напружені. 8 годин на день, 5 днів на тиждень, рік за роком. Результат — біль у шиї, спині, головні болі та загальна скутість.

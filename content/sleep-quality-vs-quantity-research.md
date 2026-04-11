@@ -21,7 +21,7 @@ source_names:
   - "The Lancet Public Health — Sleep duration and health outcomes"
   - "Nature Neuroscience — Deep sleep and cognitive decline"
   - "PubMed — Sleep regularity index and all-cause mortality"
-image: ""
+image: "/images/sleep-quality-vs-quantity-research.jpg"
 ---
 
 "Спіть 8 годин!" — найпопулярніша порада про здоров'я. Але все більше досліджень показують: 8 годин поганого сну можуть бути гіршими за 6,5 годин якісного. Розбираємо, що наука знає про сон у 2026 році.

@@ -19,7 +19,7 @@ source_names:
   - "PubMed — Zone 2 Training and Mitochondrial Function"
   - "ACSM — Physical Activity Guidelines"
   - "JACC — Cardiorespiratory Fitness and Mortality"
-image: ""
+image: "/images/zone-2-cardio-beginners-guide.jpg"
 ---
 
 Доктор Пітер Аттіа, Ендрю Хуберман та Інаго Сан-Мілан зробили Zone 2 кардіо одним з найпопулярніших термінів у фітнесі. Але що це насправді, чому це працює і як правильно тренуватися? Розбираємось від А до Я.

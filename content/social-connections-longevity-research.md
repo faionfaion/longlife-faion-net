@@ -21,7 +21,7 @@ source_names:
   - "Harvard Study of Adult Development"
   - "PMC — Loneliness and Health Outcomes"
   - "PubMed — Blue Zones Social Factors"
-image: ""
+image: "/images/social-connections-longevity-research.jpg"
 ---
 
 Якщо вас запитають, що найбільше впливає на тривалість життя, ви, мабуть, скажете: харчування, фізична активність, відмова від шкідливих звичок. І будете праві — але лише частково.

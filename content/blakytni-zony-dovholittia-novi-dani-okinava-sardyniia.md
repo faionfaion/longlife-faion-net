@@ -19,7 +19,7 @@ source_names:
   - "Blue Zones Project"
   - "PubMed — Dietary patterns and longevity in Okinawa"
   - "Nature Medicine — Centenarian biology"
-image: ""
+image: "/images/blakytni-zony-dovholittia-novi-dani-okinava-sardyniia.jpg"
 ---
 
 Термін «блакитні зони» (Blue Zones) вже давно перестав бути нішевою концепцією. Це п'ять регіонів світу, де люди живуть значно довше за середньостатистичну тривалість: Окінава (Японія), Сардинія (Італія), Нікоя (Коста-Рика), Ікарія (Греція) та Лома-Лінда (Каліфорнія, США). Останні дослідження 2025-2026 років додали нові деталі до вже відомої картини — і деякі з них змінюють наше розуміння довголіття.

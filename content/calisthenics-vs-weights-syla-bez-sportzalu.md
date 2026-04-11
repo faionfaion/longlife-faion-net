@@ -19,7 +19,7 @@ source_names:
   - "PubMed — Calisthenics Effects on Body Composition"
   - "PMC — Bodyweight Training Systematic Review"
   - "Journal of Strength and Conditioning Research"
-image: ""
+image: "/images/calisthenics-vs-weights-syla-bez-sportzalu.jpg"
 ---
 
 Тренажерний зал закрили. Абонемент подорожчав. Або просто не хочеться витрачати годину на дорогу. Знайома ситуація?

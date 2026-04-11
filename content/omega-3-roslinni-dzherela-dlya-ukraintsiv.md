@@ -19,7 +19,7 @@ source_names:
   - "PubMed — Plant-based Omega-3 Conversion Rates"
   - "PMC — Algal DHA Supplementation Review"
   - "Harvard T.H. Chan School of Public Health"
-image: ""
+image: "/images/omega-3-roslinni-dzherela-dlya-ukraintsiv.jpg"
 ---
 
 Коли мова заходить про омега-3, більшість одразу думають про лосось, скумбрію чи капсули з риб'ячим жиром. Але що робити, якщо ви вегетаріанець, не любите рибу, маєте алергію або просто шукаєте доступніші варіанти?

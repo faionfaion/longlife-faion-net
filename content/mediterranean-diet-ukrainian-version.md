@@ -19,7 +19,7 @@ source_names:
   - "PubMed — Mediterranean Diet and All-Cause Mortality"
   - "WHO — Healthy Diet Fact Sheet"
   - "The Lancet — Health effects of dietary risks in 195 countries"
-image: ""
+image: "/images/mediterranean-diet-ukrainian-version.jpg"
 ---
 
 Середземноморська дієта вже понад 10 років визнається найздоровішим способом харчування за версією US News & World Report. Десятки досліджень підтверджують: вона знижує ризик серцево-судинних захворювань на 30%, діабету 2 типу на 23%, а деменції — на 40%. Але чи можна її дотримуватися в Україні, де немає свіжих сардин та дешевої олії першого віджиму?

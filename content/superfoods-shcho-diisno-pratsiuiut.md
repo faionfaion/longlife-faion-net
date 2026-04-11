@@ -19,7 +19,7 @@ source_names:
   - "Harvard T.H. Chan School of Public Health"
   - "PubMed — Systematic review of functional foods"
   - "Examine.com — Evidence-based supplement information"
-image: ""
+image: "/images/superfoods-shcho-diisno-pratsiuiut.jpg"
 ---
 
 «Суперфуд» — це маркетинговий термін, а не наукова категорія. Жоден продукт не здатний сам по собі запобігти хворобам чи подовжити життя. Але деякі продукти дійсно мають надзвичайно високу концентрацію корисних речовин, підтверджену дослідженнями. А інші — просто добре розрекламовані.

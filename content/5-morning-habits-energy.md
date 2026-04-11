@@ -19,7 +19,7 @@ source_names:
   - "PubMed — Morning light exposure and circadian rhythm regulation"
   - "Cell Metabolism — Time-restricted eating and metabolic health"
   - "PubMed — Cold exposure and norepinephrine release"
-image: ""
+image: "/images/5-morning-habits-energy.jpg"
 ---
 
 Кожен хоче мати більше енергії вранці, але більшість порад у інтернеті — це або загальні фрази ("пийте більше води!"), або непідтверджені ритуали. Ось п'ять звичок, які мають наукове обґрунтування і дійсно працюють.

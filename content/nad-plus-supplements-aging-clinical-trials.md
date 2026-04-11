@@ -21,7 +21,7 @@ source_names:
   - "Cell Metabolism"
   - "PubMed — NMN Clinical Trials Meta-analysis"
   - "Science"
-image: ""
+image: "/images/nad-plus-supplements-aging-clinical-trials.jpg"
 ---
 
 Якщо ви стежите за темою довголіття, то напевно чули про NAD+ — молекулу, яку називають "паливом молодості". За останні два роки з'явились десятки клінічних досліджень, які нарешті дають відповідь на головне питання: чи працюють NAD+ добавки у людей?

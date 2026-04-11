@@ -19,7 +19,7 @@ source_names:
   - "PM&R Journal — Lu et al., 2015"
   - "Journal of Rheumatology — Alkatan et al., 2016"
   - "BioMed Research International — Irandoust & Taheri, 2015"
-image: ""
+image: "/images/swimming-low-impact-exercise-joint-health.jpg"
 ---
 
 Є вид фізичної активності, при якому ваші суглоби отримують повноцінне тренування, але при цьому не зазнають жодного удару. Де ваше тіло стає легшим на 90%, але м'язи працюють інтенсивніше, ніж на суші. Де серце тренується як під час бігу, а ризик травми мінімальний. Це плавання — і наука пояснює, чому воно особливе.

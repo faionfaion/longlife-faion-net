@@ -21,7 +21,7 @@ source_names:
   - "PMC"
   - "Endocrine Society"
   - "Journal of Clinical Endocrinology & Metabolism"
-image: ""
+image: "/images/vitamin-d-deficiency-ukraine.jpg"
 ---
 
 Є вітамін, дефіцит якого має більшість українців, але мало хто про це знає. Вітамін D — насправді прогормон, який впливає на імунітет, кістки, настрій, серце і навіть ризик раку. І якщо ви живете в Україні, шанси, що вам його не вистачає, дуже високі.

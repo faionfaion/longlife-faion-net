@@ -19,7 +19,7 @@ source_names:
   - "JAMA Internal Medicine — Laukkanen et al., 2015"
   - "BMC Medicine — Laukkanen et al., 2018"
   - "Mayo Clinic Proceedings — Laukkanen & Laukkanen, 2018"
-image: ""
+image: "/images/sauna-cardiovascular-health-finnish-study.jpg"
 ---
 
 Уявіть собі: ви просто сидите у теплому приміщенні, розслабляєтесь — і цим подовжуєте собі життя. Звучить як мрія? А от фінські вчені довели, що це реальність. Їхнє масштабне дослідження тривало понад 20 років і дало вражаючі результати щодо впливу сауни на серцево-судинну систему.

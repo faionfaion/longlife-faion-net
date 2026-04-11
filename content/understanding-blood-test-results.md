@@ -19,7 +19,7 @@ source_names:
   - "NCBI Bookshelf — Clinical Methods: The History, Physical, and Laboratory Examinations"
   - "American Family Physician — Diagnostic Approach to Common Lab Abnormalities, 2017"
   - "Lab Tests Online — AACC"
-image: ""
+image: "/images/understanding-blood-test-results.jpg"
 ---
 
 Лікар надіслав результати аналізу крові, а там — десятки цифр, абревіатур і незрозумілих одиниць виміру. Що таке MCH? Чому креатинін у нормі, а лікар все одно стурбований? І чи варто панікувати через один показник, що виходить за межі?
