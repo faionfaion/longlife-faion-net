@@ -21,7 +21,7 @@ source_names:
   - "PMC — Gratitude Interventions Meta-analysis"
   - "UC Davis — Robert Emmons Gratitude Research"
   - "PubMed — Gratitude and Sleep Quality"
-image: ""
+image: "/images/gratitude-journaling-stress-response.jpg"
 ---
 
 Уявіть: одна звичка, яка займає 3 хвилини на день, знижує рівень стресу, покращує сон, зміцнює імунітет і навіть змінює структуру мозку. Звучить як реклама чергового біохаку?

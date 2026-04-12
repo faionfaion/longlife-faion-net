@@ -19,7 +19,7 @@ source_names:
   - "PubMed — Foam Rolling Meta-analysis on ROM and Performance"
   - "PMC — Self-Myofascial Release Systematic Review"
   - "NSCA Strength and Conditioning Journal"
-image: ""
+image: "/images/foam-rolling-guide-self-myofascial-release.jpg"
 ---
 
 Фоам-ролер — це, мабуть, найкращі 200 гривень, які ви можете витратити на своє здоров'я. Цей простий циліндр із піни допомагає зняти м'язову напругу, покращити рухливість суглобів та прискорити відновлення після тренувань.

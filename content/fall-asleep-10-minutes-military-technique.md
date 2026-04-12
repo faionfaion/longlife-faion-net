@@ -21,7 +21,7 @@ source_names:
   - "Sleep Foundation"
   - "PMC"
   - "Sleep (Oxford Academic)"
-image: ""
+image: "/images/fall-asleep-10-minutes-military-technique.jpg"
 ---
 
 23:47. Ви лежите в ліжку. Очі закриті. Тіло втомлене. Але мозок вирішив саме зараз згадати ту незручну розмову 2019 року, порахувати бюджет на наступний місяць і подумати, чи вимкнули ви праску. Знайомо?

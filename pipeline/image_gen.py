@@ -17,10 +17,19 @@ from pipeline.config import IMAGES_DIR
 
 logger = logging.getLogger(__name__)
 
-OPENAI_API_KEY = os.environ.get(
-    "OPENAI_API_KEY",
-    "",
-)
+def _load_openai_key() -> str:
+    """Load OpenAI API key from env or ~/workspace/.env."""
+    key = os.environ.get("OPENAI_API_KEY", "")
+    if key:
+        return key
+    env_file = Path.home() / "workspace" / ".env"
+    if env_file.exists():
+        for line in env_file.read_text().splitlines():
+            if line.startswith("OPENAI_API_KEY="):
+                return line.split("=", 1)[1].strip()
+    return ""
+
+OPENAI_API_KEY = _load_openai_key()
 
 _PARTIALS_DIR = Path(__file__).resolve().parent / "prompts" / "templates" / "_partials"
 _STYLE_FILE = _PARTIALS_DIR / "image_style.txt"

@@ -1,0 +1,87 @@
+{
+  "articles": [
+    {
+      "topic": "GLP-1 агоністи для серцевих пацієнтів: кому найбільше допомагають ін'єкції для схуднення",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Нещодавнє рішення NHS (Великобританія) пропонувати GLP-1 пацієнтам після інфаркту. Розбираємо: механізм дії семаглутиду на серцево-судинну систему, результати SELECT trial, хто отримує найбільшу користь, а кому препарат не показаний. Контекст для українського читача: доступність в Україні, ціна, коли варто обговорити з кардіологом.",
+      "sources_hint": "SELECT trial (Semaglutide Effects on Cardiovascular Outcomes in People with Overweight or Obesity), NEJM 2023-2024; STEP-HFpEF trial; BBC Health April 2026 coverage of NHS GLP-1 for post-MI patients; EMA/FDA label updates for semaglutide cardiovascular indication",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "ШІ як «другий медичний погляд»: можливості, межі та ризики самодіагностики через ChatGPT",
+      "type": "research",
+      "category": "research",
+      "angle": "Випадок жінки, чий рідкісний діагноз ChatGPT визначив після років помилкових діагнозів (BBC, квітень 2026). Але це виняток чи тенденція? Розбираємо дослідження точності LLM у діагностиці (JAMA Internal Medicine 2025-2026), чому ШІ добре знаходить рідкісні патерни, але небезпечний для самолікування. Практична порада: як коректно використовувати ШІ для підготовки до візиту лікаря, а не замість нього.",
+      "sources_hint": "JAMA Internal Medicine studies on LLM diagnostic accuracy 2025-2026; Nature Medicine AI diagnostics reviews; BMJ editorial on AI-assisted diagnosis; BBC Health April 2026 ChatGPT rare condition story",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Весняна алергія 2026: доказові методи полегшення без сонливості та побічних ефектів",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Квітень — пік пилкової алергії в Україні (береза, вільха). Сезонний та практичний контент: антигістаміни 2-го vs 3-го покоління, назальні кортикостероїди (чому вони ефективніші за таблетки), інтраназальний кромоглікат натрію, промивання носа (сольовий розчин — доказова ефективність). Нефармакологічні методи: HEPA-фільтри, час прогулянок, перехресна алергія з продуктами. Коли потрібна АСІТ (алерген-специфічна імунотерапія).",
+      "sources_hint": "ARIA guidelines 2024 update — allergic rhinitis management; Bousquet J et al., Allergy 2020 — ARIA revision; Head K et al., Cochrane Database 2018 — saline irrigation for allergic rhinitis; Dykewicz MS et al., J Allergy Clin Immunol 2020 — rhinitis management",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Шинрін-йоку по-українськи: як 2 години в лісі перезавантажують імунітет і психіку",
+      "type": "lifehack",
+      "category": "mental-health",
+      "angle": "Недільна стаття-рефлексія. Японська практика лісових купань має солідну доказову базу: зниження кортизолу, активація NK-клітин, покращення настрою. Адаптація для України: найкращі типи лісів (хвойні vs листяні), сезонні особливості (квітень — ідеальний час), конкретний протокол 2-годинної лісової прогулянки. Відрізняється від «walking meetings» фокусом на сенсорне занурення, а не продуктивність.",
+      "sources_hint": "Li Q. et al., Environmental Health and Preventive Medicine — NK cell activity and forest bathing; Antonelli M. et al., Int J Environ Res Public Health 2021 — systematic review of shinrin-yoku; Park BJ et al., Environ Health Prev Med 2010 — cortisol and forest environments",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "4 техніки когнітивно-поведінкової терапії для тривожності: доказова самодопомога без терапевта",
+      "type": "guide",
+      "category": "mental-health",
+      "angle": "Тривожність — одна з найпоширеніших проблем психічного здоров'я в Україні, особливо в умовах невизначеності. КПТ — золотий стандарт лікування тривожних розладів за рекомендаціями NICE та WHO. Стаття подає 4 конкретні техніки самодопомоги з доказовою базою: когнітивне переструктурування, поведінковий експеримент, декатастрофізація, прогресивна експозиція. Чітко відрізняється від дихальних вправ (фізіологічна регуляція) та щоденника вдячності (позитивна психологія) — це когнітивні інструменти для роботи з думками. Дисклеймер: самодопомога не замінює психотерапію при клінічних розладах.",
+      "sources_hint": "NICE guidelines CG113 — generalised anxiety disorder; Hofmann SG et al., Cognitive Therapy and Research 2012 — CBT meta-review; Cuijpers P et al., World Psychiatry 2019 — self-help CBT meta-analysis; WHO mhGAP Intervention Guide 2.0; Andersson G et al., Cochrane Database 2016 — self-guided CBT",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Магній: 7 форм добавок — яку обрати для сну, стресу, м'язів чи серця",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Магній — один з найпоширеніших дефіцитів в Україні, але аптеки пропонують десятки варіантів: цитрат, гліцинат, треонат, таурат, малат, оксид, сульфат. Кожна форма має різну біодоступність і «цільовий орган». Практичний гід: яку форму для якої мети, оптимальне дозування, взаємодія з іншими нутрієнтами (кальцій, вітамін D, цинк), ознаки дефіциту. Не перетинається з вітаміном D — інший мінерал, інші механізми.",
+      "sources_hint": "Schwalfenberg GK & Genuis SJ, Scientifica 2017 — magnesium forms bioavailability; Boyle NB et al., Nutrients 2017 — magnesium and stress; Abbasi B et al., J Res Med Sci 2012 — magnesium and sleep; DiNicolantonio JJ et al., Open Heart 2018 — magnesium deficiency review",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Креатин для мозку: чому найдешевша спортивна добавка може бути найкращим ноотропом",
+      "type": "guide",
+      "category": "biohacking",
+      "angle": "Креатин відомий у спорті, але нові дослідження показують когнітивні переваги: покращення робочої пам'яті при недосипанні, потенціал при депресії, нейропротекція. Особливо ефективний для вегетаріанців (нижчий базовий рівень). Дозування для когнітивних цілей, безпека довгострокового прийому, розвінчання міфу про шкоду ниркам. Відрізняється від статті про білок — це конкретна молекула з іншим механізмом.",
+      "sources_hint": "Avgerinos KI et al., Exp Gerontol 2018 — systematic review creatine and cognition; Forbes SC et al., Nutrients 2022 — creatine cognitive performance; Roschel H et al., Amino Acids 2021 — creatine beyond sports; Dolan E et al., Sports Med 2019 — creatine supplementation safety",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Ексцентричні тренування: чому «негативна фаза» дає максимальний результат за мінімальний час",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Ексцентричне навантаження (повільне опускання ваги) стимулює м'язовий ріст ефективніше за концентричне при менших метаболічних витратах. Нові дослідження Nosaka K. (2022-2024) показують: навіть 3 секунди ексцентричного скорочення на день дають вимірюваний приріст сили. Практична програма: 4 ексцентричні вправи без обладнання для всього тіла. Відрізняється від калістеніки — специфічний метод тренування, а не категорія вправ.",
+      "sources_hint": "Nosaka K et al., Scand J Med Sci Sports 2022 — minimal dose eccentric exercise; Hody S et al., Front Physiol 2019 — eccentric exercise mechanisms; Roig M et al., Br J Sports Med 2009 — eccentric vs concentric for strength; Hessel AL et al., J Appl Physiol 2017",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Хронотипи: чому «сови» і «жайворонки» — це генетика, і як підлаштувати розпорядок дня під свій біоритм",
+      "type": "research",
+      "category": "sleep",
+      "angle": "Недільна стаття для рефлексії про власний розпорядок. Хронотип — не лінь і не звичка, а генетично зумовлений патерн циркадних ритмів (гени PER3, CRY1). Дослідження 2024-2025 показують: примусова зміна хронотипу (наприклад, «сова» на ранній роботі) підвищує ризик метаболічних порушень і депресії. Практичний тест для визначення хронотипу (MEQ), стратегії адаптації робочого графіка, оптимальний час для тренувань та когнітивної роботи залежно від типу. Відрізняється від статей про гігієну сну — це не «як краще спати», а «коли саме ВАМ найкраще спати і працювати».",
+      "sources_hint": "Jones SE et al., Nature Communications 2019 — genome-wide association chronotype; Kalmbach DA et al., Sleep 2017 — chronotype and mental health; Facer-Childs ER et al., Current Biology 2019 — chronotype and peak performance; Horne JA & Östberg O, MEQ validation; Vetter C et al., Curr Sleep Med Rep 2018 — chronotype and cardiometabolic health",
+      "evidence_level": "strong",
+      "priority": 3
+    }
+  ],
+  "date": "2026-04-12",
+  "created_at": "2026-04-12T07:00:02.922257+00:00"
+}

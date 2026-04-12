@@ -19,7 +19,7 @@ source_names:
   - "Sleep Medicine Reviews — Hale et al., 2020"
   - "Proceedings of the National Academy of Sciences — Chang et al., 2015"
   - "Journal of Physiological Anthropology — Haghayegh et al., 2019"
-image: ""
+image: "/images/evening-routine-better-sleep-protocol.jpg"
 ---
 
 Ви лягаєте в ліжко, закриваєте очі — і починається. Думки про завтрашній день, невідправлений лист, дзвінок, який забули зробити. Тіло втомлене, але мозок відмовляється вимикатись. Знайомо?

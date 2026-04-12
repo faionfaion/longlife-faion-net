@@ -1,0 +1,18 @@
+{
+  "glp-1-semaglutide-heart-disease-select-trial": {
+    "date": "2026-04-12",
+    "title": "GLP-1 агоністи для серцевих пацієнтів: кому найбільше допомагає семаглутид",
+    "type": "research",
+    "tags": [
+      "серцево-судинні захворювання",
+      "семаглутид",
+      "GLP-1 агоністи",
+      "дослідження",
+      "кардіологія",
+      "профілактика",
+      "інфаркт",
+      "ожиріння"
+    ],
+    "summary": "NHS England announced in April 2026 that ~1.2 million people with established CVD and BMI ≥27 will be offered semaglutide (Wegovy) to reduce cardiovascular risk. This is backed by the SELECT trial (n=17,604, NEJM 2023) showing 20% MACE reduction, with ~67% of benefit coming from mechanisms beyond weight loss (anti-inflammatory, plaque stabilization, kidney protection). Heart failure patients benefited even more (28% MACE reduction per Lancet 2024 subanalysis). In Ukraine, Ozempic is available (~7,800 UAH/pen) for diabetes only; Wegovy is not registered. Evidence level: strong (large multinational RCT, confirmed by FDA/EMA/NICE)."
+  }
+}
