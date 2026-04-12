@@ -1062,3 +1062,83 @@ TimeoutError: agent_query timed out after 300s
 2026-04-12 08:35:00 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/cbt-self-help-anxiety-4-techniques.jpg (197 KB)
 08:35:00 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/cbt-self-help-anxiety-4-techniques.md
 2026-04-12 08:35:00 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/cbt-self-help-anxiety-4-techniques.md
+08:35:00 [pipeline] INFO: Article ready: cbt-self-help-anxiety-4-techniques (4 техніки когнітивно-поведінкової терапії для трив)
+2026-04-12 08:35:00 [pipeline] INFO: Article ready: cbt-self-help-anxiety-4-techniques (4 техніки когнітивно-поведінкової терапії для трив)
+08:35:00 [pipeline] INFO: === Article 6/9 ===
+2026-04-12 08:35:00 [pipeline] INFO: === Article 6/9 ===
+08:35:00 [pipeline] INFO: --- Article: [nutrition] Магній: 7 форм добавок — яку обрати для сну, стресу, м'язів  ---
+2026-04-12 08:35:00 [pipeline] INFO: --- Article: [nutrition] Магній: 7 форм добавок — яку обрати для сну, стресу, м'язів  ---
+08:35:00 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 08:35:00 [asyncio] DEBUG: Using selector: EpollSelector
+08:35:00 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 08:35:00 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+08:38:16 [pipeline.stages.s2_research] INFO: Research complete: 17229 chars
+2026-04-12 08:38:16 [pipeline.stages.s2_research] INFO: Research complete: 17229 chars
+08:38:16 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 08:38:16 [asyncio] DEBUG: Using selector: EpollSelector
+08:38:16 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 08:38:16 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+08:39:42 [pipeline.stages.s3_generate] INFO: Generated: 'Магній: 7 форм добавок — яку обрати для сну, стресу, м'язів чи серця' (slug=magnii-7-form-dobavok-son-stres-miazy-sertse, 674 words, 8 sources)
+2026-04-12 08:39:42 [pipeline.stages.s3_generate] INFO: Generated: 'Магній: 7 форм добавок — яку обрати для сну, стресу, м'язів чи серця' (slug=magnii-7-form-dobavok-son-stres-miazy-sertse, 674 words, 8 sources)
+08:39:42 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 08:39:42 [asyncio] DEBUG: Using selector: EpollSelector
+08:39:42 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 08:39:42 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+08:41:08 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+2026-04-12 08:41:08 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+08:41:08 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом якісна, збалансована і добре структурована, але є кілька питань, які потребують виправлення перед публікацією:
+
+1. **КРИТИЧНО — неправильна атрибуція дослідження (гліцинат).** Досліджен
+2026-04-12 08:41:08 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом якісна, збалансована і добре структурована, але є кілька питань, які потребують виправлення перед публікацією:
+
+1. **КРИТИЧНО — неправильна атрибуція дослідження (гліцинат).** Досліджен
+08:41:08 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 08:41:08 [asyncio] DEBUG: Using selector: EpollSelector
+08:41:08 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 08:41:08 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+08:44:04 [pipeline.stages.s5_revise] INFO: Revised article: 845 words
+2026-04-12 08:44:04 [pipeline.stages.s5_revise] INFO: Revised article: 845 words
+08:44:04 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-12 08:44:04 [pipeline] INFO: === Review cycle 1/3 complete ===
+08:44:04 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 08:44:04 [asyncio] DEBUG: Using selector: EpollSelector
+08:44:04 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 08:44:04 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+08:45:31 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-12 08:45:31 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+08:45:31 [pipeline.stages.s4_review] INFO: Feedback: Загалом якісна, добре структурована стаття з коректними посиланнями та збалансованим тоном. Є кілька зауважень для фінального доопрацювання:
+
+1. **500 мг у дослідженні Abbasi vs UL 350 мг.** Стаття зг
+2026-04-12 08:45:31 [pipeline.stages.s4_review] INFO: Feedback: Загалом якісна, добре структурована стаття з коректними посиланнями та збалансованим тоном. Є кілька зауважень для фінального доопрацювання:
+
+1. **500 мг у дослідженні Abbasi vs UL 350 мг.** Стаття зг
+08:45:31 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-12 08:45:31 [pipeline] INFO: Article approved after 1 revision(s)
+08:45:31 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 08:45:31 [asyncio] DEBUG: Using selector: EpollSelector
+08:45:31 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 08:45:31 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+08:45:58 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands at a bright kitchen island, confidently sorting  | pose=Standing behind the kitchen island, leaning slightly forward with engaged energy. Right hand raised holding a supplement bottle at eye level, left hand open-palmed gesturing toward the infographic poster on the wall. Weight shifted to her left leg, body angled three-quarters toward the viewer — a classic presenting pose with dynamic teaching energy. | expression=One eyebrow slightly raised, engaged teaching expression with a warm confident smile — the look of someone revealing an important secret. Bright green eyes focused on the viewer. | props=Seven differently colored supplement bottles arranged in a neat row on the marble countertop, each with a small label (цитрат, гліцинат, треонат, оксид, таурат, малат, L-треонат), Wall-mounted infographic poster showing a human body silhouette with 300+ green-glowing enzyme connection points, Fresh magnesium-rich foods on a wooden cutting board: spinach leaves, avocado halves, dark chocolate squares, pumpkin seeds, Fitness smartwatch on left wrist with black band and green accents
+2026-04-12 08:45:58 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands at a bright kitchen island, confidently sorting  | pose=Standing behind the kitchen island, leaning slightly forward with engaged energy. Right hand raised holding a supplement bottle at eye level, left hand open-palmed gesturing toward the infographic poster on the wall. Weight shifted to her left leg, body angled three-quarters toward the viewer — a classic presenting pose with dynamic teaching energy. | expression=One eyebrow slightly raised, engaged teaching expression with a warm confident smile — the look of someone revealing an important secret. Bright green eyes focused on the viewer. | props=Seven differently colored supplement bottles arranged in a neat row on the marble countertop, each with a small label (цитрат, гліцинат, треонат, оксид, таурат, малат, L-треонат), Wall-mounted infographic poster showing a human body silhouette with 300+ green-glowing enzyme connection points, Fresh magnesium-rich foods on a wooden cutting board: spinach leaves, avocado halves, dark chocolate squares, pumpkin seeds, Fitness smartwatch on left wrist with black band and green accents
+08:45:58 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 08:45:58 [asyncio] DEBUG: Using selector: EpollSelector
+08:45:58 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 08:45:58 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+08:46:09 [pipeline.stages.s6_generate_tg] INFO: TG caption: 681 chars
+2026-04-12 08:46:09 [pipeline.stages.s6_generate_tg] INFO: TG caption: 681 chars
+08:46:09 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-12 08:46:09 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+08:47:17 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-12 08:47:17 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+08:47:18 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-12 08:47:18 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+08:47:18 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 100450
+2026-04-12 08:47:18 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 100450
+08:47:18 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 100450 (unknown)
+2026-04-12 08:47:18 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 100450 (unknown)
+08:47:18 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 100503 2904107
+2026-04-12 08:47:18 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 100503 2904107
+08:47:18 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/magnii-7-form-dobavok-son-stres-miazy-sertse.jpg (230 KB)
+2026-04-12 08:47:18 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/magnii-7-form-dobavok-son-stres-miazy-sertse.jpg (230 KB)
+08:47:18 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/magnii-7-form-dobavok-son-stres-miazy-sertse.md
+2026-04-12 08:47:18 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/magnii-7-form-dobavok-son-stres-miazy-sertse.md
