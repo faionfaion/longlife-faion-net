@@ -794,3 +794,183 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-12 07:27:50 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/glp-1-semaglutide-heart-disease-select-trial.jpg (196 KB)
 07:27:50 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/glp-1-semaglutide-heart-disease-select-trial.md
 2026-04-12 07:27:50 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/glp-1-semaglutide-heart-disease-select-trial.md
+07:27:51 [pipeline] INFO: Article ready: glp-1-semaglutide-heart-disease-select-trial (GLP-1 агоністи для серцевих пацієнтів: кому найбіл)
+2026-04-12 07:27:51 [pipeline] INFO: Article ready: glp-1-semaglutide-heart-disease-select-trial (GLP-1 агоністи для серцевих пацієнтів: кому найбіл)
+07:27:51 [pipeline] INFO: === Article 2/9 ===
+2026-04-12 07:27:51 [pipeline] INFO: === Article 2/9 ===
+07:27:51 [pipeline] INFO: --- Article: [research] ШІ як «другий медичний погляд»: можливості, межі та ризики с ---
+2026-04-12 07:27:51 [pipeline] INFO: --- Article: [research] ШІ як «другий медичний погляд»: можливості, межі та ризики с ---
+07:27:51 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 07:27:51 [asyncio] DEBUG: Using selector: EpollSelector
+07:27:51 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 07:27:51 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+07:32:51 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+2026-04-12 07:32:51 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+07:32:56 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 5.4s
+2026-04-12 07:32:56 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 5.4s
+07:33:01 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 07:33:01 [asyncio] DEBUG: Using selector: EpollSelector
+07:33:01 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 07:33:01 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+07:38:01 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+2026-04-12 07:38:01 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+07:38:06 [pipeline.sdk] WARNING: agent_query retry 2/2: agent_query timed out after 300s — 10.4s
+2026-04-12 07:38:06 [pipeline.sdk] WARNING: agent_query retry 2/2: agent_query timed out after 300s — 10.4s
+07:38:17 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 07:38:17 [asyncio] DEBUG: Using selector: EpollSelector
+07:38:17 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 07:38:17 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+07:43:17 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+2026-04-12 07:43:17 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+07:43:22 [pipeline.sdk] ERROR: agent_query failed after 3 attempts: agent_query timed out after 300s
+2026-04-12 07:43:22 [pipeline.sdk] ERROR: agent_query failed after 3 attempts: agent_query timed out after 300s
+07:43:22 [pipeline] ERROR: Failed to generate article: ШІ як «другий медичний погляд»: можливості, межі та ризики с
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/modes/generate.py", line 136, in _generate_one_article
+    s2_research.run(ctx)
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/stages/s2_research.py", line 21, in run
+    ctx.research_text = agent_query(
+                        ^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/sdk.py", line 222, in agent_query
+    raise last_error  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^
+TimeoutError: agent_query timed out after 300s
+2026-04-12 07:43:22 [pipeline] ERROR: Failed to generate article: ШІ як «другий медичний погляд»: можливості, межі та ризики с
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/modes/generate.py", line 136, in _generate_one_article
+    s2_research.run(ctx)
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/stages/s2_research.py", line 21, in run
+    ctx.research_text = agent_query(
+                        ^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/sdk.py", line 222, in agent_query
+    raise last_error  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^
+TimeoutError: agent_query timed out after 300s
+07:43:22 [pipeline] INFO: === Article 3/9 ===
+2026-04-12 07:43:22 [pipeline] INFO: === Article 3/9 ===
+07:43:22 [pipeline] INFO: --- Article: [guide] Весняна алергія 2026: доказові методи полегшення без сонливо ---
+2026-04-12 07:43:22 [pipeline] INFO: --- Article: [guide] Весняна алергія 2026: доказові методи полегшення без сонливо ---
+07:43:22 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 07:43:22 [asyncio] DEBUG: Using selector: EpollSelector
+07:43:22 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 07:43:22 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+07:48:22 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+2026-04-12 07:48:22 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+07:48:27 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 6.7s
+2026-04-12 07:48:27 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 6.7s
+07:48:34 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 07:48:34 [asyncio] DEBUG: Using selector: EpollSelector
+07:48:34 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 07:48:34 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+07:53:34 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+2026-04-12 07:53:34 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+07:53:39 [pipeline.sdk] WARNING: agent_query retry 2/2: agent_query timed out after 300s — 14.1s
+2026-04-12 07:53:39 [pipeline.sdk] WARNING: agent_query retry 2/2: agent_query timed out after 300s — 14.1s
+07:53:53 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 07:53:53 [asyncio] DEBUG: Using selector: EpollSelector
+07:53:53 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 07:53:53 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+07:58:53 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+2026-04-12 07:58:53 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+07:58:59 [pipeline.sdk] ERROR: agent_query failed after 3 attempts: agent_query timed out after 300s
+2026-04-12 07:58:59 [pipeline.sdk] ERROR: agent_query failed after 3 attempts: agent_query timed out after 300s
+07:58:59 [pipeline] ERROR: Failed to generate article: Весняна алергія 2026: доказові методи полегшення без сонливо
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/modes/generate.py", line 136, in _generate_one_article
+    s2_research.run(ctx)
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/stages/s2_research.py", line 21, in run
+    ctx.research_text = agent_query(
+                        ^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/sdk.py", line 222, in agent_query
+    raise last_error  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^
+TimeoutError: agent_query timed out after 300s
+2026-04-12 07:58:59 [pipeline] ERROR: Failed to generate article: Весняна алергія 2026: доказові методи полегшення без сонливо
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/modes/generate.py", line 136, in _generate_one_article
+    s2_research.run(ctx)
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/stages/s2_research.py", line 21, in run
+    ctx.research_text = agent_query(
+                        ^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/sdk.py", line 222, in agent_query
+    raise last_error  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^
+TimeoutError: agent_query timed out after 300s
+07:58:59 [pipeline] INFO: === Article 4/9 ===
+2026-04-12 07:58:59 [pipeline] INFO: === Article 4/9 ===
+07:58:59 [pipeline] INFO: --- Article: [lifehack] Шинрін-йоку по-українськи: як 2 години в лісі перезавантажую ---
+2026-04-12 07:58:59 [pipeline] INFO: --- Article: [lifehack] Шинрін-йоку по-українськи: як 2 години в лісі перезавантажую ---
+07:58:59 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 07:58:59 [asyncio] DEBUG: Using selector: EpollSelector
+07:58:59 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 07:58:59 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+08:02:46 [pipeline.stages.s2_research] INFO: Research complete: 17128 chars
+2026-04-12 08:02:46 [pipeline.stages.s2_research] INFO: Research complete: 17128 chars
+08:02:46 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 08:02:46 [asyncio] DEBUG: Using selector: EpollSelector
+08:02:46 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 08:02:46 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+08:03:42 [pipeline.stages.s3_generate] INFO: Generated: 'Шинрін-йоку по-українськи: як 2 години в лісі перезавантажують імунітет і психіку' (slug=shinrin-yoku-lisovi-kupannia-imunitet-psykhika, 363 words, 8 sources)
+2026-04-12 08:03:42 [pipeline.stages.s3_generate] INFO: Generated: 'Шинрін-йоку по-українськи: як 2 години в лісі перезавантажують імунітет і психіку' (slug=shinrin-yoku-lisovi-kupannia-imunitet-psykhika, 363 words, 8 sources)
+08:03:42 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 08:03:42 [asyncio] DEBUG: Using selector: EpollSelector
+08:03:42 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 08:03:42 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+08:05:13 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-12 08:05:13 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+08:05:13 [pipeline.stages.s4_review] INFO: Feedback: Стаття науково обґрунтована, збалансована та добре структурована. Потребує кількох правок перед публікацією:
+
+1. **Назва журналу — перевірити:** В тексті мета-аналіз Антонеллі (PMID 31001682) названий
+2026-04-12 08:05:13 [pipeline.stages.s4_review] INFO: Feedback: Стаття науково обґрунтована, збалансована та добре структурована. Потребує кількох правок перед публікацією:
+
+1. **Назва журналу — перевірити:** В тексті мета-аналіз Антонеллі (PMID 31001682) названий
+08:05:13 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 08:05:13 [asyncio] DEBUG: Using selector: EpollSelector
+08:05:13 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 08:05:13 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+08:06:25 [pipeline.stages.s5_revise] INFO: Revised article: 392 words
+2026-04-12 08:06:25 [pipeline.stages.s5_revise] INFO: Revised article: 392 words
+08:06:25 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-12 08:06:25 [pipeline] INFO: === Review cycle 1/3 complete ===
+08:06:25 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 08:06:25 [asyncio] DEBUG: Using selector: EpollSelector
+08:06:25 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 08:06:25 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+08:08:03 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-12 08:08:03 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+08:08:03 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом якісна, добре структурована, з належними застереженнями. Є кілька важливих зауважень:
+
+1. **ЗАГОЛОВОК ВВОДИТЬ В ОМАНУ (потребує виправлення):** «як 2 години в лісі перезавантажують імун
+2026-04-12 08:08:03 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом якісна, добре структурована, з належними застереженнями. Є кілька важливих зауважень:
+
+1. **ЗАГОЛОВОК ВВОДИТЬ В ОМАНУ (потребує виправлення):** «як 2 години в лісі перезавантажують імун
+08:08:03 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-12 08:08:03 [pipeline] INFO: Article approved after 1 revision(s)
+08:08:03 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 08:08:03 [asyncio] DEBUG: Using selector: EpollSelector
+08:08:03 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 08:08:03 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+08:08:24 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands on a sun-dappled forest trail, eyes closed, arms | pose=Standing mid-trail with feet shoulder-width apart, arms slightly outstretched at hip level with palms facing upward in a receptive gesture, chest open, chin tilted slightly up — a mindful breathing pose capturing the moment of sensory immersion in the forest. | expression=Peaceful encouraging look — soft closed-eye smile with relaxed brow, lips gently curved upward, radiating calm contentment. A serene, meditative version of her signature confident warmth. | props=Black fitness smartwatch on left wrist (black band, green accents) displaying a timer reading '2:00:00', Smartphone in hip pocket of green shorts with airplane-mode icon glowing on screen, Small woven basket at her feet with wild herbs and pine cones, symbolizing nature connection
+2026-04-12 08:08:24 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands on a sun-dappled forest trail, eyes closed, arms | pose=Standing mid-trail with feet shoulder-width apart, arms slightly outstretched at hip level with palms facing upward in a receptive gesture, chest open, chin tilted slightly up — a mindful breathing pose capturing the moment of sensory immersion in the forest. | expression=Peaceful encouraging look — soft closed-eye smile with relaxed brow, lips gently curved upward, radiating calm contentment. A serene, meditative version of her signature confident warmth. | props=Black fitness smartwatch on left wrist (black band, green accents) displaying a timer reading '2:00:00', Smartphone in hip pocket of green shorts with airplane-mode icon glowing on screen, Small woven basket at her feet with wild herbs and pine cones, symbolizing nature connection
+08:08:24 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 08:08:24 [asyncio] DEBUG: Using selector: EpollSelector
+08:08:24 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 08:08:24 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+08:08:45 [pipeline.stages.s6_generate_tg] INFO: TG caption: 746 chars
+2026-04-12 08:08:45 [pipeline.stages.s6_generate_tg] INFO: TG caption: 746 chars
+08:08:45 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-12 08:08:45 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+08:09:57 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-12 08:09:57 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+08:09:58 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-12 08:09:58 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+08:09:58 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 82184
+2026-04-12 08:09:58 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 82184
+08:09:58 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 82184 (unknown)
+2026-04-12 08:09:58 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 82184 (unknown)
+08:09:58 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 82237 2990249
+2026-04-12 08:09:58 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 82237 2990249
+08:09:58 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/shinrin-yoku-lisovi-kupannia-imunitet-psykhika.jpg (200 KB)
+2026-04-12 08:09:58 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/shinrin-yoku-lisovi-kupannia-imunitet-psykhika.jpg (200 KB)
+08:09:58 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/shinrin-yoku-lisovi-kupannia-imunitet-psykhika.md
+2026-04-12 08:09:58 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/shinrin-yoku-lisovi-kupannia-imunitet-psykhika.md

@@ -14,5 +14,20 @@
       "ожиріння"
     ],
     "summary": "NHS England announced in April 2026 that ~1.2 million people with established CVD and BMI ≥27 will be offered semaglutide (Wegovy) to reduce cardiovascular risk. This is backed by the SELECT trial (n=17,604, NEJM 2023) showing 20% MACE reduction, with ~67% of benefit coming from mechanisms beyond weight loss (anti-inflammatory, plaque stabilization, kidney protection). Heart failure patients benefited even more (28% MACE reduction per Lancet 2024 subanalysis). In Ukraine, Ozempic is available (~7,800 UAH/pen) for diabetes only; Wegovy is not registered. Evidence level: strong (large multinational RCT, confirmed by FDA/EMA/NICE)."
+  },
+  "shinrin-yoku-lisovi-kupannia-imunitet-psykhika": {
+    "date": "2026-04-12",
+    "title": "Шинрін-йоку по-українськи: як 2 години в лісі перезавантажують імунітет і психіку",
+    "type": "lifehack",
+    "tags": [
+      "ментальне здоров'я",
+      "стрес",
+      "імунітет",
+      "шинрін-йоку",
+      "природа",
+      "кортизол",
+      "лісові купання"
+    ],
+    "summary": "Forest bathing (shinrin-yoku) has strong evidence for cortisol reduction (~16%, field study n=280, confirmed by meta-analysis of 22 studies) and psychological well-being (meta-analysis of 36 studies, n=3,554). NK cell immunity data is promising but based on small samples (n=12-13). The 120 min/week nature threshold comes from a large UK study (n=19,806). Practical protocol: 2-hour slow, phone-free forest walk with sensory immersion and deep breathing. Ukrainian adaptation highlights coniferous forests (higher phytoncide concentration) and April timing (spring terpene emission bursts). Key caveats: most research from East Asia, placebo effects possible, small immune study samples."
   }
 }
