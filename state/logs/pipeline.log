@@ -974,3 +974,91 @@ TimeoutError: agent_query timed out after 300s
 2026-04-12 08:09:58 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/shinrin-yoku-lisovi-kupannia-imunitet-psykhika.jpg (200 KB)
 08:09:58 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/shinrin-yoku-lisovi-kupannia-imunitet-psykhika.md
 2026-04-12 08:09:58 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/shinrin-yoku-lisovi-kupannia-imunitet-psykhika.md
+08:09:58 [pipeline] INFO: Article ready: shinrin-yoku-lisovi-kupannia-imunitet-psykhika (Шинрін-йоку по-українськи: як 2 години в лісі пере)
+2026-04-12 08:09:58 [pipeline] INFO: Article ready: shinrin-yoku-lisovi-kupannia-imunitet-psykhika (Шинрін-йоку по-українськи: як 2 години в лісі пере)
+08:09:58 [pipeline] INFO: === Article 5/9 ===
+2026-04-12 08:09:58 [pipeline] INFO: === Article 5/9 ===
+08:09:58 [pipeline] INFO: --- Article: [guide] 4 техніки когнітивно-поведінкової терапії для тривожності: д ---
+2026-04-12 08:09:58 [pipeline] INFO: --- Article: [guide] 4 техніки когнітивно-поведінкової терапії для тривожності: д ---
+08:09:58 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 08:09:58 [asyncio] DEBUG: Using selector: EpollSelector
+08:09:58 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 08:09:58 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+08:14:58 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+2026-04-12 08:14:58 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+08:15:04 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 6.9s
+2026-04-12 08:15:04 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 6.9s
+08:15:10 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 08:15:10 [asyncio] DEBUG: Using selector: EpollSelector
+08:15:10 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 08:15:10 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+08:18:59 [pipeline.stages.s2_research] INFO: Research complete: 16724 chars
+2026-04-12 08:18:59 [pipeline.stages.s2_research] INFO: Research complete: 16724 chars
+08:18:59 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 08:18:59 [asyncio] DEBUG: Using selector: EpollSelector
+08:18:59 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 08:18:59 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+08:21:11 [pipeline.stages.s3_generate] INFO: Generated: '4 техніки когнітивно-поведінкової терапії для тривожності: доказова самодопомога без терапевта' (slug=cbt-self-help-anxiety-4-techniques, 1106 words, 10 sources)
+2026-04-12 08:21:11 [pipeline.stages.s3_generate] INFO: Generated: '4 техніки когнітивно-поведінкової терапії для тривожності: доказова самодопомога без терапевта' (slug=cbt-self-help-anxiety-4-techniques, 1106 words, 10 sources)
+08:21:11 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 08:21:11 [asyncio] DEBUG: Using selector: EpollSelector
+08:21:11 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 08:21:11 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+08:22:40 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-12 08:22:40 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+08:22:40 [pipeline.stages.s4_review] INFO: Feedback: Загалом сильна, добре структурована стаття з коректною доказовою базою та відповідними дисклеймерами. Потрібні незначні правки перед публікацією:
+
+1. **Статистика 33,5% без inline-посилання.** Джерело
+2026-04-12 08:22:40 [pipeline.stages.s4_review] INFO: Feedback: Загалом сильна, добре структурована стаття з коректною доказовою базою та відповідними дисклеймерами. Потрібні незначні правки перед публікацією:
+
+1. **Статистика 33,5% без inline-посилання.** Джерело
+08:22:40 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 08:22:40 [asyncio] DEBUG: Using selector: EpollSelector
+08:22:40 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 08:22:40 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+08:31:49 [pipeline.stages.s5_revise] INFO: Revised article: 1130 words
+2026-04-12 08:31:49 [pipeline.stages.s5_revise] INFO: Revised article: 1130 words
+08:31:49 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-12 08:31:49 [pipeline] INFO: === Review cycle 1/3 complete ===
+08:31:49 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 08:31:49 [asyncio] DEBUG: Using selector: EpollSelector
+08:31:49 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 08:31:49 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+08:33:12 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-12 08:33:12 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+08:33:12 [pipeline.stages.s4_review] INFO: Feedback: Загалом сильна стаття з якісною доказовою базою, коректними застереженнями та практичними порадами. Кілька пунктів потребують доопрацювання перед публікацією:
+
+1. **Невідповідність PMC ID для українсь
+2026-04-12 08:33:12 [pipeline.stages.s4_review] INFO: Feedback: Загалом сильна стаття з якісною доказовою базою, коректними застереженнями та практичними порадами. Кілька пунктів потребують доопрацювання перед публікацією:
+
+1. **Невідповідність PMC ID для українсь
+08:33:12 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-12 08:33:12 [pipeline] INFO: Article approved after 1 revision(s)
+08:33:12 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 08:33:12 [asyncio] DEBUG: Using selector: EpollSelector
+08:33:12 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 08:33:12 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+08:33:42 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita sits cross-legged on an emerald green yoga mat in a sun | pose=Seated cross-legged on a yoga mat, torso slightly leaned forward over an open journal resting on her knee. Left hand holds the journal steady (black-band fitness smartwatch with green accents visible on left wrist), right hand writes with a pen. Right shoulder angled toward viewer, revealing her small green leaf tattoo. | expression=Encouraging look — slight head tilt to the right, soft warm eyes gazing toward the viewer as if inviting them to try the technique, gentle reassuring smile. | props=Open spiral journal with a three-column CBT thought-record table sketched on the page, Black pen with green clip in her right hand, Emerald green yoga mat beneath her, A warm cup of chamomile tea on the wooden floor beside the mat, Tablet propped against the couch in the background showing a calming brain-waves infographic in green and teal tones
+2026-04-12 08:33:42 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita sits cross-legged on an emerald green yoga mat in a sun | pose=Seated cross-legged on a yoga mat, torso slightly leaned forward over an open journal resting on her knee. Left hand holds the journal steady (black-band fitness smartwatch with green accents visible on left wrist), right hand writes with a pen. Right shoulder angled toward viewer, revealing her small green leaf tattoo. | expression=Encouraging look — slight head tilt to the right, soft warm eyes gazing toward the viewer as if inviting them to try the technique, gentle reassuring smile. | props=Open spiral journal with a three-column CBT thought-record table sketched on the page, Black pen with green clip in her right hand, Emerald green yoga mat beneath her, A warm cup of chamomile tea on the wooden floor beside the mat, Tablet propped against the couch in the background showing a calming brain-waves infographic in green and teal tones
+08:33:42 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 08:33:42 [asyncio] DEBUG: Using selector: EpollSelector
+08:33:42 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 08:33:42 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+08:33:50 [pipeline.stages.s6_generate_tg] INFO: TG caption: 672 chars
+2026-04-12 08:33:50 [pipeline.stages.s6_generate_tg] INFO: TG caption: 672 chars
+08:33:50 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-12 08:33:50 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+08:35:00 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-12 08:35:00 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+08:35:00 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-12 08:35:00 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+08:35:00 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 86306
+2026-04-12 08:35:00 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 86306
+08:35:00 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 86306 (unknown)
+2026-04-12 08:35:00 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 86306 (unknown)
+08:35:00 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 86359 3174856
+2026-04-12 08:35:00 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 86359 3174856
+08:35:00 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/cbt-self-help-anxiety-4-techniques.jpg (197 KB)
+2026-04-12 08:35:00 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/cbt-self-help-anxiety-4-techniques.jpg (197 KB)
+08:35:00 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/cbt-self-help-anxiety-4-techniques.md
+2026-04-12 08:35:00 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/cbt-self-help-anxiety-4-techniques.md

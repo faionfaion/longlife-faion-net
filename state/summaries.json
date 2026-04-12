@@ -29,5 +29,19 @@
       "лісові купання"
     ],
     "summary": "Forest bathing (shinrin-yoku) has strong evidence for cortisol reduction (~16%, field study n=280, confirmed by meta-analysis of 22 studies) and psychological well-being (meta-analysis of 36 studies, n=3,554). NK cell immunity data is promising but based on small samples (n=12-13). The 120 min/week nature threshold comes from a large UK study (n=19,806). Practical protocol: 2-hour slow, phone-free forest walk with sensory immersion and deep breathing. Ukrainian adaptation highlights coniferous forests (higher phytoncide concentration) and April timing (spring terpene emission bursts). Key caveats: most research from East Asia, placebo effects possible, small immune study samples."
+  },
+  "cbt-self-help-anxiety-4-techniques": {
+    "date": "2026-04-12",
+    "title": "4 техніки когнітивно-поведінкової терапії для тривожності: доказова самодопомога без терапевта",
+    "type": "guide",
+    "tags": [
+      "тривожність",
+      "когнітивно-поведінкова терапія",
+      "КПТ",
+      "психічне здоров'я",
+      "самодопомога",
+      "доказова медицина"
+    ],
+    "summary": "The article presents 4 evidence-based CBT self-help techniques for anxiety: cognitive restructuring (d=0.85, Ezawa & Hollon 2023), decatastrophizing (Beck's technique for catastrophic misinterpretations), behavioral experiments (testing anxious predictions empirically), and graded exposure (90% maintain gains at 4 years for phobias). CBT self-help shows large effects vs waitlist (d=0.84, Lewis et al. 2012) and is recommended as Step 2 by NICE and WHO. Key nuance: effects are smaller vs active controls (g=0.27-0.47, Cuijpers 2016), and therapist-led treatment retains a moderate advantage (d=0.34). Article differentiates from breathing exercises (somatic regulation) and gratitude journaling (positive psychology), includes Ukraine-specific anxiety statistics (33.5% prevalence), and provides clear disclaimer that self-help is for mild-to-moderate anxiety only. Evidence level: strong (multiple meta-analyses, international guidelines)."
   }
 }
