@@ -78,5 +78,21 @@
       "депресія"
     ],
     "summary": "Creatine monohydrate, primarily known as a sports supplement, shows moderate evidence for cognitive benefits — particularly memory (SMD=0.31 in a 2024 meta-analysis of 16 RCTs), attention, and processing speed. Effects are most pronounced under metabolic stress: sleep deprivation, vegetarian diet (lower baseline creatine), aging, and as an adjunct in depression treatment. Healthy young adults at rest show minimal cognitive improvement. Safety profile is strong: a 2025 mega-analysis of 685 studies (26,000+ participants) found no significant difference in side effects vs placebo. The kidney damage myth is debunked — elevated serum creatinine is a metabolic artifact, not renal impairment. Practical dosing: 3-5g/day creatine monohydrate, the cheapest form (~1-2 UAH/day). Evidence level: moderate overall, with strong safety data but limited cognitive RCTs."
+  },
+  "chronotypes-genetics-daily-schedule-optimization": {
+    "date": "2026-04-12",
+    "title": "Хронотипи: чому «сови» і «жайворонки» — це генетика, і як підлаштувати розпорядок дня під свій біоритм",
+    "type": "research",
+    "tags": [
+      "хронотип",
+      "сон",
+      "циркадні ритми",
+      "генетика",
+      "біоритми",
+      "продуктивність",
+      "ментальне здоров'я",
+      "дослідження"
+    ],
+    "summary": "Chronotype is genetically determined: a GWAS of ~700,000 people identified 351 loci associated with morningness-eveningness, with key genes PER3 and CRY1 directly affecting circadian cycle length. A CRY1 mutation delays sleep onset by 2–2.5 hours and affects ~0.6% of the population. Forcing evening chronotypes onto early schedules ('social jet lag') is associated with metabolic dysfunction (lower HDL, higher insulin resistance) and 83% higher depression risk per 2025 meta-analysis. A small RCT showed owls can shift ~2 hours earlier using light, fixed meals, and morning exercise. Practical takeaway: determine your chronotype via MEQ, schedule cognitively demanding work during your biological peak, and use light exposure to gently adjust if needed. Evidence level: strong (large GWAS, prospective cohort of 433K, converging meta-analyses)."
   }
 }

@@ -1218,3 +1218,140 @@ TimeoutError: agent_query timed out after 300s
 2026-04-12 08:59:35 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/creatine-brain-nootropic-memory-guide.jpg (212 KB)
 08:59:35 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/creatine-brain-nootropic-memory-guide.md
 2026-04-12 08:59:35 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/creatine-brain-nootropic-memory-guide.md
+08:59:35 [pipeline] INFO: Article ready: creatine-brain-nootropic-memory-guide (Креатин для мозку: чому найдешевша спортивна добав)
+2026-04-12 08:59:35 [pipeline] INFO: Article ready: creatine-brain-nootropic-memory-guide (Креатин для мозку: чому найдешевша спортивна добав)
+08:59:35 [pipeline] INFO: === Article 8/9 ===
+2026-04-12 08:59:35 [pipeline] INFO: === Article 8/9 ===
+08:59:35 [pipeline] INFO: --- Article: [fitness] Ексцентричні тренування: чому «негативна фаза» дає максималь ---
+2026-04-12 08:59:35 [pipeline] INFO: --- Article: [fitness] Ексцентричні тренування: чому «негативна фаза» дає максималь ---
+08:59:35 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 08:59:35 [asyncio] DEBUG: Using selector: EpollSelector
+08:59:35 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 08:59:35 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+09:04:35 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+2026-04-12 09:04:35 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+09:04:41 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 5.6s
+2026-04-12 09:04:41 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 5.6s
+09:04:46 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 09:04:46 [asyncio] DEBUG: Using selector: EpollSelector
+09:04:46 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 09:04:46 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 09:05:01 [pipeline] INFO: === TG Publish mode ===
+2026-04-12 09:05:01 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.telegram.org:443
+2026-04-12 09:05:02 [urllib3.connectionpool] DEBUG: https://api.telegram.org:443 "POST /bot8578996384:AAFhkTHh_D40VdCc7em5U9taM5a-o00JzaA/sendPhoto HTTP/1.1" 200 3685
+2026-04-12 09:05:02 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.telegram.org:443
+2026-04-12 09:05:02 [urllib3.connectionpool] DEBUG: https://api.telegram.org:443 "POST /bot8578996384:AAFhkTHh_D40VdCc7em5U9taM5a-o00JzaA/setMessageReaction HTTP/1.1" 200 25
+2026-04-12 09:05:02 [pipeline.stages.s10_pick_and_publish] INFO: TG published: creatine-brain-nootropic-memory-guide -> msg 170
+2026-04-12 09:05:02 [pipeline] INFO: Published to TG: creatine-brain-nootropic-memory-guide (msg 170)
+09:09:46 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+2026-04-12 09:09:46 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+09:09:51 [pipeline.sdk] WARNING: agent_query retry 2/2: agent_query timed out after 300s — 10.4s
+2026-04-12 09:09:51 [pipeline.sdk] WARNING: agent_query retry 2/2: agent_query timed out after 300s — 10.4s
+09:10:02 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 09:10:02 [asyncio] DEBUG: Using selector: EpollSelector
+09:10:02 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 09:10:02 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+09:15:02 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+2026-04-12 09:15:02 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+09:15:07 [pipeline.sdk] ERROR: agent_query failed after 3 attempts: agent_query timed out after 300s
+2026-04-12 09:15:07 [pipeline.sdk] ERROR: agent_query failed after 3 attempts: agent_query timed out after 300s
+09:15:07 [pipeline] ERROR: Failed to generate article: Ексцентричні тренування: чому «негативна фаза» дає максималь
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/modes/generate.py", line 136, in _generate_one_article
+    s2_research.run(ctx)
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/stages/s2_research.py", line 21, in run
+    ctx.research_text = agent_query(
+                        ^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/sdk.py", line 222, in agent_query
+    raise last_error  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^
+TimeoutError: agent_query timed out after 300s
+2026-04-12 09:15:07 [pipeline] ERROR: Failed to generate article: Ексцентричні тренування: чому «негативна фаза» дає максималь
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/modes/generate.py", line 136, in _generate_one_article
+    s2_research.run(ctx)
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/stages/s2_research.py", line 21, in run
+    ctx.research_text = agent_query(
+                        ^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/sdk.py", line 222, in agent_query
+    raise last_error  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^
+TimeoutError: agent_query timed out after 300s
+09:15:07 [pipeline] INFO: === Article 9/9 ===
+2026-04-12 09:15:07 [pipeline] INFO: === Article 9/9 ===
+09:15:07 [pipeline] INFO: --- Article: [research] Хронотипи: чому «сови» і «жайворонки» — це генетика, і як пі ---
+2026-04-12 09:15:07 [pipeline] INFO: --- Article: [research] Хронотипи: чому «сови» і «жайворонки» — це генетика, і як пі ---
+09:15:07 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 09:15:07 [asyncio] DEBUG: Using selector: EpollSelector
+09:15:07 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 09:15:07 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+09:18:29 [pipeline.stages.s2_research] INFO: Research complete: 18675 chars
+2026-04-12 09:18:29 [pipeline.stages.s2_research] INFO: Research complete: 18675 chars
+09:18:29 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 09:18:29 [asyncio] DEBUG: Using selector: EpollSelector
+09:18:29 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 09:18:29 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+09:20:02 [pipeline.stages.s3_generate] INFO: Generated: 'Хронотипи: чому «сови» і «жайворонки» — це генетика, і як підлаштувати розпорядок дня під свій біоритм' (slug=chronotypes-genetics-daily-schedule-optimization, 783 words, 11 sources)
+2026-04-12 09:20:02 [pipeline.stages.s3_generate] INFO: Generated: 'Хронотипи: чому «сови» і «жайворонки» — це генетика, і як підлаштувати розпорядок дня під свій біоритм' (slug=chronotypes-genetics-daily-schedule-optimization, 783 words, 11 sources)
+09:20:02 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 09:20:02 [asyncio] DEBUG: Using selector: EpollSelector
+09:20:02 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 09:20:02 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+09:21:24 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+2026-04-12 09:21:24 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+09:21:24 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом якісна, добре структурована і з солідною доказовою базою, але потребує кількох виправлень перед публікацією:
+
+1. **Непідкріплене джерелом твердження про креативність**: «Креативність зр
+2026-04-12 09:21:24 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом якісна, добре структурована і з солідною доказовою базою, але потребує кількох виправлень перед публікацією:
+
+1. **Непідкріплене джерелом твердження про креативність**: «Креативність зр
+09:21:24 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 09:21:24 [asyncio] DEBUG: Using selector: EpollSelector
+09:21:24 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 09:21:24 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+09:22:34 [pipeline.stages.s5_revise] INFO: Revised article: 1087 words
+2026-04-12 09:22:34 [pipeline.stages.s5_revise] INFO: Revised article: 1087 words
+09:22:34 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-12 09:22:34 [pipeline] INFO: === Review cycle 1/3 complete ===
+09:22:34 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 09:22:34 [asyncio] DEBUG: Using selector: EpollSelector
+09:22:34 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 09:22:34 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+09:23:56 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-12 09:23:56 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+09:23:56 [pipeline.stages.s4_review] INFO: Feedback: Стаття відмінна — одна з найкращих за балансом наукової точності та доступності. Декілька дрібних правок перед публікацією:
+
+1. **Порожнє поле Category у метаданих** — потрібно заповнити (наприклад, «
+2026-04-12 09:23:56 [pipeline.stages.s4_review] INFO: Feedback: Стаття відмінна — одна з найкращих за балансом наукової точності та доступності. Декілька дрібних правок перед публікацією:
+
+1. **Порожнє поле Category у метаданих** — потрібно заповнити (наприклад, «
+09:23:56 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-12 09:23:56 [pipeline] INFO: Article approved after 1 revision(s)
+09:23:56 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 09:23:56 [asyncio] DEBUG: Using selector: EpollSelector
+09:23:56 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 09:23:56 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+09:24:22 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita sits on the edge of a cozy bed in a dimly moonlit bedro | pose=Seated on the bed edge, legs crossed at the ankles, torso turned slightly toward the viewer. Left hand holds a tablet at chest level (fitness smartwatch visible on left wrist, black band with green accents). Right hand points at the tablet screen with index finger, right shoulder angled toward the viewer so the small green leaf tattoo is clearly visible. Dynamic but relaxed posture — leaning slightly forward in an engaged teaching position. | expression=One eyebrow slightly raised, engaged explaining-teaching expression with a warm knowing smile — as if revealing a fascinating secret to the viewer. Bright green eyes looking directly at the viewer with excitement. | props=Tablet displaying a colorful DNA helix diagram intertwined with a 24-hour circadian clock graphic, Panoramic window with split night/dawn sky featuring owl and lark silhouettes, Dual wall clock with green (6 AM) and blue (midnight) hands, A sleep mask with a tiny DNA pattern resting on the nightstand beside a green smoothie in a glass bottle
+2026-04-12 09:24:22 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita sits on the edge of a cozy bed in a dimly moonlit bedro | pose=Seated on the bed edge, legs crossed at the ankles, torso turned slightly toward the viewer. Left hand holds a tablet at chest level (fitness smartwatch visible on left wrist, black band with green accents). Right hand points at the tablet screen with index finger, right shoulder angled toward the viewer so the small green leaf tattoo is clearly visible. Dynamic but relaxed posture — leaning slightly forward in an engaged teaching position. | expression=One eyebrow slightly raised, engaged explaining-teaching expression with a warm knowing smile — as if revealing a fascinating secret to the viewer. Bright green eyes looking directly at the viewer with excitement. | props=Tablet displaying a colorful DNA helix diagram intertwined with a 24-hour circadian clock graphic, Panoramic window with split night/dawn sky featuring owl and lark silhouettes, Dual wall clock with green (6 AM) and blue (midnight) hands, A sleep mask with a tiny DNA pattern resting on the nightstand beside a green smoothie in a glass bottle
+09:24:22 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-12 09:24:22 [asyncio] DEBUG: Using selector: EpollSelector
+09:24:22 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-12 09:24:22 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+09:24:35 [pipeline.stages.s6_generate_tg] INFO: TG caption: 606 chars
+2026-04-12 09:24:35 [pipeline.stages.s6_generate_tg] INFO: TG caption: 606 chars
+09:24:35 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-12 09:24:35 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+09:25:46 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-12 09:25:46 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+09:25:47 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-12 09:25:47 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+09:25:47 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 83994
+2026-04-12 09:25:47 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 83994
+09:25:47 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 83994 (unknown)
+2026-04-12 09:25:47 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 83994 (unknown)
+09:25:47 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 84047 3003061
+2026-04-12 09:25:47 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 84047 3003061
+09:25:47 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/chronotypes-genetics-daily-schedule-optimization.jpg (190 KB)
+2026-04-12 09:25:47 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/chronotypes-genetics-daily-schedule-optimization.jpg (190 KB)
+09:25:47 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/chronotypes-genetics-daily-schedule-optimization.md
+2026-04-12 09:25:47 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/chronotypes-genetics-daily-schedule-optimization.md
