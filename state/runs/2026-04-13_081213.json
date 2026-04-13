@@ -1,0 +1,188 @@
+{
+  "timestamp": "2026-04-13_081213",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "ai-diagnostics-chatgpt-rare-disease-opportunities-risks, flu-vaccine-2026-2027-who-update-ukraine, vo2max-predictor-longevity-cardiorespiratory-fitness",
+  "author": "LongLife Media",
+  "duration_s": 3732.4,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 415.5,
+      "error": null
+    },
+    {
+      "name": "research:ШІ як діагност: ChatGPT знайшо",
+      "status": "ok",
+      "duration_s": 236.2,
+      "error": null
+    },
+    {
+      "name": "generate:ШІ як діагност: ChatGPT знайшо",
+      "status": "ok",
+      "duration_s": 90.8,
+      "error": null
+    },
+    {
+      "name": "review:ШІ як діагност: ChatGPT знайшо",
+      "status": "ok",
+      "duration_s": 154.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:ШІ як діагност: ChatGPT знайшо",
+      "status": "ok",
+      "duration_s": 20.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:ШІ як діагност: ChatGPT знайшо",
+      "status": "ok",
+      "duration_s": 13.9,
+      "error": null
+    },
+    {
+      "name": "save:ШІ як діагност: ChatGPT знайшо",
+      "status": "ok",
+      "duration_s": 73.6,
+      "error": null
+    },
+    {
+      "name": "research:Вакцина проти грипу 2026–2027:",
+      "status": "ok",
+      "duration_s": 232.5,
+      "error": null
+    },
+    {
+      "name": "generate:Вакцина проти грипу 2026–2027:",
+      "status": "ok",
+      "duration_s": 86.0,
+      "error": null
+    },
+    {
+      "name": "review:Вакцина проти грипу 2026–2027:",
+      "status": "ok",
+      "duration_s": 244.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Вакцина проти грипу 2026–2027:",
+      "status": "ok",
+      "duration_s": 24.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Вакцина проти грипу 2026–2027:",
+      "status": "ok",
+      "duration_s": 10.3,
+      "error": null
+    },
+    {
+      "name": "save:Вакцина проти грипу 2026–2027:",
+      "status": "ok",
+      "duration_s": 70.2,
+      "error": null
+    },
+    {
+      "name": "research:VO2max — найсильніший предикто",
+      "status": "ok",
+      "duration_s": 278.8,
+      "error": null
+    },
+    {
+      "name": "generate:VO2max — найсильніший предикто",
+      "status": "ok",
+      "duration_s": 72.2,
+      "error": null
+    },
+    {
+      "name": "review:VO2max — найсильніший предикто",
+      "status": "ok",
+      "duration_s": 188.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:VO2max — найсильніший предикто",
+      "status": "ok",
+      "duration_s": 35.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:VO2max — найсильніший предикто",
+      "status": "ok",
+      "duration_s": 11.4,
+      "error": null
+    },
+    {
+      "name": "save:VO2max — найсильніший предикто",
+      "status": "ok",
+      "duration_s": 70.1,
+      "error": null
+    },
+    {
+      "name": "research:Фізична активність як антидепр",
+      "status": "failed",
+      "duration_s": 933.6,
+      "error": "agent_query timed out after 300s"
+    },
+    {
+      "name": "research:Клітковина: чому українці їдят",
+      "status": "ok",
+      "duration_s": 258.8,
+      "error": null
+    },
+    {
+      "name": "generate:Клітковина: чому українці їдят",
+      "status": "ok",
+      "duration_s": 197.2,
+      "error": null
+    },
+    {
+      "name": "review:Клітковина: чому українці їдят",
+      "status": "failed",
+      "duration_s": 2.0,
+      "error": "Command failed with exit code 1 (exit code: 1)\nError output: Check stderr output for details"
+    },
+    {
+      "name": "research:Ексцентричний тренінг: чому фа",
+      "status": "failed",
+      "duration_s": 2.3,
+      "error": "Command failed with exit code 1 (exit code: 1)\nError output: Check stderr output for details"
+    },
+    {
+      "name": "research:Здоров'я порожнини рота та сер",
+      "status": "failed",
+      "duration_s": 2.2,
+      "error": "Command failed with exit code 1 (exit code: 1)\nError output: Check stderr output for details"
+    },
+    {
+      "name": "research:Хронічний міський шум та здоро",
+      "status": "failed",
+      "duration_s": 2.4,
+      "error": "Command failed with exit code 1 (exit code: 1)\nError output: Check stderr output for details"
+    },
+    {
+      "name": "research:Червона та інфрачервона світло",
+      "status": "failed",
+      "duration_s": 2.2,
+      "error": "Command failed with exit code 1 (exit code: 1)\nError output: Check stderr output for details"
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.7,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

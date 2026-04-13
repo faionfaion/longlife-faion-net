@@ -1855,3 +1855,441 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-13 07:48:52 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 90479 2969761
 2026-04-13 07:48:52 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/vo2max-predictor-longevity-cardiorespiratory-fitness.jpg (205 KB)
 2026-04-13 07:48:52 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/vo2max-predictor-longevity-cardiorespiratory-fitness.md
+2026-04-13 07:48:52 [pipeline] INFO: Article ready: vo2max-predictor-longevity-cardiorespiratory-fitness (VO2max — один із найсильніших предикторів тривалос)
+2026-04-13 07:48:52 [pipeline] INFO: === Article 4/9 ===
+2026-04-13 07:48:52 [pipeline] INFO: --- Article: [guide] Фізична активність як антидепресант: мережевий мета-аналіз 2 ---
+2026-04-13 07:48:52 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-13 07:48:52 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-13 07:53:52 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+2026-04-13 07:53:57 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 5.3s
+2026-04-13 07:54:03 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-13 07:54:03 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-13 07:59:03 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+2026-04-13 07:59:08 [pipeline.sdk] WARNING: agent_query retry 2/2: agent_query timed out after 300s — 12.2s
+2026-04-13 07:59:20 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-13 07:59:20 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-13 08:04:20 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+2026-04-13 08:04:26 [pipeline.sdk] ERROR: agent_query failed after 3 attempts: agent_query timed out after 300s
+2026-04-13 08:04:26 [pipeline] ERROR: Failed to generate article: Фізична активність як антидепресант: мережевий мета-аналіз 2
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/modes/generate.py", line 136, in _generate_one_article
+    s2_research.run(ctx)
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/stages/s2_research.py", line 21, in run
+    ctx.research_text = agent_query(
+                        ^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/sdk.py", line 222, in agent_query
+    raise last_error  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^
+TimeoutError: agent_query timed out after 300s
+2026-04-13 08:04:26 [pipeline] INFO: === Article 5/9 ===
+2026-04-13 08:04:26 [pipeline] INFO: --- Article: [nutrition] Клітковина: чому українці їдять удвічі менше за норму і як ц ---
+2026-04-13 08:04:26 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-13 08:04:26 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-13 08:08:44 [pipeline.stages.s2_research] INFO: Research complete: 16824 chars
+2026-04-13 08:08:44 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-13 08:08:44 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-13 08:12:02 [pipeline.stages.s3_generate] INFO: Generated: 'Клітковина: чому українці їдять удвічі менше за норму і як це виправити за тиждень' (slug=fiber-deficit-ukraine-daily-intake-plan, 842 words, 10 sources)
+2026-04-13 08:12:02 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-13 08:12:02 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-13 08:12:04 [claude_agent_sdk._internal.query] ERROR: Fatal error in message reader: Command failed with exit code 1 (exit code: 1)
+Error output: Check stderr output for details
+2026-04-13 08:12:04 [pipeline] ERROR: Failed to generate article: Клітковина: чому українці їдять удвічі менше за норму і як ц
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/modes/generate.py", line 142, in _generate_one_article
+    _review_loop(ctx)
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/modes/generate.py", line 103, in _review_loop
+    s4_review.run(ctx)
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/stages/s4_review.py", line 19, in run
+    result = structured_query(
+             ^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/sdk.py", line 121, in structured_query
+    text = asyncio.run(
+           ^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/runners.py", line 194, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 687, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/sdk.py", line 92, in _async_structured
+    async for msg in sdk_query(prompt=prompt, options=options):
+  File "/home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/query.py", line 123, in query
+    async for message in client.process_query(
+  File "/home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_internal/client.py", line 157, in process_query
+    async for data in query.receive_messages():
+  File "/home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_internal/query.py", line 732, in receive_messages
+    raise Exception(message.get("error", "Unknown error"))
+Exception: Command failed with exit code 1 (exit code: 1)
+Error output: Check stderr output for details
+2026-04-13 08:12:04 [pipeline] INFO: === Article 6/9 ===
+2026-04-13 08:12:04 [pipeline] INFO: --- Article: [fitness] Ексцентричний тренінг: чому фаза опускання ваги будує більше ---
+2026-04-13 08:12:04 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-13 08:12:04 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-13 08:12:06 [claude_agent_sdk._internal.query] ERROR: Fatal error in message reader: Command failed with exit code 1 (exit code: 1)
+Error output: Check stderr output for details
+2026-04-13 08:12:06 [pipeline] ERROR: Failed to generate article: Ексцентричний тренінг: чому фаза опускання ваги будує більше
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/modes/generate.py", line 136, in _generate_one_article
+    s2_research.run(ctx)
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/stages/s2_research.py", line 21, in run
+    ctx.research_text = agent_query(
+                        ^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/sdk.py", line 192, in agent_query
+    result = asyncio.run(
+             ^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/runners.py", line 194, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 687, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/sdk.py", line 170, in _async_agent
+    async for msg in sdk_query(prompt=prompt, options=options):
+  File "/home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/query.py", line 123, in query
+    async for message in client.process_query(
+  File "/home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_internal/client.py", line 157, in process_query
+    async for data in query.receive_messages():
+  File "/home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_internal/query.py", line 732, in receive_messages
+    raise Exception(message.get("error", "Unknown error"))
+Exception: Command failed with exit code 1 (exit code: 1)
+Error output: Check stderr output for details
+2026-04-13 08:12:06 [pipeline] INFO: === Article 7/9 ===
+2026-04-13 08:12:06 [pipeline] INFO: --- Article: [research] Здоров'я порожнини рота та серцево-судинні хвороби: чому ваш ---
+2026-04-13 08:12:06 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-13 08:12:06 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-13 08:12:08 [claude_agent_sdk._internal.query] ERROR: Fatal error in message reader: Command failed with exit code 1 (exit code: 1)
+Error output: Check stderr output for details
+2026-04-13 08:12:08 [pipeline] ERROR: Failed to generate article: Здоров'я порожнини рота та серцево-судинні хвороби: чому ваш
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/modes/generate.py", line 136, in _generate_one_article
+    s2_research.run(ctx)
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/stages/s2_research.py", line 21, in run
+    ctx.research_text = agent_query(
+                        ^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/sdk.py", line 192, in agent_query
+    result = asyncio.run(
+             ^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/runners.py", line 194, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 687, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/sdk.py", line 170, in _async_agent
+    async for msg in sdk_query(prompt=prompt, options=options):
+  File "/home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/query.py", line 123, in query
+    async for message in client.process_query(
+  File "/home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_internal/client.py", line 157, in process_query
+    async for data in query.receive_messages():
+  File "/home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_internal/query.py", line 732, in receive_messages
+    raise Exception(message.get("error", "Unknown error"))
+Exception: Command failed with exit code 1 (exit code: 1)
+Error output: Check stderr output for details
+2026-04-13 08:12:08 [pipeline] INFO: === Article 8/9 ===
+2026-04-13 08:12:08 [pipeline] INFO: --- Article: [lifehack] Хронічний міський шум та здоров'я: як звук понад 55 дБ вкоро ---
+2026-04-13 08:12:08 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-13 08:12:08 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-13 08:12:10 [claude_agent_sdk._internal.query] ERROR: Fatal error in message reader: Command failed with exit code 1 (exit code: 1)
+Error output: Check stderr output for details
+2026-04-13 08:12:10 [pipeline] ERROR: Failed to generate article: Хронічний міський шум та здоров'я: як звук понад 55 дБ вкоро
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/modes/generate.py", line 136, in _generate_one_article
+    s2_research.run(ctx)
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/stages/s2_research.py", line 21, in run
+    ctx.research_text = agent_query(
+                        ^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/sdk.py", line 192, in agent_query
+    result = asyncio.run(
+             ^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/runners.py", line 194, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 687, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/sdk.py", line 170, in _async_agent
+    async for msg in sdk_query(prompt=prompt, options=options):
+  File "/home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/query.py", line 123, in query
+    async for message in client.process_query(
+  File "/home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_internal/client.py", line 157, in process_query
+    async for data in query.receive_messages():
+  File "/home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_internal/query.py", line 732, in receive_messages
+    raise Exception(message.get("error", "Unknown error"))
+Exception: Command failed with exit code 1 (exit code: 1)
+Error output: Check stderr output for details
+2026-04-13 08:12:10 [pipeline] INFO: === Article 9/9 ===
+2026-04-13 08:12:10 [pipeline] INFO: --- Article: [lifehack] Червона та інфрачервона світлотерапія вдома: що доведено, а  ---
+2026-04-13 08:12:10 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-13 08:12:10 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-13 08:12:13 [claude_agent_sdk._internal.query] ERROR: Fatal error in message reader: Command failed with exit code 1 (exit code: 1)
+Error output: Check stderr output for details
+2026-04-13 08:12:13 [pipeline] ERROR: Failed to generate article: Червона та інфрачервона світлотерапія вдома: що доведено, а 
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/modes/generate.py", line 136, in _generate_one_article
+    s2_research.run(ctx)
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/stages/s2_research.py", line 21, in run
+    ctx.research_text = agent_query(
+                        ^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/sdk.py", line 192, in agent_query
+    result = asyncio.run(
+             ^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/runners.py", line 194, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 687, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/sdk.py", line 170, in _async_agent
+    async for msg in sdk_query(prompt=prompt, options=options):
+  File "/home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/query.py", line 123, in query
+    async for message in client.process_query(
+  File "/home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_internal/client.py", line 157, in process_query
+    async for data in query.receive_messages():
+  File "/home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_internal/query.py", line 732, in receive_messages
+    raise Exception(message.get("error", "Unknown error"))
+Exception: Command failed with exit code 1 (exit code: 1)
+Error output: Check stderr output for details
+2026-04-13 08:12:13 [pipeline] INFO: Generated 3/9 articles
+2026-04-13 08:12:13 [pipeline.stages.s7_deploy] INFO: Git pushed to origin/master
+2026-04-13 08:12:13 [pipeline.stages.s7_deploy] INFO: Deploying to faion-net server...
+2026-04-13 08:12:13 [pipeline.stages.s7_deploy] ERROR: Server deploy failed: bash: line 1: cd: /home/faion/longlife: No such file or directory
+
+2026-04-13 08:12:13 [pipeline.stages.s8_verify] ERROR: Site verification failed: https://longlife.faion.net/vo2max-predictor-longevity-cardiorespiratory-fitness/ — HTTP Error 404: Not Found
+2026-04-13 08:12:13 [pipeline] INFO: Run report saved: /home/nero/workspace/projects/longlife-faion-net/state/runs/2026-04-13_081213.json
+2026-04-13 08:12:13 [pipeline] INFO: Batch complete: 3 articles
+2026-04-13 13:46:28 [pipeline.stages.s0_editorial_plan] INFO: Editorial plan already exists for 2026-04-13 (9 articles)
+2026-04-13 13:46:28 [pipeline] INFO: Editorial plan: 9 topics
+2026-04-13 13:46:28 [pipeline.feeds] WARNING: Failed to fetch feed moz_news: https://moz.gov.ua/rss
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden
+2026-04-13 13:46:28 [pipeline.feeds] WARNING: Failed to fetch feed ukrinform_health: https://www.ukrinform.ua/rss/block-zdorovja
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 553, in error
+    result = self._call_chain(*args)
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 745, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2026-04-13 13:46:29 [pipeline.feeds] WARNING: Failed to fetch feed ukrinform_science: https://www.ukrinform.ua/rss/block-nauka
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 553, in error
+    result = self._call_chain(*args)
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 745, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2026-04-13 13:46:29 [pipeline.feeds] WARNING: Failed to fetch feed unian_health: https://health.unian.ua/rss/all
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2026-04-13 13:46:29 [pipeline.feeds] INFO: Feed nv_health: 0 items
+2026-04-13 13:46:29 [pipeline.feeds] INFO: Feed bbc_health: 10 items
+2026-04-13 13:46:29 [pipeline.feeds] WARNING: Failed to fetch feed medicalnewstoday: https://www.medicalnewstoday.com/rss
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2026-04-13 13:46:30 [pipeline.feeds] INFO: Feed who_news: 10 items
+2026-04-13 13:46:30 [pipeline.stages.s1_collect] INFO: Context: 20 RSS items, 50 existing articles
+2026-04-13 13:46:30 [pipeline] INFO: === Article 1/9 === SKIP (already written): ШІ як діагност: ChatGPT знайшов рідкісне захворюва
+2026-04-13 13:46:30 [pipeline] INFO: === Article 2/9 === SKIP (already written): Вакцина проти грипу 2026–2027: що змінила ВООЗ у р
+2026-04-13 13:46:30 [pipeline] INFO: === Article 3/9 === SKIP (already written): VO2max — найсильніший предиктор тривалості життя: 
+2026-04-13 13:46:30 [pipeline] INFO: === Article 4/9 ===
+2026-04-13 13:46:30 [pipeline] INFO: --- Article: [guide] Фізична активність як антидепресант: мережевий мета-аналіз 2 ---
+2026-04-13 13:46:30 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-13 13:46:30 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-13 13:50:28 [pipeline.stages.s2_research] INFO: Research complete: 16153 chars
+2026-04-13 13:50:28 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-13 13:50:28 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-13 13:53:27 [pipeline.stages.s3_generate] INFO: Generated: 'Фізична активність як антидепресант: мета-аналіз 218 досліджень ставить вправи нарівні з СІЗЗС' (slug=exercise-as-antidepressant-218-rct-meta-analysis, 1109 words, 5 sources)
+2026-04-13 13:53:27 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-13 13:53:27 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-13 13:54:42 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+2026-04-13 13:54:42 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом дуже якісна — чудова структура, збалансований тон, відмінні застереження щодо тяжкої депресії та чесний розділ про обмеження. Однак є одна суттєва фактична помилка, яку потрібно виправи
+2026-04-13 13:54:42 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-13 13:54:42 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-13 13:56:17 [pipeline.stages.s5_revise] INFO: Revised article: 1264 words
+2026-04-13 13:56:17 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-13 13:56:17 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-13 13:56:17 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-13 13:57:49 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-13 13:57:49 [pipeline.stages.s4_review] INFO: Feedback: Сильна стаття з ґрунтовною доказовою базою та зразковим розділом обмежень. Кілька зауважень для доопрацювання:
+
+1. **Заголовок vs. рівень довіри CINeMA.** У тілі статті чесно зазначено, що рівень дові
+2026-04-13 13:57:49 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-13 13:57:49 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-13 13:57:49 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-13 13:58:19 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita just finished a dynamic running stride on a treadmill i | pose=Dynamic mid-step off the treadmill — left foot still on the belt, right foot landing on the lab floor, torso turned three-quarters toward the viewer. Right arm extended toward the wall monitor in a presenting gesture, left hand holding a tablet at hip level. Athletic muscular build clearly visible: defined biceps, lean core, visible quads. Her long wavy blonde hair (parted on the left) flows behind her with movement energy. Small green leaf tattoo visible on her right shoulder. Black fitness smartwatch with green accents on her left wrist. | expression=Confident smile with one eyebrow slightly raised — the 'explaining/teaching' look: warm, engaged, as if sharing an exciting research finding with a friend. Bright green eyes wide and expressive. | props=Professional treadmill with digital display showing completed run stats, Tablet in left hand displaying '218 RCTs — BMJ 2024' in green text, Wall-mounted monitor with comparative bar chart (exercise vs SSRIs), Chrome dumbbells with green grips on a rack in background, Emerald-green yoga mat leaning against the rack
+2026-04-13 13:58:19 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-13 13:58:19 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-13 13:58:32 [pipeline.stages.s6_generate_tg] INFO: TG caption: 541 chars
+2026-04-13 13:58:32 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-13 14:00:15 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-13 14:00:16 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-13 14:00:16 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 86140
+2026-04-13 14:00:16 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 86140 (unknown)
+2026-04-13 14:00:16 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 86193 2715500
+2026-04-13 14:00:16 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/exercise-as-antidepressant-218-rct-meta-analysis.jpg (188 KB)
+2026-04-13 14:00:16 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/exercise-as-antidepressant-218-rct-meta-analysis.md
