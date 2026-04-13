@@ -2337,3 +2337,44 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-13 14:17:41 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 99405 2980916
 2026-04-13 14:17:41 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/klitkovyna-norma-ukraintsi-yak-zbilshyty-za-tyzhden.jpg (235 KB)
 2026-04-13 14:17:41 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/klitkovyna-norma-ukraintsi-yak-zbilshyty-za-tyzhden.md
+2026-04-13 14:17:41 [pipeline] INFO: Article ready: klitkovyna-norma-ukraintsi-yak-zbilshyty-za-tyzhden (Клітковина: чому українці їдять значно менше за но)
+2026-04-13 14:17:41 [pipeline] INFO: === Article 6/9 ===
+2026-04-13 14:17:41 [pipeline] INFO: --- Article: [fitness] Ексцентричний тренінг: чому фаза опускання ваги будує більше ---
+2026-04-13 14:17:41 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-13 14:17:41 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-13 14:20:27 [pipeline.stages.s2_research] INFO: Research complete: 15879 chars
+2026-04-13 14:20:27 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-13 14:20:27 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-13 14:21:50 [pipeline.stages.s3_generate] INFO: Generated: 'Ексцентричний тренінг: чому фаза опускання ваги будує більше сили та захищає від травм' (slug=eccentric-training-opuskannia-vahy-syla-zakhyst-vid-travm, 758 words, 8 sources)
+2026-04-13 14:21:50 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-13 14:21:50 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-13 14:23:20 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+2026-04-13 14:23:20 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом якісна, добре структурована і коректно представляє наукові докази з обмеженнями. Потрібні виправлення перед публікацією:
+
+**КРИТИЧНЕ — невідповідність джерел:**
+1. da Silva et al., 2025
+2026-04-13 14:23:20 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-13 14:23:20 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-13 14:26:15 [pipeline.stages.s5_revise] INFO: Revised article: 1086 words
+2026-04-13 14:26:15 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-13 14:26:15 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-13 14:26:15 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-13 14:27:19 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-13 14:27:19 [pipeline.stages.s4_review] INFO: Feedback: Якісна, добре структурована стаття з належним балансом доказів. Потрібні незначні виправлення перед публікацією:
+
+1. **ПОМИЛКА В ДЖЕРЕЛАХ (критично):** У секції  посилання «Journal of Clinical Epidemi
+2026-04-13 14:27:19 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-13 14:27:19 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-13 14:27:19 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-13 14:27:43 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita is in the middle of a slow, controlled eccentric bicep  | pose=Standing in a staggered stance, left foot slightly forward, right arm fully engaged in the lowering (eccentric) phase of a bicep curl — elbow at roughly 120 degrees, dumbbell descending slowly. Left hand rests on her hip. Torso slightly angled toward the viewer, right shoulder turned forward so the small green leaf tattoo is clearly visible. Fitness smartwatch with black band and green accents on her left wrist. | expression=Determined training face — eyes focused intently on the working arm, slight jaw clench, brow subtly furrowed with concentration, conveying controlled effort rather than strain. | props=Chrome dumbbell with green rubber grips in right hand, mid-descent, Translucent '4 sec' tempo timer graphic floating near the dumbbell's arc path, Wall-mounted digital screen showing Type II muscle fiber diagram with green highlights
+2026-04-13 14:27:43 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-13 14:27:43 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-13 14:27:56 [pipeline.stages.s6_generate_tg] INFO: TG caption: 666 chars
+2026-04-13 14:27:56 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-13 14:29:08 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-13 14:29:09 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-13 14:29:09 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 89486
+2026-04-13 14:29:09 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 89486 (unknown)
+2026-04-13 14:29:09 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 89539 3248539
+2026-04-13 14:29:09 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/eccentric-training-opuskannia-vahy-syla-zakhyst-vid-travm.jpg (217 KB)
+2026-04-13 14:29:09 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/eccentric-training-opuskannia-vahy-syla-zakhyst-vid-travm.md
