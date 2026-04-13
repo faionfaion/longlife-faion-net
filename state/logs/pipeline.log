@@ -2293,3 +2293,47 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-13 14:00:16 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 86193 2715500
 2026-04-13 14:00:16 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/exercise-as-antidepressant-218-rct-meta-analysis.jpg (188 KB)
 2026-04-13 14:00:16 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/exercise-as-antidepressant-218-rct-meta-analysis.md
+2026-04-13 14:00:16 [pipeline] INFO: Article ready: exercise-as-antidepressant-218-rct-meta-analysis (Фізична активність як антидепресант: мета-аналіз 2)
+2026-04-13 14:00:16 [pipeline] INFO: === Article 5/9 ===
+2026-04-13 14:00:16 [pipeline] INFO: --- Article: [nutrition] Клітковина: чому українці їдять удвічі менше за норму і як ц ---
+2026-04-13 14:00:16 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-13 14:00:16 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-13 14:05:16 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+2026-04-13 14:05:21 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 5.8s
+2026-04-13 14:05:27 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-13 14:05:27 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-13 14:09:48 [pipeline.stages.s2_research] INFO: Research complete: 15810 chars
+2026-04-13 14:09:48 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-13 14:09:48 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-13 14:11:21 [pipeline.stages.s3_generate] INFO: Generated: 'Клітковина: чому українці їдять удвічі менше за норму і як це виправити за тиждень' (slug=klitkovyna-norma-ukraintsi-yak-zbilshyty-za-tyzhden, 891 words, 10 sources)
+2026-04-13 14:11:21 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-13 14:11:21 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-13 14:12:43 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-13 14:12:43 [pipeline.stages.s4_review] INFO: Feedback: Сильна, добре джерелована стаття з коректним розмежуванням кореляції та причинності. Потребує кількох виправлень перед публікацією:
+
+1. **Заголовок: «удвічі менше за норму» — не підтверджується даними
+2026-04-13 14:12:43 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-13 14:12:43 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-13 14:14:02 [pipeline.stages.s5_revise] INFO: Revised article: 967 words
+2026-04-13 14:14:02 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-13 14:14:02 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-13 14:14:02 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-13 14:15:28 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-13 14:15:28 [pipeline.stages.s4_review] INFO: Feedback: Відмінна стаття з високою науковою строгістю. Кілька зауважень для фінального доопрацювання:
+
+1. **Назва секції «20 українських продуктів»** — артишок і насіння чіа не є традиційними українськими прод
+2026-04-13 14:15:28 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-13 14:15:28 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-13 14:15:28 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-13 14:15:56 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a bright modern kitchen, energetically tossin | pose=Dynamic presenting pose — left hand tossing a scoop of brown lentils into the bowl (mid-air scatter), right hand pointing toward the fridge chart with an open palm. Slight forward lean, weight on front foot, high ponytail swinging with the motion. She is a tall (178 cm) athletic woman with defined muscles and feminine proportions, visible toned arms. Long wavy blonde hair parted on the left, pulled into a high ponytail. Bright green eyes, sun-kissed skin, high cheekbones, full lips, late 20s. Small green leaf tattoo visible on her right shoulder. Black-band fitness smartwatch with green accents on her left wrist. Wearing a white crop top with subtle green trim, an emerald green apron tied at the waist, and high-waist emerald green leggings. | expression=Explaining and teaching — one eyebrow slightly raised, warm engaged smile, eyes bright and inviting, as if sharing an exciting kitchen secret with a friend. | props=Large ceramic bowl filled with mixed legumes (chickpeas, red beans, lentils) and chopped vegetables, Kitchen scale showing '25 g' with a small pile of fiber-rich grains on it, Colorful bar chart pinned to the fridge comparing '17.8 г' (actual) vs '25 г' (recommended) fiber intake, with a red gap highlighted, Glass jars of assorted legumes on open shelves behind her
+2026-04-13 14:15:56 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-13 14:15:56 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-13 14:16:10 [pipeline.stages.s6_generate_tg] INFO: TG caption: 686 chars
+2026-04-13 14:16:10 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-13 14:17:40 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-13 14:17:41 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-13 14:17:41 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 99352
+2026-04-13 14:17:41 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 99352 (unknown)
+2026-04-13 14:17:41 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 99405 2980916
+2026-04-13 14:17:41 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/klitkovyna-norma-ukraintsi-yak-zbilshyty-za-tyzhden.jpg (235 KB)
+2026-04-13 14:17:41 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/klitkovyna-norma-ukraintsi-yak-zbilshyty-za-tyzhden.md
