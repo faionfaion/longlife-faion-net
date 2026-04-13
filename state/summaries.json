@@ -108,5 +108,20 @@
       "охорона здоров'я"
     ],
     "summary": "Article examines the BBC case (April 2026) where ChatGPT helped diagnose hereditary spastic paraplegia after 4 years of misdiagnosis, then contextualizes it with systematic evidence. Key findings: LLMs alone achieve 80-95% diagnostic accuracy on standardized cases (JMIR meta-analysis, 30 studies), but when real users interact with LLMs, accuracy drops below 34.5% (Nature Medicine RCT, n=1,298). For rare diseases specifically, LLMs (23.6% top-1 accuracy) underperform specialized tools like Exomiser (35.5%) per EJHG 2026. ECRI ranked AI chatbot misuse as the #1 health technology hazard for 2026. The JAMA RCT (n=50 physicians) showed that giving doctors LLM access did not significantly improve their diagnostic reasoning (P=0.60). For Ukraine, where 2,419 healthcare facilities are damaged and specialist access is severely limited, AI can serve as a preliminary triage tool — but only when users understand its limitations. Evidence level: strong (multiple RCTs, large meta-analyses, Nature Medicine publication)."
+  },
+  "flu-vaccine-2026-2027-who-update-ukraine": {
+    "date": "2026-04-13",
+    "title": "Вакцина проти грипу 2026–2027: що змінила ВООЗ і навіщо щепитися щороку",
+    "type": "research",
+    "tags": [
+      "вакцинація",
+      "грип",
+      "ВООЗ",
+      "профілактика",
+      "імунітет",
+      "Україна",
+      "дослідження"
+    ],
+    "summary": "ВООЗ оновила склад вакцини проти грипу на сезон 2026–2027, замінивши всі три штами через появу нового варіанту A(H3N2) підкладу K. Вакцина стала тривалентною — лінія B/Yamagata виключена після ймовірного вимирання. Мета-аналіз 165 досліджень (Yegorov et al., 2026) показує зниження ризику госпіталізації на 42%, потреби у ШВЛ — на 55%. В Україні вакцинація критично низька (~1%), а минулого сезону вакцини закінчилися вже у жовтні через скорочення постачань. Рівень доказів — помірний; дані стабільно показують, що вакцина ефективніша для запобігання тяжкому перебігу, ніж для запобігання інфікуванню."
   }
 }
