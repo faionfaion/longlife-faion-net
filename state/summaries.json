@@ -123,5 +123,21 @@
       "дослідження"
     ],
     "summary": "ВООЗ оновила склад вакцини проти грипу на сезон 2026–2027, замінивши всі три штами через появу нового варіанту A(H3N2) підкладу K. Вакцина стала тривалентною — лінія B/Yamagata виключена після ймовірного вимирання. Мета-аналіз 165 досліджень (Yegorov et al., 2026) показує зниження ризику госпіталізації на 42%, потреби у ШВЛ — на 55%. В Україні вакцинація критично низька (~1%), а минулого сезону вакцини закінчилися вже у жовтні через скорочення постачань. Рівень доказів — помірний; дані стабільно показують, що вакцина ефективніша для запобігання тяжкому перебігу, ніж для запобігання інфікуванню."
+  },
+  "vo2max-predictor-longevity-cardiorespiratory-fitness": {
+    "date": "2026-04-13",
+    "title": "VO2max — один із найсильніших предикторів тривалості життя: чому кардіовитривалість варто відстежувати нарівні з тиском і холестерином",
+    "type": "research",
+    "tags": [
+      "VO2max",
+      "кардіовитривалість",
+      "довголіття",
+      "фітнес",
+      "мета-аналіз",
+      "дослідження",
+      "серцево-судинне здоров'я",
+      "тест Купера"
+    ],
+    "summary": "An umbrella review in BJSM (2024) covering 199 cohort studies and 20.9M observations found that high cardiorespiratory fitness (CRF) reduces all-cause mortality by 53% vs low CRF, with each additional MET lowering risk by 11%. The Mandsager 2018 study (JAMA Network Open, n=122,007) showed low fitness carries greater mortality risk than smoking (HR 1.41) or diabetes (HR 1.40), with no upper limit to benefit. The article explains how to estimate VO2max without a lab using the Cooper 12-min run test and Rockport 1-mile walk test. Key limitation: most evidence comes from male-predominant cohorts. Evidence level: strong (multiple large meta-analyses). Differentiates from previously published Zone 2 cardio training guide by focusing on VO2max as a prognostic biomarker rather than training protocols."
   }
 }
