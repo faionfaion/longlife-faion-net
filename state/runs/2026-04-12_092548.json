@@ -1,0 +1,266 @@
+{
+  "timestamp": "2026-04-12_092548",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "glp-1-semaglutide-heart-disease-select-trial, shinrin-yoku-lisovi-kupannia-imunitet-psykhika, cbt-self-help-anxiety-4-techniques, magnii-7-form-dobavok-son-stres-miazy-sertse, creatine-brain-nootropic-memory-guide",
+  "author": "LongLife Media",
+  "duration_s": 8745.5,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 434.9,
+      "error": null
+    },
+    {
+      "name": "research:GLP-1 агоністи для серцевих па",
+      "status": "ok",
+      "duration_s": 218.8,
+      "error": null
+    },
+    {
+      "name": "generate:GLP-1 агоністи для серцевих па",
+      "status": "ok",
+      "duration_s": 106.9,
+      "error": null
+    },
+    {
+      "name": "review:GLP-1 агоністи для серцевих па",
+      "status": "ok",
+      "duration_s": 802.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:GLP-1 агоністи для серцевих па",
+      "status": "ok",
+      "duration_s": 27.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:GLP-1 агоністи для серцевих па",
+      "status": "ok",
+      "duration_s": 10.5,
+      "error": null
+    },
+    {
+      "name": "save:GLP-1 агоністи для серцевих па",
+      "status": "ok",
+      "duration_s": 65.0,
+      "error": null
+    },
+    {
+      "name": "research:ШІ як «другий медичний погляд»",
+      "status": "failed",
+      "duration_s": 931.7,
+      "error": "agent_query timed out after 300s"
+    },
+    {
+      "name": "research:Весняна алергія 2026: доказові",
+      "status": "failed",
+      "duration_s": 936.5,
+      "error": "agent_query timed out after 300s"
+    },
+    {
+      "name": "research:Шинрін-йоку по-українськи: як ",
+      "status": "ok",
+      "duration_s": 227.2,
+      "error": null
+    },
+    {
+      "name": "generate:Шинрін-йоку по-українськи: як ",
+      "status": "ok",
+      "duration_s": 56.4,
+      "error": null
+    },
+    {
+      "name": "review:Шинрін-йоку по-українськи: як ",
+      "status": "ok",
+      "duration_s": 260.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Шинрін-йоку по-українськи: як ",
+      "status": "ok",
+      "duration_s": 21.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Шинрін-йоку по-українськи: як ",
+      "status": "ok",
+      "duration_s": 21.0,
+      "error": null
+    },
+    {
+      "name": "save:Шинрін-йоку по-українськи: як ",
+      "status": "ok",
+      "duration_s": 72.9,
+      "error": null
+    },
+    {
+      "name": "research:4 техніки когнітивно-поведінко",
+      "status": "ok",
+      "duration_s": 540.6,
+      "error": null
+    },
+    {
+      "name": "generate:4 техніки когнітивно-поведінко",
+      "status": "ok",
+      "duration_s": 132.6,
+      "error": null
+    },
+    {
+      "name": "review:4 техніки когнітивно-поведінко",
+      "status": "ok",
+      "duration_s": 720.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:4 техніки когнітивно-поведінко",
+      "status": "ok",
+      "duration_s": 30.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:4 техніки когнітивно-поведінко",
+      "status": "ok",
+      "duration_s": 8.9,
+      "error": null
+    },
+    {
+      "name": "save:4 техніки когнітивно-поведінко",
+      "status": "ok",
+      "duration_s": 70.0,
+      "error": null
+    },
+    {
+      "name": "research:Магній: 7 форм добавок — яку о",
+      "status": "ok",
+      "duration_s": 195.9,
+      "error": null
+    },
+    {
+      "name": "generate:Магній: 7 форм добавок — яку о",
+      "status": "ok",
+      "duration_s": 86.0,
+      "error": null
+    },
+    {
+      "name": "review:Магній: 7 форм добавок — яку о",
+      "status": "ok",
+      "duration_s": 348.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Магній: 7 форм добавок — яку о",
+      "status": "ok",
+      "duration_s": 27.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Магній: 7 форм добавок — яку о",
+      "status": "ok",
+      "duration_s": 10.7,
+      "error": null
+    },
+    {
+      "name": "save:Магній: 7 форм добавок — яку о",
+      "status": "ok",
+      "duration_s": 69.3,
+      "error": null
+    },
+    {
+      "name": "research:Креатин для мозку: чому найдеш",
+      "status": "ok",
+      "duration_s": 236.9,
+      "error": null
+    },
+    {
+      "name": "generate:Креатин для мозку: чому найдеш",
+      "status": "ok",
+      "duration_s": 125.3,
+      "error": null
+    },
+    {
+      "name": "review:Креатин для мозку: чому найдеш",
+      "status": "ok",
+      "duration_s": 273.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Креатин для мозку: чому найдеш",
+      "status": "ok",
+      "duration_s": 25.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Креатин для мозку: чому найдеш",
+      "status": "ok",
+      "duration_s": 9.3,
+      "error": null
+    },
+    {
+      "name": "save:Креатин для мозку: чому найдеш",
+      "status": "ok",
+      "duration_s": 66.3,
+      "error": null
+    },
+    {
+      "name": "research:Ексцентричні тренування: чому ",
+      "status": "failed",
+      "duration_s": 931.8,
+      "error": "agent_query timed out after 300s"
+    },
+    {
+      "name": "research:Хронотипи: чому «сови» і «жайв",
+      "status": "ok",
+      "duration_s": 202.0,
+      "error": null
+    },
+    {
+      "name": "generate:Хронотипи: чому «сови» і «жайв",
+      "status": "ok",
+      "duration_s": 92.5,
+      "error": null
+    },
+    {
+      "name": "review:Хронотипи: чому «сови» і «жайв",
+      "status": "ok",
+      "duration_s": 234.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Хронотипи: чому «сови» і «жайв",
+      "status": "ok",
+      "duration_s": 26.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Хронотипи: чому «сови» і «жайв",
+      "status": "ok",
+      "duration_s": 12.5,
+      "error": null
+    },
+    {
+      "name": "save:Хронотипи: чому «сови» і «жайв",
+      "status": "ok",
+      "duration_s": 72.4,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.7,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

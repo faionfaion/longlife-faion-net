@@ -1,0 +1,87 @@
+{
+  "articles": [
+    {
+      "topic": "ШІ як діагност: ChatGPT знайшов рідкісне захворювання після років помилкових діагнозів — можливості та ризики",
+      "type": "research",
+      "category": "research",
+      "angle": "Розбір реального кейсу з BBC (квітень 2026) + систематичний огляд діагностичної точності LLM: чутливість 60-80% у диференційній діагностиці, ризики галюцинацій і самолікування. Не заміна лікарю, а інструмент «другої думки» — і чому це важливо для українців із обмеженим доступом до вузьких спеціалістів",
+      "sources_hint": "PubMed: 'large language model diagnostic accuracy systematic review 2025-2026'; JAMA Internal Medicine LLM diagnostic studies; BBC Health article 'ChatGPT uncovered woman's rare condition' April 2026; Nature Medicine AI diagnostics benchmarks",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Вакцина проти грипу 2026–2027: що змінила ВООЗ у рекомендаціях і навіщо щепитися щороку",
+      "type": "research",
+      "category": "prevention",
+      "angle": "ВООЗ оприлюднила оновлений склад вакцини для сезону 2026-2027 (квітень 2026). Пояснення: чому штами змінюються, як працює антигенний дрейф, ефективність вакцинації у мета-аналізах (40-60% зниження госпіталізацій). Фокус на Україні: низький рівень вакцинації (~5%), де і коли щепитися восени",
+      "sources_hint": "WHO recommendations for influenza vaccine composition 2026-2027 northern hemisphere (April 2026); Cochrane review 'Vaccines for preventing influenza in healthy adults'; ECDC seasonal influenza vaccination coverage data; Ukraine MOH vaccination statistics",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "VO2max — найсильніший предиктор тривалості життя: чому кардіовитривалість важливіша за вагу, тиск і холестерин",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Мета-аналіз (BJSM 2024, 199 когорт, >20 млн учасників) показав: кожен додатковий MET знижує ризик смерті на 11-17%. Низький VO2max = більший ризик, ніж куріння чи діабет. Відмінність від Zone 2 кардіо гайду (8 квітня): фокус не на тренуваннях, а на прогностичній цінності показника та як його виміряти без лабораторії (тести Купера, 1-мильний тест, Rockport)",
+      "sources_hint": "BJSM 2024 meta-analysis 'Cardiorespiratory fitness and all-cause mortality'; JAMA Network Open 2022 Cleveland Clinic study (n=750,000) Mandsager et al; Mayo Clinic Proceedings CRF and mortality dose-response; Cooper Institute aerobic fitness norms",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Фізична активність як антидепресант: мережевий мета-аналіз 218 RCT ставить вправи нарівні з СІЗЗС",
+      "type": "guide",
+      "category": "mental-health",
+      "angle": "Замість ще однієї психологічної техніки (КПТ, вдячність і дихання — вже були цього тижня) — фізіологічний підхід. Noetel et al. 2024 (BMJ, 218 RCTs, 14 170 учасників): ходьба/біг (d=−0.62), силові (d=−0.49), йога (d=−0.55) — ефект порівнянний з СІЗЗС (d=−0.56). Формат «рецепту»: яка активність, доза (хвилин/тиждень), інтенсивність для легкої, помірної та тяжкої депресії. Чітке застереження: при тяжких формах — тільки як доповнення до фармакотерапії, не заміна",
+      "sources_hint": "Noetel et al. 2024 BMJ 'Effect of exercise for depression: systematic review and network meta-analysis of randomised controlled trials'; Singh et al. 2023 BJSM umbrella review exercise and mental health; Schuch et al. 2016 Journal of Psychiatric Research; WHO 2022 physical activity guidelines mental health section",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Клітковина: чому українці їдять удвічі менше за норму і як це виправити за тиждень",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "ВООЗ рекомендує ≥25 г клітковини/день, середній українець споживає ~12-15 г. Мета-аналіз Reynolds et al. (Lancet 2019, 185 проспективних досліджень): кожні +8 г/день знижують ризик смерті, діабету 2 типу, колоректального раку на 5-27%. Практична таблиця: 20 українських продуктів із найвищим вмістом клітковини + 7-денний план збільшення без здуття",
+      "sources_hint": "Reynolds et al. Lancet 2019 'Carbohydrate quality and human health: a series of systematic reviews and meta-analyses'; WHO dietary fiber recommendations; Ukrainian national nutrition survey data; PubMed 'dietary fiber intake cardiovascular mortality meta-analysis 2023-2026'",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Ексцентричний тренінг: чому фаза опускання ваги будує більше сили та захищає від травм",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Мета-аналіз Roig et al. + нові дані 2025: ексцентричне навантаження стимулює гіпертрофію ефективніше за концентричне при меншому метаболічному стресі. Практичне застосування: Nordic hamstring curls знижують травми задньої поверхні стегна на 51% (мета-аналіз van Dyk 2019). 4 базові ексцентричні вправи для домашнього тренування — підходить для понеділкового старту тижня",
+      "sources_hint": "Roig et al. BJSM meta-analysis eccentric vs concentric training; Douglas et al. 2017 Sports Medicine 'Chronic adaptations to eccentric training'; van Dyk et al. 2019 BJSM Nordic hamstring injury prevention meta-analysis; PubMed 'eccentric training hypertrophy meta-analysis 2024-2025'",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Здоров'я порожнини рота та серцево-судинні хвороби: чому ваш стоматолог може врятувати серце",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Мета-аналіз Tonetti et al. (2024, JACC): пародонтит підвищує ризик серцево-судинних подій на 20-50%. Механізм: хронічне системне запалення через бактерії (P. gingivalis виявляють в атеросклеротичних бляшках). RCT: лікування пародонтиту знижує маркери запалення (CRP, IL-6) протягом 6 місяців. Українська специфіка: лише 30% відвідують стоматолога щорічно. Практичний чекліст гігієни порожнини рота як профілактики ССЗ",
+      "sources_hint": "Tonetti et al. JACC 2024 periodontitis cardiovascular risk; Sanz et al. 2020 EFP/WHF consensus report; Leira et al. 2017 JAHA meta-analysis oral health stroke; Schmitt et al. 2015 atherosclerosis P. gingivalis; PubMed 'periodontitis cardiovascular disease meta-analysis 2023-2026'",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Хронічний міський шум та здоров'я: як звук понад 55 дБ вкорочує життя і що з цим робити в українських містах",
+      "type": "lifehack",
+      "category": "longevity",
+      "angle": "ВООЗ визнала шум другим за небезпекою екологічним фактором після забруднення повітря. Münzel et al. (European Heart Journal 2018): хронічний транспортний шум >55 дБ підвищує ризик ішемічної хвороби серця на 8% за кожні +10 дБ. Механізм: активація стресової осі → хронічне запалення → ендотеліальна дисфункція. Дослідження Сёренсена (2024): нічний шум >45 дБ асоціюється з гіпертензією навіть під час сну. Практичний гайд: як виміряти шум вдома (безкоштовні додатки), оптимальне розташування спальні, вікна з подвійним склопакетом vs беруші vs білий шум — що каже доказова база",
+      "sources_hint": "Münzel et al. 2018 European Heart Journal 'Environmental noise and the cardiovascular system'; WHO Environmental Noise Guidelines for the European Region 2018; Basner et al. 2014 Lancet 'Auditory and non-auditory effects of noise on health'; Sørensen et al. 2024 Environment International traffic noise hypertension; PubMed 'environmental noise cardiovascular mortality meta-analysis 2023-2026'",
+      "evidence_level": "moderate",
+      "priority": 3
+    },
+    {
+      "topic": "Червона та інфрачервона світлотерапія вдома: що доведено, а що — маркетинг",
+      "type": "lifehack",
+      "category": "biohacking",
+      "angle": "Фотобіомодуляція (PBM) — один із найрозрекламованіших біохаків. Систематичні огляди підтверджують ефективність для загоєння ран (Cochrane 2014), зменшення DOMS після тренувань (мета-аналіз Leal-Junior, d=1.09), мають попередні дані для шкіри та суглобів. Але: лампи з Amazon — не медичні пристрої, потрібні конкретні параметри (630-850 нм, 10-50 мВт/см²). Розвінчання: PBM не лікує рак, не «розганяє метаболізм», не замінює сонце для вітаміну D",
+      "sources_hint": "Leal-Junior et al. 2015 Lasers in Medical Science LLLT exercise performance meta-analysis; Avci et al. 2013 Seminars in Cutaneous Medicine photobiomodulation skin; Cochrane wound healing LLLT review; Hamblin 2017 BBA Clinical photobiomodulation mechanisms; PubMed 'photobiomodulation systematic review 2024-2026'",
+      "evidence_level": "moderate",
+      "priority": 3
+    }
+  ],
+  "date": "2026-04-13",
+  "created_at": "2026-04-13T07:10:01.543682+00:00"
+}

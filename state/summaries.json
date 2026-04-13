@@ -94,5 +94,19 @@
       "дослідження"
     ],
     "summary": "Chronotype is genetically determined: a GWAS of ~700,000 people identified 351 loci associated with morningness-eveningness, with key genes PER3 and CRY1 directly affecting circadian cycle length. A CRY1 mutation delays sleep onset by 2–2.5 hours and affects ~0.6% of the population. Forcing evening chronotypes onto early schedules ('social jet lag') is associated with metabolic dysfunction (lower HDL, higher insulin resistance) and 83% higher depression risk per 2025 meta-analysis. A small RCT showed owls can shift ~2 hours earlier using light, fixed meals, and morning exercise. Practical takeaway: determine your chronotype via MEQ, schedule cognitively demanding work during your biological peak, and use light exposure to gently adjust if needed. Evidence level: strong (large GWAS, prospective cohort of 433K, converging meta-analyses)."
+  },
+  "ai-diagnostics-chatgpt-rare-disease-opportunities-risks": {
+    "date": "2026-04-13",
+    "title": "ШІ як діагност: ChatGPT знайшов рідкісне захворювання після років помилкових діагнозів — можливості та ризики",
+    "type": "research",
+    "tags": [
+      "штучний інтелект",
+      "діагностика",
+      "дослідження",
+      "рідкісні захворювання",
+      "медичні технології",
+      "охорона здоров'я"
+    ],
+    "summary": "Article examines the BBC case (April 2026) where ChatGPT helped diagnose hereditary spastic paraplegia after 4 years of misdiagnosis, then contextualizes it with systematic evidence. Key findings: LLMs alone achieve 80-95% diagnostic accuracy on standardized cases (JMIR meta-analysis, 30 studies), but when real users interact with LLMs, accuracy drops below 34.5% (Nature Medicine RCT, n=1,298). For rare diseases specifically, LLMs (23.6% top-1 accuracy) underperform specialized tools like Exomiser (35.5%) per EJHG 2026. ECRI ranked AI chatbot misuse as the #1 health technology hazard for 2026. The JAMA RCT (n=50 physicians) showed that giving doctors LLM access did not significantly improve their diagnostic reasoning (P=0.60). For Ukraine, where 2,419 healthcare facilities are damaged and specialist access is severely limited, AI can serve as a preliminary triage tool — but only when users understand its limitations. Evidence level: strong (multiple RCTs, large meta-analyses, Nature Medicine publication)."
   }
 }
