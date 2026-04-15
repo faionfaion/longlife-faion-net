@@ -202,5 +202,23 @@
       "запалення"
     ],
     "summary": "Prospective observational study by Marfella et al. (NEJM, March 2024, N=257) found polyethylene in 58% of carotid atherosclerotic plaques; patients with detectable micro/nanoplastics had 4.5× higher risk of cardiovascular events over 34 months (adjusted HR 4.53). Supporting studies confirm microplastics in human blood (80% of samples, Leslie et al. 2022), lung tissue (11/13 samples, Jenner et al. 2022), and placenta (Ragusa et al. 2021). Bottled water contains ~240,000 particles/L (Qian et al., PNAS 2024). Key limitation: causality not established — association only. WHO (2022) remains cautious. Practical takeaway: reduce exposure via water filtration (reverse osmosis), avoiding heating food in plastic, replacing scratched non-stick pans, brewing loose-leaf tea, and HEPA vacuuming. Evidence level: moderate. First LongLife article on environmental health/toxicology; cross-references anti-inflammatory diet article (shared inflammatory biomarkers IL-6, TNF-α)."
+  },
+  "april-uv-index-ukraine-abcde-mole-check-spf-guide": {
+    "date": "2026-04-15",
+    "title": "Квітневе сонце в Україні: чому UV-індекс вже небезпечний і як перевірити родимки за правилом ABCDE",
+    "type": "guide",
+    "tags": [
+      "сонцезахист",
+      "меланома",
+      "родимки",
+      "UV-індекс",
+      "дерматологія",
+      "рак шкіри",
+      "SPF",
+      "профілактика",
+      "ABCDE",
+      "фототип"
+    ],
+    "summary": "UV index in Kyiv reaches 5–6 in April, already requiring sun protection per WHO guidelines, yet most Ukrainians delay sunscreen use until summer. Meta-analyses (Gandini 2005, 57 studies; Kwa 2025, 26 studies) show sunburns double melanoma risk (RR=2.03), with higher risk for Fitzpatrick skin types I–II common in Ukraine. The only RCT on sunscreen and melanoma (Green et al., JCO 2011, n=1621) found ~73% reduction in invasive melanoma with daily sunscreen use. Ukraine's melanoma incidence grows 3.5–4.1% annually (Korovin 2020), but SEER data shows ~100% 5-year survival when caught at localized stage. The article provides a practical ABCDE self-examination protocol (AAD), guidance on when to seek dermoscopy (NICE NG14), and evidence-based SPF selection (30 vs 50, mineral vs chemical filters). Cross-references previous vitamin D article for balanced UV/supplement advice."
   }
 }

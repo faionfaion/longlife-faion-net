@@ -2881,3 +2881,42 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-15 20:57:43 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 2796863
 2026-04-15 20:57:43 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/microplastics-blood-arteries-nejm-cardiovascular-risk.jpg (203 KB)
 2026-04-15 20:57:43 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/microplastics-blood-arteries-nejm-cardiovascular-risk.md
+2026-04-15 20:57:43 [pipeline] INFO: Article ready: microplastics-blood-arteries-nejm-cardiovascular-risk (Мікропластик у крові та артеріях: що показало досл)
+2026-04-15 20:57:43 [pipeline] INFO: === Article 2/8 ===
+2026-04-15 20:57:43 [pipeline] INFO: --- Article: [guide] Квітневе сонце в Україні: чому UV-індекс вже небезпечний і я ---
+2026-04-15 20:57:43 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 20:57:43 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 21:01:59 [pipeline.stages.s2_research] INFO: Research complete: 15571 chars
+2026-04-15 21:01:59 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 21:01:59 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 21:04:28 [pipeline.stages.s3_generate] INFO: Generated: 'Квітневе сонце в Україні: чому UV-індекс вже небезпечний і як перевірити родимки за правилом ABCDE' (slug=april-uv-index-ukraine-abcde-mole-check-spf-guide, 1334 words, 12 sources)
+2026-04-15 21:04:28 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 21:04:28 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 21:06:06 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+2026-04-15 21:06:06 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом дуже якісна, з добре підібраними джерелами та збалансованим тоном. Однак є кілька проблем, які потребують виправлення перед публікацією:
+
+**КРИТИЧНО — Пошкоджений текст:**
+1. Секція рез
+2026-04-15 21:06:06 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 21:06:06 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 21:12:51 [pipeline.stages.s5_revise] INFO: Revised article: 1540 words
+2026-04-15 21:12:51 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-15 21:12:51 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 21:12:51 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 21:14:27 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-15 21:14:27 [pipeline.stages.s4_review] INFO: Feedback: Загалом сильна, добре підкріплена джерелами стаття з коректним балансом між попередженням і заспокоєнням. Кілька моментів потребують виправлення перед публікацією:
+
+1. **Помилка цитування Green et al.
+2026-04-15 21:14:27 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-15 21:14:27 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 21:14:27 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 21:14:49 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a sunny spring park, holding up her left fore | pose=Presenting pose — left forearm raised and turned toward the viewer so the smartwatch and skin are visible, right hand extending a sunscreen tube toward the camera as if offering it. Slight forward lean, weight on front foot, dynamic and engaging stance. | expression=One eyebrow slightly raised with an engaged, teaching expression — eyes wide and warm, mouth in a knowing half-smile as if revealing an important secret the viewer didn't expect. | props=tube of sunscreen labeled SPF 50 with green-and-white design, translucent floating UV-index scale graphic showing level 5–6 in orange, small ABCDE checklist card tucked into the waistband of her leggings, partially visible with bold letters A-B-C-D-E
+2026-04-15 21:14:49 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 21:14:49 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 21:15:04 [pipeline.stages.s6_generate_tg] INFO: TG caption: 597 chars
+2026-04-15 21:15:04 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-15 21:16:13 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-15 21:16:15 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-15 21:16:15 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 3587434
+2026-04-15 21:16:15 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/april-uv-index-ukraine-abcde-mole-check-spf-guide.jpg (237 KB)
+2026-04-15 21:16:15 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/april-uv-index-ukraine-abcde-mole-check-spf-guide.md
