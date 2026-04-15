@@ -236,5 +236,21 @@
       "діти"
     ],
     "summary": "WHO ranks transport noise as the second-largest environmental health risk in Europe after air pollution. The EEA 2025 report estimates 66,000 premature deaths and €95.6 billion in annual costs. Meta-analyses show 7–17% increased CVD risk per 10 dB of transport noise (Basner 2014, Münzel 2021). The RANCH study (2,844 children, The Lancet 2005) found a 2-month reading delay per 5 dB aircraft noise increase. Hahad et al. 2025 link chronic noise to depression and anxiety. Practical takeaways include window soundproofing (25–35 dB reduction), white noise for sleep (moderate evidence from 12 RCTs), quieter exercise routes, and earplugs in metro (80–102 dBA measured). Evidence strength: strong, based on multiple meta-analyses, WHO guidelines, and large cohort studies."
+  },
+  "zhyry-v-ratsioni-norma-dlya-skhudnennia-kaloriinist": {
+    "date": "2026-04-15",
+    "title": "Надлишок жирів у раціоні: чому навіть «корисні» олії можуть гальмувати схуднення і як порахувати свою норму",
+    "type": "nutrition",
+    "tags": [
+      "харчування",
+      "схуднення",
+      "жири",
+      "калорії",
+      "серцево-судинне здоров'я",
+      "інсулін",
+      "порції",
+      "дієта"
+    ],
+    "summary": "Жири мають калорійну щільність 9 ккал/г проти 4 у білків та вуглеводів, що робить непомітне перевищення калорій дуже легким — ложка олії, горсть горіхів і бутерброд з маслом додають понад 500 ккал на день. Мета-аналіз 53 РКД (Tobias et al., Lancet, 2015; n=68 128) показує, що для схуднення загальний калорійний баланс важливіший за тип дієти, а Кокранівський огляд (Hooper, 2020) підтверджує: заміна насичених жирів ненасиченими знижує серцево-судинний ризик на 17%. Практична рекомендація — 0,8–1,2 г жиру на кг маси тіла на день, з акцентом на ПНЖК. Рівень доказовості — сильний (множинні мета-аналізи, Кокранівський огляд, рекомендації ВООЗ і AHA)."
   }
 }

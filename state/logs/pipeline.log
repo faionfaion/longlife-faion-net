@@ -2956,3 +2956,41 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-15 21:27:55 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 2679848
 2026-04-15 21:27:55 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/noise-pollution-cardiovascular-health-who-research.jpg (152 KB)
 2026-04-15 21:27:55 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/noise-pollution-cardiovascular-health-who-research.md
+2026-04-15 21:27:55 [pipeline] INFO: Article ready: noise-pollution-cardiovascular-health-who-research (Шумове забруднення та здоров'я: чому гучна дорога )
+2026-04-15 21:27:55 [pipeline] INFO: === Article 4/8 ===
+2026-04-15 21:27:55 [pipeline] INFO: --- Article: [nutrition] Надлишок жирів у раціоні: чому навіть «корисні» олії блокуют ---
+2026-04-15 21:27:55 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 21:27:55 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 21:31:33 [pipeline.stages.s2_research] INFO: Research complete: 17872 chars
+2026-04-15 21:31:33 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 21:31:33 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 21:33:53 [pipeline.stages.s3_generate] INFO: Generated: 'Надлишок жирів у раціоні: чому навіть «корисні» олії блокують схуднення і як порахувати свою норму' (slug=zhyry-v-ratsioni-norma-dlya-skhudnennia-kaloriinist, 797 words, 10 sources)
+2026-04-15 21:33:53 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 21:33:53 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 21:35:37 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+2026-04-15 21:35:37 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом добре написана, збалансована й має якісну доказову базу. Потрібні конкретні правки перед публікацією:
+
+1. **Дослідження Hall 2015 — пропущена ключова обмеженість.** Стаття не згадує, що
+2026-04-15 21:35:37 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 21:35:37 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 21:38:43 [pipeline.stages.s5_revise] INFO: Revised article: 926 words
+2026-04-15 21:38:43 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-15 21:38:43 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 21:38:43 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 21:40:21 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-15 21:40:21 [pipeline.stages.s4_review] INFO: Feedback: Дуже якісна стаття з точними науковими посиланнями та збалансованим подачею інформації. Кілька дрібних зауважень для покращення:
+
+1. **Категорія порожня** — потрібно заповнити поле Category (наприклад
+2026-04-15 21:40:21 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-15 21:40:21 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 21:40:21 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 21:40:50 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands at a bright modern kitchen counter, holding a me | pose=Presenting pose — left hand holds a silver measuring tablespoon tilted over a large glass salad bowl filled with fresh greens; right hand is raised palm-up in a 'did you know?' teaching gesture, pointing toward the floating kcal comparison graphic. Slight forward lean conveying engagement. She wears a white crop top with green trim, an emerald green apron tied at her athletic waist, and her long wavy blonde hair (parted on the left) is pulled into a high ponytail. Small green leaf tattoo visible on her right shoulder. Black-banded fitness smartwatch with green accents on her left wrist. Bright green eyes, sun-kissed skin, defined athletic build, late 20s appearance. | expression=One eyebrow slightly raised with an engaged, teaching expression — a mix of playful surprise and knowing confidence, as if revealing a secret her audience didn't expect. Full lips in a warm half-smile. | props=glass bottle of golden olive oil with a drizzle mid-pour, silver measuring tablespoon, digital kitchen scale showing '15g', large glass salad bowl with mixed greens, avocado slices, and walnut halves, small floating infographic: oil drop icon '9 ккал/г' next to bread slice icon '4 ккал/г'
+2026-04-15 21:40:50 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 21:40:50 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 21:41:07 [pipeline.stages.s6_generate_tg] INFO: TG caption: 639 chars
+2026-04-15 21:41:07 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-15 21:42:14 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-15 21:42:15 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-15 21:42:15 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 3025538
+2026-04-15 21:42:15 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/zhyry-v-ratsioni-norma-dlya-skhudnennia-kaloriinist.jpg (218 KB)
+2026-04-15 21:42:16 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/zhyry-v-ratsioni-norma-dlya-skhudnennia-kaloriinist.md
