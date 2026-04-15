@@ -268,5 +268,22 @@
       "гормони"
     ],
     "summary": "Стаття розглядає синдром перетренованості (OTS) як зворотний бік активних тренувань. За консенсусом ECSS/ACSM (Meeusen et al. 2013), перенавантаження має три рівні: функціональне, нефункціональне та власне OTS. Описано 7 ознак на основі множинних оглядів (Kreher 2012, Carrard 2022, Grandou 2020): стагнація прогресу, підвищений пульс, падіння HRV, порушення сну, часті ГРВІ, дратівливість, втрата апетиту. Ключове дослідження EROS (Cadegiani & Kater 2019) вперше описало повний гормональний профіль OTS, виявивши «парадоксальне декондиціонування» — однак вибірка мала (n=14, лише чоловіки). Практичний протокол включає deload-тиждень кожні 4–6 тижнів (Bell et al. 2023), достатнє харчування та моніторинг HRV. Рівень доказовості — помірний: є консенсуси та систематичні огляди, але бракує великих проспективних РКД."
+  },
+  "autophagy-without-fasting-exercise-sleep-spermidine-coffee-sauna": {
+    "date": "2026-04-15",
+    "title": "Аутофагія без голодування: 5 доказових способів активувати клітинне очищення",
+    "type": "research",
+    "tags": [
+      "аутофагія",
+      "довголіття",
+      "спермідин",
+      "кава",
+      "сауна",
+      "фізичні вправи",
+      "глибокий сон",
+      "клітинне здоров'я",
+      "дослідження"
+    ],
+    "summary": "Autophagy — the cellular self-cleaning process — can be triggered by more than fasting. This article reviews five non-dietary triggers with honest evidence assessment. Exercise (especially HIIT and chronic resistance training) has the strongest human evidence, supported by a 26-study systematic review. Dietary spermidine from foods like wheat germ and aged cheese is backed by large epidemiological cohorts (Bruneck n=829, NHANES n=23,894), though the largest RCT (SmartAge, n=100) was negative — possibly due to low dosing. Deep sleep, coffee polyphenols, and sauna/heat therapy show strong mechanistic evidence from animal models but limited direct human autophagy measurements. Key practical takeaway: regular HIIT training and a spermidine-rich diet have the best current evidence; sleep hygiene, coffee, and sauna are promising but preliminary."
   }
 }

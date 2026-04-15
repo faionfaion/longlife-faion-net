@@ -3033,3 +3033,41 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-15 21:56:18 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 2685293
 2026-04-15 21:56:18 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/overtraining-syndrome-7-signs-recovery.jpg (142 KB)
 2026-04-15 21:56:18 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/overtraining-syndrome-7-signs-recovery.md
+2026-04-15 21:56:18 [pipeline] INFO: Article ready: overtraining-syndrome-7-signs-recovery (Перетренованість: 7 ознак, що твої тренування прин)
+2026-04-15 21:56:18 [pipeline] INFO: === Article 6/8 ===
+2026-04-15 21:56:18 [pipeline] INFO: --- Article: [research] Аутофагія без голодування: 5 доказових способів активувати к ---
+2026-04-15 21:56:18 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 21:56:18 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 22:01:06 [pipeline.stages.s2_research] INFO: Research complete: 22085 chars
+2026-04-15 22:01:06 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 22:01:06 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 22:02:40 [pipeline.stages.s3_generate] INFO: Generated: 'Аутофагія без голодування: 5 доказових способів активувати клітинне очищення' (slug=autophagy-without-fasting-exercise-sleep-spermidine-coffee-sauna, 879 words, 12 sources)
+2026-04-15 22:02:40 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 22:02:40 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 22:04:08 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-15 22:04:08 [pipeline.stages.s4_review] INFO: Feedback: Сильна стаття з чесною подачею доказів і зразковою прозорістю (негативний результат SmartAge, зведена таблиця). Потребує незначних правок перед публікацією:
+
+1. **HIIT не розшифровано при першому вжив
+2026-04-15 22:04:08 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 22:04:08 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 22:05:03 [pipeline.stages.s5_revise] INFO: Revised article: 988 words
+2026-04-15 22:05:03 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-15 22:05:03 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 22:05:03 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 22:06:28 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-15 22:06:28 [pipeline.stages.s4_review] INFO: Feedback: Дуже якісна стаття з чесною подачею доказів. Кілька мінорних зауважень для фінального полірування:
+
+1. **Категорія/теги відсутні.** Поле Category порожнє — потрібно додати відповідні теги (наприклад: 
+2026-04-15 22:06:28 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-15 22:06:28 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 22:06:28 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 22:06:54 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita is mid-HIIT workout in a modern gym-lab hybrid space, p | pose=Dynamic mid-box-jump: knees driving upward, arms swinging forward, body fully airborne above an emerald-lit plyometric box. Core engaged with visible abs, quads and calves tensed. Left wrist with smartwatch faces the viewer. | expression=Determined training face — focused bright green eyes, slight jaw clench, a hint of an exhilarated half-smile breaking through the intensity. | props=Emerald-lit plyometric box, Holographic cell diagram showing autophagy (lysosomes consuming damaged organelles), Chrome kettlebell with green grip on the floor nearby, Black fitness smartwatch with green accents on left wrist displaying heart rate in the HIIT zone, White towel with green trim draped over a nearby rack
+2026-04-15 22:06:54 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 22:06:54 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 22:07:16 [pipeline.stages.s6_generate_tg] INFO: TG caption: 615 chars
+2026-04-15 22:07:16 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-15 22:08:26 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-15 22:08:27 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-15 22:08:27 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 3194200
+2026-04-15 22:08:27 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/autophagy-without-fasting-exercise-sleep-spermidine-coffee-sauna.jpg (207 KB)
+2026-04-15 22:08:27 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/autophagy-without-fasting-exercise-sleep-spermidine-coffee-sauna.md
