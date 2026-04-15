@@ -285,5 +285,20 @@
       "дослідження"
     ],
     "summary": "Autophagy — the cellular self-cleaning process — can be triggered by more than fasting. This article reviews five non-dietary triggers with honest evidence assessment. Exercise (especially HIIT and chronic resistance training) has the strongest human evidence, supported by a 26-study systematic review. Dietary spermidine from foods like wheat germ and aged cheese is backed by large epidemiological cohorts (Bruneck n=829, NHANES n=23,894), though the largest RCT (SmartAge, n=100) was negative — possibly due to low dosing. Deep sleep, coffee polyphenols, and sauna/heat therapy show strong mechanistic evidence from animal models but limited direct human autophagy measurements. Key practical takeaway: regular HIIT training and a spermidine-rich diet have the best current evidence; sleep hygiene, coffee, and sauna are promising but preliminary."
+  },
+  "red-light-therapy-photobiomodulation-evidence-vs-marketing": {
+    "date": "2026-04-15",
+    "title": "Червоне світло (фотобіомодуляція): де є докази, а де — лише маркетинг",
+    "type": "lifehack",
+    "tags": [
+      "біохакінг",
+      "фотобіомодуляція",
+      "червоне світло",
+      "суглоби",
+      "відновлення",
+      "антиейджинг",
+      "докази"
+    ],
+    "summary": "Photobiomodulation (red/NIR light therapy at 630–850 nm) has tiered evidence: STRONG for joint pain in knee osteoarthritis (22-RCT meta-analysis, BMJ Open 2019); MODERATE for muscle recovery pre-exercise (13-RCT meta-analysis, Lasers Med Sci 2015); WEAK for skin anti-aging (single RCT, n=136); ABSENT for standalone fat burning (body fat% non-significant, p=0.57) and \"detox\" (zero clinical evidence). An umbrella review of 204 RCTs (Son 2025) found zero high-certainty outcomes. Home LED panels (3,000–25,000 UAH in Ukraine) theoretically can work per Heiskanen & Hamblin 2018, but most lack independent verification of power output and wavelength. Practical takeaway: consult a doctor for clinical PBM if joints hurt; don't buy panels expecting fat loss or detox."
   }
 }

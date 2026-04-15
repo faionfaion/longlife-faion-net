@@ -3071,3 +3071,46 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-15 22:08:27 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 3194200
 2026-04-15 22:08:27 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/autophagy-without-fasting-exercise-sleep-spermidine-coffee-sauna.jpg (207 KB)
 2026-04-15 22:08:27 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/autophagy-without-fasting-exercise-sleep-spermidine-coffee-sauna.md
+2026-04-15 22:08:27 [pipeline] INFO: Article ready: autophagy-without-fasting-exercise-sleep-spermidine-coffee-sauna (Аутофагія без голодування: 5 доказових способів ак)
+2026-04-15 22:08:27 [pipeline] INFO: === Article 7/8 ===
+2026-04-15 22:08:27 [pipeline] INFO: --- Article: [lifehack] Червоне та інфрачервоне світло (фотобіомодуляція): де є дока ---
+2026-04-15 22:08:27 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 22:08:27 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 22:13:27 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+2026-04-15 22:13:32 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 5.9s
+2026-04-15 22:13:38 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 22:13:38 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 22:17:49 [pipeline.stages.s2_research] INFO: Research complete: 17564 chars
+2026-04-15 22:17:49 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 22:17:49 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 22:19:28 [pipeline.stages.s3_generate] INFO: Generated: 'Червоне світло (фотобіомодуляція): де є докази, а де — лише маркетинг' (slug=red-light-therapy-photobiomodulation-evidence-vs-marketing, 376 words, 9 sources)
+2026-04-15 22:19:28 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 22:19:28 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 22:21:14 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-15 22:21:14 [pipeline.stages.s4_review] INFO: Feedback: Якісна стаття з чіткою ієрархією доказів і збалансованим повідомленням. Потрібні незначні правки перед публікацією:
+
+1. **Доза без джерела.** Твердження «оптимально 3–6 Дж/см²» не має окремого посилан
+2026-04-15 22:21:14 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 22:21:14 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 22:22:10 [pipeline.stages.s5_revise] INFO: Revised article: 407 words
+2026-04-15 22:22:10 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-15 22:22:10 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 22:22:10 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 22:23:32 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-15 22:23:32 [pipeline.stages.s4_review] INFO: Feedback: Сильна стаття з чіткою ієрархією доказів і відповідальним тоном. Кілька дрібних зауважень:
+
+1. **Категорія порожня** — потрібно вказати категорію (наприклад, «biohacking» або «recovery»).
+2. **«Остеоа
+2026-04-15 22:23:32 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-15 22:23:32 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 22:23:32 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 22:24:01 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a modern sports-recovery lab, holding a large | pose=Standing in a presenting stance — left arm extended holding a rectangular red LED panel that emits a vivid red glow, right arm bent at the elbow holding a tablet tilted toward the viewer showing a graph with a bell-curve shape. Her torso is slightly turned three-quarters toward the viewer, weight on her back foot, leaning slightly forward with authority. Her right shoulder is visible, displaying the small green leaf tattoo. | expression=One eyebrow slightly raised with an engaged, teaching expression — a knowing half-smile that says 'let me show you what really works', eyes bright and focused on the viewer, projecting confident skepticism toward hype claims. | props=Large rectangular red LED therapy panel emitting vivid red-crimson light (held in left hand, black fitness smartwatch with green accents visible on left wrist), Tablet displaying a biphasic dose-response bell curve with markings at 3-6 J/cm² highlighted in green (held in right hand), Padded recovery bench in the background with a folded emerald-green towel on it
+2026-04-15 22:24:01 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 22:24:01 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 22:24:16 [pipeline.stages.s6_generate_tg] INFO: TG caption: 648 chars
+2026-04-15 22:24:16 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-15 22:25:23 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-15 22:25:24 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-15 22:25:24 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 2880974
+2026-04-15 22:25:24 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/red-light-therapy-photobiomodulation-evidence-vs-marketing.jpg (198 KB)
+2026-04-15 22:25:24 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/red-light-therapy-photobiomodulation-evidence-vs-marketing.md
