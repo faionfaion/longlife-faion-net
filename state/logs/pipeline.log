@@ -2920,3 +2920,39 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-15 21:16:15 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 3587434
 2026-04-15 21:16:15 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/april-uv-index-ukraine-abcde-mole-check-spf-guide.jpg (237 KB)
 2026-04-15 21:16:15 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/april-uv-index-ukraine-abcde-mole-check-spf-guide.md
+2026-04-15 21:16:15 [pipeline] INFO: Article ready: april-uv-index-ukraine-abcde-mole-check-spf-guide (Квітневе сонце в Україні: чому UV-індекс вже небез)
+2026-04-15 21:16:15 [pipeline] INFO: === Article 3/8 ===
+2026-04-15 21:16:15 [pipeline] INFO: --- Article: [research] Шумове забруднення та здоров'я: чому ваша гучна дорога підви ---
+2026-04-15 21:16:15 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 21:16:15 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 21:20:08 [pipeline.stages.s2_research] INFO: Research complete: 18237 chars
+2026-04-15 21:20:08 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 21:20:08 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 21:21:35 [pipeline.stages.s3_generate] INFO: Generated: 'Шумове забруднення та здоров'я: чому гучна дорога за вікном підвищує тиск і що з цим робити' (slug=noise-pollution-cardiovascular-health-who-research, 698 words, 8 sources)
+2026-04-15 21:21:35 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 21:21:35 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 21:22:59 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-15 21:22:59 [pipeline.stages.s4_review] INFO: Feedback: Стаття науково міцна, добре джерелована й збалансована. Ось конкретні правки перед публікацією:
+
+1. НЕВІДТЛУМАЧЕНІ ТЕРМІНИ. Не пояснено при першому вживанні: «катехоламіни» (додати: «гормони стресової
+2026-04-15 21:22:59 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 21:22:59 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 21:24:56 [pipeline.stages.s5_revise] INFO: Revised article: 927 words
+2026-04-15 21:24:56 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-15 21:24:56 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 21:24:56 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 21:26:01 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-15 21:26:01 [pipeline.stages.s4_review] INFO: Feedback: Відмінна стаття з високим рівнем наукової точності та збалансованим подаванням інформації. Особливо вдало: пояснення відносного vs абсолютного ризику для ІХС та деменції (це рідкість навіть у якісних 
+2026-04-15 21:26:01 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-15 21:26:01 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 21:26:01 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 21:26:29 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a cozy bedroom at night, pressing one hand ag | pose=Standing sideways next to the window, left hand pressed flat against the glass (smartwatch on left wrist visible), right arm extended holding the decibel meter toward the window. Body slightly turned toward the viewer, weight on back foot, dynamic mid-action stance as if she just measured the noise level. Her right shoulder is bare, revealing the small green leaf tattoo. | expression=Explaining/teaching — one eyebrow slightly raised, engaged and concerned expression, lips parted mid-sentence, bright green eyes looking directly at the viewer as if revealing an important secret. | props=Digital decibel meter showing '58 dB' in red digits, Sound-insulating window panel leaning against the wall, Tablet on the nightstand displaying a heart-rate graph with spikes labeled 'мікропробудження'
+2026-04-15 21:26:29 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-15 21:26:29 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-15 21:26:42 [pipeline.stages.s6_generate_tg] INFO: TG caption: 694 chars
+2026-04-15 21:26:42 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-15 21:27:55 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-15 21:27:55 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-15 21:27:55 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 2679848
+2026-04-15 21:27:55 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/noise-pollution-cardiovascular-health-who-research.jpg (152 KB)
+2026-04-15 21:27:55 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/noise-pollution-cardiovascular-health-who-research.md

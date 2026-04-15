@@ -220,5 +220,21 @@
       "фототип"
     ],
     "summary": "UV index in Kyiv reaches 5–6 in April, already requiring sun protection per WHO guidelines, yet most Ukrainians delay sunscreen use until summer. Meta-analyses (Gandini 2005, 57 studies; Kwa 2025, 26 studies) show sunburns double melanoma risk (RR=2.03), with higher risk for Fitzpatrick skin types I–II common in Ukraine. The only RCT on sunscreen and melanoma (Green et al., JCO 2011, n=1621) found ~73% reduction in invasive melanoma with daily sunscreen use. Ukraine's melanoma incidence grows 3.5–4.1% annually (Korovin 2020), but SEER data shows ~100% 5-year survival when caught at localized stage. The article provides a practical ABCDE self-examination protocol (AAD), guidance on when to seek dermoscopy (NICE NG14), and evidence-based SPF selection (30 vs 50, mineral vs chemical filters). Cross-references previous vitamin D article for balanced UV/supplement advice."
+  },
+  "noise-pollution-cardiovascular-health-who-research": {
+    "date": "2026-04-15",
+    "title": "Шумове забруднення та здоров'я: чому гучна дорога за вікном підвищує тиск і що з цим робити",
+    "type": "research",
+    "tags": [
+      "шумове забруднення",
+      "серцево-судинне здоров'я",
+      "сон",
+      "психічне здоров'я",
+      "ВООЗ",
+      "дослідження",
+      "профілактика",
+      "діти"
+    ],
+    "summary": "WHO ranks transport noise as the second-largest environmental health risk in Europe after air pollution. The EEA 2025 report estimates 66,000 premature deaths and €95.6 billion in annual costs. Meta-analyses show 7–17% increased CVD risk per 10 dB of transport noise (Basner 2014, Münzel 2021). The RANCH study (2,844 children, The Lancet 2005) found a 2-month reading delay per 5 dB aircraft noise increase. Hahad et al. 2025 link chronic noise to depression and anxiety. Practical takeaways include window soundproofing (25–35 dB reduction), white noise for sleep (moderate evidence from 12 RCTs), quieter exercise routes, and earplugs in metro (80–102 dBA measured). Evidence strength: strong, based on multiple meta-analyses, WHO guidelines, and large cohort studies."
   }
 }
