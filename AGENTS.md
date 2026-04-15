@@ -18,7 +18,7 @@ Evidence-based health media in Ukrainian. Site: longlife.faion.net, TG: @long_li
 
 | Mode | Cron | What |
 |------|------|------|
-| `generate` | `0 7 * * *` | Morning batch: editorial plan, all 8-10 articles, 1 deploy |
+| `generate` | `3 3 * * *` | Night batch (03:03 UTC): editorial plan, all 8-10 articles, 1 deploy |
 | `publish` | `5 9,12,15,18 * * *` | Mechanical: pick pre-generated article, send to TG (no LLM) |
 | `digest` | `5 20 * * *` | Compile day's articles into evening digest to TG |
 

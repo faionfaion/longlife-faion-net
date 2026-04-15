@@ -1,0 +1,78 @@
+{
+  "articles": [
+    {
+      "topic": "Мікропластик у крові та артеріях: що показало дослідження NEJM і як зменшити експозицію в побуті",
+      "type": "research",
+      "category": "prevention",
+      "angle": "У 2024 р. Marfella et al. у NEJM вперше виявили мікро- та нанопластик у каротидних атеросклеротичних бляшках — пацієнти з пластиком мали в 4,5 рази вищий ризик серцево-судинних подій за 34 місяці. Огляд масштабу проблеми: пластик у воді, їжі, повітрі. Практичний фокус для українського читача: як зменшити експозицію — фільтрація води, відмова від пластикового посуду для гарячого, вибір упаковки, заміна тефлонових сковорідок. Чесно про обмеження: причинно-наслідковий зв'язок ще не доведений.",
+      "sources_hint": "Marfella et al. 2024 NEJM (microplastics in carotid plaques); Jenner et al. 2022 Environment International (microplastics in human blood); Leslie et al. 2022 Environment International; Ragusa et al. 2021 Environment International (microplastics in placenta); WHO 2022 report on microplastics in drinking water; Lancet Planetary Health 2025 systematic reviews on microplastic health effects",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Квітневе сонце в Україні: чому UV-індекс вже небезпечний і як перевірити родимки за правилом ABCDE",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Сезонна стаття: у квітні UV-індекс в Україні сягає 5–6, але більшість не використовують сонцезахист до літа. Меланома — найагресивніший рак шкіри, але при ранньому виявленні 5-річна виживаність >95%. Практичний протокол самоогляду за ABCDE (Asymmetry, Border, Color, Diameter, Evolution) з фото-прикладами. Коли потрібна дерматоскопія. Вибір SPF: 30 vs 50, хімічні vs мінеральні фільтри. Особливий ризик для людей із I–II фототипом (більшість українців). Доступні варіанти сонцезахисту в українських аптеках.",
+      "sources_hint": "Whiteman et al. 2016 JAMA Dermatology (UV exposure and melanoma risk); Green et al. 2011 JCO (sunscreen RCT — 40% melanoma reduction over 10 years); NICE 2015 NG14 (melanoma assessment guidelines); Watts et al. 2021 Lancet Countdown (UV index and climate change); Ukrainian National Cancer Registry data; WHO UV Index guidance; Gandini et al. 2005 European Journal of Cancer (meta-analysis sunburn and melanoma)",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Шумове забруднення та здоров'я: чому ваша гучна дорога підвищує тиск і що з цим робити",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "WHO оцінює транспортний шум як другий за величиною екологічний ризик для здоров'я в Європі (після забруднення повітря). Münzel et al. 2021 показали: хронічний шум >55 дБ підвищує ризик ІХС на 8% на кожні 10 дБ. Когнітивний вплив: дослідження RANCH показало зниження читацьких навичок у дітей біля аеропортів. Вплив на сон навіть без пробудження (мікро-arousal). Для українських міст: вимірювання шуму в Києві, Одесі, Харкові. Практика: шумоізоляція вікон, білий шум для сну, вибір маршруту для пробіжок, захист слуху в метро.",
+      "sources_hint": "Münzel et al. 2021 European Heart Journal (traffic noise and CVD); WHO 2018 Environmental Noise Guidelines for the European Region; Clark et al. 2006 Lancet (RANCH study — aircraft noise and children's cognition); Basner et al. 2014 Lancet (noise and health review); Hahad et al. 2023 Nature Reviews Cardiology (environmental noise and CVD); Stansfeld & Matheson 2003 British Medical Bulletin",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Надлишок жирів у раціоні: чому навіть «корисні» олії блокують схуднення і як порахувати свою норму",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Стаття для людини, яка худне і не бачить результату. Показуємо, чому калорійна щільність жирів (9 ккал/г проти 4 у білків/вуглеводів) робить перевищення непомітним: ложка олії в салат, горсть горіхів, авокадо-тост — і +500 ккал. Різниця між насиченими, ненасиченими та трансжирами і їх вплив на інсулінову чутливість та серцево-судинну систему. Конкретні приклади буденних українських страв із прихованим жиром (сирники, смажена картопля, бутерброд із маслом). Тон — співчутливий, без осуду, з чіткою картою дій: візуальний метод порцій, добова норма 0,8–1,2 г/кг.",
+      "sources_hint": "Hall et al. 2015 Cell Metabolism (metabolic ward study on fat vs carb restriction); Tobias et al. 2015 Lancet Diabetes & Endocrinology meta-analysis (53 RCTs on dietary fat and body weight); Hooper et al. 2020 Cochrane review on reduction of saturated fat; WHO 2023 updated saturated/trans fat guidelines; Sacks et al. 2017 AHA Presidential Advisory on dietary fats and CVD",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Перетренованість: 7 ознак, що ваші тренування приносять більше шкоди, ніж користі",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Після серії статей про різні види тренувань (ексцентрик, функціонал, калістеніка, силові для жінок) — стаття про зворотний бік монети. Синдром перетренованості (OTS) vs функціональне перенавантаження: різниця за Meeusen et al. 2013 EJSS consensus. 7 сигналів: стагнація прогресу, підвищений ранковий пульс, падіння HRV, порушення сну, часті ГРВІ, дратівливість, втрата апетиту. Дослідження EROS (Cadegiani & Kater 2019) — перший повний гормональний профіль OTS. Протокол відновлення: deload-тиждень, сон, харчування. Інтеграція з HRV-гайдом (посилання на попередню статтю).",
+      "sources_hint": "Meeusen et al. 2013 Medicine & Science in Sports & Exercise (ECSS/ACSM consensus on overtraining); Cadegiani & Kater 2019 BMC Sports Science (EROS study); Kreher & Schwartz 2012 Sports Health (overtraining syndrome review); Halson & Jeukendrup 2004 Sports Medicine; Grandou et al. 2020 Sports Medicine (HRV and overtraining meta-analysis)",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Аутофагія без голодування: 5 доказових способів активувати клітинне очищення — вправи, сон, поліфеноли",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Інтервальне голодування ми вже розбирали. Але аутофагія — процес утилізації пошкоджених клітинних компонентів — запускається не тільки їжею. Стаття про 5 інших тригерів: інтенсивні вправи (He et al., Nature 2012 — мишачі моделі, підтверджені людськими дослідженнями з маркерами LC3/p62), глибокий сон (circadian regulation of autophagy — Ryzhikov et al. 2019), спермідин із їжі (Eisenberg et al. 2016 Nature Medicine; Schwarz et al. 2018 RCT на когнітивних функціях), кава (поліфеноли як mTOR-інгібітори, Pietrocola et al. 2014), гіпертермія (сауна — Dokladny et al. 2015). Чесно про рівень доказів для кожного тригера окремо.",
+      "sources_hint": "He et al. 2012 Nature (exercise-induced autophagy); Eisenberg et al. 2016 Nature Medicine (spermidine and aging); Schwarz et al. 2018 Aging Cell (spermidine RCT, n=30); Pietrocola et al. 2014 Cell Cycle (coffee polyphenols and autophagy); Ryzhikov et al. 2019 Autophagy (circadian regulation); Levine & Kroemer 2019 Cell (autophagy overview); Dokladny et al. 2015 Free Radical Biology & Medicine (heat stress and autophagy)",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Червоне та інфрачервоне світло (фотобіомодуляція): де є докази, а де — лише маркетинг",
+      "type": "lifehack",
+      "category": "biohacking",
+      "angle": "Red light therapy (630–850 нм) стала популярним біохаком. Розбираємо за рівнем доказів: СИЛЬНІ — загоєння ран і зменшення запалення (Cochrane review); ПОМІРНІ — біль у суглобах при остеоартрозі (Stausholm et al. 2019 meta-analysis, 22 RCT), відновлення м'язів після тренувань (Leal-Junior et al. 2015); СЛАБКІ — антиейджинг шкіри (малі вибірки, Wunsch & Matuschka 2014), когнітивні функції (поодинокі пілотні дослідження); ВІДСУТНІ — «спалювання жиру», «детокс». Порівняння домашніх пристроїв за ціною в Україні (3000–25000 грн) та чи варті вони інвестиції.",
+      "sources_hint": "Stausholm et al. 2019 BMJ Open Sport & Exercise Medicine (PBM for knee osteoarthritis meta-analysis); Leal-Junior et al. 2015 Lasers in Medical Science (muscle recovery meta-analysis); Wunsch & Matuschka 2014 Photomedicine and Laser Surgery (skin rejuvenation RCT); Hamblin 2017 BBA Clinical (mechanisms of photobiomodulation); Ferraresi et al. 2012 Photonics & Lasers in Medicine (exercise performance); Heiskanen & Hamblin 2018 Photobiomodulation review",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Гідратація по науці: чому «8 склянок» — міф, як розрахувати свою норму води та коли потрібні електроліти",
+      "type": "guide",
+      "category": "nutrition",
+      "angle": "Міф про 8 склянок води на день не має наукового підґрунтя (Valtin 2002 — жодного оригінального дослідження за цією рекомендацією). Реальна потреба залежить від маси тіла, активності, клімату та раціону — і відрізняється вдвічі між людьми. Як визначити свою норму: колір сечі (Armstrong chart), маса до/після тренування, формула 30–35 мл/кг + корекція на активність. Коли вода — недостатньо: роль натрію, калію та магнію при тренуваннях >60 хв, спеці та хворобі. Гіпонатріємія — небезпека надмірного пиття (Almond et al. 2005, NEJM — 13% марафонців із клінічною гіпонатріємією). Практичні поради для українського літа, що наближається: домашній ізотонік (вода + сіль + мед + лимон), порівняння комерційних електролітів в аптеках.",
+      "sources_hint": "Valtin 2002 American Journal of Physiology (8 glasses myth debunked); Armstrong & Johnson 2018 Nutrients (individual hydration assessment); Almond et al. 2005 NEJM (hyponatremia in marathon runners); EFSA 2010 Scientific Opinion on dietary reference values for water; Cheuvront & Kenefick 2014 Journal of the American College of Sports Medicine (dehydration and performance); Sawka et al. 2007 ACSM Position Stand on exercise and fluid replacement; Perrier et al. 2015 European Journal of Nutrition (hydration biomarkers)",
+      "evidence_level": "strong",
+      "priority": 2
+    }
+  ],
+  "date": "2026-04-15",
+  "created_at": "2026-04-15T20:37:28.690436+00:00"
+}

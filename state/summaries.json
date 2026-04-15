@@ -187,5 +187,20 @@
       "м'язова сила"
     ],
     "summary": "Eccentric training (the lowering phase of exercises) produces greater strength gains at lower metabolic cost, according to meta-analyses of 20+ RCTs (Roig 2009, Douglas 2017). A 2025 study (Andrews et al.) provided first-in-human evidence of sarcomerogenesis — addition of new sarcomeres after 9 weeks of Nordic hamstring curls. The van Dyk 2019 meta-analysis reported 51% reduction in hamstring injuries from Nordic curls, though a 2021 reappraisal questioned methodology. Hypertrophy effects are comparable to concentric training (da Silva 2025 meta-analysis). Practical takeaway: slow down the lowering phase in any exercise, add Nordic hamstring curls 2-3x/week. Evidence level: moderate overall, with strong data for strength gains and preliminary but exciting sarcomere evidence."
+  },
+  "microplastics-blood-arteries-nejm-cardiovascular-risk": {
+    "date": "2026-04-15",
+    "title": "Мікропластик у крові та артеріях: що показало дослідження NEJM і як зменшити контакт із пластиком у побуті",
+    "type": "research",
+    "tags": [
+      "мікропластик",
+      "серцево-судинне здоров'я",
+      "профілактика",
+      "екологічне здоров'я",
+      "пластик",
+      "дослідження",
+      "запалення"
+    ],
+    "summary": "Prospective observational study by Marfella et al. (NEJM, March 2024, N=257) found polyethylene in 58% of carotid atherosclerotic plaques; patients with detectable micro/nanoplastics had 4.5× higher risk of cardiovascular events over 34 months (adjusted HR 4.53). Supporting studies confirm microplastics in human blood (80% of samples, Leslie et al. 2022), lung tissue (11/13 samples, Jenner et al. 2022), and placenta (Ragusa et al. 2021). Bottled water contains ~240,000 particles/L (Qian et al., PNAS 2024). Key limitation: causality not established — association only. WHO (2022) remains cautious. Practical takeaway: reduce exposure via water filtration (reverse osmosis), avoiding heating food in plastic, replacing scratched non-stick pans, brewing loose-leaf tea, and HEPA vacuuming. Evidence level: moderate. First LongLife article on environmental health/toxicology; cross-references anti-inflammatory diet article (shared inflammatory biomarkers IL-6, TNF-α)."
   }
 }

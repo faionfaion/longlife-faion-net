@@ -1,0 +1,158 @@
+{
+  "timestamp": "2026-04-13_143005",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "exercise-as-antidepressant-218-rct-meta-analysis, klitkovyna-norma-ukraintsi-yak-zbilshyty-za-tyzhden, eccentric-training-opuskannia-vahy-syla-zakhyst-vid-travm",
+  "author": "LongLife Media",
+  "duration_s": 2617.4,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    },
+    {
+      "name": "research:Фізична активність як антидепр",
+      "status": "ok",
+      "duration_s": 238.2,
+      "error": null
+    },
+    {
+      "name": "generate:Фізична активність як антидепр",
+      "status": "ok",
+      "duration_s": 179.1,
+      "error": null
+    },
+    {
+      "name": "review:Фізична активність як антидепр",
+      "status": "ok",
+      "duration_s": 262.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Фізична активність як антидепр",
+      "status": "ok",
+      "duration_s": 30.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Фізична активність як антидепр",
+      "status": "ok",
+      "duration_s": 12.1,
+      "error": null
+    },
+    {
+      "name": "save:Фізична активність як антидепр",
+      "status": "ok",
+      "duration_s": 104.6,
+      "error": null
+    },
+    {
+      "name": "research:Клітковина: чому українці їдят",
+      "status": "ok",
+      "duration_s": 571.9,
+      "error": null
+    },
+    {
+      "name": "generate:Клітковина: чому українці їдят",
+      "status": "ok",
+      "duration_s": 92.6,
+      "error": null
+    },
+    {
+      "name": "review:Клітковина: чому українці їдят",
+      "status": "ok",
+      "duration_s": 247.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Клітковина: чому українці їдят",
+      "status": "ok",
+      "duration_s": 28.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Клітковина: чому українці їдят",
+      "status": "ok",
+      "duration_s": 13.5,
+      "error": null
+    },
+    {
+      "name": "save:Клітковина: чому українці їдят",
+      "status": "ok",
+      "duration_s": 91.4,
+      "error": null
+    },
+    {
+      "name": "research:Ексцентричний тренінг: чому фа",
+      "status": "ok",
+      "duration_s": 165.7,
+      "error": null
+    },
+    {
+      "name": "generate:Ексцентричний тренінг: чому фа",
+      "status": "ok",
+      "duration_s": 82.7,
+      "error": null
+    },
+    {
+      "name": "review:Ексцентричний тренінг: чому фа",
+      "status": "ok",
+      "duration_s": 329.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ексцентричний тренінг: чому фа",
+      "status": "ok",
+      "duration_s": 24.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ексцентричний тренінг: чому фа",
+      "status": "ok",
+      "duration_s": 12.9,
+      "error": null
+    },
+    {
+      "name": "save:Ексцентричний тренінг: чому фа",
+      "status": "ok",
+      "duration_s": 73.3,
+      "error": null
+    },
+    {
+      "name": "research:Здоров'я порожнини рота та сер",
+      "status": "failed",
+      "duration_s": 46.8,
+      "error": "Command failed with exit code 1 (exit code: 1)\nError output: Check stderr output for details"
+    },
+    {
+      "name": "research:Хронічний міський шум та здоро",
+      "status": "failed",
+      "duration_s": 4.5,
+      "error": "Command failed with exit code 1 (exit code: 1)\nError output: Check stderr output for details"
+    },
+    {
+      "name": "research:Червона та інфрачервона світло",
+      "status": "failed",
+      "duration_s": 4.2,
+      "error": "Command failed with exit code 1 (exit code: 1)\nError output: Check stderr output for details"
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.7,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}
