@@ -4161,3 +4161,71 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-16 03:53:43 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/izometrychni-vpravy-hipertonia-wall-sit-bjsm-meta-analiz.jpg (167 KB)
 03:53:43 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/izometrychni-vpravy-hipertonia-wall-sit-bjsm-meta-analiz.md
 2026-04-16 03:53:43 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/izometrychni-vpravy-hipertonia-wall-sit-bjsm-meta-analiz.md
+03:53:43 [pipeline] INFO: Article ready: izometrychni-vpravy-hipertonia-wall-sit-bjsm-meta-analiz (Ізометричні вправи проти гіпертонії: чому wall sit)
+2026-04-16 03:53:43 [pipeline] INFO: Article ready: izometrychni-vpravy-hipertonia-wall-sit-bjsm-meta-analiz (Ізометричні вправи проти гіпертонії: чому wall sit)
+03:53:43 [pipeline] INFO: === Article 6/9 ===
+2026-04-16 03:53:43 [pipeline] INFO: === Article 6/9 ===
+03:53:43 [pipeline] INFO: --- Article: [guide] Обструктивне апное сну: чому хропіння — це не жарт, а загроз ---
+2026-04-16 03:53:43 [pipeline] INFO: --- Article: [guide] Обструктивне апное сну: чому хропіння — це не жарт, а загроз ---
+03:53:43 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 03:53:43 [asyncio] DEBUG: Using selector: EpollSelector
+03:53:43 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 03:53:43 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:56:28 [pipeline.stages.s2_research] INFO: Research complete: 15057 chars
+2026-04-16 03:56:28 [pipeline.stages.s2_research] INFO: Research complete: 15057 chars
+03:56:28 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 03:56:28 [asyncio] DEBUG: Using selector: EpollSelector
+03:56:28 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 03:56:28 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:58:12 [pipeline.stages.s3_generate] INFO: Generated: 'Обструктивне апное сну: чому хропіння — це не жарт, а загроза, яку не помічає 80% хворих' (slug=obstruktyvne-apnoe-snu-stop-bang-diagnostyka-likuvannia, 1177 words, 13 sources)
+2026-04-16 03:58:12 [pipeline.stages.s3_generate] INFO: Generated: 'Обструктивне апное сну: чому хропіння — це не жарт, а загроза, яку не помічає 80% хворих' (slug=obstruktyvne-apnoe-snu-stop-bang-diagnostyka-likuvannia, 1177 words, 13 sources)
+03:58:12 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 03:58:12 [asyncio] DEBUG: Using selector: EpollSelector
+03:58:12 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 03:58:12 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:58:33 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-16 03:58:33 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+03:58:33 [pipeline.stages.s4_review] INFO: Feedback: Стаття науково обґрунтована, всі ключові твердження підкріплені цитованими джерелами (мета-аналізи, клінічні настанови AASM, великі когортні дослідження). Інтерпретація даних коректна: правильно розме
+2026-04-16 03:58:33 [pipeline.stages.s4_review] INFO: Feedback: Стаття науково обґрунтована, всі ключові твердження підкріплені цитованими джерелами (мета-аналізи, клінічні настанови AASM, великі когортні дослідження). Інтерпретація даних коректна: правильно розме
+03:58:33 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 03:58:33 [asyncio] DEBUG: Using selector: EpollSelector
+03:58:33 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 03:58:33 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:00:08 [pipeline.stages.s5_revise] INFO: Revised article: 1333 words
+2026-04-16 04:00:08 [pipeline.stages.s5_revise] INFO: Revised article: 1333 words
+04:00:08 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-16 04:00:08 [pipeline] INFO: === Review cycle 1/3 complete ===
+04:00:08 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 04:00:08 [asyncio] DEBUG: Using selector: EpollSelector
+04:00:08 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 04:00:08 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:00:24 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-16 04:00:24 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+04:00:24 [pipeline.stages.s4_review] INFO: Feedback: Strong, evidence-based guide on OSA. Claims are well-sourced with reputable studies (Lancet, NEJM, JACC, AASM guidelines, recent meta-analyses). The article correctly distinguishes screening (STOP-BAN
+2026-04-16 04:00:24 [pipeline.stages.s4_review] INFO: Feedback: Strong, evidence-based guide on OSA. Claims are well-sourced with reputable studies (Lancet, NEJM, JACC, AASM guidelines, recent meta-analyses). The article correctly distinguishes screening (STOP-BAN
+04:00:24 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-16 04:00:24 [pipeline] INFO: Article approved after 1 revision(s)
+04:00:24 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 04:00:24 [asyncio] DEBUG: Using selector: EpollSelector
+04:00:24 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 04:00:24 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:00:43 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands at the bedside of a sleep-study room, gesturing  | pose=Standing in a half-turn presenting stance — left hand holding a tablet at chest height, right arm extended pointing toward the monitor's AHI graph, weight on her back foot, slight forward lean as if teaching | expression=Explaining/teaching expression — one eyebrow slightly raised, engaged and serious eyes, lips parted mid-sentence, conveying urgency without alarm | props=Tablet displaying STOP-BANG sleep apnea risk questionnaire, Wall-mounted medical monitor with AHI graph and oxygen saturation curve, CPAP mask resting on a mannequin head on the nightstand, Pulse oximeter clipped to a small stand
+2026-04-16 04:00:43 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands at the bedside of a sleep-study room, gesturing  | pose=Standing in a half-turn presenting stance — left hand holding a tablet at chest height, right arm extended pointing toward the monitor's AHI graph, weight on her back foot, slight forward lean as if teaching | expression=Explaining/teaching expression — one eyebrow slightly raised, engaged and serious eyes, lips parted mid-sentence, conveying urgency without alarm | props=Tablet displaying STOP-BANG sleep apnea risk questionnaire, Wall-mounted medical monitor with AHI graph and oxygen saturation curve, CPAP mask resting on a mannequin head on the nightstand, Pulse oximeter clipped to a small stand
+04:00:43 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 04:00:43 [asyncio] DEBUG: Using selector: EpollSelector
+04:00:43 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 04:00:43 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:00:54 [pipeline.stages.s6_generate_tg] INFO: TG caption: 663 chars
+2026-04-16 04:00:54 [pipeline.stages.s6_generate_tg] INFO: TG caption: 663 chars
+04:00:54 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-16 04:00:54 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:02:11 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-16 04:02:11 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+04:02:11 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-16 04:02:11 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+04:02:11 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 3089440
+2026-04-16 04:02:11 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 3089440
+04:02:11 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/obstruktyvne-apnoe-snu-stop-bang-diagnostyka-likuvannia.jpg (194 KB)
+2026-04-16 04:02:11 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/obstruktyvne-apnoe-snu-stop-bang-diagnostyka-likuvannia.jpg (194 KB)
+04:02:11 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/obstruktyvne-apnoe-snu-stop-bang-diagnostyka-likuvannia.md
+2026-04-16 04:02:11 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/obstruktyvne-apnoe-snu-stop-bang-diagnostyka-likuvannia.md
