@@ -1,0 +1,87 @@
+{
+  "articles": [
+    {
+      "topic": "Нові діагностичні тести для туберкульозу: ВООЗ оновила рекомендації — що це означає для України",
+      "type": "research",
+      "category": "prevention",
+      "angle": "ВООЗ щойно рекомендувала нові молекулярні діагностичні інструменти для ТБ. Україна — серед країн із високим тягарем мультирезистентного ТБ. Розглядаємо, які саме тести рекомендовані, чим вони кращі за попередні (Xpert MTB/RIF), та як швидко вони можуть з'явитися в українських лабораторіях. Акцент на практиці: кому і коли варто перевіритися.",
+      "sources_hint": "WHO news release April 2026 on TB diagnostics; WHO consolidated guidelines on tuberculosis Module 3 (2024-2026); Lancet Infectious Diseases systematic reviews on Truenat, LAMP, and next-gen Xpert; Ukraine National TB Program statistics from UCDC; PubMed: 'tuberculosis rapid molecular diagnostics systematic review 2025 2026'",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "ПТСР та серце: чому травматичний стрес подвоює ризик інфаркту і що можна зробити вже зараз",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Мета-аналіз Edmondson et al. (JAMA, 2013; оновлений аналіз 2024–2025) показує, що ПТСР підвищує ризик серцево-судинних подій на 55–61%. В умовах війни в Україні (оцінки поширеності ПТСР 25–30% серед постраждалого населення) це стає критичним питанням громадського здоров'я. Стаття пояснює біомеханізм (хронічна активація HPA-осі → запалення → атеросклероз) і дає доказові поради: травма-фокусована КПТ знижує кардіоваскулярний ризик, фізична активність як ад'ювантна терапія. Відмінність від попередньої статті про КПТ-самодопомогу (12 квітня): тут фокус не на техніках самодопомоги, а на зв'язку травми з фізичним здоров'ям і необхідності професійної допомоги.",
+      "sources_hint": "Edmondson D et al. PTSD and cardiovascular disease, JAMA 2013 + updated meta-analyses 2024-2025; Song H et al. BMJ 2019 (n=136,637 stress-related disorders and CVD); Vaccarino V et al. JAMA Cardiology 2021; PubMed: 'PTSD cardiovascular risk meta-analysis 2024 2025'; WHO Ukraine mental health assessments",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Скринінг раку в Україні: які обстеження рятують життя, в якому віці починати та що покриває НСЗУ",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Весна — традиційний час профілактичних оглядів. Доказовий чек-лист скринінгових обстежень за віком (20+, 30+, 40+, 50+) на основі рекомендацій USPSTF, European Cancer Organisation та українських протоколів. Які скринінги мають сильні докази (мамографія, колоноскопія, цитологія шийки матки, LD-CT для курців), які — спірні (PSA для простати, самообстеження грудей), а які — марнування грошей (онкомаркери «для профілактики»). Практичний фокус: що безкоштовно за програмою НСЗУ, де шукати в Україні, як записатися. Розширює вчорашню статтю про UV та меланому до системного підходу — шкірний скринінг є лише одним із компонентів.",
+      "sources_hint": "USPSTF A and B recommendations 2024-2026; European Commission cancer screening recommendations 2022; IARC Handbook of Cancer Prevention volumes; Ukrainian MOH screening protocols (nakaz MOZ); NHSU (НСЗУ) covered services list 2026; PubMed: 'cancer screening effectiveness NNS systematic review'; Cochrane reviews on mammography, colonoscopy, cervical screening",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Ультраоброблені продукти та деменція: нове когортне дослідження показує дозозалежний зв'язок",
+      "type": "research",
+      "category": "nutrition",
+      "angle": "Когортне дослідження Li et al. (Neurology, 2025; n>72,000, UK Biobank) та мета-аналіз 2024 р. (Henney et al., 11 проспективних досліджень) показують, що кожні 10% приросту калорій з UPF підвищують ризик деменції на 16–25%. Це не повторює наші статті про суперфуди (поодинокі продукти) чи середземноморську дієту (патерн харчування) — фокус саме на ступені обробки як незалежному факторі. Практичні правила ідентифікації UPF у українських магазинах за класифікацією NOVA. Чесне застереження: обсерваційні дані, причинність не доведена.",
+      "sources_hint": "Li H et al. Neurology 2025 (UK Biobank, n=72,000+); Henney AE et al. Nutrients 2024 (11 prospective studies meta-analysis); Goncalves NG et al. JAMA Neurology 2023 (n=10,775, Brazilian cohort); Monteiro CA NOVA classification; PubMed: 'ultra-processed food cognitive decline dementia meta-analysis 2024 2025'",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Ізометричні вправи проти гіпертонії: мета-аналіз BJSM показав їхню перевагу над кардіо та силовими",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Мета-аналіз Edwards & Piepoli (BJSM, 2023; 270 РКД, n=15,827) виявив, що ізометричні вправи (wall sit, plank) знижують систолічний тиск на 8,24 мм рт. ст. — ефективніше за аеробні, динамічні силові та HIIT. Це свіжий кут: попередні фітнес-статті розглядали кардіо, ексцентричний тренінг, функціональний тренінг та плавання — але не ізометрику. Практична програма: 4 × 2 хв wall sit, 3 рази/тиждень. Особливо актуально для 35% дорослих українців з підвищеним тиском.",
+      "sources_hint": "Edwards JJ, Deenmamode AHP, Griffiths M et al. BJSM 2023 (270 RCTs, n=15,827); Inder JD et al. JAMA Internal Medicine 2016 isometric handgrip; Wiles JD et al. 2017 wall squat RCT; ESC/ESH 2023 hypertension guidelines mention isometric; PubMed: 'isometric exercise blood pressure meta-analysis 2023 2024'",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Обструктивне апное сну: чому хропіння — це не жарт, а загроза, яку не помічає 80% хворих",
+      "type": "guide",
+      "category": "sleep",
+      "angle": "Апное сну уражує до 1 мільярда людей у світі, але більшість не діагностовані — це криза гіподіагностики. В Україні доступ до полісомнографії обмежений, тому стаття акцентує на самодіагностиці та доступних рішеннях: 1) STOP-BANG опитувальник для самооцінки ризику (валідований інструмент, чутливість >90%), 2) пояснює різницю між хропінням і апное, 3) розглядає наслідки для когнітивних функцій та денної продуктивності (мета-аналіз: ризик ДТП у 2,4 рази вищий), 4) практичні поради — від позиційної терапії до CPAP. Не перетинається з попередніми статтями про сон (які стосувалися засинання, якості сну та хронотипів) — тут мова про медичний розлад, що потребує діагностики.",
+      "sources_hint": "Benjafield AV et al. Lancet Resp Med 2019 (global prevalence ~1 billion); Marin JM et al. Lancet 2005 (untreated severe OSA and CVD mortality); Tregear S et al. J Clin Sleep Med 2009 (OSA and driving accidents meta-analysis); AASM clinical guidelines for OSA diagnosis; PubMed: 'obstructive sleep apnea cognitive impairment meta-analysis 2024'; STOP-BANG questionnaire validation studies; Javaheri S, Barbe F, Campos-Rodriguez F et al. JAMA 2017",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Метформін як потенційний препарат проти старіння: від діабетичного ліку до TAME — що відомо на 2026 рік",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Метформін — дешевий діабетичний препарат — може стати першим офіційно схваленим анти-ейджинг засобом. Огляд ретроспективних даних (Bannister et al. 2014: діабетики на метформіні жили довше за недіабетиків), мета-аналізів (Campbell 2024: зниження all-cause mortality), а також статус дослідження TAME (Targeting Aging with Metformin, запланований NIH, n=3,000). Чесний баланс: в Україні метформін коштує ~80–150 грн/місяць, але без показань приймати його не рекомендовано. Відмінність від нещодавньої NAD+ статті (12 квітня): метформін має набагато більше клінічних даних на людях і принципово інший механізм дії (AMPK-активація vs NAD+-прекурсори).",
+      "sources_hint": "Bannister CA et al. Diabetes Obes Metab 2014; Campbell JM et al. Ageing Res Rev 2017 + 2024 update; Barzilai N, TAME trial design, Cell Metab 2016; Mohammed I et al. Lancet Healthy Longevity 2021; PubMed: 'metformin aging longevity meta-analysis 2024 2025 2026'; ITP (Interventions Testing Program) NIA data on metformin",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "CGM для здорових людей: чи варто носити сенсор глюкози без діабету?",
+      "type": "lifehack",
+      "category": "biohacking",
+      "angle": "Безперервні глюкозні монітори (Freestyle Libre, Dexcom) стали трендом серед біохакерів: нібито допомагають обирати продукти, контролювати вагу та навіть покращувати сон. Але що каже наука? Систематичний огляд Jarvis et al. (2024) не знайшов значущих переваг CGM для здорових людей. Варіабельність глюкози у нормі — 3,5–7,8 ммоль/л — і вона мало говорить про здоров'я. В Україні сенсор Libre коштує ~2,500 грн/14 днів. Чесний аналіз: для кого це може бути виправданим (преддіабет, HbA1c >5,7%), а для кого — марнування грошей.",
+      "sources_hint": "Jarvis PRE et al. Diabetologia 2024 systematic review CGM in non-diabetic adults; Hall H et al. PLOS Biology 2018 (Stanford glucotype study); Berry SE et al. Nature Medicine 2020 (PREDICT study, individual glycemic responses); Shah VN et al. J Diabetes Sci Technol 2019; PubMed: 'continuous glucose monitoring healthy non-diabetic systematic review 2024 2025'",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Колагенові добавки: чи є докази, що порошки та капсули покращують шкіру, суглоби та волосся",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Ринок колагену зростає на 8% щорічно, українці витрачають 400–1,500 грн/місяць. Мета-аналіз de Miranda et al. (2021; 19 РКД, n=1,125) показав помірне покращення еластичності та зволоженості шкіри при вживанні гідролізованого колагену 2,5–10 г/день протягом 8+ тижнів. Для суглобів дані слабші (Clark et al. 2008, одне RCT з Penn State). Ключова проблема: колаген розщеплюється на амінокислоти в ШКТ, і немає доказів, що вони цілеспрямовано потрапляють у шкіру чи хрящі. Порівняння з дешевшою альтернативою — звичайний желатин + вітамін С. Відмінність від нещодавніх статей про добавки (магній, омега-3, креатин, NAD+): колаген — найпопулярніша добавка серед жінок в Україні з найбільшим розривом між маркетингом та доказами.",
+      "sources_hint": "de Miranda RB et al. Int J Dermatol 2021 (19 RCTs meta-analysis); Baati M et al. Nutrients 2024 updated meta-analysis; Clark KL et al. Curr Med Res Opin 2008; Shaw G et al. AJCN 2017 (collagen + vitamin C); PubMed: 'collagen peptides skin hydration elasticity meta-analysis 2023 2024'; EFSA opinions on collagen health claims",
+      "evidence_level": "moderate",
+      "priority": 2
+    }
+  ],
+  "date": "2026-04-16",
+  "created_at": "2026-04-16T03:03:02.469571+00:00"
+}

@@ -1,0 +1,290 @@
+{
+  "timestamp": "2026-04-15_224100",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "microplastics-blood-arteries-nejm-cardiovascular-risk, april-uv-index-ukraine-abcde-mole-check-spf-guide, noise-pollution-cardiovascular-health-who-research, zhyry-v-ratsioni-norma-dlya-skhudnennia-kaloriinist, overtraining-syndrome-7-signs-recovery",
+  "author": "LongLife Media",
+  "duration_s": 7411.9,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 398.1,
+      "error": null
+    },
+    {
+      "name": "research:Мікропластик у крові та артері",
+      "status": "ok",
+      "duration_s": 253.4,
+      "error": null
+    },
+    {
+      "name": "generate:Мікропластик у крові та артері",
+      "status": "ok",
+      "duration_s": 83.7,
+      "error": null
+    },
+    {
+      "name": "review:Мікропластик у крові та артері",
+      "status": "ok",
+      "duration_s": 370.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Мікропластик у крові та артері",
+      "status": "ok",
+      "duration_s": 26.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Мікропластик у крові та артері",
+      "status": "ok",
+      "duration_s": 10.9,
+      "error": null
+    },
+    {
+      "name": "save:Мікропластик у крові та артері",
+      "status": "ok",
+      "duration_s": 69.9,
+      "error": null
+    },
+    {
+      "name": "research:Квітневе сонце в Україні: чому",
+      "status": "ok",
+      "duration_s": 256.5,
+      "error": null
+    },
+    {
+      "name": "generate:Квітневе сонце в Україні: чому",
+      "status": "ok",
+      "duration_s": 149.0,
+      "error": null
+    },
+    {
+      "name": "review:Квітневе сонце в Україні: чому",
+      "status": "ok",
+      "duration_s": 598.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Квітневе сонце в Україні: чому",
+      "status": "ok",
+      "duration_s": 22.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Квітневе сонце в Україні: чому",
+      "status": "ok",
+      "duration_s": 14.5,
+      "error": null
+    },
+    {
+      "name": "save:Квітневе сонце в Україні: чому",
+      "status": "ok",
+      "duration_s": 71.0,
+      "error": null
+    },
+    {
+      "name": "research:Шумове забруднення та здоров'я",
+      "status": "ok",
+      "duration_s": 233.5,
+      "error": null
+    },
+    {
+      "name": "generate:Шумове забруднення та здоров'я",
+      "status": "ok",
+      "duration_s": 86.3,
+      "error": null
+    },
+    {
+      "name": "review:Шумове забруднення та здоров'я",
+      "status": "ok",
+      "duration_s": 266.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Шумове забруднення та здоров'я",
+      "status": "ok",
+      "duration_s": 27.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Шумове забруднення та здоров'я",
+      "status": "ok",
+      "duration_s": 13.3,
+      "error": null
+    },
+    {
+      "name": "save:Шумове забруднення та здоров'я",
+      "status": "ok",
+      "duration_s": 73.5,
+      "error": null
+    },
+    {
+      "name": "research:Надлишок жирів у раціоні: чому",
+      "status": "ok",
+      "duration_s": 217.7,
+      "error": null
+    },
+    {
+      "name": "generate:Надлишок жирів у раціоні: чому",
+      "status": "ok",
+      "duration_s": 139.8,
+      "error": null
+    },
+    {
+      "name": "review:Надлишок жирів у раціоні: чому",
+      "status": "ok",
+      "duration_s": 388.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Надлишок жирів у раціоні: чому",
+      "status": "ok",
+      "duration_s": 29.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Надлишок жирів у раціоні: чому",
+      "status": "ok",
+      "duration_s": 16.4,
+      "error": null
+    },
+    {
+      "name": "save:Надлишок жирів у раціоні: чому",
+      "status": "ok",
+      "duration_s": 68.8,
+      "error": null
+    },
+    {
+      "name": "research:Перетренованість: 7 ознак, що ",
+      "status": "ok",
+      "duration_s": 255.8,
+      "error": null
+    },
+    {
+      "name": "generate:Перетренованість: 7 ознак, що ",
+      "status": "ok",
+      "duration_s": 92.4,
+      "error": null
+    },
+    {
+      "name": "review:Перетренованість: 7 ознак, що ",
+      "status": "ok",
+      "duration_s": 385.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Перетренованість: 7 ознак, що ",
+      "status": "ok",
+      "duration_s": 26.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Перетренованість: 7 ознак, що ",
+      "status": "ok",
+      "duration_s": 15.7,
+      "error": null
+    },
+    {
+      "name": "save:Перетренованість: 7 ознак, що ",
+      "status": "ok",
+      "duration_s": 65.9,
+      "error": null
+    },
+    {
+      "name": "research:Аутофагія без голодування: 5 д",
+      "status": "ok",
+      "duration_s": 288.0,
+      "error": null
+    },
+    {
+      "name": "generate:Аутофагія без голодування: 5 д",
+      "status": "ok",
+      "duration_s": 94.0,
+      "error": null
+    },
+    {
+      "name": "review:Аутофагія без голодування: 5 д",
+      "status": "ok",
+      "duration_s": 227.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Аутофагія без голодування: 5 д",
+      "status": "ok",
+      "duration_s": 26.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Аутофагія без голодування: 5 д",
+      "status": "ok",
+      "duration_s": 21.7,
+      "error": null
+    },
+    {
+      "name": "save:Аутофагія без голодування: 5 д",
+      "status": "ok",
+      "duration_s": 71.3,
+      "error": null
+    },
+    {
+      "name": "research:Червоне та інфрачервоне світло",
+      "status": "ok",
+      "duration_s": 562.5,
+      "error": null
+    },
+    {
+      "name": "generate:Червоне та інфрачервоне світло",
+      "status": "ok",
+      "duration_s": 98.4,
+      "error": null
+    },
+    {
+      "name": "review:Червоне та інфрачервоне світло",
+      "status": "ok",
+      "duration_s": 243.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Червоне та інфрачервоне світло",
+      "status": "ok",
+      "duration_s": 29.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Червоне та інфрачервоне світло",
+      "status": "ok",
+      "duration_s": 14.9,
+      "error": null
+    },
+    {
+      "name": "save:Червоне та інфрачервоне світло",
+      "status": "ok",
+      "duration_s": 68.7,
+      "error": null
+    },
+    {
+      "name": "research:Гідратація по науці: чому «8 с",
+      "status": "failed",
+      "duration_s": 934.8,
+      "error": "agent_query timed out after 300s"
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.8,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

@@ -300,5 +300,21 @@
       "докази"
     ],
     "summary": "Photobiomodulation (red/NIR light therapy at 630–850 nm) has tiered evidence: STRONG for joint pain in knee osteoarthritis (22-RCT meta-analysis, BMJ Open 2019); MODERATE for muscle recovery pre-exercise (13-RCT meta-analysis, Lasers Med Sci 2015); WEAK for skin anti-aging (single RCT, n=136); ABSENT for standalone fat burning (body fat% non-significant, p=0.57) and \"detox\" (zero clinical evidence). An umbrella review of 204 RCTs (Son 2025) found zero high-certainty outcomes. Home LED panels (3,000–25,000 UAH in Ukraine) theoretically can work per Heiskanen & Hamblin 2018, but most lack independent verification of power output and wavelength. Practical takeaway: consult a doctor for clinical PBM if joints hurt; don't buy panels expecting fat loss or detox."
+  },
+  "voz-novi-testy-tuberkuloz-2026-ukraina": {
+    "date": "2026-04-16",
+    "title": "Нові тести на туберкульоз: що рекомендує ВООЗ у 2026 році і коли вони дійдуть до України",
+    "type": "research",
+    "tags": [
+      "туберкульоз",
+      "діагностика",
+      "ВООЗ",
+      "дослідження",
+      "профілактика",
+      "Україна",
+      "здоровя легень",
+      "інфекційні хвороби"
+    ],
+    "summary": "WHO released new TB diagnostic recommendations in March 2026 endorsing three innovations: near point-of-care molecular tests (NPOC-NAATs) delivering results in under 1 hour at half the cost, tongue swabs as an alternative specimen for patients unable to produce sputum, and sputum pooling for faster lab throughput. Cochrane 2025 review (n≈7,120) shows Truenat MTB Plus sensitivity 90.6% and specificity 95.7%, slightly less sensitive than Xpert Ultra but decentralisable. Lancet Global Health 2024 and Frontiers 2024 confirm tongue swabs work better than cheek swabs (sensitivity 0.75 vs 0.52). Critical for Ukraine: WHO Global TB Report 2025 lists Ukraine among 30 high-burden MDR/RR-TB countries with ~9,651 cases in 2024, with 29% MDR among new cases and up to 30% fluoroquinolone resistance in Kharkiv. Takeaway: see a family doctor if cough lasts >2-3 weeks or you have night sweats, weight loss, or TB contact. Evidence moderate; Ukrainian rollout timeline not yet announced."
   }
 }
