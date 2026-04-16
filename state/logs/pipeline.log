@@ -3957,3 +3957,71 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-16 03:27:32 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/ptsr-sertsevo-sudynnyi-ryzyk-travma-serce.jpg (194 KB)
 03:27:32 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/ptsr-sertsevo-sudynnyi-ryzyk-travma-serce.md
 2026-04-16 03:27:32 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/ptsr-sertsevo-sudynnyi-ryzyk-travma-serce.md
+03:27:32 [pipeline] INFO: Article ready: ptsr-sertsevo-sudynnyi-ryzyk-travma-serce (ПТСР та серце: чому травматичний стрес підвищує ри)
+2026-04-16 03:27:32 [pipeline] INFO: Article ready: ptsr-sertsevo-sudynnyi-ryzyk-travma-serce (ПТСР та серце: чому травматичний стрес підвищує ри)
+03:27:32 [pipeline] INFO: === Article 3/9 ===
+2026-04-16 03:27:32 [pipeline] INFO: === Article 3/9 ===
+03:27:32 [pipeline] INFO: --- Article: [guide] Скринінг раку в Україні: які обстеження рятують життя, в яко ---
+2026-04-16 03:27:32 [pipeline] INFO: --- Article: [guide] Скринінг раку в Україні: які обстеження рятують життя, в яко ---
+03:27:32 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 03:27:32 [asyncio] DEBUG: Using selector: EpollSelector
+03:27:32 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 03:27:32 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:30:55 [pipeline.stages.s2_research] INFO: Research complete: 19182 chars
+2026-04-16 03:30:55 [pipeline.stages.s2_research] INFO: Research complete: 19182 chars
+03:30:55 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 03:30:55 [asyncio] DEBUG: Using selector: EpollSelector
+03:30:55 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 03:30:55 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:33:05 [pipeline.stages.s3_generate] INFO: Generated: 'Скринінг раку за віком: що покриває НСЗУ, а що — марнування грошей (чек-лист 20+, 30+, 40+, 50+)' (slug=skryninh-raku-ukraina-chek-list-za-vikom-nszu, 1335 words, 16 sources)
+2026-04-16 03:33:05 [pipeline.stages.s3_generate] INFO: Generated: 'Скринінг раку за віком: що покриває НСЗУ, а що — марнування грошей (чек-лист 20+, 30+, 40+, 50+)' (slug=skryninh-raku-ukraina-chek-list-za-vikom-nszu, 1335 words, 16 sources)
+03:33:05 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 03:33:05 [asyncio] DEBUG: Using selector: EpollSelector
+03:33:05 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 03:33:05 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:33:22 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-16 03:33:22 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+03:33:22 [pipeline.stages.s4_review] INFO: Feedback: Strong, evidence-based guide with appropriate citations to USPSTF, Cochrane, NEJM, Lancet, and Ukrainian MOZ sources. Balanced tone — explicitly addresses overdiagnosis (mammography ~30%), PSA harms (
+2026-04-16 03:33:22 [pipeline.stages.s4_review] INFO: Feedback: Strong, evidence-based guide with appropriate citations to USPSTF, Cochrane, NEJM, Lancet, and Ukrainian MOZ sources. Balanced tone — explicitly addresses overdiagnosis (mammography ~30%), PSA harms (
+03:33:22 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 03:33:22 [asyncio] DEBUG: Using selector: EpollSelector
+03:33:22 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 03:33:22 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:35:22 [pipeline.stages.s5_revise] INFO: Revised article: 1509 words
+2026-04-16 03:35:22 [pipeline.stages.s5_revise] INFO: Revised article: 1509 words
+03:35:22 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-16 03:35:22 [pipeline] INFO: === Review cycle 1/3 complete ===
+03:35:22 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 03:35:22 [asyncio] DEBUG: Using selector: EpollSelector
+03:35:22 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 03:35:22 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:35:39 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-16 03:35:39 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+03:35:39 [pipeline.stages.s4_review] INFO: Feedback: Strong, evidence-based guide with appropriate citations to USPSTF, Cochrane, NEJM, Lancet, IARC, and the Ukrainian MOZ order #1368. Study limitations are honestly acknowledged (overdiagnosis in mammog
+2026-04-16 03:35:39 [pipeline.stages.s4_review] INFO: Feedback: Strong, evidence-based guide with appropriate citations to USPSTF, Cochrane, NEJM, Lancet, IARC, and the Ukrainian MOZ order #1368. Study limitations are honestly acknowledged (overdiagnosis in mammog
+03:35:39 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-16 03:35:39 [pipeline] INFO: Article approved after 1 revision(s)
+03:35:39 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 03:35:39 [asyncio] DEBUG: Using selector: EpollSelector
+03:35:39 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 03:35:39 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:35:58 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita Zelenko, a tall athletic woman in her late 20s with lon | pose=Confident upright presenting stance, body angled three-quarters toward the viewer, left hand holding a tablet at chest height, right arm extended pointing at the '40+' row on the wall infographic, weight slightly forward on the front foot | expression=Explaining/teaching expression — one eyebrow slightly raised, warm engaged eyes, lips parted in mid-explanation with a gentle encouraging smile | props=digital tablet showing colour-coded cancer screening checklist with НСЗУ logo, wall infographic with age milestones 20+/30+/40+/50+ and screening icons (mammography, colonoscopy, Pap smear, dermatoscopy), clipboard with МОЗ наказ №1368 printed at the top resting on a glass desk, green apple and stethoscope on the desk as subtle health accents
+2026-04-16 03:35:58 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita Zelenko, a tall athletic woman in her late 20s with lon | pose=Confident upright presenting stance, body angled three-quarters toward the viewer, left hand holding a tablet at chest height, right arm extended pointing at the '40+' row on the wall infographic, weight slightly forward on the front foot | expression=Explaining/teaching expression — one eyebrow slightly raised, warm engaged eyes, lips parted in mid-explanation with a gentle encouraging smile | props=digital tablet showing colour-coded cancer screening checklist with НСЗУ logo, wall infographic with age milestones 20+/30+/40+/50+ and screening icons (mammography, colonoscopy, Pap smear, dermatoscopy), clipboard with МОЗ наказ №1368 printed at the top resting on a glass desk, green apple and stethoscope on the desk as subtle health accents
+03:35:58 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 03:35:58 [asyncio] DEBUG: Using selector: EpollSelector
+03:35:58 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 03:35:58 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:36:07 [pipeline.stages.s6_generate_tg] INFO: TG caption: 541 chars
+2026-04-16 03:36:07 [pipeline.stages.s6_generate_tg] INFO: TG caption: 541 chars
+03:36:07 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-16 03:36:07 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:37:14 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-16 03:37:14 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+03:37:15 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-16 03:37:15 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+03:37:15 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 2838814
+2026-04-16 03:37:15 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 2838814
+03:37:15 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/skryninh-raku-ukraina-chek-list-za-vikom-nszu.jpg (194 KB)
+2026-04-16 03:37:15 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/skryninh-raku-ukraina-chek-list-za-vikom-nszu.jpg (194 KB)
+03:37:15 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/skryninh-raku-ukraina-chek-list-za-vikom-nszu.md
+2026-04-16 03:37:15 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/skryninh-raku-ukraina-chek-list-za-vikom-nszu.md
