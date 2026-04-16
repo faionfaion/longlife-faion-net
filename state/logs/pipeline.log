@@ -4025,3 +4025,71 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-16 03:37:15 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/skryninh-raku-ukraina-chek-list-za-vikom-nszu.jpg (194 KB)
 03:37:15 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/skryninh-raku-ukraina-chek-list-za-vikom-nszu.md
 2026-04-16 03:37:15 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/skryninh-raku-ukraina-chek-list-za-vikom-nszu.md
+03:37:15 [pipeline] INFO: Article ready: skryninh-raku-ukraina-chek-list-za-vikom-nszu (Скринінг раку за віком: що покриває НСЗУ, а що — м)
+2026-04-16 03:37:15 [pipeline] INFO: Article ready: skryninh-raku-ukraina-chek-list-za-vikom-nszu (Скринінг раку за віком: що покриває НСЗУ, а що — м)
+03:37:15 [pipeline] INFO: === Article 4/9 ===
+2026-04-16 03:37:15 [pipeline] INFO: === Article 4/9 ===
+03:37:15 [pipeline] INFO: --- Article: [research] Ультраоброблені продукти та деменція: нове когортне дослідже ---
+2026-04-16 03:37:15 [pipeline] INFO: --- Article: [research] Ультраоброблені продукти та деменція: нове когортне дослідже ---
+03:37:15 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 03:37:15 [asyncio] DEBUG: Using selector: EpollSelector
+03:37:15 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 03:37:15 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:40:41 [pipeline.stages.s2_research] INFO: Research complete: 14967 chars
+2026-04-16 03:40:41 [pipeline.stages.s2_research] INFO: Research complete: 14967 chars
+03:40:41 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 03:40:41 [asyncio] DEBUG: Using selector: EpollSelector
+03:40:41 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 03:40:41 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:41:47 [pipeline.stages.s3_generate] INFO: Generated: 'Ультраоброблені продукти та деменція: що показують нові когортні дослідження' (slug=ultraobrobleni-produkty-dementsiia-kohortni-doslidzhennia, 570 words, 7 sources)
+2026-04-16 03:41:47 [pipeline.stages.s3_generate] INFO: Generated: 'Ультраоброблені продукти та деменція: що показують нові когортні дослідження' (slug=ultraobrobleni-produkty-dementsiia-kohortni-doslidzhennia, 570 words, 7 sources)
+03:41:47 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 03:41:47 [asyncio] DEBUG: Using selector: EpollSelector
+03:41:47 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 03:41:47 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:42:24 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-16 03:42:24 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+03:42:24 [pipeline.stages.s4_review] INFO: Feedback: Стаття наукова, збалансована, з якісними джерелами. Автор чесно розділяє кореляцію і причинність, називає обмеження (I²=97%, обсерваційний дизайн, конфаундери дохід/активність, вікове обмеження у Fram
+2026-04-16 03:42:24 [pipeline.stages.s4_review] INFO: Feedback: Стаття наукова, збалансована, з якісними джерелами. Автор чесно розділяє кореляцію і причинність, називає обмеження (I²=97%, обсерваційний дизайн, конфаундери дохід/активність, вікове обмеження у Fram
+03:42:24 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 03:42:24 [asyncio] DEBUG: Using selector: EpollSelector
+03:42:24 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 03:42:24 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:43:11 [pipeline.stages.s5_revise] INFO: Revised article: 745 words
+2026-04-16 03:43:11 [pipeline.stages.s5_revise] INFO: Revised article: 745 words
+03:43:11 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-16 03:43:11 [pipeline] INFO: === Review cycle 1/3 complete ===
+03:43:11 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 03:43:11 [asyncio] DEBUG: Using selector: EpollSelector
+03:43:11 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 03:43:11 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:43:33 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-16 03:43:33 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+03:43:33 [pipeline.stages.s4_review] INFO: Feedback: Strong, scientifically sound piece. All major claims are sourced with direct links to peer-reviewed studies (Li 2022, Bhave 2024, Henney 2024, Gonçalves 2023, Gu 2025, Weinstein 2025, Monteiro 2019). 
+2026-04-16 03:43:33 [pipeline.stages.s4_review] INFO: Feedback: Strong, scientifically sound piece. All major claims are sourced with direct links to peer-reviewed studies (Li 2022, Bhave 2024, Henney 2024, Gonçalves 2023, Gu 2025, Weinstein 2025, Monteiro 2019). 
+03:43:33 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-16 03:43:33 [pipeline] INFO: Article approved after 1 revision(s)
+03:43:33 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 03:43:33 [asyncio] DEBUG: Using selector: EpollSelector
+03:43:33 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 03:43:33 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:43:56 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita Zelenko stands in a clean research lab, presenting a ho | pose=Presenting pose — feet shoulder-width apart in confident stance, right arm extended pointing toward the holographic risk chart, left hand holding a tablet displaying a brain scan and NOVA classification infographic, slight forward lean showing engagement. | expression=Explaining/teaching expression — one eyebrow slightly raised, focused green eyes making direct contact with the viewer, lips parted mid-explanation, warm but serious demeanor conveying scientific authority. | props=tablet showing NOVA food classification and brain MRI, holographic 3D brain model glowing softly, floating chart with '+10% UPF → +25% ризик деменції' curve, split display of ultra-processed foods (sausages, glazed cheese bars, instant noodles) vs whole foods (vegetables, nuts, fish)
+2026-04-16 03:43:56 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita Zelenko stands in a clean research lab, presenting a ho | pose=Presenting pose — feet shoulder-width apart in confident stance, right arm extended pointing toward the holographic risk chart, left hand holding a tablet displaying a brain scan and NOVA classification infographic, slight forward lean showing engagement. | expression=Explaining/teaching expression — one eyebrow slightly raised, focused green eyes making direct contact with the viewer, lips parted mid-explanation, warm but serious demeanor conveying scientific authority. | props=tablet showing NOVA food classification and brain MRI, holographic 3D brain model glowing softly, floating chart with '+10% UPF → +25% ризик деменції' curve, split display of ultra-processed foods (sausages, glazed cheese bars, instant noodles) vs whole foods (vegetables, nuts, fish)
+03:43:56 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 03:43:56 [asyncio] DEBUG: Using selector: EpollSelector
+03:43:56 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 03:43:56 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:44:08 [pipeline.stages.s6_generate_tg] INFO: TG caption: 694 chars
+2026-04-16 03:44:08 [pipeline.stages.s6_generate_tg] INFO: TG caption: 694 chars
+03:44:08 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-16 03:44:08 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:45:18 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-16 03:45:18 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+03:45:19 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-16 03:45:19 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+03:45:19 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 2985316
+2026-04-16 03:45:19 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 2985316
+03:45:19 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/ultraobrobleni-produkty-dementsiia-kohortni-doslidzhennia.jpg (216 KB)
+2026-04-16 03:45:19 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/ultraobrobleni-produkty-dementsiia-kohortni-doslidzhennia.jpg (216 KB)
+03:45:19 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/ultraobrobleni-produkty-dementsiia-kohortni-doslidzhennia.md
+2026-04-16 03:45:19 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/ultraobrobleni-produkty-dementsiia-kohortni-doslidzhennia.md
