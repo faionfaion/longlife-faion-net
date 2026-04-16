@@ -4229,3 +4229,71 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-16 04:02:11 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/obstruktyvne-apnoe-snu-stop-bang-diagnostyka-likuvannia.jpg (194 KB)
 04:02:11 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/obstruktyvne-apnoe-snu-stop-bang-diagnostyka-likuvannia.md
 2026-04-16 04:02:11 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/obstruktyvne-apnoe-snu-stop-bang-diagnostyka-likuvannia.md
+04:02:12 [pipeline] INFO: Article ready: obstruktyvne-apnoe-snu-stop-bang-diagnostyka-likuvannia (Обструктивне апное сну: чому хропіння — це не жарт)
+2026-04-16 04:02:12 [pipeline] INFO: Article ready: obstruktyvne-apnoe-snu-stop-bang-diagnostyka-likuvannia (Обструктивне апное сну: чому хропіння — це не жарт)
+04:02:12 [pipeline] INFO: === Article 7/9 ===
+2026-04-16 04:02:12 [pipeline] INFO: === Article 7/9 ===
+04:02:12 [pipeline] INFO: --- Article: [research] Метформін як потенційний препарат проти старіння: від діабет ---
+2026-04-16 04:02:12 [pipeline] INFO: --- Article: [research] Метформін як потенційний препарат проти старіння: від діабет ---
+04:02:12 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 04:02:12 [asyncio] DEBUG: Using selector: EpollSelector
+04:02:12 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 04:02:12 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:05:40 [pipeline.stages.s2_research] INFO: Research complete: 15575 chars
+2026-04-16 04:05:40 [pipeline.stages.s2_research] INFO: Research complete: 15575 chars
+04:05:40 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 04:05:40 [asyncio] DEBUG: Using selector: EpollSelector
+04:05:40 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 04:05:40 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:06:45 [pipeline.stages.s3_generate] INFO: Generated: 'Метформін проти старіння: що відомо у 2026 році про дешевий діабетичний препарат і дослідження TAME' (slug=metformin-anti-aging-tame-trial-2026, 602 words, 9 sources)
+2026-04-16 04:06:45 [pipeline.stages.s3_generate] INFO: Generated: 'Метформін проти старіння: що відомо у 2026 році про дешевий діабетичний препарат і дослідження TAME' (slug=metformin-anti-aging-tame-trial-2026, 602 words, 9 sources)
+04:06:45 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 04:06:45 [asyncio] DEBUG: Using selector: EpollSelector
+04:06:45 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 04:06:45 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:07:06 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-16 04:07:06 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+04:07:06 [pipeline.stages.s4_review] INFO: Feedback: Стаття написана якісно, з належним балансом між обнадійливими та обмежувальними даними. Усі ключові твердження підкріплені цитованими джерелами з робочими URL. Автор чесно представляє слабкі сторони д
+2026-04-16 04:07:06 [pipeline.stages.s4_review] INFO: Feedback: Стаття написана якісно, з належним балансом між обнадійливими та обмежувальними даними. Усі ключові твердження підкріплені цитованими джерелами з робочими URL. Автор чесно представляє слабкі сторони д
+04:07:06 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 04:07:06 [asyncio] DEBUG: Using selector: EpollSelector
+04:07:06 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 04:07:06 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:07:54 [pipeline.stages.s5_revise] INFO: Revised article: 789 words
+2026-04-16 04:07:54 [pipeline.stages.s5_revise] INFO: Revised article: 789 words
+04:07:54 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-16 04:07:54 [pipeline] INFO: === Review cycle 1/3 complete ===
+04:07:54 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 04:07:54 [asyncio] DEBUG: Using selector: EpollSelector
+04:07:54 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 04:07:54 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:08:10 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-16 04:08:10 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+04:08:10 [pipeline.stages.s4_review] INFO: Feedback: Strong, evidence-based piece with appropriate nuance. Sources are properly cited with URLs, study limitations (immortal-time bias, healthy-user effect, small primate sample, MASTERS muscle finding, DP
+2026-04-16 04:08:10 [pipeline.stages.s4_review] INFO: Feedback: Strong, evidence-based piece with appropriate nuance. Sources are properly cited with URLs, study limitations (immortal-time bias, healthy-user effect, small primate sample, MASTERS muscle finding, DP
+04:08:10 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-16 04:08:10 [pipeline] INFO: Article approved after 1 revision(s)
+04:08:10 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 04:08:10 [asyncio] DEBUG: Using selector: EpollSelector
+04:08:10 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 04:08:10 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:08:29 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a modern gerontology research lab, presenting | pose=Presenting stance — body angled three-quarters toward viewer, right hand holding up a metformin blister pack at chest level, left hand gesturing open-palmed toward the holographic survival curve, one eyebrow slightly raised in explaining mode | expression=Explaining/teaching expression with one eyebrow slightly raised, engaged warm eyes, slight confident smile — the look of a science communicator sharing nuanced data | props=transparent blister pack of white metformin tablets, holographic survival curve chart showing ratio 0.85, reading glasses pushed up on her head, tablet on the workbench displaying 'TAME Trial 2026', rack of laboratory test tubes
+2026-04-16 04:08:29 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a modern gerontology research lab, presenting | pose=Presenting stance — body angled three-quarters toward viewer, right hand holding up a metformin blister pack at chest level, left hand gesturing open-palmed toward the holographic survival curve, one eyebrow slightly raised in explaining mode | expression=Explaining/teaching expression with one eyebrow slightly raised, engaged warm eyes, slight confident smile — the look of a science communicator sharing nuanced data | props=transparent blister pack of white metformin tablets, holographic survival curve chart showing ratio 0.85, reading glasses pushed up on her head, tablet on the workbench displaying 'TAME Trial 2026', rack of laboratory test tubes
+04:08:29 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 04:08:29 [asyncio] DEBUG: Using selector: EpollSelector
+04:08:29 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 04:08:29 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:08:37 [pipeline.stages.s6_generate_tg] INFO: TG caption: 647 chars
+2026-04-16 04:08:37 [pipeline.stages.s6_generate_tg] INFO: TG caption: 647 chars
+04:08:37 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-16 04:08:37 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:09:45 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-16 04:09:45 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+04:09:46 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-16 04:09:46 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+04:09:46 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 2940003
+2026-04-16 04:09:46 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 2940003
+04:09:46 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/metformin-anti-aging-tame-trial-2026.jpg (225 KB)
+2026-04-16 04:09:46 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/metformin-anti-aging-tame-trial-2026.jpg (225 KB)
+04:09:46 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/metformin-anti-aging-tame-trial-2026.md
+2026-04-16 04:09:46 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/metformin-anti-aging-tame-trial-2026.md
