@@ -4093,3 +4093,71 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-16 03:45:19 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/ultraobrobleni-produkty-dementsiia-kohortni-doslidzhennia.jpg (216 KB)
 03:45:19 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/ultraobrobleni-produkty-dementsiia-kohortni-doslidzhennia.md
 2026-04-16 03:45:19 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/ultraobrobleni-produkty-dementsiia-kohortni-doslidzhennia.md
+03:45:19 [pipeline] INFO: Article ready: ultraobrobleni-produkty-dementsiia-kohortni-doslidzhennia (Ультраоброблені продукти та деменція: що показують)
+2026-04-16 03:45:19 [pipeline] INFO: Article ready: ultraobrobleni-produkty-dementsiia-kohortni-doslidzhennia (Ультраоброблені продукти та деменція: що показують)
+03:45:19 [pipeline] INFO: === Article 5/9 ===
+2026-04-16 03:45:19 [pipeline] INFO: === Article 5/9 ===
+03:45:19 [pipeline] INFO: --- Article: [fitness] Ізометричні вправи проти гіпертонії: мета-аналіз BJSM показа ---
+2026-04-16 03:45:19 [pipeline] INFO: --- Article: [fitness] Ізометричні вправи проти гіпертонії: мета-аналіз BJSM показа ---
+03:45:19 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 03:45:19 [asyncio] DEBUG: Using selector: EpollSelector
+03:45:19 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 03:45:19 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:48:54 [pipeline.stages.s2_research] INFO: Research complete: 12231 chars
+2026-04-16 03:48:54 [pipeline.stages.s2_research] INFO: Research complete: 12231 chars
+03:48:54 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 03:48:54 [asyncio] DEBUG: Using selector: EpollSelector
+03:48:54 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 03:48:54 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:50:11 [pipeline.stages.s3_generate] INFO: Generated: 'Ізометричні вправи проти гіпертонії: чому wall sit перемагає кардіо у мета-аналізі 270 досліджень' (slug=izometrychni-vpravy-hipertonia-wall-sit-bjsm-meta-analiz, 686 words, 7 sources)
+2026-04-16 03:50:11 [pipeline.stages.s3_generate] INFO: Generated: 'Ізометричні вправи проти гіпертонії: чому wall sit перемагає кардіо у мета-аналізі 270 досліджень' (slug=izometrychni-vpravy-hipertonia-wall-sit-bjsm-meta-analiz, 686 words, 7 sources)
+03:50:11 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 03:50:11 [asyncio] DEBUG: Using selector: EpollSelector
+03:50:11 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 03:50:11 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:50:35 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-16 03:50:35 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+03:50:35 [pipeline.stages.s4_review] INFO: Feedback: Стаття відмінної якості: спирається на мережевий мета-аналіз BJSM 2023 (Edwards et al.), коректно наводить цифри зниження АТ (SBP −8,24 / DBP −4,00 мм рт. ст.) та SUCRA 90,4% для wall sit, подає механ
+2026-04-16 03:50:35 [pipeline.stages.s4_review] INFO: Feedback: Стаття відмінної якості: спирається на мережевий мета-аналіз BJSM 2023 (Edwards et al.), коректно наводить цифри зниження АТ (SBP −8,24 / DBP −4,00 мм рт. ст.) та SUCRA 90,4% для wall sit, подає механ
+03:50:35 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 03:50:35 [asyncio] DEBUG: Using selector: EpollSelector
+03:50:35 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 03:50:35 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:51:46 [pipeline.stages.s5_revise] INFO: Revised article: 896 words
+2026-04-16 03:51:46 [pipeline.stages.s5_revise] INFO: Revised article: 896 words
+03:51:46 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-16 03:51:46 [pipeline] INFO: === Review cycle 1/3 complete ===
+03:51:46 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 03:51:46 [asyncio] DEBUG: Using selector: EpollSelector
+03:51:46 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 03:51:46 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:52:11 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-16 03:52:11 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+03:52:11 [pipeline.stages.s4_review] INFO: Feedback: Стаття відповідає стандартам доказовості. Усі ключові твердження мають посилання на первинні джерела (BJSM 2023, Sports Medicine 2024, Inder 2016, ESC 2024, ESH 2023, WHO). Мета-аналіз Едвардса предст
+2026-04-16 03:52:11 [pipeline.stages.s4_review] INFO: Feedback: Стаття відповідає стандартам доказовості. Усі ключові твердження мають посилання на первинні джерела (BJSM 2023, Sports Medicine 2024, Inder 2016, ESC 2024, ESH 2023, WHO). Мета-аналіз Едвардса предст
+03:52:11 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-16 03:52:11 [pipeline] INFO: Article approved after 1 revision(s)
+03:52:11 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 03:52:11 [asyncio] DEBUG: Using selector: EpollSelector
+03:52:11 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 03:52:11 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:52:29 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita Zelenko performs a textbook wall sit against a bright k | pose=Wall sit position — back flat against wall, knees bent at ~90 degrees, thighs parallel to floor, core engaged, right arm with blood pressure cuff, left hand holding the monitor display | expression=Confident smile with a slightly raised eyebrow, as if sharing a scientific secret, green eyes bright and focused | props=digital blood pressure monitor with arm cuff, stopwatch showing 2:00, tablet on counter displaying BJSM meta-analysis chart, green smoothie bottle
+2026-04-16 03:52:29 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita Zelenko performs a textbook wall sit against a bright k | pose=Wall sit position — back flat against wall, knees bent at ~90 degrees, thighs parallel to floor, core engaged, right arm with blood pressure cuff, left hand holding the monitor display | expression=Confident smile with a slightly raised eyebrow, as if sharing a scientific secret, green eyes bright and focused | props=digital blood pressure monitor with arm cuff, stopwatch showing 2:00, tablet on counter displaying BJSM meta-analysis chart, green smoothie bottle
+03:52:29 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 03:52:29 [asyncio] DEBUG: Using selector: EpollSelector
+03:52:29 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 03:52:29 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:52:39 [pipeline.stages.s6_generate_tg] INFO: TG caption: 608 chars
+2026-04-16 03:52:39 [pipeline.stages.s6_generate_tg] INFO: TG caption: 608 chars
+03:52:39 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-16 03:52:39 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:53:42 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-16 03:53:42 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+03:53:43 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-16 03:53:43 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+03:53:43 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 2771390
+2026-04-16 03:53:43 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 2771390
+03:53:43 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/izometrychni-vpravy-hipertonia-wall-sit-bjsm-meta-analiz.jpg (167 KB)
+2026-04-16 03:53:43 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/izometrychni-vpravy-hipertonia-wall-sit-bjsm-meta-analiz.jpg (167 KB)
+03:53:43 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/izometrychni-vpravy-hipertonia-wall-sit-bjsm-meta-analiz.md
+2026-04-16 03:53:43 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/izometrychni-vpravy-hipertonia-wall-sit-bjsm-meta-analiz.md
