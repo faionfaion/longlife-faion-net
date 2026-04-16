@@ -4365,3 +4365,71 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-16 04:17:35 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/cgm-sensor-hlyukozy-zdorovi-lyudy-chy-varto.jpg (178 KB)
 04:17:35 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/cgm-sensor-hlyukozy-zdorovi-lyudy-chy-varto.md
 2026-04-16 04:17:35 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/cgm-sensor-hlyukozy-zdorovi-lyudy-chy-varto.md
+04:17:35 [pipeline] INFO: Article ready: cgm-sensor-hlyukozy-zdorovi-lyudy-chy-varto (CGM для здорових людей: чи варто носити сенсор глю)
+2026-04-16 04:17:35 [pipeline] INFO: Article ready: cgm-sensor-hlyukozy-zdorovi-lyudy-chy-varto (CGM для здорових людей: чи варто носити сенсор глю)
+04:17:35 [pipeline] INFO: === Article 9/9 ===
+2026-04-16 04:17:35 [pipeline] INFO: === Article 9/9 ===
+04:17:35 [pipeline] INFO: --- Article: [nutrition] Колагенові добавки: чи є докази, що порошки та капсули покра ---
+2026-04-16 04:17:35 [pipeline] INFO: --- Article: [nutrition] Колагенові добавки: чи є докази, що порошки та капсули покра ---
+04:17:35 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 04:17:35 [asyncio] DEBUG: Using selector: EpollSelector
+04:17:35 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 04:17:35 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:20:18 [pipeline.stages.s2_research] INFO: Research complete: 14731 chars
+2026-04-16 04:20:18 [pipeline.stages.s2_research] INFO: Research complete: 14731 chars
+04:20:18 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 04:20:18 [asyncio] DEBUG: Using selector: EpollSelector
+04:20:18 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 04:20:18 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:21:19 [pipeline.stages.s3_generate] INFO: Generated: 'Колагенові добавки: що насправді показують дослідження про шкіру, суглоби та волосся' (slug=kolagen-dobavky-dokazy-shkira-suglobyvolossia, 559 words, 10 sources)
+2026-04-16 04:21:19 [pipeline.stages.s3_generate] INFO: Generated: 'Колагенові добавки: що насправді показують дослідження про шкіру, суглоби та волосся' (slug=kolagen-dobavky-dokazy-shkira-suglobyvolossia, 559 words, 10 sources)
+04:21:19 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 04:21:19 [asyncio] DEBUG: Using selector: EpollSelector
+04:21:19 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 04:21:19 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:21:41 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-16 04:21:41 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+04:21:41 [pipeline.stages.s4_review] INFO: Feedback: Strong, evidence-based article that handles a commercially hyped topic with appropriate scientific skepticism. Particular strengths: (1) clearly distinguishes industry-funded vs independent evidence u
+2026-04-16 04:21:41 [pipeline.stages.s4_review] INFO: Feedback: Strong, evidence-based article that handles a commercially hyped topic with appropriate scientific skepticism. Particular strengths: (1) clearly distinguishes industry-funded vs independent evidence u
+04:21:41 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 04:21:41 [asyncio] DEBUG: Using selector: EpollSelector
+04:21:41 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 04:21:41 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:22:25 [pipeline.stages.s5_revise] INFO: Revised article: 731 words
+2026-04-16 04:22:25 [pipeline.stages.s5_revise] INFO: Revised article: 731 words
+04:22:25 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-16 04:22:25 [pipeline] INFO: === Review cycle 1/3 complete ===
+04:22:25 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 04:22:25 [asyncio] DEBUG: Using selector: EpollSelector
+04:22:25 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 04:22:25 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:22:46 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-16 04:22:46 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+04:22:46 [pipeline.stages.s4_review] INFO: Feedback: Стаття високої якості: збалансована, з якісним розбором ієрархії доказів (мета-аналізи з/без індустріального фінансування), коректним поясненням термінів (РКД, засліплення, остеоартрит, ді-/трипептиди
+2026-04-16 04:22:46 [pipeline.stages.s4_review] INFO: Feedback: Стаття високої якості: збалансована, з якісним розбором ієрархії доказів (мета-аналізи з/без індустріального фінансування), коректним поясненням термінів (РКД, засліплення, остеоартрит, ді-/трипептиди
+04:22:46 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-16 04:22:46 [pipeline] INFO: Article approved after 1 revision(s)
+04:22:46 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 04:22:46 [asyncio] DEBUG: Using selector: EpollSelector
+04:22:46 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 04:22:46 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:23:03 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita Zelenko, a tall athletic woman in her late 20s with lon | pose=Standing at a kitchen counter, left hand holding up a jar of collagen powder at eye level, right hand gesturing toward a tablet on the counter, slight forward lean of investigation | expression=Explaining/teaching expression with one eyebrow slightly raised, lips parted mid-sentence, engaged and analytical | props=transparent jar of hydrolyzed collagen powder, tablet displaying meta-analysis chart with bar graph, open scientific journal (Nutrients), measuring scoop on marble counter
+2026-04-16 04:23:03 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita Zelenko, a tall athletic woman in her late 20s with lon | pose=Standing at a kitchen counter, left hand holding up a jar of collagen powder at eye level, right hand gesturing toward a tablet on the counter, slight forward lean of investigation | expression=Explaining/teaching expression with one eyebrow slightly raised, lips parted mid-sentence, engaged and analytical | props=transparent jar of hydrolyzed collagen powder, tablet displaying meta-analysis chart with bar graph, open scientific journal (Nutrients), measuring scoop on marble counter
+04:23:03 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 04:23:03 [asyncio] DEBUG: Using selector: EpollSelector
+04:23:03 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 04:23:03 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:23:12 [pipeline.stages.s6_generate_tg] INFO: TG caption: 606 chars
+2026-04-16 04:23:12 [pipeline.stages.s6_generate_tg] INFO: TG caption: 606 chars
+04:23:12 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-16 04:23:12 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:24:20 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-16 04:24:20 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+04:24:27 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-16 04:24:27 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+04:24:27 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 2993659
+2026-04-16 04:24:27 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 2993659
+04:24:28 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/kolagen-dobavky-dokazy-shkira-suglobyvolossia.jpg (228 KB)
+2026-04-16 04:24:28 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/kolagen-dobavky-dokazy-shkira-suglobyvolossia.jpg (228 KB)
+04:24:28 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/kolagen-dobavky-dokazy-shkira-suglobyvolossia.md
+2026-04-16 04:24:28 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/kolagen-dobavky-dokazy-shkira-suglobyvolossia.md
