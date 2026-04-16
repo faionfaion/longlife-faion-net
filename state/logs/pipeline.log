@@ -3889,3 +3889,71 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-16 03:19:33 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/voz-novi-testy-tuberkuloz-2026-ukraina.jpg (194 KB)
 03:19:33 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/voz-novi-testy-tuberkuloz-2026-ukraina.md
 2026-04-16 03:19:33 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/voz-novi-testy-tuberkuloz-2026-ukraina.md
+03:19:33 [pipeline] INFO: Article ready: voz-novi-testy-tuberkuloz-2026-ukraina (Нові тести на туберкульоз: що рекомендує ВООЗ у 20)
+2026-04-16 03:19:33 [pipeline] INFO: Article ready: voz-novi-testy-tuberkuloz-2026-ukraina (Нові тести на туберкульоз: що рекомендує ВООЗ у 20)
+03:19:33 [pipeline] INFO: === Article 2/9 ===
+2026-04-16 03:19:33 [pipeline] INFO: === Article 2/9 ===
+03:19:33 [pipeline] INFO: --- Article: [research] ПТСР та серце: чому травматичний стрес подвоює ризик інфаркт ---
+2026-04-16 03:19:33 [pipeline] INFO: --- Article: [research] ПТСР та серце: чому травматичний стрес подвоює ризик інфаркт ---
+03:19:33 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 03:19:33 [asyncio] DEBUG: Using selector: EpollSelector
+03:19:33 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 03:19:33 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:22:43 [pipeline.stages.s2_research] INFO: Research complete: 13430 chars
+2026-04-16 03:22:43 [pipeline.stages.s2_research] INFO: Research complete: 13430 chars
+03:22:43 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 03:22:43 [asyncio] DEBUG: Using selector: EpollSelector
+03:22:43 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 03:22:43 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:23:59 [pipeline.stages.s3_generate] INFO: Generated: 'ПТСР та серце: чому травматичний стрес підвищує ризик інфаркту і що з цим робити' (slug=ptsr-sertsevo-sudynnyi-ryzyk-travma-serce, 617 words, 10 sources)
+2026-04-16 03:23:59 [pipeline.stages.s3_generate] INFO: Generated: 'ПТСР та серце: чому травматичний стрес підвищує ризик інфаркту і що з цим робити' (slug=ptsr-sertsevo-sudynnyi-ryzyk-travma-serce, 617 words, 10 sources)
+03:23:59 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 03:23:59 [asyncio] DEBUG: Using selector: EpollSelector
+03:23:59 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 03:23:59 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:24:22 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-16 03:24:22 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+03:24:22 [pipeline.stages.s4_review] INFO: Feedback: Стаття високої якості: усі ключові твердження підкріплені цитованими джерелами (мета-аналізи, когортні дослідження, клінічні протоколи APA/VA-DoD), терміни (ПТСР, HPA-вісь, ендотелій) пояснені при пер
+2026-04-16 03:24:22 [pipeline.stages.s4_review] INFO: Feedback: Стаття високої якості: усі ключові твердження підкріплені цитованими джерелами (мета-аналізи, когортні дослідження, клінічні протоколи APA/VA-DoD), терміни (ПТСР, HPA-вісь, ендотелій) пояснені при пер
+03:24:22 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 03:24:22 [asyncio] DEBUG: Using selector: EpollSelector
+03:24:22 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 03:24:22 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:25:39 [pipeline.stages.s5_revise] INFO: Revised article: 986 words
+2026-04-16 03:25:39 [pipeline.stages.s5_revise] INFO: Revised article: 986 words
+03:25:39 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-16 03:25:39 [pipeline] INFO: === Review cycle 1/3 complete ===
+03:25:39 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 03:25:39 [asyncio] DEBUG: Using selector: EpollSelector
+03:25:39 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 03:25:39 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:26:01 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-16 03:26:01 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+03:26:01 [pipeline.stages.s4_review] INFO: Feedback: Strong, evidence-based article with excellent handling of relative vs. absolute risk — a common pitfall this piece navigates carefully. Every claim is sourced to reputable journals (AHJ, BMJ, JAMA Car
+2026-04-16 03:26:01 [pipeline.stages.s4_review] INFO: Feedback: Strong, evidence-based article with excellent handling of relative vs. absolute risk — a common pitfall this piece navigates carefully. Every claim is sourced to reputable journals (AHJ, BMJ, JAMA Car
+03:26:01 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-16 03:26:01 [pipeline] INFO: Article approved after 1 revision(s)
+03:26:01 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 03:26:01 [asyncio] DEBUG: Using selector: EpollSelector
+03:26:01 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 03:26:01 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:26:19 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita Zelenko stands in a clean cardiology research lab, pres | pose=Presenting stance, slight forward lean, left hand gesturing toward the holographic chart, right hand placed gently over her chest | expression=Explaining/teaching expression with one eyebrow slightly raised, warm green eyes engaged and compassionate | props=holographic ECG screen showing heart and brain overlay, tablet displaying meta-analysis chart with '+55% ризик ІХС', fitted green hoodie unzipped over black sports bra with reading glasses pushed up on her head
+2026-04-16 03:26:19 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita Zelenko stands in a clean cardiology research lab, pres | pose=Presenting stance, slight forward lean, left hand gesturing toward the holographic chart, right hand placed gently over her chest | expression=Explaining/teaching expression with one eyebrow slightly raised, warm green eyes engaged and compassionate | props=holographic ECG screen showing heart and brain overlay, tablet displaying meta-analysis chart with '+55% ризик ІХС', fitted green hoodie unzipped over black sports bra with reading glasses pushed up on her head
+03:26:19 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 03:26:19 [asyncio] DEBUG: Using selector: EpollSelector
+03:26:19 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 03:26:19 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:26:27 [pipeline.stages.s6_generate_tg] INFO: TG caption: 646 chars
+2026-04-16 03:26:27 [pipeline.stages.s6_generate_tg] INFO: TG caption: 646 chars
+03:26:27 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-16 03:26:27 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:27:31 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-16 03:27:31 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+03:27:32 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-16 03:27:32 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+03:27:32 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 2671545
+2026-04-16 03:27:32 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 2671545
+03:27:32 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/ptsr-sertsevo-sudynnyi-ryzyk-travma-serce.jpg (194 KB)
+2026-04-16 03:27:32 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/ptsr-sertsevo-sudynnyi-ryzyk-travma-serce.jpg (194 KB)
+03:27:32 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/ptsr-sertsevo-sudynnyi-ryzyk-travma-serce.md
+2026-04-16 03:27:32 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/ptsr-sertsevo-sudynnyi-ryzyk-travma-serce.md

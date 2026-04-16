@@ -316,5 +316,22 @@
       "інфекційні хвороби"
     ],
     "summary": "WHO released new TB diagnostic recommendations in March 2026 endorsing three innovations: near point-of-care molecular tests (NPOC-NAATs) delivering results in under 1 hour at half the cost, tongue swabs as an alternative specimen for patients unable to produce sputum, and sputum pooling for faster lab throughput. Cochrane 2025 review (n≈7,120) shows Truenat MTB Plus sensitivity 90.6% and specificity 95.7%, slightly less sensitive than Xpert Ultra but decentralisable. Lancet Global Health 2024 and Frontiers 2024 confirm tongue swabs work better than cheek swabs (sensitivity 0.75 vs 0.52). Critical for Ukraine: WHO Global TB Report 2025 lists Ukraine among 30 high-burden MDR/RR-TB countries with ~9,651 cases in 2024, with 29% MDR among new cases and up to 30% fluoroquinolone resistance in Kharkiv. Takeaway: see a family doctor if cough lasts >2-3 weeks or you have night sweats, weight loss, or TB contact. Evidence moderate; Ukrainian rollout timeline not yet announced."
+  },
+  "ptsr-sertsevo-sudynnyi-ryzyk-travma-serce": {
+    "date": "2026-04-16",
+    "title": "ПТСР та серце: чому травматичний стрес підвищує ризик інфаркту і що з цим робити",
+    "type": "research",
+    "tags": [
+      "ПТСР",
+      "психічне здоровʼя",
+      "серце",
+      "травма",
+      "стрес",
+      "війна",
+      "КПТ",
+      "дослідження",
+      "профілактика"
+    ],
+    "summary": "Стаття синтезує дані мета-аналізів 2013, 2024 та 2025 років, які показують, що ПТСР підвищує ризик серцево-судинних подій на 55–75% незалежно від депресії та інших факторів. Шведське sibling-controlled когортне дослідження (BMJ 2019, n=136 637) підтверджує причинно-наслідковий зв'язок, а дані JAMA Cardiology 2021 показують особливо високий ризик у молодих жінок. Біомеханізм: хронічна дисрегуляція HPA-осі → системне запалення → атеросклероз. У контексті війни в Україні з оцінкою поширеності ПТСР ~25% це громадське здоров'я. Практичні висновки: травма-фокусована КПТ як перша лінія, фізична активність (йога, силові 3×/тиждень) як ад'ювант, контроль модифікованих кардіо-ризиків. Рівень доказовості — сильний для зв'язку, помірний для впливу терапії на тверді кардіо-кінцеві точки."
   }
 }
