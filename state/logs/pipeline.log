@@ -6209,3 +6209,79 @@ TimeoutError: agent_query timed out after 300s
 2026-04-18 05:42:58 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/blue-light-glasses-debunked-eye-health-screen-guide.jpg (200 KB)
 05:42:58 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/blue-light-glasses-debunked-eye-health-screen-guide.md
 2026-04-18 05:42:58 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/blue-light-glasses-debunked-eye-health-screen-guide.md
+05:42:58 [pipeline] INFO: Article ready: blue-light-glasses-debunked-eye-health-screen-guide (Здоров'я очей за екраном: чому наука не підтверджу)
+2026-04-18 05:42:58 [pipeline] INFO: Article ready: blue-light-glasses-debunked-eye-health-screen-guide (Здоров'я очей за екраном: чому наука не підтверджу)
+05:42:58 [pipeline] INFO: === Article 9/9 ===
+2026-04-18 05:42:58 [pipeline] INFO: === Article 9/9 ===
+05:42:58 [pipeline] INFO: --- Article: [research] Епігенетичний вік: як тести на біологічне старіння працюють  ---
+2026-04-18 05:42:58 [pipeline] INFO: --- Article: [research] Епігенетичний вік: як тести на біологічне старіння працюють  ---
+05:42:58 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 05:42:58 [asyncio] DEBUG: Using selector: EpollSelector
+05:42:58 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 05:42:58 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:47:53 [pipeline.stages.s2_research] INFO: Research complete: 18971 chars
+2026-04-18 05:47:53 [pipeline.stages.s2_research] INFO: Research complete: 18971 chars
+05:47:53 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 05:47:53 [asyncio] DEBUG: Using selector: EpollSelector
+05:47:53 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 05:47:53 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:49:23 [pipeline.stages.s3_generate] INFO: Generated: 'Епігенетичний вік: як тести на біологічне старіння працюють і чи варті вони грошей у 2026 році' (slug=epigenetic-age-test-biological-aging-dunedinpace-2026, 658 words, 9 sources)
+2026-04-18 05:49:23 [pipeline.stages.s3_generate] INFO: Generated: 'Епігенетичний вік: як тести на біологічне старіння працюють і чи варті вони грошей у 2026 році' (slug=epigenetic-age-test-biological-aging-dunedinpace-2026, 658 words, 9 sources)
+05:49:23 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 05:49:23 [asyncio] DEBUG: Using selector: EpollSelector
+05:49:24 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 05:49:24 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:50:57 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-18 05:50:57 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+05:50:57 [pipeline.stages.s4_review] INFO: Feedback: Сильна стаття з відмінним балансом між науковим ентузіазмом і критичним аналізом. Секція «холодний душ реальності» — зразкова для evidence-based видання. Кілька пунктів для доопрацювання:
+
+1. **Нерозш
+2026-04-18 05:50:57 [pipeline.stages.s4_review] INFO: Feedback: Сильна стаття з відмінним балансом між науковим ентузіазмом і критичним аналізом. Секція «холодний душ реальності» — зразкова для evidence-based видання. Кілька пунктів для доопрацювання:
+
+1. **Нерозш
+05:50:57 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 05:50:57 [asyncio] DEBUG: Using selector: EpollSelector
+05:50:57 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 05:50:57 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:52:14 [pipeline.stages.s5_revise] INFO: Revised article: 767 words
+2026-04-18 05:52:14 [pipeline.stages.s5_revise] INFO: Revised article: 767 words
+05:52:14 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-18 05:52:14 [pipeline] INFO: === Review cycle 1/3 complete ===
+05:52:14 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 05:52:14 [asyncio] DEBUG: Using selector: EpollSelector
+05:52:14 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 05:52:14 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:53:54 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-18 05:53:54 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+05:53:54 [pipeline.stages.s4_review] INFO: Feedback: Відмінна стаття — збалансована, добре проджерелована, з чітким розмежуванням кореляції та причинно-наслідкового зв'язку. Кілька дрібних зауважень:
+
+1. **Точність годинника Горвата:** Стаття вказує ±2,
+2026-04-18 05:53:54 [pipeline.stages.s4_review] INFO: Feedback: Відмінна стаття — збалансована, добре проджерелована, з чітким розмежуванням кореляції та причинно-наслідкового зв'язку. Кілька дрібних зауважень:
+
+1. **Точність годинника Горвата:** Стаття вказує ±2,
+05:53:54 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-18 05:53:54 [pipeline] INFO: Article approved after 1 revision(s)
+05:53:54 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 05:53:54 [asyncio] DEBUG: Using selector: EpollSelector
+05:53:54 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 05:53:54 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:54:21 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a modern genetics lab, holding up a transluce | pose=Presenting pose — left hand raised, palm up, projecting the holographic DNA display at chest height; right hand pointing at the 'biological clock' graphic on the hologram. Weight shifted onto her left leg, torso angled slightly toward the viewer, dynamic and engaged. Her right shoulder is turned toward the camera, revealing the small green leaf tattoo. | expression=One eyebrow slightly raised, engaged teaching expression with a warm half-smile — the 'explaining/teaching' look — eyes bright and focused on the viewer as if sharing a fascinating discovery. | props=Translucent holographic display showing a DNA double helix with colorful methyl-group dots (CH₃) attached at CpG sites, Two stylized clock faces on the hologram — one calm (chronological age), one accelerated (biological age), Test-tube rack with labeled blood-sample vials on the lab bench behind her, Tablet on the bench showing a GrimAge results chart with green and red zones
+2026-04-18 05:54:21 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a modern genetics lab, holding up a transluce | pose=Presenting pose — left hand raised, palm up, projecting the holographic DNA display at chest height; right hand pointing at the 'biological clock' graphic on the hologram. Weight shifted onto her left leg, torso angled slightly toward the viewer, dynamic and engaged. Her right shoulder is turned toward the camera, revealing the small green leaf tattoo. | expression=One eyebrow slightly raised, engaged teaching expression with a warm half-smile — the 'explaining/teaching' look — eyes bright and focused on the viewer as if sharing a fascinating discovery. | props=Translucent holographic display showing a DNA double helix with colorful methyl-group dots (CH₃) attached at CpG sites, Two stylized clock faces on the hologram — one calm (chronological age), one accelerated (biological age), Test-tube rack with labeled blood-sample vials on the lab bench behind her, Tablet on the bench showing a GrimAge results chart with green and red zones
+05:54:21 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 05:54:21 [asyncio] DEBUG: Using selector: EpollSelector
+05:54:21 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 05:54:21 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:54:40 [pipeline.stages.s6_generate_tg] INFO: TG caption: 715 chars
+2026-04-18 05:54:40 [pipeline.stages.s6_generate_tg] INFO: TG caption: 715 chars
+05:54:40 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-18 05:54:40 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+05:55:48 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-18 05:55:48 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+05:55:49 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-18 05:55:49 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+05:55:49 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 2795527
+2026-04-18 05:55:49 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 2795527
+05:55:49 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/epigenetic-age-test-biological-aging-dunedinpace-2026.jpg (194 KB)
+2026-04-18 05:55:49 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/epigenetic-age-test-biological-aging-dunedinpace-2026.jpg (194 KB)
+05:55:49 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/epigenetic-age-test-biological-aging-dunedinpace-2026.md
+2026-04-18 05:55:49 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/epigenetic-age-test-biological-aging-dunedinpace-2026.md

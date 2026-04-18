@@ -556,5 +556,21 @@
       "Cochrane"
     ],
     "summary": "Cochrane systematic review (Singh et al. 2023, 17 RCTs) found that blue-light filtering glasses likely do not reduce digital eye strain, improve sleep quality, or protect macular health. The real cause of screen-related discomfort is reduced blinking (from ~22 to ~7 blinks/min per Sheppard 2018) and sustained near-focus. Evidence-based alternatives include the 20-20-20 rule (AOA-recommended, physiologically sound), artificial tears for dryness (Singh 2022, 45 RCTs), ergonomic screen positioning, and conscious blinking. For myopia prevention, outdoor time shows strong evidence: He et al. 2015 RCT (n=1,903) found 40 min/day outdoors reduced myopia onset by 9.1 percentage points, confirmed by Cochrane 2024 review. Holden 2016 projects 50% global myopia prevalence by 2050. Evidence strength: strong (multiple Cochrane reviews, large RCTs). Practical takeaway: skip blue-light glasses, set break reminders, keep eye drops handy, and spend more time outdoors — especially with children."
+  },
+  "epigenetic-age-test-biological-aging-dunedinpace-2026": {
+    "date": "2026-04-18",
+    "title": "Епігенетичний вік: як тести на біологічне старіння працюють і чи варті вони грошей у 2026 році",
+    "type": "research",
+    "tags": [
+      "епігенетика",
+      "біологічний вік",
+      "довголіття",
+      "біохакінг",
+      "DunedinPACE",
+      "метилювання ДНК",
+      "дослідження",
+      "старіння"
+    ],
+    "summary": "Epigenetic clocks (Horvath 2013, GrimAge, DunedinPACE) measure DNA methylation patterns to estimate biological aging pace. A meta-analysis by Fransquet et al. 2019 (23 studies, n>41,000) confirmed accelerated epigenetic aging predicts higher mortality. The CALERIE RCT (Waziry 2023, Nature Aging) showed 25% caloric restriction slowed DunedinPACE by 2-3%, and observational data from Ammous et al. 2025 links physical activity to slower epigenetic aging. However, a critical 2025 review (Apsley et al.) warns that technical replicates can differ by up to 9 years, making individual-level consumer tests unreliable. Evidence strength: strong for population-level prediction, moderate for intervention effects, weak for individual consumer test utility. Practical takeaway: exercise, don't smoke, and get standard blood work — these cost less and deliver more actionable data than a $300-500 epigenetic test."
   }
 }
