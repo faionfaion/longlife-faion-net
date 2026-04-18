@@ -4433,3 +4433,1211 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-16 04:24:28 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/kolagen-dobavky-dokazy-shkira-suglobyvolossia.jpg (228 KB)
 04:24:28 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/kolagen-dobavky-dokazy-shkira-suglobyvolossia.md
 2026-04-16 04:24:28 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/kolagen-dobavky-dokazy-shkira-suglobyvolossia.md
+04:24:28 [pipeline] INFO: Article ready: kolagen-dobavky-dokazy-shkira-suglobyvolossia (Колагенові добавки: що насправді показують дослідж)
+2026-04-16 04:24:28 [pipeline] INFO: Article ready: kolagen-dobavky-dokazy-shkira-suglobyvolossia (Колагенові добавки: що насправді показують дослідж)
+04:24:28 [pipeline] INFO: Generated 9/9 articles
+2026-04-16 04:24:28 [pipeline] INFO: Generated 9/9 articles
+04:24:28 [pipeline.stages.s7_deploy] INFO: Git pushed to origin/master
+2026-04-16 04:24:28 [pipeline.stages.s7_deploy] INFO: Git pushed to origin/master
+04:24:28 [pipeline.stages.s7_deploy] INFO: Deploying to faion-net server...
+2026-04-16 04:24:28 [pipeline.stages.s7_deploy] INFO: Deploying to faion-net server...
+04:24:28 [pipeline.stages.s7_deploy] ERROR: Server deploy failed: bash: line 1: cd: /home/faion/longlife: No such file or directory
+
+2026-04-16 04:24:28 [pipeline.stages.s7_deploy] ERROR: Server deploy failed: bash: line 1: cd: /home/faion/longlife: No such file or directory
+
+04:24:28 [pipeline.stages.s8_verify] ERROR: Site verification failed: https://longlife.faion.net/kolagen-dobavky-dokazy-shkira-suglobyvolossia/ — HTTP Error 404: Not Found
+2026-04-16 04:24:28 [pipeline.stages.s8_verify] ERROR: Site verification failed: https://longlife.faion.net/kolagen-dobavky-dokazy-shkira-suglobyvolossia/ — HTTP Error 404: Not Found
+04:24:28 [pipeline] INFO: Run report saved: /home/nero/workspace/projects/longlife-faion-net/state/runs/2026-04-16_042428.json
+2026-04-16 04:24:28 [pipeline] INFO: Run report saved: /home/nero/workspace/projects/longlife-faion-net/state/runs/2026-04-16_042428.json
+04:24:28 [pipeline] INFO: Batch complete: 9 articles
+2026-04-16 04:24:28 [pipeline] INFO: Batch complete: 9 articles
+2026-04-16 09:05:02 [pipeline] INFO: === TG Publish mode ===
+2026-04-16 09:05:02 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.telegram.org:443
+2026-04-16 09:05:02 [urllib3.connectionpool] DEBUG: https://api.telegram.org:443 "POST /bot8578996384:AAFhkTHh_D40VdCc7em5U9taM5a-o00JzaA/sendPhoto HTTP/1.1" 200 3396
+2026-04-16 09:05:02 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.telegram.org:443
+2026-04-16 09:05:02 [urllib3.connectionpool] DEBUG: https://api.telegram.org:443 "POST /bot8578996384:AAFhkTHh_D40VdCc7em5U9taM5a-o00JzaA/setMessageReaction HTTP/1.1" 200 25
+2026-04-16 09:05:02 [pipeline.stages.s10_pick_and_publish] INFO: TG published: kolagen-dobavky-dokazy-shkira-suglobyvolossia -> msg 177
+2026-04-16 09:05:02 [pipeline] INFO: Published to TG: kolagen-dobavky-dokazy-shkira-suglobyvolossia (msg 177)
+2026-04-16 12:05:01 [pipeline] INFO: === TG Publish mode ===
+2026-04-16 12:05:01 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.telegram.org:443
+2026-04-16 12:05:02 [urllib3.connectionpool] DEBUG: https://api.telegram.org:443 "POST /bot8578996384:AAFhkTHh_D40VdCc7em5U9taM5a-o00JzaA/sendPhoto HTTP/1.1" 200 3445
+2026-04-16 12:05:02 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.telegram.org:443
+2026-04-16 12:05:02 [urllib3.connectionpool] DEBUG: https://api.telegram.org:443 "POST /bot8578996384:AAFhkTHh_D40VdCc7em5U9taM5a-o00JzaA/setMessageReaction HTTP/1.1" 200 25
+2026-04-16 12:05:02 [pipeline.stages.s10_pick_and_publish] INFO: TG published: cgm-sensor-hlyukozy-zdorovi-lyudy-chy-varto -> msg 178
+2026-04-16 12:05:02 [pipeline] INFO: Published to TG: cgm-sensor-hlyukozy-zdorovi-lyudy-chy-varto (msg 178)
+2026-04-16 15:05:01 [pipeline] INFO: === TG Publish mode ===
+2026-04-16 15:05:01 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.telegram.org:443
+2026-04-16 15:05:01 [urllib3.connectionpool] DEBUG: https://api.telegram.org:443 "POST /bot8578996384:AAFhkTHh_D40VdCc7em5U9taM5a-o00JzaA/sendPhoto HTTP/1.1" 200 3738
+2026-04-16 15:05:01 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.telegram.org:443
+2026-04-16 15:05:01 [urllib3.connectionpool] DEBUG: https://api.telegram.org:443 "POST /bot8578996384:AAFhkTHh_D40VdCc7em5U9taM5a-o00JzaA/setMessageReaction HTTP/1.1" 200 25
+2026-04-16 15:05:01 [pipeline.stages.s10_pick_and_publish] INFO: TG published: metformin-anti-aging-tame-trial-2026 -> msg 179
+2026-04-16 15:05:01 [pipeline] INFO: Published to TG: metformin-anti-aging-tame-trial-2026 (msg 179)
+2026-04-16 18:05:01 [pipeline] INFO: === TG Publish mode ===
+2026-04-16 18:05:01 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.telegram.org:443
+2026-04-16 18:05:02 [urllib3.connectionpool] DEBUG: https://api.telegram.org:443 "POST /bot8578996384:AAFhkTHh_D40VdCc7em5U9taM5a-o00JzaA/sendPhoto HTTP/1.1" 200 3639
+2026-04-16 18:05:02 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.telegram.org:443
+2026-04-16 18:05:02 [urllib3.connectionpool] DEBUG: https://api.telegram.org:443 "POST /bot8578996384:AAFhkTHh_D40VdCc7em5U9taM5a-o00JzaA/setMessageReaction HTTP/1.1" 200 25
+2026-04-16 18:05:02 [pipeline.stages.s10_pick_and_publish] INFO: TG published: obstruktyvne-apnoe-snu-stop-bang-diagnostyka-likuvannia -> msg 180
+2026-04-16 18:05:02 [pipeline] INFO: Published to TG: obstruktyvne-apnoe-snu-stop-bang-diagnostyka-likuvannia (msg 180)
+2026-04-16 20:43:02 [pipeline] INFO: === Digest mode ===
+2026-04-16 20:43:02 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-16 20:43:02 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-16 20:43:16 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.telegram.org:443
+2026-04-16 20:43:16 [urllib3.connectionpool] DEBUG: https://api.telegram.org:443 "POST /bot8578996384:AAFhkTHh_D40VdCc7em5U9taM5a-o00JzaA/sendPhoto HTTP/1.1" 200 5812
+2026-04-16 20:43:16 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.telegram.org:443
+2026-04-16 20:43:16 [urllib3.connectionpool] DEBUG: https://api.telegram.org:443 "POST /bot8578996384:AAFhkTHh_D40VdCc7em5U9taM5a-o00JzaA/setMessageReaction HTTP/1.1" 200 25
+2026-04-16 20:43:16 [pipeline.stages.s11_digest] INFO: Digest published: msg 181 (9 articles)
+2026-04-16 20:43:16 [pipeline] INFO: Digest published (msg 181, 9 articles)
+03:03:02 [pipeline.feeds] WARNING: Failed to fetch feed moz_news: https://moz.gov.ua/rss
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden
+2026-04-17 03:03:02 [pipeline.feeds] WARNING: Failed to fetch feed moz_news: https://moz.gov.ua/rss
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden
+03:03:02 [pipeline.feeds] WARNING: Failed to fetch feed ukrinform_health: https://www.ukrinform.ua/rss/block-zdorovja
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 553, in error
+    result = self._call_chain(*args)
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 745, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2026-04-17 03:03:02 [pipeline.feeds] WARNING: Failed to fetch feed ukrinform_health: https://www.ukrinform.ua/rss/block-zdorovja
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 553, in error
+    result = self._call_chain(*args)
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 745, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+03:03:02 [pipeline.feeds] WARNING: Failed to fetch feed ukrinform_science: https://www.ukrinform.ua/rss/block-nauka
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 553, in error
+    result = self._call_chain(*args)
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 745, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2026-04-17 03:03:02 [pipeline.feeds] WARNING: Failed to fetch feed ukrinform_science: https://www.ukrinform.ua/rss/block-nauka
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 553, in error
+    result = self._call_chain(*args)
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 745, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+03:03:03 [pipeline.feeds] WARNING: Failed to fetch feed unian_health: https://health.unian.ua/rss/all
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2026-04-17 03:03:03 [pipeline.feeds] WARNING: Failed to fetch feed unian_health: https://health.unian.ua/rss/all
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+03:03:03 [pipeline.feeds] INFO: Feed nv_health: 0 items
+2026-04-17 03:03:03 [pipeline.feeds] INFO: Feed nv_health: 0 items
+03:03:03 [pipeline.feeds] INFO: Feed bbc_health: 10 items
+2026-04-17 03:03:03 [pipeline.feeds] INFO: Feed bbc_health: 10 items
+03:03:04 [pipeline.feeds] WARNING: Failed to fetch feed medicalnewstoday: https://www.medicalnewstoday.com/rss
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2026-04-17 03:03:04 [pipeline.feeds] WARNING: Failed to fetch feed medicalnewstoday: https://www.medicalnewstoday.com/rss
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+03:03:04 [pipeline.feeds] INFO: Feed who_news: 10 items
+2026-04-17 03:03:04 [pipeline.feeds] INFO: Feed who_news: 10 items
+03:03:04 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-17 03:03:04 [asyncio] DEBUG: Using selector: EpollSelector
+03:03:04 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-17 03:03:04 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:06:59 [pipeline] ERROR: Pipeline failed
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/cli.py", line 47, in cli
+    completed = run_generate(dry_run=args.dry_run)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/modes/generate.py", line 45, in run
+    plan = s0_editorial_plan.run()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/stages/s0_editorial_plan.py", line 53, in run
+    plan = structured_query(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/sdk.py", line 131, in structured_query
+    return safe_parse_json(text, context="structured_query")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/json_repair.py", line 79, in safe_parse_json
+    raise ValueError(f"{label}All JSON repair attempts failed ({len(raw)} chars)")
+ValueError: [structured_query] All JSON repair attempts failed (9523 chars)
+2026-04-17 03:06:59 [pipeline] ERROR: Pipeline failed
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/cli.py", line 47, in cli
+    completed = run_generate(dry_run=args.dry_run)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/modes/generate.py", line 45, in run
+    plan = s0_editorial_plan.run()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/stages/s0_editorial_plan.py", line 53, in run
+    plan = structured_query(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/sdk.py", line 131, in structured_query
+    return safe_parse_json(text, context="structured_query")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/json_repair.py", line 79, in safe_parse_json
+    raise ValueError(f"{label}All JSON repair attempts failed ({len(raw)} chars)")
+ValueError: [structured_query] All JSON repair attempts failed (9523 chars)
+2026-04-17 09:05:02 [pipeline] INFO: === TG Publish mode ===
+2026-04-17 09:05:02 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.telegram.org:443
+2026-04-17 09:05:02 [urllib3.connectionpool] DEBUG: https://api.telegram.org:443 "POST /bot8578996384:AAFhkTHh_D40VdCc7em5U9taM5a-o00JzaA/sendPhoto HTTP/1.1" 200 3396
+2026-04-17 09:05:02 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.telegram.org:443
+2026-04-17 09:05:02 [urllib3.connectionpool] DEBUG: https://api.telegram.org:443 "POST /bot8578996384:AAFhkTHh_D40VdCc7em5U9taM5a-o00JzaA/setMessageReaction HTTP/1.1" 200 25
+2026-04-17 09:05:02 [pipeline.stages.s10_pick_and_publish] INFO: TG published: kolagen-dobavky-dokazy-shkira-suglobyvolossia -> msg 182
+2026-04-17 09:05:02 [pipeline] INFO: Published to TG: kolagen-dobavky-dokazy-shkira-suglobyvolossia (msg 182)
+2026-04-17 12:05:01 [pipeline] INFO: === TG Publish mode ===
+2026-04-17 12:05:01 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.telegram.org:443
+2026-04-17 12:05:02 [urllib3.connectionpool] DEBUG: https://api.telegram.org:443 "POST /bot8578996384:AAFhkTHh_D40VdCc7em5U9taM5a-o00JzaA/sendPhoto HTTP/1.1" 200 3445
+2026-04-17 12:05:02 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.telegram.org:443
+2026-04-17 12:05:02 [urllib3.connectionpool] DEBUG: https://api.telegram.org:443 "POST /bot8578996384:AAFhkTHh_D40VdCc7em5U9taM5a-o00JzaA/setMessageReaction HTTP/1.1" 200 25
+2026-04-17 12:05:02 [pipeline.stages.s10_pick_and_publish] INFO: TG published: cgm-sensor-hlyukozy-zdorovi-lyudy-chy-varto -> msg 183
+2026-04-17 12:05:02 [pipeline] INFO: Published to TG: cgm-sensor-hlyukozy-zdorovi-lyudy-chy-varto (msg 183)
+2026-04-17 15:05:02 [pipeline] INFO: === TG Publish mode ===
+2026-04-17 15:05:02 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.telegram.org:443
+2026-04-17 15:05:02 [urllib3.connectionpool] DEBUG: https://api.telegram.org:443 "POST /bot8578996384:AAFhkTHh_D40VdCc7em5U9taM5a-o00JzaA/sendPhoto HTTP/1.1" 200 3738
+2026-04-17 15:05:02 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.telegram.org:443
+2026-04-17 15:05:02 [urllib3.connectionpool] DEBUG: https://api.telegram.org:443 "POST /bot8578996384:AAFhkTHh_D40VdCc7em5U9taM5a-o00JzaA/setMessageReaction HTTP/1.1" 200 25
+2026-04-17 15:05:02 [pipeline.stages.s10_pick_and_publish] INFO: TG published: metformin-anti-aging-tame-trial-2026 -> msg 184
+2026-04-17 15:05:02 [pipeline] INFO: Published to TG: metformin-anti-aging-tame-trial-2026 (msg 184)
+2026-04-17 18:05:02 [pipeline] INFO: === TG Publish mode ===
+2026-04-17 18:05:02 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.telegram.org:443
+2026-04-17 18:05:02 [urllib3.connectionpool] DEBUG: https://api.telegram.org:443 "POST /bot8578996384:AAFhkTHh_D40VdCc7em5U9taM5a-o00JzaA/sendPhoto HTTP/1.1" 200 3639
+2026-04-17 18:05:02 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.telegram.org:443
+2026-04-17 18:05:02 [urllib3.connectionpool] DEBUG: https://api.telegram.org:443 "POST /bot8578996384:AAFhkTHh_D40VdCc7em5U9taM5a-o00JzaA/setMessageReaction HTTP/1.1" 200 25
+2026-04-17 18:05:02 [pipeline.stages.s10_pick_and_publish] INFO: TG published: obstruktyvne-apnoe-snu-stop-bang-diagnostyka-likuvannia -> msg 185
+2026-04-17 18:05:02 [pipeline] INFO: Published to TG: obstruktyvne-apnoe-snu-stop-bang-diagnostyka-likuvannia (msg 185)
+2026-04-17 20:43:02 [pipeline] INFO: === Digest mode ===
+2026-04-17 20:43:02 [pipeline.stages.s11_digest] INFO: Only 0 articles today, skipping digest
+2026-04-17 20:43:02 [pipeline] INFO: Digest skipped (not enough articles)
+03:03:02 [pipeline.feeds] WARNING: Failed to fetch feed moz_news: https://moz.gov.ua/rss
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden
+2026-04-18 03:03:02 [pipeline.feeds] WARNING: Failed to fetch feed moz_news: https://moz.gov.ua/rss
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden
+03:03:03 [pipeline.feeds] WARNING: Failed to fetch feed ukrinform_health: https://www.ukrinform.ua/rss/block-zdorovja
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 553, in error
+    result = self._call_chain(*args)
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 745, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2026-04-18 03:03:03 [pipeline.feeds] WARNING: Failed to fetch feed ukrinform_health: https://www.ukrinform.ua/rss/block-zdorovja
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 553, in error
+    result = self._call_chain(*args)
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 745, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+03:03:03 [pipeline.feeds] WARNING: Failed to fetch feed ukrinform_science: https://www.ukrinform.ua/rss/block-nauka
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 553, in error
+    result = self._call_chain(*args)
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 745, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2026-04-18 03:03:03 [pipeline.feeds] WARNING: Failed to fetch feed ukrinform_science: https://www.ukrinform.ua/rss/block-nauka
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 553, in error
+    result = self._call_chain(*args)
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 745, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+03:03:04 [pipeline.feeds] WARNING: Failed to fetch feed unian_health: https://health.unian.ua/rss/all
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2026-04-18 03:03:04 [pipeline.feeds] WARNING: Failed to fetch feed unian_health: https://health.unian.ua/rss/all
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+03:03:04 [pipeline.feeds] INFO: Feed nv_health: 0 items
+2026-04-18 03:03:04 [pipeline.feeds] INFO: Feed nv_health: 0 items
+03:03:04 [pipeline.feeds] INFO: Feed bbc_health: 10 items
+2026-04-18 03:03:04 [pipeline.feeds] INFO: Feed bbc_health: 10 items
+03:03:05 [pipeline.feeds] WARNING: Failed to fetch feed medicalnewstoday: https://www.medicalnewstoday.com/rss
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2026-04-18 03:03:05 [pipeline.feeds] WARNING: Failed to fetch feed medicalnewstoday: https://www.medicalnewstoday.com/rss
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+03:03:05 [pipeline.feeds] INFO: Feed who_news: 10 items
+2026-04-18 03:03:05 [pipeline.feeds] INFO: Feed who_news: 10 items
+03:03:05 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 03:03:05 [asyncio] DEBUG: Using selector: EpollSelector
+03:03:05 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 03:03:05 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:05:54 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 03:05:54 [asyncio] DEBUG: Using selector: EpollSelector
+03:05:54 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 03:05:54 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:11:56 [pipeline.stages.s0_editorial_plan] INFO: Plan reviewed: 9 -> 9 articles
+2026-04-18 03:11:56 [pipeline.stages.s0_editorial_plan] INFO: Plan reviewed: 9 -> 9 articles
+03:11:56 [pipeline.stages.s0_editorial_plan] INFO: Editorial plan created: 9 articles for 2026-04-18
+2026-04-18 03:11:56 [pipeline.stages.s0_editorial_plan] INFO: Editorial plan created: 9 articles for 2026-04-18
+03:11:56 [pipeline] INFO: Editorial plan: 9 topics
+2026-04-18 03:11:56 [pipeline] INFO: Editorial plan: 9 topics
+03:11:56 [pipeline.feeds] WARNING: Failed to fetch feed moz_news: https://moz.gov.ua/rss
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden
+2026-04-18 03:11:56 [pipeline.feeds] WARNING: Failed to fetch feed moz_news: https://moz.gov.ua/rss
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden
+03:11:57 [pipeline.feeds] WARNING: Failed to fetch feed ukrinform_health: https://www.ukrinform.ua/rss/block-zdorovja
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 553, in error
+    result = self._call_chain(*args)
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 745, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2026-04-18 03:11:57 [pipeline.feeds] WARNING: Failed to fetch feed ukrinform_health: https://www.ukrinform.ua/rss/block-zdorovja
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 553, in error
+    result = self._call_chain(*args)
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 745, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+03:11:57 [pipeline.feeds] WARNING: Failed to fetch feed ukrinform_science: https://www.ukrinform.ua/rss/block-nauka
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 553, in error
+    result = self._call_chain(*args)
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 745, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2026-04-18 03:11:57 [pipeline.feeds] WARNING: Failed to fetch feed ukrinform_science: https://www.ukrinform.ua/rss/block-nauka
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 553, in error
+    result = self._call_chain(*args)
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 745, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+03:11:57 [pipeline.feeds] WARNING: Failed to fetch feed unian_health: https://health.unian.ua/rss/all
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2026-04-18 03:11:57 [pipeline.feeds] WARNING: Failed to fetch feed unian_health: https://health.unian.ua/rss/all
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+03:11:57 [pipeline.feeds] INFO: Feed nv_health: 0 items
+2026-04-18 03:11:57 [pipeline.feeds] INFO: Feed nv_health: 0 items
+03:11:58 [pipeline.feeds] INFO: Feed bbc_health: 10 items
+2026-04-18 03:11:58 [pipeline.feeds] INFO: Feed bbc_health: 10 items
+03:11:58 [pipeline.feeds] WARNING: Failed to fetch feed medicalnewstoday: https://www.medicalnewstoday.com/rss
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2026-04-18 03:11:58 [pipeline.feeds] WARNING: Failed to fetch feed medicalnewstoday: https://www.medicalnewstoday.com/rss
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+03:11:58 [pipeline.feeds] INFO: Feed who_news: 10 items
+2026-04-18 03:11:58 [pipeline.feeds] INFO: Feed who_news: 10 items
+03:11:58 [pipeline.stages.s1_collect] INFO: Context: 20 RSS items, 69 existing articles
+2026-04-18 03:11:58 [pipeline.stages.s1_collect] INFO: Context: 20 RSS items, 69 existing articles
+03:11:58 [pipeline] INFO: === Article 1/9 ===
+2026-04-18 03:11:58 [pipeline] INFO: === Article 1/9 ===
+03:11:58 [pipeline] INFO: --- Article: [research] Препарати від Альцгеймера за £90 000: чому прорив у науці не ---
+2026-04-18 03:11:58 [pipeline] INFO: --- Article: [research] Препарати від Альцгеймера за £90 000: чому прорив у науці не ---
+03:11:58 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 03:11:58 [asyncio] DEBUG: Using selector: EpollSelector
+03:11:58 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 03:11:58 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:16:58 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+2026-04-18 03:16:58 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+03:17:04 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 5.7s
+2026-04-18 03:17:04 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 5.7s
+03:17:09 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 03:17:09 [asyncio] DEBUG: Using selector: EpollSelector
+03:17:09 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 03:17:09 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:22:09 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+2026-04-18 03:22:09 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+03:22:15 [pipeline.sdk] WARNING: agent_query retry 2/2: agent_query timed out after 300s — 10.6s
+2026-04-18 03:22:15 [pipeline.sdk] WARNING: agent_query retry 2/2: agent_query timed out after 300s — 10.6s
+03:22:25 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 03:22:25 [asyncio] DEBUG: Using selector: EpollSelector
+03:22:25 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 03:22:25 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:25:59 [pipeline.stages.s2_research] INFO: Research complete: 15275 chars
+2026-04-18 03:25:59 [pipeline.stages.s2_research] INFO: Research complete: 15275 chars
+03:25:59 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 03:25:59 [asyncio] DEBUG: Using selector: EpollSelector
+03:25:59 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 03:25:59 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:27:43 [pipeline.stages.s3_generate] INFO: Generated: 'Препарати від Альцгеймера за £90 000: чому прорив у науці не означає прорив для пацієнтів' (slug=lekanemab-donanemab-alzheimer-drugs-vs-prevention, 328 words, 11 sources)
+2026-04-18 03:27:43 [pipeline.stages.s3_generate] INFO: Generated: 'Препарати від Альцгеймера за £90 000: чому прорив у науці не означає прорив для пацієнтів' (slug=lekanemab-donanemab-alzheimer-drugs-vs-prevention, 328 words, 11 sources)
+03:27:43 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 03:27:43 [asyncio] DEBUG: Using selector: EpollSelector
+03:27:43 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 03:27:43 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:29:03 [pipeline.stages.s4_review] INFO: Review: score=6, approved=False
+2026-04-18 03:29:03 [pipeline.stages.s4_review] INFO: Review: score=6, approved=False
+03:29:03 [pipeline.stages.s4_review] INFO: Feedback: Стаття має сильну концепцію та переважно коректну наукову базу, але потребує доопрацювання перед публікацією через кілька критичних проблем:
+
+1. **КРИТИЧНО — Обрізаний/пошкоджений текст.** Після речен
+2026-04-18 03:29:03 [pipeline.stages.s4_review] INFO: Feedback: Стаття має сильну концепцію та переважно коректну наукову базу, але потребує доопрацювання перед публікацією через кілька критичних проблем:
+
+1. **КРИТИЧНО — Обрізаний/пошкоджений текст.** Після речен
+03:29:03 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 03:29:03 [asyncio] DEBUG: Using selector: EpollSelector
+03:29:03 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 03:29:03 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:30:31 [pipeline.stages.s5_revise] INFO: Revised article: 902 words
+2026-04-18 03:30:31 [pipeline.stages.s5_revise] INFO: Revised article: 902 words
+03:30:31 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-18 03:30:31 [pipeline] INFO: === Review cycle 1/3 complete ===
+03:30:31 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 03:30:31 [asyncio] DEBUG: Using selector: EpollSelector
+03:30:31 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 03:30:31 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:31:50 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-18 03:31:50 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+03:31:50 [pipeline.stages.s4_review] INFO: Feedback: Сильна, збалансована стаття з коректним розмежуванням статистичної та клінічної значущості. Потребує виправлення кількох помилок перед публікацією:
+
+1. **Невідповідність посилання на Cochrane:** В тек
+2026-04-18 03:31:50 [pipeline.stages.s4_review] INFO: Feedback: Сильна, збалансована стаття з коректним розмежуванням статистичної та клінічної значущості. Потребує виправлення кількох помилок перед публікацією:
+
+1. **Невідповідність посилання на Cochrane:** В тек
+03:31:50 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-18 03:31:50 [pipeline] INFO: Article approved after 1 revision(s)
+03:31:50 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 03:31:50 [asyncio] DEBUG: Using selector: EpollSelector
+03:31:50 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 03:31:50 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:32:22 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a modern neuroscience lab, holding a transluc | pose=Standing in a presenting stance — left hand holds a translucent anatomical brain model at chest height, right hand extended toward the wall screen with index finger pointing at the chart. Slight forward lean, weight on front foot, conveying engaged authority. Her green hoodie is unzipped revealing a black sports bra with green trim underneath. Fitness smartwatch visible on her left wrist (black band, green accents). | expression=One eyebrow slightly raised, engaged teaching expression with a knowing half-smile — the look of someone revealing a surprising truth. Bright green eyes wide and focused on the viewer. | props=translucent 3D anatomical brain model with highlighted amyloid plaques in amber, large wall-mounted digital screen with drug-cost vs. lifestyle bar chart, open research journal on the standing desk with highlighted text, reading glasses pushed up on top of her head
+2026-04-18 03:32:22 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a modern neuroscience lab, holding a transluc | pose=Standing in a presenting stance — left hand holds a translucent anatomical brain model at chest height, right hand extended toward the wall screen with index finger pointing at the chart. Slight forward lean, weight on front foot, conveying engaged authority. Her green hoodie is unzipped revealing a black sports bra with green trim underneath. Fitness smartwatch visible on her left wrist (black band, green accents). | expression=One eyebrow slightly raised, engaged teaching expression with a knowing half-smile — the look of someone revealing a surprising truth. Bright green eyes wide and focused on the viewer. | props=translucent 3D anatomical brain model with highlighted amyloid plaques in amber, large wall-mounted digital screen with drug-cost vs. lifestyle bar chart, open research journal on the standing desk with highlighted text, reading glasses pushed up on top of her head
+03:32:22 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 03:32:22 [asyncio] DEBUG: Using selector: EpollSelector
+03:32:22 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 03:32:22 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:32:34 [pipeline.stages.s6_generate_tg] INFO: TG caption: 676 chars
+2026-04-18 03:32:34 [pipeline.stages.s6_generate_tg] INFO: TG caption: 676 chars
+03:32:34 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-18 03:32:34 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:33:40 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-18 03:33:40 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+03:33:41 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-18 03:33:41 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+03:33:41 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 2931848
+2026-04-18 03:33:41 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 2931848
+03:33:42 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/lekanemab-donanemab-alzheimer-drugs-vs-prevention.jpg (220 KB)
+2026-04-18 03:33:42 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/lekanemab-donanemab-alzheimer-drugs-vs-prevention.jpg (220 KB)
+03:33:42 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/lekanemab-donanemab-alzheimer-drugs-vs-prevention.md
+2026-04-18 03:33:42 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/lekanemab-donanemab-alzheimer-drugs-vs-prevention.md

@@ -1,0 +1,356 @@
+{
+  "timestamp": "2026-04-16_042428",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "voz-novi-testy-tuberkuloz-2026-ukraina, ptsr-sertsevo-sudynnyi-ryzyk-travma-serce, skryninh-raku-ukraina-chek-list-za-vikom-nszu, ultraobrobleni-produkty-dementsiia-kohortni-doslidzhennia, izometrychni-vpravy-hipertonia-wall-sit-bjsm-meta-analiz",
+  "author": "LongLife Media",
+  "duration_s": 4886.4,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 522.1,
+      "error": null
+    },
+    {
+      "name": "research:Нові діагностичні тести для ту",
+      "status": "ok",
+      "duration_s": 169.3,
+      "error": null
+    },
+    {
+      "name": "generate:Нові діагностичні тести для ту",
+      "status": "ok",
+      "duration_s": 75.9,
+      "error": null
+    },
+    {
+      "name": "review:Нові діагностичні тести для ту",
+      "status": "ok",
+      "duration_s": 121.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Нові діагностичні тести для ту",
+      "status": "ok",
+      "duration_s": 18.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Нові діагностичні тести для ту",
+      "status": "ok",
+      "duration_s": 11.4,
+      "error": null
+    },
+    {
+      "name": "save:Нові діагностичні тести для ту",
+      "status": "ok",
+      "duration_s": 70.2,
+      "error": null
+    },
+    {
+      "name": "research:ПТСР та серце: чому травматичн",
+      "status": "ok",
+      "duration_s": 190.6,
+      "error": null
+    },
+    {
+      "name": "generate:ПТСР та серце: чому травматичн",
+      "status": "ok",
+      "duration_s": 76.1,
+      "error": null
+    },
+    {
+      "name": "review:ПТСР та серце: чому травматичн",
+      "status": "ok",
+      "duration_s": 121.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:ПТСР та серце: чому травматичн",
+      "status": "ok",
+      "duration_s": 17.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:ПТСР та серце: чому травматичн",
+      "status": "ok",
+      "duration_s": 8.4,
+      "error": null
+    },
+    {
+      "name": "save:ПТСР та серце: чому травматичн",
+      "status": "ok",
+      "duration_s": 64.4,
+      "error": null
+    },
+    {
+      "name": "research:Скринінг раку в Україні: які о",
+      "status": "ok",
+      "duration_s": 203.4,
+      "error": null
+    },
+    {
+      "name": "generate:Скринінг раку в Україні: які о",
+      "status": "ok",
+      "duration_s": 130.4,
+      "error": null
+    },
+    {
+      "name": "review:Скринінг раку в Україні: які о",
+      "status": "ok",
+      "duration_s": 153.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Скринінг раку в Україні: які о",
+      "status": "ok",
+      "duration_s": 19.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Скринінг раку в Україні: які о",
+      "status": "ok",
+      "duration_s": 8.6,
+      "error": null
+    },
+    {
+      "name": "save:Скринінг раку в Україні: які о",
+      "status": "ok",
+      "duration_s": 67.9,
+      "error": null
+    },
+    {
+      "name": "research:Ультраоброблені продукти та де",
+      "status": "ok",
+      "duration_s": 205.7,
+      "error": null
+    },
+    {
+      "name": "generate:Ультраоброблені продукти та де",
+      "status": "ok",
+      "duration_s": 66.7,
+      "error": null
+    },
+    {
+      "name": "review:Ультраоброблені продукти та де",
+      "status": "ok",
+      "duration_s": 105.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ультраоброблені продукти та де",
+      "status": "ok",
+      "duration_s": 23.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ультраоброблені продукти та де",
+      "status": "ok",
+      "duration_s": 11.9,
+      "error": null
+    },
+    {
+      "name": "save:Ультраоброблені продукти та де",
+      "status": "ok",
+      "duration_s": 70.6,
+      "error": null
+    },
+    {
+      "name": "research:Ізометричні вправи проти гіпер",
+      "status": "ok",
+      "duration_s": 214.6,
+      "error": null
+    },
+    {
+      "name": "generate:Ізометричні вправи проти гіпер",
+      "status": "ok",
+      "duration_s": 77.1,
+      "error": null
+    },
+    {
+      "name": "review:Ізометричні вправи проти гіпер",
+      "status": "ok",
+      "duration_s": 119.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ізометричні вправи проти гіпер",
+      "status": "ok",
+      "duration_s": 18.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ізометричні вправи проти гіпер",
+      "status": "ok",
+      "duration_s": 9.8,
+      "error": null
+    },
+    {
+      "name": "save:Ізометричні вправи проти гіпер",
+      "status": "ok",
+      "duration_s": 64.1,
+      "error": null
+    },
+    {
+      "name": "research:Обструктивне апное сну: чому х",
+      "status": "ok",
+      "duration_s": 164.9,
+      "error": null
+    },
+    {
+      "name": "generate:Обструктивне апное сну: чому х",
+      "status": "ok",
+      "duration_s": 103.3,
+      "error": null
+    },
+    {
+      "name": "review:Обструктивне апное сну: чому х",
+      "status": "ok",
+      "duration_s": 132.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Обструктивне апное сну: чому х",
+      "status": "ok",
+      "duration_s": 18.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Обструктивне апное сну: чому х",
+      "status": "ok",
+      "duration_s": 11.1,
+      "error": null
+    },
+    {
+      "name": "save:Обструктивне апное сну: чому х",
+      "status": "ok",
+      "duration_s": 77.3,
+      "error": null
+    },
+    {
+      "name": "research:Метформін як потенційний препа",
+      "status": "ok",
+      "duration_s": 208.2,
+      "error": null
+    },
+    {
+      "name": "generate:Метформін як потенційний препа",
+      "status": "ok",
+      "duration_s": 65.5,
+      "error": null
+    },
+    {
+      "name": "review:Метформін як потенційний препа",
+      "status": "ok",
+      "duration_s": 85.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Метформін як потенційний препа",
+      "status": "ok",
+      "duration_s": 18.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Метформін як потенційний препа",
+      "status": "ok",
+      "duration_s": 8.0,
+      "error": null
+    },
+    {
+      "name": "save:Метформін як потенційний препа",
+      "status": "ok",
+      "duration_s": 69.2,
+      "error": null
+    },
+    {
+      "name": "research:CGM для здорових людей: чи вар",
+      "status": "ok",
+      "duration_s": 243.4,
+      "error": null
+    },
+    {
+      "name": "generate:CGM для здорових людей: чи вар",
+      "status": "ok",
+      "duration_s": 51.6,
+      "error": null
+    },
+    {
+      "name": "review:CGM для здорових людей: чи вар",
+      "status": "ok",
+      "duration_s": 77.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:CGM для здорових людей: чи вар",
+      "status": "ok",
+      "duration_s": 19.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:CGM для здорових людей: чи вар",
+      "status": "ok",
+      "duration_s": 10.4,
+      "error": null
+    },
+    {
+      "name": "save:CGM для здорових людей: чи вар",
+      "status": "ok",
+      "duration_s": 65.7,
+      "error": null
+    },
+    {
+      "name": "research:Колагенові добавки: чи є доказ",
+      "status": "ok",
+      "duration_s": 162.6,
+      "error": null
+    },
+    {
+      "name": "generate:Колагенові добавки: чи є доказ",
+      "status": "ok",
+      "duration_s": 61.6,
+      "error": null
+    },
+    {
+      "name": "review:Колагенові добавки: чи є доказ",
+      "status": "ok",
+      "duration_s": 86.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Колагенові добавки: чи є доказ",
+      "status": "ok",
+      "duration_s": 17.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Колагенові добавки: чи є доказ",
+      "status": "ok",
+      "duration_s": 9.0,
+      "error": null
+    },
+    {
+      "name": "save:Колагенові добавки: чи є доказ",
+      "status": "ok",
+      "duration_s": 75.6,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.7,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

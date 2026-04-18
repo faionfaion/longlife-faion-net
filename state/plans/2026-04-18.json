@@ -1,0 +1,87 @@
+{
+  "articles": [
+    {
+      "topic": "Препарати від Альцгеймера за £90 000: чому прорив у науці не означає прорив для пацієнтів",
+      "type": "research",
+      "category": "research",
+      "angle": "BBC повідомляє, що леканемаб і донанемаб — анти-амілоїдні антитіла, схвалені FDA, — мають клінічно мінімальний ефект (0,45 бала CDR-SB за 18 місяців у CLARITY AD), супроводжуються серйозними побічними ефектами (ARIA у 21% пацієнтів) і коштують непідйомно. NICE відмовив у реімбурсації. Стаття пояснює різницю між статистичною та клінічною значущістю, амілоїдну гіпотезу vs альтернативні підходи (нейрозапалення, метаболічний підхід), і що реально працює для профілактики деменції — фізична активність, контроль тиску, соціальні зв'язки (Lancet Commission 2024: 45% випадків деменції можна запобігти). Контекст для України: ані леканемаб, ані донанемаб недоступні, але 12 модифікованих факторів ризику — доступні всім",
+      "sources_hint": "CLARITY AD trial (NEJM 2023, van Dyck et al.), TRAILBLAZER-ALZ 2 (NEJM 2024, Sims et al.), NICE technology appraisal TA1068 lecanemab 2024, Lancet Commission on Dementia Prevention 2024 update, BBC Health April 2026 report, PubMed: 'lecanemab donanemab clinical significance anti-amyloid'",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Сила хвату як маркер здоров'я: чому динамометр може сказати про ваше майбутнє більше, ніж ваги",
+      "type": "research",
+      "category": "longevity",
+      "angle": "UK Biobank (Celis-Morales 2018, n=502 293) показав: сила хвату передбачає серцево-судинну смертність, рак та респіраторні захворювання краще за систолічний тиск. Зонтичний огляд García-Hermoso (2018) підтверджує: на кожні +5 кг сили хвату — мінус 7% ризику смерті. Стаття доповнює попередній матеріал про VO2max як предиктор тривалості життя (12 квітня), додаючи другий ключовий біомаркер. Практичний фокус: як виміряти вдома (без динамометра), норми для українців за віком і статтю, 3 вправи для покращення хвату (farmer's carry, dead hang, towel pull-up)",
+      "sources_hint": "Celis-Morales et al. BMJ 2018 (UK Biobank, n=502,293), García-Hermoso et al. J Cachexia Sarcopenia Muscle 2018 (meta-analysis), Bohannon 2019 normative values by age/sex, Leong et al. Lancet 2015 (PURE study, n=139,691), PubMed: 'grip strength all-cause mortality meta-analysis 2024'",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Скільки води насправді потрібно пити: наука проти правила 8 склянок",
+      "type": "guide",
+      "category": "nutrition",
+      "angle": "Правило «8 склянок на день» не має наукового підґрунтя — Valtin (2002) простежив його до рекомендації 1945 року, яку вирвали з контексту. Дослідження Yamada et al. (Science 2022, n=5 604 із 23 країн, метод дейтерію) показало: реальна потреба у воді варіює від 1 до 6,7 л/день залежно від віку, маси тіла, фізичної активності та клімату. Систематичний огляд Perrier (2017) — помірна дегідратація на 1-2% вже знижує когнітивні функції. Практичний гайд для суботи: формула розрахунку за вагою, колір сечі як індикатор (Kavouras 2016), чи рахувати чай і каву, розвінчання міфу про «вода з їжею шкодить травленню»",
+      "sources_hint": "Yamada et al. Science 2022 (deuterium oxide, n=5,604), Valtin 2002 AJP (8x8 myth origin), Perrier 2017 Eur J Nutr (mild dehydration cognition), Armstrong 2012 J Nutr (dehydration mood women RCT), Kavouras 2016 urine color scale, EFSA 2010 water intake reference values",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Діабет і депресія: двостороння пастка, про яку мовчать ендокринологи",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "У відповідь на ініціативу NHS (квітень 2026) щодо психологічної підтримки діабетиків: мета-аналіз Mezuk et al. (2008) показав, що депресія підвищує ризик діабету 2 типу на 60%, а діабет — ризик депресії на 15–24%. Окремо — diabetes distress: 36% хворих на діабет мають клінічно значущий дистрес (Perrin 2017). Механізми: HPA-дисрегуляція → кортизол → інсулінорезистентність → нейрозапалення → зниження BDNF. Мета-аналіз Uchendu & Blake (2017) показує: КПТ знижує HbA1c на 0,21%. В Україні ~2,3 млн діабетиків, психологічна підтримка не входить у стандарт допомоги. Не перетинається з попереднім матеріалом про ПТСР та серце (інший механізм і ЦА)",
+      "sources_hint": "Mezuk et al. Diabetes Care 2008 (meta-analysis depression→T2D), Nouwen et al. Diabetes Care 2010 (T2D→depression meta-analysis), Perrin et al. Diabetic Medicine 2017 (diabetes distress prevalence), Uchendu & Blake Psychoneuroendocrinology 2017 (CBT for HbA1c meta-analysis), BBC Health April 2026 (NHS diabetes mental health), PubMed: 'diabetes depression bidirectional meta-analysis 2024'",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Йога при хронічному болі в попереку: що показують систематичні огляди та рекомендації ACP",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Кокранівський огляд (Wieland 2017, 12 РКД, n≈1 080) показав помірну ефективність йоги для болю та функції спини; оновлений систематичний огляд 2022 року (сукупно ~12 000 учасників у 40+ РКД) підтвердив результати з більшою статистичною силою. ACP (American College of Physicians, 2017) рекомендує йогу як першу лінію лікування неспецифічного болю в попереку ПЕРЕД медикаментами. Практична програма на суботу: 6 поз із доказовою базою (cat-cow, child's pose, pigeon, sphinx, supine twist, bridge) з фото-інструкцією. Не перетинається з попередніми фітнес-матеріалами (ексцентричний тренінг, ізометрика, функціональний тренінг)",
+      "sources_hint": "Wieland et al. Cochrane Database Syst Rev 2017 (yoga for low back pain, 12 RCTs, n≈1,080), updated systematic review 2022 (40+ RCTs, cumulative n≈12,000), ACP Clinical Practice Guideline Qaseem et al. Ann Intern Med 2017, Saper et al. Ann Intern Med 2017 (yoga vs PT RCT), Goode et al. J Gen Intern Med 2016, PubMed: 'yoga chronic low back pain systematic review 2024 2025'",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Сон удень: чому 20 хвилин працюють, а 40 — ні. Науковий протокол денного сну",
+      "type": "lifehack",
+      "category": "sleep",
+      "angle": "Мета-аналіз Dutheil et al. (Sleep Med Rev 2021, 11 РКД) показав: денний сон 10–20 хвилин покращує увагу та когнітивні функції на 2-3 години. Але сон >30 хвилин спричиняє інерцію сну (sleep inertia), яка знижує продуктивність на 15–30 хвилин після пробудження. NASA nap study (Rosekind 1995): 26-хвилинний сон покращив пілотам реакцію на 34%. Великий мета-аналіз (Yamada 2015, n=261 365) виявив J-подібну криву: сон >60 хв/день асоційований з підвищеним кардіоризиком. Суботній контекст: ідеальний день, щоб вбудувати nap у розпорядок. Протокол «кофеїновий нап» (кава + 20 хв сон, Hayashi 2003). Не дублює попередні матеріали про сон (ті про якість нічного сну, апное, засинання, вечірній ритуал — інші аспекти). Цей матеріал — останній у серії про сон, далі пауза у категорії sleep",
+      "sources_hint": "Dutheil et al. Sleep Med Rev 2021 (napping cognition meta-analysis), Rosekind et al. 1995 NASA TM (pilot napping), Yamada et al. Sleep 2015 (napping cardiovascular J-curve, n=261,365), Hayashi et al. Clin Neurophysiol 2003 (coffee nap), Milner & Cote 2009 Sleep Med Rev (nap duration stages), PubMed: 'daytime napping cognitive performance meta-analysis'",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Йод — забутий мікроелемент: чому дефіцит повертається навіть у розвинених країнах",
+      "type": "nutrition",
+      "category": "prevention",
+      "angle": "Після успіху йодування солі у XX столітті дефіцит йоду повертається через тренд на зменшення солі, перехід на гімалайську/морську сіль (не йодовану) та рослинні дієти. Мета-аналіз Bath et al. (Lancet Diabetes Endocrinol 2013) показав м'який дефіцит навіть у Європі. В Україні йодування солі не є обов'язковим (законопроєкт №3353 обговорюється з 2020 року). ВООЗ оцінює 60–70% українців як тих, хто споживає менше норми (150 мкг/день). Ефект: когнітивний розвиток дітей, функція щитовидної залози, метаболізм. Практична порада: йодована сіль, морська капуста (ламінарія), молочні продукти. Доповнює статтю про вітамін D як другий ключовий дефіцит в Україні",
+      "sources_hint": "Bath et al. Lancet Diabetes Endocrinol 2013 (iodine deficiency Europe), WHO/UNICEF/ICCIDD global iodine status database, Zimmermann & Boelaert Lancet Diabetes Endocrinol 2015, EUthyroid consortium 2018, Ukraine iodine salt legislation draft #3353, PubMed: 'iodine deficiency re-emergence Europe meta-analysis 2024'",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Здоров'я очей за екраном: чому окуляри з блакитним фільтром не працюють, а що — працює",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Кокранівський огляд (Singh et al. 2023, 17 РКД) показав: окуляри з блакитним фільтром НЕ зменшують зоровий дискомфорт, сухість очей чи якість сну. Тим часом правило 20-20-20 має підтримку АОА, а Cochrane 2020 (мета-аналіз 6 РКД, n=924) підтвердив ефективність штучних сліз при computer vision syndrome. Мета-аналіз Foreman et al. (2021) показує зростання міопії як пандемію — до 2050 року 50% населення. Ключовий модифікований фактор: час на свіжому повітрі знижує ризик міопії на 50% (He et al. 2015, RCT, n=1 903). Суботній контекст: вихідний — ідеальний час для «очного детоксу». Не перетинається з цифровим детоксом (той про екранний час і психіку, цей — про фізіологію зору)",
+      "sources_hint": "Singh et al. Cochrane Database Syst Rev 2023 (blue-light filtering lenses), AAO 2023 position statement on blue light, He et al. JAMA 2015 (outdoor time myopia RCT, n=1,903), Foreman et al. Lancet Global Health 2021 (myopia projection 2050), Sheppard & Wolffsohn BMJ Open 2018 (digital eye strain), PubMed: 'blue light filtering glasses cochrane review', 'digital eye strain systematic review 2024'",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Епігенетичний вік: як тести на біологічне старіння працюють і чи варті вони грошей у 2026 році",
+      "type": "research",
+      "category": "biohacking",
+      "angle": "Епігенетичні годинники (Horvath 2013, GrimAge, DunedinPACE) вимірюють метилювання ДНК і передбачають смертність точніше за хронологічний вік. Мета-аналіз Hillary et al. (2020, 18 когорт, n>34 000) підтвердив: прискорене епігенетичне старіння на 1 рік = +3–5% ризику смерті. CALERIE trial (Waziry 2023, Nature Aging, перше РКД) показало: 25% обмеження калорій уповільнило DunedinPACE на 2–3%. Нове: Belsky et al. 2025 — фізична активність та відмова від куріння також уповільнюють DunedinPACE. Практичний кут: чи варто купувати тест (TruAge, ~$300)? Для кого це має сенс, а хто краще витратить гроші на простий аналіз крові. Не перетинається з NAD+, метформіном, блакитними зонами",
+      "sources_hint": "Horvath 2013 Genome Biology (epigenetic clock), Hillary et al. Clin Epigenetics 2020 (18-cohort meta-analysis), Waziry et al. Nature Aging 2023 (CALERIE DunedinPACE), Belsky et al. PNAS 2022/2025 (DunedinPACE lifestyle), Lu et al. Aging 2019 (GrimAge), PubMed: 'epigenetic age acceleration mortality meta-analysis 2024 2025'",
+      "evidence_level": "moderate",
+      "priority": 3
+    }
+  ],
+  "date": "2026-04-18",
+  "created_at": "2026-04-18T03:03:02.473345+00:00"
+}
