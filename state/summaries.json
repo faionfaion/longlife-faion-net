@@ -541,5 +541,20 @@
       "здоров'я жінок"
     ],
     "summary": "Iodine deficiency is re-emerging in developed countries due to three converging trends: salt reduction campaigns, consumer preference for non-iodized specialty salts (Himalayan, sea salt), and the rise of plant-based diets with low-iodine milk alternatives. A 2013 Lancet cohort study (Bath et al.) linked even mild maternal iodine deficiency to lower childhood IQ. Ukraine is particularly vulnerable — it has no mandatory salt iodization, and a 2013 study found 95.9% of pregnant women in Zhytomyr had insufficient iodine levels (median 13 µg/L vs. 150 µg/L norm). The practical takeaway: switch to iodized table salt, include dairy and seafood, and consult a doctor about supplementation if pregnant or on a plant-based diet. Evidence is strong from WHO/Europe reports, EUthyroid consortium data, and multiple observational studies, though Ukraine-specific data comes from limited regional samples."
+  },
+  "blue-light-glasses-debunked-eye-health-screen-guide": {
+    "date": "2026-04-18",
+    "title": "Здоров'я очей за екраном: чому наука не підтверджує ефективність окулярів з блакитним фільтром і що допомагає насправді",
+    "type": "guide",
+    "tags": [
+      "здоров'я очей",
+      "цифровий зоровий синдром",
+      "блакитне світло",
+      "міопія",
+      "профілактика",
+      "ергономіка",
+      "Cochrane"
+    ],
+    "summary": "Cochrane systematic review (Singh et al. 2023, 17 RCTs) found that blue-light filtering glasses likely do not reduce digital eye strain, improve sleep quality, or protect macular health. The real cause of screen-related discomfort is reduced blinking (from ~22 to ~7 blinks/min per Sheppard 2018) and sustained near-focus. Evidence-based alternatives include the 20-20-20 rule (AOA-recommended, physiologically sound), artificial tears for dryness (Singh 2022, 45 RCTs), ergonomic screen positioning, and conscious blinking. For myopia prevention, outdoor time shows strong evidence: He et al. 2015 RCT (n=1,903) found 40 min/day outdoors reduced myopia onset by 9.1 percentage points, confirmed by Cochrane 2024 review. Holden 2016 projects 50% global myopia prevalence by 2050. Evidence strength: strong (multiple Cochrane reviews, large RCTs). Practical takeaway: skip blue-light glasses, set break reminders, keep eye drops handy, and spend more time outdoors — especially with children."
   }
 }
