@@ -5891,3 +5891,79 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-18 04:24:14 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/diabet-depresiia-dvostoronnii-zvyazok-hpa-kortyzol-intehrovana-dopomoha.jpg (218 KB)
 04:24:14 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/diabet-depresiia-dvostoronnii-zvyazok-hpa-kortyzol-intehrovana-dopomoha.md
 2026-04-18 04:24:14 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/diabet-depresiia-dvostoronnii-zvyazok-hpa-kortyzol-intehrovana-dopomoha.md
+04:24:15 [pipeline] INFO: Article ready: diabet-depresiia-dvostoronnii-zvyazok-hpa-kortyzol-intehrovana-dopomoha (Діабет і депресія: двостороння пастка, яку рідко о)
+2026-04-18 04:24:15 [pipeline] INFO: Article ready: diabet-depresiia-dvostoronnii-zvyazok-hpa-kortyzol-intehrovana-dopomoha (Діабет і депресія: двостороння пастка, яку рідко о)
+04:24:15 [pipeline] INFO: === Article 5/9 ===
+2026-04-18 04:24:15 [pipeline] INFO: === Article 5/9 ===
+04:24:15 [pipeline] INFO: --- Article: [fitness] Йога при хронічному болі в попереку: що показують систематич ---
+2026-04-18 04:24:15 [pipeline] INFO: --- Article: [fitness] Йога при хронічному болі в попереку: що показують систематич ---
+04:24:15 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 04:24:15 [asyncio] DEBUG: Using selector: EpollSelector
+04:24:15 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 04:24:15 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:28:36 [pipeline.stages.s2_research] INFO: Research complete: 15688 chars
+2026-04-18 04:28:36 [pipeline.stages.s2_research] INFO: Research complete: 15688 chars
+04:28:36 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 04:28:36 [asyncio] DEBUG: Using selector: EpollSelector
+04:28:36 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 04:28:36 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:31:32 [pipeline.stages.s3_generate] INFO: Generated: 'Йога при хронічному болі в попереку: що показують 21 дослідження та чому лікарі рекомендують її перед таблетками' (slug=yoga-chronic-low-back-pain-cochrane-acp-guideline, 704 words, 9 sources)
+2026-04-18 04:31:32 [pipeline.stages.s3_generate] INFO: Generated: 'Йога при хронічному болі в попереку: що показують 21 дослідження та чому лікарі рекомендують її перед таблетками' (slug=yoga-chronic-low-back-pain-cochrane-acp-guideline, 704 words, 9 sources)
+04:31:32 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 04:31:32 [asyncio] DEBUG: Using selector: EpollSelector
+04:31:32 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 04:31:32 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:33:04 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-18 04:33:04 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+04:33:04 [pipeline.stages.s4_review] INFO: Feedback: Загалом стаття сильна: доказова база солідна, обмеження чесно представлені, безпекові застереження на місці. Кілька зауважень перед публікацією:
+
+1. **Джерело Li et al. 2026 (Frontiers in Medicine)** 
+2026-04-18 04:33:04 [pipeline.stages.s4_review] INFO: Feedback: Загалом стаття сильна: доказова база солідна, обмеження чесно представлені, безпекові застереження на місці. Кілька зауважень перед публікацією:
+
+1. **Джерело Li et al. 2026 (Frontiers in Medicine)** 
+04:33:04 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 04:33:04 [asyncio] DEBUG: Using selector: EpollSelector
+04:33:04 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 04:33:04 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:35:48 [pipeline.stages.s5_revise] INFO: Revised article: 733 words
+2026-04-18 04:35:48 [pipeline.stages.s5_revise] INFO: Revised article: 733 words
+04:35:48 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-18 04:35:48 [pipeline] INFO: === Review cycle 1/3 complete ===
+04:35:48 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 04:35:48 [asyncio] DEBUG: Using selector: EpollSelector
+04:35:48 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 04:35:48 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:37:05 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-18 04:37:05 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+04:37:05 [pipeline.stages.s4_review] INFO: Feedback: Сильна, збалансована стаття з коректним представленням доказової бази. Потрібні мінорні правки перед публікацією:
+
+1. **Невикористане джерело:** У списку джерел є Frontiers in Medicine — Li et al. (20
+2026-04-18 04:37:05 [pipeline.stages.s4_review] INFO: Feedback: Сильна, збалансована стаття з коректним представленням доказової бази. Потрібні мінорні правки перед публікацією:
+
+1. **Невикористане джерело:** У списку джерел є Frontiers in Medicine — Li et al. (20
+04:37:05 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-18 04:37:05 [pipeline] INFO: Article approved after 1 revision(s)
+04:37:05 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 04:37:05 [asyncio] DEBUG: Using selector: EpollSelector
+04:37:05 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 04:37:05 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:37:33 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita is in a gentle seated spinal twist on her emerald green | pose=Seated spinal twist (Ardha Matsyendrasana) on the mat — torso rotated to the right, left hand on right knee, right hand planted behind her for support, spine elongated and tall, bare feet visible, conveying controlled flexibility and lower-back engagement. | expression=Encouraging look — slight head tilt toward the viewer, soft warm eyes, gentle reassuring smile, as if inviting someone with back pain to try this pose with her. | props=Emerald green yoga mat beneath her, Open medical journal on the floor beside the mat with a visible Cochrane logo and study charts, A small amber pill bottle pushed to the far corner of the frame, slightly out of focus
+2026-04-18 04:37:33 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita is in a gentle seated spinal twist on her emerald green | pose=Seated spinal twist (Ardha Matsyendrasana) on the mat — torso rotated to the right, left hand on right knee, right hand planted behind her for support, spine elongated and tall, bare feet visible, conveying controlled flexibility and lower-back engagement. | expression=Encouraging look — slight head tilt toward the viewer, soft warm eyes, gentle reassuring smile, as if inviting someone with back pain to try this pose with her. | props=Emerald green yoga mat beneath her, Open medical journal on the floor beside the mat with a visible Cochrane logo and study charts, A small amber pill bottle pushed to the far corner of the frame, slightly out of focus
+04:37:33 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 04:37:33 [asyncio] DEBUG: Using selector: EpollSelector
+04:37:33 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 04:37:33 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:37:47 [pipeline.stages.s6_generate_tg] INFO: TG caption: 733 chars
+2026-04-18 04:37:47 [pipeline.stages.s6_generate_tg] INFO: TG caption: 733 chars
+04:37:47 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-18 04:37:47 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:38:52 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-18 04:38:52 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+04:38:53 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-18 04:38:53 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+04:38:53 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 2960475
+2026-04-18 04:38:53 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 2960475
+04:38:53 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/yoga-chronic-low-back-pain-cochrane-acp-guideline.jpg (196 KB)
+2026-04-18 04:38:53 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/yoga-chronic-low-back-pain-cochrane-acp-guideline.jpg (196 KB)
+04:38:53 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/yoga-chronic-low-back-pain-cochrane-acp-guideline.md
+2026-04-18 04:38:53 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/yoga-chronic-low-back-pain-cochrane-acp-guideline.md

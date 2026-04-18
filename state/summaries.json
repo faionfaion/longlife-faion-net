@@ -510,5 +510,21 @@
       "діабетичний дистрес"
     ],
     "summary": "A bidirectional relationship exists between depression and type 2 diabetes. Meta-analysis by Mezuk et al. (2008, Diabetes Care) shows depression increases T2D risk by 60%, while Nouwen et al. (2010, Diabetologia) found T2D increases depression risk by 24%. Additionally, 36% of T2D patients experience diabetes-specific distress distinct from clinical depression (Perrin et al., 2017). The biological mechanism involves HPA axis dysregulation, cortisol-driven insulin resistance, neuroinflammation, and reduced BDNF creating a self-reinforcing loop. CBT shows short-to-medium-term improvements in both glycemic control and depression (Uchendu & Blake, 2017), while integrated collaborative care models like TEAMcare (Katon, 2010, NEJM) achieve 0.58% greater HbA1c reduction. Ukraine has ~2.3M diabetics but no psychological support in standard diabetes care — a gap highlighted by a 2024 Ukrainian study showing high distress levels. The NHS/Diabetes UK initiative (April 2026) offers a model Ukraine could adapt. Evidence level: strong (multiple large meta-analyses and landmark RCT)."
+  },
+  "yoga-chronic-low-back-pain-cochrane-acp-guideline": {
+    "date": "2026-04-18",
+    "title": "Йога при хронічному болі в попереку: що показують 21 дослідження та чому лікарі рекомендують її перед таблетками",
+    "type": "fitness",
+    "tags": [
+      "йога",
+      "біль у спині",
+      "фітнес",
+      "дослідження",
+      "реабілітація",
+      "вправи",
+      "попереку",
+      "хронічний біль"
+    ],
+    "summary": "Стаття аналізує доказову базу йоги при хронічному болі в попереку. ACP (2017) рекомендує йогу як першу лінію лікування перед медикаментами (сильна рекомендація). Кокранівський огляд 2022 (21 РКД, n=2223) показує помірний ефект на біль і функцію; РКД Saper (2017, n=320) підтверджує рівноцінність йоги та фізіотерапії; дослідження JAMA (2024, n=140) доводить ефективність онлайн-формату. Чесно зазначено: ефект помірний, йога не краща за інші вправи — рівноцінна. Стаття включає практичну програму з 6 поз (cat-cow, child's pose, sphinx, pigeon, supine twist, bridge) з інструкціями. Рівень доказів: сильний (множинні мета-аналізи, клінічні настанови ACP і ВООЗ)."
   }
 }
