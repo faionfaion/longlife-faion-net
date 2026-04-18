@@ -463,5 +463,20 @@
       "Lancet Commission"
     ],
     "summary": "Леканемаб (CLARITY AD, NEJM 2023, n=1795) і донанемаб (TRAILBLAZER-ALZ 2, JAMA 2023, n=1736) — анти-амілоїдні антитіла, схвалені FDA, — показали статистично значущий, але клінічно мінімальний ефект: різниця 0,45–0,70 бала за CDR-SB при мінімально відчутній різниці 1,0–2,0 бала. ARIA (набряк мозку) виникає у 12–24% пацієнтів. NICE відмовив у реімбурсації через невідповідність ціни (~£90 000) та ефекту. Cochrane-огляд 2026 року (17 досліджень, 20 342 учасники) підтвердив мінімальний ефект класу, але методологія критикується за об'єднання провалених і успішних препаратів. Lancet Commission 2024 визначила 14 модифікованих факторів ризику, усунення яких може запобігти до 45% деменцій — фізична активність, контроль тиску, соціальні зв'язки, відмова від куріння та інші. Рівень доказовості: сильний (великі РКД, систематичні огляди, експертна комісія)."
+  },
+  "grip-strength-health-marker-longevity-uk-biobank": {
+    "date": "2026-04-18",
+    "title": "Сила хвату як маркер здоров'я: чому динамометр може сказати про твоє майбутнє більше, ніж ваги",
+    "type": "research",
+    "tags": [
+      "сила хвату",
+      "довголіття",
+      "біомаркери",
+      "серцево-судинне здоров'я",
+      "силові тренування",
+      "саркопенія",
+      "UK Biobank"
+    ],
+    "summary": "Grip strength is a powerful, well-researched biomarker of overall health and mortality risk. UK Biobank (n=502,293) found each 5 kg decrease in grip strength increases all-cause mortality risk by 16–20%, with grip outperforming systolic blood pressure as a predictor (HR 1.48 vs 1.03 per 1 SD). Meta-analyses totaling over 5 million participants confirm a dose-response relationship. The article provides international normative values by age/sex (Tomkinson 2024, 2.4M adults) and three evidence-based exercises (farmer's carry, dead hang, towel hang). Key caveats: all evidence is observational, cancer mortality link is inconsistent, and training improves grip only modestly (~2.7 kg over 19 weeks). Evidence level: strong (multiple large cohorts and meta-analyses, consistent findings across populations)."
   }
 }

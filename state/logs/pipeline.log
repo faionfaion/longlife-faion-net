@@ -5641,3 +5641,83 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-18 03:33:42 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/lekanemab-donanemab-alzheimer-drugs-vs-prevention.jpg (220 KB)
 03:33:42 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/lekanemab-donanemab-alzheimer-drugs-vs-prevention.md
 2026-04-18 03:33:42 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/lekanemab-donanemab-alzheimer-drugs-vs-prevention.md
+03:33:42 [pipeline] INFO: Article ready: lekanemab-donanemab-alzheimer-drugs-vs-prevention (Препарати від Альцгеймера за £90 000: чому прорив )
+2026-04-18 03:33:42 [pipeline] INFO: Article ready: lekanemab-donanemab-alzheimer-drugs-vs-prevention (Препарати від Альцгеймера за £90 000: чому прорив )
+03:33:42 [pipeline] INFO: === Article 2/9 ===
+2026-04-18 03:33:42 [pipeline] INFO: === Article 2/9 ===
+03:33:42 [pipeline] INFO: --- Article: [research] Сила хвату як маркер здоров'я: чому динамометр може сказати  ---
+2026-04-18 03:33:42 [pipeline] INFO: --- Article: [research] Сила хвату як маркер здоров'я: чому динамометр може сказати  ---
+03:33:42 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 03:33:42 [asyncio] DEBUG: Using selector: EpollSelector
+03:33:42 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 03:33:42 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:37:57 [pipeline.stages.s2_research] INFO: Research complete: 15966 chars
+2026-04-18 03:37:57 [pipeline.stages.s2_research] INFO: Research complete: 15966 chars
+03:37:57 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 03:37:57 [asyncio] DEBUG: Using selector: EpollSelector
+03:37:57 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 03:37:57 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:39:30 [pipeline.stages.s3_generate] INFO: Generated: 'Сила хвату як маркер здоров'я: чому динамометр може сказати про твоє майбутнє більше, ніж ваги' (slug=grip-strength-health-marker-longevity-uk-biobank, 825 words, 9 sources)
+2026-04-18 03:39:30 [pipeline.stages.s3_generate] INFO: Generated: 'Сила хвату як маркер здоров'я: чому динамометр може сказати про твоє майбутнє більше, ніж ваги' (slug=grip-strength-health-marker-longevity-uk-biobank, 825 words, 9 sources)
+03:39:30 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 03:39:30 [asyncio] DEBUG: Using selector: EpollSelector
+03:39:30 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 03:39:30 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:40:53 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-18 03:40:53 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+03:40:53 [pipeline.stages.s4_review] INFO: Feedback: Загалом якісний, збалансований матеріал із коректною інтерпретацією доказів. Є кілька зауважень для доопрацювання:
+
+1. **HR без пояснення:** У фразі «HR 1,48 для сили хвату проти лише 1,03 для тиску» 
+2026-04-18 03:40:53 [pipeline.stages.s4_review] INFO: Feedback: Загалом якісний, збалансований матеріал із коректною інтерпретацією доказів. Є кілька зауважень для доопрацювання:
+
+1. **HR без пояснення:** У фразі «HR 1,48 для сили хвату проти лише 1,03 для тиску» 
+03:40:53 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 03:40:53 [asyncio] DEBUG: Using selector: EpollSelector
+03:40:53 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 03:40:53 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:42:20 [pipeline.stages.s5_revise] INFO: Revised article: 999 words
+2026-04-18 03:42:20 [pipeline.stages.s5_revise] INFO: Revised article: 999 words
+03:42:20 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-18 03:42:20 [pipeline] INFO: === Review cycle 1/3 complete ===
+03:42:20 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 03:42:20 [asyncio] DEBUG: Using selector: EpollSelector
+03:42:20 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 03:42:20 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:43:55 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-18 03:43:55 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+03:43:55 [pipeline.stages.s4_review] INFO: Feedback: Дуже якісний матеріал з кількома незначними зауваженнями:
+
+1. **Категорія не вказана** — поле Category порожнє, потрібно заповнити (наприклад: «фізична активність», «біомаркери», «м'язова сила»).
+
+2. 
+2026-04-18 03:43:55 [pipeline.stages.s4_review] INFO: Feedback: Дуже якісний матеріал з кількома незначними зауваженнями:
+
+1. **Категорія не вказана** — поле Category порожнє, потрібно заповнити (наприклад: «фізична активність», «біомаркери», «м'язова сила»).
+
+2. 
+03:43:55 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-18 03:43:55 [pipeline] INFO: Article approved after 1 revision(s)
+03:43:55 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 03:43:55 [asyncio] DEBUG: Using selector: EpollSelector
+03:43:55 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 03:43:55 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:44:23 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a bright modern gym-lab hybrid space, powerfu | pose=Standing in a wide confident stance, right arm extended forward and gripping a hand dynamometer with visible forearm and bicep engagement, left arm bent at the elbow holding a tablet screen-out toward the viewer. Slight forward lean conveying intensity and control. | expression=One eyebrow slightly raised with a knowing, confident smile — the 'explaining/teaching' look — as if revealing a surprising secret about health prediction to the viewer. | props=Hand dynamometer (medical-grade, grey body with green accents on the grip), Tablet showing a bar chart comparing grip strength HR 1.48 vs blood pressure HR 1.03, Bathroom scale on the floor behind her, tilted and visually de-emphasized, Chrome dumbbells with green grips on a rack in the background
+2026-04-18 03:44:23 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a bright modern gym-lab hybrid space, powerfu | pose=Standing in a wide confident stance, right arm extended forward and gripping a hand dynamometer with visible forearm and bicep engagement, left arm bent at the elbow holding a tablet screen-out toward the viewer. Slight forward lean conveying intensity and control. | expression=One eyebrow slightly raised with a knowing, confident smile — the 'explaining/teaching' look — as if revealing a surprising secret about health prediction to the viewer. | props=Hand dynamometer (medical-grade, grey body with green accents on the grip), Tablet showing a bar chart comparing grip strength HR 1.48 vs blood pressure HR 1.03, Bathroom scale on the floor behind her, tilted and visually de-emphasized, Chrome dumbbells with green grips on a rack in the background
+03:44:23 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 03:44:23 [asyncio] DEBUG: Using selector: EpollSelector
+03:44:23 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 03:44:23 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:44:34 [pipeline.stages.s6_generate_tg] INFO: TG caption: 617 chars
+2026-04-18 03:44:34 [pipeline.stages.s6_generate_tg] INFO: TG caption: 617 chars
+03:44:34 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-18 03:44:34 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:45:40 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-18 03:45:40 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+03:45:40 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-18 03:45:40 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+03:45:40 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 2987748
+2026-04-18 03:45:40 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 2987748
+03:45:41 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/grip-strength-health-marker-longevity-uk-biobank.jpg (207 KB)
+2026-04-18 03:45:41 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/grip-strength-health-marker-longevity-uk-biobank.jpg (207 KB)
+03:45:41 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/grip-strength-health-marker-longevity-uk-biobank.md
+2026-04-18 03:45:41 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/grip-strength-health-marker-longevity-uk-biobank.md
