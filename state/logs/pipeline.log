@@ -5721,3 +5721,87 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-18 03:45:41 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/grip-strength-health-marker-longevity-uk-biobank.jpg (207 KB)
 03:45:41 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/grip-strength-health-marker-longevity-uk-biobank.md
 2026-04-18 03:45:41 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/grip-strength-health-marker-longevity-uk-biobank.md
+03:45:41 [pipeline] INFO: Article ready: grip-strength-health-marker-longevity-uk-biobank (Сила хвату як маркер здоров'я: чому динамометр мож)
+2026-04-18 03:45:41 [pipeline] INFO: Article ready: grip-strength-health-marker-longevity-uk-biobank (Сила хвату як маркер здоров'я: чому динамометр мож)
+03:45:41 [pipeline] INFO: === Article 3/9 ===
+2026-04-18 03:45:41 [pipeline] INFO: === Article 3/9 ===
+03:45:41 [pipeline] INFO: --- Article: [guide] Скільки води насправді потрібно пити: наука проти правила 8  ---
+2026-04-18 03:45:41 [pipeline] INFO: --- Article: [guide] Скільки води насправді потрібно пити: наука проти правила 8  ---
+03:45:41 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 03:45:41 [asyncio] DEBUG: Using selector: EpollSelector
+03:45:41 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 03:45:41 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:50:41 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+2026-04-18 03:50:41 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+03:50:46 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 6.9s
+2026-04-18 03:50:46 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 6.9s
+03:50:53 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 03:50:53 [asyncio] DEBUG: Using selector: EpollSelector
+03:50:53 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 03:50:53 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:54:52 [pipeline.stages.s2_research] INFO: Research complete: 15318 chars
+2026-04-18 03:54:52 [pipeline.stages.s2_research] INFO: Research complete: 15318 chars
+03:54:52 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 03:54:52 [asyncio] DEBUG: Using selector: EpollSelector
+03:54:52 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 03:54:52 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:57:10 [pipeline.stages.s3_generate] INFO: Generated: 'Скільки води насправді потрібно пити: наука проти правила 8 склянок' (slug=skilky-vody-potribno-pyty-nauka-proty-8-sklyanok, 1322 words, 9 sources)
+2026-04-18 03:57:10 [pipeline.stages.s3_generate] INFO: Generated: 'Скільки води насправді потрібно пити: наука проти правила 8 склянок' (slug=skilky-vody-potribno-pyty-nauka-proty-8-sklyanok, 1322 words, 9 sources)
+03:57:10 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 03:57:10 [asyncio] DEBUG: Using selector: EpollSelector
+03:57:10 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 03:57:10 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:58:31 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-18 03:58:31 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+03:58:31 [pipeline.stages.s4_review] INFO: Feedback: Загалом стаття добре написана, науково обґрунтована, з коректними посиланнями та збалансованим посилом. Рекомендую виправити кілька моментів перед публікацією:
+
+1. **Категорія та теги відсутні.** Поле
+2026-04-18 03:58:31 [pipeline.stages.s4_review] INFO: Feedback: Загалом стаття добре написана, науково обґрунтована, з коректними посиланнями та збалансованим посилом. Рекомендую виправити кілька моментів перед публікацією:
+
+1. **Категорія та теги відсутні.** Поле
+03:58:31 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 03:58:31 [asyncio] DEBUG: Using selector: EpollSelector
+03:58:31 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 03:58:31 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:00:35 [pipeline.stages.s5_revise] INFO: Revised article: 1367 words
+2026-04-18 04:00:35 [pipeline.stages.s5_revise] INFO: Revised article: 1367 words
+04:00:35 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-18 04:00:35 [pipeline] INFO: === Review cycle 1/3 complete ===
+04:00:35 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 04:00:35 [asyncio] DEBUG: Using selector: EpollSelector
+04:00:35 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 04:00:35 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:01:54 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-18 04:01:54 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+04:01:54 [pipeline.stages.s4_review] INFO: Feedback: Відмінна стаття з міцною доказовою базою та збалансованим поданням. Кілька зауважень для фінального полірування:
+
+1. **Категорія та теги відсутні.** Поле Category порожнє. Додайте відповідну категорію
+2026-04-18 04:01:54 [pipeline.stages.s4_review] INFO: Feedback: Відмінна стаття з міцною доказовою базою та збалансованим поданням. Кілька зауважень для фінального полірування:
+
+1. **Категорія та теги відсутні.** Поле Category порожнє. Додайте відповідну категорію
+04:01:54 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-18 04:01:54 [pipeline] INFO: Article approved after 1 revision(s)
+04:01:54 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 04:01:54 [asyncio] DEBUG: Using selector: EpollSelector
+04:01:54 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 04:01:54 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:02:22 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a bright modern kitchen-lab hybrid space, con | pose=Standing at the counter, left hand holding a clear glass pitcher mid-pour into a laboratory-style graduated beaker, right hand resting palm-down on the countertop next to the cutting board of fresh produce. Her body is turned slightly three-quarters toward the viewer, torso leaning forward with engaged energy. Her long wavy blonde hair (parted left) cascades past her shoulders with a few strands catching the window light. The small green leaf tattoo is clearly visible on her right shoulder. A black-band fitness smartwatch with green accents is on her left wrist. | expression=One eyebrow slightly raised with an amused, knowing smile — the 'explaining/teaching' expression — as if she's just revealed a secret the viewer didn't expect. Bright green eyes look directly at the viewer with warmth and confidence. | props=Clear glass pitcher filled with water being poured into a lab graduated beaker, Tablet on counter showing a colorful hydration data chart with world map, Cutting board with sliced cucumbers, watermelon wedges, and halved oranges, A crossed-out '8×8' icon on a small wall poster in the background, Green smoothie in a glass bottle with a metal straw, set to the side
+2026-04-18 04:02:22 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a bright modern kitchen-lab hybrid space, con | pose=Standing at the counter, left hand holding a clear glass pitcher mid-pour into a laboratory-style graduated beaker, right hand resting palm-down on the countertop next to the cutting board of fresh produce. Her body is turned slightly three-quarters toward the viewer, torso leaning forward with engaged energy. Her long wavy blonde hair (parted left) cascades past her shoulders with a few strands catching the window light. The small green leaf tattoo is clearly visible on her right shoulder. A black-band fitness smartwatch with green accents is on her left wrist. | expression=One eyebrow slightly raised with an amused, knowing smile — the 'explaining/teaching' expression — as if she's just revealed a secret the viewer didn't expect. Bright green eyes look directly at the viewer with warmth and confidence. | props=Clear glass pitcher filled with water being poured into a lab graduated beaker, Tablet on counter showing a colorful hydration data chart with world map, Cutting board with sliced cucumbers, watermelon wedges, and halved oranges, A crossed-out '8×8' icon on a small wall poster in the background, Green smoothie in a glass bottle with a metal straw, set to the side
+04:02:22 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 04:02:22 [asyncio] DEBUG: Using selector: EpollSelector
+04:02:22 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 04:02:22 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:02:33 [pipeline.stages.s6_generate_tg] INFO: TG caption: 659 chars
+2026-04-18 04:02:33 [pipeline.stages.s6_generate_tg] INFO: TG caption: 659 chars
+04:02:33 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-18 04:02:33 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:03:38 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-18 04:03:38 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+04:03:39 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-18 04:03:39 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+04:03:39 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 2945238
+2026-04-18 04:03:39 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 2945238
+04:03:39 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/skilky-vody-potribno-pyty-nauka-proty-8-sklyanok.jpg (204 KB)
+2026-04-18 04:03:39 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/skilky-vody-potribno-pyty-nauka-proty-8-sklyanok.jpg (204 KB)
+04:03:39 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/skilky-vody-potribno-pyty-nauka-proty-8-sklyanok.md
+2026-04-18 04:03:39 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/skilky-vody-potribno-pyty-nauka-proty-8-sklyanok.md

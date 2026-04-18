@@ -478,5 +478,20 @@
       "UK Biobank"
     ],
     "summary": "Grip strength is a powerful, well-researched biomarker of overall health and mortality risk. UK Biobank (n=502,293) found each 5 kg decrease in grip strength increases all-cause mortality risk by 16–20%, with grip outperforming systolic blood pressure as a predictor (HR 1.48 vs 1.03 per 1 SD). Meta-analyses totaling over 5 million participants confirm a dose-response relationship. The article provides international normative values by age/sex (Tomkinson 2024, 2.4M adults) and three evidence-based exercises (farmer's carry, dead hang, towel hang). Key caveats: all evidence is observational, cancer mortality link is inconsistent, and training improves grip only modestly (~2.7 kg over 19 weeks). Evidence level: strong (multiple large cohorts and meta-analyses, consistent findings across populations)."
+  },
+  "skilky-vody-potribno-pyty-nauka-proty-8-sklyanok": {
+    "date": "2026-04-18",
+    "title": "Скільки води насправді потрібно пити: наука проти правила 8 склянок",
+    "type": "guide",
+    "tags": [
+      "гідратація",
+      "харчування",
+      "дослідження",
+      "когнітивні функції",
+      "міфи про здоровʼя",
+      "вода",
+      "кава"
+    ],
+    "summary": "The article debunks the \"8 glasses of water per day\" myth, tracing it to a misquoted 1945 recommendation (Valtin 2002 review). The largest international study of human water turnover (Yamada et al., Science 2022, n=5,604 from 23 countries using deuterium tracking) showed actual water needs range from ~1 to 6.7 L/day depending on age, body mass, physical activity, and climate. Meta-analysis of 33 studies (Wittbrodt & Millard-Stafford 2018) and two RCTs (Armstrong 2012, Ganio 2011) confirm that even 1-2% dehydration impairs attention, mood, and cognitive performance. Practical guidance includes a weight-based formula (30-35 mL/kg), urine color monitoring (Kavouras 2016 validation study), confirmation that coffee/tea count toward fluid intake (Killer 2014 crossover study), and debunking of the \"water with meals harms digestion\" myth (Mayo Clinic). Evidence level: strong (multiple RCTs, meta-analysis, large observational study, EFSA guidelines)."
   }
 }
