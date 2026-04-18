@@ -5967,3 +5967,129 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-18 04:38:53 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/yoga-chronic-low-back-pain-cochrane-acp-guideline.jpg (196 KB)
 04:38:53 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/yoga-chronic-low-back-pain-cochrane-acp-guideline.md
 2026-04-18 04:38:53 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/yoga-chronic-low-back-pain-cochrane-acp-guideline.md
+04:38:53 [pipeline] INFO: Article ready: yoga-chronic-low-back-pain-cochrane-acp-guideline (Йога при хронічному болі в попереку: що показують )
+2026-04-18 04:38:53 [pipeline] INFO: Article ready: yoga-chronic-low-back-pain-cochrane-acp-guideline (Йога при хронічному болі в попереку: що показують )
+04:38:53 [pipeline] INFO: === Article 6/9 ===
+2026-04-18 04:38:53 [pipeline] INFO: === Article 6/9 ===
+04:38:53 [pipeline] INFO: --- Article: [lifehack] Сон удень: чому 20 хвилин працюють, а 40 — ні. Науковий прот ---
+2026-04-18 04:38:53 [pipeline] INFO: --- Article: [lifehack] Сон удень: чому 20 хвилин працюють, а 40 — ні. Науковий прот ---
+04:38:53 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 04:38:53 [asyncio] DEBUG: Using selector: EpollSelector
+04:38:53 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 04:38:53 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:43:53 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+2026-04-18 04:43:53 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+04:43:59 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 5.2s
+2026-04-18 04:43:59 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 5.2s
+04:44:04 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 04:44:04 [asyncio] DEBUG: Using selector: EpollSelector
+04:44:04 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 04:44:04 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:49:04 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+2026-04-18 04:49:04 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+04:49:09 [pipeline.sdk] WARNING: agent_query retry 2/2: agent_query timed out after 300s — 11.9s
+2026-04-18 04:49:09 [pipeline.sdk] WARNING: agent_query retry 2/2: agent_query timed out after 300s — 11.9s
+04:49:21 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 04:49:21 [asyncio] DEBUG: Using selector: EpollSelector
+04:49:21 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 04:49:21 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:54:21 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+2026-04-18 04:54:21 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+04:54:26 [pipeline.sdk] ERROR: agent_query failed after 3 attempts: agent_query timed out after 300s
+2026-04-18 04:54:26 [pipeline.sdk] ERROR: agent_query failed after 3 attempts: agent_query timed out after 300s
+04:54:26 [pipeline] ERROR: Failed to generate article: Сон удень: чому 20 хвилин працюють, а 40 — ні. Науковий прот
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/modes/generate.py", line 136, in _generate_one_article
+    s2_research.run(ctx)
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/stages/s2_research.py", line 21, in run
+    ctx.research_text = agent_query(
+                        ^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/sdk.py", line 222, in agent_query
+    raise last_error  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^
+TimeoutError: agent_query timed out after 300s
+2026-04-18 04:54:26 [pipeline] ERROR: Failed to generate article: Сон удень: чому 20 хвилин працюють, а 40 — ні. Науковий прот
+Traceback (most recent call last):
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/modes/generate.py", line 136, in _generate_one_article
+    s2_research.run(ctx)
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/stages/s2_research.py", line 21, in run
+    ctx.research_text = agent_query(
+                        ^^^^^^^^^^^^
+  File "/home/nero/workspace/projects/longlife-faion-net/pipeline/sdk.py", line 222, in agent_query
+    raise last_error  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^
+TimeoutError: agent_query timed out after 300s
+04:54:26 [pipeline] INFO: === Article 7/9 ===
+2026-04-18 04:54:26 [pipeline] INFO: === Article 7/9 ===
+04:54:26 [pipeline] INFO: --- Article: [nutrition] Йод — забутий мікроелемент: чому дефіцит повертається навіть ---
+2026-04-18 04:54:26 [pipeline] INFO: --- Article: [nutrition] Йод — забутий мікроелемент: чому дефіцит повертається навіть ---
+04:54:26 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 04:54:26 [asyncio] DEBUG: Using selector: EpollSelector
+04:54:26 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 04:54:26 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:59:10 [pipeline.stages.s2_research] INFO: Research complete: 15141 chars
+2026-04-18 04:59:10 [pipeline.stages.s2_research] INFO: Research complete: 15141 chars
+04:59:10 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 04:59:10 [asyncio] DEBUG: Using selector: EpollSelector
+04:59:10 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 04:59:10 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:00:32 [pipeline.stages.s3_generate] INFO: Generated: 'Йод — забутий мікроелемент: чому дефіцит повертається навіть у розвинених країнах' (slug=iodine-deficiency-returns-salt-plant-milk-thyroid, 712 words, 8 sources)
+2026-04-18 05:00:32 [pipeline.stages.s3_generate] INFO: Generated: 'Йод — забутий мікроелемент: чому дефіцит повертається навіть у розвинених країнах' (slug=iodine-deficiency-returns-salt-plant-milk-thyroid, 712 words, 8 sources)
+05:00:32 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 05:00:32 [asyncio] DEBUG: Using selector: EpollSelector
+05:00:32 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 05:00:32 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:01:47 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-18 05:01:47 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+05:01:47 [pipeline.stages.s4_review] INFO: Feedback: Сильна, добре джерелована стаття з коректною інтерпретацією доказів і належними застереженнями. Потрібні незначні виправлення перед публікацією:
+
+1. **Нерозтлумачені терміни:** «гіпертиреоз», «когортн
+2026-04-18 05:01:47 [pipeline.stages.s4_review] INFO: Feedback: Сильна, добре джерелована стаття з коректною інтерпретацією доказів і належними застереженнями. Потрібні незначні виправлення перед публікацією:
+
+1. **Нерозтлумачені терміни:** «гіпертиреоз», «когортн
+05:01:47 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 05:01:47 [asyncio] DEBUG: Using selector: EpollSelector
+05:01:47 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 05:01:47 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:05:10 [pipeline.stages.s5_revise] INFO: Revised article: 862 words
+2026-04-18 05:05:10 [pipeline.stages.s5_revise] INFO: Revised article: 862 words
+05:05:10 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-18 05:05:10 [pipeline] INFO: === Review cycle 1/3 complete ===
+05:05:10 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 05:05:10 [asyncio] DEBUG: Using selector: EpollSelector
+05:05:10 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 05:05:10 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:06:22 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-18 05:06:22 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+05:06:22 [pipeline.stages.s4_review] INFO: Feedback: Відмінна стаття — науково обґрунтована, збалансована, з чітко вказаними обмеженнями досліджень та практичними порадами. Кілька дрібних зауважень для фінальної редакції:
+
+1. **Категорія порожня** — пот
+2026-04-18 05:06:22 [pipeline.stages.s4_review] INFO: Feedback: Відмінна стаття — науково обґрунтована, збалансована, з чітко вказаними обмеженнями досліджень та практичними порадами. Кілька дрібних зауважень для фінальної редакції:
+
+1. **Категорія порожня** — пот
+05:06:22 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-18 05:06:22 [pipeline] INFO: Article approved after 1 revision(s)
+05:06:22 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 05:06:22 [asyncio] DEBUG: Using selector: EpollSelector
+05:06:22 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 05:06:22 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:06:50 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands at a bright modern kitchen counter, holding up a | pose=Presenting pose — right arm raised holding a white container of iodized table salt (label visible), left arm extended lower holding a pink Himalayan salt grinder, comparing the two. Her body is turned slightly toward the viewer, weight on her left leg, slight lean forward as if revealing a secret to the audience. | expression=One eyebrow slightly raised, engaged explaining-teaching expression — a mix of surprise and concern, lips parted in a knowing half-smile, as if saying 'can you believe this?' | props=White container of iodized table salt (held in right hand), Trendy pink Himalayan salt grinder (held in left hand), Small butterfly-shaped thyroid gland anatomical model on the counter, Cutting board with shrimp and dried seaweed strips, Green smoothie in glass bottle on counter, Fitness smartwatch on left wrist (black band, green accents)
+2026-04-18 05:06:50 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands at a bright modern kitchen counter, holding up a | pose=Presenting pose — right arm raised holding a white container of iodized table salt (label visible), left arm extended lower holding a pink Himalayan salt grinder, comparing the two. Her body is turned slightly toward the viewer, weight on her left leg, slight lean forward as if revealing a secret to the audience. | expression=One eyebrow slightly raised, engaged explaining-teaching expression — a mix of surprise and concern, lips parted in a knowing half-smile, as if saying 'can you believe this?' | props=White container of iodized table salt (held in right hand), Trendy pink Himalayan salt grinder (held in left hand), Small butterfly-shaped thyroid gland anatomical model on the counter, Cutting board with shrimp and dried seaweed strips, Green smoothie in glass bottle on counter, Fitness smartwatch on left wrist (black band, green accents)
+05:06:50 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 05:06:50 [asyncio] DEBUG: Using selector: EpollSelector
+05:06:50 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 05:06:50 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:07:07 [pipeline.stages.s6_generate_tg] INFO: TG caption: 705 chars
+2026-04-18 05:07:07 [pipeline.stages.s6_generate_tg] INFO: TG caption: 705 chars
+05:07:07 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-18 05:07:07 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+05:08:14 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-18 05:08:14 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+05:08:15 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-18 05:08:15 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+05:08:15 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 3335943
+2026-04-18 05:08:15 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 3335943
+05:08:15 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/iodine-deficiency-returns-salt-plant-milk-thyroid.jpg (195 KB)
+2026-04-18 05:08:15 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/iodine-deficiency-returns-salt-plant-milk-thyroid.jpg (195 KB)
+05:08:15 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/iodine-deficiency-returns-salt-plant-milk-thyroid.md
+2026-04-18 05:08:15 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/iodine-deficiency-returns-salt-plant-milk-thyroid.md
