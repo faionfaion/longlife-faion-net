@@ -5805,3 +5805,89 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-18 04:03:39 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/skilky-vody-potribno-pyty-nauka-proty-8-sklyanok.jpg (204 KB)
 04:03:39 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/skilky-vody-potribno-pyty-nauka-proty-8-sklyanok.md
 2026-04-18 04:03:39 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/skilky-vody-potribno-pyty-nauka-proty-8-sklyanok.md
+04:03:39 [pipeline] INFO: Article ready: skilky-vody-potribno-pyty-nauka-proty-8-sklyanok (Скільки води насправді потрібно пити: наука проти )
+2026-04-18 04:03:39 [pipeline] INFO: Article ready: skilky-vody-potribno-pyty-nauka-proty-8-sklyanok (Скільки води насправді потрібно пити: наука проти )
+04:03:39 [pipeline] INFO: === Article 4/9 ===
+2026-04-18 04:03:39 [pipeline] INFO: === Article 4/9 ===
+04:03:39 [pipeline] INFO: --- Article: [research] Діабет і депресія: двостороння пастка, про яку мовчать ендок ---
+2026-04-18 04:03:39 [pipeline] INFO: --- Article: [research] Діабет і депресія: двостороння пастка, про яку мовчать ендок ---
+04:03:39 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 04:03:39 [asyncio] DEBUG: Using selector: EpollSelector
+04:03:39 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 04:03:39 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:08:39 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+2026-04-18 04:08:39 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+04:08:45 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 6.0s
+2026-04-18 04:08:45 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 6.0s
+04:08:51 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 04:08:51 [asyncio] DEBUG: Using selector: EpollSelector
+04:08:51 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 04:08:51 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:13:30 [pipeline.stages.s2_research] INFO: Research complete: 18457 chars
+2026-04-18 04:13:30 [pipeline.stages.s2_research] INFO: Research complete: 18457 chars
+04:13:30 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 04:13:30 [asyncio] DEBUG: Using selector: EpollSelector
+04:13:30 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 04:13:30 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:16:52 [pipeline.stages.s3_generate] INFO: Generated: 'Діабет і депресія: двостороння пастка, про яку мовчать ендокринологи' (slug=diabet-depresiia-dvostoronnii-zvyazok-hpa-kortyzol-intehrovana-dopomoha, 727 words, 11 sources)
+2026-04-18 04:16:52 [pipeline.stages.s3_generate] INFO: Generated: 'Діабет і депресія: двостороння пастка, про яку мовчать ендокринологи' (slug=diabet-depresiia-dvostoronnii-zvyazok-hpa-kortyzol-intehrovana-dopomoha, 727 words, 11 sources)
+04:16:52 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 04:16:52 [asyncio] DEBUG: Using selector: EpollSelector
+04:16:52 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 04:16:52 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:18:11 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-18 04:18:11 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+04:18:11 [pipeline.stages.s4_review] INFO: Feedback: Стаття науково сильна, добре джерелована і збалансована. Потрібні точкові виправлення перед публікацією:
+
+1. **ЗАГОЛОВОК — обов'язкова заміна.** «…про яку мовчать ендокринологи» створює конспірологічн
+2026-04-18 04:18:11 [pipeline.stages.s4_review] INFO: Feedback: Стаття науково сильна, добре джерелована і збалансована. Потрібні точкові виправлення перед публікацією:
+
+1. **ЗАГОЛОВОК — обов'язкова заміна.** «…про яку мовчать ендокринологи» створює конспірологічн
+04:18:11 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 04:18:11 [asyncio] DEBUG: Using selector: EpollSelector
+04:18:11 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 04:18:11 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:20:58 [pipeline.stages.s5_revise] INFO: Revised article: 794 words
+2026-04-18 04:20:58 [pipeline.stages.s5_revise] INFO: Revised article: 794 words
+04:20:58 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-18 04:20:58 [pipeline] INFO: === Review cycle 1/3 complete ===
+04:20:58 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 04:20:58 [asyncio] DEBUG: Using selector: EpollSelector
+04:20:58 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 04:20:58 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:22:25 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-18 04:22:25 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+04:22:25 [pipeline.stages.s4_review] INFO: Feedback: Дуже якісний матеrial. Кілька дрібних зауважень:
+
+1. **Категорія порожня** — потрібно вказати category (наприклад: diabetes, mental-health).
+2. **«Мета-аналіз» не пояснений при першому вживанні.** Ви 
+2026-04-18 04:22:25 [pipeline.stages.s4_review] INFO: Feedback: Дуже якісний матеrial. Кілька дрібних зауважень:
+
+1. **Категорія порожня** — потрібно вказати category (наприклад: diabetes, mental-health).
+2. **«Мета-аналіз» не пояснений при першому вживанні.** Ви 
+04:22:25 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-18 04:22:25 [pipeline] INFO: Article approved after 1 revision(s)
+04:22:25 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 04:22:25 [asyncio] DEBUG: Using selector: EpollSelector
+04:22:25 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 04:22:25 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:22:52 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a modern clinical research office, drawing a  | pose=Standing at a slight angle to the viewer, right arm extended drawing a bold arrow on the whiteboard with a green marker, left hand holding a tablet against her hip showing bar-chart data. Weight shifted to her left leg, torso slightly twisted — a dynamic teaching pose. Her right shoulder is turned toward the viewer, revealing the small green leaf tattoo. | expression=Explaining and teaching — one eyebrow slightly raised, eyes engaged and focused, mouth open mid-sentence as if walking the viewer through an important finding. Warm but serious. | props=green dry-erase marker in right hand, black tablet with green-accent bar charts showing '60%' risk data on screen (held in left hand, fitness smartwatch visible on left wrist), transparent glass whiteboard with brain icon, glucose meter icon, and bidirectional arrows drawn in green and blue, a blood glucose monitoring device resting on the desk beside the whiteboard
+2026-04-18 04:22:52 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a modern clinical research office, drawing a  | pose=Standing at a slight angle to the viewer, right arm extended drawing a bold arrow on the whiteboard with a green marker, left hand holding a tablet against her hip showing bar-chart data. Weight shifted to her left leg, torso slightly twisted — a dynamic teaching pose. Her right shoulder is turned toward the viewer, revealing the small green leaf tattoo. | expression=Explaining and teaching — one eyebrow slightly raised, eyes engaged and focused, mouth open mid-sentence as if walking the viewer through an important finding. Warm but serious. | props=green dry-erase marker in right hand, black tablet with green-accent bar charts showing '60%' risk data on screen (held in left hand, fitness smartwatch visible on left wrist), transparent glass whiteboard with brain icon, glucose meter icon, and bidirectional arrows drawn in green and blue, a blood glucose monitoring device resting on the desk beside the whiteboard
+04:22:52 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-18 04:22:52 [asyncio] DEBUG: Using selector: EpollSelector
+04:22:52 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-18 04:22:52 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:23:04 [pipeline.stages.s6_generate_tg] INFO: TG caption: 711 chars
+2026-04-18 04:23:04 [pipeline.stages.s6_generate_tg] INFO: TG caption: 711 chars
+04:23:04 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-18 04:23:04 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:24:14 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-18 04:24:14 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+04:24:14 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-18 04:24:14 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+04:24:14 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 3167018
+2026-04-18 04:24:14 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 41 3167018
+04:24:14 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/diabet-depresiia-dvostoronnii-zvyazok-hpa-kortyzol-intehrovana-dopomoha.jpg (218 KB)
+2026-04-18 04:24:14 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/diabet-depresiia-dvostoronnii-zvyazok-hpa-kortyzol-intehrovana-dopomoha.jpg (218 KB)
+04:24:14 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/diabet-depresiia-dvostoronnii-zvyazok-hpa-kortyzol-intehrovana-dopomoha.md
+2026-04-18 04:24:14 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/diabet-depresiia-dvostoronnii-zvyazok-hpa-kortyzol-intehrovana-dopomoha.md

@@ -493,5 +493,22 @@
       "кава"
     ],
     "summary": "The article debunks the \"8 glasses of water per day\" myth, tracing it to a misquoted 1945 recommendation (Valtin 2002 review). The largest international study of human water turnover (Yamada et al., Science 2022, n=5,604 from 23 countries using deuterium tracking) showed actual water needs range from ~1 to 6.7 L/day depending on age, body mass, physical activity, and climate. Meta-analysis of 33 studies (Wittbrodt & Millard-Stafford 2018) and two RCTs (Armstrong 2012, Ganio 2011) confirm that even 1-2% dehydration impairs attention, mood, and cognitive performance. Practical guidance includes a weight-based formula (30-35 mL/kg), urine color monitoring (Kavouras 2016 validation study), confirmation that coffee/tea count toward fluid intake (Killer 2014 crossover study), and debunking of the \"water with meals harms digestion\" myth (Mayo Clinic). Evidence level: strong (multiple RCTs, meta-analysis, large observational study, EFSA guidelines)."
+  },
+  "diabet-depresiia-dvostoronnii-zvyazok-hpa-kortyzol-intehrovana-dopomoha": {
+    "date": "2026-04-18",
+    "title": "Діабет і депресія: двостороння пастка, яку рідко обговорюють на прийомі",
+    "type": "research",
+    "tags": [
+      "депресія",
+      "діабет",
+      "ментальне здоров'я",
+      "кортизол",
+      "КПТ",
+      "інтегрована допомога",
+      "дослідження",
+      "HPA-вісь",
+      "діабетичний дистрес"
+    ],
+    "summary": "A bidirectional relationship exists between depression and type 2 diabetes. Meta-analysis by Mezuk et al. (2008, Diabetes Care) shows depression increases T2D risk by 60%, while Nouwen et al. (2010, Diabetologia) found T2D increases depression risk by 24%. Additionally, 36% of T2D patients experience diabetes-specific distress distinct from clinical depression (Perrin et al., 2017). The biological mechanism involves HPA axis dysregulation, cortisol-driven insulin resistance, neuroinflammation, and reduced BDNF creating a self-reinforcing loop. CBT shows short-to-medium-term improvements in both glycemic control and depression (Uchendu & Blake, 2017), while integrated collaborative care models like TEAMcare (Katon, 2010, NEJM) achieve 0.58% greater HbA1c reduction. Ukraine has ~2.3M diabetics but no psychological support in standard diabetes care — a gap highlighted by a 2024 Ukrainian study showing high distress levels. The NHS/Diabetes UK initiative (April 2026) offers a model Ukraine could adapt. Evidence level: strong (multiple large meta-analyses and landmark RCT)."
   }
 }
