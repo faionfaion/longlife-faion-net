@@ -7558,3 +7558,83 @@ TimeoutError: agent_query timed out after 300s
 2026-04-19 05:03:33 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/rezystentnyi-krokhmal-okholodzhena-kartoplia-rys-mikrobiom.jpg (233 KB)
 05:03:33 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/rezystentnyi-krokhmal-okholodzhena-kartoplia-rys-mikrobiom.md
 2026-04-19 05:03:33 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/rezystentnyi-krokhmal-okholodzhena-kartoplia-rys-mikrobiom.md
+05:03:33 [pipeline] INFO: Article ready: rezystentnyi-krokhmal-okholodzhena-kartoplia-rys-mikrobiom (Резистентний крохмаль: чому вчорашня картопля кори)
+2026-04-19 05:03:33 [pipeline] INFO: Article ready: rezystentnyi-krokhmal-okholodzhena-kartoplia-rys-mikrobiom (Резистентний крохмаль: чому вчорашня картопля кори)
+05:03:33 [pipeline] INFO: === Article 8/9 ===
+2026-04-19 05:03:33 [pipeline] INFO: === Article 8/9 ===
+05:03:33 [pipeline] INFO: --- Article: [guide] Тестостерон після 40 без ін'єкцій: що дійсно підвищує рівень ---
+2026-04-19 05:03:33 [pipeline] INFO: --- Article: [guide] Тестостерон після 40 без ін'єкцій: що дійсно підвищує рівень ---
+05:03:33 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 05:03:33 [asyncio] DEBUG: Using selector: EpollSelector
+05:03:33 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 05:03:33 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:07:50 [pipeline.stages.s2_research] INFO: Research complete: 19691 chars
+2026-04-19 05:07:50 [pipeline.stages.s2_research] INFO: Research complete: 19691 chars
+05:07:50 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 05:07:50 [asyncio] DEBUG: Using selector: EpollSelector
+05:07:50 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 05:07:50 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:11:44 [pipeline.stages.s3_generate] INFO: Generated: 'Тестостерон після 40 без ін'єкцій: що дійсно підвищує рівень і чого уникати' (slug=testosteron-pislia-40-bez-inyektsiy-shcho-pratsyuye, 1361 words, 14 sources)
+2026-04-19 05:11:44 [pipeline.stages.s3_generate] INFO: Generated: 'Тестостерон після 40 без ін'єкцій: що дійсно підвищує рівень і чого уникати' (slug=testosteron-pislia-40-bez-inyektsiy-shcho-pratsyuye, 1361 words, 14 sources)
+05:11:44 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 05:11:44 [asyncio] DEBUG: Using selector: EpollSelector
+05:11:44 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 05:11:44 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:13:50 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+2026-04-19 05:13:50 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+05:13:50 [pipeline.stages.s4_review] INFO: Feedback: Стаття якісна за змістом, збалансована, з хорошою доказовою базою та чесними застереженнями. Однак є декілька проблем, які потребують виправлення перед публікацією:
+
+**КРИТИЧНА ПРОБЛЕМА — метадані дже
+2026-04-19 05:13:50 [pipeline.stages.s4_review] INFO: Feedback: Стаття якісна за змістом, збалансована, з хорошою доказовою базою та чесними застереженнями. Однак є декілька проблем, які потребують виправлення перед публікацією:
+
+**КРИТИЧНА ПРОБЛЕМА — метадані дже
+05:13:50 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 05:13:50 [asyncio] DEBUG: Using selector: EpollSelector
+05:13:50 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 05:13:50 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:17:19 [pipeline.stages.s5_revise] INFO: Revised article: 1444 words
+2026-04-19 05:17:19 [pipeline.stages.s5_revise] INFO: Revised article: 1444 words
+05:17:19 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-19 05:17:19 [pipeline] INFO: === Review cycle 1/3 complete ===
+05:17:19 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 05:17:19 [asyncio] DEBUG: Using selector: EpollSelector
+05:17:19 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 05:17:19 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:19:02 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-19 05:19:02 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+05:19:02 [pipeline.stages.s4_review] INFO: Feedback: Стаття якісна, науково коректна, збалансована й безпечна. Затверджую з переліком мінорних правок:
+
+1. **Розділ `` — перехрещені журнали й PMID.** У тексті статті посилання правильні, але метадані sour
+2026-04-19 05:19:02 [pipeline.stages.s4_review] INFO: Feedback: Стаття якісна, науково коректна, збалансована й безпечна. Затверджую з переліком мінорних правок:
+
+1. **Розділ `` — перехрещені журнали й PMID.** У тексті статті посилання правильні, але метадані sour
+05:19:02 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-19 05:19:02 [pipeline] INFO: Article approved after 1 revision(s)
+05:19:02 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 05:19:02 [asyncio] DEBUG: Using selector: EpollSelector
+05:19:02 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 05:19:02 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:19:28 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a well-equipped gym, confidently kicking asid | pose=Mid-deadlift with a loaded barbell (moderate weight plates), knees slightly bent, back straight, core braced — one foot nudging the tipped-over bin of fake supplements away. Her left wrist with the black-and-green smartwatch is visible gripping the bar. Her long wavy blonde hair, parted on the left, is tied in a low loose braid that swings with the motion. The small green leaf tattoo on her right shoulder is clearly visible as she wears her black sports bra with green trim. | expression=Confident smile with one eyebrow slightly raised — a knowing, 'I told you so' look that communicates science-backed confidence and a hint of humor about the debunked supplements. | props=Loaded barbell with iron plates, Tipped-over bin with fake colorful 'testosterone booster' supplement boxes marked with red X, Wall-mounted digital screen showing a BMI-vs-testosterone graph, Fitness smartwatch on left wrist (black band, green accents), Chrome dumbbells with green grips on the rack behind her
+2026-04-19 05:19:28 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a well-equipped gym, confidently kicking asid | pose=Mid-deadlift with a loaded barbell (moderate weight plates), knees slightly bent, back straight, core braced — one foot nudging the tipped-over bin of fake supplements away. Her left wrist with the black-and-green smartwatch is visible gripping the bar. Her long wavy blonde hair, parted on the left, is tied in a low loose braid that swings with the motion. The small green leaf tattoo on her right shoulder is clearly visible as she wears her black sports bra with green trim. | expression=Confident smile with one eyebrow slightly raised — a knowing, 'I told you so' look that communicates science-backed confidence and a hint of humor about the debunked supplements. | props=Loaded barbell with iron plates, Tipped-over bin with fake colorful 'testosterone booster' supplement boxes marked with red X, Wall-mounted digital screen showing a BMI-vs-testosterone graph, Fitness smartwatch on left wrist (black band, green accents), Chrome dumbbells with green grips on the rack behind her
+05:19:28 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 05:19:28 [asyncio] DEBUG: Using selector: EpollSelector
+05:19:28 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 05:19:28 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:19:44 [pipeline.stages.s6_generate_tg] INFO: TG caption: 576 chars
+2026-04-19 05:19:44 [pipeline.stages.s6_generate_tg] INFO: TG caption: 576 chars
+05:19:44 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-19 05:19:44 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+05:20:58 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-19 05:20:58 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+05:20:59 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-19 05:20:59 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+05:20:59 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 23628
+2026-04-19 05:20:59 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 23628
+05:20:59 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 23628 (unknown)
+2026-04-19 05:20:59 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 23628 (unknown)
+05:20:59 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 23681 3499518
+2026-04-19 05:20:59 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 23681 3499518
+05:20:59 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/testosteron-pislia-40-bez-inyektsiy-shcho-pratsyuye.jpg (229 KB)
+2026-04-19 05:20:59 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/testosteron-pislia-40-bez-inyektsiy-shcho-pratsyuye.jpg (229 KB)
+05:20:59 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/testosteron-pislia-40-bez-inyektsiy-shcho-pratsyuye.md
+2026-04-19 05:20:59 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/testosteron-pislia-40-bez-inyektsiy-shcho-pratsyuye.md
