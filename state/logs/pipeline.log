@@ -7406,3 +7406,75 @@ TimeoutError: agent_query timed out after 300s
 2026-04-19 04:31:37 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/expressive-writing-pennebaker-trauma-immune-mental-health.jpg (213 KB)
 04:31:37 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/expressive-writing-pennebaker-trauma-immune-mental-health.md
 2026-04-19 04:31:37 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/expressive-writing-pennebaker-trauma-immune-mental-health.md
+04:31:37 [pipeline] INFO: Article ready: expressive-writing-pennebaker-trauma-immune-mental-health (Експресивне письмо: як 20 хвилин написання про най)
+2026-04-19 04:31:37 [pipeline] INFO: Article ready: expressive-writing-pennebaker-trauma-immune-mental-health (Експресивне письмо: як 20 хвилин написання про най)
+04:31:37 [pipeline] INFO: === Article 6/9 ===
+2026-04-19 04:31:37 [pipeline] INFO: === Article 6/9 ===
+04:31:37 [pipeline] INFO: --- Article: [guide] Кістки після 35: чому остеопороз починається за 20 років до  ---
+2026-04-19 04:31:37 [pipeline] INFO: --- Article: [guide] Кістки після 35: чому остеопороз починається за 20 років до  ---
+04:31:37 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 04:31:37 [asyncio] DEBUG: Using selector: EpollSelector
+04:31:37 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 04:31:37 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:36:24 [pipeline.stages.s2_research] INFO: Research complete: 20143 chars
+2026-04-19 04:36:24 [pipeline.stages.s2_research] INFO: Research complete: 20143 chars
+04:36:24 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 04:36:24 [asyncio] DEBUG: Using selector: EpollSelector
+04:36:24 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 04:36:24 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:38:47 [pipeline.stages.s3_generate] INFO: Generated: 'Кістки після 35: чому остеопороз починається за 20 років до діагнозу і як будувати кісткову щільність зараз' (slug=osteoporoz-pislia-35-kistkova-shchilnist-frax-dexa-sylovyi-trening, 1381 words, 12 sources)
+2026-04-19 04:38:47 [pipeline.stages.s3_generate] INFO: Generated: 'Кістки після 35: чому остеопороз починається за 20 років до діагнозу і як будувати кісткову щільність зараз' (slug=osteoporoz-pislia-35-kistkova-shchilnist-frax-dexa-sylovyi-trening, 1381 words, 12 sources)
+04:38:47 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 04:38:47 [asyncio] DEBUG: Using selector: EpollSelector
+04:38:47 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 04:38:47 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:40:28 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+2026-04-19 04:40:28 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+04:40:28 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом сильна: добре структурована, з коректними посиланнями на мета-аналізи та РКД, збалансованим тоном і практичними рекомендаціями. Проте є кілька проблем, які потребують виправлення перед 
+2026-04-19 04:40:28 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом сильна: добре структурована, з коректними посиланнями на мета-аналізи та РКД, збалансованим тоном і практичними рекомендаціями. Проте є кілька проблем, які потребують виправлення перед 
+04:40:28 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 04:40:28 [asyncio] DEBUG: Using selector: EpollSelector
+04:40:28 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 04:40:28 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:45:55 [pipeline.stages.s5_revise] INFO: Revised article: 1579 words
+2026-04-19 04:45:55 [pipeline.stages.s5_revise] INFO: Revised article: 1579 words
+04:45:55 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-19 04:45:55 [pipeline] INFO: === Review cycle 1/3 complete ===
+04:45:55 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 04:45:55 [asyncio] DEBUG: Using selector: EpollSelector
+04:45:55 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 04:45:55 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:47:20 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-19 04:47:20 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+04:47:20 [pipeline.stages.s4_review] INFO: Feedback: Відмінний матеріал із високим рівнем наукової точності та збалансованим подаванням інформації. Усі ключові твердження підкріплені джерелами, обмеження досліджень зазначені, рекомендації безпечні та мі
+2026-04-19 04:47:20 [pipeline.stages.s4_review] INFO: Feedback: Відмінний матеріал із високим рівнем наукової точності та збалансованим подаванням інформації. Усі ключові твердження підкріплені джерелами, обмеження досліджень зазначені, рекомендації безпечні та мі
+04:47:20 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-19 04:47:20 [pipeline] INFO: Article approved after 1 revision(s)
+04:47:20 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 04:47:20 [asyncio] DEBUG: Using selector: EpollSelector
+04:47:20 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 04:47:20 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:47:52 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita is mid-deadlift with a loaded barbell in a modern sport | pose=Mid-deadlift stance — knees slightly bent, hips hinged, both hands gripping a chrome barbell with green bumper plates, torso angled forward at 45 degrees. Her head is turned over her right shoulder toward the viewer, right shoulder blade engaged, revealing the small green leaf tattoo on her right shoulder. Left wrist shows a black fitness smartwatch with green accents. Feet planted shoulder-width apart in white running shoes with green accents. | expression=One eyebrow slightly raised with an engaged, teaching expression — mouth open mid-sentence, eyes wide and direct, as if sharing an urgent secret with the viewer. A mix of determined training focus and explaining energy. | props=Chrome barbell with emerald-green bumper plates, Wall-mounted digital screen showing bone cross-section diagram (dense vs. porous) with age timeline '35 → 55', Glass of milk and a small bowl of almonds and broccoli florets on a side table, Calcium supplement bottle with green label on the side table
+2026-04-19 04:47:52 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita is mid-deadlift with a loaded barbell in a modern sport | pose=Mid-deadlift stance — knees slightly bent, hips hinged, both hands gripping a chrome barbell with green bumper plates, torso angled forward at 45 degrees. Her head is turned over her right shoulder toward the viewer, right shoulder blade engaged, revealing the small green leaf tattoo on her right shoulder. Left wrist shows a black fitness smartwatch with green accents. Feet planted shoulder-width apart in white running shoes with green accents. | expression=One eyebrow slightly raised with an engaged, teaching expression — mouth open mid-sentence, eyes wide and direct, as if sharing an urgent secret with the viewer. A mix of determined training focus and explaining energy. | props=Chrome barbell with emerald-green bumper plates, Wall-mounted digital screen showing bone cross-section diagram (dense vs. porous) with age timeline '35 → 55', Glass of milk and a small bowl of almonds and broccoli florets on a side table, Calcium supplement bottle with green label on the side table
+04:47:52 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 04:47:52 [asyncio] DEBUG: Using selector: EpollSelector
+04:47:52 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 04:47:52 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:48:06 [pipeline.stages.s6_generate_tg] INFO: TG caption: 603 chars
+2026-04-19 04:48:06 [pipeline.stages.s6_generate_tg] INFO: TG caption: 603 chars
+04:48:06 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-19 04:48:06 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:49:13 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-19 04:49:13 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+04:49:14 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-19 04:49:14 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+04:49:14 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 26418
+2026-04-19 04:49:14 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 26418
+04:49:14 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 26418 (unknown)
+2026-04-19 04:49:14 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 26418 (unknown)
+04:49:14 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 26471 2616581
+2026-04-19 04:49:14 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 26471 2616581
+04:49:14 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/osteoporoz-pislia-35-kistkova-shchilnist-frax-dexa-sylovyi-trening.jpg (183 KB)
+2026-04-19 04:49:14 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/osteoporoz-pislia-35-kistkova-shchilnist-frax-dexa-sylovyi-trening.jpg (183 KB)
+04:49:14 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/osteoporoz-pislia-35-kistkova-shchilnist-frax-dexa-sylovyi-trening.md
+2026-04-19 04:49:14 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/osteoporoz-pislia-35-kistkova-shchilnist-frax-dexa-sylovyi-trening.md

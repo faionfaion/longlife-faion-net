@@ -634,5 +634,23 @@
       "імунітет"
     ],
     "summary": "Expressive writing (Pennebaker method) — writing about traumatic experiences for 20 minutes over 3-4 consecutive days — shows small but consistent positive effects on immune function and psychological well-being across 100+ studies. The effect is notably stronger in people with diagnosed PTSD (medium-to-large effect per Pavlacic 2019 meta-analysis) and chronic stress (Frattaroli 2006, 146 studies). A veterans RCT (N=1,292) showed reductions in PTSD symptoms and physical complaints. However, the overall effect is small (d≈0.16), the method is inferior to standard psychotherapy (Gerger 2021 network meta-analysis), and one COVID-19 study found it could elevate stress during active crisis. Practical takeaway: a free, accessible self-help tool for processing past trauma, especially relevant for wartime Ukraine with limited therapist access, but not a replacement for professional help."
+  },
+  "osteoporoz-pislia-35-kistkova-shchilnist-frax-dexa-sylovyi-trening": {
+    "date": "2026-04-19",
+    "title": "Кістки після 35: чому остеопороз починається за 20 років до діагнозу і як будувати кісткову щільність зараз",
+    "type": "guide",
+    "tags": [
+      "остеопороз",
+      "кісткова щільність",
+      "силові тренування",
+      "вітамін D",
+      "кальцій",
+      "DEXA",
+      "FRAX",
+      "профілактика",
+      "довголіття",
+      "здоров'я кісток"
+    ],
+    "summary": "Остеопороз — не раптова хвороба старості, а повільний процес, що починається з 35 років. В Україні 14 мільйонів людей мають остеопороз, а 30% переломів стегна трапляються у чоловіків, які вдвічі частіше помирають після такого перелому. Стаття спирається на мета-аналіз Shojaa 2020 (силові тренування покращують BMD), LIFTMOR RCT 2018 (тренування 2×/тиж на 85% 1RM безпечно покращують кісткову щільність під наглядом), мета-аналіз Weaver 2016 (Ca+D знижують ризик переломів стегна на 30%), RCT Knapen 2013 (K2 MK-7 уповільнює втрату BMD), огляд Lancet 2025 (71% treatment gap), та українську епідеміологію Поворознюка. Практичні рекомендації: FRAX-калькулятор для України, DEXA-скринінг, силові тренування з вільними вагами, комбінація Ca+D3+K2+Mg+білок. Вперше системний гайд по кістках — попередні статті про вітамін D та силові тренування згадували тему побіжно."
   }
 }
