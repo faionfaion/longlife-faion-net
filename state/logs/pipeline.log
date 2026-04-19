@@ -7478,3 +7478,83 @@ TimeoutError: agent_query timed out after 300s
 2026-04-19 04:49:14 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/osteoporoz-pislia-35-kistkova-shchilnist-frax-dexa-sylovyi-trening.jpg (183 KB)
 04:49:14 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/osteoporoz-pislia-35-kistkova-shchilnist-frax-dexa-sylovyi-trening.md
 2026-04-19 04:49:14 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/osteoporoz-pislia-35-kistkova-shchilnist-frax-dexa-sylovyi-trening.md
+04:49:14 [pipeline] INFO: Article ready: osteoporoz-pislia-35-kistkova-shchilnist-frax-dexa-sylovyi-trening (Кістки після 35: чому остеопороз починається за 20)
+2026-04-19 04:49:14 [pipeline] INFO: Article ready: osteoporoz-pislia-35-kistkova-shchilnist-frax-dexa-sylovyi-trening (Кістки після 35: чому остеопороз починається за 20)
+04:49:14 [pipeline] INFO: === Article 7/9 ===
+2026-04-19 04:49:14 [pipeline] INFO: === Article 7/9 ===
+04:49:14 [pipeline] INFO: --- Article: [nutrition] Резистентний крохмаль: чому вчорашня картопля корисніша за с ---
+2026-04-19 04:49:14 [pipeline] INFO: --- Article: [nutrition] Резистентний крохмаль: чому вчорашня картопля корисніша за с ---
+04:49:14 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 04:49:14 [asyncio] DEBUG: Using selector: EpollSelector
+04:49:14 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 04:49:14 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:53:35 [pipeline.stages.s2_research] INFO: Research complete: 15109 chars
+2026-04-19 04:53:35 [pipeline.stages.s2_research] INFO: Research complete: 15109 chars
+04:53:35 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 04:53:35 [asyncio] DEBUG: Using selector: EpollSelector
+04:53:35 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 04:53:35 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:55:45 [pipeline.stages.s3_generate] INFO: Generated: 'Резистентний крохмаль: чому вчорашня картопля корисніша за свіжу і як це працює' (slug=rezystentnyi-krokhmal-okholodzhena-kartoplia-rys-mikrobiom, 717 words, 8 sources)
+2026-04-19 04:55:45 [pipeline.stages.s3_generate] INFO: Generated: 'Резистентний крохмаль: чому вчорашня картопля корисніша за свіжу і як це працює' (slug=rezystentnyi-krokhmal-okholodzhena-kartoplia-rys-mikrobiom, 717 words, 8 sources)
+04:55:45 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 04:55:45 [asyncio] DEBUG: Using selector: EpollSelector
+04:55:45 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 04:55:45 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:57:10 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+2026-04-19 04:57:10 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+04:57:10 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом якісна, добре структурована та збалансована. Проте є кілька проблем, які потребують виправлення перед публікацією:
+
+1. **ФАКТИЧНА ПОМИЛКА — амілоза**: Написано «молекули амілози — основ
+2026-04-19 04:57:10 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом якісна, добре структурована та збалансована. Проте є кілька проблем, які потребують виправлення перед публікацією:
+
+1. **ФАКТИЧНА ПОМИЛКА — амілоза**: Написано «молекули амілози — основ
+04:57:10 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 04:57:10 [asyncio] DEBUG: Using selector: EpollSelector
+04:57:10 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 04:57:10 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:00:37 [pipeline.stages.s5_revise] INFO: Revised article: 970 words
+2026-04-19 05:00:37 [pipeline.stages.s5_revise] INFO: Revised article: 970 words
+05:00:37 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-19 05:00:37 [pipeline] INFO: === Review cycle 1/3 complete ===
+05:00:37 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 05:00:37 [asyncio] DEBUG: Using selector: EpollSelector
+05:00:37 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 05:00:37 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:01:51 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-19 05:01:51 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+05:01:51 [pipeline.stages.s4_review] INFO: Feedback: Відмінна стаття з високим рівнем наукової точності та збалансованим подачею. Кілька дрібних зауважень:
+
+1. **Безпека розігрітого рису:** Стаття рекомендує готувати рис заздалегідь і розігрівати наступ
+2026-04-19 05:01:51 [pipeline.stages.s4_review] INFO: Feedback: Відмінна стаття з високим рівнем наукової точності та збалансованим подачею. Кілька дрібних зауважень:
+
+1. **Безпека розігрітого рису:** Стаття рекомендує готувати рис заздалегідь і розігрівати наступ
+05:01:51 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-19 05:01:51 [pipeline] INFO: Article approved after 1 revision(s)
+05:01:51 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 05:01:51 [asyncio] DEBUG: Using selector: EpollSelector
+05:01:51 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 05:01:51 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:02:16 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a bright modern kitchen, pulling a glass cont | pose=Standing between the open fridge and the counter, left hand (fitness smartwatch with black band and green accents visible on left wrist) pulling a glass meal-prep container of chilled diced potatoes from the fridge, right arm extended holding a steaming freshly boiled potato with a fork — small green leaf tattoo clearly visible on her right shoulder. Slight twist at the torso, weight on the back foot, dynamic and engaging. | expression=One eyebrow slightly raised with a playful confident smile — the 'explaining a surprising fact' look, eyes bright and engaged, as if saying 'bet you didn't know this.' | props=glass meal-prep container with chilled cooked potatoes, freshly boiled steaming potato on a fork, tablet on countertop showing a bar chart (0.8% → 1.6% RS), small ceramic bowl of cooked rice on the counter, green apron with subtle LongLife logo
+2026-04-19 05:02:16 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a bright modern kitchen, pulling a glass cont | pose=Standing between the open fridge and the counter, left hand (fitness smartwatch with black band and green accents visible on left wrist) pulling a glass meal-prep container of chilled diced potatoes from the fridge, right arm extended holding a steaming freshly boiled potato with a fork — small green leaf tattoo clearly visible on her right shoulder. Slight twist at the torso, weight on the back foot, dynamic and engaging. | expression=One eyebrow slightly raised with a playful confident smile — the 'explaining a surprising fact' look, eyes bright and engaged, as if saying 'bet you didn't know this.' | props=glass meal-prep container with chilled cooked potatoes, freshly boiled steaming potato on a fork, tablet on countertop showing a bar chart (0.8% → 1.6% RS), small ceramic bowl of cooked rice on the counter, green apron with subtle LongLife logo
+05:02:16 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 05:02:16 [asyncio] DEBUG: Using selector: EpollSelector
+05:02:16 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 05:02:16 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:02:28 [pipeline.stages.s6_generate_tg] INFO: TG caption: 713 chars
+2026-04-19 05:02:28 [pipeline.stages.s6_generate_tg] INFO: TG caption: 713 chars
+05:02:28 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-19 05:02:28 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+05:03:32 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-19 05:03:32 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+05:03:33 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-19 05:03:33 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+05:03:33 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 23628
+2026-04-19 05:03:33 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 23628
+05:03:33 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 23628 (unknown)
+2026-04-19 05:03:33 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 23628 (unknown)
+05:03:33 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 23681 3288965
+2026-04-19 05:03:33 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 23681 3288965
+05:03:33 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/rezystentnyi-krokhmal-okholodzhena-kartoplia-rys-mikrobiom.jpg (233 KB)
+2026-04-19 05:03:33 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/rezystentnyi-krokhmal-okholodzhena-kartoplia-rys-mikrobiom.jpg (233 KB)
+05:03:33 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/rezystentnyi-krokhmal-okholodzhena-kartoplia-rys-mikrobiom.md
+2026-04-19 05:03:33 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/rezystentnyi-krokhmal-okholodzhena-kartoplia-rys-mikrobiom.md

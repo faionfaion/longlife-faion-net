@@ -652,5 +652,20 @@
       "здоров'я кісток"
     ],
     "summary": "Остеопороз — не раптова хвороба старості, а повільний процес, що починається з 35 років. В Україні 14 мільйонів людей мають остеопороз, а 30% переломів стегна трапляються у чоловіків, які вдвічі частіше помирають після такого перелому. Стаття спирається на мета-аналіз Shojaa 2020 (силові тренування покращують BMD), LIFTMOR RCT 2018 (тренування 2×/тиж на 85% 1RM безпечно покращують кісткову щільність під наглядом), мета-аналіз Weaver 2016 (Ca+D знижують ризик переломів стегна на 30%), RCT Knapen 2013 (K2 MK-7 уповільнює втрату BMD), огляд Lancet 2025 (71% treatment gap), та українську епідеміологію Поворознюка. Практичні рекомендації: FRAX-калькулятор для України, DEXA-скринінг, силові тренування з вільними вагами, комбінація Ca+D3+K2+Mg+білок. Вперше системний гайд по кістках — попередні статті про вітамін D та силові тренування згадували тему побіжно."
+  },
+  "rezystentnyi-krokhmal-okholodzhena-kartoplia-rys-mikrobiom": {
+    "date": "2026-04-19",
+    "title": "Резистентний крохмаль: чому вчорашня картопля корисніша за свіжу і як це працює",
+    "type": "nutrition",
+    "tags": [
+      "харчування",
+      "мікробіом",
+      "крохмаль",
+      "глікемічний індекс",
+      "пребіотики",
+      "кишечник",
+      "глюкоза"
+    ],
+    "summary": "Resistant starch (RS) forms when cooked starchy foods cool — a process called retrogradation that roughly doubles RS content. A meta-analysis of 19 RCTs (Xiong et al., 2021, British Journal of Nutrition) shows RS modestly reduces fasting glucose (−0.09 to −0.16 mmol/L) and improves insulin resistance. RS also acts as a prebiotic, boosting butyrate-producing gut bacteria (Bendall et al., 2024). Key practical nuance: reheated rice and pasta retain RS benefits, but reheated potatoes lose most RS (SPUD Project, 2021) — potatoes are best eaten cold. Recommended intake: 15–30 g/day vs. typical 3–6 g. Evidence level: moderate-to-strong for glycemic effects, moderate for microbiome benefits. Article cross-references previous pieces on fiber, gut-brain axis, fermented foods, and meal prep."
   }
 }
