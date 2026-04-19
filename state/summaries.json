@@ -588,5 +588,21 @@
       "Україна"
     ],
     "summary": "Antimicrobial resistance (AMR) caused 4.95 million associated deaths globally in 2019 (Murray et al., Lancet 2022) and is projected to cause 39 million directly attributable deaths by 2050 (GRAM, Lancet 2024). Ukraine faces acute AMR challenges: approximately 50% of antibiotics were purchased without prescription before the 2022 e-prescription mandate, 46% of Ukrainians used antibiotics for viral respiratory infections (Myroniuk-Konstantynovych 2024), and wartime hospital data shows 60% carbapenem-resistant infections vs 6.2% EU average (CDC MMWR 2023). The article explains when antibiotics are unnecessary (colds, flu, most bronchitis), debunks the \"always finish the course\" dogma citing BMJ 2017 analysis, and provides 5 actionable steps. Evidence level: strong (GBD systematic analyses, meta-analyses, field reports)."
+  },
+  "purpose-in-life-ikigai-mortality-meta-analysis": {
+    "date": "2026-04-19",
+    "title": "Сенс життя як захист від смерті: мета-аналіз показує, що відчуття мети пов'язане зі зниженням ризику смерті на 17%",
+    "type": "research",
+    "tags": [
+      "довголіття",
+      "сенс життя",
+      "ікігай",
+      "ментальне здоров'я",
+      "серцево-судинні захворювання",
+      "деменція",
+      "мета-аналіз",
+      "дослідження"
+    ],
+    "summary": "Meta-analysis by Cohen et al. (2016, Psychosomatic Medicine, 10 prospective studies, n=136,265) shows purpose in life is associated with 17% lower all-cause mortality (RR=0.83) and 17% lower cardiovascular events. Alimujiang et al. (2019, JAMA Network Open, n=6,985) found a strong dose-response relationship. The Ohsaki study (Sone 2008, n=43,391) confirmed the effect for Japanese ikigai. Mechanisms include better preventive health behaviors (Kim 2014, PNAS) and faster cortisol recovery (Fogelman 2015). Purpose also protects cognition: 23% lower dementia risk (Sutin 2021 meta-analysis) and 52% lower Alzheimer's risk (Boyle 2010). Effect works across all ages (Hill & Turiano 2014). Key limitations: all observational, no effect on cancer mortality, reverse causation possible. Evidence strength: STRONG. Particularly relevant for wartime Ukraine where loss of purpose is widespread — purpose is explicitly described as a modifiable risk factor."
   }
 }

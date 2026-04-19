@@ -7134,3 +7134,107 @@ TimeoutError: agent_query timed out after 300s
 2026-04-19 03:40:52 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/antybiotykorezystentnist-ukraine-amr-samolikusvannia-zagrozy.jpg (217 KB)
 03:40:52 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/antybiotykorezystentnist-ukraine-amr-samolikusvannia-zagrozy.md
 2026-04-19 03:40:52 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/antybiotykorezystentnist-ukraine-amr-samolikusvannia-zagrozy.md
+03:40:52 [pipeline] INFO: Article ready: antybiotykorezystentnist-ukraine-amr-samolikusvannia-zagrozy (Антибіотикорезистентність в Україні: чому звичка «)
+2026-04-19 03:40:52 [pipeline] INFO: Article ready: antybiotykorezystentnist-ukraine-amr-samolikusvannia-zagrozy (Антибіотикорезистентність в Україні: чому звичка «)
+03:40:52 [pipeline] INFO: === Article 3/9 ===
+2026-04-19 03:40:52 [pipeline] INFO: === Article 3/9 ===
+03:40:52 [pipeline] INFO: --- Article: [research] Сенс життя як ліки від смерті: мета-аналізи показують, що «і ---
+2026-04-19 03:40:52 [pipeline] INFO: --- Article: [research] Сенс життя як ліки від смерті: мета-аналізи показують, що «і ---
+03:40:52 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 03:40:52 [asyncio] DEBUG: Using selector: EpollSelector
+03:40:52 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 03:40:52 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:45:52 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+2026-04-19 03:45:52 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+03:45:57 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 5.5s
+2026-04-19 03:45:57 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 5.5s
+03:46:03 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 03:46:03 [asyncio] DEBUG: Using selector: EpollSelector
+03:46:03 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 03:46:03 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:49:44 [pipeline.stages.s2_research] INFO: Research complete: 15416 chars
+2026-04-19 03:49:44 [pipeline.stages.s2_research] INFO: Research complete: 15416 chars
+03:49:44 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 03:49:44 [asyncio] DEBUG: Using selector: EpollSelector
+03:49:44 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 03:49:44 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:52:39 [pipeline.stages.s3_generate] INFO: Generated: 'Сенс життя як захист від смерті: мета-аналізи показують, що відчуття мети знижує ризик смерті на 17%' (slug=purpose-in-life-ikigai-mortality-meta-analysis, 691 words, 8 sources)
+2026-04-19 03:52:39 [pipeline.stages.s3_generate] INFO: Generated: 'Сенс життя як захист від смерті: мета-аналізи показують, що відчуття мети знижує ризик смерті на 17%' (slug=purpose-in-life-ikigai-mortality-meta-analysis, 691 words, 8 sources)
+03:52:39 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 03:52:39 [asyncio] DEBUG: Using selector: EpollSelector
+03:52:39 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 03:52:39 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:54:27 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-19 03:54:27 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+03:54:27 [pipeline.stages.s4_review] INFO: Feedback: Стаття науково обґрунтована, добре структурована і збалансована. Відмінний розділ із застереженнями (спостережні дослідження, відсутність РКД, зворотна причинність, відсутність зв'язку з раком). Проте
+2026-04-19 03:54:27 [pipeline.stages.s4_review] INFO: Feedback: Стаття науково обґрунтована, добре структурована і збалансована. Відмінний розділ із застереженнями (спостережні дослідження, відсутність РКД, зворотна причинність, відсутність зв'язку з раком). Проте
+03:54:27 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 03:54:27 [asyncio] DEBUG: Using selector: EpollSelector
+03:54:27 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 03:54:27 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:55:47 [pipeline.stages.s5_revise] INFO: Revised article: 713 words
+2026-04-19 03:55:47 [pipeline.stages.s5_revise] INFO: Revised article: 713 words
+03:55:47 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-19 03:55:47 [pipeline] INFO: === Review cycle 1/3 complete ===
+03:55:47 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 03:55:47 [asyncio] DEBUG: Using selector: EpollSelector
+03:55:47 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 03:55:47 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:57:13 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+2026-04-19 03:57:13 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+03:57:13 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом якісна, наукова база сильна, застереження чесні. Однак є кілька проблем, які потребують виправлення перед публікацією:
+
+1. **РОСІЙСЬКЕ СЛОВО.** У розділі «Механізми» написано «Еще один 
+2026-04-19 03:57:13 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом якісна, наукова база сильна, застереження чесні. Однак є кілька проблем, які потребують виправлення перед публікацією:
+
+1. **РОСІЙСЬКЕ СЛОВО.** У розділі «Механізми» написано «Еще один 
+03:57:13 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 03:57:13 [asyncio] DEBUG: Using selector: EpollSelector
+03:57:13 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 03:57:13 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:59:02 [pipeline.stages.s5_revise] INFO: Revised article: 786 words
+2026-04-19 03:59:02 [pipeline.stages.s5_revise] INFO: Revised article: 786 words
+03:59:02 [pipeline] INFO: === Review cycle 2/3 complete ===
+2026-04-19 03:59:02 [pipeline] INFO: === Review cycle 2/3 complete ===
+03:59:02 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 03:59:02 [asyncio] DEBUG: Using selector: EpollSelector
+03:59:02 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 03:59:02 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:00:27 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-19 04:00:27 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+04:00:27 [pipeline.stages.s4_review] INFO: Feedback: Стаття науково коректна, збалансована та добре структурована. Є кілька питань для виправлення перед публікацією:
+
+1. **СПИСОК ДЖЕРЕЛ (sources) ПЕРЕПЛУТАНИЙ.** Назви журналів у блоці sources зміщені — 
+2026-04-19 04:00:27 [pipeline.stages.s4_review] INFO: Feedback: Стаття науково коректна, збалансована та добре структурована. Є кілька питань для виправлення перед публікацією:
+
+1. **СПИСОК ДЖЕРЕЛ (sources) ПЕРЕПЛУТАНИЙ.** Назви журналів у блоці sources зміщені — 
+04:00:27 [pipeline] INFO: Article approved after 2 revision(s)
+2026-04-19 04:00:27 [pipeline] INFO: Article approved after 2 revision(s)
+04:00:27 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 04:00:27 [asyncio] DEBUG: Using selector: EpollSelector
+04:00:27 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 04:00:27 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:00:57 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita sits on an emerald green yoga mat on a sunlit balcony a | pose=Seated cross-legged on the yoga mat, torso turned three-quarters toward the viewer. Left hand holds a tablet resting on her left knee (black fitness smartwatch with green accents visible on left wrist). Right arm is extended upward, fingers pinning a new photo onto the vision board — the motion exposes her right shoulder revealing a small green leaf tattoo. Her long wavy blonde hair, parted on the left, cascades past her shoulders and catches the golden light. | expression=Encouraging look — slight head tilt to the right, soft warm green eyes meeting the viewer, a gentle knowing smile as if sharing an important secret about longevity. | props=Tablet showing a bold '17%' figure with a descending hazard ratio curve in teal and green, Cork vision board on a wooden easel with pinned goal images (mountain summit photo, finish-line ribbon, handwritten life-goal notes), Glass bottle of green smoothie on a small wooden side table, Open research journal with highlighted text beside the smoothie, Emerald green yoga mat
+2026-04-19 04:00:57 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita sits on an emerald green yoga mat on a sunlit balcony a | pose=Seated cross-legged on the yoga mat, torso turned three-quarters toward the viewer. Left hand holds a tablet resting on her left knee (black fitness smartwatch with green accents visible on left wrist). Right arm is extended upward, fingers pinning a new photo onto the vision board — the motion exposes her right shoulder revealing a small green leaf tattoo. Her long wavy blonde hair, parted on the left, cascades past her shoulders and catches the golden light. | expression=Encouraging look — slight head tilt to the right, soft warm green eyes meeting the viewer, a gentle knowing smile as if sharing an important secret about longevity. | props=Tablet showing a bold '17%' figure with a descending hazard ratio curve in teal and green, Cork vision board on a wooden easel with pinned goal images (mountain summit photo, finish-line ribbon, handwritten life-goal notes), Glass bottle of green smoothie on a small wooden side table, Open research journal with highlighted text beside the smoothie, Emerald green yoga mat
+04:00:57 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 04:00:57 [asyncio] DEBUG: Using selector: EpollSelector
+04:00:57 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 04:00:57 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:01:10 [pipeline.stages.s6_generate_tg] INFO: TG caption: 776 chars
+2026-04-19 04:01:10 [pipeline.stages.s6_generate_tg] INFO: TG caption: 776 chars
+04:01:10 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-19 04:01:10 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:02:26 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-19 04:02:26 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+04:02:26 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-19 04:02:26 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+04:02:26 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 23624
+2026-04-19 04:02:26 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 23624
+04:02:26 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 23624 (unknown)
+2026-04-19 04:02:26 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 23624 (unknown)
+04:02:26 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 23677 3029300
+2026-04-19 04:02:26 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 23677 3029300
+04:02:27 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/purpose-in-life-ikigai-mortality-meta-analysis.jpg (241 KB)
+2026-04-19 04:02:27 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/purpose-in-life-ikigai-mortality-meta-analysis.jpg (241 KB)
+04:02:27 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/purpose-in-life-ikigai-mortality-meta-analysis.md
+2026-04-19 04:02:27 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/purpose-in-life-ikigai-mortality-meta-analysis.md
