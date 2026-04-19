@@ -619,5 +619,20 @@
       "дослідження"
     ],
     "summary": "The glymphatic system, discovered by Nedergaard in 2012, is a network of perivascular channels that flushes metabolic waste (including Alzheimer's-linked beta-amyloid) from the brain using cerebrospinal fluid flow. This clearance doubles during sleep when interstitial space expands by 60% (Xie et al., Science 2013). Key 2024–2026 updates: a Cell 2025 study identified the norepinephrine-vasomotor pump driving clearance during NREM sleep and showed that zolpidem suppresses this mechanism; a Nature Communications 2026 RCT first confirmed amyloid and tau clearance into human plasma during sleep; an ADNI cohort study (2024) showed glymphatic dysfunction precedes amyloid deposition. Practical takeaway: deep slow-wave sleep (N3) quality, not just total hours, determines brain clearance efficiency. Evidence is strong for animal models and moderate-to-strong for human studies, with small sample sizes being the main limitation."
+  },
+  "expressive-writing-pennebaker-trauma-immune-mental-health": {
+    "date": "2026-04-19",
+    "title": "Експресивне письмо: як 20 хвилин написання про найважче впливають на імунітет і психіку",
+    "type": "lifehack",
+    "tags": [
+      "ментальне здоров'я",
+      "ПТСР",
+      "стрес",
+      "самодопомога",
+      "психологія",
+      "дослідження",
+      "імунітет"
+    ],
+    "summary": "Expressive writing (Pennebaker method) — writing about traumatic experiences for 20 minutes over 3-4 consecutive days — shows small but consistent positive effects on immune function and psychological well-being across 100+ studies. The effect is notably stronger in people with diagnosed PTSD (medium-to-large effect per Pavlacic 2019 meta-analysis) and chronic stress (Frattaroli 2006, 146 studies). A veterans RCT (N=1,292) showed reductions in PTSD symptoms and physical complaints. However, the overall effect is small (d≈0.16), the method is inferior to standard psychotherapy (Gerger 2021 network meta-analysis), and one COVID-19 study found it could elevate stress during active crisis. Practical takeaway: a free, accessible self-help tool for processing past trauma, especially relevant for wartime Ukraine with limited therapist access, but not a replacement for professional help."
   }
 }

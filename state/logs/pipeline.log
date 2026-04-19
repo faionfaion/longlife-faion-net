@@ -7326,3 +7326,83 @@ TimeoutError: agent_query timed out after 300s
 2026-04-19 04:20:29 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/glymphatic-system-brain-clearance-sleep-research.jpg (165 KB)
 04:20:29 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/glymphatic-system-brain-clearance-sleep-research.md
 2026-04-19 04:20:29 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/glymphatic-system-brain-clearance-sleep-research.md
+04:20:29 [pipeline] INFO: Article ready: glymphatic-system-brain-clearance-sleep-research (Глімфатична система: як мозок очищується від токси)
+2026-04-19 04:20:29 [pipeline] INFO: Article ready: glymphatic-system-brain-clearance-sleep-research (Глімфатична система: як мозок очищується від токси)
+04:20:29 [pipeline] INFO: === Article 5/9 ===
+2026-04-19 04:20:29 [pipeline] INFO: === Article 5/9 ===
+04:20:29 [pipeline] INFO: --- Article: [lifehack] Експресивне письмо (метод Пеннебейкера): як 20 хвилин написа ---
+2026-04-19 04:20:29 [pipeline] INFO: --- Article: [lifehack] Експресивне письмо (метод Пеннебейкера): як 20 хвилин написа ---
+04:20:29 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 04:20:29 [asyncio] DEBUG: Using selector: EpollSelector
+04:20:29 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 04:20:29 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:25:26 [pipeline.stages.s2_research] INFO: Research complete: 16865 chars
+2026-04-19 04:25:26 [pipeline.stages.s2_research] INFO: Research complete: 16865 chars
+04:25:26 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 04:25:26 [asyncio] DEBUG: Using selector: EpollSelector
+04:25:26 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 04:25:26 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:26:20 [pipeline.stages.s3_generate] INFO: Generated: 'Експресивне письмо: як 20 хвилин написання про найважче впливають на імунітет і психіку' (slug=expressive-writing-pennebaker-trauma-immune-mental-health, 342 words, 6 sources)
+2026-04-19 04:26:20 [pipeline.stages.s3_generate] INFO: Generated: 'Експресивне письмо: як 20 хвилин написання про найважче впливають на імунітет і психіку' (slug=expressive-writing-pennebaker-trauma-immune-mental-health, 342 words, 6 sources)
+04:26:20 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 04:26:20 [asyncio] DEBUG: Using selector: EpollSelector
+04:26:20 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 04:26:20 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:27:36 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-19 04:27:36 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+04:27:36 [pipeline.stages.s4_review] INFO: Feedback: Сильна стаття з чесною подачею доказової бази. Кілька дрібниць до виправлення перед публікацією:
+
+1. **Абревіатура «РКД» не розшифрована.** У розділі про застереження написано «44 РКД» без пояснення. 
+2026-04-19 04:27:36 [pipeline.stages.s4_review] INFO: Feedback: Сильна стаття з чесною подачею доказової бази. Кілька дрібниць до виправлення перед публікацією:
+
+1. **Абревіатура «РКД» не розшифрована.** У розділі про застереження написано «44 РКД» без пояснення. 
+04:27:36 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 04:27:36 [asyncio] DEBUG: Using selector: EpollSelector
+04:27:36 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 04:27:36 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:28:30 [pipeline.stages.s5_revise] INFO: Revised article: 359 words
+2026-04-19 04:28:30 [pipeline.stages.s5_revise] INFO: Revised article: 359 words
+04:28:30 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-19 04:28:30 [pipeline] INFO: === Review cycle 1/3 complete ===
+04:28:30 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 04:28:30 [asyncio] DEBUG: Using selector: EpollSelector
+04:28:30 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 04:28:30 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:29:42 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-19 04:29:42 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+04:29:42 [pipeline.stages.s4_review] INFO: Feedback: Сильна стаття з коректним науковим підґрунтям, збалансованими застереженнями та практичними рекомендаціями. Кілька мінорних зауважень для доопрацювання:
+
+1. **"Зниження візитів до лікаря приблизно вдв
+2026-04-19 04:29:42 [pipeline.stages.s4_review] INFO: Feedback: Сильна стаття з коректним науковим підґрунтям, збалансованими застереженнями та практичними рекомендаціями. Кілька мінорних зауважень для доопрацювання:
+
+1. **"Зниження візитів до лікаря приблизно вдв
+04:29:42 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-19 04:29:42 [pipeline] INFO: Article approved after 1 revision(s)
+04:29:42 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 04:29:42 [asyncio] DEBUG: Using selector: EpollSelector
+04:29:42 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 04:29:42 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:30:11 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita sits at a minimalist wooden desk in a cozy, softly lit  | pose=Seated leaning slightly forward over the open journal, pen actively touching paper mid-sentence with her right hand, left hand resting flat on the desk beside a small digital timer — posture engaged and focused but relaxed | expression=Encouraging look — soft, warm eyes with a slight head tilt toward the viewer, gentle reassuring smile, as if inviting the reader to try this practice themselves | props=Open leather-bound journal with handwritten text on its pages, Black pen in right hand, Small digital timer displaying 20:00 in green digits, A ceramic mug of herbal tea with a wisp of steam, A printed research paper on the desk edge with highlighted passages
+2026-04-19 04:30:11 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita sits at a minimalist wooden desk in a cozy, softly lit  | pose=Seated leaning slightly forward over the open journal, pen actively touching paper mid-sentence with her right hand, left hand resting flat on the desk beside a small digital timer — posture engaged and focused but relaxed | expression=Encouraging look — soft, warm eyes with a slight head tilt toward the viewer, gentle reassuring smile, as if inviting the reader to try this practice themselves | props=Open leather-bound journal with handwritten text on its pages, Black pen in right hand, Small digital timer displaying 20:00 in green digits, A ceramic mug of herbal tea with a wisp of steam, A printed research paper on the desk edge with highlighted passages
+04:30:11 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 04:30:11 [asyncio] DEBUG: Using selector: EpollSelector
+04:30:11 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 04:30:11 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:30:23 [pipeline.stages.s6_generate_tg] INFO: TG caption: 588 chars
+2026-04-19 04:30:23 [pipeline.stages.s6_generate_tg] INFO: TG caption: 588 chars
+04:30:23 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-19 04:30:23 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:31:36 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-19 04:31:36 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+04:31:37 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-19 04:31:37 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+04:31:37 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 23628
+2026-04-19 04:31:37 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 23628
+04:31:37 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 23628 (unknown)
+2026-04-19 04:31:37 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 23628 (unknown)
+04:31:37 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 23681 2937639
+2026-04-19 04:31:37 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 23681 2937639
+04:31:37 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/expressive-writing-pennebaker-trauma-immune-mental-health.jpg (213 KB)
+2026-04-19 04:31:37 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/expressive-writing-pennebaker-trauma-immune-mental-health.jpg (213 KB)
+04:31:37 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/expressive-writing-pennebaker-trauma-immune-mental-health.md
+2026-04-19 04:31:37 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/expressive-writing-pennebaker-trauma-immune-mental-health.md
