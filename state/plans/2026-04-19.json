@@ -1,0 +1,87 @@
+{
+  "articles": [
+    {
+      "topic": "Вакцина проти РСВ при вагітності: реальні дані показують зниження госпіталізацій немовлят на 80%",
+      "type": "research",
+      "category": "prevention",
+      "angle": "BBC повідомляє про реальні результати вакцинації вагітних проти РСВ у Великій Британії. Стаття аналізує ключове РКД Kampmann et al. (NEJM 2023, Abrysvo, n=7358), дані MELODY з nirsevimab, і перші пострегістраційні когорти 2025–2026 рр. Контекст для України: РСВ — головна причина бронхіолітів у немовлят, вакцина поки не зареєстрована в Україні, але може з'явитися через ВООЗ прекваліфікацію. Чесно про обмеження: вакцина захищає лише перші 6 місяців життя.",
+      "sources_hint": "Kampmann et al., NEJM 2023 (MATISSE trial); BBC Health April 2026 'Pregnancy vaccine reduces baby hospital admissions for RSV by 80%'; Hammitt et al., NEJM 2022 (nirsevimab MELODY); WHO prequalification RSV vaccines; Cochrane RSV prophylaxis reviews; EMA EPAR for Abrysvo",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Антибіотикорезистентність в Україні: чому звичка «пропити курс азитроміцину» наближає постантибіотичну еру",
+      "type": "research",
+      "category": "prevention",
+      "angle": "ВООЗ називає АМР однією з 10 найбільших загроз здоров'ю людства. Murray et al. (Lancet 2022) оцінюють 4,95 млн смертей, асоційованих з АМР у 2019 році. Україна — серед країн з найвищим рівнем самолікування антибіотиками (оціночно 40–60% антибіотиків купуються без рецепта). Мета-аналіз Llor & Bjerrum (2014) підтверджує: неправильне використання антибіотиків — головний драйвер резистентності. З 2019 року Україна має закон про рецептурний відпуск, але виконання слабке. Практичний блок: коли антибіотики НЕ потрібні (застуда, грип, більшість бронхітів), чому не можна «скоротити курс» або «залишити на потім».",
+      "sources_hint": "Murray et al., Lancet 2022 (Global burden of AMR); WHO AMR Global Action Plan; ECDC Surveillance Atlas; Llor & Bjerrum, Ther Adv Drug Safety 2014; Grigoryan et al., BMC Public Health 2006 (self-medication Europe); Ukrainian MOH Order on prescription antibiotics 2019; O'Neill AMR Review 2016 (10M deaths by 2050 projection); Laxminarayan et al., Lancet 2016",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Сенс життя як ліки від смерті: мета-аналізи показують, що «ікігай» знижує ризик смерті на 15–17%",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Недільна рефлексія: дослідження purpose in life як незалежного предиктора довголіття. Мета-аналіз Cohen et al. (2016, Psychosomatic Medicine, 10 проспективних когорт, n>136 000) — зниження смертності на 17%. Alimujiang et al. (2019, JAMA Network Open, n=13 159 з HRS когорти) — сильний purpose = нижча смертність навіть після контролю за SES, здоров'ям і депресією. Механізм: нижчий кортизол, вищий HRV, краща прихильність до лікування. Для воєнної України з масовою втратою сенсу — не «позитивне мислення», а доказовий захисний фактор.",
+      "sources_hint": "Cohen et al., Psychosomatic Medicine 2016 (meta-analysis purpose & mortality); Alimujiang et al., JAMA Network Open 2019; Hill & Turiano, Psychological Science 2014; Kim et al., JAMA Psychiatry 2022 (purpose & dementia); Roepke et al., Health Psychology 2014; Boyle et al., Arch Gen Psychiatry 2009 (purpose & Alzheimer's)",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Глімфатична система: як мозок очищується від токсинів під час сну і чому це важливіше за «8 годин»",
+      "type": "research",
+      "category": "sleep",
+      "angle": "Замість чергових порад про гігієну сну — глибокий дайв у механізм очищення мозку, відкритий Nedergaard у 2012 році. Нові дані 2024–2025: позиція тіла впливає на ефективність очищення (бічне положення краще — Stony Brook MRI study), глибокий сон (N3) є критичним вікном для глімфатичного потоку, а порушення цієї системи пов'язані з накопиченням бета-амілоїду. Практичний висновок: не лише тривалість, а архітектура сну (частка N3) визначає якість «прибирання» мозку.",
+      "sources_hint": "Nedergaard lab: Xie et al., Science 2013 (original glymphatic discovery); Lee et al., J Neurosci 2015 (lateral sleep position); Fultz et al., Science 2019 (slow-wave sleep drives glymphatic flow); Mestre et al., Nature Communications 2020; Eide et al., Brain 2024 (human glymphatic MRI); Bohr et al., Science 2022 (aquaporin-4); Simon & Bhatt, Sleep Medicine Reviews 2025",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Експресивне письмо (метод Пеннебейкера): як 20 хвилин написання про травму змінюють імунітет і психіку",
+      "type": "lifehack",
+      "category": "mental-health",
+      "angle": "Не щоденник вдячності (вже було 04-12), а протилежний підхід — писати про найважче. Pennebaker (1988, оригінальне РКД) показав: 4 дні по 20 хвилин письма про травматичний досвід покращують імунну функцію та знижують візити до лікаря на 43%. Мета-аналіз Frattaroli (2006, 146 досліджень) підтверджує помірний ефект (d=0.075), сильніший при ПТСР та хронічному стресі. Для воєнної України: доступний метод самодопомоги при обмеженому доступі до терапевта. Чесно: ефект скромний, не замінює терапію при тяжких станах.",
+      "sources_hint": "Pennebaker & Beall, J Abnorm Psychol 1986 (original); Pennebaker et al., JCCP 1988; Frattaroli, Psychol Bull 2006 (meta-analysis 146 studies); Baikie & Wilhelm, Advances in Psychiatric Treatment 2005 (review); Smyth, JAMA 1998 (meta-analysis); Pavlacic et al., Clinical Psychology Review 2019 (trauma-focused expressive writing); Reinhold et al., Psychosom Med 2018 (immune biomarkers)",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Кістки після 35: чому остеопороз починається за 20 років до діагнозу і як будувати кісткову щільність зараз",
+      "type": "guide",
+      "category": "longevity",
+      "angle": "Остеопороз — не хвороба старих жінок: втрата кісткової маси починається з 35 років, а 30% переломів стегна трапляються у чоловіків. Стаття будується на FRAX-калькуляторі ВООЗ, мета-аналізах ефективності силових тренувань для BMD (Shojaa et al. 2020, 31 РКД), ролі кальцію+D+K2 (EFSA/IOF рекомендації), і новому Lancet Commission on Osteoporosis 2024. Україна-контекст: DEXA-скринінг, доступність через НСЗУ. Перехрещення з попередніми статтями про вітамін D і силові тренування — але системний гайд по кістках вперше.",
+      "sources_hint": "Shojaa et al., Sports Medicine 2020 (resistance training & BMD meta-analysis); Watson et al., JBMR 2018 (LIFTMOR trial HiPRT); IOF/ESCEO guidelines 2024; Lancet Commission on Osteoporosis; FRAX tool (WHO); Weaver et al., Osteoporosis Int 2016 (calcium meta-analysis); Knapen et al., Osteoporosis Int 2013 (vitamin K2 MK-7 RCT)",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Резистентний крохмаль: чому вчорашня картопля корисніша за свіжу і як це використати для мікробіому",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Контрінтуїтивний факт: охолодження вареної картоплі, рису чи макаронів змінює структуру крохмалю (ретроградація), знижуючи глікемічний індекс на 20–40% і створюючи пребіотик для кишкових бактерій. Мета-аналіз Bojarczuk & Kąkol (2023, Critical Reviews in Food Science and Nutrition, 28 РКД) показав зниження постпрандіальної глюкози та покращення ліпідного профілю. Практичний гайд: які продукти найбільше виграють від охолодження, чи працює повторне розігрівання, скільки RS потрібно на день. Доповнює статтю про клітковину (04-13), але окрема тема з фокусом на харчові технології.",
+      "sources_hint": "Birt et al., Advances in Nutrition 2013 (resistant starch types); Maziarz et al., Nutrition Reviews 2017; Bojarczuk & Kąkol, Critical Reviews Food Sci 2023 (RS & gut microbiota meta-analysis); Higgins & Brown, Nutrition & Metabolism 2013; Robertson et al., Am J Clin Nutr 2005 (RS and insulin sensitivity); Englyst et al. retrograded starch studies",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Тестостерон після 40 без ін'єкцій: що дійсно підвищує рівень і чого уникати",
+      "type": "guide",
+      "category": "biohacking",
+      "angle": "Тестостерон знижується на ~1–2% щорічно після 30 (Wu et al. JCEM 2008), але 90% випадків «низького Т» пов'язані зі способом життя, а не з гіпогонадизмом. Мета-аналіз Kumagai et al. (Sports Medicine 2016, 25 РКД) підтверджує: силові тренування підвищують базальний тестостерон. Сон <5 год знижує тестостерон на 10–15% (Leproult JAMA 2011). Жирова тканина конвертує тестостерон в естрадіол (ароматизація). Стаття проти «бро-науки»: чесно про те, що бустери з трибулусом не працюють (систематичний огляд 2021), D-аспартат має суперечливі дані, а реальні важелі — сон, силові, нормалізація ваги, цинк і вітамін D.",
+      "sources_hint": "Wu et al., JCEM 2008 (testosterone decline with age); Leproult & Van Cauter, JAMA 2011 (sleep restriction & testosterone); Kumagai et al., Sports Medicine 2016 (exercise & testosterone meta-analysis); Qureshi et al., J Herbal Med 2014 (Tribulus inefficacy); Topo et al., Reproductive Biology 2009 vs Willoughby & Leutholtz 2013 (D-aspartate contradictory); Pilz et al., Hormone Metab Res 2011 (vitamin D & testosterone); Corona et al., JCEM 2020 (testosterone therapy guidelines)",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Баланс і пропріоцепція: чому тренування рівноваги знижує ризик падінь на 23% — і 10-хвилинний щоденний протокол",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Мета-аналіз Sherrington et al. (Cochrane 2019, 108 РКД, n=23 407) підтверджує: тренування балансу знижує ризик падінь на 23%, а дослідження Araujo et al. (BJSM 2022, n=1702) показало зв'язок між балансом і загальним здоров'ям. На відміну від статті про grip strength (04-18), яка розглядала силовий біомаркер, ця стаття фокусується на нейром'язовому контролі, пропріоцепції та профілактиці падінь — практичну проблему для людей 50+. 10-хвилинний щоденний протокол із прогресією: від стійки на одній нозі до вправ із закритими очима та нестабільною поверхнею. Dose-response дані з мета-аналізу Lesinski et al. (2015).",
+      "sources_hint": "Araujo et al., BJSM 2022 (10-second one-legged stance & mortality); Sherrington et al., Cochrane 2019 (exercise to prevent falls); Lesinski et al., Sports Medicine 2015 (balance training dose-response meta-analysis); Aman et al., Sports Medicine 2015 (proprioceptive training review); Lord et al., J Am Geriatr Soc 2003",
+      "evidence_level": "strong",
+      "priority": 3
+    }
+  ],
+  "date": "2026-04-19",
+  "created_at": "2026-04-19T03:03:02.009457+00:00"
+}

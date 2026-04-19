@@ -572,5 +572,21 @@
       "старіння"
     ],
     "summary": "Epigenetic clocks (Horvath 2013, GrimAge, DunedinPACE) measure DNA methylation patterns to estimate biological aging pace. A meta-analysis by Fransquet et al. 2019 (23 studies, n>41,000) confirmed accelerated epigenetic aging predicts higher mortality. The CALERIE RCT (Waziry 2023, Nature Aging) showed 25% caloric restriction slowed DunedinPACE by 2-3%, and observational data from Ammous et al. 2025 links physical activity to slower epigenetic aging. However, a critical 2025 review (Apsley et al.) warns that technical replicates can differ by up to 9 years, making individual-level consumer tests unreliable. Evidence strength: strong for population-level prediction, moderate for intervention effects, weak for individual consumer test utility. Practical takeaway: exercise, don't smoke, and get standard blood work — these cost less and deliver more actionable data than a $300-500 epigenetic test."
+  },
+  "antybiotykorezystentnist-ukraine-amr-samolikusvannia-zagrozy": {
+    "date": "2026-04-19",
+    "title": "Антибіотикорезистентність в Україні: чому звичка «пропити курс азитроміцину» наближає постантибіотичну еру",
+    "type": "research",
+    "tags": [
+      "антибіотики",
+      "антибіотикорезистентність",
+      "самолікування",
+      "профілактика",
+      "ВООЗ",
+      "дослідження",
+      "інфекції",
+      "Україна"
+    ],
+    "summary": "Antimicrobial resistance (AMR) caused 4.95 million associated deaths globally in 2019 (Murray et al., Lancet 2022) and is projected to cause 39 million directly attributable deaths by 2050 (GRAM, Lancet 2024). Ukraine faces acute AMR challenges: approximately 50% of antibiotics were purchased without prescription before the 2022 e-prescription mandate, 46% of Ukrainians used antibiotics for viral respiratory infections (Myroniuk-Konstantynovych 2024), and wartime hospital data shows 60% carbapenem-resistant infections vs 6.2% EU average (CDC MMWR 2023). The article explains when antibiotics are unnecessary (colds, flu, most bronchitis), debunks the \"always finish the course\" dogma citing BMJ 2017 analysis, and provides 5 actionable steps. Evidence level: strong (GBD systematic analyses, meta-analyses, field reports)."
   }
 }
