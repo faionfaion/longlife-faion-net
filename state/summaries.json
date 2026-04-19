@@ -604,5 +604,20 @@
       "дослідження"
     ],
     "summary": "Meta-analysis by Cohen et al. (2016, Psychosomatic Medicine, 10 prospective studies, n=136,265) shows purpose in life is associated with 17% lower all-cause mortality (RR=0.83) and 17% lower cardiovascular events. Alimujiang et al. (2019, JAMA Network Open, n=6,985) found a strong dose-response relationship. The Ohsaki study (Sone 2008, n=43,391) confirmed the effect for Japanese ikigai. Mechanisms include better preventive health behaviors (Kim 2014, PNAS) and faster cortisol recovery (Fogelman 2015). Purpose also protects cognition: 23% lower dementia risk (Sutin 2021 meta-analysis) and 52% lower Alzheimer's risk (Boyle 2010). Effect works across all ages (Hill & Turiano 2014). Key limitations: all observational, no effect on cancer mortality, reverse causation possible. Evidence strength: STRONG. Particularly relevant for wartime Ukraine where loss of purpose is widespread — purpose is explicitly described as a modifiable risk factor."
+  },
+  "glymphatic-system-brain-clearance-sleep-research": {
+    "date": "2026-04-19",
+    "title": "Глімфатична система: як мозок очищується від токсинів під час сну і чому це важливіше за «8 годин»",
+    "type": "research",
+    "tags": [
+      "сон",
+      "глімфатична система",
+      "нейронаука",
+      "Альцгеймер",
+      "глибокий сон",
+      "очищення мозку",
+      "дослідження"
+    ],
+    "summary": "The glymphatic system, discovered by Nedergaard in 2012, is a network of perivascular channels that flushes metabolic waste (including Alzheimer's-linked beta-amyloid) from the brain using cerebrospinal fluid flow. This clearance doubles during sleep when interstitial space expands by 60% (Xie et al., Science 2013). Key 2024–2026 updates: a Cell 2025 study identified the norepinephrine-vasomotor pump driving clearance during NREM sleep and showed that zolpidem suppresses this mechanism; a Nature Communications 2026 RCT first confirmed amyloid and tau clearance into human plasma during sleep; an ADNI cohort study (2024) showed glymphatic dysfunction precedes amyloid deposition. Practical takeaway: deep slow-wave sleep (N3) quality, not just total hours, determines brain clearance efficiency. Evidence is strong for animal models and moderate-to-strong for human studies, with small sample sizes being the main limitation."
   }
 }

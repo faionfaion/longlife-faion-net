@@ -7238,3 +7238,91 @@ TimeoutError: agent_query timed out after 300s
 2026-04-19 04:02:27 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/purpose-in-life-ikigai-mortality-meta-analysis.jpg (241 KB)
 04:02:27 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/purpose-in-life-ikigai-mortality-meta-analysis.md
 2026-04-19 04:02:27 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/purpose-in-life-ikigai-mortality-meta-analysis.md
+04:02:27 [pipeline] INFO: Article ready: purpose-in-life-ikigai-mortality-meta-analysis (Сенс життя як захист від смерті: мета-аналіз показ)
+2026-04-19 04:02:27 [pipeline] INFO: Article ready: purpose-in-life-ikigai-mortality-meta-analysis (Сенс життя як захист від смерті: мета-аналіз показ)
+04:02:27 [pipeline] INFO: === Article 4/9 ===
+2026-04-19 04:02:27 [pipeline] INFO: === Article 4/9 ===
+04:02:27 [pipeline] INFO: --- Article: [research] Глімфатична система: як мозок очищується від токсинів під ча ---
+2026-04-19 04:02:27 [pipeline] INFO: --- Article: [research] Глімфатична система: як мозок очищується від токсинів під ча ---
+04:02:27 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 04:02:27 [asyncio] DEBUG: Using selector: EpollSelector
+04:02:27 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 04:02:27 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:07:27 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+2026-04-19 04:07:27 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+04:07:32 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 7.2s
+2026-04-19 04:07:32 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 7.2s
+04:07:39 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 04:07:39 [asyncio] DEBUG: Using selector: EpollSelector
+04:07:39 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 04:07:39 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:12:03 [pipeline.stages.s2_research] INFO: Research complete: 16538 chars
+2026-04-19 04:12:03 [pipeline.stages.s2_research] INFO: Research complete: 16538 chars
+04:12:03 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 04:12:03 [asyncio] DEBUG: Using selector: EpollSelector
+04:12:03 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 04:12:03 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:13:34 [pipeline.stages.s3_generate] INFO: Generated: 'Глімфатична система: як мозок очищується від токсинів під час сну і чому це важливіше за «8 годин»' (slug=glymphatic-system-brain-clearance-sleep-research, 764 words, 10 sources)
+2026-04-19 04:13:34 [pipeline.stages.s3_generate] INFO: Generated: 'Глімфатична система: як мозок очищується від токсинів під час сну і чому це важливіше за «8 годин»' (slug=glymphatic-system-brain-clearance-sleep-research, 764 words, 10 sources)
+04:13:34 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 04:13:34 [asyncio] DEBUG: Using selector: EpollSelector
+04:13:34 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 04:13:34 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:15:02 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-19 04:15:02 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+04:15:02 [pipeline.stages.s4_review] INFO: Feedback: Сильна стаття з коректним поводженням із доказовою базою. Кілька дрібних зауважень перед публікацією:
+
+1. **Категорія не вказана.** У метаданих порожнє поле Category — потрібно додати (наприклад, «Сон
+2026-04-19 04:15:02 [pipeline.stages.s4_review] INFO: Feedback: Сильна стаття з коректним поводженням із доказовою базою. Кілька дрібних зауважень перед публікацією:
+
+1. **Категорія не вказана.** У метаданих порожнє поле Category — потрібно додати (наприклад, «Сон
+04:15:02 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 04:15:02 [asyncio] DEBUG: Using selector: EpollSelector
+04:15:02 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 04:15:02 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:17:02 [pipeline.stages.s5_revise] INFO: Revised article: 757 words
+2026-04-19 04:17:02 [pipeline.stages.s5_revise] INFO: Revised article: 757 words
+04:17:02 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-19 04:17:02 [pipeline] INFO: === Review cycle 1/3 complete ===
+04:17:02 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 04:17:02 [asyncio] DEBUG: Using selector: EpollSelector
+04:17:02 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 04:17:02 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:18:35 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-19 04:18:35 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+04:18:35 [pipeline.stages.s4_review] INFO: Feedback: Загалом стаття сильна: ґрунтовна наукова база, коректне хеджування, безпечні практичні поради. Потрібні незначні правки перед публікацією:
+
+1. **NREM не пояснено.** У розділі про Cell 2025 вживається 
+2026-04-19 04:18:35 [pipeline.stages.s4_review] INFO: Feedback: Загалом стаття сильна: ґрунтовна наукова база, коректне хеджування, безпечні практичні поради. Потрібні незначні правки перед публікацією:
+
+1. **NREM не пояснено.** У розділі про Cell 2025 вживається 
+04:18:35 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-19 04:18:35 [pipeline] INFO: Article approved after 1 revision(s)
+04:18:35 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 04:18:35 [asyncio] DEBUG: Using selector: EpollSelector
+04:18:35 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 04:18:35 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:19:04 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita sits on the edge of a neatly made bed in a dimly lit be | pose=Seated on the bed edge, torso turned slightly toward the viewer, right arm raised holding a translucent brain model at eye level, left hand with index finger extended pointing at the blue-lit channels inside the model. Her legs are crossed casually, showing emerald green leggings and bare feet. Her long wavy blonde hair — parted on the left — drapes past her shoulders, and the small green leaf tattoo is visible on her right shoulder where the unzipped hoodie has slipped slightly. A black fitness smartwatch with green accents is on her left wrist. | expression=One eyebrow slightly raised, engaged explaining-teaching expression with a warm half-smile, bright green eyes looking directly at the viewer as if sharing a fascinating discovery — the 'did you know?' look. | props=translucent anatomical brain model with glowing blue glymphatic channels, tablet on the nightstand showing a Science journal article with CSF flow diagrams, a pillow with a small illustrated crescent moon and stars embroidered on it
+2026-04-19 04:19:04 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita sits on the edge of a neatly made bed in a dimly lit be | pose=Seated on the bed edge, torso turned slightly toward the viewer, right arm raised holding a translucent brain model at eye level, left hand with index finger extended pointing at the blue-lit channels inside the model. Her legs are crossed casually, showing emerald green leggings and bare feet. Her long wavy blonde hair — parted on the left — drapes past her shoulders, and the small green leaf tattoo is visible on her right shoulder where the unzipped hoodie has slipped slightly. A black fitness smartwatch with green accents is on her left wrist. | expression=One eyebrow slightly raised, engaged explaining-teaching expression with a warm half-smile, bright green eyes looking directly at the viewer as if sharing a fascinating discovery — the 'did you know?' look. | props=translucent anatomical brain model with glowing blue glymphatic channels, tablet on the nightstand showing a Science journal article with CSF flow diagrams, a pillow with a small illustrated crescent moon and stars embroidered on it
+04:19:04 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-19 04:19:04 [asyncio] DEBUG: Using selector: EpollSelector
+04:19:04 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-19 04:19:04 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:19:20 [pipeline.stages.s6_generate_tg] INFO: TG caption: 655 chars
+2026-04-19 04:19:20 [pipeline.stages.s6_generate_tg] INFO: TG caption: 655 chars
+04:19:20 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-19 04:19:20 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:20:28 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-19 04:20:28 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+04:20:28 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-19 04:20:28 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+04:20:28 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 23624
+2026-04-19 04:20:28 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 23624
+04:20:28 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 23624 (unknown)
+2026-04-19 04:20:28 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 23624 (unknown)
+04:20:28 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 23677 2580585
+2026-04-19 04:20:28 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 23677 2580585
+04:20:29 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/glymphatic-system-brain-clearance-sleep-research.jpg (165 KB)
+2026-04-19 04:20:29 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/glymphatic-system-brain-clearance-sleep-research.jpg (165 KB)
+04:20:29 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/glymphatic-system-brain-clearance-sleep-research.md
+2026-04-19 04:20:29 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/glymphatic-system-brain-clearance-sleep-research.md
