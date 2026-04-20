@@ -8667,3 +8667,87 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-20 03:56:54 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/compassion-fatigue-proqol-protokol-volontery-viyna.jpg (187 KB)
 03:56:54 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/compassion-fatigue-proqol-protokol-volontery-viyna.md
 2026-04-20 03:56:54 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/compassion-fatigue-proqol-protokol-volontery-viyna.md
+03:56:54 [pipeline] INFO: Article ready: compassion-fatigue-proqol-protokol-volontery-viyna (Втома від співчуття: 5 кроків для тих, хто допомаг)
+2026-04-20 03:56:54 [pipeline] INFO: Article ready: compassion-fatigue-proqol-protokol-volontery-viyna (Втома від співчуття: 5 кроків для тих, хто допомаг)
+03:56:54 [pipeline] INFO: === Article 4/9 ===
+2026-04-20 03:56:54 [pipeline] INFO: === Article 4/9 ===
+03:56:54 [pipeline] INFO: --- Article: [research] Пародонтит і серце: як запалення ясен підвищує ризик інфаркт ---
+2026-04-20 03:56:54 [pipeline] INFO: --- Article: [research] Пародонтит і серце: як запалення ясен підвищує ризик інфаркт ---
+03:56:54 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 03:56:54 [asyncio] DEBUG: Using selector: EpollSelector
+03:56:54 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 03:56:54 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:01:54 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+2026-04-20 04:01:54 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+04:01:59 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 6.3s
+2026-04-20 04:01:59 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 6.3s
+04:02:06 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 04:02:06 [asyncio] DEBUG: Using selector: EpollSelector
+04:02:06 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 04:02:06 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:05:55 [pipeline.stages.s2_research] INFO: Research complete: 14564 chars
+2026-04-20 04:05:55 [pipeline.stages.s2_research] INFO: Research complete: 14564 chars
+04:05:55 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 04:05:55 [asyncio] DEBUG: Using selector: EpollSelector
+04:05:55 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 04:05:55 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:08:11 [pipeline.stages.s3_generate] INFO: Generated: 'Пародонтит і серце: як запалення ясен підвищує ризик серцево-судинних хвороб на 20%' (slug=parodontyt-sertse-zapalennia-yasen-sertsevo-sudynnyj-ryzyk, 645 words, 6 sources)
+2026-04-20 04:08:11 [pipeline.stages.s3_generate] INFO: Generated: 'Пародонтит і серце: як запалення ясен підвищує ризик серцево-судинних хвороб на 20%' (slug=parodontyt-sertse-zapalennia-yasen-sertsevo-sudynnyj-ryzyk, 645 words, 6 sources)
+04:08:11 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 04:08:11 [asyncio] DEBUG: Using selector: EpollSelector
+04:08:11 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 04:08:11 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:09:38 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-20 04:09:38 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+04:09:38 [pipeline.stages.s4_review] INFO: Feedback: Сильна, добре збалансована стаття з відмінною науковою нюансованістю в тілі тексту. Секція «асоціація ≠ причина» — зразкова. Потрібні мінорні правки перед публікацією:
+
+1. **ЗАГОЛОВОК СУПЕРЕЧИТЬ ТІЛУ 
+2026-04-20 04:09:38 [pipeline.stages.s4_review] INFO: Feedback: Сильна, добре збалансована стаття з відмінною науковою нюансованістю в тілі тексту. Секція «асоціація ≠ причина» — зразкова. Потрібні мінорні правки перед публікацією:
+
+1. **ЗАГОЛОВОК СУПЕРЕЧИТЬ ТІЛУ 
+04:09:38 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 04:09:38 [asyncio] DEBUG: Using selector: EpollSelector
+04:09:38 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 04:09:38 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:11:22 [pipeline.stages.s5_revise] INFO: Revised article: 714 words
+2026-04-20 04:11:22 [pipeline.stages.s5_revise] INFO: Revised article: 714 words
+04:11:22 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-20 04:11:22 [pipeline] INFO: === Review cycle 1/3 complete ===
+04:11:22 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 04:11:22 [asyncio] DEBUG: Using selector: EpollSelector
+04:11:22 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 04:11:22 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:12:32 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-20 04:12:32 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+04:12:32 [pipeline.stages.s4_review] INFO: Feedback: Стаття науково ґрунтовна, збалансована й добре структурована. Основні сильні сторони: чудова контекстуалізація абсолютного ризику (10% → 12%), чіткий розділ «асоціація ≠ причина», пояснення всіх медич
+2026-04-20 04:12:32 [pipeline.stages.s4_review] INFO: Feedback: Стаття науково ґрунтовна, збалансована й добре структурована. Основні сильні сторони: чудова контекстуалізація абсолютного ризику (10% → 12%), чіткий розділ «асоціація ≠ причина», пояснення всіх медич
+04:12:32 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-20 04:12:32 [pipeline] INFO: Article approved after 1 revision(s)
+04:12:32 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 04:12:32 [asyncio] DEBUG: Using selector: EpollSelector
+04:12:32 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 04:12:32 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:13:01 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a modern medical research lab, holding up a l | pose=Standing in a presenting stance — left foot slightly forward, right hand holding up the transparent anatomical diagram at chest height, left hand with index finger extended pointing at the glowing red connection line between the gum and the heart on the diagram. Her body is angled three-quarters toward the viewer, torso slightly turned to showcase the diagram. Her left wrist shows a black fitness smartwatch with green accents. | expression=One eyebrow slightly raised with an engaged, teaching expression — eyes wide and direct, lips parted in a mid-explanation half-smile, as if revealing a surprising fact the viewer didn't expect. Bright green eyes focused on the viewer. | props=transparent anatomical diagram showing inflamed gum cross-section connected to a stylized heart via a glowing red pathway, anatomical jaw model on the lab counter with visibly reddened, inflamed gums, small anatomical heart model on the counter connected to the jaw model by a thin red thread, digital wall screen displaying bar chart with '1.20x ризик' highlighted in red, green toothbrush resting on the counter with a tiny drop of red on the bristles
+2026-04-20 04:13:01 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a modern medical research lab, holding up a l | pose=Standing in a presenting stance — left foot slightly forward, right hand holding up the transparent anatomical diagram at chest height, left hand with index finger extended pointing at the glowing red connection line between the gum and the heart on the diagram. Her body is angled three-quarters toward the viewer, torso slightly turned to showcase the diagram. Her left wrist shows a black fitness smartwatch with green accents. | expression=One eyebrow slightly raised with an engaged, teaching expression — eyes wide and direct, lips parted in a mid-explanation half-smile, as if revealing a surprising fact the viewer didn't expect. Bright green eyes focused on the viewer. | props=transparent anatomical diagram showing inflamed gum cross-section connected to a stylized heart via a glowing red pathway, anatomical jaw model on the lab counter with visibly reddened, inflamed gums, small anatomical heart model on the counter connected to the jaw model by a thin red thread, digital wall screen displaying bar chart with '1.20x ризик' highlighted in red, green toothbrush resting on the counter with a tiny drop of red on the bristles
+04:13:01 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 04:13:01 [asyncio] DEBUG: Using selector: EpollSelector
+04:13:01 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 04:13:01 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:13:14 [pipeline.stages.s6_generate_tg] INFO: TG caption: 636 chars
+2026-04-20 04:13:14 [pipeline.stages.s6_generate_tg] INFO: TG caption: 636 chars
+04:13:14 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-20 04:13:14 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:14:23 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-20 04:14:23 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+04:14:23 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-20 04:14:23 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+04:14:23 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 26418
+2026-04-20 04:14:23 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 26418
+04:14:23 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 26418 (unknown)
+2026-04-20 04:14:23 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 26418 (unknown)
+04:14:23 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 26471 2691365
+2026-04-20 04:14:23 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 26471 2691365
+04:14:24 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/parodontyt-sertse-zapalennia-yasen-sertsevo-sudynnyj-ryzyk.jpg (202 KB)
+2026-04-20 04:14:24 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/parodontyt-sertse-zapalennia-yasen-sertsevo-sudynnyj-ryzyk.jpg (202 KB)
+04:14:24 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/parodontyt-sertse-zapalennia-yasen-sertsevo-sudynnyj-ryzyk.md
+2026-04-20 04:14:24 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/parodontyt-sertse-zapalennia-yasen-sertsevo-sudynnyj-ryzyk.md
