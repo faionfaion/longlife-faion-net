@@ -8911,3 +8911,83 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-20 04:41:36 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/daytime-nap-duration-sleep-stages-guide.jpg (172 KB)
 04:41:36 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/daytime-nap-duration-sleep-stages-guide.md
 2026-04-20 04:41:36 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/daytime-nap-duration-sleep-stages-guide.md
+04:41:36 [pipeline] INFO: Article ready: daytime-nap-duration-sleep-stages-guide (Наука денного сну: 10, 20 чи 90 хвилин — як обрати)
+2026-04-20 04:41:36 [pipeline] INFO: Article ready: daytime-nap-duration-sleep-stages-guide (Наука денного сну: 10, 20 чи 90 хвилин — як обрати)
+04:41:36 [pipeline] INFO: === Article 7/9 ===
+2026-04-20 04:41:36 [pipeline] INFO: === Article 7/9 ===
+04:41:36 [pipeline] INFO: --- Article: [fitness] Рукінг (ходьба з вагою): чому найпростіша вправа набирає поп ---
+2026-04-20 04:41:36 [pipeline] INFO: --- Article: [fitness] Рукінг (ходьба з вагою): чому найпростіша вправа набирає поп ---
+04:41:36 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 04:41:36 [asyncio] DEBUG: Using selector: EpollSelector
+04:41:36 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 04:41:36 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:45:23 [pipeline.stages.s2_research] INFO: Research complete: 18053 chars
+2026-04-20 04:45:23 [pipeline.stages.s2_research] INFO: Research complete: 18053 chars
+04:45:23 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 04:45:23 [asyncio] DEBUG: Using selector: EpollSelector
+04:45:23 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 04:45:23 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:47:33 [pipeline.stages.s3_generate] INFO: Generated: 'Рукінг: чому ходьба з рюкзаком — одна з найефективніших вправ без залу' (slug=rucking-walking-with-weight-cardio-strength-training, 659 words, 8 sources)
+2026-04-20 04:47:33 [pipeline.stages.s3_generate] INFO: Generated: 'Рукінг: чому ходьба з рюкзаком — одна з найефективніших вправ без залу' (slug=rucking-walking-with-weight-cardio-strength-training, 659 words, 8 sources)
+04:47:33 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 04:47:33 [asyncio] DEBUG: Using selector: EpollSelector
+04:47:33 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 04:47:33 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:48:45 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+2026-04-20 04:48:45 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+04:48:45 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом якісна, добре структурована, з коректним балансом користі та ризиків. Потрібні такі виправлення перед публікацією:
+
+1. **Розділ «Біомеханіка» — відсутні джерела.** Конкретні числові тве
+2026-04-20 04:48:45 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом якісна, добре структурована, з коректним балансом користі та ризиків. Потрібні такі виправлення перед публікацією:
+
+1. **Розділ «Біомеханіка» — відсутні джерела.** Конкретні числові тве
+04:48:45 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 04:48:45 [asyncio] DEBUG: Using selector: EpollSelector
+04:48:45 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 04:48:45 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:52:13 [pipeline.stages.s5_revise] INFO: Revised article: 727 words
+2026-04-20 04:52:13 [pipeline.stages.s5_revise] INFO: Revised article: 727 words
+04:52:13 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-20 04:52:13 [pipeline] INFO: === Review cycle 1/3 complete ===
+04:52:13 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 04:52:13 [asyncio] DEBUG: Using selector: EpollSelector
+04:52:13 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 04:52:13 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:54:09 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-20 04:54:09 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+04:54:09 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом якісна, науково обґрунтована та збалансована. Є кілька питань для доопрацювання:
+
+1. **Біомеханіка — потенційне порівняння різних вимірювань.** Keller et al. (1996) повідомляють про 5-к
+2026-04-20 04:54:09 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом якісна, науково обґрунтована та збалансована. Є кілька питань для доопрацювання:
+
+1. **Біомеханіка — потенційне порівняння різних вимірювань.** Keller et al. (1996) повідомляють про 5-к
+04:54:09 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-20 04:54:09 [pipeline] INFO: Article approved after 1 revision(s)
+04:54:09 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 04:54:09 [asyncio] DEBUG: Using selector: EpollSelector
+04:54:09 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 04:54:09 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:54:32 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita strides confidently along a sunlit park trail wearing a | pose=Mid-stride walking powerfully forward with a slight torso lean against the backpack weight — left leg forward, right leg pushing off. Right shoulder turned toward viewer exposing the leaf tattoo. Left hand swings naturally at hip level showing the smartwatch. Right hand grips the backpack chest strap. Muscular quads and calves are visibly engaged under the effort. | expression=Confident smile with a hint of determined training face — eyes bright and focused ahead, slight grin as if enjoying the challenge, jaw relaxed but engaged. | props=Black tactical rucksack with green accent zippers and visible weight plates peeking from the top opening, Fitness smartwatch on left wrist displaying a heart-rate zone indicator in green, Water bottle in mesh side pocket of the backpack, Green resistance band clipped to a carabiner on the backpack strap
+2026-04-20 04:54:32 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita strides confidently along a sunlit park trail wearing a | pose=Mid-stride walking powerfully forward with a slight torso lean against the backpack weight — left leg forward, right leg pushing off. Right shoulder turned toward viewer exposing the leaf tattoo. Left hand swings naturally at hip level showing the smartwatch. Right hand grips the backpack chest strap. Muscular quads and calves are visibly engaged under the effort. | expression=Confident smile with a hint of determined training face — eyes bright and focused ahead, slight grin as if enjoying the challenge, jaw relaxed but engaged. | props=Black tactical rucksack with green accent zippers and visible weight plates peeking from the top opening, Fitness smartwatch on left wrist displaying a heart-rate zone indicator in green, Water bottle in mesh side pocket of the backpack, Green resistance band clipped to a carabiner on the backpack strap
+04:54:32 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 04:54:32 [asyncio] DEBUG: Using selector: EpollSelector
+04:54:32 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 04:54:32 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:54:46 [pipeline.stages.s6_generate_tg] INFO: TG caption: 651 chars
+2026-04-20 04:54:46 [pipeline.stages.s6_generate_tg] INFO: TG caption: 651 chars
+04:54:46 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-20 04:54:46 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:56:01 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-20 04:56:01 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+04:56:02 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-20 04:56:02 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+04:56:02 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 23628
+2026-04-20 04:56:02 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 23628
+04:56:02 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 23628 (unknown)
+2026-04-20 04:56:02 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 23628 (unknown)
+04:56:02 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 23681 3299208
+2026-04-20 04:56:02 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 23681 3299208
+04:56:02 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/rucking-walking-with-weight-cardio-strength-training.jpg (223 KB)
+2026-04-20 04:56:02 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/rucking-walking-with-weight-cardio-strength-training.jpg (223 KB)
+04:56:02 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/rucking-walking-with-weight-cardio-strength-training.md
+2026-04-20 04:56:02 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/rucking-walking-with-weight-cardio-strength-training.md

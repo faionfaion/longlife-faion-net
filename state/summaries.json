@@ -781,5 +781,21 @@
       "стадії сну"
     ],
     "summary": "Стаття систематизує наукові дані про оптимальну тривалість денного сну. Ключове дослідження Brooks & Lack (2006, Sleep) показало, що 10-хвилинний nap дає найшвидший ефект без інерції сну, тоді як 30-хвилинний спричиняє тимчасове погіршення через вхід у глибокий сон (N3/SWS). Дослідження NASA (Rosekind, 1994) продемонструвало, що ~26-хвилинний сон покращує пильність пілотів на 54%. Мета-аналіз Dutheil (2021, 11 досліджень) підтвердив значуще покращення когнітивних функцій після денного сну. Мета-аналіз Wang (2024) показав, що лише звичний сон ≥60 хв асоціюється з підвищеним серцево-судинним ризиком. Практична порада: nap 10–20 хвилин між 13:00 та 15:00. Доказова база — помірна (кілька РКД та мета-аналізів, переважно з невеликими вибірками)."
+  },
+  "rucking-walking-with-weight-cardio-strength-training": {
+    "date": "2026-04-20",
+    "title": "Рукінг: чому ходьба з рюкзаком — одна з найефективніших вправ без залу",
+    "type": "fitness",
+    "tags": [
+      "фітнес",
+      "кардіо",
+      "ходьба",
+      "рукінг",
+      "тренування без залу",
+      "кістки",
+      "силове тренування",
+      "ВООЗ"
+    ],
+    "summary": "Rucking (walking with a weighted backpack) combines cardiovascular and resistance training in one accessible activity. Looney et al. (2022, MSSE) showed that carrying 22% of body weight increases metabolic cost by 30–40% versus unloaded walking. Staab et al. (2023) demonstrated acute bone formation marker increases of 111–120% after 60 minutes of loaded walking. Biomechanically, rucking generates ~1.8× body weight joint forces versus ~5× for running, making it significantly lower-impact. Key contraindications include spinal pathology, knee injuries, and respiratory conditions (Faghy 2022). Evidence is strong for metabolic benefits and lower impact versus running; moderate for optimal load recommendations (10–20% BW); preliminary for long-term bone density effects. The article provides a 4-week progressive protocol for beginners starting at 5% body weight."
   }
 }
