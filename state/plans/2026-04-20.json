@@ -1,0 +1,87 @@
+{
+  "articles": [
+    {
+      "topic": "Вакцина проти RSV під час вагітності знижує госпіталізацію немовлят на 80%: що відомо про Abrysvo",
+      "type": "research",
+      "category": "prevention",
+      "angle": "BBC повідомляє про дані реального світу щодо RSV-вакцини Abrysvo (Pfizer), схваленої у 2023–2024. Стаття аналізує RCT MATISSE (NEJM 2023, n=7,392) та нові дані post-marketing surveillance 2025–2026. Контекст для України: RSV-бронхіоліт — головна причина госпіталізації немовлят взимку, вакцина в Україні ще не зареєстрована. Чесно про обмеження: сигнал щодо передчасних пологів, позиція ВООЗ та EMA",
+      "sources_hint": "NEJM 2023 MATISSE trial (Kampmann et al.), FDA BLA approval documents, Lancet Infectious Diseases 2024 real-world effectiveness studies, WHO SAGE RSV vaccine position paper 2024, BBC Health April 2026 headline",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Квітнева алергія в Україні: чому цього тижня піки берези та амброзії і як зменшити симптоми без седації",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Понеділковий практичний гайд до алергічного сезону. Карта пилкування в Україні у квітні (береза, вільха — пік 15–30 квітня). Ієрархія лікування за ARIA 2024 guidelines: інтраназальні кортикостероїди > пероральні антигістаміни 2-го покоління > комбінація. Чому Лоратадин і Цетиризин не викликають сонливості (на відміну від Димедролу). Алерген-специфічна імунотерапія (ASIT) — єдиний метод, що змінює перебіг хвороби. Промивання носа сольовим розчином — Cochrane 2018 підтверджує ефективність",
+      "sources_hint": "ARIA 2024 guidelines update (Bousquet et al.), Cochrane review nasal saline irrigation (Head et al. 2018), EAACI molecular allergology guidelines 2022, Ukrainian pollen monitoring data (aeroallergen.org.ua), meta-analysis intranasal corticosteroids (Weiner 1998, Cochrane)",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Втома від співчуття: як допомагати іншим і не вигоріти — протокол ProQOL для волонтерів та рідних військових",
+      "type": "lifehack",
+      "category": "mental-health",
+      "angle": "Compassion fatigue — окремий синдром від burnout, особливо актуальний для воєнної України: волонтери, медики, родини військових. Figley 1995 визначив CF; ProQOL (Professional Quality of Life Scale) — валідований інструмент самооцінки. Мета-аналіз Cavanagh 2020 (29 досліджень) показує ефективність mindfulness-based interventions для зниження CF у медпрацівників. Практичний 5-крокований протокол: ProQOL самотест → межі допомоги → peer support → мікро-відновлення → професійна допомога при потребі. Відрізняється від попередніх статей про КПТ-техніки (12.04), експресивне письмо (19.04) та ПТСР-серце (16.04) — фокус на тих, хто допомагає іншим, а не на власній травмі",
+      "sources_hint": "Figley 1995 Compassion Fatigue (foundational work), Cavanagh et al. 2020 meta-analysis MBI for healthcare workers (Journal of Nursing Management), Stamm 2010 ProQOL manual, Cocker & Joss 2016 compassion fatigue among healthcare workers review, Nolte et al. 2017 systematic review CF interventions, WHO guidance on mental health of health workers 2022",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Пародонтит і серце: як запалення ясен підвищує ризик інфаркту на 28% — мета-аналіз 120+ досліджень",
+      "type": "research",
+      "category": "research",
+      "angle": "Зв'язок між здоров'ям ротової порожнини та серцево-судинними захворюваннями — тема, яку більшість людей не сприймає серйозно. Мета-аналіз Larvin 2021 (120 лонгітудинальних досліджень) підтверджує: пародонтит = +28% ризик CVD. P. gingivalis знайдено в атеросклеротичних бляшках. Інтервенційні дані: лікування пародонтиту покращує ендотеліальну функцію (Tonetti 2007 NEJM). В Україні стоматологічна допомога не входить до пакету НСЗУ — практичний бар'єр. Гайд: коли йти до пародонтолога, правильна техніка чистки та флосінг",
+      "sources_hint": "Larvin et al. 2021 meta-analysis (Journal of Dental Research), Tonetti et al. 2007 NEJM intervention study, Lockhart et al. 2012 AHA scientific statement, Sanz et al. 2020 EFP/WHF consensus (Journal of Clinical Periodontology), Humphrey 2008 meta-analysis CRP and CVD, WHO oral health report 2022",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Перименопауза після 40: 5 симптомів, які жінки не пов'язують із гормонами, та що показують найновіші дослідження",
+      "type": "research",
+      "category": "research",
+      "angle": "Доповнює вчорашню статтю про тестостерон у чоловіків після 40 — тепер жіночий бік гормональних змін. Перименопауза (2–10 років до менопаузи) часто нерозпізнана: мозковий туман (62% жінок за SWAN study), порушення сну, тривожність, суглобовий біль — симптоми, які лікарі рідко пов'язують із гормонами. NICE 2024 рекомендує ЗГТ як першу лінію для вазомоторних симптомів. 18-річне спостереження WHI (Manson, JAMA 2017) спростувало паніку 2002 року: ЗГТ, розпочата в ранній менопаузі, не підвищує загальну смертність. КПТ ефективна при приливах (4 РКД, рекомендація NICE). Lancet 2024 серія про менопаузу виявила величезні прогалини в доказовій базі. В Україні: немає національних настанов з менопаузи, обмежений доступ до ЗГТ, культурна стигма. Практична частина: чек-лист симптомів, коли звернутися до гінеколога-ендокринолога, порівняння ЗГТ та альтернатив за доказовістю",
+      "sources_hint": "Lancet 2024 menopause series, NICE 2024 menopause guideline update (NG23), Manson et al. WHI 18-year follow-up (JAMA 2017), SWAN Study cognitive findings (Karlamangla et al. 2017), Cochrane review HRT for vasomotor symptoms (Marjoribanks et al. 2017 updated 2024), EMAS 2021 position statements, Hunter & Mann 2024 CBT for menopause review",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Наука денного сну: 10, 20 чи 90 хвилин — як обрати тривалість, щоб прокинутись розумнішим, а не розбитим",
+      "type": "guide",
+      "category": "sleep",
+      "angle": "Окремий кут від усіх попередніх статей про сон (які стосувалися якості, апное, глімфатичної системи, хронотипів, засинання). Фокус на архітектурі денного сну: чому 20 хв = Stage 2 NREM без інерції, а 30–60 хв = SWS з важким пробудженням. Систематичний огляд Dutheil 2021 (11 досліджень) про вплив napping на когнітивні функції. NASA nap study (Rosekind 1995): 26-хв сон покращує пильність на 54%. Хронотипічне вікно для сну: 13:00–15:00. Коли НЕ спати вдень: інсомніки, люди з депресією. Понеділок — найактуальніший день для цієї теми (перехід із вихідного режиму)",
+      "sources_hint": "Dutheil et al. 2021 systematic review (Sleep Medicine Reviews), Rosekind NASA nap study 1995, Milner & Cote 2009 meta-analysis nap benefits, Faraut et al. 2017 (Journal of Clinical Endocrinology) nap and cortisol recovery, Lovato & Lack 2010 optimal nap duration review, AASM position statement on napping",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Рукінг (ходьба з вагою): чому найпростіша вправа набирає популярність і що показують дослідження",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Rucking — ходьба з навантаженим рюкзаком — поєднує кардіо та силове навантаження в одній активності. Дослідження Knapik 2004 (US Army) показало, що rucking спалює на 30–45% більше калорій, ніж звичайна ходьба. Teschler 2018 (EJAP): ходьба з вагою покращує постуральну стабільність. Оптимальна вага: 10–20% від маси тіла. Переваги: низький поріг входу, не потрібен зал, соціальний аспект. Протипоказання: проблеми з хребтом, коліна. Стартовий 4-тижневий протокол для початківців. Весняна погода — ідеальний час для старту",
+      "sources_hint": "Knapik et al. 2004 US Army load carriage studies, Teschler et al. 2018 European Journal of Applied Physiology, Pandolf et al. 1977 energy expenditure formula for load carriage, ACSM guidelines for walking with load, Phillips et al. 2016 metabolic cost of rucking (Journal of Strength and Conditioning Research)",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Штучні підсолоджувачі: чому ВООЗ не рекомендує їх для схуднення і що насправді показують мета-аналізи",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "ВООЗ у 2023 видала умовну рекомендацію проти використання некалорійних підсолоджувачів (NSS) для контролю ваги — це здивувало мільйони людей. Мета-аналіз Azad 2017 (CMAJ, 37 досліджень): відсутність стабільного ефекту на вагу. Suez et al. 2022 (Cell): сукралоза та сахарин змінюють мікробіом кишечника і глікемічну відповідь у персоналізований спосіб. Когорта NutriNet-Santé (Debras, BMJ 2022, n=102 865): підвищений ризик раку (HR 1.13) при високому споживанні. IARC 2023: аспартам — Group 2B (можливо канцерогенний), але JECFA зберіг безпечну дозу. Важливий нюанс: для людей із ЦД2 заміна цукру на підсолоджувачі все ще може бути виправданою (позиція ADA). В Україні тисячі продуктів із маркуванням «без цукру» — споживачі мають навчитися читати склад. Практично: як поступово знижувати залежність від солодкого смаку",
+      "sources_hint": "WHO 2023 guideline on non-sugar sweeteners, Azad et al. 2017 CMAJ systematic review (37 studies), Suez et al. 2022 Cell (gut microbiome disruption), Debras et al. 2022 BMJ NutriNet-Santé cohort, IARC/JECFA 2023 aspartame evaluation, ADA Standards of Care 2024, Cochrane review non-nutritive sweeteners (Toews et al. 2019)",
+      "evidence_level": "moderate",
+      "priority": 3
+    },
+    {
+      "topic": "Заклеювання рота на ніч: TikTok-тренд чи доказова практика для покращення сну",
+      "type": "lifehack",
+      "category": "biohacking",
+      "angle": "Mouth taping — один із найпопулярніших біохаків 2025–2026. Гіпотеза: носове дихання під час сну покращує оксигенацію, знижує хропіння, підтримує вологість. Доказова база: RCT Lee 2022 (n=30) показав зниження AHI при легкому апное, Sano 2022 (n=30) — зменшення хропіння. Однак систематичних оглядів немає, вибірки мінімальні. Ризики: паніка при закладеному носі, протипоказано при ОАС середнього/тяжкого ступеня (вже розглянули в статті про апное 16.04). Практичний висновок: при хропінні без діагностованого апное — можна спробувати обережно, але спершу виключити ОАС через STOP-BANG",
+      "sources_hint": "Lee et al. 2022 RCT mouth taping (Healthcare journal), Sano et al. 2022 lip taping and snoring, Dillard 2023 AASM commentary on mouth taping safety, Nestor 2020 'Breath' book (popular source), systematic reviews on nasal vs oral breathing during sleep, cross-reference with previous OSA article (16.04) for safety warnings",
+      "evidence_level": "preliminary",
+      "priority": 3
+    }
+  ],
+  "date": "2026-04-20",
+  "created_at": "2026-04-20T03:03:02.158079+00:00"
+}

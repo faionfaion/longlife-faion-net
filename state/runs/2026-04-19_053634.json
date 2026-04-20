@@ -1,0 +1,296 @@
+{
+  "timestamp": "2026-04-19_053634",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "antybiotykorezystentnist-ukraine-amr-samolikusvannia-zagrozy, purpose-in-life-ikigai-mortality-meta-analysis, glymphatic-system-brain-clearance-sleep-research, expressive-writing-pennebaker-trauma-immune-mental-health, osteoporoz-pislia-35-kistkova-shchilnist-frax-dexa-sylovyi-trening",
+  "author": "LongLife Media",
+  "duration_s": 9212.4,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 415.8,
+      "error": null
+    },
+    {
+      "name": "research:Вакцина проти РСВ при вагітнос",
+      "status": "failed",
+      "duration_s": 934.7,
+      "error": "agent_query timed out after 300s"
+    },
+    {
+      "name": "research:Антибіотикорезистентність в Ук",
+      "status": "ok",
+      "duration_s": 264.9,
+      "error": null
+    },
+    {
+      "name": "generate:Антибіотикорезистентність в Ук",
+      "status": "ok",
+      "duration_s": 93.1,
+      "error": null
+    },
+    {
+      "name": "review:Антибіотикорезистентність в Ук",
+      "status": "ok",
+      "duration_s": 442.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Антибіотикорезистентність в Ук",
+      "status": "ok",
+      "duration_s": 29.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Антибіотикорезистентність в Ук",
+      "status": "ok",
+      "duration_s": 17.0,
+      "error": null
+    },
+    {
+      "name": "save:Антибіотикорезистентність в Ук",
+      "status": "ok",
+      "duration_s": 71.0,
+      "error": null
+    },
+    {
+      "name": "research:Сенс життя як ліки від смерті:",
+      "status": "ok",
+      "duration_s": 531.4,
+      "error": null
+    },
+    {
+      "name": "generate:Сенс життя як ліки від смерті:",
+      "status": "ok",
+      "duration_s": 175.7,
+      "error": null
+    },
+    {
+      "name": "review:Сенс життя як ліки від смерті:",
+      "status": "ok",
+      "duration_s": 467.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Сенс життя як ліки від смерті:",
+      "status": "ok",
+      "duration_s": 29.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Сенс життя як ліки від смерті:",
+      "status": "ok",
+      "duration_s": 13.6,
+      "error": null
+    },
+    {
+      "name": "save:Сенс життя як ліки від смерті:",
+      "status": "ok",
+      "duration_s": 76.6,
+      "error": null
+    },
+    {
+      "name": "research:Глімфатична система: як мозок ",
+      "status": "ok",
+      "duration_s": 575.9,
+      "error": null
+    },
+    {
+      "name": "generate:Глімфатична система: як мозок ",
+      "status": "ok",
+      "duration_s": 91.9,
+      "error": null
+    },
+    {
+      "name": "review:Глімфатична система: як мозок ",
+      "status": "ok",
+      "duration_s": 300.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Глімфатична система: як мозок ",
+      "status": "ok",
+      "duration_s": 29.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Глімфатична система: як мозок ",
+      "status": "ok",
+      "duration_s": 15.9,
+      "error": null
+    },
+    {
+      "name": "save:Глімфатична система: як мозок ",
+      "status": "ok",
+      "duration_s": 68.3,
+      "error": null
+    },
+    {
+      "name": "research:Експресивне письмо (метод Пенн",
+      "status": "ok",
+      "duration_s": 297.0,
+      "error": null
+    },
+    {
+      "name": "generate:Експресивне письмо (метод Пенн",
+      "status": "ok",
+      "duration_s": 54.3,
+      "error": null
+    },
+    {
+      "name": "review:Експресивне письмо (метод Пенн",
+      "status": "ok",
+      "duration_s": 202.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Експресивне письмо (метод Пенн",
+      "status": "ok",
+      "duration_s": 29.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Експресивне письмо (метод Пенн",
+      "status": "ok",
+      "duration_s": 11.9,
+      "error": null
+    },
+    {
+      "name": "save:Експресивне письмо (метод Пенн",
+      "status": "ok",
+      "duration_s": 73.8,
+      "error": null
+    },
+    {
+      "name": "research:Кістки після 35: чому остеопор",
+      "status": "ok",
+      "duration_s": 286.9,
+      "error": null
+    },
+    {
+      "name": "generate:Кістки після 35: чому остеопор",
+      "status": "ok",
+      "duration_s": 142.9,
+      "error": null
+    },
+    {
+      "name": "review:Кістки після 35: чому остеопор",
+      "status": "ok",
+      "duration_s": 513.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Кістки після 35: чому остеопор",
+      "status": "ok",
+      "duration_s": 31.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Кістки після 35: чому остеопор",
+      "status": "ok",
+      "duration_s": 13.9,
+      "error": null
+    },
+    {
+      "name": "save:Кістки після 35: чому остеопор",
+      "status": "ok",
+      "duration_s": 67.7,
+      "error": null
+    },
+    {
+      "name": "research:Резистентний крохмаль: чому вч",
+      "status": "ok",
+      "duration_s": 261.1,
+      "error": null
+    },
+    {
+      "name": "generate:Резистентний крохмаль: чому вч",
+      "status": "ok",
+      "duration_s": 130.3,
+      "error": null
+    },
+    {
+      "name": "review:Резистентний крохмаль: чому вч",
+      "status": "ok",
+      "duration_s": 365.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Резистентний крохмаль: чому вч",
+      "status": "ok",
+      "duration_s": 25.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Резистентний крохмаль: чому вч",
+      "status": "ok",
+      "duration_s": 12.0,
+      "error": null
+    },
+    {
+      "name": "save:Резистентний крохмаль: чому вч",
+      "status": "ok",
+      "duration_s": 64.6,
+      "error": null
+    },
+    {
+      "name": "research:Тестостерон після 40 без ін'єк",
+      "status": "ok",
+      "duration_s": 257.1,
+      "error": null
+    },
+    {
+      "name": "generate:Тестостерон після 40 без ін'єк",
+      "status": "ok",
+      "duration_s": 234.3,
+      "error": null
+    },
+    {
+      "name": "review:Тестостерон після 40 без ін'єк",
+      "status": "ok",
+      "duration_s": 437.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Тестостерон після 40 без ін'єк",
+      "status": "ok",
+      "duration_s": 26.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Тестостерон після 40 без ін'єк",
+      "status": "ok",
+      "duration_s": 15.5,
+      "error": null
+    },
+    {
+      "name": "save:Тестостерон після 40 без ін'єк",
+      "status": "ok",
+      "duration_s": 75.4,
+      "error": null
+    },
+    {
+      "name": "research:Баланс і пропріоцепція: чому т",
+      "status": "failed",
+      "duration_s": 934.0,
+      "error": "agent_query timed out after 300s"
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.7,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

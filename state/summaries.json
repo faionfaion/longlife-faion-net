@@ -684,5 +684,21 @@
       "добавки"
     ],
     "summary": "Стаття розбирає доказову базу для природного підтримання рівня тестостерону після 40. Найсильніші важелі: нормалізація ваги (мета-аналіз 24 досліджень: +2,87–8,73 нмоль/л), сон ≥7 годин (обмеження до 5 годин знижує Т на 10–15%), вітамін D при дефіциті (+25% у РКД Pilz 2011), цинк при дефіциті. Трибулус не працює (0/4 РКД), D-аспартат має суперечливі дані, вплив тренувань на рівень тестостерону в спокої мінімальний (мета-аналіз Potter 2021: SMD 0,00), але тренування допомагають опосередковано через зниження жиру. Ашваганда та фенугрек мають попередні позитивні дані, але потребують більших досліджень. Рівень доказовості — помірний (є сильні мета-аналізи для ваги та сну, але для добавок — переважно попередні дані)."
+  },
+  "rsv-vaccine-pregnancy-abrysvo-infant-hospitalization": {
+    "date": "2026-04-20",
+    "title": "Вакцина проти RSV під час вагітності знижує госпіталізацію немовлят на 80%: що відомо про Abrysvo",
+    "type": "research",
+    "tags": [
+      "вакцинація",
+      "RSV",
+      "вагітність",
+      "немовлята",
+      "профілактика",
+      "дослідження",
+      "бронхіоліт",
+      "ВООЗ"
+    ],
+    "summary": "Maternal RSV vaccine Abrysvo (Pfizer) shows ~80% effectiveness against infant RSV hospitalization, confirmed by both the pivotal MATISSE RCT (NEJM 2023, n=7,358, 82.4% VE at 90 days) and large real-world studies from England (289,399 infants, 81.3% VE), Scotland (27,565 infants, 82.2% VE), and Argentina (505 infants, 78.6% VE). Safety concern about preterm birth signal from clinical trials (5.7% vs 4.7%) was not confirmed in large post-marketing studies (JAMA 2026, 54,011 pregnancies). WHO recommends vaccination from week 28; FDA and EMA differ on gestational window. Abrysvo is not registered in Ukraine as of April 2026 but received WHO prequalification in March 2025. Evidence level: strong."
   }
 }
