@@ -765,5 +765,21 @@
       "когнітивно-поведінкова терапія"
     ],
     "summary": "Perimenopause (2–10 years before menopause) produces symptoms women rarely link to hormones: brain fog (SWAN study — transient 2–5% cognitive decline), insomnia (31–42%), new-onset anxiety (18–33%), joint pain (>70%), and palpitations (up to 42%). The WHI 18-year follow-up (Manson, JAMA 2017, n=27,347) debunked 2002 HRT panic: no excess all-cause mortality, and women 50–59 starting HRT early had 30% lower mortality during intervention. NICE 2024 recommends HRT as first-line for vasomotor symptoms and CBT as an evidence-based non-hormonal alternative (6 RCTs, d=0.56–1.01). The Lancet 2024 menopause series identified major evidence gaps. Ukraine lacks national menopause guidelines. Evidence level: strong (Cochrane review, large RCTs, national guidelines)."
+  },
+  "daytime-nap-duration-sleep-stages-guide": {
+    "date": "2026-04-20",
+    "title": "Наука денного сну: 10, 20 чи 90 хвилин — як обрати тривалість, щоб прокинутись розумнішим, а не розбитим",
+    "type": "guide",
+    "tags": [
+      "сон",
+      "денний сон",
+      "napping",
+      "інерція сну",
+      "циркадні ритми",
+      "когнітивні функції",
+      "пильність",
+      "стадії сну"
+    ],
+    "summary": "Стаття систематизує наукові дані про оптимальну тривалість денного сну. Ключове дослідження Brooks & Lack (2006, Sleep) показало, що 10-хвилинний nap дає найшвидший ефект без інерції сну, тоді як 30-хвилинний спричиняє тимчасове погіршення через вхід у глибокий сон (N3/SWS). Дослідження NASA (Rosekind, 1994) продемонструвало, що ~26-хвилинний сон покращує пильність пілотів на 54%. Мета-аналіз Dutheil (2021, 11 досліджень) підтвердив значуще покращення когнітивних функцій після денного сну. Мета-аналіз Wang (2024) показав, що лише звичний сон ≥60 хв асоціюється з підвищеним серцево-судинним ризиком. Практична порада: nap 10–20 хвилин між 13:00 та 15:00. Доказова база — помірна (кілька РКД та мета-аналізів, переважно з невеликими вибірками)."
   }
 }

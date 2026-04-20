@@ -8831,3 +8831,83 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-20 04:27:04 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/perymenopauza-pislia-40-symptomy-hormony-zgt-doslidzhennia.jpg (199 KB)
 04:27:04 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/perymenopauza-pislia-40-symptomy-hormony-zgt-doslidzhennia.md
 2026-04-20 04:27:04 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/perymenopauza-pislia-40-symptomy-hormony-zgt-doslidzhennia.md
+04:27:04 [pipeline] INFO: Article ready: perymenopauza-pislia-40-symptomy-hormony-zgt-doslidzhennia (Перименопауза після 40: 5 симптомів, які жінки рід)
+2026-04-20 04:27:04 [pipeline] INFO: Article ready: perymenopauza-pislia-40-symptomy-hormony-zgt-doslidzhennia (Перименопауза після 40: 5 симптомів, які жінки рід)
+04:27:04 [pipeline] INFO: === Article 6/9 ===
+2026-04-20 04:27:04 [pipeline] INFO: === Article 6/9 ===
+04:27:04 [pipeline] INFO: --- Article: [guide] Наука денного сну: 10, 20 чи 90 хвилин — як обрати триваліст ---
+2026-04-20 04:27:04 [pipeline] INFO: --- Article: [guide] Наука денного сну: 10, 20 чи 90 хвилин — як обрати триваліст ---
+04:27:04 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 04:27:04 [asyncio] DEBUG: Using selector: EpollSelector
+04:27:04 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 04:27:04 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:31:34 [pipeline.stages.s2_research] INFO: Research complete: 19061 chars
+2026-04-20 04:31:34 [pipeline.stages.s2_research] INFO: Research complete: 19061 chars
+04:31:34 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 04:31:34 [asyncio] DEBUG: Using selector: EpollSelector
+04:31:34 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 04:31:34 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:33:58 [pipeline.stages.s3_generate] INFO: Generated: 'Наука денного сну: 10, 20 чи 90 хвилин — як обрати тривалість, щоб прокинутись розумнішим, а не розбитим' (slug=daytime-nap-duration-sleep-stages-guide, 1434 words, 11 sources)
+2026-04-20 04:33:58 [pipeline.stages.s3_generate] INFO: Generated: 'Наука денного сну: 10, 20 чи 90 хвилин — як обрати тривалість, щоб прокинутись розумнішим, а не розбитим' (slug=daytime-nap-duration-sleep-stages-guide, 1434 words, 11 sources)
+04:33:58 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 04:33:58 [asyncio] DEBUG: Using selector: EpollSelector
+04:33:58 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 04:33:58 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:35:27 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-20 04:35:27 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+04:35:27 [pipeline.stages.s4_review] INFO: Feedback: Стаття науково ґрунтовна, джерела підтверджені, обмеження досліджень чесно висвітлені. Кілька дрібних зауважень для фінального шліфування:
+
+1. **Граматична помилка:** «Короткий нагадування» → «Коротке
+2026-04-20 04:35:27 [pipeline.stages.s4_review] INFO: Feedback: Стаття науково ґрунтовна, джерела підтверджені, обмеження досліджень чесно висвітлені. Кілька дрібних зауважень для фінального шліфування:
+
+1. **Граматична помилка:** «Короткий нагадування» → «Коротке
+04:35:27 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 04:35:27 [asyncio] DEBUG: Using selector: EpollSelector
+04:35:27 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 04:35:27 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:38:01 [pipeline.stages.s5_revise] INFO: Revised article: 1487 words
+2026-04-20 04:38:01 [pipeline.stages.s5_revise] INFO: Revised article: 1487 words
+04:38:01 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-20 04:38:01 [pipeline] INFO: === Review cycle 1/3 complete ===
+04:38:01 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 04:38:01 [asyncio] DEBUG: Using selector: EpollSelector
+04:38:01 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 04:38:01 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:39:35 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-20 04:39:35 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+04:39:35 [pipeline.stages.s4_review] INFO: Feedback: Відмінний матеріал з високим рівнем доказовості та збалансованим подачею. Кілька незначних зауважень для фінального шліфування:
+
+1. **Неповний список джерел.** У блоці  відсутні два джерела, які цитую
+2026-04-20 04:39:35 [pipeline.stages.s4_review] INFO: Feedback: Відмінний матеріал з високим рівнем доказовості та збалансованим подачею. Кілька незначних зауважень для фінального шліфування:
+
+1. **Неповний список джерел.** У блоці  відсутні два джерела, які цитую
+04:39:35 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-20 04:39:35 [pipeline] INFO: Article approved after 1 revision(s)
+04:39:35 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 04:39:35 [asyncio] DEBUG: Using selector: EpollSelector
+04:39:35 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 04:39:35 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:40:08 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita sits on the edge of a modern sage-colored sofa in a sun | pose=Seated on sofa edge, torso twisted slightly toward viewer, left wrist raised confidently to show smartwatch timer, right hand extended palm-up gesturing toward the floating infographic behind her. Legs crossed at ankles, leaning forward with energetic posture — she looks refreshed and alert, not groggy. | expression=Encouraging look — slight head tilt to the right, warm soft eyes with a knowing spark, a bright reassuring smile as if sharing a secret life hack with a friend. One eyebrow slightly raised in a teaching manner. | props=Fitness smartwatch on left wrist (black band, green accents) displaying '20 min' timer, Emerald-green throw blanket draped over sofa arm, Floating infographic with three clock icons (10, 20, 90 min) and sleep-stage wave diagrams, Small green sleep mask pushed up onto forehead like sunglasses, Glass of water on side table
+2026-04-20 04:40:08 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita sits on the edge of a modern sage-colored sofa in a sun | pose=Seated on sofa edge, torso twisted slightly toward viewer, left wrist raised confidently to show smartwatch timer, right hand extended palm-up gesturing toward the floating infographic behind her. Legs crossed at ankles, leaning forward with energetic posture — she looks refreshed and alert, not groggy. | expression=Encouraging look — slight head tilt to the right, warm soft eyes with a knowing spark, a bright reassuring smile as if sharing a secret life hack with a friend. One eyebrow slightly raised in a teaching manner. | props=Fitness smartwatch on left wrist (black band, green accents) displaying '20 min' timer, Emerald-green throw blanket draped over sofa arm, Floating infographic with three clock icons (10, 20, 90 min) and sleep-stage wave diagrams, Small green sleep mask pushed up onto forehead like sunglasses, Glass of water on side table
+04:40:08 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 04:40:08 [asyncio] DEBUG: Using selector: EpollSelector
+04:40:08 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 04:40:08 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:40:25 [pipeline.stages.s6_generate_tg] INFO: TG caption: 701 chars
+2026-04-20 04:40:25 [pipeline.stages.s6_generate_tg] INFO: TG caption: 701 chars
+04:40:25 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-20 04:40:25 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:41:35 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-20 04:41:35 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+04:41:36 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-20 04:41:36 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+04:41:36 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 26418
+2026-04-20 04:41:36 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 26418
+04:41:36 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 26418 (unknown)
+2026-04-20 04:41:36 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 26418 (unknown)
+04:41:36 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 26471 2758264
+2026-04-20 04:41:36 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 26471 2758264
+04:41:36 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/daytime-nap-duration-sleep-stages-guide.jpg (172 KB)
+2026-04-20 04:41:36 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/daytime-nap-duration-sleep-stages-guide.jpg (172 KB)
+04:41:36 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/daytime-nap-duration-sleep-stages-guide.md
+2026-04-20 04:41:36 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/daytime-nap-duration-sleep-stages-guide.md
