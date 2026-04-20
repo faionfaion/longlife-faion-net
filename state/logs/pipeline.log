@@ -8751,3 +8751,83 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-20 04:14:24 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/parodontyt-sertse-zapalennia-yasen-sertsevo-sudynnyj-ryzyk.jpg (202 KB)
 04:14:24 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/parodontyt-sertse-zapalennia-yasen-sertsevo-sudynnyj-ryzyk.md
 2026-04-20 04:14:24 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/parodontyt-sertse-zapalennia-yasen-sertsevo-sudynnyj-ryzyk.md
+04:14:24 [pipeline] INFO: Article ready: parodontyt-sertse-zapalennia-yasen-sertsevo-sudynnyj-ryzyk (Пародонтит і серце: як запалення ясен пов'язане з )
+2026-04-20 04:14:24 [pipeline] INFO: Article ready: parodontyt-sertse-zapalennia-yasen-sertsevo-sudynnyj-ryzyk (Пародонтит і серце: як запалення ясен пов'язане з )
+04:14:24 [pipeline] INFO: === Article 5/9 ===
+2026-04-20 04:14:24 [pipeline] INFO: === Article 5/9 ===
+04:14:24 [pipeline] INFO: --- Article: [research] Перименопауза після 40: 5 симптомів, які жінки не пов'язують ---
+2026-04-20 04:14:24 [pipeline] INFO: --- Article: [research] Перименопауза після 40: 5 симптомів, які жінки не пов'язують ---
+04:14:24 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 04:14:24 [asyncio] DEBUG: Using selector: EpollSelector
+04:14:24 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 04:14:24 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:18:45 [pipeline.stages.s2_research] INFO: Research complete: 19675 chars
+2026-04-20 04:18:45 [pipeline.stages.s2_research] INFO: Research complete: 19675 chars
+04:18:45 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 04:18:45 [asyncio] DEBUG: Using selector: EpollSelector
+04:18:45 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 04:18:45 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:20:13 [pipeline.stages.s3_generate] INFO: Generated: 'Перименопауза після 40: 5 симптомів, які жінки рідко пов'язують із гормонами, та що кажуть найновіші дослідження' (slug=perymenopauza-pislia-40-symptomy-hormony-zgt-doslidzhennia, 698 words, 10 sources)
+2026-04-20 04:20:13 [pipeline.stages.s3_generate] INFO: Generated: 'Перименопауза після 40: 5 симптомів, які жінки рідко пов'язують із гормонами, та що кажуть найновіші дослідження' (slug=perymenopauza-pislia-40-symptomy-hormony-zgt-doslidzhennia, 698 words, 10 sources)
+04:20:13 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 04:20:13 [asyncio] DEBUG: Using selector: EpollSelector
+04:20:13 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 04:20:13 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:21:35 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+2026-04-20 04:21:35 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+04:21:35 [pipeline.stages.s4_review] INFO: Feedback: Загалом сильна, добре структурована стаття з якісною доказовою базою. Потребує кількох конкретних виправлень перед публікацією:
+
+1. **Непідкріплена статистика (18–33% панічних епізодів, секція 3):** Ц
+2026-04-20 04:21:35 [pipeline.stages.s4_review] INFO: Feedback: Загалом сильна, добре структурована стаття з якісною доказовою базою. Потребує кількох конкретних виправлень перед публікацією:
+
+1. **Непідкріплена статистика (18–33% панічних епізодів, секція 3):** Ц
+04:21:35 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 04:21:35 [asyncio] DEBUG: Using selector: EpollSelector
+04:21:35 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 04:21:35 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:23:52 [pipeline.stages.s5_revise] INFO: Revised article: 793 words
+2026-04-20 04:23:52 [pipeline.stages.s5_revise] INFO: Revised article: 793 words
+04:23:52 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-20 04:23:52 [pipeline] INFO: === Review cycle 1/3 complete ===
+04:23:52 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 04:23:52 [asyncio] DEBUG: Using selector: EpollSelector
+04:23:52 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 04:23:52 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:25:15 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-20 04:25:15 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+04:25:15 [pipeline.stages.s4_review] INFO: Feedback: Дуже якісна стаття з точною інтерпретацією досліджень та збалансованим подаванням ризиків. Кілька дрібних зауважень:
+
+1. **Категорія порожня** — потрібно вказати (напр., «жіноче здоров'я», «гормони», 
+2026-04-20 04:25:15 [pipeline.stages.s4_review] INFO: Feedback: Дуже якісна стаття з точною інтерпретацією досліджень та збалансованим подаванням ризиків. Кілька дрібних зауважень:
+
+1. **Категорія порожня** — потрібно вказати (напр., «жіноче здоров'я», «гормони», 
+04:25:15 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-20 04:25:15 [pipeline] INFO: Article approved after 1 revision(s)
+04:25:15 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 04:25:15 [asyncio] DEBUG: Using selector: EpollSelector
+04:25:15 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 04:25:15 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:25:45 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita sits on the edge of a desk in a modern women's health r | pose=Seated on the edge of a sleek white desk, left leg crossed over right, left hand holding a tablet angled toward the viewer showing an estrogen fluctuation graph, right hand extended palm-up toward the holographic brain illustration beside her. Torso slightly turned, dynamic and engaged — a teaching moment, not a static portrait. | expression=Encouraging look — slight head tilt to the right, softer warm green eyes, a reassuring half-smile as if saying 'this is normal and it will pass', one eyebrow slightly raised in an explaining-teaching manner. | props=Tablet displaying estrogen and progesterone fluctuation chart with labeled axes, Translucent holographic brain illustration with highlighted temporal lobe, Reading glasses pushed up on top of her head, Fitness smartwatch on left wrist with black band and green accents, A lavender-and-chamomile tea in a clear glass mug on the desk beside her
+2026-04-20 04:25:45 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita sits on the edge of a desk in a modern women's health r | pose=Seated on the edge of a sleek white desk, left leg crossed over right, left hand holding a tablet angled toward the viewer showing an estrogen fluctuation graph, right hand extended palm-up toward the holographic brain illustration beside her. Torso slightly turned, dynamic and engaged — a teaching moment, not a static portrait. | expression=Encouraging look — slight head tilt to the right, softer warm green eyes, a reassuring half-smile as if saying 'this is normal and it will pass', one eyebrow slightly raised in an explaining-teaching manner. | props=Tablet displaying estrogen and progesterone fluctuation chart with labeled axes, Translucent holographic brain illustration with highlighted temporal lobe, Reading glasses pushed up on top of her head, Fitness smartwatch on left wrist with black band and green accents, A lavender-and-chamomile tea in a clear glass mug on the desk beside her
+04:25:45 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 04:25:45 [asyncio] DEBUG: Using selector: EpollSelector
+04:25:45 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 04:25:45 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:25:57 [pipeline.stages.s6_generate_tg] INFO: TG caption: 649 chars
+2026-04-20 04:25:57 [pipeline.stages.s6_generate_tg] INFO: TG caption: 649 chars
+04:25:57 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-20 04:25:57 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:27:02 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-20 04:27:02 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+04:27:03 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-20 04:27:03 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+04:27:03 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 23628
+2026-04-20 04:27:03 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 23628
+04:27:03 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 23628 (unknown)
+2026-04-20 04:27:03 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 23628 (unknown)
+04:27:03 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 23681 3025115
+2026-04-20 04:27:03 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 23681 3025115
+04:27:04 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/perymenopauza-pislia-40-symptomy-hormony-zgt-doslidzhennia.jpg (199 KB)
+2026-04-20 04:27:04 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/perymenopauza-pislia-40-symptomy-hormony-zgt-doslidzhennia.jpg (199 KB)
+04:27:04 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/perymenopauza-pislia-40-symptomy-hormony-zgt-doslidzhennia.md
+2026-04-20 04:27:04 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/perymenopauza-pislia-40-symptomy-hormony-zgt-doslidzhennia.md
