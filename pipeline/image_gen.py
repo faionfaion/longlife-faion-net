@@ -95,7 +95,12 @@ def build_comic_prompt(scene_prompt: str) -> str:
     )
 
 
-def generate_image(prompt: str, slug: str, comic_mode: bool = False) -> Path | None:
+def generate_image(
+    prompt: str,
+    slug: str,
+    comic_mode: bool = False,
+    quality: str = "auto",
+) -> Path | None:
     """Generate an illustration and save to images dir.
 
     Args:
@@ -103,6 +108,7 @@ def generate_image(prompt: str, slug: str, comic_mode: bool = False) -> Path | N
                 include character description from s_comic_scene stage.
         slug: Article slug for filename.
         comic_mode: If True, use comic style prefix instead of wellness style.
+        quality: gpt-image-1 quality — "auto" (~$0.063), "low" (~$0.016), "high" (~$0.25).
 
     Returns:
         Path to saved image, or None on failure.
@@ -129,8 +135,9 @@ def generate_image(prompt: str, slug: str, comic_mode: bool = False) -> Path | N
                 "prompt": full_prompt,
                 "n": 1,
                 "size": "1536x1024",  # landscape for article headers
+                "quality": quality,
             },
-            timeout=120,
+            timeout=180,
         )
         resp.raise_for_status()
         data = resp.json()
@@ -166,7 +173,7 @@ def generate_image(prompt: str, slug: str, comic_mode: bool = False) -> Path | N
             out_path = IMAGES_DIR / f"{slug}.png"
             out_path.write_bytes(img_bytes)
 
-        logger.info("Image saved: %s (%d KB)", out_path, out_path.stat().st_size // 1024)
+        logger.info("Image saved: %s (%d KB, quality=%s)", out_path, out_path.stat().st_size // 1024, quality)
         return out_path
 
     except requests.exceptions.HTTPError as e:
