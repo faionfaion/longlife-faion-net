@@ -8489,3 +8489,85 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-20 03:21:56 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/rsv-vaccine-pregnancy-abrysvo-infant-hospitalization.jpg (207 KB)
 03:21:56 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/rsv-vaccine-pregnancy-abrysvo-infant-hospitalization.md
 2026-04-20 03:21:56 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/rsv-vaccine-pregnancy-abrysvo-infant-hospitalization.md
+03:21:56 [pipeline] INFO: Article ready: rsv-vaccine-pregnancy-abrysvo-infant-hospitalization (Вакцина проти RSV під час вагітності знижує госпіт)
+2026-04-20 03:21:56 [pipeline] INFO: Article ready: rsv-vaccine-pregnancy-abrysvo-infant-hospitalization (Вакцина проти RSV під час вагітності знижує госпіт)
+03:21:56 [pipeline] INFO: === Article 2/9 ===
+2026-04-20 03:21:56 [pipeline] INFO: === Article 2/9 ===
+03:21:56 [pipeline] INFO: --- Article: [guide] Квітнева алергія в Україні: чому цього тижня піки берези та  ---
+2026-04-20 03:21:56 [pipeline] INFO: --- Article: [guide] Квітнева алергія в Україні: чому цього тижня піки берези та  ---
+03:21:56 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 03:21:56 [asyncio] DEBUG: Using selector: EpollSelector
+03:21:56 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 03:21:56 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:26:12 [pipeline.stages.s2_research] INFO: Research complete: 17197 chars
+2026-04-20 03:26:12 [pipeline.stages.s2_research] INFO: Research complete: 17197 chars
+03:26:12 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 03:26:12 [asyncio] DEBUG: Using selector: EpollSelector
+03:26:12 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 03:26:12 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:28:30 [pipeline.stages.s3_generate] INFO: Generated: 'Квітнева алергія в Україні: пік берези й вільхи та як зменшити симптоми без сонливості' (slug=kvitneva-alerhiia-ukraina-bereza-vilkha-aria-likuvannia, 1291 words, 12 sources)
+2026-04-20 03:28:30 [pipeline.stages.s3_generate] INFO: Generated: 'Квітнева алергія в Україні: пік берези й вільхи та як зменшити симптоми без сонливості' (slug=kvitneva-alerhiia-ukraina-bereza-vilkha-aria-likuvannia, 1291 words, 12 sources)
+03:28:30 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 03:28:30 [asyncio] DEBUG: Using selector: EpollSelector
+03:28:30 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 03:28:30 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:30:20 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+2026-04-20 03:30:20 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+03:30:20 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом якісна, добре проджерелена та збалансована. Однак є кілька проблем, які потребують виправлення перед публікацією:
+
+**КРИТИЧНЕ (здоров'я/безпека):**
+1. **Помилка в рецепті сольового розч
+2026-04-20 03:30:20 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом якісна, добре проджерелена та збалансована. Однак є кілька проблем, які потребують виправлення перед публікацією:
+
+**КРИТИЧНЕ (здоров'я/безпека):**
+1. **Помилка в рецепті сольового розч
+03:30:20 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 03:30:20 [asyncio] DEBUG: Using selector: EpollSelector
+03:30:20 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 03:30:20 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:32:40 [pipeline.stages.s5_revise] INFO: Revised article: 1370 words
+2026-04-20 03:32:40 [pipeline.stages.s5_revise] INFO: Revised article: 1370 words
+03:32:40 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-20 03:32:40 [pipeline] INFO: === Review cycle 1/3 complete ===
+03:32:40 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 03:32:40 [asyncio] DEBUG: Using selector: EpollSelector
+03:32:40 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 03:32:40 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:34:06 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-20 03:34:06 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+03:34:06 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом сильна: ієрархія доказів вибудувана коректно, обмеження досліджень чесно зазначені, тон збалансований. Перед публікацією потрібно виправити такі моменти:
+
+1. **Зламане посилання на Matr
+2026-04-20 03:34:06 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом сильна: ієрархія доказів вибудувана коректно, обмеження досліджень чесно зазначені, тон збалансований. Перед публікацією потрібно виправити такі моменти:
+
+1. **Зламане посилання на Matr
+03:34:06 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-20 03:34:06 [pipeline] INFO: Article approved after 1 revision(s)
+03:34:06 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 03:34:06 [asyncio] DEBUG: Using selector: EpollSelector
+03:34:06 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 03:34:06 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:34:48 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a sunlit Ukrainian spring park beneath a bloo | pose=Standing in a confident presenting stance — left hand raised holding a smartphone at chest height (screen facing viewer showing a pollen count graph with a sharp peak), right hand extended outward with index finger pointing toward a small floating visual element (apple + birch leaf cross-reactivity icon). Weight shifted to her left leg, slight forward lean, athletic and engaged. Hair in a long braid draped over her left shoulder, a few loose blonde strands catching the breeze. | expression=Explaining and teaching — one eyebrow slightly raised, engaged green eyes looking directly at the viewer, a knowing half-smile as if sharing an important secret. Warm, approachable, confident. | props=Smartphone on left hand showing pollen forecast chart with red peak line labeled 'Береза', Small basket of fresh red apples and cherries sitting on the park bench behind her, one apple with a subtle warning symbol overlay, Fitness smartwatch on left wrist with black band and green accents, Floating infographic element: birch catkin icon linked by arrows to apple, cherry, and carrot icons — illustrating cross-reactivity
+2026-04-20 03:34:48 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a sunlit Ukrainian spring park beneath a bloo | pose=Standing in a confident presenting stance — left hand raised holding a smartphone at chest height (screen facing viewer showing a pollen count graph with a sharp peak), right hand extended outward with index finger pointing toward a small floating visual element (apple + birch leaf cross-reactivity icon). Weight shifted to her left leg, slight forward lean, athletic and engaged. Hair in a long braid draped over her left shoulder, a few loose blonde strands catching the breeze. | expression=Explaining and teaching — one eyebrow slightly raised, engaged green eyes looking directly at the viewer, a knowing half-smile as if sharing an important secret. Warm, approachable, confident. | props=Smartphone on left hand showing pollen forecast chart with red peak line labeled 'Береза', Small basket of fresh red apples and cherries sitting on the park bench behind her, one apple with a subtle warning symbol overlay, Fitness smartwatch on left wrist with black band and green accents, Floating infographic element: birch catkin icon linked by arrows to apple, cherry, and carrot icons — illustrating cross-reactivity
+03:34:48 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 03:34:48 [asyncio] DEBUG: Using selector: EpollSelector
+03:34:48 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 03:34:48 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:35:05 [pipeline.stages.s6_generate_tg] INFO: TG caption: 681 chars
+2026-04-20 03:35:05 [pipeline.stages.s6_generate_tg] INFO: TG caption: 681 chars
+03:35:05 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-20 03:35:05 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:36:16 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-20 03:36:16 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+03:36:17 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-20 03:36:17 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+03:36:17 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 23624
+2026-04-20 03:36:17 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 23624
+03:36:17 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 23624 (unknown)
+2026-04-20 03:36:17 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 23624 (unknown)
+03:36:17 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 23677 3090844
+2026-04-20 03:36:17 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 23677 3090844
+03:36:17 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/kvitneva-alerhiia-ukraina-bereza-vilkha-aria-likuvannia.jpg (222 KB)
+2026-04-20 03:36:17 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/kvitneva-alerhiia-ukraina-bereza-vilkha-aria-likuvannia.jpg (222 KB)
+03:36:17 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/kvitneva-alerhiia-ukraina-bereza-vilkha-aria-likuvannia.md
+2026-04-20 03:36:17 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/kvitneva-alerhiia-ukraina-bereza-vilkha-aria-likuvannia.md
