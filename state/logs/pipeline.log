@@ -9079,3 +9079,83 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-20 05:15:13 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/shtuchni-pidsolodzhuvachi-vooz-meta-analiz-mikrobiom-rak.jpg (187 KB)
 05:15:13 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/shtuchni-pidsolodzhuvachi-vooz-meta-analiz-mikrobiom-rak.md
 2026-04-20 05:15:13 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/shtuchni-pidsolodzhuvachi-vooz-meta-analiz-mikrobiom-rak.md
+05:15:13 [pipeline] INFO: Article ready: shtuchni-pidsolodzhuvachi-vooz-meta-analiz-mikrobiom-rak (Некалорійні підсолоджувачі: чому ВООЗ не рекоменду)
+2026-04-20 05:15:13 [pipeline] INFO: Article ready: shtuchni-pidsolodzhuvachi-vooz-meta-analiz-mikrobiom-rak (Некалорійні підсолоджувачі: чому ВООЗ не рекоменду)
+05:15:13 [pipeline] INFO: === Article 9/9 ===
+2026-04-20 05:15:13 [pipeline] INFO: === Article 9/9 ===
+05:15:13 [pipeline] INFO: --- Article: [lifehack] Заклеювання рота на ніч: TikTok-тренд чи доказова практика д ---
+2026-04-20 05:15:13 [pipeline] INFO: --- Article: [lifehack] Заклеювання рота на ніч: TikTok-тренд чи доказова практика д ---
+05:15:13 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 05:15:13 [asyncio] DEBUG: Using selector: EpollSelector
+05:15:13 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 05:15:13 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:19:35 [pipeline.stages.s2_research] INFO: Research complete: 17376 chars
+2026-04-20 05:19:35 [pipeline.stages.s2_research] INFO: Research complete: 17376 chars
+05:19:35 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 05:19:35 [asyncio] DEBUG: Using selector: EpollSelector
+05:19:35 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 05:19:35 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:20:54 [pipeline.stages.s3_generate] INFO: Generated: 'Заклеювання рота на ніч: що каже наука про TikTok-тренд для покращення сну' (slug=mouth-taping-son-khropinnia-dokazy-ryzyky, 359 words, 8 sources)
+2026-04-20 05:20:54 [pipeline.stages.s3_generate] INFO: Generated: 'Заклеювання рота на ніч: що каже наука про TikTok-тренд для покращення сну' (slug=mouth-taping-son-khropinnia-dokazy-ryzyky, 359 words, 8 sources)
+05:20:54 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 05:20:54 [asyncio] DEBUG: Using selector: EpollSelector
+05:20:54 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 05:20:54 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:21:55 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-20 05:21:55 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+05:21:55 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом якісна, збалансована і науково коректна. Кілька дрібних зауважень перед публікацією:
+
+1. **«Шкала Newcastle-Ottawa»** — потребує пояснення для читача. Додайте в дужках: «(стандартна шка
+2026-04-20 05:21:55 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом якісна, збалансована і науково коректна. Кілька дрібних зауважень перед публікацією:
+
+1. **«Шкала Newcastle-Ottawa»** — потребує пояснення для читача. Додайте в дужках: «(стандартна шка
+05:21:55 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 05:21:55 [asyncio] DEBUG: Using selector: EpollSelector
+05:21:55 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 05:21:55 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:23:19 [pipeline.stages.s5_revise] INFO: Revised article: 441 words
+2026-04-20 05:23:19 [pipeline.stages.s5_revise] INFO: Revised article: 441 words
+05:23:19 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-20 05:23:19 [pipeline] INFO: === Review cycle 1/3 complete ===
+05:23:19 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 05:23:19 [asyncio] DEBUG: Using selector: EpollSelector
+05:23:19 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 05:23:19 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:24:19 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-20 05:24:19 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+05:24:19 [pipeline.stages.s4_review] INFO: Feedback: Сильна, збалансована стаття з коректним представленням доказової бази. Кілька дрібних правок перед публікацією:
+
+1. **«Полісомнографія» — пояснити при першому вживанні.** Наприклад: «портативної поліс
+2026-04-20 05:24:19 [pipeline.stages.s4_review] INFO: Feedback: Сильна, збалансована стаття з коректним представленням доказової бази. Кілька дрібних правок перед публікацією:
+
+1. **«Полісомнографія» — пояснити при першому вживанні.** Наприклад: «портативної поліс
+05:24:19 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-20 05:24:19 [pipeline] INFO: Article approved after 1 revision(s)
+05:24:19 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 05:24:19 [asyncio] DEBUG: Using selector: EpollSelector
+05:24:19 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 05:24:19 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:24:48 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita sits on the edge of a cozy bed in sleepwear, holding a  | pose=Seated on the bed edge, legs crossed casually, left hand holding a small roll of medical-grade mouth tape slightly raised to show it, right hand gesturing toward the floating nose-airflow infographic beside her — a presenting-teaching pose with a slight lean forward, athletic posture even while relaxed. | expression=One eyebrow slightly raised with an engaged, explaining expression — a mix of curiosity and gentle skepticism, lips forming a knowing half-smile as if saying 'let me break this down for you.' | props=small roll of hypoallergenic medical mouth tape with green packaging, floating infographic showing a nose cross-section with NO (nitric oxide) molecules highlighted in bright green, phone on nightstand displaying a TikTok sleep video, sleep-tracking device on nightstand
+2026-04-20 05:24:48 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita sits on the edge of a cozy bed in sleepwear, holding a  | pose=Seated on the bed edge, legs crossed casually, left hand holding a small roll of medical-grade mouth tape slightly raised to show it, right hand gesturing toward the floating nose-airflow infographic beside her — a presenting-teaching pose with a slight lean forward, athletic posture even while relaxed. | expression=One eyebrow slightly raised with an engaged, explaining expression — a mix of curiosity and gentle skepticism, lips forming a knowing half-smile as if saying 'let me break this down for you.' | props=small roll of hypoallergenic medical mouth tape with green packaging, floating infographic showing a nose cross-section with NO (nitric oxide) molecules highlighted in bright green, phone on nightstand displaying a TikTok sleep video, sleep-tracking device on nightstand
+05:24:48 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-20 05:24:48 [asyncio] DEBUG: Using selector: EpollSelector
+05:24:48 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-20 05:24:48 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:25:04 [pipeline.stages.s6_generate_tg] INFO: TG caption: 662 chars
+2026-04-20 05:25:04 [pipeline.stages.s6_generate_tg] INFO: TG caption: 662 chars
+05:25:04 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-20 05:25:04 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+05:26:09 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-20 05:26:09 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+05:26:10 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-20 05:26:10 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+05:26:10 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 23628
+2026-04-20 05:26:10 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 23628
+05:26:10 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 23628 (unknown)
+2026-04-20 05:26:10 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 23628 (unknown)
+05:26:10 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 23681 3258238
+2026-04-20 05:26:10 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 23681 3258238
+05:26:10 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/mouth-taping-son-khropinnia-dokazy-ryzyky.jpg (192 KB)
+2026-04-20 05:26:10 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/mouth-taping-son-khropinnia-dokazy-ryzyky.jpg (192 KB)
+05:26:10 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/mouth-taping-son-khropinnia-dokazy-ryzyky.md
+2026-04-20 05:26:10 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/mouth-taping-son-khropinnia-dokazy-ryzyky.md

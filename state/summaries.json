@@ -813,5 +813,20 @@
       "цукор"
     ],
     "summary": "WHO issued a conditional recommendation against using non-sugar sweeteners (NSS) for weight control in 2023, based on evidence that NSS provide no consistent long-term weight loss benefit (Azad 2017 meta-analysis, 37 studies, n=406,910). However, the 12-month SWEET RCT (2025, n=341) showed modest benefit for weight maintenance (−1.6 kg). Key mechanistic evidence from Suez et al. (Cell 2022) demonstrates that saccharin and sucralose alter gut microbiome and impair glycemic responses in a personalized manner. The NutriNet-Santé cohort (Debras 2022, n=102,865) found a 13% higher cancer risk association with high NSS consumption, and IARC classified aspartame as Group 2B (possibly carcinogenic) while JECFA maintained the existing safe dose. ADA 2026 still supports short-term, moderate NSS use for people with type 2 diabetes. Overall evidence is moderate — observational and experimental data often conflict, and the practical advice is to reduce overall sweetness rather than simply substituting sugar with NSS."
+  },
+  "mouth-taping-son-khropinnia-dokazy-ryzyky": {
+    "date": "2026-04-20",
+    "title": "Заклеювання рота на ніч: що каже наука про TikTok-тренд для покращення сну",
+    "type": "lifehack",
+    "tags": [
+      "сон",
+      "біохакінг",
+      "хропіння",
+      "носове дихання",
+      "апное сну",
+      "STOP-BANG",
+      "дихання"
+    ],
+    "summary": "Mouth taping — popular biohack promoted on TikTok — has a sound physiological rationale (nasal breathing delivers nitric oxide to lungs), but extremely limited evidence. The only positive study (Lee 2022, n=20) was uncontrolled and short-term. A 2025 systematic review (Rhee, PLoS One) of 10 studies (213 total participants) concluded evidence does not support the practice for the general population. Yang 2024 (JAMA Otolaryngology) found airflow worsened in 22% of OSA patients with mouth closure. AASM considers the trend potentially dangerous. Practical conclusion: must screen with STOP-BANG first to exclude moderate/severe OSA; if only mild snoring with free nasal breathing, can try cautiously with porous tape. Evidence level: preliminary."
   }
 }
