@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-04-20_112408",
+  "status": "empty",
+  "dry_run": false,
+  "slug": "",
+  "author": "LongLife Media",
+  "duration_s": 2.7,
+  "image_generated": false,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}

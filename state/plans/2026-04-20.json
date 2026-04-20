@@ -80,6 +80,12 @@
       "sources_hint": "Lee et al. 2022 RCT mouth taping (Healthcare journal), Sano et al. 2022 lip taping and snoring, Dillard 2023 AASM commentary on mouth taping safety, Nestor 2020 'Breath' book (popular source), systematic reviews on nasal vs oral breathing during sleep, cross-reference with previous OSA article (16.04) for safety warnings",
       "evidence_level": "preliminary",
       "priority": 3
+    },
+    {
+      "topic": "Паттерни переїдання жирами: біохімія засвоєння жирів vs білків та вуглеводів, чому не можна повністю відмовлятись від жиру, і як непомітно набирати зайве",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Стаття розкриває три ключові аспекти, яких НЕ торкалась попередня стаття (zhyry-v-ratsioni-norma): 1) Поведінкові паттерни переїдання жирною їжею — когнітивні пастки (соуси, заправки, обжарювання, 'корисні' жири без міри), гедонічна гіпервідповідь на жир+сіль/цукор комбо. 2) Чому повна відмова від жирів шкідлива — дефіцит жиророзчинних вітамінів (A, D, E, K), гормональні порушення, проблеми зі шкірою, мозком, жовчним міхуром. 3) Біохімія засвоєння: ліпаза та жовч, швидкість перетравлення vs білок/вуглеводи, термічний ефект їжі (TEF: жир ~3%, білок ~30%, вуглеводи ~8%), чому жир довше тримає ситим але й ефективніше відкладається. Контекст: людина худне і не розуміє, що не так з тарілкою."
     }
   ],
   "date": "2026-04-20",

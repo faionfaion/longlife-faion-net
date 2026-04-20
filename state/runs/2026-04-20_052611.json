@@ -1,0 +1,356 @@
+{
+  "timestamp": "2026-04-20_052611",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "rsv-vaccine-pregnancy-abrysvo-infant-hospitalization, kvitneva-alerhiia-ukraina-bereza-vilkha-aria-likuvannia, compassion-fatigue-proqol-protokol-volontery-viyna, parodontyt-sertse-zapalennia-yasen-sertsevo-sudynnyj-ryzyk, perymenopauza-pislia-40-symptomy-hormony-zgt-doslidzhennia",
+  "author": "LongLife Media",
+  "duration_s": 8589.0,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 449.3,
+      "error": null
+    },
+    {
+      "name": "research:Вакцина проти RSV під час вагі",
+      "status": "ok",
+      "duration_s": 269.5,
+      "error": null
+    },
+    {
+      "name": "generate:Вакцина проти RSV під час вагі",
+      "status": "ok",
+      "duration_s": 82.4,
+      "error": null
+    },
+    {
+      "name": "review:Вакцина проти RSV під час вагі",
+      "status": "ok",
+      "duration_s": 220.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Вакцина проти RSV під час вагі",
+      "status": "ok",
+      "duration_s": 28.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Вакцина проти RSV під час вагі",
+      "status": "ok",
+      "duration_s": 11.7,
+      "error": null
+    },
+    {
+      "name": "save:Вакцина проти RSV під час вагі",
+      "status": "ok",
+      "duration_s": 70.5,
+      "error": null
+    },
+    {
+      "name": "research:Квітнева алергія в Україні: чо",
+      "status": "ok",
+      "duration_s": 256.2,
+      "error": null
+    },
+    {
+      "name": "generate:Квітнева алергія в Україні: чо",
+      "status": "ok",
+      "duration_s": 138.0,
+      "error": null
+    },
+    {
+      "name": "review:Квітнева алергія в Україні: чо",
+      "status": "ok",
+      "duration_s": 335.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Квітнева алергія в Україні: чо",
+      "status": "ok",
+      "duration_s": 42.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Квітнева алергія в Україні: чо",
+      "status": "ok",
+      "duration_s": 17.7,
+      "error": null
+    },
+    {
+      "name": "save:Квітнева алергія в Україні: чо",
+      "status": "ok",
+      "duration_s": 72.1,
+      "error": null
+    },
+    {
+      "name": "research:Втома від співчуття: як допома",
+      "status": "ok",
+      "duration_s": 850.8,
+      "error": null
+    },
+    {
+      "name": "generate:Втома від співчуття: як допома",
+      "status": "ok",
+      "duration_s": 78.4,
+      "error": null
+    },
+    {
+      "name": "review:Втома від співчуття: як допома",
+      "status": "ok",
+      "duration_s": 198.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Втома від співчуття: як допома",
+      "status": "ok",
+      "duration_s": 27.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Втома від співчуття: як допома",
+      "status": "ok",
+      "duration_s": 17.2,
+      "error": null
+    },
+    {
+      "name": "save:Втома від співчуття: як допома",
+      "status": "ok",
+      "duration_s": 64.5,
+      "error": null
+    },
+    {
+      "name": "research:Пародонтит і серце: як запален",
+      "status": "ok",
+      "duration_s": 541.0,
+      "error": null
+    },
+    {
+      "name": "generate:Пародонтит і серце: як запален",
+      "status": "ok",
+      "duration_s": 135.9,
+      "error": null
+    },
+    {
+      "name": "review:Пародонтит і серце: як запален",
+      "status": "ok",
+      "duration_s": 261.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Пародонтит і серце: як запален",
+      "status": "ok",
+      "duration_s": 29.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Пародонтит і серце: як запален",
+      "status": "ok",
+      "duration_s": 12.9,
+      "error": null
+    },
+    {
+      "name": "save:Пародонтит і серце: як запален",
+      "status": "ok",
+      "duration_s": 69.3,
+      "error": null
+    },
+    {
+      "name": "research:Перименопауза після 40: 5 симп",
+      "status": "ok",
+      "duration_s": 261.2,
+      "error": null
+    },
+    {
+      "name": "generate:Перименопауза після 40: 5 симп",
+      "status": "ok",
+      "duration_s": 88.1,
+      "error": null
+    },
+    {
+      "name": "review:Перименопауза після 40: 5 симп",
+      "status": "ok",
+      "duration_s": 301.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Перименопауза після 40: 5 симп",
+      "status": "ok",
+      "duration_s": 29.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Перименопауза після 40: 5 симп",
+      "status": "ok",
+      "duration_s": 12.5,
+      "error": null
+    },
+    {
+      "name": "save:Перименопауза після 40: 5 симп",
+      "status": "ok",
+      "duration_s": 66.5,
+      "error": null
+    },
+    {
+      "name": "research:Наука денного сну: 10, 20 чи 9",
+      "status": "ok",
+      "duration_s": 270.4,
+      "error": null
+    },
+    {
+      "name": "generate:Наука денного сну: 10, 20 чи 9",
+      "status": "ok",
+      "duration_s": 144.1,
+      "error": null
+    },
+    {
+      "name": "review:Наука денного сну: 10, 20 чи 9",
+      "status": "ok",
+      "duration_s": 337.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Наука денного сну: 10, 20 чи 9",
+      "status": "ok",
+      "duration_s": 32.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Наука денного сну: 10, 20 чи 9",
+      "status": "ok",
+      "duration_s": 17.7,
+      "error": null
+    },
+    {
+      "name": "save:Наука денного сну: 10, 20 чи 9",
+      "status": "ok",
+      "duration_s": 71.1,
+      "error": null
+    },
+    {
+      "name": "research:Рукінг (ходьба з вагою): чому ",
+      "status": "ok",
+      "duration_s": 226.5,
+      "error": null
+    },
+    {
+      "name": "generate:Рукінг (ходьба з вагою): чому ",
+      "status": "ok",
+      "duration_s": 129.8,
+      "error": null
+    },
+    {
+      "name": "review:Рукінг (ходьба з вагою): чому ",
+      "status": "ok",
+      "duration_s": 395.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Рукінг (ходьба з вагою): чому ",
+      "status": "ok",
+      "duration_s": 23.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Рукінг (ходьба з вагою): чому ",
+      "status": "ok",
+      "duration_s": 14.3,
+      "error": null
+    },
+    {
+      "name": "save:Рукінг (ходьба з вагою): чому ",
+      "status": "ok",
+      "duration_s": 75.8,
+      "error": null
+    },
+    {
+      "name": "research:Штучні підсолоджувачі: чому ВО",
+      "status": "ok",
+      "duration_s": 574.4,
+      "error": null
+    },
+    {
+      "name": "generate:Штучні підсолоджувачі: чому ВО",
+      "status": "ok",
+      "duration_s": 107.4,
+      "error": null
+    },
+    {
+      "name": "review:Штучні підсолоджувачі: чому ВО",
+      "status": "ok",
+      "duration_s": 353.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Штучні підсолоджувачі: чому ВО",
+      "status": "ok",
+      "duration_s": 29.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Штучні підсолоджувачі: чому ВО",
+      "status": "ok",
+      "duration_s": 13.7,
+      "error": null
+    },
+    {
+      "name": "save:Штучні підсолоджувачі: чому ВО",
+      "status": "ok",
+      "duration_s": 72.7,
+      "error": null
+    },
+    {
+      "name": "research:Заклеювання рота на ніч: TikTo",
+      "status": "ok",
+      "duration_s": 262.0,
+      "error": null
+    },
+    {
+      "name": "generate:Заклеювання рота на ніч: TikTo",
+      "status": "ok",
+      "duration_s": 78.9,
+      "error": null
+    },
+    {
+      "name": "review:Заклеювання рота на ніч: TikTo",
+      "status": "ok",
+      "duration_s": 204.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Заклеювання рота на ніч: TikTo",
+      "status": "ok",
+      "duration_s": 29.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Заклеювання рота на ніч: TikTo",
+      "status": "ok",
+      "duration_s": 15.7,
+      "error": null
+    },
+    {
+      "name": "save:Заклеювання рота на ніч: TikTo",
+      "status": "ok",
+      "duration_s": 66.0,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.7,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}
