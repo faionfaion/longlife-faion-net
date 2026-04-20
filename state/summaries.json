@@ -797,5 +797,21 @@
       "ВООЗ"
     ],
     "summary": "Rucking (walking with a weighted backpack) combines cardiovascular and resistance training in one accessible activity. Looney et al. (2022, MSSE) showed that carrying 22% of body weight increases metabolic cost by 30–40% versus unloaded walking. Staab et al. (2023) demonstrated acute bone formation marker increases of 111–120% after 60 minutes of loaded walking. Biomechanically, rucking generates ~1.8× body weight joint forces versus ~5× for running, making it significantly lower-impact. Key contraindications include spinal pathology, knee injuries, and respiratory conditions (Faghy 2022). Evidence is strong for metabolic benefits and lower impact versus running; moderate for optimal load recommendations (10–20% BW); preliminary for long-term bone density effects. The article provides a 4-week progressive protocol for beginners starting at 5% body weight."
+  },
+  "shtuchni-pidsolodzhuvachi-vooz-meta-analiz-mikrobiom-rak": {
+    "date": "2026-04-20",
+    "title": "Некалорійні підсолоджувачі: чому ВООЗ не рекомендує їх для схуднення і що насправді кажуть дослідження",
+    "type": "nutrition",
+    "tags": [
+      "харчування",
+      "підсолоджувачі",
+      "мікробіом",
+      "цукровий діабет",
+      "ВООЗ",
+      "мета-аналіз",
+      "етикетки",
+      "цукор"
+    ],
+    "summary": "WHO issued a conditional recommendation against using non-sugar sweeteners (NSS) for weight control in 2023, based on evidence that NSS provide no consistent long-term weight loss benefit (Azad 2017 meta-analysis, 37 studies, n=406,910). However, the 12-month SWEET RCT (2025, n=341) showed modest benefit for weight maintenance (−1.6 kg). Key mechanistic evidence from Suez et al. (Cell 2022) demonstrates that saccharin and sucralose alter gut microbiome and impair glycemic responses in a personalized manner. The NutriNet-Santé cohort (Debras 2022, n=102,865) found a 13% higher cancer risk association with high NSS consumption, and IARC classified aspartame as Group 2B (possibly carcinogenic) while JECFA maintained the existing safe dose. ADA 2026 still supports short-term, moderate NSS use for people with type 2 diabetes. Overall evidence is moderate — observational and experimental data often conflict, and the practical advice is to reduce overall sweetness rather than simply substituting sugar with NSS."
   }
 }
