@@ -909,5 +909,20 @@
       "здоров'я 60+"
     ],
     "summary": "Vitamin B12 deficiency affects up to 26% of people over 60 (Allen 2009), up to 86.5% of unsupplemented vegans (Pawlak 2014), and 19% of long-term metformin users (Aroda 2016 RCT). Symptoms — fatigue, cognitive decline, numbness, depression — often get treated as separate conditions for years. Standard serum B12 misses ~50% of subclinical cases; methylmalonic acid (MMA) is a more sensitive marker. In Ukraine, B12 is not in the standard NSZU panel and MMA is only available in private labs. Both oral high-dose (1000 mcg/day) and IM B12 are effective per Cochrane review. Evidence level: strong for core claims (RCT + systematic reviews). The article cross-references previous coverage of metformin, magnesium, and iodine deficiency."
+  },
+  "balance-test-10-seconds-one-leg-stand-mortality-fall-prevention": {
+    "date": "2026-04-21",
+    "title": "Тест на баланс: чому нездатність простояти 10 секунд на одній нозі пов'язана зі збільшенням ризику смерті на 84%",
+    "type": "fitness",
+    "tags": [
+      "баланс",
+      "профілактика падінь",
+      "фітнес після 50",
+      "довголіття",
+      "пропріоцепція",
+      "тест здоров'я",
+      "вправи"
+    ],
+    "summary": "Prospective cohort study by Araujo et al. (BJSM, 2022, n=1,702, median 7-year follow-up) found that inability to maintain a 10-second one-leg stand is associated with 84% higher all-cause mortality (HR 1.84) in adults aged 51–75, after adjusting for age, sex, BMI, and comorbidities. This is an observational association, not a proven causal link. However, Cochrane meta-analysis by Sherrington et al. (2019, 108 RCTs, n=23,407) provides high-certainty evidence that balance exercises reduce fall rates by 24%, and combined programmes by 34%. WHO reports 684,000 annual fall-related deaths globally. The article presents a 4-level balance training progression (tandem walk → single-leg stand → eyes closed → dynamic balance) based on Halvarsson et al. 2015. Overall evidence: strong for balance training benefit, moderate for the specific mortality association."
   }
 }
