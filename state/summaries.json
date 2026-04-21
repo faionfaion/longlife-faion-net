@@ -893,5 +893,21 @@
       "розслаблення"
     ],
     "summary": "Meta-analysis by Ebrahim et al. (2013, 27 studies) and updated quantitative meta-analysis by Gardiner et al. (2024/2025, 27 studies) consistently show that alcohol reduces sleep onset latency and increases deep sleep in the first half of the night, but suppresses REM sleep even at low doses (≤2 drinks) and causes rebound wakefulness in the second half. The largest real-world HRV study (Pietilä et al. 2018, n=4098) demonstrated dose-dependent reduction of nocturnal parasympathetic recovery: −9.3% for 1 drink, −24% for 2-3 drinks, −39.2% for 4+ drinks. Animal research (Lundgaard 2018) links moderate-high alcohol to impaired glymphatic brain clearance. Evidence strength is strong for sleep architecture disruption and HRV effects, moderate for glymphatic and tolerance mechanisms. Practical takeaway: minimum 3-6 hours between last drink and sleep depending on dose; evidence-based alternatives include cyclic sighing, magnesium glycinate, and warm bath protocols."
+  },
+  "vitamin-b12-defitsyt-vtoma-depresiya-diagnostyka-likuvannia": {
+    "date": "2026-04-21",
+    "title": "Вітамін B12: тихий дефіцит, який маскується під втому, депресію та «просто старість»",
+    "type": "guide",
+    "tags": [
+      "вітамін B12",
+      "дефіцит вітамінів",
+      "харчування",
+      "веганство",
+      "метформін",
+      "діагностика",
+      "мікронутрієнти",
+      "здоров'я 60+"
+    ],
+    "summary": "Vitamin B12 deficiency affects up to 26% of people over 60 (Allen 2009), up to 86.5% of unsupplemented vegans (Pawlak 2014), and 19% of long-term metformin users (Aroda 2016 RCT). Symptoms — fatigue, cognitive decline, numbness, depression — often get treated as separate conditions for years. Standard serum B12 misses ~50% of subclinical cases; methylmalonic acid (MMA) is a more sensitive marker. In Ukraine, B12 is not in the standard NSZU panel and MMA is only available in private labs. Both oral high-dose (1000 mcg/day) and IM B12 are effective per Cochrane review. Evidence level: strong for core claims (RCT + systematic reviews). The article cross-references previous coverage of metformin, magnesium, and iodine deficiency."
   }
 }
