@@ -1,0 +1,68 @@
+{
+  "timestamp": "2026-04-20_113723",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "patterny-pereyidannia-zhyramy-biokhimiia-pastky-defitsyt",
+  "author": "LongLife Media",
+  "duration_s": 747.2,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    },
+    {
+      "name": "research:Паттерни переїдання жирами: бі",
+      "status": "ok",
+      "duration_s": 292.6,
+      "error": null
+    },
+    {
+      "name": "generate:Паттерни переїдання жирами: бі",
+      "status": "ok",
+      "duration_s": 94.0,
+      "error": null
+    },
+    {
+      "name": "review:Паттерни переїдання жирами: бі",
+      "status": "ok",
+      "duration_s": 186.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Паттерни переїдання жирами: бі",
+      "status": "ok",
+      "duration_s": 23.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Паттерни переїдання жирами: бі",
+      "status": "ok",
+      "duration_s": 11.7,
+      "error": null
+    },
+    {
+      "name": "save:Паттерни переїдання жирами: бі",
+      "status": "ok",
+      "duration_s": 71.5,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 65.4,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

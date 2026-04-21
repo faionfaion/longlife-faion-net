@@ -1,0 +1,87 @@
+{
+  "articles": [
+    {
+      "topic": "Інтервальне голодування у 2026 році: чому 16:8 — не магія, а нові РКД ставлять під сумнів популярні схеми",
+      "type": "research",
+      "category": "biohacking",
+      "angle": "Систематизація конфліктних даних 2022–2026: РКД Liu (NEJM 2022, n=139) не знайшло переваг TRE над звичайним обмеженням калорій для схуднення; контроверсійний абстракт AHA (Sun 2024) про 91% зростання кардіосмертності при 8-годинному вікні — чому він ненадійний (обсерваційні дані, один вимір, residual confounding). ПРОТЕ раннє TRE, узгоджене з циркадним ритмом, має метаболічні переваги (Sutton 2018 — покращення інсулінової чутливості навіть без втрати ваги). Ключовий висновок: важливий не розмір вікна, а його розташування відносно світлового дня. Стаття відрізняється від матеріалу про аутофагію (15.04), який розглядав клітинні механізми, тут — фокус на дієтичну ефективність та кардіобезпеку TRE як режиму харчування",
+      "sources_hint": "Liu et al. 2022 NEJM (calorie restriction vs TRE RCT), Lowe et al. 2020 JAMA Internal Medicine (TREAT trial), Sutton et al. 2018 Cell Metabolism (early TRE), Sun et al. 2024 AHA abstract + subsequent critique letters, Steger et al. 2024 Annals of Internal Medicine, Regmi & Heilbronn 2020 Nutrients (circadian alignment review), Wilkinson et al. 2020 Cell Metabolism (10h TRE + metabolic syndrome)",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Фізіологічне зітхання: одна дихальна техніка зі Стенфорду, яка знижує стрес ефективніше за медитацію",
+      "type": "lifehack",
+      "category": "mental-health",
+      "angle": "РКД Balban et al. 2023 (Cell Reports Medicine, Стенфорд, n=108, 28 днів) — cyclic sighing (подвійний короткий вдих носом + повільний довгий видих ротом) протягом 5 хв/день покращив настрій і знизив тривожність значуще краще за mindfulness-медитацію та box breathing. Механізм: подвійний вдих максимально розправляє альвеоли та вивільняє надлишок CO₂ за один видих, що активує парасимпатику через блукаючий нерв. Відмінність від КПТ-технік (12.04 — когнітивний підхід), експресивного письма (19.04 — наративний підхід) та шінрін-йоку (12.04 — середовищний підхід): тут — найшвидша соматична техніка, що працює за 1 цикл. Особливо релевантно для воєнного стресу — можна застосувати навіть під час повітряної тривоги",
+      "sources_hint": "Balban et al. 2023 Cell Reports Medicine (Stanford RCT cyclic sighing vs meditation), Ramirez 2014 Progress in Brain Research (neural basis of sighing), Li et al. 2016 Journal of Neurophysiology (pre-Bötzinger complex and sigh generation), Vlemincx et al. 2013 Psychophysiology (sigh as emotional reset)",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Кліщовий сезон 2026: що робити при укусі кліща і коли потрібен антибіотик — алгоритм за NICE та IDSA",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Квітень–травень — пік активності кліщів в Україні: Ixodes ricinus переносить борелію (хвороба Лайма) та вірус кліщового енцефаліту. За даними ЦГЗ, захворюваність на Лайм в Україні зросла вдвічі за 2018–2024 рр. Алгоритм дій при укусі за настановами IDSA/AAN/ACR 2020: видалення пінцетом без кручення, оцінка ризику, профілактичний доксициклін 200 мг одноразово протягом 72 год якщо кліщ був Ixodes і присмоктався >36 год (Nadelman et al. 2001 NEJM, n=482 — зниження ризику на 87%). NICE NG95 (2018, оновлено 2024) — більш консервативний підхід, без рутинної профілактики, але спостереження за мігруючою еритемою 28 днів. Вакцина VLA15 (Pfizer/Valneva) у фазі 3 — перша вакцина проти Лайма після відкликання LYMErix у 2002. Практичний чек-лист: як правильно видалити, які симптоми протягом 30 днів, коли терміново до лікаря. Високо сезонний матеріал — необхідний саме зараз",
+      "sources_hint": "IDSA/AAN/ACR 2020 Lyme disease clinical practice guidelines, NICE NG95 (Lyme disease guideline), Nadelman et al. 2001 NEJM (single-dose doxycycline prophylaxis RCT n=482), Stanek et al. 2012 Lancet (Lyme review), Ukrainian CDC (ЦГЗ) Lyme disease surveillance data 2018-2024, Wormser et al. 2006 Clinical Infectious Diseases (Lyme treatment), VLA15 Phase 3 Valor trial ClinicalTrials.gov NCT05477524, Steere et al. 2016 NEJM (Lyme comprehensive review)",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Алкоголь і сон: чому «келих вина для розслаблення» руйнує другу половину ночі",
+      "type": "guide",
+      "category": "sleep",
+      "angle": "Мета-аналіз Ebrahim et al. 2013 (27 досліджень): алкоголь скорочує час засинання і збільшує глибокий сон у першій половині ночі (тому здається, що допомагає), але пригнічує REM-сон і спричиняє пробудження у другій (rebound sympathetic activation). Навіть 1–2 порції за 4 години до сну погіршують відновлювальну якість сну. Фінське дослідження з HRV-моніторингом (Pietilä 2018, n=4098) підтвердило: алкоголь — фактор №1 зниження нічної варіабельності серцевого ритму. Доповнює попередні матеріали про глімфатичну систему (19.04 — очищення мозку потребує саме якісного NREM/REM-циклу, який алкоголь порушує). Практичний гайд: за скільки годин до сну припинити, дозозалежність ефекту, альтернативи для розслаблення",
+      "sources_hint": "Ebrahim et al. 2013 Alcoholism: Clinical and Experimental Research (27-study review), Colrain et al. 2014 Handbook of Clinical Neurology (alcohol + sleep architecture), Thakkar et al. 2015 Alcohol Research (adenosine mechanism), Pietilä et al. 2018 JMIR Mental Health (HRV + alcohol, Finnish n=4098), He et al. 2019 JMIR Mental Health (dose-response), Roehrs & Roth 2001 Alcohol Research & Health",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Вітамін B12: тихий дефіцит, який маскується під втому, депресію та «просто старість»",
+      "type": "guide",
+      "category": "nutrition",
+      "angle": "Дефіцит B12 виявляють у 10–30% людей 60+ (Allen 2009), до 86% веганів без добавок (Pawlak 2013), та у 5,8–33% користувачів метформіну (Aroda 2016) — прямий зв'язок із статтею про метформін від 16.04. Симптоми — втома, когнітивне зниження, оніміння кінцівок, депресія — роками лікують як окремі проблеми, не перевіряючи B12. В Україні B12 не входить у стандартну панель НСЗУ, а метилмалонова кислота як ранній маркер дефіциту доступна лише в приватних лабораторіях. Відмінність від статей про йод (18.04) і магній (12.04): B12 — єдиний водорозчинний вітамін, який не синтезується рослинами, що робить його критичним саме для рослинних дієт. Практичний чек-лист: кому здавати, ціанокобаламін vs метилкобаламін, поєднання з фолатом",
+      "sources_hint": "Hunt et al. 2014 BMJ (B12 deficiency review), Allen 2009 Am J Clin Nutr (elderly prevalence), Aroda et al. 2016 JCEM (metformin + B12), Green et al. 2017 Nature Reviews Disease Primers, Pawlak et al. 2013 Eur J Clin Nutr (vegans), Langan & Goodbred 2017 American Family Physician (diagnosis algorithm), Stabler 2013 NEJM (clinical review)",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Тест на баланс: чому нездатність простояти 10 секунд на одній нозі пов'язана з подвоєнням ризику смерті",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Когортне дослідження Araujo et al. 2022 (BJSM, n=1 702, 12 років спостереження, вік 51–75): нездатність утримати 10-секундний одноногий стенд асоціюється з 84% вищою загальною смертністю (HR 1.84, після корекції на вік, стать, BMI та супутні хвороби). Кокранівський огляд Sherrington et al. 2019 (108 РКД, n=23 407): вправи на баланс знижують ризик падінь на 23%. Падіння — провідна причина смертності від травм у 65+ (ВООЗ 2021). Логічне доповнення до саркопенії (сьогоднішня стаття): м'язова маса без нейром'язової координації не захищає від падінь. Відмінність від рукінгу (20.04 — кардіо через ходьбу) та ізометрики (16.04 — статика для тиску): тут — пропріоцепція та вестибулярна система. Практичний протокол: 4 вправи прогресії (тандемний крок → одноногий стенд → з закритими очима → динамічний баланс), 10 хв/день",
+      "sources_hint": "Araujo et al. 2022 BJSM (10-sec one-leg stand mortality n=1702), Sherrington et al. 2019 Cochrane (exercise for fall prevention 108 RCTs), WHO 2021 Step Safely global report on falls, Howe et al. 2011 Cochrane (balance exercises for older adults), Sturnieks et al. 2008 Neuropsychologia (proprioception and falls), Granacher et al. 2011 Sports Medicine (balance training review)",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Розподіл білка протягом дня: чому 4 порції по 30 г ефективніші за один великий стейк ввечері",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Ефект «muscle full»: м'язовий синтез білка (MPS) має плато ~0,4 г/кг на прийом їжі. Mamerow 2014 (Journal of Nutrition) показав: рівномірний розподіл білка стимулює MPS на 25% більше, ніж з'їдання більшості ввечері. ПРОТЕ Trommelen 2023 (Cell Reports Medicine, ізотопне дослідження) показав, що навіть 100 г за раз засвоюються — просто повільніше (12+ годин). Практичний висновок: оптимально 4 прийоми по 25–40 г із досягненням лейцин-порогу (~2,5 г) у кожному. Типова українська помилка — каша вранці без білка, бутерброд на обід, весь білок ввечері. Відмінність від статей про жири (15.04, 20.04): тут — протилежна проблема: білка зазвичай не забагато, а він погано розподілений",
+      "sources_hint": "Mamerow et al. 2014 Journal of Nutrition (even vs skewed protein RCT), Morton et al. 2018 BJSM (dose-response per meal), Schoenfeld & Aragon 2018 JISSN (protein timing meta-analysis), Trommelen et al. 2023 Cell Reports Medicine (100g single meal tracer study), Moore et al. 2015 (per-meal ceiling), Layman et al. 2015 (leucine threshold)",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Саркопенія після 40: чому втрата м'язів загрожує здоров'ю серйозніше за зайву вагу",
+      "type": "research",
+      "category": "longevity",
+      "angle": "EWGSOP2 (Cruz-Jentoft 2019) визнала саркопенію хворобою (ICD-10 M62.84), а не нормальним старінням. UK Biobank показує: низька м'язова маса асоціюється з вищою смертністю незалежно від BMI. Особлива загроза — саркопенічне ожиріння: людина з нормальною вагою, але критично малою м'язовою масою (поширеність ~11%). М'яз як ендокринний орган: міокіни (ірисин, IL-6 при скороченні) захищають від діабету, деменції, депресії (Pedersen 2012). SARC-F — 5 запитань для самоскринінгу. Відмінність від остеопорозу (19.04 — кістки), сили хвату (18.04 — біомаркер), перетренованості (15.04 — надлишок навантаження): тут — недостатність м'язової тканини як системна хвороба. В Україні — жодних протоколів скринінгу саркопенії",
+      "sources_hint": "Cruz-Jentoft et al. 2019 Age and Ageing (EWGSOP2 consensus), Petermann-Rocha et al. 2022 Age and Ageing (UK Biobank sarcopenia), Yeung et al. 2019 JAMA Network Open (sarcopenia mortality meta-analysis), Batsis & Villareal 2018 Endocrinology and Metabolism Clinics (sarcopenic obesity), Pedersen & Febbraio 2012 Nature Reviews Endocrinology (myokines), Malmstrom et al. 2016 JAMDA (SARC-F validation)",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Сидячий час і рак: мета-аналізи показують зв'язок між 8+ годинами сидіння та 5 типами онкології",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Мета-аналіз Biswas 2015 (Annals of Internal Medicine, 47 досліджень, >800 000 учасників): тривале сидіння підвищує ризик раку на 13–32% для різних локалізацій НЕЗАЛЕЖНО від рівня фізичної активності. Найсильніший зв'язок: колоректальний (+24% при >8 год/день), ендометріальний (+32%), легеневий рак. Механізми: гіперінсулінемія → підвищення IGF-1, хронічне системне запалення, зміни адипокінів. Ekelund 2016 (Lancet, n=1 млн): 60–75 хв помірної активності на день можуть компенсувати ризик від 8 год сидіння, але для >8 год — ні. Практична порада: перерва кожні 30 хв (Dempsey 2020 — покращення глікемії). Критично для України: дистанційна робота під час війни та довгий час в укриттях збільшили сидячий час",
+      "sources_hint": "Biswas et al. 2015 Annals of Internal Medicine (sedentary + outcomes meta-analysis), Patterson et al. 2018 British Journal of Cancer (sedentary + cancer types), Schmid & Leitzmann 2014 JNCI (sitting time + cancer meta-analysis), Ekelund et al. 2016 Lancet (1M participants dose-response), Dempsey et al. 2020 Diabetes Care (breaking sitting intervals), Friedenreich et al. 2021 Med Sci Sports Exerc (mechanisms)",
+      "evidence_level": "strong",
+      "priority": 3
+    }
+  ],
+  "date": "2026-04-21",
+  "created_at": "2026-04-21T03:03:02.065981+00:00"
+}
