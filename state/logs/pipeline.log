@@ -10496,3 +10496,157 @@ URL-адреси у блоці джерел систематично зміще�
 2026-04-21 03:53:10 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Finalized: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/cyclic-sighing-stanford-breathing-stress-anxiety.jpg
 03:53:10 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/cyclic-sighing-stanford-breathing-stress-anxiety.md
 2026-04-21 03:53:10 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/cyclic-sighing-stanford-breathing-stress-anxiety.md
+03:53:10 [pipeline] INFO: Article ready: cyclic-sighing-stanford-breathing-stress-anxiety (Фізіологічне зітхання: дихальна техніка зі Стенфор)
+2026-04-21 03:53:10 [pipeline] INFO: Article ready: cyclic-sighing-stanford-breathing-stress-anxiety (Фізіологічне зітхання: дихальна техніка зі Стенфор)
+03:53:10 [pipeline] INFO: === Article 3/9 ===
+2026-04-21 03:53:10 [pipeline] INFO: === Article 3/9 ===
+03:53:10 [pipeline] INFO: --- Article: [guide] Кліщовий сезон 2026: що робити при укусі кліща і коли потріб ---
+2026-04-21 03:53:10 [pipeline] INFO: --- Article: [guide] Кліщовий сезон 2026: що робити при укусі кліща і коли потріб ---
+03:53:10 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-21 03:53:10 [asyncio] DEBUG: Using selector: EpollSelector
+03:53:10 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-21 03:53:10 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:58:10 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+2026-04-21 03:58:10 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+03:58:16 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 5.6s
+2026-04-21 03:58:16 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 5.6s
+03:58:21 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-21 03:58:21 [asyncio] DEBUG: Using selector: EpollSelector
+03:58:21 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-21 03:58:21 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:02:58 [pipeline.stages.s2_research] INFO: Research complete: 15538 chars
+2026-04-21 04:02:58 [pipeline.stages.s2_research] INFO: Research complete: 15538 chars
+04:02:58 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-21 04:02:58 [asyncio] DEBUG: Using selector: EpollSelector
+04:02:58 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-21 04:02:58 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:05:22 [pipeline.stages.s3_generate] INFO: Generated: 'Кліщовий сезон 2026: що робити при укусі кліща і коли потрібен антибіотик — алгоритм за NICE та IDSA' (slug=klishchovyy-sezon-ukus-klishcha-antibiotyk-nice-idsa-algorytm, 1279 words, 12 sources)
+2026-04-21 04:05:22 [pipeline.stages.s3_generate] INFO: Generated: 'Кліщовий сезон 2026: що робити при укусі кліща і коли потрібен антибіотик — алгоритм за NICE та IDSA' (slug=klishchovyy-sezon-ukus-klishcha-antibiotyk-nice-idsa-algorytm, 1279 words, 12 sources)
+04:05:22 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-21 04:05:22 [asyncio] DEBUG: Using selector: EpollSelector
+04:05:22 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-21 04:05:22 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:07:35 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+2026-04-21 04:07:35 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+04:07:35 [pipeline.stages.s4_review] INFO: Feedback: Стаття науково сильна, добре структурована і збалансована. Проте є критична редакційна помилка та кілька менших проблем, які потрібно виправити перед публікацією.
+
+**КРИТИЧНО: Блок  — ВСІ URL переміша
+2026-04-21 04:07:35 [pipeline.stages.s4_review] INFO: Feedback: Стаття науково сильна, добре структурована і збалансована. Проте є критична редакційна помилка та кілька менших проблем, які потрібно виправити перед публікацією.
+
+**КРИТИЧНО: Блок  — ВСІ URL переміша
+04:07:35 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-21 04:07:35 [asyncio] DEBUG: Using selector: EpollSelector
+04:07:35 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-21 04:07:35 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:09:42 [pipeline.stages.s5_revise] INFO: Revised article: 1322 words
+2026-04-21 04:09:42 [pipeline.stages.s5_revise] INFO: Revised article: 1322 words
+04:09:42 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-21 04:09:42 [pipeline] INFO: === Review cycle 1/3 complete ===
+04:09:42 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-21 04:09:42 [asyncio] DEBUG: Using selector: EpollSelector
+04:09:42 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-21 04:09:42 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:11:40 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+2026-04-21 04:11:40 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+04:11:40 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом якісна, науково обґрунтована й збалансована. Однак є критична редакційна помилка та кілька моментів, що потребують виправлення перед публікацією.
+
+**КРИТИЧНО: Повне перемішування URL у 
+2026-04-21 04:11:40 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом якісна, науково обґрунтована й збалансована. Однак є критична редакційна помилка та кілька моментів, що потребують виправлення перед публікацією.
+
+**КРИТИЧНО: Повне перемішування URL у 
+04:11:40 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-21 04:11:40 [asyncio] DEBUG: Using selector: EpollSelector
+04:11:40 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-21 04:11:40 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:16:48 [pipeline.stages.s5_revise] INFO: Revised article: 1510 words
+2026-04-21 04:16:48 [pipeline.stages.s5_revise] INFO: Revised article: 1510 words
+04:16:48 [pipeline] INFO: === Review cycle 2/3 complete ===
+2026-04-21 04:16:48 [pipeline] INFO: === Review cycle 2/3 complete ===
+04:16:48 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-21 04:16:48 [asyncio] DEBUG: Using selector: EpollSelector
+04:16:48 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-21 04:16:48 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:18:24 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-21 04:18:24 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+04:18:24 [pipeline.stages.s4_review] INFO: Feedback: Стаття науково обґрунтована, збалансована та безпечна для читача. Основні сильні сторони: чітке розмежування підходів IDSA і NICE з поясненням причин розбіжностей, детальний розбір обмежень дослідженн
+2026-04-21 04:18:24 [pipeline.stages.s4_review] INFO: Feedback: Стаття науково обґрунтована, збалансована та безпечна для читача. Основні сильні сторони: чітке розмежування підходів IDSA і NICE з поясненням причин розбіжностей, детальний розбір обмежень дослідженн
+04:18:24 [pipeline] INFO: Article approved after 2 revision(s)
+2026-04-21 04:18:24 [pipeline] INFO: Article approved after 2 revision(s)
+04:18:24 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-21 04:18:24 [asyncio] DEBUG: Using selector: EpollSelector
+04:18:24 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-21 04:18:24 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:18:49 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita is crouching on one knee on a forest trail, holding up  | pose=Crouching on her right knee, left foot planted forward. Right hand holds fine-point tweezers gripping a leaf with a tiny dark tick on it, raised to eye level. Left hand holds a magnifying glass between the tick and her face. Her athletic body is angled toward the viewer, right shoulder turned forward so the small green leaf tattoo is clearly visible. Black fitness smartwatch with green accents on her left wrist. | expression=Explaining and teaching expression — one eyebrow slightly raised, eyes focused and engaged through the magnifying glass, lips parted in a knowledgeable half-smile as if mid-explanation to the viewer. | props=Fine-point tweezers gripping a small leaf with a visible tiny dark brown tick, Round magnifying glass with green handle, Open compact first-aid kit on the ground (white case with green cross, containing antiseptic wipe, antibiotic blister pack, ziplock bag), Smartphone lying on the first-aid kit showing a 30-day calendar reminder alert
+2026-04-21 04:18:49 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita is crouching on one knee on a forest trail, holding up  | pose=Crouching on her right knee, left foot planted forward. Right hand holds fine-point tweezers gripping a leaf with a tiny dark tick on it, raised to eye level. Left hand holds a magnifying glass between the tick and her face. Her athletic body is angled toward the viewer, right shoulder turned forward so the small green leaf tattoo is clearly visible. Black fitness smartwatch with green accents on her left wrist. | expression=Explaining and teaching expression — one eyebrow slightly raised, eyes focused and engaged through the magnifying glass, lips parted in a knowledgeable half-smile as if mid-explanation to the viewer. | props=Fine-point tweezers gripping a small leaf with a visible tiny dark brown tick, Round magnifying glass with green handle, Open compact first-aid kit on the ground (white case with green cross, containing antiseptic wipe, antibiotic blister pack, ziplock bag), Smartphone lying on the first-aid kit showing a 30-day calendar reminder alert
+04:18:49 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-21 04:18:49 [asyncio] DEBUG: Using selector: EpollSelector
+04:18:49 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-21 04:18:49 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:18:59 [pipeline.stages.s6_generate_tg] INFO: TG caption: 627 chars
+2026-04-21 04:18:59 [pipeline.stages.s6_generate_tg] INFO: TG caption: 627 chars
+04:18:59 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=klishchovyy-sezon-ukus-klishcha-antibiotyk-nice-idsa-algorytm
+2026-04-21 04:18:59 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=klishchovyy-sezon-ukus-klishcha-antibiotyk-nice-idsa-algorytm
+04:18:59 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-21 04:18:59 [asyncio] DEBUG: Using selector: EpollSelector
+04:18:59 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-21 04:18:59 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:19:18 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Restructured to subject-first ordering with explicit anatomy counts (one head, two eyes, five finger
+2026-04-21 04:19:18 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Restructured to subject-first ordering with explicit anatomy counts (one head, two eyes, five finger
+04:19:18 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+2026-04-21 04:19:18 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+04:19:18 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-21 04:19:18 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:20:17 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-21 04:20:17 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+04:20:17 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-21 04:20:17 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+04:20:17 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 26418
+2026-04-21 04:20:17 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 26418
+04:20:17 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 26418 (unknown)
+2026-04-21 04:20:17 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 26418 (unknown)
+04:20:17 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 26471 3427545
+2026-04-21 04:20:17 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 26471 3427545
+04:20:18 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/klishchovyy-sezon-ukus-klishcha-antibiotyk-nice-idsa-algorytm.jpg (223 KB, quality=auto)
+2026-04-21 04:20:18 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/klishchovyy-sezon-ukus-klishcha-antibiotyk-nice-idsa-algorytm.jpg (223 KB, quality=auto)
+04:20:18 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-21 04:20:18 [asyncio] DEBUG: Using selector: EpollSelector
+04:20:18 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-21 04:20:18 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:21:07 [pipeline.stages.s_image_qa] INFO: Image QA: ok=False, severity=low, retry=True, issues=1 — Garbled text on items inside first-aid kit: '304' and 'ARTESSIVE WEEK' (or similar nonsensical strings) on package/bottle labels — clear text generation artifacts
+2026-04-21 04:21:07 [pipeline.stages.s_image_qa] INFO: Image QA: ok=False, severity=low, retry=True, issues=1 — Garbled text on items inside first-aid kit: '304' and 'ARTESSIVE WEEK' (or similar nonsensical strings) on package/bottle labels — clear text generation artifacts
+04:21:07 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1 failed QA (severity=low, issues=1)
+2026-04-21 04:21:07 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1 failed QA (severity=low, issues=1)
+04:21:07 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-21 04:21:07 [asyncio] DEBUG: Using selector: EpollSelector
+04:21:07 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-21 04:21:07 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:21:24 [pipeline.stages.s_image_prompt_editor] INFO: Prompt revised: Replaced all text-bearing surfaces with explicitly blank, label-free, text-free versions: first-aid 
+2026-04-21 04:21:24 [pipeline.stages.s_image_prompt_editor] INFO: Prompt revised: Replaced all text-bearing surfaces with explicitly blank, label-free, text-free versions: first-aid 
+04:21:24 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 2/3 (quality=high)
+2026-04-21 04:21:24 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 2/3 (quality=high)
+04:21:24 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-21 04:21:24 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:22:36 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-21 04:22:36 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+04:22:37 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-21 04:22:37 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+04:22:37 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 23624
+2026-04-21 04:22:37 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 23624
+04:22:37 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 23624 (unknown)
+2026-04-21 04:22:37 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 23624 (unknown)
+04:22:37 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 23677 3546498
+2026-04-21 04:22:37 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 23677 3546498
+04:22:37 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/klishchovyy-sezon-ukus-klishcha-antibiotyk-nice-idsa-algorytm_try2.jpg (223 KB, quality=high)
+2026-04-21 04:22:37 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/klishchovyy-sezon-ukus-klishcha-antibiotyk-nice-idsa-algorytm_try2.jpg (223 KB, quality=high)
+04:22:37 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-21 04:22:37 [asyncio] DEBUG: Using selector: EpollSelector
+04:22:37 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-21 04:22:37 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:23:36 [pipeline.stages.s_image_qa] INFO: Image QA: ok=True, severity=none, retry=False, issues=0 — clean
+2026-04-21 04:23:36 [pipeline.stages.s_image_qa] INFO: Image QA: ok=True, severity=none, retry=False, issues=0 — clean
+04:23:36 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] QA passed on attempt 2
+2026-04-21 04:23:36 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] QA passed on attempt 2
+04:23:36 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Finalized: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/klishchovyy-sezon-ukus-klishcha-antibiotyk-nice-idsa-algorytm.jpg
+2026-04-21 04:23:36 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Finalized: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/klishchovyy-sezon-ukus-klishcha-antibiotyk-nice-idsa-algorytm.jpg
+04:23:36 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/klishchovyy-sezon-ukus-klishcha-antibiotyk-nice-idsa-algorytm.md
+2026-04-21 04:23:36 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/klishchovyy-sezon-ukus-klishcha-antibiotyk-nice-idsa-algorytm.md
