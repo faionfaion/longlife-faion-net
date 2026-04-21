@@ -924,5 +924,23 @@
       "вправи"
     ],
     "summary": "Prospective cohort study by Araujo et al. (BJSM, 2022, n=1,702, median 7-year follow-up) found that inability to maintain a 10-second one-leg stand is associated with 84% higher all-cause mortality (HR 1.84) in adults aged 51–75, after adjusting for age, sex, BMI, and comorbidities. This is an observational association, not a proven causal link. However, Cochrane meta-analysis by Sherrington et al. (2019, 108 RCTs, n=23,407) provides high-certainty evidence that balance exercises reduce fall rates by 24%, and combined programmes by 34%. WHO reports 684,000 annual fall-related deaths globally. The article presents a 4-level balance training progression (tandem walk → single-leg stand → eyes closed → dynamic balance) based on Halvarsson et al. 2015. Overall evidence: strong for balance training benefit, moderate for the specific mortality association."
+  },
+  "sarcopeniia-pislia-40-vtrata-miaziv-icd10-ewgsop2-smiertnist": {
+    "date": "2026-04-21",
+    "title": "Саркопенія після 40: чому втрата м'язів загрожує здоров'ю навіть при нормальній вазі",
+    "type": "research",
+    "tags": [
+      "саркопенія",
+      "м'язова маса",
+      "довголіття",
+      "силові тренування",
+      "EWGSOP2",
+      "SARC-F",
+      "саркопенічне ожиріння",
+      "міокіни",
+      "профілактика",
+      "старіння"
+    ],
+    "summary": "Sarcopenia — age-related loss of muscle mass and strength — was formally recognized as a disease (ICD-10 M62.84) by EWGSOP2 in 2019. A meta-analysis of 56 studies (n=42,108) shows sarcopenia doubles all-cause mortality risk (HR 2.00), and UK Biobank data (n=469,830) confirms low muscle mass raises mortality independent of BMI. Sarcopenic obesity (~11% prevalence in 60+) carries synergistic risks exceeding either condition alone. Muscles function as endocrine organs producing myokines (irisin, IL-6, BDNF) that protect against diabetes, dementia, and depression. SARC-F is a validated 5-question self-screening tool. Ukraine has zero sarcopenia screening protocols despite a median population age over 41. Evidence level: strong (multiple large meta-analyses and prospective cohorts). Practical takeaway: SARC-F self-test, resistance training 2-3x/week, adequate protein intake (30-40g per meal after 50)."
   }
 }
