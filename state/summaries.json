@@ -876,5 +876,22 @@
       "вакцина VLA15"
     ],
     "summary": "Стаття — практичний гайд з дій при укусі кліща за двома міжнародними настановами: IDSA 2020 (профілактичний доксициклін 200 мг одноразово за 3 критеріїв) та NICE NG95 (спостереження 28 днів без рутинної профілактики). Базується на РКД Nadelman et al. 2001 (NEJM, n=482, ефективність 87%, NNT=36), епідеміологічних даних по Україні (45 371 випадок за 2000–2023, пік 14,08/100 000 у 2023), та даних щодо вакцини VLA15 фази 3 (ефективність 73,2%). Рівень доказів — помірний (одне РКД для профілактики, широкий CI для вакцини). Практичні кроки: пінцет в аптечці, алгоритм видалення, 30-денне спостереження, звернення до лікаря. Є перехресне посилання на статтю про антибіотикорезистентність."
+  },
+  "alcohol-sleep-rem-disruption-hrv-guide": {
+    "date": "2026-04-21",
+    "title": "Алкоголь і сон: чому «келих вина для розслаблення» руйнує другу половину ночі",
+    "type": "guide",
+    "tags": [
+      "сон",
+      "алкоголь",
+      "REM-сон",
+      "HRV",
+      "варіабельність серцевого ритму",
+      "глімфатична система",
+      "архітектура сну",
+      "відновлення",
+      "розслаблення"
+    ],
+    "summary": "Meta-analysis by Ebrahim et al. (2013, 27 studies) and updated quantitative meta-analysis by Gardiner et al. (2024/2025, 27 studies) consistently show that alcohol reduces sleep onset latency and increases deep sleep in the first half of the night, but suppresses REM sleep even at low doses (≤2 drinks) and causes rebound wakefulness in the second half. The largest real-world HRV study (Pietilä et al. 2018, n=4098) demonstrated dose-dependent reduction of nocturnal parasympathetic recovery: −9.3% for 1 drink, −24% for 2-3 drinks, −39.2% for 4+ drinks. Animal research (Lundgaard 2018) links moderate-high alcohol to impaired glymphatic brain clearance. Evidence strength is strong for sleep architecture disruption and HRV effects, moderate for glymphatic and tolerance mechanisms. Practical takeaway: minimum 3-6 hours between last drink and sleep depending on dose; evidence-based alternatives include cyclic sighing, magnesium glycinate, and warm bath protocols."
   }
 }
