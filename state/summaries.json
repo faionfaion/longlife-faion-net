@@ -942,5 +942,21 @@
       "старіння"
     ],
     "summary": "Sarcopenia — age-related loss of muscle mass and strength — was formally recognized as a disease (ICD-10 M62.84) by EWGSOP2 in 2019. A meta-analysis of 56 studies (n=42,108) shows sarcopenia doubles all-cause mortality risk (HR 2.00), and UK Biobank data (n=469,830) confirms low muscle mass raises mortality independent of BMI. Sarcopenic obesity (~11% prevalence in 60+) carries synergistic risks exceeding either condition alone. Muscles function as endocrine organs producing myokines (irisin, IL-6, BDNF) that protect against diabetes, dementia, and depression. SARC-F is a validated 5-question self-screening tool. Ukraine has zero sarcopenia screening protocols despite a median population age over 41. Evidence level: strong (multiple large meta-analyses and prospective cohorts). Practical takeaway: SARC-F self-test, resistance training 2-3x/week, adequate protein intake (30-40g per meal after 50)."
+  },
+  "sydyachyi-chas-rak-meta-analiz-8-hodyn-sydinnia-onkologiya": {
+    "date": "2026-04-21",
+    "title": "Сидячий час і рак: мета-аналізи показують зв'язок між 8+ годинами сидіння та 4 типами раку й загальною онкосмертністю",
+    "type": "research",
+    "tags": [
+      "профілактика раку",
+      "сидячий спосіб життя",
+      "мета-аналіз",
+      "фізична активність",
+      "онкологія",
+      "дистанційна робота",
+      "перерви в сидінні",
+      "інсулінорезистентність"
+    ],
+    "summary": "Multiple meta-analyses (Biswas 2015: 47 studies, 800K+ participants; Hermelink 2022 umbrella review: 14 meta-analyses, 77 studies) consistently show prolonged sitting (8+ hours/day) independently increases cancer risk by 13-32%, with strongest associations for endometrial (+28-66%), colon (+24-54%), ovarian (+29%), and lung (+21%) cancers. Ekelund 2016 (Lancet, 1M participants) shows 60-75 min/day moderate activity can offset sitting-related mortality, but most people don't achieve this level. Homer/Dempsey 2021 RCT shows simple resistance exercises during 6-minute breaks every hour reduce glucose by ~20% and insulin by ~13%, directly targeting the hyperinsulinemia-IGF-1 cancer pathway. Evidence strength is strong based on converging data from multiple large meta-analyses, though most associations are graded 'suggestive' rather than 'convincing'. Particularly relevant for Ukraine given increased sedentary time from remote work and shelter stays during the war."
   }
 }
