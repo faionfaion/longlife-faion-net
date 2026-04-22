@@ -1022,5 +1022,24 @@
       "фізіотерапія"
     ],
     "summary": "Restricted hip mobility is associated with chronic lower back pain and altered knee biomechanics. Roach et al. (IJSPT 2015) found ~11° less hip extension in LBP patients; the MASH RCT (Lancet Rheumatology 2024, n=184) showed hip-focused physiotherapy reduced LBP disability faster than spine-focused PT at 8 weeks. A meta-analysis of 8 RCTs (Ceballos-Laita 2023) confirmed short-term benefits of adding hip interventions, though long-term effects remain unclear. Wyndow et al. (Sports Medicine 2016) describe how altered hip rotation increases patellofemoral joint stress. A 10-minute daily hip stretching protocol (90/90, couch stretch, pigeon pose, deep squat hold) is supported by Konrad et al.'s meta-analysis (77 studies) showing ROM gains from ≥2 weeks of regular stretching regardless of volume or intensity. Evidence strength is moderate overall, with very low GRADE certainty for therapeutic hip interventions in LBP."
+  },
+  "chasove-vikno-kharchuvannia-time-restricted-eating-16-8-rkd-analiz": {
+    "date": "2026-04-22",
+    "title": "Часове вікно харчування: чи працює протокол 16:8 — критичний аналіз РКД 2022–2026",
+    "type": "guide",
+    "tags": [
+      "інтервальне голодування",
+      "часове вікно харчування",
+      "TRE",
+      "16:8",
+      "циркадні ритми",
+      "метаболічний синдром",
+      "інсулін",
+      "глюкоза",
+      "мета-аналіз",
+      "біохакінг",
+      "харчування"
+    ],
+    "summary": "Мережевий мета-аналіз Chen et al. (BMJ Medicine 2026, 41 РКД, n=2287) та мета-аналіз Fernandes-Alves et al. (Nutrition Reviews 2026, 30 РКД, n=1341) підтверджують ефективність часового вікна харчування (TRE) для зниження ваги, тиску, глюкози натще та тригліцеридів. Раннє TRE (перша половина дня) значуще перевершує пізнє з високою достовірністю доказів. Водночас найбільший індивідуальний РКД (Liu et al., NEJM 2022, n=139) не виявив переваг TRE поверх обмеження калорій, а ChronoFast Trial (2025) не знайшов метаболічних переваг при ізокалорійному 2-тижневому TRE. Механізм — синхронізація периферійних циркадних годинників (PER/CRY гени) з центральним через ранній прийом їжі. Практична рекомендація: звузити вікно до 8–10 годин і зсунути його до першої половини дня. Рівень доказів помірний-сильний для TRE загалом, помірний для переваги раннього вікна."
   }
 }

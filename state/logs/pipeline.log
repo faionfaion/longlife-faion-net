@@ -12619,3 +12619,109 @@ TimeoutError: agent_query timed out after 300s
 2026-04-22 05:01:17 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
 05:01:17 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/hip-mobility-tight-hips-lower-back-knee-pain-protocol.md
 2026-04-22 05:01:17 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/hip-mobility-tight-hips-lower-back-knee-pain-protocol.md
+05:01:17 [pipeline] INFO: Article ready: hip-mobility-tight-hips-lower-back-knee-pain-protocol (Рухливість кульшових суглобів: чому тугі стегна — )
+2026-04-22 05:01:17 [pipeline] INFO: Article ready: hip-mobility-tight-hips-lower-back-knee-pain-protocol (Рухливість кульшових суглобів: чому тугі стегна — )
+05:01:17 [pipeline] INFO: === Article 8/9 ===
+2026-04-22 05:01:17 [pipeline] INFO: === Article 8/9 ===
+05:01:17 [pipeline] INFO: --- Article: [guide] Часове вікно харчування (time-restricted eating): чи підтвер ---
+2026-04-22 05:01:17 [pipeline] INFO: --- Article: [guide] Часове вікно харчування (time-restricted eating): чи підтвер ---
+05:01:17 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-22 05:01:17 [asyncio] DEBUG: Using selector: EpollSelector
+05:01:17 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-22 05:01:17 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:06:05 [pipeline.stages.s2_research] INFO: Research complete: 18777 chars
+2026-04-22 05:06:05 [pipeline.stages.s2_research] INFO: Research complete: 18777 chars
+05:06:05 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-22 05:06:05 [asyncio] DEBUG: Using selector: EpollSelector
+05:06:05 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-22 05:06:05 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:08:32 [pipeline.stages.s3_generate] INFO: Generated: 'Часове вікно харчування: чи працює протокол 16:8 — критичний аналіз РКД 2022–2026' (slug=chasove-vikno-kharchuvannia-time-restricted-eating-16-8-rkd-analiz, 1394 words, 10 sources)
+2026-04-22 05:08:32 [pipeline.stages.s3_generate] INFO: Generated: 'Часове вікно харчування: чи працює протокол 16:8 — критичний аналіз РКД 2022–2026' (slug=chasove-vikno-kharchuvannia-time-restricted-eating-16-8-rkd-analiz, 1394 words, 10 sources)
+05:08:32 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-22 05:08:32 [asyncio] DEBUG: Using selector: EpollSelector
+05:08:32 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-22 05:08:32 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:10:10 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-22 05:10:10 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+05:10:10 [pipeline.stages.s4_review] INFO: Feedback: Якісна, збалансована стаття з коректним поданням доказової бази. Потребує незначних правок перед публікацією:
+
+1. **Категорія та теги відсутні.** Поле Category порожнє — потрібно додати (напр., 'харчу
+2026-04-22 05:10:10 [pipeline.stages.s4_review] INFO: Feedback: Якісна, збалансована стаття з коректним поданням доказової бази. Потребує незначних правок перед публікацією:
+
+1. **Категорія та теги відсутні.** Поле Category порожнє — потрібно додати (напр., 'харчу
+05:10:10 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-22 05:10:10 [asyncio] DEBUG: Using selector: EpollSelector
+05:10:10 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-22 05:10:10 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:14:25 [pipeline.stages.s5_revise] INFO: Revised article: 1448 words
+2026-04-22 05:14:25 [pipeline.stages.s5_revise] INFO: Revised article: 1448 words
+05:14:25 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-22 05:14:25 [pipeline] INFO: === Review cycle 1/3 complete ===
+05:14:25 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-22 05:14:25 [asyncio] DEBUG: Using selector: EpollSelector
+05:14:25 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-22 05:14:25 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:15:53 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-22 05:15:53 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+05:15:53 [pipeline.stages.s4_review] INFO: Feedback: Дуже якісний, збалансований огляд із чіткою ієрархією доказів. Кілька зауважень для фінального полірування:
+
+1. **ChronoFast Trial — невідповідність PMID:** У списку джерел є PMID 41160666 для Science
+2026-04-22 05:15:53 [pipeline.stages.s4_review] INFO: Feedback: Дуже якісний, збалансований огляд із чіткою ієрархією доказів. Кілька зауважень для фінального полірування:
+
+1. **ChronoFast Trial — невідповідність PMID:** У списку джерел є PMID 41160666 для Science
+05:15:53 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-22 05:15:53 [pipeline] INFO: Article approved after 1 revision(s)
+05:15:53 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-22 05:15:53 [asyncio] DEBUG: Using selector: EpollSelector
+05:15:53 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-22 05:15:53 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:16:24 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a bright modern kitchen next to a large wall  | pose=Presenting pose — right arm extended upward pointing at the wall clock with index finger, left hand resting on an open glass meal-prep container on the counter. Slight lean toward the viewer, weight on front foot, torso angled three-quarters. Athletic build clearly visible — defined biceps on the raised arm, lean core with visible abs, strong quads in fitted leggings. Small green leaf tattoo visible on right shoulder. | expression=One eyebrow slightly raised with an engaged, teaching expression — lips parted in a knowing half-smile as if revealing a surprising scientific finding. Bright green eyes looking directly at the viewer with warmth and authority. | props=Large analog wall clock showing 8:00 AM, Glass meal-prep containers with colorful whole foods (vegetables, eggs, grains), Tablet on counter displaying a bar chart comparing two study groups (referencing the NEJM 2022 RCT)
+2026-04-22 05:16:24 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a bright modern kitchen next to a large wall  | pose=Presenting pose — right arm extended upward pointing at the wall clock with index finger, left hand resting on an open glass meal-prep container on the counter. Slight lean toward the viewer, weight on front foot, torso angled three-quarters. Athletic build clearly visible — defined biceps on the raised arm, lean core with visible abs, strong quads in fitted leggings. Small green leaf tattoo visible on right shoulder. | expression=One eyebrow slightly raised with an engaged, teaching expression — lips parted in a knowing half-smile as if revealing a surprising scientific finding. Bright green eyes looking directly at the viewer with warmth and authority. | props=Large analog wall clock showing 8:00 AM, Glass meal-prep containers with colorful whole foods (vegetables, eggs, grains), Tablet on counter displaying a bar chart comparing two study groups (referencing the NEJM 2022 RCT)
+05:16:24 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-22 05:16:24 [asyncio] DEBUG: Using selector: EpollSelector
+05:16:24 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-22 05:16:24 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:16:37 [pipeline.stages.s6_generate_tg] INFO: TG caption: 760 chars
+2026-04-22 05:16:37 [pipeline.stages.s6_generate_tg] INFO: TG caption: 760 chars
+05:16:37 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=chasove-vikno-kharchuvannia-time-restricted-eating-16-8-rkd-analiz
+2026-04-22 05:16:37 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=chasove-vikno-kharchuvannia-time-restricted-eating-16-8-rkd-analiz
+05:16:37 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-22 05:16:37 [asyncio] DEBUG: Using selector: EpollSelector
+05:16:37 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-22 05:16:37 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:16:57 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Consolidated redundant character/pose/scene descriptions into a single pass, front-loaded the subjec
+2026-04-22 05:16:57 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Consolidated redundant character/pose/scene descriptions into a single pass, front-loaded the subjec
+05:16:57 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+2026-04-22 05:16:57 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+05:16:57 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-22 05:16:57 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+05:16:58 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+2026-04-22 05:16:58 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+05:16:58 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+2026-04-22 05:16:58 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+05:16:58 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 1 failed to produce image
+2026-04-22 05:16:58 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 1 failed to produce image
+05:16:58 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 2/3 (quality=high)
+2026-04-22 05:16:58 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 2/3 (quality=high)
+05:16:58 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-22 05:16:58 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+05:16:58 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+2026-04-22 05:16:58 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+05:16:58 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+2026-04-22 05:16:58 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+05:16:58 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 2 failed to produce image
+2026-04-22 05:16:58 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 2 failed to produce image
+05:16:58 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 3/3 (quality=high)
+2026-04-22 05:16:58 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 3/3 (quality=high)
+05:16:58 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-22 05:16:58 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+05:16:59 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+2026-04-22 05:16:59 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+05:16:59 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+2026-04-22 05:16:59 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+05:16:59 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
+2026-04-22 05:16:59 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
+05:16:59 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
+2026-04-22 05:16:59 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
+05:16:59 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/chasove-vikno-kharchuvannia-time-restricted-eating-16-8-rkd-analiz.md
+2026-04-22 05:16:59 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/chasove-vikno-kharchuvannia-time-restricted-eating-16-8-rkd-analiz.md
