@@ -958,5 +958,21 @@
       "інсулінорезистентність"
     ],
     "summary": "Multiple meta-analyses (Biswas 2015: 47 studies, 800K+ participants; Hermelink 2022 umbrella review: 14 meta-analyses, 77 studies) consistently show prolonged sitting (8+ hours/day) independently increases cancer risk by 13-32%, with strongest associations for endometrial (+28-66%), colon (+24-54%), ovarian (+29%), and lung (+21%) cancers. Ekelund 2016 (Lancet, 1M participants) shows 60-75 min/day moderate activity can offset sitting-related mortality, but most people don't achieve this level. Homer/Dempsey 2021 RCT shows simple resistance exercises during 6-minute breaks every hour reduce glucose by ~20% and insulin by ~13%, directly targeting the hyperinsulinemia-IGF-1 cancer pathway. Evidence strength is strong based on converging data from multiple large meta-analyses, though most associations are graded 'suggestive' rather than 'convincing'. Particularly relevant for Ukraine given increased sedentary time from remote work and shelter stays during the war."
+  },
+  "omega-3-dobavky-meta-analizy-sertse-mozok-zapalennia": {
+    "date": "2026-04-22",
+    "title": "Омега-3 добавки у 2026 році: що насправді показують мета-аналізи про серце, мозок і запалення",
+    "type": "nutrition",
+    "tags": [
+      "омега-3",
+      "харчування",
+      "серцево-судинне здоров'я",
+      "добавки",
+      "депресія",
+      "запалення",
+      "мета-аналіз",
+      "риб'ячий жир"
+    ],
+    "summary": "Comprehensive evidence review of omega-3 supplements reveals a key conflict: Cochrane meta-analysis (86 RCTs, 162,796 participants) and the VITAL trial (n=25,871) show standard fish oil supplements have minimal or no effect on cardiovascular mortality in healthy populations. However, the REDUCE-IT trial (n=8,179) found pharmaceutical-grade purified EPA (icosapent ethyl, 4 g/day) reduced major cardiovascular events by 25% — though this result is contested due to the mineral oil placebo potentially worsening control group outcomes. STRENGTH trial (EPA+DHA combo) found no benefit. For mental health, EPA-dominant supplements show moderate antidepressant effects, but omega-3 does not treat or prevent dementia. Anti-inflammatory effects (CRP, TNF-α, IL-6 reduction) are well-documented. Practical conclusion: dietary fish (2 servings/week) is superior to supplements for most people; specific pharmaceutical EPA has evidence for high-risk cardiovascular patients but requires medical supervision. Overall evidence strength: strong, based on multiple large RCTs and Cochrane reviews."
   }
 }

@@ -1,0 +1,87 @@
+{
+  "articles": [
+    {
+      "topic": "Заборона куріння для народжених після 2008 року у Великій Британії: чи працюють покоління без тютюну і що це означає для України",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Аналіз UK Tobacco and Vapes Bill, підписаного 22 квітня 2026, у контексті доказової бази покоління без тютюну. Моделювання Jha (Lancet 2025) прогнозує збереження 1,2 млн років життя за 50 років. Україна має один з найвищих показників куріння в Європі (~27% дорослих, ВООЗ 2024). Порівняти з досвідом Нової Зеландії (яка скасувала аналогічний закон), Австралії та поколіннєвим підходом Малайзії. Чесно: закон ще не мав часу показати ефект, а контрабанда — головний ризик",
+      "sources_hint": "UK Parliament Tobacco and Vapes Bill 2024-2025; Lancet modelling Jha et al.; WHO GTCR 2025; New Zealand's repeal of Smokefree 2025 Act (Feb 2024); Malaysia GEG law 2024; Ukraine tobacco prevalence GATS-2",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Слух і деменція: чому зниження слуху — модифікований фактор ризику №1 за Lancet Commission і що робити після 40",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Lancet Commission 2024 (Livingston et al.) визначила втрату слуху як найвпливовіший модифікований фактор ризику деменції серед 14 (PAF ~7%). ACHIEVE RCT (Lin et al., Lancet 2023, n=977) — перше РКД, що показало 48% сповільнення когнітивного зниження зі слуховим апаратом у групі ризику. Механізм: когнітивне навантаження + соціальна ізоляція + атрофія скроневої частки. В Україні слухові апарати частково покриваються державою, але мало хто знає про зв'язок слуху з деменцією. Стаття НЕ дублює статтю про Альцгеймер (Apr 18), яка фокусувалась на ліках — тут фокус на конкретному факторі ризику",
+      "sources_hint": "Livingston et al. Lancet 2024 Dementia Commission; Lin et al. ACHIEVE trial Lancet 2023; WHO World Report on Hearing 2021; Deal et al. ARIC study JAMA 2017; PubMed: hearing loss dementia meta-analysis",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "ЗРДА (ADHD) у дорослих: чому розлад дефіциту уваги залишається невидимим діагнозом і як він впливає на здоров'я",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Мета-аналіз Song et al. (World Psychiatry, 2021) оцінює поширеність ADHD у дорослих на рівні 6,8% (366 млн осіб). Faraone et al. (Lancet Psychiatry, 2021) зібрали консенсус 80 експертів: ADHD — це не дитячий розлад, 60–80% дітей з ADHD зберігають симптоми у дорослому віці. Зв'язок зі здоров'ям: мета-аналіз Garcia-Argibay et al. (BMJ 2023) — ADHD подвоює ризик передчасної смерті (HR 2.0), переважно через травми та метаболічні наслідки імпульсивності. В Україні діагноз ADHD у дорослих практично не ставлять — немає клінічних настанов і мало спеціалістів. Стаття включає самоскринінг ASRS-v1.1 та пояснює, коли звертатись до психіатра",
+      "sources_hint": "Song et al. World Psychiatry 2021 (adult ADHD prevalence); Faraone et al. Lancet Psychiatry 2021 consensus; Garcia-Argibay et al. BMJ 2023 (ADHD mortality); Barkley et al. 2008; ASRS-v1.1 WHO screener; Kooij et al. European Consensus Statement 2019",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Омега-3 добавки у 2026 році: що насправді показують мета-аналізи про серце, мозок і запалення",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Конфлікт доказів: Cochrane 2024 (86 РКД) показує мінімальний ефект на серцево-судинну смертність, але REDUCE-IT (ікосапент етил, n=8,179) дав 25% зниження MACE. VITAL (n=25,871) — немає ефекту звичайного риб'ячого жиру на CVD-первинну профілактику. Для мозку: мета-аналіз 2024 р. показує значущий ефект на депресію (EPA>DHA), але не на когнітивне зниження. Різниця між дешевим риб'ячим жиром і фармацевтичними EPA-формами — ключ до протиріч. Практичний висновок: їжа > добавки для більшості людей, але є конкретні показання",
+      "sources_hint": "Cochrane omega-3 CVD review 2024; REDUCE-IT trial NEJM 2019; VITAL trial NEJM 2019; STRENGTH trial JAMA 2020; Liao et al. Transl Psychiatry 2021 (EPA depression meta-analysis); Burckhardt et al. Cochrane 2016 (omega-3 cognition)",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Кофеїн і архітектура сну: чому кава о 14:00 може вкрасти до 1 години глибокого сну",
+      "type": "guide",
+      "category": "sleep",
+      "angle": "Drake et al. (JCSM, 2013) показали, що 400 мг кофеїну навіть за 6 годин до сну скорочують загальний сон на >1 годину. Генетичний поліморфізм CYP1A2 визначає швидкість метаболізму кофеїну: повільні метаболізатори (~50% популяції) відчувають ефект 8–10 годин. Мета-аналіз Gardiner et al. (Sleep Medicine Reviews, 2023, 24 дослідження) підтверджує дозозалежне зниження SWS. Стаття дає формулу розрахунку дедлайну кави за індивідуальними ознаками. Доповнює статтю про алкоголь і сон (Apr 21) — разом утворюють пару про речовини, що крадуть сон",
+      "sources_hint": "Drake et al. JCSM 2013; Gardiner et al. Sleep Medicine Reviews 2023; Sachse et al. CYP1A2 polymorphism British J Clin Pharmacol 1999; Clark & Landolt 2017 Sleep Medicine Reviews (caffeine and sleep stages); Retey et al. ADORA2A gene",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "NAD+ прекурсори (NMN і NR): що відомо у 2026 році про найпопулярніші добавки для довголіття",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Критичний огляд: NR (нікотинамід рибозид) має більше клінічних даних, але CHROMAVIT RCT (2025) та попередні дослідження не показали значущого ефекту на маркери старіння у здорових дорослих. NMN має менше якісних РКД, більшість — малі китайські дослідження з конфліктом інтересів. Yi et al. (Science 2023) поставили під сумнів оральну біодоступність NMN. Але: Igarashi et al. 2022 показали підвищення NAD+ у крові. Контекст: доповнення до статті про метформін (Apr 16) — метформін працює через AMPK, NAD+ — через сиртуїни, це різні шляхи. Практичний висновок: заощаджені $50–100/міс краще інвестувати у тренування та якісний сон",
+      "sources_hint": "Martens et al. NR aging RCT (Nature Communications 2018); Yi et al. Science 2023 (NMN bioavailability); Igarashi et al. 2022 NMN human trial; Dollerup et al. 2018 NR RCT; CHROMAVIT trial 2025; Rajman et al. Cell Metabolism 2018 (NAD+ review)",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Рухливість кульшових суглобів: чому тугі стегна — головна причина болю в попереку, колінах і навіть поганої постави",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Систематичний огляд Roach et al. (JOSPT 2021) показує зв'язок обмеженої рухливості кульшових суглобів з болем у попереку. Дослідження Wyndow et al. (BJSM 2016) пов'язує обмежену внутрішню ротацію стегна з пателофеморальним болем. «Компенсаторний каскад»: тугі стегна → надмірна мобільність поперекового відділу → біль. 10-хвилинний щоденний протокол: 90/90 stretch, couch stretch, pigeon pose, deep squat hold. Доповнює йогу при болі в попереку (Apr 18) — конкретний механізм, чому саме стегна часто є причиною",
+      "sources_hint": "Roach et al. JOSPT 2021 hip mobility and LBP; Wyndow et al. BJSM 2016 hip rotation; Cibulka et al. JOSPT 1998 hip rotation asymmetry; Konrad et al. 2022 stretching meta-analysis (dose-response); Behm et al. 2016 acute effects of stretching",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Часове вікно харчування (time-restricted eating): чи підтвердили РКД 2024–2026 року ефективність 16:8 та інших протоколів",
+      "type": "guide",
+      "category": "biohacking",
+      "angle": "Критичний аналіз: великий РКД Liu et al. (NEJM 2022, n=139) НЕ показав переваги 16:8 над простим обмеженням калорій. Але Wilkinson et al. (Cell Metabolism 2020, n=19, метаболічний синдром) показали покращення маркерів навіть без зниження ваги. Мета-аналіз Gu et al. (2024, 30 РКД) — TRE ефективніше лише коли вікно ≤8 год і зсунуте до першої половини дня. Механізм: синхронізація з циркадними ритмами PER/CRY генів. Стаття чітко відокремлює TRE від голодування для автофагії (Apr 15) — тут фокус на метаболічних маркерах і практичному протоколі",
+      "sources_hint": "Liu et al. NEJM 2022 TRE trial; Wilkinson et al. Cell Metabolism 2020; Gu et al. 2024 TRE meta-analysis; Jamshed et al. 2019 early TRE; Sutton et al. Cell Metabolism 2018 (eTRF); Longo & Panda 2016 Cell Metabolism review",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Прогулянка після їжі: чому 10–15 хвилин ходьби після обіду знижують пік глюкози на 30–50% за мета-аналізом",
+      "type": "lifehack",
+      "category": "nutrition",
+      "angle": "Мета-аналіз Buffey et al. (Sports Medicine, 2022, 7 РКД) показав, що навіть 2–5 хвилин легкої ходьби після їжі значуще знижують постпрандіальний пік глюкози та інсуліну порівняно з сидінням. Bellini et al. (2023, 21 дослідження) підтвердили: ходьба протягом 60–90 хвилин після їжі дає зниження глюкози на ~30–50%. Ефект найсильніший у перші 30 хвилин після їжі. Borror et al. (Sports Medicine, 2018) показали, що 15 хвилин ходьби після їжі ефективніші за 30 хвилин до їжі. Працює і без діабету — знижує глікемічну варіабельність у здорових. Доповнює статтю про TRE (сьогодні) — коли їсти vs що робити після їжі. Практичний протокол: 10–15 хвилин ходьби в помірному темпі протягом 30 хвилин після основного прийому їжі. Найдоступніший лайфхак — безкоштовний, без обладнання, релевантний для кожного українця",
+      "sources_hint": "Buffey et al. Sports Medicine 2022 post-meal walking meta-analysis; Bellini et al. 2023 postprandial walking systematic review; Borror et al. Sports Medicine 2018 timing of exercise; Reynolds et al. Diabetologia 2016 (timing and glucose); ADA Standards of Care 2026",
+      "evidence_level": "strong",
+      "priority": 3
+    }
+  ],
+  "date": "2026-04-22",
+  "created_at": "2026-04-22T03:03:02.574466+00:00"
+}

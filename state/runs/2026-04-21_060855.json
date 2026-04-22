@@ -1,0 +1,296 @@
+{
+  "timestamp": "2026-04-21_060855",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "cyclic-sighing-stanford-breathing-stress-anxiety, klishchovyy-sezon-ukus-klishcha-antibiotyk-nice-idsa-algorytm, alcohol-sleep-rem-disruption-hrv-guide, vitamin-b12-defitsyt-vtoma-depresiya-diagnostyka-likuvannia, balance-test-10-seconds-one-leg-stand-mortality-fall-prevention",
+  "author": "LongLife Media",
+  "duration_s": 11153.4,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 675.3,
+      "error": null
+    },
+    {
+      "name": "research:Інтервальне голодування у 2026",
+      "status": "failed",
+      "duration_s": 937.7,
+      "error": "agent_query timed out after 300s"
+    },
+    {
+      "name": "research:Фізіологічне зітхання: одна ди",
+      "status": "ok",
+      "duration_s": 193.7,
+      "error": null
+    },
+    {
+      "name": "generate:Фізіологічне зітхання: одна ди",
+      "status": "ok",
+      "duration_s": 140.8,
+      "error": null
+    },
+    {
+      "name": "review:Фізіологічне зітхання: одна ди",
+      "status": "ok",
+      "duration_s": 725.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Фізіологічне зітхання: одна ди",
+      "status": "ok",
+      "duration_s": 21.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Фізіологічне зітхання: одна ди",
+      "status": "ok",
+      "duration_s": 9.6,
+      "error": null
+    },
+    {
+      "name": "save:Фізіологічне зітхання: одна ди",
+      "status": "ok",
+      "duration_s": 302.9,
+      "error": null
+    },
+    {
+      "name": "research:Кліщовий сезон 2026: що робити",
+      "status": "ok",
+      "duration_s": 588.1,
+      "error": null
+    },
+    {
+      "name": "generate:Кліщовий сезон 2026: що робити",
+      "status": "ok",
+      "duration_s": 143.5,
+      "error": null
+    },
+    {
+      "name": "review:Кліщовий сезон 2026: що робити",
+      "status": "ok",
+      "duration_s": 782.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Кліщовий сезон 2026: що робити",
+      "status": "ok",
+      "duration_s": 24.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Кліщовий сезон 2026: що робити",
+      "status": "ok",
+      "duration_s": 9.9,
+      "error": null
+    },
+    {
+      "name": "save:Кліщовий сезон 2026: що робити",
+      "status": "ok",
+      "duration_s": 277.0,
+      "error": null
+    },
+    {
+      "name": "research:Алкоголь і сон: чому «келих ви",
+      "status": "ok",
+      "duration_s": 283.8,
+      "error": null
+    },
+    {
+      "name": "generate:Алкоголь і сон: чому «келих ви",
+      "status": "ok",
+      "duration_s": 146.1,
+      "error": null
+    },
+    {
+      "name": "review:Алкоголь і сон: чому «келих ви",
+      "status": "ok",
+      "duration_s": 295.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Алкоголь і сон: чому «келих ви",
+      "status": "ok",
+      "duration_s": 24.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Алкоголь і сон: чому «келих ви",
+      "status": "ok",
+      "duration_s": 12.3,
+      "error": null
+    },
+    {
+      "name": "save:Алкоголь і сон: чому «келих ви",
+      "status": "ok",
+      "duration_s": 221.3,
+      "error": null
+    },
+    {
+      "name": "research:Вітамін B12: тихий дефіцит, як",
+      "status": "ok",
+      "duration_s": 232.0,
+      "error": null
+    },
+    {
+      "name": "generate:Вітамін B12: тихий дефіцит, як",
+      "status": "ok",
+      "duration_s": 161.3,
+      "error": null
+    },
+    {
+      "name": "review:Вітамін B12: тихий дефіцит, як",
+      "status": "ok",
+      "duration_s": 304.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Вітамін B12: тихий дефіцит, як",
+      "status": "ok",
+      "duration_s": 26.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Вітамін B12: тихий дефіцит, як",
+      "status": "ok",
+      "duration_s": 11.8,
+      "error": null
+    },
+    {
+      "name": "save:Вітамін B12: тихий дефіцит, як",
+      "status": "ok",
+      "duration_s": 129.6,
+      "error": null
+    },
+    {
+      "name": "research:Тест на баланс: чому нездатніс",
+      "status": "ok",
+      "duration_s": 851.5,
+      "error": null
+    },
+    {
+      "name": "generate:Тест на баланс: чому нездатніс",
+      "status": "ok",
+      "duration_s": 92.8,
+      "error": null
+    },
+    {
+      "name": "review:Тест на баланс: чому нездатніс",
+      "status": "ok",
+      "duration_s": 250.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Тест на баланс: чому нездатніс",
+      "status": "ok",
+      "duration_s": 21.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Тест на баланс: чому нездатніс",
+      "status": "ok",
+      "duration_s": 10.8,
+      "error": null
+    },
+    {
+      "name": "save:Тест на баланс: чому нездатніс",
+      "status": "ok",
+      "duration_s": 224.2,
+      "error": null
+    },
+    {
+      "name": "research:Розподіл білка протягом дня: ч",
+      "status": "failed",
+      "duration_s": 934.1,
+      "error": "agent_query timed out after 300s"
+    },
+    {
+      "name": "research:Саркопенія після 40: чому втра",
+      "status": "ok",
+      "duration_s": 544.5,
+      "error": null
+    },
+    {
+      "name": "generate:Саркопенія після 40: чому втра",
+      "status": "ok",
+      "duration_s": 105.0,
+      "error": null
+    },
+    {
+      "name": "review:Саркопенія після 40: чому втра",
+      "status": "ok",
+      "duration_s": 232.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Саркопенія після 40: чому втра",
+      "status": "ok",
+      "duration_s": 34.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Саркопенія після 40: чому втра",
+      "status": "ok",
+      "duration_s": 10.5,
+      "error": null
+    },
+    {
+      "name": "save:Саркопенія після 40: чому втра",
+      "status": "ok",
+      "duration_s": 168.8,
+      "error": null
+    },
+    {
+      "name": "research:Сидячий час і рак: мета-аналіз",
+      "status": "ok",
+      "duration_s": 262.7,
+      "error": null
+    },
+    {
+      "name": "generate:Сидячий час і рак: мета-аналіз",
+      "status": "ok",
+      "duration_s": 104.6,
+      "error": null
+    },
+    {
+      "name": "review:Сидячий час і рак: мета-аналіз",
+      "status": "ok",
+      "duration_s": 238.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Сидячий час і рак: мета-аналіз",
+      "status": "ok",
+      "duration_s": 24.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Сидячий час і рак: мета-аналіз",
+      "status": "ok",
+      "duration_s": 10.6,
+      "error": null
+    },
+    {
+      "name": "save:Сидячий час і рак: мета-аналіз",
+      "status": "ok",
+      "duration_s": 283.3,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 66.2,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}
