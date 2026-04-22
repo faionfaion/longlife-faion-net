@@ -12391,3 +12391,117 @@ TimeoutError: agent_query timed out after 300s
 2026-04-22 04:29:22 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
 04:29:22 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/caffeine-sleep-architecture-cyp1a2-deep-sleep-guide.md
 2026-04-22 04:29:22 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/caffeine-sleep-architecture-cyp1a2-deep-sleep-guide.md
+04:29:22 [pipeline] INFO: Article ready: caffeine-sleep-architecture-cyp1a2-deep-sleep-guide (Кофеїн і архітектура сну: чому кава о 14:00 може в)
+2026-04-22 04:29:22 [pipeline] INFO: Article ready: caffeine-sleep-architecture-cyp1a2-deep-sleep-guide (Кофеїн і архітектура сну: чому кава о 14:00 може в)
+04:29:22 [pipeline] INFO: === Article 6/9 ===
+2026-04-22 04:29:22 [pipeline] INFO: === Article 6/9 ===
+04:29:22 [pipeline] INFO: --- Article: [research] NAD+ прекурсори (NMN і NR): що відомо у 2026 році про найпоп ---
+2026-04-22 04:29:22 [pipeline] INFO: --- Article: [research] NAD+ прекурсори (NMN і NR): що відомо у 2026 році про найпоп ---
+04:29:22 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-22 04:29:22 [asyncio] DEBUG: Using selector: EpollSelector
+04:29:22 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-22 04:29:22 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:34:22 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+2026-04-22 04:34:22 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+04:34:27 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 7.4s
+2026-04-22 04:34:27 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 7.4s
+04:34:35 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-22 04:34:35 [asyncio] DEBUG: Using selector: EpollSelector
+04:34:35 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-22 04:34:35 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:39:26 [pipeline.stages.s2_research] INFO: Research complete: 19098 chars
+2026-04-22 04:39:26 [pipeline.stages.s2_research] INFO: Research complete: 19098 chars
+04:39:26 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-22 04:39:26 [asyncio] DEBUG: Using selector: EpollSelector
+04:39:26 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-22 04:39:26 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:40:52 [pipeline.stages.s3_generate] INFO: Generated: 'NAD+ прекурсори NMN і NR: критичний огляд добавок для довголіття у 2026 році' (slug=nad-plus-nmn-nr-kritychnyi-oglyad-dobavky-dovgolittia-2026, 690 words, 9 sources)
+2026-04-22 04:40:52 [pipeline.stages.s3_generate] INFO: Generated: 'NAD+ прекурсори NMN і NR: критичний огляд добавок для довголіття у 2026 році' (slug=nad-plus-nmn-nr-kritychnyi-oglyad-dobavky-dovgolittia-2026, 690 words, 9 sources)
+04:40:52 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-22 04:40:52 [asyncio] DEBUG: Using selector: EpollSelector
+04:40:52 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-22 04:40:52 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:42:20 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+2026-04-22 04:42:20 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+04:42:20 [pipeline.stages.s4_review] INFO: Feedback: Стаття науково сильна й добре структурована, але потребує кількох доопрацювань перед публікацією:
+
+1. **Відсутній медичний дисклеймер.** Стаття рекомендує силові тренування 2–3 рази на тиждень аудитор
+2026-04-22 04:42:20 [pipeline.stages.s4_review] INFO: Feedback: Стаття науково сильна й добре структурована, але потребує кількох доопрацювань перед публікацією:
+
+1. **Відсутній медичний дисклеймер.** Стаття рекомендує силові тренування 2–3 рази на тиждень аудитор
+04:42:20 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-22 04:42:20 [asyncio] DEBUG: Using selector: EpollSelector
+04:42:20 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-22 04:42:20 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:43:29 [pipeline.stages.s5_revise] INFO: Revised article: 825 words
+2026-04-22 04:43:29 [pipeline.stages.s5_revise] INFO: Revised article: 825 words
+04:43:29 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-22 04:43:29 [pipeline] INFO: === Review cycle 1/3 complete ===
+04:43:29 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-22 04:43:29 [asyncio] DEBUG: Using selector: EpollSelector
+04:43:29 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-22 04:43:29 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:44:38 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-22 04:44:38 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+04:44:38 [pipeline.stages.s4_review] INFO: Feedback: Сильна стаття з коректною науковою базою, чесним представленням обмежень досліджень і важливим акцентом на конфліктах інтересів. Кілька правок перед публікацією:
+
+1. **Категорія порожня.** Потрібно вк
+2026-04-22 04:44:38 [pipeline.stages.s4_review] INFO: Feedback: Сильна стаття з коректною науковою базою, чесним представленням обмежень досліджень і важливим акцентом на конфліктах інтересів. Кілька правок перед публікацією:
+
+1. **Категорія порожня.** Потрібно вк
+04:44:38 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-22 04:44:38 [pipeline] INFO: Article approved after 1 revision(s)
+04:44:38 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-22 04:44:38 [asyncio] DEBUG: Using selector: EpollSelector
+04:44:38 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-22 04:44:38 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:45:01 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a modern research lab, skeptically examining  | pose=Standing with her left hand holding a tablet at hip level (screen facing viewer showing a declining chart), right arm raised with fingers pinching a single translucent golden supplement capsule up to eye level. Her body is slightly turned three-quarters toward the viewer, weight on her left leg, right hip cocked — an analytical, inquisitive stance. Her right shoulder is angled toward the viewer, revealing the small green leaf tattoo. | expression=One eyebrow slightly raised with a knowing, mildly skeptical half-smile — the 'explaining/teaching' expression that says 'let me tell you what the science actually shows.' Green eyes focused on the capsule, engaged and sharp. | props=translucent golden supplement capsule held between right thumb and forefinger, tablet on left hand showing a declining NAD+ bar chart with age markers, shelf of supplement bottles with price tags ($50–$100) in background, wall monitor displaying a systematic review summary with red X marks
+2026-04-22 04:45:01 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a modern research lab, skeptically examining  | pose=Standing with her left hand holding a tablet at hip level (screen facing viewer showing a declining chart), right arm raised with fingers pinching a single translucent golden supplement capsule up to eye level. Her body is slightly turned three-quarters toward the viewer, weight on her left leg, right hip cocked — an analytical, inquisitive stance. Her right shoulder is angled toward the viewer, revealing the small green leaf tattoo. | expression=One eyebrow slightly raised with a knowing, mildly skeptical half-smile — the 'explaining/teaching' expression that says 'let me tell you what the science actually shows.' Green eyes focused on the capsule, engaged and sharp. | props=translucent golden supplement capsule held between right thumb and forefinger, tablet on left hand showing a declining NAD+ bar chart with age markers, shelf of supplement bottles with price tags ($50–$100) in background, wall monitor displaying a systematic review summary with red X marks
+04:45:01 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-22 04:45:01 [asyncio] DEBUG: Using selector: EpollSelector
+04:45:01 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-22 04:45:01 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:45:16 [pipeline.stages.s6_generate_tg] INFO: TG caption: 639 chars
+2026-04-22 04:45:16 [pipeline.stages.s6_generate_tg] INFO: TG caption: 639 chars
+04:45:16 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=nad-plus-nmn-nr-kritychnyi-oglyad-dobavky-dovgolittia-2026
+2026-04-22 04:45:16 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=nad-plus-nmn-nr-kritychnyi-oglyad-dobavky-dovgolittia-2026
+04:45:16 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-22 04:45:16 [asyncio] DEBUG: Using selector: EpollSelector
+04:45:16 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-22 04:45:16 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:45:35 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Restructured to subject-first ordering with pose, environment, lighting, then style. Deduplicated re
+2026-04-22 04:45:35 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Restructured to subject-first ordering with pose, environment, lighting, then style. Deduplicated re
+04:45:35 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+2026-04-22 04:45:35 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+04:45:35 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-22 04:45:35 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:45:36 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+2026-04-22 04:45:36 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+04:45:36 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+2026-04-22 04:45:36 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+04:45:36 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 1 failed to produce image
+2026-04-22 04:45:36 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 1 failed to produce image
+04:45:36 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 2/3 (quality=high)
+2026-04-22 04:45:36 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 2/3 (quality=high)
+04:45:36 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-22 04:45:36 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:45:36 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+2026-04-22 04:45:36 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+04:45:36 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+2026-04-22 04:45:36 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+04:45:36 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 2 failed to produce image
+2026-04-22 04:45:36 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 2 failed to produce image
+04:45:36 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 3/3 (quality=high)
+2026-04-22 04:45:36 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 3/3 (quality=high)
+04:45:36 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-22 04:45:36 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:45:37 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+2026-04-22 04:45:37 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+04:45:37 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+2026-04-22 04:45:37 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+04:45:37 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
+2026-04-22 04:45:37 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
+04:45:37 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
+2026-04-22 04:45:37 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
+04:45:37 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/nad-plus-nmn-nr-kritychnyi-oglyad-dobavky-dovgolittia-2026.md
+2026-04-22 04:45:37 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/nad-plus-nmn-nr-kritychnyi-oglyad-dobavky-dovgolittia-2026.md

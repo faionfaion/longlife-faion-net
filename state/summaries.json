@@ -990,5 +990,22 @@
       "аденозин"
     ],
     "summary": "Мета-аналіз 24 досліджень (Gardiner et al., Sleep Medicine Reviews, 2023) та рандомізовані контрольовані дослідження (Drake et al., 2013; Gardiner et al., 2024) показують, що 400 мг кофеїну за 6 годин до сну скорочують загальний час сну на понад 1 годину та знижують глибокий сон (N3) на 15–30 хвилин — при цьому люди суб'єктивно не помічають погіршення. Генетичний поліморфізм CYP1A2 визначає швидкість метаболізму кофеїну: ~50% популяції є проміжними або повільними метаболізаторами з періодом напіврозпаду 5–9 годин. Мінімальний безпечний інтервал для стандартної чашки кави — 8,8 годин до сну. Рівень доказовості — сильний (мета-аналіз + кілька РКД). Стаття утворює пару зі статтею про алкоголь і сон (Apr 21), покриваючи два основні механізми хімічної дисрупції сну."
+  },
+  "nad-plus-nmn-nr-kritychnyi-oglyad-dobavky-dovgolittia-2026": {
+    "date": "2026-04-22",
+    "title": "NAD+ прекурсори NMN і NR: критичний огляд добавок для довголіття у 2026 році",
+    "type": "research",
+    "tags": [
+      "NAD+",
+      "NMN",
+      "нікотинамід рибозид",
+      "добавки",
+      "довголіття",
+      "старіння",
+      "клінічні дослідження",
+      "мета-аналіз",
+      "біохакінг"
+    ],
+    "summary": "Critical review of NAD+ precursors NMN and NR as longevity supplements. Damgaard & Treebak (Science Advances 2023) systematic review of 25 NR human studies found few clinically relevant effects and noted exaggeration in the literature. Dollerup et al. (2018) RCT showed null results on insulin sensitivity at 2000 mg NR/day. NMN has fewer independent RCTs, most with manufacturer conflicts of interest. Kim et al. (2023) demonstrated gut microbiome deamidation of NMN, questioning oral bioavailability. Prokopidis et al. (2025) meta-analysis found no muscle mass or function benefits from either NMN or NR. Both compounds reliably raise blood NAD+ and are safe, but clinical benefits for healthy adults remain unproven. Exercise and quality sleep achieve comparable NAD+ elevation through NAMPT upregulation — for free. Evidence level: moderate (mix of strong systematic reviews showing null results and preliminary positive signals from small manufacturer-funded trials)."
   }
 }
