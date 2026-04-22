@@ -974,5 +974,21 @@
       "риб'ячий жир"
     ],
     "summary": "Comprehensive evidence review of omega-3 supplements reveals a key conflict: Cochrane meta-analysis (86 RCTs, 162,796 participants) and the VITAL trial (n=25,871) show standard fish oil supplements have minimal or no effect on cardiovascular mortality in healthy populations. However, the REDUCE-IT trial (n=8,179) found pharmaceutical-grade purified EPA (icosapent ethyl, 4 g/day) reduced major cardiovascular events by 25% — though this result is contested due to the mineral oil placebo potentially worsening control group outcomes. STRENGTH trial (EPA+DHA combo) found no benefit. For mental health, EPA-dominant supplements show moderate antidepressant effects, but omega-3 does not treat or prevent dementia. Anti-inflammatory effects (CRP, TNF-α, IL-6 reduction) are well-documented. Practical conclusion: dietary fish (2 servings/week) is superior to supplements for most people; specific pharmaceutical EPA has evidence for high-risk cardiovascular patients but requires medical supervision. Overall evidence strength: strong, based on multiple large RCTs and Cochrane reviews."
+  },
+  "caffeine-sleep-architecture-cyp1a2-deep-sleep-guide": {
+    "date": "2026-04-22",
+    "title": "Кофеїн і архітектура сну: чому кава о 14:00 може вкрасти до 1 години загального сну",
+    "type": "guide",
+    "tags": [
+      "сон",
+      "кофеїн",
+      "кава",
+      "глибокий сон",
+      "генетика",
+      "біохакінг",
+      "хронобіологія",
+      "аденозин"
+    ],
+    "summary": "Мета-аналіз 24 досліджень (Gardiner et al., Sleep Medicine Reviews, 2023) та рандомізовані контрольовані дослідження (Drake et al., 2013; Gardiner et al., 2024) показують, що 400 мг кофеїну за 6 годин до сну скорочують загальний час сну на понад 1 годину та знижують глибокий сон (N3) на 15–30 хвилин — при цьому люди суб'єктивно не помічають погіршення. Генетичний поліморфізм CYP1A2 визначає швидкість метаболізму кофеїну: ~50% популяції є проміжними або повільними метаболізаторами з періодом напіврозпаду 5–9 годин. Мінімальний безпечний інтервал для стандартної чашки кави — 8,8 годин до сну. Рівень доказовості — сильний (мета-аналіз + кілька РКД). Стаття утворює пару зі статтею про алкоголь і сон (Apr 21), покриваючи два основні механізми хімічної дисрупції сну."
   }
 }
