@@ -12505,3 +12505,117 @@ TimeoutError: agent_query timed out after 300s
 2026-04-22 04:45:37 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
 04:45:37 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/nad-plus-nmn-nr-kritychnyi-oglyad-dobavky-dovgolittia-2026.md
 2026-04-22 04:45:37 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/nad-plus-nmn-nr-kritychnyi-oglyad-dobavky-dovgolittia-2026.md
+04:45:37 [pipeline] INFO: Article ready: nad-plus-nmn-nr-kritychnyi-oglyad-dobavky-dovgolittia-2026 (NAD+ прекурсори NMN і NR: критичний огляд добавок )
+2026-04-22 04:45:37 [pipeline] INFO: Article ready: nad-plus-nmn-nr-kritychnyi-oglyad-dobavky-dovgolittia-2026 (NAD+ прекурсори NMN і NR: критичний огляд добавок )
+04:45:37 [pipeline] INFO: === Article 7/9 ===
+2026-04-22 04:45:37 [pipeline] INFO: === Article 7/9 ===
+04:45:37 [pipeline] INFO: --- Article: [fitness] Рухливість кульшових суглобів: чому тугі стегна — головна пр ---
+2026-04-22 04:45:37 [pipeline] INFO: --- Article: [fitness] Рухливість кульшових суглобів: чому тугі стегна — головна пр ---
+04:45:37 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-22 04:45:37 [asyncio] DEBUG: Using selector: EpollSelector
+04:45:37 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-22 04:45:37 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:50:37 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+2026-04-22 04:50:37 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+04:50:42 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 6.0s
+2026-04-22 04:50:42 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 6.0s
+04:50:48 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-22 04:50:48 [asyncio] DEBUG: Using selector: EpollSelector
+04:50:48 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-22 04:50:48 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:55:14 [pipeline.stages.s2_research] INFO: Research complete: 19890 chars
+2026-04-22 04:55:14 [pipeline.stages.s2_research] INFO: Research complete: 19890 chars
+04:55:14 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-22 04:55:14 [asyncio] DEBUG: Using selector: EpollSelector
+04:55:14 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-22 04:55:14 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:56:50 [pipeline.stages.s3_generate] INFO: Generated: 'Рухливість кульшових суглобів: чому тугі стегна — часта причина болю в попереку, колінах і поганої постави' (slug=hip-mobility-tight-hips-lower-back-knee-pain-protocol, 799 words, 8 sources)
+2026-04-22 04:56:50 [pipeline.stages.s3_generate] INFO: Generated: 'Рухливість кульшових суглобів: чому тугі стегна — часта причина болю в попереку, колінах і поганої постави' (slug=hip-mobility-tight-hips-lower-back-knee-pain-protocol, 799 words, 8 sources)
+04:56:50 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-22 04:56:50 [asyncio] DEBUG: Using selector: EpollSelector
+04:56:50 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-22 04:56:50 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:58:16 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-22 04:58:16 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+04:58:16 [pipeline.stages.s4_review] INFO: Feedback: Відмінна стаття з міцною доказовою базою та чесним секцією обмежень. Кілька дрібних зауважень:
+
+1. **Порожня категорія / відсутні теги.** Поле Category пусте — потрібно заповнити (наприклад: mobility,
+2026-04-22 04:58:16 [pipeline.stages.s4_review] INFO: Feedback: Відмінна стаття з міцною доказовою базою та чесним секцією обмежень. Кілька дрібних зауважень:
+
+1. **Порожня категорія / відсутні теги.** Поле Category пусте — потрібно заповнити (наприклад: mobility,
+04:58:16 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-22 04:58:16 [asyncio] DEBUG: Using selector: EpollSelector
+04:58:16 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-22 04:58:16 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:59:09 [pipeline.stages.s5_revise] INFO: Revised article: 948 words
+2026-04-22 04:59:09 [pipeline.stages.s5_revise] INFO: Revised article: 948 words
+04:59:09 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-22 04:59:09 [pipeline] INFO: === Review cycle 1/3 complete ===
+04:59:09 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-22 04:59:09 [asyncio] DEBUG: Using selector: EpollSelector
+04:59:09 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-22 04:59:09 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:00:27 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-22 05:00:27 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+05:00:27 [pipeline.stages.s4_review] INFO: Feedback: Відмінна стаття — науково обґрунтована, збалансована, з чесним розділом обмежень. Кілька мінорних зауважень для фінального полірування:
+
+1. **Неточність в описі MASH-результату:** речення «група «стег
+2026-04-22 05:00:27 [pipeline.stages.s4_review] INFO: Feedback: Відмінна стаття — науково обґрунтована, збалансована, з чесним розділом обмежень. Кілька мінорних зауважень для фінального полірування:
+
+1. **Неточність в описі MASH-результату:** речення «група «стег
+05:00:27 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-22 05:00:27 [pipeline] INFO: Article approved after 1 revision(s)
+05:00:27 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-22 05:00:27 [asyncio] DEBUG: Using selector: EpollSelector
+05:00:27 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-22 05:00:27 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:00:46 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita is performing a deep pigeon pose on an emerald green yo | pose=Deep pigeon pose on the mat — left leg folded under her torso, right leg extended straight behind, torso rotated toward the viewer with right hand pointing at the anatomical poster and left hand pressing into the mat for support, dynamic mid-stretch position | expression=Explaining and teaching — one eyebrow slightly raised, engaged warm expression, mouth open mid-sentence as if sharing an insight, bright green eyes looking directly at the viewer | props=emerald green yoga mat, wall-mounted anatomical pelvis-hip diagram with red compensatory-cascade arrows, foam roller (grey with green accents) on the floor nearby
+2026-04-22 05:00:46 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita is performing a deep pigeon pose on an emerald green yo | pose=Deep pigeon pose on the mat — left leg folded under her torso, right leg extended straight behind, torso rotated toward the viewer with right hand pointing at the anatomical poster and left hand pressing into the mat for support, dynamic mid-stretch position | expression=Explaining and teaching — one eyebrow slightly raised, engaged warm expression, mouth open mid-sentence as if sharing an insight, bright green eyes looking directly at the viewer | props=emerald green yoga mat, wall-mounted anatomical pelvis-hip diagram with red compensatory-cascade arrows, foam roller (grey with green accents) on the floor nearby
+05:00:46 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-22 05:00:46 [asyncio] DEBUG: Using selector: EpollSelector
+05:00:46 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-22 05:00:46 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:00:55 [pipeline.stages.s6_generate_tg] INFO: TG caption: 646 chars
+2026-04-22 05:00:55 [pipeline.stages.s6_generate_tg] INFO: TG caption: 646 chars
+05:00:55 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=hip-mobility-tight-hips-lower-back-knee-pain-protocol
+2026-04-22 05:00:55 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=hip-mobility-tight-hips-lower-back-knee-pain-protocol
+05:00:55 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-22 05:00:55 [asyncio] DEBUG: Using selector: EpollSelector
+05:00:55 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-22 05:00:55 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+05:01:15 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Consolidated duplicate sections (pose, colors, props were repeated), moved subject and anatomy to th
+2026-04-22 05:01:15 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Consolidated duplicate sections (pose, colors, props were repeated), moved subject and anatomy to th
+05:01:15 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+2026-04-22 05:01:15 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+05:01:15 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-22 05:01:15 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+05:01:16 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+2026-04-22 05:01:16 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+05:01:16 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+2026-04-22 05:01:16 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+05:01:16 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 1 failed to produce image
+2026-04-22 05:01:16 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 1 failed to produce image
+05:01:16 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 2/3 (quality=high)
+2026-04-22 05:01:16 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 2/3 (quality=high)
+05:01:16 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-22 05:01:16 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+05:01:16 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+2026-04-22 05:01:16 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+05:01:16 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+2026-04-22 05:01:16 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+05:01:16 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 2 failed to produce image
+2026-04-22 05:01:16 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 2 failed to produce image
+05:01:16 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 3/3 (quality=high)
+2026-04-22 05:01:16 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 3/3 (quality=high)
+05:01:16 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-22 05:01:16 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+05:01:17 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+2026-04-22 05:01:17 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+05:01:17 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+2026-04-22 05:01:17 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+05:01:17 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
+2026-04-22 05:01:17 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
+05:01:17 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
+2026-04-22 05:01:17 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
+05:01:17 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/hip-mobility-tight-hips-lower-back-knee-pain-protocol.md
+2026-04-22 05:01:17 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/hip-mobility-tight-hips-lower-back-knee-pain-protocol.md
