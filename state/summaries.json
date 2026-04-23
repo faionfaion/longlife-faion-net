@@ -1128,5 +1128,21 @@
       "імунітет"
     ],
     "summary": "Рапаміцин — інгібітор mTOR — має найсильніші доклінічні дані серед трьох молекул довголіття: подовження життя мишей на 9–26% у програмі ITP (Harrison 2009, Miller 2014). Парадоксально, низькі дози покращують імунітет у літніх людей (Mannick 2014, 2018). Однак PEARL trial (2025, n=114) не досягла первинної кінцевої точки, а систематичний огляд Lancet Healthy Longevity (2024) і огляд Hands et al. (2025) підтверджують: людських доказів подовження життя немає. Дослідження TRIAD на 580 домашніх собаках може дати результати до 2028. Побічні ефекти (стоматит, дисліпідемія, інсулінорезистентність) роблять самопризначення ризикованим без доведеної користі."
+  },
+  "leucine-threshold-30g-protein-per-meal-mps-mtor-after-40": {
+    "date": "2026-04-23",
+    "title": "Лейціновий поріг: чому ~30 грамів білка за раз — не просто маркетинг, а орієнтир для м'язового синтезу після 40",
+    "type": "nutrition",
+    "tags": [
+      "харчування",
+      "білок",
+      "лейцин",
+      "м'язи",
+      "саркопенія",
+      "mTOR",
+      "старіння",
+      "рослинний білок"
+    ],
+    "summary": "The article explains the leucine trigger hypothesis for muscle protein synthesis (MPS), specifically targeting adults 40+. Key evidence: Zaromskyte et al. (2021, 29-study systematic review) found the leucine threshold (~3g per meal) is especially relevant for older adults (73% study support). Devries et al. (2018 RCT) demonstrated that leucine content, not total protein, is the primary MPS determinant in older women. Mamerow et al. (2014) showed even protein distribution yields 25% higher MPS than skewed intake. Wall et al. (2015) quantified anabolic resistance as 3-fold blunted MPS response in elderly. Practical protocol: 3-4 meals with 25-40g protein each (age-dependent), targeting ≥3g leucine per meal. Plant-based strategies include increasing portions by 20-30% and leucine fortification. Evidence level: moderate (multiple RCTs and systematic reviews, but many studies use isolated proteins and small samples)."
   }
 }
