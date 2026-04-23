@@ -1059,5 +1059,22 @@
       "профілактика"
     ],
     "summary": "22 квітня 2026 року стартувала фаза 3 клінічних випробувань мРНК-вакцини Moderna mRNA-1018 проти пташиного грипу H5N1 (4 000 учасників, фінансування CEPI — $54,3 млн). Фаза 1/2 (304 особи) показала серопротекцію 97,8% після двох доз і прийнятний профіль безпеки. H5N1 має CFR ~48% за ВООЗ, хоча дані з ферм США свідчать про значно м'якший перебіг (94% легких випадків). Стійкої передачі між людьми немає. Для України тема критична: найбільший птахівничий сектор Європи, 3 з 6 міграційних маршрутів, досвід зі спалахами H5N8, відсутність запасів пандемічних вакцин. Рівень доказів помірний — потрібні результати фази 3."
+  },
+  "sleep-regularity-sri-mortality-social-jetlag-guide": {
+    "date": "2026-04-23",
+    "title": "Регулярність сну може бути важливішою за тривалість: чому стабільний графік асоціюється з нижчим ризиком смерті",
+    "type": "guide",
+    "tags": [
+      "сон",
+      "регулярність сну",
+      "циркадні ритми",
+      "соціальний джетлег",
+      "смертність",
+      "серцево-судинне здоров'я",
+      "ментальне здоров'я",
+      "UK Biobank",
+      "довголіття"
+    ],
+    "summary": "Two independent UK Biobank prospective cohort studies (Windred 2024, n=60,977; Cribb 2024, n=88,975) demonstrate that the Sleep Regularity Index (SRI) is a stronger predictor of all-cause mortality than sleep duration. The most irregular sleepers face 40–53% higher all-cause mortality and up to 88% higher cardiovascular mortality. When SRI and duration are modeled together, duration loses statistical significance. Additional evidence from MESA (Huang 2020: 2× CVD risk with >120 min variability), mental health outcomes (Li 2025: 38% lower depression risk for regular sleepers), and the NSF 2023 consensus statement all converge on the same conclusion: timing consistency matters more than hours. All evidence is observational; no RCT has tested whether improving regularity reduces mortality. Practical takeaway: narrow the sleep-wake window to ±30 minutes daily, anchor wake time on weekends, and use morning light exposure as a circadian stabilizer."
   }
 }

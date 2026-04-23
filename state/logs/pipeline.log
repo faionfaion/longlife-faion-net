@@ -13616,3 +13616,125 @@ Error output: Check stderr output for details) — using raw prompt
 2026-04-23 03:33:49 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
 03:33:49 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/h5n1-mrna-vaccine-phase-3-pandemic-preparedness-ukraine.md
 2026-04-23 03:33:49 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/h5n1-mrna-vaccine-phase-3-pandemic-preparedness-ukraine.md
+03:33:49 [pipeline] INFO: Article ready: h5n1-mrna-vaccine-phase-3-pandemic-preparedness-ukraine (Вакцина проти пташиного грипу H5N1: навіщо випробо)
+2026-04-23 03:33:49 [pipeline] INFO: Article ready: h5n1-mrna-vaccine-phase-3-pandemic-preparedness-ukraine (Вакцина проти пташиного грипу H5N1: навіщо випробо)
+03:33:49 [pipeline] INFO: === Article 2/9 ===
+2026-04-23 03:33:49 [pipeline] INFO: === Article 2/9 ===
+03:33:49 [pipeline] INFO: --- Article: [guide] Регулярність сну важливіша за тривалість: чому лягати щодня  ---
+2026-04-23 03:33:49 [pipeline] INFO: --- Article: [guide] Регулярність сну важливіша за тривалість: чому лягати щодня  ---
+03:33:49 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-23 03:33:49 [asyncio] DEBUG: Using selector: EpollSelector
+03:33:49 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-23 03:33:49 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:38:49 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+2026-04-23 03:38:49 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+03:38:54 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 5.6s
+2026-04-23 03:38:54 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 5.6s
+03:39:00 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-23 03:39:00 [asyncio] DEBUG: Using selector: EpollSelector
+03:39:00 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-23 03:39:00 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:44:00 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+2026-04-23 03:44:00 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+03:44:05 [pipeline.sdk] WARNING: agent_query retry 2/2: agent_query timed out after 300s — 13.3s
+2026-04-23 03:44:05 [pipeline.sdk] WARNING: agent_query retry 2/2: agent_query timed out after 300s — 13.3s
+03:44:19 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-23 03:44:19 [asyncio] DEBUG: Using selector: EpollSelector
+03:44:19 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-23 03:44:19 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:48:45 [pipeline.stages.s2_research] INFO: Research complete: 19290 chars
+2026-04-23 03:48:45 [pipeline.stages.s2_research] INFO: Research complete: 19290 chars
+03:48:45 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-23 03:48:45 [asyncio] DEBUG: Using selector: EpollSelector
+03:48:45 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-23 03:48:45 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:51:06 [pipeline.stages.s3_generate] INFO: Generated: 'Регулярність сну важливіша за тривалість: чому лягати щодня в один час знижує ризик смерті більше, ніж спати рівно 8 годин' (slug=sleep-regularity-sri-mortality-social-jetlag-guide, 1402 words, 7 sources)
+2026-04-23 03:51:06 [pipeline.stages.s3_generate] INFO: Generated: 'Регулярність сну важливіша за тривалість: чому лягати щодня в один час знижує ризик смерті більше, ніж спати рівно 8 годин' (slug=sleep-regularity-sri-mortality-social-jetlag-guide, 1402 words, 7 sources)
+03:51:06 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-23 03:51:06 [asyncio] DEBUG: Using selector: EpollSelector
+03:51:06 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-23 03:51:06 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:52:49 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+2026-04-23 03:52:49 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+03:52:49 [pipeline.stages.s4_review] INFO: Feedback: Стаття добре структурована, науково обґрунтована і має сильний розділ обмежень. Проте є кілька проблем, які потребують виправлення перед публікацією:
+
+1. **НЕВІДПОВІДНІСТЬ ДЖЕРЕЛ:** У наданому списку 
+2026-04-23 03:52:49 [pipeline.stages.s4_review] INFO: Feedback: Стаття добре структурована, науково обґрунтована і має сильний розділ обмежень. Проте є кілька проблем, які потребують виправлення перед публікацією:
+
+1. **НЕВІДПОВІДНІСТЬ ДЖЕРЕЛ:** У наданому списку 
+03:52:49 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-23 03:52:49 [asyncio] DEBUG: Using selector: EpollSelector
+03:52:49 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-23 03:52:49 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:55:26 [pipeline.stages.s5_revise] INFO: Revised article: 1539 words
+2026-04-23 03:55:26 [pipeline.stages.s5_revise] INFO: Revised article: 1539 words
+03:55:26 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-23 03:55:26 [pipeline] INFO: === Review cycle 1/3 complete ===
+03:55:26 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-23 03:55:26 [asyncio] DEBUG: Using selector: EpollSelector
+03:55:26 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-23 03:55:26 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:57:08 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-23 03:57:08 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+03:57:08 [pipeline.stages.s4_review] INFO: Feedback: Загалом якісна, науково коректна стаття з правильним балансом доказовості та практичності. Ось конкретні зауваження для фінального доопрацювання:
+
+1. **МЕТАДАНІ ДЖЕРЕЛ — КРИТИЧНА ПОМИЛКА.** Список дже
+2026-04-23 03:57:08 [pipeline.stages.s4_review] INFO: Feedback: Загалом якісна, науково коректна стаття з правильним балансом доказовості та практичності. Ось конкретні зауваження для фінального доопрацювання:
+
+1. **МЕТАДАНІ ДЖЕРЕЛ — КРИТИЧНА ПОМИЛКА.** Список дже
+03:57:08 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-23 03:57:08 [pipeline] INFO: Article approved after 1 revision(s)
+03:57:08 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-23 03:57:08 [asyncio] DEBUG: Using selector: EpollSelector
+03:57:08 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-23 03:57:08 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:57:34 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita sits on the edge of a neatly made bed in the early morn | pose=Seated on the bed edge, left leg crossed over right, left wrist resting on knee showing her fitness smartwatch. Right hand holds a tablet angled toward the viewer displaying two sleep graphs. Her left hand points at the stable-pattern graph with index finger extended. Torso slightly turned toward the viewer, athletic posture even while sitting. | expression=Encouraging look — slight head tilt to the right, soft warm eyes, gentle knowing smile, one eyebrow slightly raised as if revealing an important secret. | props=tablet displaying two sleep schedule charts (one irregular/red zigzag, one stable/green straight lines), emerald-green throw blanket on the bed, fitness smartwatch on left wrist with black band and green accents showing a bedtime reminder notification, small potted green plant on the nightstand
+2026-04-23 03:57:34 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita sits on the edge of a neatly made bed in the early morn | pose=Seated on the bed edge, left leg crossed over right, left wrist resting on knee showing her fitness smartwatch. Right hand holds a tablet angled toward the viewer displaying two sleep graphs. Her left hand points at the stable-pattern graph with index finger extended. Torso slightly turned toward the viewer, athletic posture even while sitting. | expression=Encouraging look — slight head tilt to the right, soft warm eyes, gentle knowing smile, one eyebrow slightly raised as if revealing an important secret. | props=tablet displaying two sleep schedule charts (one irregular/red zigzag, one stable/green straight lines), emerald-green throw blanket on the bed, fitness smartwatch on left wrist with black band and green accents showing a bedtime reminder notification, small potted green plant on the nightstand
+03:57:34 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-23 03:57:34 [asyncio] DEBUG: Using selector: EpollSelector
+03:57:34 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-23 03:57:34 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:57:47 [pipeline.stages.s6_generate_tg] INFO: TG caption: 741 chars
+2026-04-23 03:57:47 [pipeline.stages.s6_generate_tg] INFO: TG caption: 741 chars
+03:57:47 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=sleep-regularity-sri-mortality-social-jetlag-guide
+2026-04-23 03:57:47 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=sleep-regularity-sri-mortality-social-jetlag-guide
+03:57:47 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-23 03:57:47 [asyncio] DEBUG: Using selector: EpollSelector
+03:57:47 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-23 03:57:47 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:58:05 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Restructured to subject-first ordering with pose and environment following. Consolidated redundant m
+2026-04-23 03:58:05 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Restructured to subject-first ordering with pose and environment following. Consolidated redundant m
+03:58:05 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+2026-04-23 03:58:05 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+03:58:05 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-23 03:58:05 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:58:06 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+2026-04-23 03:58:06 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+03:58:06 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+2026-04-23 03:58:06 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+03:58:06 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 1 failed to produce image
+2026-04-23 03:58:06 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 1 failed to produce image
+03:58:06 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 2/3 (quality=high)
+2026-04-23 03:58:06 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 2/3 (quality=high)
+03:58:06 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-23 03:58:06 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:58:07 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+2026-04-23 03:58:07 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+03:58:07 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+2026-04-23 03:58:07 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+03:58:07 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 2 failed to produce image
+2026-04-23 03:58:07 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 2 failed to produce image
+03:58:07 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 3/3 (quality=high)
+2026-04-23 03:58:07 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 3/3 (quality=high)
+03:58:07 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-23 03:58:07 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:58:08 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+2026-04-23 03:58:08 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+03:58:08 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+2026-04-23 03:58:08 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+03:58:08 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
+2026-04-23 03:58:08 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
+03:58:08 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
+2026-04-23 03:58:08 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
+03:58:08 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/sleep-regularity-sri-mortality-social-jetlag-guide.md
+2026-04-23 03:58:08 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/sleep-regularity-sri-mortality-social-jetlag-guide.md
