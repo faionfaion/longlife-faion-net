@@ -13852,3 +13852,115 @@ Error output: Check stderr output for details) — using raw prompt
 2026-04-23 04:15:07 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
 04:15:07 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/uk-tobacco-endgame-generation-ban-lancet-ukraine-vaping.md
 2026-04-23 04:15:07 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/uk-tobacco-endgame-generation-ban-lancet-ukraine-vaping.md
+04:15:08 [pipeline] INFO: Article ready: uk-tobacco-endgame-generation-ban-lancet-ukraine-vaping (Заборона тютюну для покоління 2008+: чому Велика Б)
+2026-04-23 04:15:08 [pipeline] INFO: Article ready: uk-tobacco-endgame-generation-ban-lancet-ukraine-vaping (Заборона тютюну для покоління 2008+: чому Велика Б)
+04:15:08 [pipeline] INFO: === Article 4/9 ===
+2026-04-23 04:15:08 [pipeline] INFO: === Article 4/9 ===
+04:15:08 [pipeline] INFO: --- Article: [research] Самотність вбиває: мета-аналіз показує, що соціальна ізоляці ---
+2026-04-23 04:15:08 [pipeline] INFO: --- Article: [research] Самотність вбиває: мета-аналіз показує, що соціальна ізоляці ---
+04:15:08 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-23 04:15:08 [asyncio] DEBUG: Using selector: EpollSelector
+04:15:08 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-23 04:15:08 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:20:08 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+2026-04-23 04:20:08 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+04:20:13 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 5.1s
+2026-04-23 04:20:13 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 5.1s
+04:20:18 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-23 04:20:18 [asyncio] DEBUG: Using selector: EpollSelector
+04:20:18 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-23 04:20:18 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:24:31 [pipeline.stages.s2_research] INFO: Research complete: 15108 chars
+2026-04-23 04:24:31 [pipeline.stages.s2_research] INFO: Research complete: 15108 chars
+04:24:31 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-23 04:24:31 [asyncio] DEBUG: Using selector: EpollSelector
+04:24:31 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-23 04:24:31 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:26:39 [pipeline.stages.s3_generate] INFO: Generated: 'Самотність як фактор ризику смерті: мета-аналізи 2,2 мільйона осіб показують ефект, порівнянний із курінням' (slug=samotnist-smertist-meta-analiz-sotsialna-izolatsiia-who-2025, 726 words, 9 sources)
+2026-04-23 04:26:39 [pipeline.stages.s3_generate] INFO: Generated: 'Самотність як фактор ризику смерті: мета-аналізи 2,2 мільйона осіб показують ефект, порівнянний із курінням' (slug=samotnist-smertist-meta-analiz-sotsialna-izolatsiia-who-2025, 726 words, 9 sources)
+04:26:39 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-23 04:26:39 [asyncio] DEBUG: Using selector: EpollSelector
+04:26:39 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-23 04:26:39 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:28:03 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+2026-04-23 04:28:03 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+04:28:03 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом якісна, добре структурована і науково обґрунтована. Основні зауваження для доопрацювання:
+
+1. **Непідкріплені джерелами твердження:**
+   - «1–3 години соціальної взаємодії щодня та міні
+2026-04-23 04:28:03 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом якісна, добре структурована і науково обґрунтована. Основні зауваження для доопрацювання:
+
+1. **Непідкріплені джерелами твердження:**
+   - «1–3 години соціальної взаємодії щодня та міні
+04:28:03 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-23 04:28:03 [asyncio] DEBUG: Using selector: EpollSelector
+04:28:03 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-23 04:28:03 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:32:01 [pipeline.stages.s5_revise] INFO: Revised article: 981 words
+2026-04-23 04:32:01 [pipeline.stages.s5_revise] INFO: Revised article: 981 words
+04:32:01 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-23 04:32:01 [pipeline] INFO: === Review cycle 1/3 complete ===
+04:32:01 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-23 04:32:01 [asyncio] DEBUG: Using selector: EpollSelector
+04:32:01 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-23 04:32:01 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:33:15 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-23 04:33:15 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+04:33:15 [pipeline.stages.s4_review] INFO: Feedback: Відмінна стаття з високим рівнем наукової точності та збалансованості. Особливо вдала частина з поясненням абсолютного vs відносного ризику — рідкість у health-журналістиці. Кілька незначних зауважень
+2026-04-23 04:33:15 [pipeline.stages.s4_review] INFO: Feedback: Відмінна стаття з високим рівнем наукової точності та збалансованості. Особливо вдала частина з поясненням абсолютного vs відносного ризику — рідкість у health-журналістиці. Кілька незначних зауважень
+04:33:15 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-23 04:33:15 [pipeline] INFO: Article approved after 1 revision(s)
+04:33:15 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-23 04:33:15 [asyncio] DEBUG: Using selector: EpollSelector
+04:33:15 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-23 04:33:15 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:33:44 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a modern research office, holding a tablet di | pose=Presenting pose — left hand holds a tablet at chest height angled toward the viewer, right arm extended forward with open palm in a welcoming gesture toward a cluster of three stylized human silhouettes walking together. Slight lean forward, weight on front foot, dynamic and engaging. | expression=Encouraging look — slight head tilt to the right, softened bright green eyes, warm but serious half-smile conveying both concern about the data and hope about the solution. | props=Tablet showing side-by-side bar chart: cigarette icon labeled 'Куріння' vs lonely figure icon labeled 'Самотність' with nearly equal risk bars, Large wall screen with WHO emblem and bold stat '871 000 смертей/рік', Three small human silhouettes in warm tones walking toward Vita symbolizing social reconnection, Vita's black-band fitness smartwatch with green accents on left wrist, Reading glasses pushed up on top of her head
+2026-04-23 04:33:44 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a modern research office, holding a tablet di | pose=Presenting pose — left hand holds a tablet at chest height angled toward the viewer, right arm extended forward with open palm in a welcoming gesture toward a cluster of three stylized human silhouettes walking together. Slight lean forward, weight on front foot, dynamic and engaging. | expression=Encouraging look — slight head tilt to the right, softened bright green eyes, warm but serious half-smile conveying both concern about the data and hope about the solution. | props=Tablet showing side-by-side bar chart: cigarette icon labeled 'Куріння' vs lonely figure icon labeled 'Самотність' with nearly equal risk bars, Large wall screen with WHO emblem and bold stat '871 000 смертей/рік', Three small human silhouettes in warm tones walking toward Vita symbolizing social reconnection, Vita's black-band fitness smartwatch with green accents on left wrist, Reading glasses pushed up on top of her head
+04:33:44 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-23 04:33:44 [asyncio] DEBUG: Using selector: EpollSelector
+04:33:44 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-23 04:33:44 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:33:54 [pipeline.stages.s6_generate_tg] INFO: TG caption: 640 chars
+2026-04-23 04:33:54 [pipeline.stages.s6_generate_tg] INFO: TG caption: 640 chars
+04:33:54 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=samotnist-smertist-meta-analiz-sotsialna-izolatsiia-who-2025
+2026-04-23 04:33:54 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=samotnist-smertist-meta-analiz-sotsialna-izolatsiia-who-2025
+04:33:54 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-23 04:33:54 [asyncio] DEBUG: Using selector: EpollSelector
+04:33:54 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-23 04:33:54 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:34:23 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Restructured to subject-first order with explicit anatomy counts (five fingers, single pair of arms,
+2026-04-23 04:34:23 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Restructured to subject-first order with explicit anatomy counts (five fingers, single pair of arms,
+04:34:23 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+2026-04-23 04:34:23 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+04:34:23 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-23 04:34:23 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:34:25 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+2026-04-23 04:34:25 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+04:34:25 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+2026-04-23 04:34:25 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+04:34:25 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 1 failed to produce image
+2026-04-23 04:34:25 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 1 failed to produce image
+04:34:25 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 2/3 (quality=high)
+2026-04-23 04:34:25 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 2/3 (quality=high)
+04:34:25 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-23 04:34:25 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:34:25 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+2026-04-23 04:34:25 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+04:34:25 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+2026-04-23 04:34:25 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+04:34:25 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 2 failed to produce image
+2026-04-23 04:34:25 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 2 failed to produce image
+04:34:25 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 3/3 (quality=high)
+2026-04-23 04:34:25 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 3/3 (quality=high)
+04:34:25 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-23 04:34:25 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:34:25 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+2026-04-23 04:34:25 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+04:34:25 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+2026-04-23 04:34:25 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+04:34:25 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
+2026-04-23 04:34:25 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
+04:34:25 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
+2026-04-23 04:34:25 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
+04:34:25 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/samotnist-smertist-meta-analiz-sotsialna-izolatsiia-who-2025.md
+2026-04-23 04:34:25 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/samotnist-smertist-meta-analiz-sotsialna-izolatsiia-who-2025.md
