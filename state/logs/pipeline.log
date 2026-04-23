@@ -13738,3 +13738,117 @@ Error output: Check stderr output for details) — using raw prompt
 2026-04-23 03:58:08 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
 03:58:08 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/sleep-regularity-sri-mortality-social-jetlag-guide.md
 2026-04-23 03:58:08 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/sleep-regularity-sri-mortality-social-jetlag-guide.md
+03:58:08 [pipeline] INFO: Article ready: sleep-regularity-sri-mortality-social-jetlag-guide (Регулярність сну може бути важливішою за триваліст)
+2026-04-23 03:58:08 [pipeline] INFO: Article ready: sleep-regularity-sri-mortality-social-jetlag-guide (Регулярність сну може бути важливішою за триваліст)
+03:58:08 [pipeline] INFO: === Article 3/9 ===
+2026-04-23 03:58:08 [pipeline] INFO: === Article 3/9 ===
+03:58:08 [pipeline] INFO: --- Article: [research] Заборона куріння для покоління 2008+: чому Велика Британія о ---
+2026-04-23 03:58:08 [pipeline] INFO: --- Article: [research] Заборона куріння для покоління 2008+: чому Велика Британія о ---
+03:58:08 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-23 03:58:08 [asyncio] DEBUG: Using selector: EpollSelector
+03:58:08 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-23 03:58:08 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:03:08 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+2026-04-23 04:03:08 [claude_agent_sdk._internal.query] DEBUG: Read task cancelled
+04:03:14 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 6.2s
+2026-04-23 04:03:14 [pipeline.sdk] WARNING: agent_query retry 1/2: agent_query timed out after 300s — 6.2s
+04:03:20 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-23 04:03:20 [asyncio] DEBUG: Using selector: EpollSelector
+04:03:20 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-23 04:03:20 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:07:40 [pipeline.stages.s2_research] INFO: Research complete: 14109 chars
+2026-04-23 04:07:40 [pipeline.stages.s2_research] INFO: Research complete: 14109 chars
+04:07:41 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-23 04:07:41 [asyncio] DEBUG: Using selector: EpollSelector
+04:07:41 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-23 04:07:41 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:09:50 [pipeline.stages.s3_generate] INFO: Generated: 'Заборона тютюну для покоління 2008+: чому Велика Британія обирає tobacco endgame і що каже наука' (slug=uk-tobacco-endgame-generation-ban-lancet-ukraine-vaping, 697 words, 14 sources)
+2026-04-23 04:09:50 [pipeline.stages.s3_generate] INFO: Generated: 'Заборона тютюну для покоління 2008+: чому Велика Британія обирає tobacco endgame і що каже наука' (slug=uk-tobacco-endgame-generation-ban-lancet-ukraine-vaping, 697 words, 14 sources)
+04:09:50 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-23 04:09:50 [asyncio] DEBUG: Using selector: EpollSelector
+04:09:50 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-23 04:09:50 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:11:08 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-23 04:11:08 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+04:11:08 [pipeline.stages.s4_review] INFO: Feedback: Сильна, збалансована стаття з добре підібраною доказовою базою. Кілька зауважень для фінального полірування:
+
+1. **Не використане джерело:** У списку sources є Nicotine & Tobacco Research (PMC11417120
+2026-04-23 04:11:08 [pipeline.stages.s4_review] INFO: Feedback: Сильна, збалансована стаття з добре підібраною доказовою базою. Кілька зауважень для фінального полірування:
+
+1. **Не використане джерело:** У списку sources є Nicotine & Tobacco Research (PMC11417120
+04:11:08 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-23 04:11:08 [asyncio] DEBUG: Using selector: EpollSelector
+04:11:08 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-23 04:11:08 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:12:54 [pipeline.stages.s5_revise] INFO: Revised article: 763 words
+2026-04-23 04:12:54 [pipeline.stages.s5_revise] INFO: Revised article: 763 words
+04:12:54 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-23 04:12:54 [pipeline] INFO: === Review cycle 1/3 complete ===
+04:12:54 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-23 04:12:54 [asyncio] DEBUG: Using selector: EpollSelector
+04:12:54 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-23 04:12:54 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:14:08 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-23 04:14:08 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+04:14:08 [pipeline.stages.s4_review] INFO: Feedback: Відмінний матеріал — науково точний, збалансований, з коректними застереженнями та практичними порадами. Кілька зауважень для фінального полірування:
+
+1. **Категорія та теги відсутні.** Потрібно вказа
+2026-04-23 04:14:08 [pipeline.stages.s4_review] INFO: Feedback: Відмінний матеріал — науково точний, збалансований, з коректними застереженнями та практичними порадами. Кілька зауважень для фінального полірування:
+
+1. **Категорія та теги відсутні.** Потрібно вказа
+04:14:08 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-23 04:14:08 [pipeline] INFO: Article approved after 1 revision(s)
+04:14:08 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-23 04:14:08 [asyncio] DEBUG: Using selector: EpollSelector
+04:14:08 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-23 04:14:08 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:14:35 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a modern research lab, confidently pointing a | pose=Standing in a dynamic presenting stance — right arm extended forward, index finger pointing at the declining graph on the screen; left hand at waist level firmly crushing a cigarette pack, with broken cigarettes flying outward. Slight forward lean, weight on front foot, conveying authority and momentum. | expression=Explaining and teaching — one eyebrow slightly raised, engaged bright green eyes, mouth open mid-sentence with a confident half-smile, projecting both scientific authority and approachable energy. | props=large digital wall screen showing declining tobacco mortality graph, crushed cigarette pack in left hand with scattered broken cigarettes, stack of medical research journals (Lancet, Nicotine & Tobacco Research) on lab bench, fitness smartwatch on left wrist (black band, green accents), reading glasses pushed up on top of her head
+2026-04-23 04:14:35 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a modern research lab, confidently pointing a | pose=Standing in a dynamic presenting stance — right arm extended forward, index finger pointing at the declining graph on the screen; left hand at waist level firmly crushing a cigarette pack, with broken cigarettes flying outward. Slight forward lean, weight on front foot, conveying authority and momentum. | expression=Explaining and teaching — one eyebrow slightly raised, engaged bright green eyes, mouth open mid-sentence with a confident half-smile, projecting both scientific authority and approachable energy. | props=large digital wall screen showing declining tobacco mortality graph, crushed cigarette pack in left hand with scattered broken cigarettes, stack of medical research journals (Lancet, Nicotine & Tobacco Research) on lab bench, fitness smartwatch on left wrist (black band, green accents), reading glasses pushed up on top of her head
+04:14:35 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-23 04:14:35 [asyncio] DEBUG: Using selector: EpollSelector
+04:14:35 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-23 04:14:35 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:14:47 [pipeline.stages.s6_generate_tg] INFO: TG caption: 796 chars
+2026-04-23 04:14:47 [pipeline.stages.s6_generate_tg] INFO: TG caption: 796 chars
+04:14:47 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=uk-tobacco-endgame-generation-ban-lancet-ukraine-vaping
+2026-04-23 04:14:47 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=uk-tobacco-endgame-generation-ban-lancet-ukraine-vaping
+04:14:47 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-23 04:14:47 [asyncio] DEBUG: Using selector: EpollSelector
+04:14:47 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-23 04:14:47 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:15:04 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Restructured to lead with the character (subject-first), added explicit anatomy constraints (two arm
+2026-04-23 04:15:04 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Restructured to lead with the character (subject-first), added explicit anatomy constraints (two arm
+04:15:04 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+2026-04-23 04:15:04 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+04:15:04 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-23 04:15:04 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:15:06 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+2026-04-23 04:15:06 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+04:15:06 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+2026-04-23 04:15:06 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+04:15:06 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 1 failed to produce image
+2026-04-23 04:15:06 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 1 failed to produce image
+04:15:06 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 2/3 (quality=high)
+2026-04-23 04:15:06 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 2/3 (quality=high)
+04:15:06 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-23 04:15:06 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:15:06 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+2026-04-23 04:15:06 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+04:15:06 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+2026-04-23 04:15:06 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+04:15:06 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 2 failed to produce image
+2026-04-23 04:15:06 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 2 failed to produce image
+04:15:06 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 3/3 (quality=high)
+2026-04-23 04:15:06 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 3/3 (quality=high)
+04:15:06 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-23 04:15:06 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:15:07 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+2026-04-23 04:15:07 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+04:15:07 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+2026-04-23 04:15:07 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+04:15:07 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
+2026-04-23 04:15:07 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
+04:15:07 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
+2026-04-23 04:15:07 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
+04:15:07 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/uk-tobacco-endgame-generation-ban-lancet-ukraine-vaping.md
+2026-04-23 04:15:07 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/uk-tobacco-endgame-generation-ban-lancet-ukraine-vaping.md

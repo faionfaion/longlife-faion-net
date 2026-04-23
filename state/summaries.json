@@ -1076,5 +1076,23 @@
       "довголіття"
     ],
     "summary": "Two independent UK Biobank prospective cohort studies (Windred 2024, n=60,977; Cribb 2024, n=88,975) demonstrate that the Sleep Regularity Index (SRI) is a stronger predictor of all-cause mortality than sleep duration. The most irregular sleepers face 40–53% higher all-cause mortality and up to 88% higher cardiovascular mortality. When SRI and duration are modeled together, duration loses statistical significance. Additional evidence from MESA (Huang 2020: 2× CVD risk with >120 min variability), mental health outcomes (Li 2025: 38% lower depression risk for regular sleepers), and the NSF 2023 consensus statement all converge on the same conclusion: timing consistency matters more than hours. All evidence is observational; no RCT has tested whether improving regularity reduces mortality. Practical takeaway: narrow the sleep-wake window to ±30 minutes daily, anchor wake time on weekends, and use morning light exposure as a circadian stabilizer."
+  },
+  "uk-tobacco-endgame-generation-ban-lancet-ukraine-vaping": {
+    "date": "2026-04-23",
+    "title": "Заборона тютюну для покоління 2008+: чому Велика Британія обирає tobacco endgame і що каже наука",
+    "type": "research",
+    "tags": [
+      "куріння",
+      "тютюн",
+      "вейпінг",
+      "е-цигарки",
+      "профілактика",
+      "tobacco endgame",
+      "здоров'я легень",
+      "Велика Британія",
+      "Україна",
+      "молодь"
+    ],
+    "summary": "The UK passed the Tobacco and Vapes Bill (April 2026), banning tobacco sales to anyone born after January 1, 2009 — the first tobacco endgame law in a major country. A Lancet Public Health (2024) simulation estimates this approach could prevent 1.2 million lung cancer deaths across 185 countries by 2095. The article examines New Zealand's cautionary tale (similar law passed 2022, repealed 2024 due to fiscal concerns), vaping safety evidence (95% less harmful than smoking per OHID, but systematic reviews show respiratory risks), and ethical counterarguments (black markets, loss of tax-based regulation). Ukrainian context is alarming: youth vaping doubled from 25.8% to 52.3% between 2022-2024 (ERS 2024), with war-related stress as a key driver. Evidence level is moderate — strong epidemiological data but the endgame policy itself is untested long-term."
   }
 }
