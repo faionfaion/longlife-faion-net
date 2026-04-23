@@ -1,0 +1,236 @@
+{
+  "timestamp": "2026-04-22_053337",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "omega-3-dobavky-meta-analizy-sertse-mozok-zapalennia, caffeine-sleep-architecture-cyp1a2-deep-sleep-guide, nad-plus-nmn-nr-kritychnyi-oglyad-dobavky-dovgolittia-2026, hip-mobility-tight-hips-lower-back-knee-pain-protocol, chasove-vikno-kharchuvannia-time-restricted-eating-16-8-rkd-analiz",
+  "author": "LongLife Media",
+  "duration_s": 9035.1,
+  "image_generated": false,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 469.3,
+      "error": null
+    },
+    {
+      "name": "research:Заборона куріння для народжени",
+      "status": "failed",
+      "duration_s": 933.4,
+      "error": "agent_query timed out after 300s"
+    },
+    {
+      "name": "research:Слух і деменція: чому зниження",
+      "status": "failed",
+      "duration_s": 934.8,
+      "error": "agent_query timed out after 300s"
+    },
+    {
+      "name": "research:ЗРДА (ADHD) у дорослих: чому р",
+      "status": "failed",
+      "duration_s": 926.7,
+      "error": "agent_query timed out after 300s"
+    },
+    {
+      "name": "research:Омега-3 добавки у 2026 році: щ",
+      "status": "ok",
+      "duration_s": 557.9,
+      "error": null
+    },
+    {
+      "name": "generate:Омега-3 добавки у 2026 році: щ",
+      "status": "ok",
+      "duration_s": 87.9,
+      "error": null
+    },
+    {
+      "name": "review:Омега-3 добавки у 2026 році: щ",
+      "status": "ok",
+      "duration_s": 180.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Омега-3 добавки у 2026 році: щ",
+      "status": "ok",
+      "duration_s": 29.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Омега-3 добавки у 2026 році: щ",
+      "status": "ok",
+      "duration_s": 10.3,
+      "error": null
+    },
+    {
+      "name": "save:Омега-3 добавки у 2026 році: щ",
+      "status": "ok",
+      "duration_s": 28.3,
+      "error": null
+    },
+    {
+      "name": "research:Кофеїн і архітектура сну: чому",
+      "status": "ok",
+      "duration_s": 266.6,
+      "error": null
+    },
+    {
+      "name": "generate:Кофеїн і архітектура сну: чому",
+      "status": "ok",
+      "duration_s": 185.2,
+      "error": null
+    },
+    {
+      "name": "review:Кофеїн і архітектура сну: чому",
+      "status": "ok",
+      "duration_s": 500.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Кофеїн і архітектура сну: чому",
+      "status": "ok",
+      "duration_s": 30.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Кофеїн і архітектура сну: чому",
+      "status": "ok",
+      "duration_s": 9.1,
+      "error": null
+    },
+    {
+      "name": "save:Кофеїн і архітектура сну: чому",
+      "status": "ok",
+      "duration_s": 27.8,
+      "error": null
+    },
+    {
+      "name": "research:NAD+ прекурсори (NMN і NR): що",
+      "status": "ok",
+      "duration_s": 604.4,
+      "error": null
+    },
+    {
+      "name": "generate:NAD+ прекурсори (NMN і NR): що",
+      "status": "ok",
+      "duration_s": 85.1,
+      "error": null
+    },
+    {
+      "name": "review:NAD+ прекурсори (NMN і NR): що",
+      "status": "ok",
+      "duration_s": 226.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:NAD+ прекурсори (NMN і NR): що",
+      "status": "ok",
+      "duration_s": 23.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:NAD+ прекурсори (NMN і NR): що",
+      "status": "ok",
+      "duration_s": 15.1,
+      "error": null
+    },
+    {
+      "name": "save:NAD+ прекурсори (NMN і NR): що",
+      "status": "ok",
+      "duration_s": 20.3,
+      "error": null
+    },
+    {
+      "name": "research:Рухливість кульшових суглобів:",
+      "status": "ok",
+      "duration_s": 577.3,
+      "error": null
+    },
+    {
+      "name": "generate:Рухливість кульшових суглобів:",
+      "status": "ok",
+      "duration_s": 96.2,
+      "error": null
+    },
+    {
+      "name": "review:Рухливість кульшових суглобів:",
+      "status": "ok",
+      "duration_s": 216.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Рухливість кульшових суглобів:",
+      "status": "ok",
+      "duration_s": 19.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Рухливість кульшових суглобів:",
+      "status": "ok",
+      "duration_s": 8.7,
+      "error": null
+    },
+    {
+      "name": "save:Рухливість кульшових суглобів:",
+      "status": "ok",
+      "duration_s": 22.3,
+      "error": null
+    },
+    {
+      "name": "research:Часове вікно харчування (time-",
+      "status": "ok",
+      "duration_s": 287.5,
+      "error": null
+    },
+    {
+      "name": "generate:Часове вікно харчування (time-",
+      "status": "ok",
+      "duration_s": 146.8,
+      "error": null
+    },
+    {
+      "name": "review:Часове вікно харчування (time-",
+      "status": "ok",
+      "duration_s": 441.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Часове вікно харчування (time-",
+      "status": "ok",
+      "duration_s": 30.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Часове вікно харчування (time-",
+      "status": "ok",
+      "duration_s": 13.6,
+      "error": null
+    },
+    {
+      "name": "save:Часове вікно харчування (time-",
+      "status": "ok",
+      "duration_s": 22.0,
+      "error": null
+    },
+    {
+      "name": "research:Прогулянка після їжі: чому 10–",
+      "status": "failed",
+      "duration_s": 933.8,
+      "error": "agent_query timed out after 300s"
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 64.1,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

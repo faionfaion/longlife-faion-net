@@ -1,0 +1,87 @@
+{
+  "articles": [
+    {
+      "topic": "Вакцина проти пташиного грипу H5N1: навіщо випробовують препарат проти штаму, яким ще ніхто масово не хворіє",
+      "type": "research",
+      "category": "prevention",
+      "angle": "BBC повідомляє про початок клінічних випробувань вакцини проти пандемічного штаму H5N1. Стаття пояснює, чому превентивна вакцинація проти зоонозного грипу — це не паніка, а стратегія: дані щодо летальності H5N1 (~50% за ВООЗ), кластери випадків у молочних фермах США 2024–2026, платформи мРНК-вакцин, що дозволяють швидку адаптацію. Контекст для України: великий птахівничий сектор, досвід з H5N8, відсутність запасів пандемічних вакцин.",
+      "sources_hint": "BBC Health April 2026 bird flu vaccine trial; WHO H5N1 situation reports 2024-2026; Uyeki et al. NEJM 2024 H5N1 clade 2.3.4.4b review; CDC MMWR dairy farm H5N1 2024; mRNA-1018 (Moderna) and H5N1 vaccine candidates in ClinicalTrials.gov",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Регулярність сну важливіша за тривалість: чому лягати щодня в один час знижує ризик смерті більше, ніж спати рівно 8 годин",
+      "type": "guide",
+      "category": "sleep",
+      "angle": "Windred et al. (Sleep, 2024, UK Biobank, n=88 975) показали, що Sleep Regularity Index (SRI) — предиктор смертності, сильніший за тривалість сну. Нерегулярний графік (±90 хв різниці між днями) підвищує ризик смерті від усіх причин на 40–53%. Phillips et al. (2017) розробили SRI як метрику. Практичний фокус: чому соціальний джетлег вихідних шкодить, як поступово звузити вікно сну до ±30 хв, і чому будильник у суботу — не покарання, а інвестиція. Доповнює попередні статті про кофеїн, алкоголь та глімфатику, які зосереджувались на якості сну, а не на стабільності розкладу. Зважаючи на значне покриття теми сну за останні 14 днів, ця стаття чітко розмежована: не «як краще спати», а «чому однаковий час засинання знижує смертність».",
+      "sources_hint": "Windred et al., Sleep 2024 (UK Biobank SRI mortality); Phillips et al., Scientific Reports 2017 (SRI development); Huang et al., Sleep 2021 (sleep regularity and cardiometabolic risk); Lunsford-Avery et al., Scientific Reports 2018 (irregular sleep and metabolic syndrome)",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Заборона куріння для покоління 2008+: чому Велика Британія обирає «tobacco endgame» і що наука каже про такий підхід",
+      "type": "research",
+      "category": "prevention",
+      "angle": "BBC повідомляє про ухвалення заборони продажу тютюну людям, народженим після 2008 року. Це перший у великій країні «tobacco endgame». Стаття аналізує: модель Нової Зеландії (скасовано 2024, тепер Британія підхопила); оцінки впливу на здоров'я населення (Lancet моделювання: запобігання 1,2 млн смертей); чому поступова заборона ефективніша за різку (психологія та економіка); е-цигарки як альтернатива — нові дані щодо безпеки. Контекст для України: ~7 млн курців, IQOS/вейпи набирають популярність серед молоді, закон про заборону продажу до 18 часто порушується.",
+      "sources_hint": "BBC Health April 2026 UK smoking ban; Tobacco Control journal 2024-2026 (tobacco endgame strategies); Lancet Public Health modeling of generational smoking bans; GBD 2021 tobacco mortality estimates; New Zealand tobacco endgame reversal 2024 analysis; PHE/OHID e-cigarette evidence reviews; Ukraine tobacco epidemiology WHO FCTC reports",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Самотність вбиває: мета-аналіз показує, що соціальна ізоляція підвищує ризик передчасної смерті нарівні з курінням 15 цигарок на день",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Мета-аналіз Holt-Lunstad (2010, 148 досліджень, 308 849 осіб): соціальна інтеграція знижує ризик смерті на 50%. Другий мета-аналіз (2015, 70 досліджень) підтвердив ефект. У 2023 Головний лікар США оголосив епідемію самотності. Lancet Commission on Loneliness (2025) визнала соціальну ізоляцію глобальною загрозою здоров'ю. Для України: війна, внутрішня міграція, 4+ млн ВПО, руйнування соціальних зв'язків. Це НЕ стаття про депресію (вже покрито) — це про конкретний фактор ризику смертності, який не залежить від наявності психічних розладів. Практичні поради: мінімальна «доза» соціального контакту, волонтерство як лікування, цифрові зв'язки vs живе спілкування.",
+      "sources_hint": "Holt-Lunstad et al., PLoS Medicine 2010 (meta-analysis, 148 studies); Holt-Lunstad et al., Perspectives on Psychological Science 2015 (meta-analysis, 70 studies); US Surgeon General Advisory on Loneliness 2023; Lancet Commission on Loneliness and Social Connection 2025 (if published); Wang et al., Nature Human Behaviour 2023 (loneliness and brain structure)",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Рапаміцин і mTOR: третя молекула довголіття після метформіну та NAD+ — чи є підстави для оптимізму",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Завершення «трилогії молекул довголіття»: метформін (Apr 16), NAD+ прекурсори (Apr 22), тепер — рапаміцин. Інгібування mTOR подовжує життя у мишей на 9–26% (ITP дані, Harrison 2009). PEARL trial та інші малі РКД у людей. Dog Aging Project (TRIAD study) — перше масштабне дослідження на домашніх тваринах. Парадокс: імуносупресант, який у низьких дозах покращує імунітет (Mannick et al., Science Translational Medicine, 2014 & 2018). Чесний баланс: побічні ефекти (стоматит, ліпіди), відсутність великих людських РКД, ризики самопризначення.",
+      "sources_hint": "Harrison et al., Nature 2009 (ITP rapamycin lifespan); Mannick et al., Science Translational Medicine 2014 & 2018 (everolimus immune function in elderly); Dog Aging Project TRIAD study; Bitto et al., eLife 2016 (late-life rapamycin); PEARL trial (PubMed/ClinicalTrials.gov); Kaeberlein, Nature Aging 2024 reviews",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Лейціновий поріг: чому 30 грамів білка за раз — не маркетинг, а поріг для запуску м'язового синтезу після 40",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Не про «скільки білка на день» (загальний підхід), а конкретно про per-meal leucine threshold (~2,5–3 г лейцину / ~30–40 г білка) для максимальної стимуляції mTOR і MPS. Moore et al. (JAMA Internal Medicine, 2015) показали, що розподіл білка протягом дня важливіший за загальну кількість. Стаття доповнює тему саркопенії (Apr 21), даючи конкретний протокол харчування. Порівняння лейцину з різних джерел (сироватка > яйця > бобові), тактика для рослинних дієт. Окремий блок: чому після 60 поріг зростає (анаболічна резистентність).",
+      "sources_hint": "Moore et al., JAMA Internal Medicine 2015 (protein distribution); Schoenfeld & Aragon, JISSN 2018 (per-meal protein review); Wall et al., Nutrition & Metabolism 2015 (anabolic resistance in aging); Devries et al., Journal of Nutrition 2018 (plant vs animal protein MPS); Morton et al., BJSM 2018 (protein dose-response meta-analysis)",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Сходинки як тренажер: чому 50 сходинок на день — це повноцінне кардіо, яке знижує серцево-судинний ризик на 20%",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Масштабне когортне дослідження UK Biobank (Stahli et al., Atherosclerosis 2023, n=450 000+): підйом сходами ≥5 поверхів/день знижує ризик ASCVD на ~20%. Jenkins et al. (Applied Physiology, 2019): «exercise snacks» по сходах (3×20 сек підйому) покращують VO2peak. МЕТ-вартість підйому сходами = 8–9 (еквівалент бігу підтюпцем). Доповнює статтю про VO2max (Apr 13) конкретним доступним інструментом тренування. Протипоказання: коліна, серцеві стани. Практичний 4-тижневий протокол: від 3 поверхів до 10+ на день.",
+      "sources_hint": "Stahli et al., Atherosclerosis 2023 (UK Biobank stair climbing CVD); Jenkins et al., Applied Physiology, Nutrition, and Metabolism 2019 (stair snacking VO2); Whittaker et al., BJSM 2021 (stair climbing and fitness); Allison et al., BMJ Open Sport & Exercise Medicine 2017 (brief stair climbing intervals)",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Стоячі столи: чи справді стояння краще за сидіння — що каже Кокранівський огляд 34 досліджень",
+      "type": "lifehack",
+      "category": "biohacking",
+      "angle": "Стаття про сидячий час і рак (Apr 21) показала загрозу 8+ годин сидіння. Але чи справді standing desk — рішення? Кокранівський огляд Shrestha et al. (2018, 34 дослідження): sit-stand столи зменшують час сидіння на 30 хв – 2 год/день, але доказів покращення кардіометаболічних показників дуже мало (GRADE very low). Gibbs et al. (2015): стояння спалює лише +0,15 ккал/хв більше за сидіння — тобто +9 ккал/год. Pronk et al. (2012): sit-stand знижує дискомфорт у верхній частині спини на 54%. Coenen et al. (SJWEH 2018): тривале стояння теж шкідливе — варикоз, біль у попереку. Головний меседж: не стояння vs сидіння, а рух vs нерухомість. Практичний протокол: цикл 25 хв сидіння → 8 хв стояння → 2 хв руху. Порівняння ефективності: treadmill desk, desk bike, balance board. Замінює статтю про ранкове сонце (зняте через надмірну циркадну/сну тематику за останні 14 днів: 9 статей).",
+      "sources_hint": "Shrestha et al., Cochrane Database Syst Rev 2018 (sit-stand desks); Gibbs et al., Medicine & Science in Sports & Exercise 2015 (energy expenditure standing vs sitting); Pronk et al., Preventing Chronic Disease 2012 (sit-stand workplace comfort); Coenen et al., Scandinavian Journal of Work, Environment & Health 2018 (prolonged standing risks); Chambers et al., SJWEH 2019 (sedentary behavior interventions at work)",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Куркумін, імбир, кориця: що мета-аналізи реально підтверджують про три найпопулярніші «лікувальні» спеції",
+      "type": "guide",
+      "category": "nutrition",
+      "angle": "Критичний розбір трьох найпопулярніших спецій-«суперфудів». Куркумін: Cochrane-рівневий огляд (Daily et al., JACM 2016; Paultre et al., 2021) — помірне зниження болю при остеоартриті, але біодоступність катастрофічно низька (1–2% без піперину). Імбир: мета-аналіз Mashhadi et al. — антиеметичний ефект доведений (1 г/день при нудоті вагітних), протизапальний — попередній. Кориця: мета-аналіз Allen et al. (2013) — зниження глюкози натще на ~0,5 ммоль/л у діабетиків, але ризик кумарину в касії. Головний меседж: спеції — не ліки, але компоненти здорової дієти з реальними біоактивними ефектами. Дозування, форми, протипоказання.",
+      "sources_hint": "Daily et al., J Med Food 2016 (curcumin pain meta-analysis); Paultre et al., Nutrients 2021 (curcumin OA); Viljoen et al., Nutrition Journal 2014 (ginger nausea meta-analysis); Allen et al., Annals of Family Medicine 2013 (cinnamon glucose); Anand et al., Mol Pharmaceutics 2007 (curcumin bioavailability); EFSA opinion on coumarin in cassia cinnamon",
+      "evidence_level": "moderate",
+      "priority": 3
+    }
+  ],
+  "date": "2026-04-23",
+  "created_at": "2026-04-23T03:03:02.669982+00:00"
+}
