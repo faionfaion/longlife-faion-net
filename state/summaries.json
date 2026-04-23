@@ -1112,5 +1112,21 @@
       "довголіття"
     ],
     "summary": "Three major meta-analyses (Holt-Lunstad 2010: 148 studies/308,849 people; Holt-Lunstad 2015: 70 studies; Wang 2023: 90 studies/2.2M people) consistently show social isolation increases all-cause mortality risk by 26-50%, with specific risks for cardiovascular disease (+34%), cancer (+24%), and dementia (+31-74%). The WHO Commission on Social Connection (2025) estimated 871,000 annual deaths linked to loneliness globally. The US Surgeon General issued the first-ever advisory on loneliness in 2023. Neuroimaging research (Spreng 2020, UK Biobank) shows structural brain changes in the default network among lonely individuals. Ukrainian context: ~5M internally displaced persons face compounded social isolation during wartime (Tsybuliak 2025). Evidence-based interventions include minimum 1-3 hours daily social interaction, volunteering (24% mortality reduction per Okun 2013 meta-analysis), and active (not passive) communication. Evidence level: strong — multiple large meta-analyses with consistent findings, though all observational. Differentiates from previous article (social-connections-longevity-research) by focusing on quantified mortality risk, cause-specific death data, neurobiology, WHO 2025 report, and Ukrainian wartime displacement context."
+  },
+  "rapamycin-mtor-longevity-trilogy-itp-pearl-dog-aging-project": {
+    "date": "2026-04-23",
+    "title": "Рапаміцин і mTOR: третій кандидат у молекули довголіття після метформіну та NAD+ — чи є підстави для оптимізму",
+    "type": "research",
+    "tags": [
+      "довголіття",
+      "рапаміцин",
+      "mTOR",
+      "аутофагія",
+      "старіння",
+      "біохакінг",
+      "дослідження",
+      "імунітет"
+    ],
+    "summary": "Рапаміцин — інгібітор mTOR — має найсильніші доклінічні дані серед трьох молекул довголіття: подовження життя мишей на 9–26% у програмі ITP (Harrison 2009, Miller 2014). Парадоксально, низькі дози покращують імунітет у літніх людей (Mannick 2014, 2018). Однак PEARL trial (2025, n=114) не досягла первинної кінцевої точки, а систематичний огляд Lancet Healthy Longevity (2024) і огляд Hands et al. (2025) підтверджують: людських доказів подовження життя немає. Дослідження TRIAD на 580 домашніх собаках може дати результати до 2028. Побічні ефекти (стоматит, дисліпідемія, інсулінорезистентність) роблять самопризначення ризикованим без доведеної користі."
   }
 }
