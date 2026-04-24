@@ -1,0 +1,278 @@
+{
+  "timestamp": "2026-04-23_051015",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "h5n1-mrna-vaccine-phase-3-pandemic-preparedness-ukraine, sleep-regularity-sri-mortality-social-jetlag-guide, uk-tobacco-endgame-generation-ban-lancet-ukraine-vaping, samotnist-smertist-meta-analiz-sotsialna-izolatsiia-who-2025, rapamycin-mtor-longevity-trilogy-itp-pearl-dog-aging-project",
+  "author": "LongLife Media",
+  "duration_s": 7632.7,
+  "image_generated": false,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 505.4,
+      "error": null
+    },
+    {
+      "name": "research:Вакцина проти пташиного грипу ",
+      "status": "ok",
+      "duration_s": 924.1,
+      "error": null
+    },
+    {
+      "name": "generate:Вакцина проти пташиного грипу ",
+      "status": "ok",
+      "duration_s": 103.6,
+      "error": null
+    },
+    {
+      "name": "review:Вакцина проти пташиного грипу ",
+      "status": "ok",
+      "duration_s": 266.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Вакцина проти пташиного грипу ",
+      "status": "ok",
+      "duration_s": 27.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Вакцина проти пташиного грипу ",
+      "status": "ok",
+      "duration_s": 12.3,
+      "error": null
+    },
+    {
+      "name": "save:Вакцина проти пташиного грипу ",
+      "status": "ok",
+      "duration_s": 5.7,
+      "error": null
+    },
+    {
+      "name": "research:Регулярність сну важливіша за ",
+      "status": "ok",
+      "duration_s": 896.0,
+      "error": null
+    },
+    {
+      "name": "generate:Регулярність сну важливіша за ",
+      "status": "ok",
+      "duration_s": 140.4,
+      "error": null
+    },
+    {
+      "name": "review:Регулярність сну важливіша за ",
+      "status": "ok",
+      "duration_s": 362.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Регулярність сну важливіша за ",
+      "status": "ok",
+      "duration_s": 25.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Регулярність сну важливіша за ",
+      "status": "ok",
+      "duration_s": 13.5,
+      "error": null
+    },
+    {
+      "name": "save:Регулярність сну важливіша за ",
+      "status": "ok",
+      "duration_s": 21.0,
+      "error": null
+    },
+    {
+      "name": "research:Заборона куріння для покоління",
+      "status": "ok",
+      "duration_s": 572.2,
+      "error": null
+    },
+    {
+      "name": "generate:Заборона куріння для покоління",
+      "status": "ok",
+      "duration_s": 129.7,
+      "error": null
+    },
+    {
+      "name": "review:Заборона куріння для покоління",
+      "status": "ok",
+      "duration_s": 258.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Заборона куріння для покоління",
+      "status": "ok",
+      "duration_s": 27.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Заборона куріння для покоління",
+      "status": "ok",
+      "duration_s": 11.7,
+      "error": null
+    },
+    {
+      "name": "save:Заборона куріння для покоління",
+      "status": "ok",
+      "duration_s": 20.5,
+      "error": null
+    },
+    {
+      "name": "research:Самотність вбиває: мета-аналіз",
+      "status": "ok",
+      "duration_s": 563.3,
+      "error": null
+    },
+    {
+      "name": "generate:Самотність вбиває: мета-аналіз",
+      "status": "ok",
+      "duration_s": 127.9,
+      "error": null
+    },
+    {
+      "name": "review:Самотність вбиває: мета-аналіз",
+      "status": "ok",
+      "duration_s": 396.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Самотність вбиває: мета-аналіз",
+      "status": "ok",
+      "duration_s": 29.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Самотність вбиває: мета-аналіз",
+      "status": "ok",
+      "duration_s": 10.0,
+      "error": null
+    },
+    {
+      "name": "save:Самотність вбиває: мета-аналіз",
+      "status": "ok",
+      "duration_s": 30.9,
+      "error": null
+    },
+    {
+      "name": "research:Рапаміцин і mTOR: третя молеку",
+      "status": "ok",
+      "duration_s": 255.9,
+      "error": null
+    },
+    {
+      "name": "generate:Рапаміцин і mTOR: третя молеку",
+      "status": "ok",
+      "duration_s": 92.2,
+      "error": null
+    },
+    {
+      "name": "review:Рапаміцин і mTOR: третя молеку",
+      "status": "ok",
+      "duration_s": 256.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Рапаміцин і mTOR: третя молеку",
+      "status": "ok",
+      "duration_s": 28.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Рапаміцин і mTOR: третя молеку",
+      "status": "ok",
+      "duration_s": 15.3,
+      "error": null
+    },
+    {
+      "name": "save:Рапаміцин і mTOR: третя молеку",
+      "status": "ok",
+      "duration_s": 21.7,
+      "error": null
+    },
+    {
+      "name": "research:Лейціновий поріг: чому 30 грам",
+      "status": "ok",
+      "duration_s": 561.1,
+      "error": null
+    },
+    {
+      "name": "generate:Лейціновий поріг: чому 30 грам",
+      "status": "ok",
+      "duration_s": 83.0,
+      "error": null
+    },
+    {
+      "name": "review:Лейціновий поріг: чому 30 грам",
+      "status": "ok",
+      "duration_s": 329.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Лейціновий поріг: чому 30 грам",
+      "status": "ok",
+      "duration_s": 21.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Лейціновий поріг: чому 30 грам",
+      "status": "ok",
+      "duration_s": 10.9,
+      "error": null
+    },
+    {
+      "name": "save:Лейціновий поріг: чому 30 грам",
+      "status": "ok",
+      "duration_s": 29.5,
+      "error": null
+    },
+    {
+      "name": "research:Сходинки як тренажер: чому 50 ",
+      "status": "ok",
+      "duration_s": 197.6,
+      "error": null
+    },
+    {
+      "name": "generate:Сходинки як тренажер: чому 50 ",
+      "status": "ok",
+      "duration_s": 175.1,
+      "error": null
+    },
+    {
+      "name": "review:Сходинки як тренажер: чому 50 ",
+      "status": "failed",
+      "duration_s": 2.2,
+      "error": "Command failed with exit code 1 (exit code: 1)\nError output: Check stderr output for details"
+    },
+    {
+      "name": "research:Стоячі столи: чи справді стоян",
+      "status": "failed",
+      "duration_s": 2.2,
+      "error": "Command failed with exit code 1 (exit code: 1)\nError output: Check stderr output for details"
+    },
+    {
+      "name": "research:Куркумін, імбир, кориця: що ме",
+      "status": "failed",
+      "duration_s": 2.1,
+      "error": "Command failed with exit code 1 (exit code: 1)\nError output: Check stderr output for details"
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 65.2,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "articles": [
+    {
+      "topic": "Рекласифікація канабісу в США: що насправді показують систематичні огляди про медичний канабіс — біль, епілепсію, сон і ризики",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Адміністрація Трампа рекласифікувала канабіс як менш небезпечну речовину. Аналіз доказової бази: звіт NASEM 2017, Cochrane-огляд при хронічному болі (Häuser 2018, 36 РКД), епілепсія (Epidiolex — 4 РКД із доказаною ефективністю при синдромі Драве та Леннокса–Гасто), ризики психозу (Di Forti 2019 — 5-кратне підвищення ризику при high-potency THC). Чітка ієрархія: доведено (епілепсія, нудота при хіміотерапії), помірні докази (хронічний нейропатичний біль), не доведено або шкідливо (тривожність, депресія, підлітковий мозок). Український контекст: правовий статус, відсутність медичних програм",
+      "sources_hint": "NASEM 2017 report 'Health Effects of Cannabis and Cannabinoids'; Whiting et al. JAMA 2015 systematic review; Häuser et al. Cochrane 2018; Di Forti et al. Lancet Psychiatry 2019; Devinsky et al. NEJM 2017 (Epidiolex); BBC Health headline April 2026 on Trump cannabis reclassification",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Генна терапія повернула зір 6-річній дівчинці: що таке Luxturna і де межа між проривом і хайпом у генній медицині",
+      "type": "research",
+      "category": "research",
+      "angle": "BBC повідомляє про відновлення зору дитини за допомогою генної терапії. Контекст: Luxturna (voretigene neparvovec) — перша схвалена FDA генна терапія для спадкової дистрофії сітківки (RPE65), РКД Russell et al. (Lancet 2017, n=31, ефективність підтверджена 4-річним follow-up). Вартість ~$850 000 за обидва ока. Станом на 2026 рік схвалено ~30 генних терапій у світі, але 90% — для рідкісних хвороб з мізерними популяціями. Для України — недосяжна ціна, але важливий прецедент для орфанних захворювань",
+      "sources_hint": "Russell et al. Lancet 2017 Luxturna Phase 3; Maguire et al. NEJM 2019 (long-term follow-up); BBC Health headline April 2026; FDA BLA approval 2017; Dunbar et al. Science 2018 gene therapy landscape review",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Тренування вихідного дня: чому 2 інтенсивні сесії на тиждень можуть бути не гіршими за щоденні вправи",
+      "type": "guide",
+      "category": "fitness",
+      "angle": "П'ятничний випуск — план на вихідні. Дослідження UK Biobank (Khurshid et al., JAMA Internal Medicine 2023, n=89 573): «weekend warriors», які концентрують 150+ хв активності в 1–2 дні, мають таке ж зниження смертності, як і ті, хто тренується щодня. O'Donovan 2017 (n=63 591) підтвердив аналогічний ефект. Але є нюанси: ризик травм вищий при нерегулярних навантаженнях (Parkkari 2004), а для ментального здоров'я регулярність важливіша. Практичний план: як структурувати 2 тренування на вихідних для максимальної користі",
+      "sources_hint": "Khurshid et al. JAMA Internal Medicine 2023 (UK Biobank weekend warrior); O'Donovan et al. JAMA Internal Medicine 2017; Parkkari et al. Sports Medicine 2004 injury risk; WHO 2020 PA guidelines",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Цифровий детокс на вихідні: що каже наука про обмеження екранного часу та практичний 48-годинний протокол",
+      "type": "lifehack",
+      "category": "mental-health",
+      "angle": "П'ятничний практичний матеріал. Hunt et al. (JGSP 2018, n=143): обмеження соцмереж до 30 хв/день за 3 тижні знизило самотність та депресію. Twenge & Campbell (2018) та мета-аналіз Liu et al. (2022, 16 досліджень) показують дозозалежний зв'язок між екранним часом >2 год і депресивними симптомами у дорослих. Haidt & Twenge (2023) — підлітковий контекст. Механізм: дофамінова десенситизація, порушення сну від синього світла, соціальне порівняння. 48-годинний протокол для вихідних: конкретні кроки, заміни, як уникнути зриву. Не анти-технологічний — про свідоме використання",
+      "sources_hint": "Hunt et al. Journal of Social and Clinical Psychology 2018; Liu et al. BMC Psychiatry 2022 meta-analysis; Twenge JAMA Pediatrics 2018; Wilcockson et al. Cyberpsychology Behavior 2019; APA 2023 advisory on social media",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Зелена середземноморська дієта: чому ізраїльське дослідження показало кращі результати, ніж класичний варіант",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "DIRECT-PLUS trial (Shai, Gepner et al., Heart 2020; Gut 2021; BMC Medicine 2022; n=294, 18 міс РКД): Green-MED із мангольдом/мангаєм + волоські горіхи + зелений чай показала на 14% більше зниження вісцерального жиру, більше покращення печінкового стеатозу та серцево-судинних біомаркерів порівняно з класичною MED. Ключовий інгредієнт — Mankai duckweed (водяна рослина, альтернативне джерело білка та заліза). Для України: адаптація протоколу з доступними продуктами — шпинат, петрушка, волоські горіхи (вирощуються в Україні), зелений чай. Порівняння з попередніми статтями про окремі нутрієнти",
+      "sources_hint": "Tsaban et al. Heart 2021 (DIRECT-PLUS visceral fat); Gepner et al. Gut 2021 (liver fat); Yaskolka Meir et al. BMC Medicine 2022; Shai et al. original DIRECT NEJM 2008 for context; Mankai nutritional profile studies",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Сауна та серцево-судинна смертність: чому фінські дані показують 40% зниження ризику і чи можна їм довіряти",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Проспективне когортне дослідження KIHD (Laukkanen et al., JAMA Internal Medicine 2015, n=2 315, 20 років follow-up): 4–7 сеансів сауни на тиждень = HR 0,60 для загальної смертності vs 1 раз/тиждень. Механізм: heat shock proteins (HSP70/90), оксид азоту, зниження артеріального тиску на 7 мм рт. ст. після сеансу. Систематичний огляд Laukkanen 2018 (40 досліджень) підтверджує серцево-судинні та нейрокогнітивні ефекти. Обмеження: переважно фінська популяція, обсерваційні дані, residual confounding (здоровий спосіб життя). Протипоказання та безпека. Відрізняється від статті про аутофагію (15 квітня), де сауна згадувалася побіжно як один із 5 тригерів — тут повноцінний аналіз серцево-судинних даних. Українська банна культура як аналог",
+      "sources_hint": "Laukkanen et al. JAMA Internal Medicine 2015; Laukkanen et al. Mayo Clinic Proceedings 2018 systematic review; Hussain & Cohen Evidence-Based Complementary Medicine 2018; Kunutsor et al. BMC Medicine 2018 dose-response",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Тренування біозворотного зв'язку через ВСР: як навчити серце краще справлятися зі стресом за 10 хвилин на день",
+      "type": "guide",
+      "category": "biohacking",
+      "angle": "HRV biofeedback (HRVB) — тренування резонансного дихання (~6 вдихів/хв) із зворотним зв'язком через пульсометр. Мета-аналіз Lehrer & Gevirtz 2014 + оновлений огляд Pizzoli et al. 2021 (20 РКД): значуще покращення тривожності, стресу, депресії, спортивних результатів. Laborde et al. 2022 — резонансна частота дихання як «фітнес для блукаючого нерва». Принципово відрізняється від cyclic sighing (стаття 21 квітня — разова техніка негайної дії): HRVB — це багатотижнева система тренувань із об'єктивним вимірюванням прогресу через зміни ВСР, аналогічна тренажерному залу для автономної нервової системи. Доступні додатки: Elite HRV, HRV4Training. Протокол для початківців",
+      "sources_hint": "Lehrer & Gevirtz Applied Psychophysiology Biofeedback 2014; Pizzoli et al. Psychosomatic Medicine 2021 meta-analysis; Laborde et al. Psychophysiology 2022; Wheat & Larkin Applied Psychophysiology Biofeedback 2010; Shaffer & Ginsberg Frontiers in Public Health 2017",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Втрата слуху як головний модифікований фактор ризику деменції: дані Lancet Commission 2024 і чому перевірка слуху — це інвестиція в мозок",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Lancet Commission 2024 (Livingston et al.) визначила нелікувану втрату слуху як найбільший окремий модифікований фактор ризику деменції (~7% популяційного ризику серед 14 факторів). Перше РКД ACHIEVE (Lin et al., Lancet 2023, n=977) показало: слухові апарати уповільнюють когнітивне зниження на 48% у групі високого ризику за 3 роки. ВООЗ (2024): 1,5 млрд людей мають втрату слуху, до 2050 — 2,5 млрд. Механізм: когнітивне перевантаження при розшифровці звуків, наростаюча соціальна ізоляція (перегук зі статтею про самотність від 23 квітня), атрофія скроневої кори. Розвиває тему деменції зі статті про ліки від Альцгеймера (18 квітня): замість ліків за £90 000 із мінімальним ефектом — перевірка слуху, яка реально знижує ризик. Для України: відсутність рутинного скринінгу слуху у дорослих, шум війни та вибухів як додатковий фактор ризику. П'ятничний контекст: перевірте слух онлайн-тестом hearWHO (ВООЗ) цих вихідних",
+      "sources_hint": "Livingston et al. Lancet 2024 (dementia prevention Commission update); Lin et al. Lancet 2023 (ACHIEVE trial); WHO World Report on Hearing 2021; Deal et al. JAMA Neurology 2017; Uchida et al. Lancet Public Health 2019; hearWHO app validation study",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Сходинки замість тренажерного залу: чому 3–4 поверхи на день знижують ризик серцево-судинних хвороб — дані UK Biobank",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Stamatakis et al. (British Journal of Sports Medicine 2024, UK Biobank, n>480 000): короткі сесії інтенсивної побутової активності (VILPA — Vigorous Intermittent Lifestyle Physical Activity), включно з підйомом сходами, асоціюються зі зниженням ризику CVD на 38–49% і раку на 28–38%. Принципово відрізняється від рукінгу (стаття 20 квітня — тривала ходьба з вагою, потребує обладнання та 30–60 хв) тим, що VILPA — це мікродози інтенсивної активності <1 хв, вбудовані у побут без жодного обладнання. Також відрізняється від тренування вихідного дня (стаття вище) — weekend warriors потребують 150+ хв зусиль, VILPA працює через накопичення коротких спалахів. Ідеально як доповнення до вихідних тренувань: конкретні способи додати сходи, пагорби та спринти в повсякденне життя",
+      "sources_hint": "Stamatakis et al. Nature Medicine 2022 (VILPA original); Stamatakis et al. BJSM 2024 (stair climbing specifically); Jeyaraman et al. Atherosclerosis 2024 (stair climbing CVD meta-analysis); UK Biobank accelerometer data; WHO HEPA guidelines 2020",
+      "evidence_level": "strong",
+      "priority": 2
+    }
+  ],
+  "date": "2026-04-24",
+  "created_at": "2026-04-24T23:20:53.368317+00:00"
+}

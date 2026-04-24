@@ -1144,5 +1144,22 @@
       "рослинний білок"
     ],
     "summary": "The article explains the leucine trigger hypothesis for muscle protein synthesis (MPS), specifically targeting adults 40+. Key evidence: Zaromskyte et al. (2021, 29-study systematic review) found the leucine threshold (~3g per meal) is especially relevant for older adults (73% study support). Devries et al. (2018 RCT) demonstrated that leucine content, not total protein, is the primary MPS determinant in older women. Mamerow et al. (2014) showed even protein distribution yields 25% higher MPS than skewed intake. Wall et al. (2015) quantified anabolic resistance as 3-fold blunted MPS response in elderly. Practical protocol: 3-4 meals with 25-40g protein each (age-dependent), targeting ≥3g leucine per meal. Plant-based strategies include increasing portions by 20-30% and leucine fortification. Evidence level: moderate (multiple RCTs and systematic reviews, but many studies use isolated proteins and small samples)."
+  },
+  "cannabis-reclassification-usa-medical-evidence-pain-epilepsy-psychosis-risks": {
+    "date": "2026-04-24",
+    "title": "Рекласифікація канабісу в США: що насправді показують систематичні огляди про медичний канабіс",
+    "type": "research",
+    "tags": [
+      "канабіс",
+      "медичний канабіс",
+      "систематичні огляди",
+      "епілепсія",
+      "хронічний біль",
+      "психоз",
+      "доказова медицина",
+      "рекласифікація",
+      "Україна"
+    ],
+    "summary": "The Trump administration reclassified state-licensed medical cannabis from Schedule I to Schedule III on April 23, 2026. Analysis of systematic reviews reveals a clear evidence hierarchy: strong evidence supports purified cannabidiol (Epidiolex) for refractory epilepsy (Dravet and Lennox-Gastaut syndromes, Devinsky 2017/2018 Phase III RCTs) and oral cannabinoids for chemotherapy-induced nausea; moderate evidence for chronic neuropathic pain (Cochrane review, NNT=20); no evidence of benefit for depression, anxiety, or PTSD (Black 2019, 83 studies); and strong evidence of harm including psychosis risk (Di Forti 2019, OR 3.2-4.8 for daily/high-potency use) and adolescent brain disruption. Ukrainian context: medical cannabis legalized August 2024, first products registered January 2025, but PTSD was excluded from approved conditions despite being the law's primary motivation — a decision consistent with the weak evidence base."
   }
 }
