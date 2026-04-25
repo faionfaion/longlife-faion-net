@@ -14835,3 +14835,68 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-24 23:50:35 [pipeline.stages.s_image_qa] INFO: Image QA: ok=True, severity=none, retry=False, issues=0 — clean
 2026-04-24 23:50:35 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] QA passed on attempt 1
 2026-04-24 23:50:35 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/cannabis-reclassification-usa-medical-evidence-pain-epilepsy-psychosis-risks.md
+2026-04-24 23:50:35 [pipeline] INFO: Article ready: cannabis-reclassification-usa-medical-evidence-pain-epilepsy-psychosis-risks (Рекласифікація канабісу в США: що насправді показу)
+2026-04-24 23:50:35 [pipeline] INFO: === Article 2/9 ===
+2026-04-24 23:50:35 [pipeline] INFO: --- Article: [research] Генна терапія повернула зір 6-річній дівчинці: що таке Luxtu ---
+2026-04-24 23:50:35 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-24 23:50:35 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-24 23:53:30 [pipeline.stages.s2_research] INFO: Research complete: 11610 chars
+2026-04-24 23:53:30 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-24 23:53:30 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-24 23:56:14 [pipeline.stages.s3_generate] INFO: Generated: 'Генна терапія Luxturna повернула зір 6-річній дівчинці: прорив, ціна $850 000 і що це означає для України' (slug=luxturna-gene-therapy-rpe65-zir-dytyna-proryv-dostup-ukraine, 677 words, 9 sources)
+2026-04-24 23:56:14 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-24 23:56:14 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-24 23:57:21 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-24 23:57:21 [pipeline.stages.s4_review] INFO: Feedback: Дуже якісний матеріал з сильною доказовою базою та збалансованою подачею. Кілька мінорних зауважень для фінального полірування:
+
+1. **Джерело для «3 400+ у розробці»**: Ця цифра у розділі «Що варто зн
+2026-04-24 23:57:21 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-24 23:57:21 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-24 23:59:01 [pipeline.stages.s5_revise] INFO: Revised article: 706 words
+2026-04-24 23:59:01 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-24 23:59:01 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-24 23:59:01 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-25 00:00:27 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-25 00:00:27 [pipeline.stages.s4_review] INFO: Feedback: Загалом якісний, збалансований матеріал із коректною інтерпретацією доказів. Потребує кількох мінорних виправлень перед публікацією:
+
+1. **Абревіатура «РКД»** — вживається у блоці «Що варто знати» без
+2026-04-25 00:00:27 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-25 00:00:27 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-25 00:00:27 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-25 00:00:48 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a modern genetics research lab, holding up a  | pose=Presenting pose — left hand raised holding the translucent holographic eye model at chest height, right hand pointing at the retinal layer on the model with index finger extended. Body angled three-quarters toward the viewer, slight forward lean conveying enthusiasm. Weight on her left leg, right foot stepped slightly forward. | expression=Explaining and teaching — one eyebrow slightly raised, bright green eyes wide with fascination, warm engaged smile. Her gaze connects with the viewer as if sharing an incredible discovery. | props=translucent holographic 3D model of a human eye with glowing retinal layer and a tiny luminous AAV2 vector particle approaching the retina, wall monitor displaying a DNA helix with a highlighted RPE65 gene segment, precision surgical micro-injection syringe on the lab bench nearby
+2026-04-25 00:00:48 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-25 00:00:48 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-25 00:01:00 [pipeline.stages.s6_generate_tg] INFO: TG caption: 708 chars
+2026-04-25 00:01:00 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=luxturna-gene-therapy-rpe65-zir-dytyna-proryv-dostup-ukraine
+2026-04-25 00:01:00 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-25 00:01:00 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-25 00:01:26 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Restructured to subject-first ordering with explicit anatomy constraints (finger count, limb count, 
+2026-04-25 00:01:26 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+2026-04-25 00:01:26 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-25 00:02:19 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-25 00:02:19 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-25 00:02:19 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 23626
+2026-04-25 00:02:19 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 23626 (unknown)
+2026-04-25 00:02:19 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 23679 2650043
+2026-04-25 00:02:20 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/luxturna-gene-therapy-rpe65-zir-dytyna-proryv-dostup-ukraine.jpg (177 KB, quality=auto)
+2026-04-25 00:02:20 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-25 00:02:20 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-25 00:04:05 [pipeline.stages.s_image_qa] INFO: Image QA: ok=False, severity=low, retry=True, issues=2 — Left hand (palm-up presenting hand): fingers appear stubby and partially merged at the base — finger count is ambiguous (3-4 distinct finger shapes plus thumb visible on an open palm where 4+thumb sho
+2026-04-25 00:04:05 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1 failed QA (severity=low, issues=2)
+2026-04-25 00:04:05 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-25 00:04:05 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-25 00:04:26 [pipeline.stages.s_image_prompt_editor] INFO: Prompt revised: Replaced the brief hand descriptions with highly detailed per-finger anatomical breakdowns for both 
+2026-04-25 00:04:26 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 2/3 (quality=high)
+2026-04-25 00:04:26 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-25 00:05:33 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-25 00:05:34 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-25 00:05:34 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 26415
+2026-04-25 00:05:34 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 26415 (unknown)
+2026-04-25 00:05:34 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 26468 2959128
+2026-04-25 00:05:35 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/luxturna-gene-therapy-rpe65-zir-dytyna-proryv-dostup-ukraine_try2.jpg (187 KB, quality=high)
+2026-04-25 00:05:35 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-25 00:05:35 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-25 00:06:13 [pipeline.stages.s_image_qa] INFO: Image QA: ok=True, severity=none, retry=False, issues=0 — clean
+2026-04-25 00:06:13 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] QA passed on attempt 2
+2026-04-25 00:06:13 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Finalized: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/luxturna-gene-therapy-rpe65-zir-dytyna-proryv-dostup-ukraine.jpg
+2026-04-25 00:06:13 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/luxturna-gene-therapy-rpe65-zir-dytyna-proryv-dostup-ukraine.md

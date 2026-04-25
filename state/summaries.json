@@ -1161,5 +1161,21 @@
       "Україна"
     ],
     "summary": "The Trump administration reclassified state-licensed medical cannabis from Schedule I to Schedule III on April 23, 2026. Analysis of systematic reviews reveals a clear evidence hierarchy: strong evidence supports purified cannabidiol (Epidiolex) for refractory epilepsy (Dravet and Lennox-Gastaut syndromes, Devinsky 2017/2018 Phase III RCTs) and oral cannabinoids for chemotherapy-induced nausea; moderate evidence for chronic neuropathic pain (Cochrane review, NNT=20); no evidence of benefit for depression, anxiety, or PTSD (Black 2019, 83 studies); and strong evidence of harm including psychosis risk (Di Forti 2019, OR 3.2-4.8 for daily/high-potency use) and adolescent brain disruption. Ukrainian context: medical cannabis legalized August 2024, first products registered January 2025, but PTSD was excluded from approved conditions despite being the law's primary motivation — a decision consistent with the weak evidence base."
+  },
+  "luxturna-gene-therapy-rpe65-zir-dytyna-proryv-dostup-ukraine": {
+    "date": "2026-04-25",
+    "title": "Генна терапія Luxturna повернула зір 6-річній дівчинці: прорив, ціна $850 000 і що це означає для України",
+    "type": "research",
+    "tags": [
+      "генна терапія",
+      "Luxturna",
+      "рідкісні захворювання",
+      "орфанні хвороби",
+      "офтальмологія",
+      "дослідження",
+      "доступ до ліків",
+      "Україна"
+    ],
+    "summary": "Luxturna (voretigene neparvovec) — перша FDA-схвалена генна терапія для спадкової дистрофії сітківки, спричиненої мутацією RPE65. РКД у The Lancet (2017, n=31) показало статистично значуще покращення функціонального зору (p=0,001), підтверджене 4-річним спостереженням. Нове дослідження UCL/GOSH (2026, n=15 дітей) вперше продемонструвало об'єктивне зміцнення зорових шляхів мозку, причому найменші діти отримали найбільшу користь. Вартість $850 000 за обидва ока перевищує оцінку справедливої ціни ICER у 4 рази. В Україні терапія недоступна, як і в деяких країнах ЄС. Прецедент важливий для орфанних захворювань та майбутнього доступу через євроінтеграцію. Рівень доказовості: сильний (РКД + довгостроковий follow-up)."
   }
 }
