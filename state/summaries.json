@@ -1193,5 +1193,22 @@
       "інфекційні хвороби"
     ],
     "summary": "24 квітня 2026 року ВООЗ прекваліфікувала Coartem Baby (артеметер-люмефантрин) — перші в історії ліки від малярії для немовлят вагою 2–5 кг, розроблені Novartis і MMV. Рішення базується на дослідженні CALINA (фаза II/III, 6 країн Африки), яке показало хорошу ефективність і безпеку, хоча мало обмеження (відкритий дизайн, без групи порівняння). Також прекваліфіковано 3 нові pf-LDH-тести для виявлення малярії в регіонах із делеціями pfhrp2. Щороку від малярії гине ~610 000 людей, 76% смертей в Африці — діти до 5 років. Для України це актуально через завезену малярію (~45 випадків/рік), участь медиків у гуманітарних місіях і використання тієї ж системи прекваліфікації ВООЗ для закупівлі ліків від ВІЛ/ТБ. Рівень доказів: помірний (фаза II/III без компаратора + дані WHO surveillance)."
+  },
+  "senolytics-senescent-cells-dasatinib-quercetin-fisetin-longevity-2026": {
+    "date": "2026-04-26",
+    "title": "Сенолітики у 2026 році: четвертий кандидат у молекули довголіття — чи можна очистити організм від старих клітин",
+    "type": "research",
+    "tags": [
+      "довголіття",
+      "сенолітики",
+      "старіння",
+      "кверцетин",
+      "дазатиніб",
+      "фізетин",
+      "клітинне старіння",
+      "клінічні дослідження",
+      "біохакінг"
+    ],
+    "summary": "Senolytics (dasatinib + quercetin, fisetin) represent a fundamentally different approach to aging compared to metformin, NAD+, and rapamycin: instead of slowing cellular aging pathways, they selectively eliminate senescent 'zombie' cells that accumulate with age and drive chronic inflammation via SASP factors. Mouse data is impressive — D+Q extended remaining lifespan by 36% (Xu et al., Nature Medicine 2018) and fisetin extended median lifespan ~20% (Yousefzadeh et al., EBioMedicine 2018). However, human evidence remains preliminary: the first pilot (n=9, no control) confirmed senescent cell reduction in tissue; a Phase 2 bone health RCT (n=60) missed its primary endpoint; cognitive and vision trials showed suggestive but non-significant results. Cautionary signals include epigenetic clock acceleration and off-target chromatin effects on healthy cells. Quercetin is available as a supplement in Ukraine but has only ~2% oral bioavailability, making standalone senolytic effect unlikely at supplement doses. Dasatinib is a prescription chemotherapy drug requiring medical supervision. Overall evidence level: strong in mice, preliminary in humans, no human lifespan data exists."
   }
 }
