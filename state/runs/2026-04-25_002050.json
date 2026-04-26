@@ -1,0 +1,170 @@
+{
+  "timestamp": "2026-04-25_002050",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "cannabis-reclassification-usa-medical-evidence-pain-epilepsy-psychosis-risks, luxturna-gene-therapy-rpe65-zir-dytyna-proryv-dostup-ukraine",
+  "author": "LongLife Media",
+  "duration_s": 3597.1,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 528.2,
+      "error": null
+    },
+    {
+      "name": "research:Рекласифікація канабісу в США:",
+      "status": "ok",
+      "duration_s": 581.8,
+      "error": null
+    },
+    {
+      "name": "generate:Рекласифікація канабісу в США:",
+      "status": "ok",
+      "duration_s": 222.9,
+      "error": null
+    },
+    {
+      "name": "review:Рекласифікація канабісу в США:",
+      "status": "ok",
+      "duration_s": 214.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Рекласифікація канабісу в США:",
+      "status": "ok",
+      "duration_s": 27.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Рекласифікація канабісу в США:",
+      "status": "ok",
+      "duration_s": 11.6,
+      "error": null
+    },
+    {
+      "name": "save:Рекласифікація канабісу в США:",
+      "status": "ok",
+      "duration_s": 194.0,
+      "error": null
+    },
+    {
+      "name": "research:Генна терапія повернула зір 6-",
+      "status": "ok",
+      "duration_s": 175.1,
+      "error": null
+    },
+    {
+      "name": "generate:Генна терапія повернула зір 6-",
+      "status": "ok",
+      "duration_s": 164.4,
+      "error": null
+    },
+    {
+      "name": "review:Генна терапія повернула зір 6-",
+      "status": "ok",
+      "duration_s": 253.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Генна терапія повернула зір 6-",
+      "status": "ok",
+      "duration_s": 21.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Генна терапія повернула зір 6-",
+      "status": "ok",
+      "duration_s": 11.7,
+      "error": null
+    },
+    {
+      "name": "save:Генна терапія повернула зір 6-",
+      "status": "ok",
+      "duration_s": 312.6,
+      "error": null
+    },
+    {
+      "name": "research:Тренування вихідного дня: чому",
+      "status": "ok",
+      "duration_s": 292.1,
+      "error": null
+    },
+    {
+      "name": "generate:Тренування вихідного дня: чому",
+      "status": "ok",
+      "duration_s": 130.8,
+      "error": null
+    },
+    {
+      "name": "review:Тренування вихідного дня: чому",
+      "status": "ok",
+      "duration_s": 279.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Тренування вихідного дня: чому",
+      "status": "ok",
+      "duration_s": 23.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Тренування вихідного дня: чому",
+      "status": "failed",
+      "duration_s": 1.9,
+      "error": "Command failed with exit code 1 (exit code: 1)\nError output: Check stderr output for details"
+    },
+    {
+      "name": "research:Цифровий детокс на вихідні: що",
+      "status": "failed",
+      "duration_s": 1.9,
+      "error": "Command failed with exit code 1 (exit code: 1)\nError output: Check stderr output for details"
+    },
+    {
+      "name": "research:Зелена середземноморська дієта",
+      "status": "failed",
+      "duration_s": 1.8,
+      "error": "Command failed with exit code 1 (exit code: 1)\nError output: Check stderr output for details"
+    },
+    {
+      "name": "research:Сауна та серцево-судинна смерт",
+      "status": "failed",
+      "duration_s": 2.0,
+      "error": "Command failed with exit code 1 (exit code: 1)\nError output: Check stderr output for details"
+    },
+    {
+      "name": "research:Тренування біозворотного зв'яз",
+      "status": "failed",
+      "duration_s": 2.0,
+      "error": "Command failed with exit code 1 (exit code: 1)\nError output: Check stderr output for details"
+    },
+    {
+      "name": "research:Втрата слуху як головний модиф",
+      "status": "failed",
+      "duration_s": 1.9,
+      "error": "Command failed with exit code 1 (exit code: 1)\nError output: Check stderr output for details"
+    },
+    {
+      "name": "research:Сходинки замість тренажерного ",
+      "status": "failed",
+      "duration_s": 1.9,
+      "error": "Command failed with exit code 1 (exit code: 1)\nError output: Check stderr output for details"
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 138.5,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}
