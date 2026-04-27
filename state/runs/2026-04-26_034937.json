@@ -1,0 +1,146 @@
+{
+  "timestamp": "2026-04-26_034937",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "who-malaria-coartem-baby-prequalification-infants-ukraine, senolytics-senescent-cells-dasatinib-quercetin-fisetin-longevity-2026",
+  "author": "LongLife Media",
+  "duration_s": 2795.5,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 527.4,
+      "error": null
+    },
+    {
+      "name": "research:ВООЗ вперше преквалфікувала лі",
+      "status": "ok",
+      "duration_s": 265.5,
+      "error": null
+    },
+    {
+      "name": "generate:ВООЗ вперше преквалфікувала лі",
+      "status": "ok",
+      "duration_s": 100.6,
+      "error": null
+    },
+    {
+      "name": "review:ВООЗ вперше преквалфікувала лі",
+      "status": "ok",
+      "duration_s": 208.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:ВООЗ вперше преквалфікувала лі",
+      "status": "ok",
+      "duration_s": 24.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:ВООЗ вперше преквалфікувала лі",
+      "status": "ok",
+      "duration_s": 11.8,
+      "error": null
+    },
+    {
+      "name": "save:ВООЗ вперше преквалфікувала лі",
+      "status": "ok",
+      "duration_s": 250.0,
+      "error": null
+    },
+    {
+      "name": "research:Сенолітики у 2026 році: четвер",
+      "status": "ok",
+      "duration_s": 578.4,
+      "error": null
+    },
+    {
+      "name": "generate:Сенолітики у 2026 році: четвер",
+      "status": "ok",
+      "duration_s": 106.3,
+      "error": null
+    },
+    {
+      "name": "review:Сенолітики у 2026 році: четвер",
+      "status": "ok",
+      "duration_s": 401.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Сенолітики у 2026 році: четвер",
+      "status": "ok",
+      "duration_s": 29.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Сенолітики у 2026 році: четвер",
+      "status": "ok",
+      "duration_s": 16.9,
+      "error": null
+    },
+    {
+      "name": "save:Сенолітики у 2026 році: четвер",
+      "status": "ok",
+      "duration_s": 142.0,
+      "error": null
+    },
+    {
+      "name": "research:«Воїн вихідного дня»: чому 1–2",
+      "status": "failed",
+      "duration_s": 40.8,
+      "error": "Command failed with exit code 1 (exit code: 1)\nError output: Check stderr output for details"
+    },
+    {
+      "name": "research:MIND-дієта: гібрид середземном",
+      "status": "failed",
+      "duration_s": 4.6,
+      "error": "Command failed with exit code 1 (exit code: 1)\nError output: Check stderr output for details"
+    },
+    {
+      "name": "research:Втрата слуху як головний модиф",
+      "status": "failed",
+      "duration_s": 3.6,
+      "error": "Command failed with exit code 1 (exit code: 1)\nError output: Check stderr output for details"
+    },
+    {
+      "name": "research:Холодний душ і крижана ванна: ",
+      "status": "failed",
+      "duration_s": 3.7,
+      "error": "Command failed with exit code 1 (exit code: 1)\nError output: Check stderr output for details"
+    },
+    {
+      "name": "research:Швидкість ходьби як «шостий ві",
+      "status": "failed",
+      "duration_s": 3.6,
+      "error": "Command failed with exit code 1 (exit code: 1)\nError output: Check stderr output for details"
+    },
+    {
+      "name": "research:Цифровий шабат: що наука каже ",
+      "status": "failed",
+      "duration_s": 3.6,
+      "error": "Command failed with exit code 1 (exit code: 1)\nError output: Check stderr output for details"
+    },
+    {
+      "name": "research:Ноктурія: чому часте сечовипус",
+      "status": "failed",
+      "duration_s": 3.8,
+      "error": "Command failed with exit code 1 (exit code: 1)\nError output: Check stderr output for details"
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 67.6,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

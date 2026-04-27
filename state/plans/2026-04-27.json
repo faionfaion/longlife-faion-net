@@ -1,0 +1,78 @@
+{
+  "articles": [
+    {
+      "topic": "Дані UK Biobank виставлені на продаж у Китаї: чому витік медичних даних — це загроза не лише приватності, а й здоров'ю",
+      "type": "research",
+      "category": "prevention",
+      "angle": "BBC підтвердив продаж даних 500 000 учасників UK Biobank у Китаї. Стаття аналізує, чому медичні та генетичні дані — це новий стратегічний ресурс, які ризики несе витік (від дискримінації страхувальників до зловживань із генетичними профілями), та яке відношення це має до українців, чиї дані зберігаються у різних реєстрах без належного захисту. Контекст: GDPR, Закон України «Про захист персональних даних», рекомендації WHO щодо health data governance.",
+      "sources_hint": "BBC Health report April 2026 'UK Biobank health data listed for sale in China'; Nature 2024 editorial on biobank data governance; WHO guidance on health data governance; Lancet Digital Health 2023 systematic review on health data breaches; Ukrainian Law on Personal Data Protection; European Health Data Space (EHDS) regulation 2025",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "EMDR-терапія при ПТСР: чому рухи очей допомагають переробити травму і як отримати доступ в Україні",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "ВООЗ рекомендує EMDR як одну з двох першолінійних терапій ПТСР нарівні з травма-фокусованою КПТ. Стаття пояснює механізм (таксономія пам'яті, робоча пам'ять, десенситизація), аналізує мета-аналізи ефективності, порівнює з КПТ і фармакотерапією. Критично важливо для України з ~25% поширеністю ПТСР. Окремий блок: де знайти EMDR-терапевта в Україні, які безкоштовні програми існують, скільки сесій потрібно. Доповнює попередні статті про КПТ (Apr 12), експресивне письмо (Apr 19) та ПТСР-серце (Apr 16) — фокус саме на терапевтичному методі.",
+      "sources_hint": "WHO 2013 Guidelines for PTSD; Chen et al. 2015 meta-analysis (Frontiers in Psychology); Cuijpers et al. 2020 network meta-analysis comparing EMDR vs TF-CBT vs pharmacotherapy; de Jongh et al. 2019 (European Journal of Psychotraumatology); Shapiro 2014 foundational review; NICE NG116 2018 PTSD guideline; Ukrainian EMDR Association data on certified therapists",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "10 000 кроків — маркетинг чи наука? Мета-аналіз 47 000 осіб показує реальну оптимальну кількість",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Число 10 000 кроків походить із японської рекламної кампанії 1965 року, а не з досліджень. Мета-аналіз Paluch et al. (Lancet, 2022, 15 досліджень, n=47 471) показує: оптимум для дорослих 60+ — 6 000–8 000 кроків, для молодших — 8 000–10 000, з вигідним плато. Del Pozo Cruz (JAMA Internal Medicine 2022) додає: навіть 3 800 кроків знижують смертність. Інтенсивність (каденція >100 кроків/хв) може бути важливішою за кількість. Практично: як рахувати кроки без фітнес-браслету, як додати кроки в робочий день. Понеділок = старт нового тижня ходьби. Відрізняється від статті про рукінг (Apr 20) фокусом на дозозалежність звичайної ходьби без навантаження.",
+      "sources_hint": "Paluch et al. 2022 Lancet Public Health (meta-analysis, 15 studies, n=47,471); del Pozo Cruz et al. 2022 JAMA Internal Medicine (n=78,500); Sheng et al. 2021 (European Journal of Preventive Cardiology); Saint-Maurice et al. 2020 JAMA (n=4,840); Tudor-Locke et al. 2011 on cadence thresholds; Lee et al. 2019 JAMA Internal Medicine (Women's Health Study n=16,741)",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Втрата слуху — фактор ризику деменції №1 за Lancet Commission 2024: чому дослідження ACHIEVE змінює підхід до профілактики",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Lancet Commission on Dementia 2024 визначила втрату слуху як найбільший модифікований фактор ризику деменції серед 14 факторів (~7% усіх випадків). Перше РКД ACHIEVE (Lin et al., Lancet 2023, n=977) показало: слухова інтервенція уповільнила когнітивне зниження на 48% у підгрупі підвищеного ризику за 3 роки. Мета-аналіз Loughrey et al. (2018, 36 досліджень, n=20 264) підтверджує: втрата слуху подвоює ризик деменції. Механізми: когнітивне перевантаження від компенсації, соціальна ізоляція (перетин зі статтею про самотність Apr 23), нейроатрофія слухової кори. ВООЗ оцінює: 1,5 млрд людей мають порушення слуху. В Україні слухові апарати частково покриваються державою, але доступ обмежений, а пошкодження слуху від обстрілів створюють нову когорту ризику. Практичний блок: коли перевіряти слух, ознаки прихованої втрати, як отримати апарат через МСЕК. Доповнює статтю про ліки від Альцгеймера (Apr 18) фокусом на профілактику.",
+      "sources_hint": "Livingston et al. 2024 Lancet Commission on Dementia Prevention (14 modifiable risk factors); Lin et al. 2023 Lancet (ACHIEVE trial, n=977, 3-year RCT); Loughrey et al. 2018 meta-analysis (JAMA Otolaryngology, 36 studies, n=20,264); Deal et al. 2017 (ARIC study on hearing and dementia); WHO World Report on Hearing 2021; Amieva et al. 2015 (25-year longitudinal, JAMA Otolaryngology); Uchida et al. 2019 systematic review on hearing aids and cognition; Ukrainian MoH data on audiological rehabilitation",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Куркумін, імбир, кориця: які оздоровчі ефекти спецій підтверджені мета-аналізами, а які — лише маркетинг",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Три найпопулярніші «суперспеції» під мікроскопом доказової медицини. Куркумін: помірні дані щодо запалення (мета-аналіз Sahebkar 2014 — CRP ↓), але біодоступність лише 1–2% без піперину; фабричні «куркумін від раку» — шахрайство. Імбир: найсильніші дані для нудоти (Cochrane-рівень для вагітних), помірні для болю при остеоартриті. Кориця: мета-аналіз Allen (2013) показав скромне зниження глюкози натще, але клінічна значущість сумнівна. Стаття утворює пару з попередніми матеріалами про омега-3 (Apr 22) та колаген (Apr 16) як критичний розбір популярних добавок. Окрема увага: кумарин у касії vs. цейлонській кориці та гепатотоксичність.",
+      "sources_hint": "Curcumin: Sahebkar et al. 2014 meta-analysis (Pharmacological Research); Hewlings & Kalman 2017 (Foods); Nelson et al. 2017 warning on curcumin research (J Med Chem). Ginger: Viljoen et al. 2014 Cochrane-level review (Nutrition Journal); Bartels et al. 2015 meta-analysis for OA. Cinnamon: Allen et al. 2013 meta-analysis (Annals of Family Medicine); Costello et al. 2016 systematic review; EFSA coumarin risk assessment 2008",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Фінська сауна і серцево-судинна смертність: 20-річне когортне дослідження 2 300 чоловіків показує зниження ризику на 27–50%",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Лауккканен та ін. (JAMA Internal Medicine 2015) відстежили 2 315 фінських чоловіків протягом 20 років: 2–3 сеанси сауни на тиждень = −27% раптової серцевої смерті, 4–7 = −50%. Механізм: теплове кондиціонування через HSP, покращення ендотеліальної функції, зниження тиску. Стаття чітко розмежовує: сильні дані для серця (когорти + систематичні огляди), помірні для деменції та депресії, попередні для довголіття як такої. Окремий блок: чи підходить баня замість фінської сауни, протипоказання, мінімальний ефективний протокол. Нефармакологічне доповнення до серії про молекули довголіття (метформін Apr 16, NAD+ Apr 22, рапаміцин Apr 23, сенолітики Apr 26).",
+      "sources_hint": "Laukkanen et al. JAMA Internal Medicine 2015 (n=2,315); Kunutsor et al. 2018 systematic review (Mayo Clinic Proceedings); Laukkanen & Laukkanen 2018 review; Hussain & Cohen 2018 (Evidence-Based Complementary Medicine); Brunt et al. 2016 RCT on heat therapy and endothelial function; Podstawski et al. 2019 on dry sauna physiology",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Повітря у квартирі може бути у 2–5 разів брудніше, ніж на вулиці: що каже ВООЗ про якість повітря вдома",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "EPA та ВООЗ повідомляють: рівень забруднювачів у приміщенні у 2–5 разів вищий за зовнішній. Формальдегід із меблів, NO₂ від газових плит, PM2.5 від готування, VOC від побутової хімії — все це асоціюється з респіраторними захворюваннями, алергією та когнітивним зниженням. Мета-аналіз Lin et al. (2023) пов'язує домашній NO₂ із 15% підвищенням ризику астми у дітей. Практичний гайд: вентиляція (провітрювання 3×день по 10 хв навіть узимку), вибір побутової хімії, витяжка під час готування. Для України: контекст енергозбереження (герметичні вікна) vs. якість повітря, кімнатні рослини — працюють чи ні (NASA vs. Cummings 2020). Доповнює статтю про шум (Apr 15) як другий матеріал про побутові ризики для здоров'я.",
+      "sources_hint": "WHO Indoor Air Quality Guidelines 2010/2014; EPA indoor air quality data; Lin et al. 2023 meta-analysis on NO2 and childhood asthma; Vardoulakis et al. 2015 (Int J Env Research & Public Health); Cummings & Waring 2020 (Journal of Exposure Science) debunking NASA plant study; Logue et al. 2011 (Indoor Air); Lancet Commission on Pollution 2022",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Температура спальні та якість сну: чому 18–19°C — не забаганка, а фізіологічна потреба мозку",
+      "type": "lifehack",
+      "category": "sleep",
+      "angle": "Масштабне дослідження Minor et al. (One Earth, 2022, >7 млн записів сну, 68 країн) показало, що підвищення нічної температури на 1°C скорочує сон. Окамото-Мідзуно (Journal of Physiological Anthropology 2012) підтверджує: тіло має знизити core temperature на ~1°C для засинання, а перегрів спальні блокує цей процес. Механізм: терморегуляція через vasodilatation рук і ніг → тепловіддача → зниження core temp → мелатонін. Практичні лайфхаки: оптимальна температура 18–19°C, теплий душ за 1–2 години до сну (парадоксально допомагає через rebound cooling), дихаючі тканини, шкарпетки для вазодилатації. Завершує серію про сон (регулярність Apr 23, кофеїн Apr 22, алкоголь Apr 21, хронотипи Apr 12) фокусом на фізичне середовище — жоден з попередніх матеріалів не торкався термального аспекту.",
+      "sources_hint": "Minor et al. 2022 One Earth (7M+ sleep records, 68 countries); Okamoto-Mizuno & Mizuno 2012 (Journal of Physiological Anthropology); Harding et al. 2019 (Current Opinion in Physiology); Haghayegh et al. 2019 meta-analysis on warm bath before bed (Sleep Medicine Reviews, 13 studies); Kräuchi 2007 on distal vasodilation and sleep onset; Raymann et al. 2008 (Brain) on skin temperature manipulation and sleep",
+      "evidence_level": "strong",
+      "priority": 2
+    }
+  ],
+  "date": "2026-04-27",
+  "created_at": "2026-04-27T03:03:02.023621+00:00"
+}

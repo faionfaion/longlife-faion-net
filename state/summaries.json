@@ -1210,5 +1210,22 @@
       "біохакінг"
     ],
     "summary": "Senolytics (dasatinib + quercetin, fisetin) represent a fundamentally different approach to aging compared to metformin, NAD+, and rapamycin: instead of slowing cellular aging pathways, they selectively eliminate senescent 'zombie' cells that accumulate with age and drive chronic inflammation via SASP factors. Mouse data is impressive — D+Q extended remaining lifespan by 36% (Xu et al., Nature Medicine 2018) and fisetin extended median lifespan ~20% (Yousefzadeh et al., EBioMedicine 2018). However, human evidence remains preliminary: the first pilot (n=9, no control) confirmed senescent cell reduction in tissue; a Phase 2 bone health RCT (n=60) missed its primary endpoint; cognitive and vision trials showed suggestive but non-significant results. Cautionary signals include epigenetic clock acceleration and off-target chromatin effects on healthy cells. Quercetin is available as a supplement in Ukraine but has only ~2% oral bioavailability, making standalone senolytic effect unlikely at supplement doses. Dasatinib is a prescription chemotherapy drug requiring medical supervision. Overall evidence level: strong in mice, preliminary in humans, no human lifespan data exists."
+  },
+  "uk-biobank-data-breach-china-health-data-privacy-ukraine": {
+    "date": "2026-04-27",
+    "title": "Дані UK Biobank виставлені на продаж у Китаї: чому витік медичних даних — це загроза не лише приватності, а й здоров'ю",
+    "type": "research",
+    "tags": [
+      "захист даних",
+      "генетика",
+      "кібербезпека",
+      "UK Biobank",
+      "eHealth",
+      "Україна",
+      "GDPR",
+      "приватність",
+      "медичні дані"
+    ],
+    "summary": "On April 20, 2026, UK Biobank confirmed that health data of ~500,000 participants appeared for sale on Alibaba in China, as reported by BBC and the UK government. The breach occurred through legitimate Chinese research institutions that violated contractual download restrictions. The article analyzes why genetic/health data is a strategic resource that cannot be truly anonymized (citing a 2025 arXiv policy review), references the 23andMe breach precedent (6.9M users, company went bankrupt), and examines Ukraine's vulnerability: 5 billion eHealth records protected by a 2010 law with fines of $40–800 and no breach notification requirement. Ukraine's Bill 8153 (GDPR-aligned, first reading November 2024) is still pending. WHO/Europe reported 300+ health cybersecurity incidents in 2023. Evidence strength: strong for the incident and re-identification risks; moderate for Ukraine-specific vulnerabilities."
   }
 }
