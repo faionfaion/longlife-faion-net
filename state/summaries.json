@@ -1227,5 +1227,21 @@
       "медичні дані"
     ],
     "summary": "On April 20, 2026, UK Biobank confirmed that health data of ~500,000 participants appeared for sale on Alibaba in China, as reported by BBC and the UK government. The breach occurred through legitimate Chinese research institutions that violated contractual download restrictions. The article analyzes why genetic/health data is a strategic resource that cannot be truly anonymized (citing a 2025 arXiv policy review), references the 23andMe breach precedent (6.9M users, company went bankrupt), and examines Ukraine's vulnerability: 5 billion eHealth records protected by a 2010 law with fines of $40–800 and no breach notification requirement. Ukraine's Bill 8153 (GDPR-aligned, first reading November 2024) is still pending. WHO/Europe reported 300+ health cybersecurity incidents in 2023. Evidence strength: strong for the incident and re-identification risks; moderate for Ukraine-specific vulnerabilities."
+  },
+  "emdr-therapy-ptsr-eye-movement-desensitization-ukraine-access": {
+    "date": "2026-04-27",
+    "title": "EMDR-терапія при ПТСР: чому рухи очей допомагають переробити травму і де знайти терапевта в Україні",
+    "type": "research",
+    "tags": [
+      "ПТСР",
+      "EMDR",
+      "психічне здоров'я",
+      "травма",
+      "терапія",
+      "ментальне здоров'я",
+      "Україна",
+      "дослідження"
+    ],
+    "summary": "EMDR (Eye Movement Desensitization and Reprocessing) is one of two WHO-recommended first-line therapies for PTSD alongside trauma-focused CBT. The largest meta-analysis (Lewis/Bisson 2020, 114 RCTs, 8,171 participants) shows a large effect vs waitlist (SMD −1.23) and no significant difference vs TF-CBT (SMD −0.17). EMDR outperformed fluoxetine (SSRI) at 6-month follow-up in van der Kolk 2007 (75% vs 0% asymptomatic). The working memory taxation theory is the best-supported mechanism. Standard course is 8-12 sessions per NICE guidelines. Ukraine has ~25% PTSD prevalence (WHO 2025) with 50 newly EMDR-trained therapists via EMDR Europe/WHO programs. Online EMDR shows comparable results to in-person delivery. Evidence strength: strong (multiple meta-analyses, WHO/NICE guidelines), though most individual studies rated 'Low' by GRADE."
   }
 }
