@@ -1273,5 +1273,21 @@
       "батьківство"
     ],
     "summary": "The 10-year debate on screen time and adolescent mental health remains unresolved. Orben & Przybylski (Nature 2019) showed digital technology explains only 0.4% of wellbeing variance across 350,000+ teens. Twenge et al. (2018) found temporal correlations between smartphone adoption and rising depression. The strongest causal evidence — Allcott et al.'s RCT (AER 2020) — showed modest wellbeing improvement from Facebook deactivation, but studied adults only. APA (2023) shifted focus from quantity to quality of screen use. The US Surgeon General (2023) took a precautionary stance. Haidt's Anxious Generation (2024) drove policy action but drew scientific criticism. HBSC 2022 provides Ukrainian context. Evidence level: moderate. Practical takeaway: monitor content quality over screen minutes, protect sleep, increase offline activities."
+  },
+  "cold-water-immersion-evidence-based-guide-bjsm-cochrane-risks": {
+    "date": "2026-04-28",
+    "title": "Холодний душ і крижана ванна: що доказова медицина каже про популярний біохак — і де закінчуються докази",
+    "type": "guide",
+    "tags": [
+      "біохакінг",
+      "холодний душ",
+      "крижана ванна",
+      "відновлення",
+      "норадреналін",
+      "бура жирова тканина",
+      "доказова медицина",
+      "систематичний огляд"
+    ],
+    "summary": "Systematic review by Espeland et al. (2022, BJSM, 104 studies) finds strong evidence for noradrenaline increase (200-300%) from cold water exposure, moderate evidence for mood and anti-inflammatory effects, but weak evidence for immunity and metabolism claims. Søberg et al. (2021) popularized the 11 min/week cold exposure protocol via brown fat activation, but the study was small and observational. Cochrane review (2012) shows cold water immersion beats passive rest for recovery but not active recovery. Roberts et al. (2015) RCT warns that post-strength-training cold immersion blunts muscle gains. Cardiovascular risks are well-documented. Practical takeaway: cold showers are a legitimate but limited biohack — start with 30 seconds, avoid immediately after strength training, and check contraindications."
   }
 }

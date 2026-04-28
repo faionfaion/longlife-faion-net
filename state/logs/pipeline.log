@@ -19402,3 +19402,97 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-28 03:30:10 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Finalized: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/screen-time-adolescent-mental-health-haidt-orben-debate.jpg
 03:30:10 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/screen-time-adolescent-mental-health-haidt-orben-debate.md
 2026-04-28 03:30:10 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/screen-time-adolescent-mental-health-haidt-orben-debate.md
+03:30:10 [pipeline] INFO: Article ready: screen-time-adolescent-mental-health-haidt-orben-debate (Екранний час і психічне здоров'я підлітків: чому в)
+2026-04-28 03:30:10 [pipeline] INFO: Article ready: screen-time-adolescent-mental-health-haidt-orben-debate (Екранний час і психічне здоров'я підлітків: чому в)
+03:30:10 [pipeline] INFO: === Article 3/9 ===
+2026-04-28 03:30:10 [pipeline] INFO: === Article 3/9 ===
+03:30:10 [pipeline] INFO: --- Article: [guide] Холодний душ і крижана ванна: що доказова медицина каже про  ---
+2026-04-28 03:30:10 [pipeline] INFO: --- Article: [guide] Холодний душ і крижана ванна: що доказова медицина каже про  ---
+03:30:10 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 03:30:10 [asyncio] DEBUG: Using selector: EpollSelector
+03:30:10 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 03:30:10 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:32:03 [pipeline.stages.s2_research] INFO: Research complete: 14824 chars
+2026-04-28 03:32:03 [pipeline.stages.s2_research] INFO: Research complete: 14824 chars
+03:32:03 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 03:32:03 [asyncio] DEBUG: Using selector: EpollSelector
+03:32:03 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 03:32:03 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:34:09 [pipeline.stages.s3_generate] INFO: Generated: 'Холодний душ і крижана ванна: що доказова медицина каже про популярний біохак — і де закінчуються докази' (slug=cold-water-immersion-evidence-based-guide-bjsm-cochrane-risks, 1349 words, 7 sources)
+2026-04-28 03:34:09 [pipeline.stages.s3_generate] INFO: Generated: 'Холодний душ і крижана ванна: що доказова медицина каже про популярний біохак — і де закінчуються докази' (slug=cold-water-immersion-evidence-based-guide-bjsm-cochrane-risks, 1349 words, 7 sources)
+03:34:09 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 03:34:09 [asyncio] DEBUG: Using selector: EpollSelector
+03:34:09 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 03:34:09 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:35:11 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-28 03:35:11 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+03:35:11 [pipeline.stages.s4_review] INFO: Feedback: Відмінний матеріал — один із найкращих прикладів збалансованого health-контенту. Чітка піраміда доказовості, чесне маркування гіпотез vs підтверджених ефектів, ретельна робота з першоджерелами. Кілька
+2026-04-28 03:35:11 [pipeline.stages.s4_review] INFO: Feedback: Відмінний матеріал — один із найкращих прикладів збалансованого health-контенту. Чітка піраміда доказовості, чесне маркування гіпотез vs підтверджених ефектів, ретельна робота з першоджерелами. Кілька
+03:35:11 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 03:35:11 [asyncio] DEBUG: Using selector: EpollSelector
+03:35:11 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 03:35:11 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:38:24 [pipeline.stages.s5_revise] INFO: Revised article: 1390 words
+2026-04-28 03:38:24 [pipeline.stages.s5_revise] INFO: Revised article: 1390 words
+03:38:24 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-28 03:38:24 [pipeline] INFO: === Review cycle 1/3 complete ===
+03:38:24 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 03:38:24 [asyncio] DEBUG: Using selector: EpollSelector
+03:38:24 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 03:38:24 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:39:35 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-28 03:39:35 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+03:39:35 [pipeline.stages.s4_review] INFO: Feedback: Чудова стаття — наукова чесність, збалансованість і тон на високому рівні. Кілька зауважень для фінального шліфування:
+
+1. **Категорія та теги відсутні.** Поле Category порожнє. Потрібно додати (напри
+2026-04-28 03:39:35 [pipeline.stages.s4_review] INFO: Feedback: Чудова стаття — наукова чесність, збалансованість і тон на високому рівні. Кілька зауважень для фінального шліфування:
+
+1. **Категорія та теги відсутні.** Поле Category порожнє. Потрібно додати (напри
+03:39:35 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-28 03:39:35 [pipeline] INFO: Article approved after 1 revision(s)
+03:39:35 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 03:39:35 [asyncio] DEBUG: Using selector: EpollSelector
+03:39:35 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 03:39:35 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:39:55 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands shin-deep in a portable ice bath tub, mid-step a | pose=Standing inside a steel-rimmed portable ice bath, left foot on the bottom, right leg mid-descent into the water, torso upright and strong. Left arm (with black-band green-accent fitness smartwatch visible on wrist) extends forward holding a tablet screen-out toward the viewer. Right arm raised with a thumbs-up, exposing the small green leaf tattoo on her right shoulder. | expression=Confident smile with a hint of exhilarated surprise — eyes wide and bright, mouth in a broad encouraging grin, as if saying 'it's cold but look at the data!' | props=Portable steel-rimmed ice bath filled with water and floating ice cubes, Waterproof tablet showing a bold upward noradrenaline spike graph with a green trend line, Digital thermometer clipped to the bath rim reading 10 °C
+2026-04-28 03:39:55 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands shin-deep in a portable ice bath tub, mid-step a | pose=Standing inside a steel-rimmed portable ice bath, left foot on the bottom, right leg mid-descent into the water, torso upright and strong. Left arm (with black-band green-accent fitness smartwatch visible on wrist) extends forward holding a tablet screen-out toward the viewer. Right arm raised with a thumbs-up, exposing the small green leaf tattoo on her right shoulder. | expression=Confident smile with a hint of exhilarated surprise — eyes wide and bright, mouth in a broad encouraging grin, as if saying 'it's cold but look at the data!' | props=Portable steel-rimmed ice bath filled with water and floating ice cubes, Waterproof tablet showing a bold upward noradrenaline spike graph with a green trend line, Digital thermometer clipped to the bath rim reading 10 °C
+03:39:55 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 03:39:55 [asyncio] DEBUG: Using selector: EpollSelector
+03:39:55 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 03:39:55 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:40:07 [pipeline.stages.s6_generate_tg] INFO: TG caption: 669 chars
+2026-04-28 03:40:07 [pipeline.stages.s6_generate_tg] INFO: TG caption: 669 chars
+03:40:07 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=cold-water-immersion-evidence-based-guide-bjsm-cochrane-risks
+2026-04-28 03:40:07 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=cold-water-immersion-evidence-based-guide-bjsm-cochrane-risks
+03:40:07 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 03:40:07 [asyncio] DEBUG: Using selector: EpollSelector
+03:40:07 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 03:40:07 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:40:29 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Restructured into subject-first order with explicit anatomy constraints (finger/limb counts), conver
+2026-04-28 03:40:29 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Restructured into subject-first order with explicit anatomy constraints (finger/limb counts), conver
+03:40:29 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+2026-04-28 03:40:29 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+03:40:29 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-28 03:40:29 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:41:25 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-28 03:41:25 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+03:41:26 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-28 03:41:26 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+03:41:26 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 23626
+2026-04-28 03:41:26 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 23626
+03:41:26 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 23626 (unknown)
+2026-04-28 03:41:26 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 23626 (unknown)
+03:41:26 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 23679 3282358
+2026-04-28 03:41:26 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 23679 3282358
+03:41:27 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/cold-water-immersion-evidence-based-guide-bjsm-cochrane-risks.jpg (198 KB, quality=auto)
+2026-04-28 03:41:27 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/cold-water-immersion-evidence-based-guide-bjsm-cochrane-risks.jpg (198 KB, quality=auto)
+03:41:27 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 03:41:27 [asyncio] DEBUG: Using selector: EpollSelector
+03:41:27 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 03:41:27 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:41:41 [pipeline.stages.s_image_qa] WARNING: QA returned unparseable output, assuming OK: "It looks like the read was blocked by a quota guard hook. Let me try an alternative approach.\nI'm unable to inspect the image right now — all tool calls are being blocked by the quota guard hook (`QUO"
+2026-04-28 03:41:41 [pipeline.stages.s_image_qa] WARNING: QA returned unparseable output, assuming OK: "It looks like the read was blocked by a quota guard hook. Let me try an alternative approach.\nI'm unable to inspect the image right now — all tool calls are being blocked by the quota guard hook (`QUO"
+03:41:41 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] QA passed on attempt 1
+2026-04-28 03:41:41 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] QA passed on attempt 1
+03:41:41 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/cold-water-immersion-evidence-based-guide-bjsm-cochrane-risks.md
+2026-04-28 03:41:41 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/cold-water-immersion-evidence-based-guide-bjsm-cochrane-risks.md
