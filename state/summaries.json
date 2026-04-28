@@ -1356,5 +1356,20 @@
       "алкоголь"
     ],
     "summary": "Demographer Saul Newman (PLOS Biology 2024) demonstrated that regions reporting the highest concentrations of supercentenarians correlate with poverty, low literacy, and poor birth registration — not with exceptional health. Japan's 2010 centenarian audit revealed 230,000+ unverifiable centenarian records. However, most of the Blue Zones' Power 9 lifestyle principles (plant-based diet, social connections, purpose, natural movement) are independently supported by strong meta-analyses. The one principle not supported: moderate wine consumption, contradicted by GBD 2020 Lancet analysis. Conclusion: specific Blue Zone longevity data is questionable, but the lifestyle recommendations stand on independent evidence. Evidence level: strong (multiple meta-analyses supporting lifestyle factors; strong demographic critique of zone-specific data)."
+  },
+  "probiotyky-dokazy-efektyvnosti-aga-cochrane-ibs-aad-ukraina": {
+    "date": "2026-04-28",
+    "title": "Пробіотики у 2026 році: при яких станах є докази ефективності, а де гроші витрачені марно",
+    "type": "research",
+    "tags": [
+      "пробіотики",
+      "мікробіом",
+      "харчування",
+      "доказова медицина",
+      "кишечник",
+      "дієтичні добавки",
+      "антибіотики"
+    ],
+    "summary": "Probiotics have strong evidence (Cochrane 2023, 39 RCTs, n=9955) only for preventing antibiotic-associated diarrhea (~37% risk reduction with L. rhamnosus GG and S. boulardii) and AGA 2020 guidelines recommend them only for C. difficile prophylaxis and NEC in preterm infants. For IBS the effect is small with high heterogeneity (Ford et al. 2023 network meta-analysis). For immunity, skin, mood, and general wellness — high-quality evidence is absent. A key quality concern: CFU counts on labels reflect production, not viability at consumption. Ukraine's ~3 billion UAH probiotics market is largely unregulated, with most products sold as dietary supplements without clinical efficacy requirements. Practical takeaway: ask your doctor about strain-specific probiotics only when starting antibiotics; skip 'immunity-boosting' products."
   }
 }
