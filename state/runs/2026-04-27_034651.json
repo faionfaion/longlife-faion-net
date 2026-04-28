@@ -1,0 +1,140 @@
+{
+  "timestamp": "2026-04-27_034651",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "uk-biobank-data-breach-china-health-data-privacy-ukraine, emdr-therapy-ptsr-eye-movement-desensitization-ukraine-access",
+  "author": "LongLife Media",
+  "duration_s": 2629.3,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 564.4,
+      "error": null
+    },
+    {
+      "name": "research:Дані UK Biobank виставлені на ",
+      "status": "ok",
+      "duration_s": 278.2,
+      "error": null
+    },
+    {
+      "name": "generate:Дані UK Biobank виставлені на ",
+      "status": "ok",
+      "duration_s": 91.7,
+      "error": null
+    },
+    {
+      "name": "review:Дані UK Biobank виставлені на ",
+      "status": "ok",
+      "duration_s": 204.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Дані UK Biobank виставлені на ",
+      "status": "ok",
+      "duration_s": 24.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Дані UK Biobank виставлені на ",
+      "status": "ok",
+      "duration_s": 10.1,
+      "error": null
+    },
+    {
+      "name": "save:Дані UK Biobank виставлені на ",
+      "status": "ok",
+      "duration_s": 310.2,
+      "error": null
+    },
+    {
+      "name": "research:EMDR-терапія при ПТСР: чому ру",
+      "status": "ok",
+      "duration_s": 277.8,
+      "error": null
+    },
+    {
+      "name": "generate:EMDR-терапія при ПТСР: чому ру",
+      "status": "ok",
+      "duration_s": 102.5,
+      "error": null
+    },
+    {
+      "name": "review:EMDR-терапія при ПТСР: чому ру",
+      "status": "ok",
+      "duration_s": 244.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:EMDR-терапія при ПТСР: чому ру",
+      "status": "ok",
+      "duration_s": 31.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:EMDR-терапія при ПТСР: чому ру",
+      "status": "ok",
+      "duration_s": 9.2,
+      "error": null
+    },
+    {
+      "name": "save:EMDR-терапія при ПТСР: чому ру",
+      "status": "ok",
+      "duration_s": 158.9,
+      "error": null
+    },
+    {
+      "name": "research:10 000 кроків — маркетинг чи н",
+      "status": "failed",
+      "duration_s": 244.8,
+      "error": "Command failed with exit code 1 (exit code: 1)\nError output: Check stderr output for details"
+    },
+    {
+      "name": "research:Втрата слуху — фактор ризику д",
+      "status": "failed",
+      "duration_s": 1.9,
+      "error": "Command failed with exit code 1 (exit code: 1)\nError output: Check stderr output for details"
+    },
+    {
+      "name": "research:Куркумін, імбир, кориця: які о",
+      "status": "failed",
+      "duration_s": 2.2,
+      "error": "Command failed with exit code 1 (exit code: 1)\nError output: Check stderr output for details"
+    },
+    {
+      "name": "research:Фінська сауна і серцево-судинн",
+      "status": "failed",
+      "duration_s": 1.9,
+      "error": "Command failed with exit code 1 (exit code: 1)\nError output: Check stderr output for details"
+    },
+    {
+      "name": "research:Повітря у квартирі може бути у",
+      "status": "failed",
+      "duration_s": 2.1,
+      "error": "Command failed with exit code 1 (exit code: 1)\nError output: Check stderr output for details"
+    },
+    {
+      "name": "research:Температура спальні та якість ",
+      "status": "failed",
+      "duration_s": 1.9,
+      "error": "Command failed with exit code 1 (exit code: 1)\nError output: Check stderr output for details"
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 64.4,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

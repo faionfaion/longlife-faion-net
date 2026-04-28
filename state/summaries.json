@@ -1243,5 +1243,20 @@
       "дослідження"
     ],
     "summary": "EMDR (Eye Movement Desensitization and Reprocessing) is one of two WHO-recommended first-line therapies for PTSD alongside trauma-focused CBT. The largest meta-analysis (Lewis/Bisson 2020, 114 RCTs, 8,171 participants) shows a large effect vs waitlist (SMD −1.23) and no significant difference vs TF-CBT (SMD −0.17). EMDR outperformed fluoxetine (SSRI) at 6-month follow-up in van der Kolk 2007 (75% vs 0% asymptomatic). The working memory taxation theory is the best-supported mechanism. Standard course is 8-12 sessions per NICE guidelines. Ukraine has ~25% PTSD prevalence (WHO 2025) with 50 newly EMDR-trained therapists via EMDR Europe/WHO programs. Online EMDR shows comparable results to in-person delivery. Evidence strength: strong (multiple meta-analyses, WHO/NICE guidelines), though most individual studies rated 'Low' by GRADE."
+  },
+  "hale-healthy-life-expectancy-ukraine-uk-gbd-2021-who": {
+    "date": "2026-04-28",
+    "title": "Здорова тривалість життя скоротилась на 2 роки у Великій Британії: що таке HALE і де тут Україна",
+    "type": "research",
+    "tags": [
+      "тривалість життя",
+      "HALE",
+      "профілактика",
+      "серцево-судинні захворювання",
+      "Україна",
+      "ВООЗ",
+      "GBD"
+    ],
+    "summary": "BBC повідомила про скорочення здорової тривалості життя (HLE) у Великій Британії на ~2 роки за десятиліття. Стаття пояснює метрику HALE (WHO) та порівнює показники: Україна має HALE ~63 роки за GBD 2021 (The Lancet) — один із найнижчих у Європі, з розривом 9–10 років між LE та HALE. Головні драйвери: ССЗ, ментальні розлади, хвороби опорно-рухового апарату. Практичний блок — 5 модифікованих факторів ризику (тютюн, тиск, харчування, активність, алкоголь). Рівень доказовості: strong (GBD, WHO, IHME)."
   }
 }

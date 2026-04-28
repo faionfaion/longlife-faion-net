@@ -1,0 +1,87 @@
+{
+  "articles": [
+    {
+      "topic": "Здорова тривалість життя у Великій Британії скоротилась на 2 роки за десятиліття: що таке HALE і де Україна в цьому рейтингу",
+      "type": "research",
+      "category": "prevention",
+      "angle": "BBC повідомила про падіння healthy life expectancy у Великій Британії. Стаття пояснює метрику HALE (WHO), різницю між загальною тривалістю життя та роками без інвалідності, аналізує дані GBD 2021 для України (HALE ~63 роки, один із найнижчих показників у Європі), і визначає головні драйвери розриву: серцево-судинні хвороби, ментальні розлади, опорно-руховий апарат. Практичний висновок: 5 модифікованих факторів, які найбільше впливають на HALE.",
+      "sources_hint": "WHO Global Health Observatory HALE data 2024; GBD 2021 study (Lancet); BBC article on UK healthy life expectancy April 2026; EuroStat healthy life years; IHME data for Ukraine; Sullivan method explanation",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Екранний час і психічне здоров'я підлітків: чому вчені сперечаються вже 10 років і що насправді показують найбільші дослідження",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Огляд обох сторін дебатів: Haidt (Anxious Generation, 2024) проти Orben & Przybylski (Nature 2019, ефект 0,4% — на рівні носіння окулярів). Мета-аналіз Hancock (2024) — відсутність каузального зв'язку. Водночас — APA Health Advisory 2023 та висновки US Surgeon General. Нове: рандомізований експеримент Allcott et al. (2020, AER) показав покращення ментального здоров'я при деактивації Facebook. Для України — дані UNICEF/HBSC 2022 щодо екранного часу. Чесний висновок: не панікувати, але моніторити якість, а не кількість.",
+      "sources_hint": "Orben & Przybylski, Nature Human Behaviour 2019; Hancock et al. meta-analysis 2024; Haidt 'Anxious Generation' 2024; Allcott et al. AER 2020 (Facebook deactivation RCT); APA Health Advisory on social media 2023; US Surgeon General Advisory 2023; UNICEF HBSC Ukraine data; Twenge et al. JPSP 2018",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Холодний душ і крижана ванна: що доказова медицина каже про популярний біохак — і де закінчуються докази",
+      "type": "guide",
+      "category": "biohacking",
+      "angle": "Систематичний огляд Espeland et al. (2022, BJSM, 104 статті): холодна вода має помірні докази для зниження запалення та покращення настрою через норадреналін, але слабкі — для імунітету та метаболізму. Søberg et al. (2021): протокол 11 хв/тиждень і бура жирова тканина. Cochrane Bleakley & Davison (2010): CWI для відновлення — краще за пасивний відпочинок, але не за активне відновлення. Ризики: cardiac arrest при зануренні (BMJ case reports). Практичний протокол: від 30 секунд холодного душу, коли НЕ можна (серцеві хвороби, Рейно, вагітність).",
+      "sources_hint": "Espeland et al. BJSM 2022 systematic review; Søberg et al. Cell Reports Medicine 2021; Bleakley & Davison Cochrane 2010 (cold water immersion recovery); Mäkinen et al. 2008 (cardiovascular responses); Shevchuk 2008 (cold showers and depression hypothesis); PubMed: 'cold water immersion systematic review 2023-2026'",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Калій — електроліт, про який забувають: чому збільшення калію може бути важливішим за обмеження солі для контролю тиску",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "ВООЗ рекомендує ≥3510 мг калію на день, але 97% населення не досягає цієї норми. Мета-аналіз Aburto et al. (BMJ 2013, 33 РКД) — підвищення калію знижує систолічний тиск на 3,49 мм рт.ст. Когортне дослідження n=247 510 (O'Donnell, NEJM 2014) — натрій-калієвий баланс важливіший за абсолютне обмеження натрію. Дослідження SubSalt (NEJM 2021, n=20 995) — заміна частини солі калієвою сіллю знижує інсульти на 14%. Український контекст: багата на калій їжа (картопля, бобові, буряк) — у традиційній кухні, але замінюється UPF. Практичний чек-лист: ТОП-15 джерел калію в українських продуктах.",
+      "sources_hint": "Aburto et al. BMJ 2013 meta-analysis; O'Donnell et al. NEJM 2014 (PURE study sodium-potassium); Neal et al. NEJM 2021 (SSaSS salt substitution trial); WHO guideline on potassium intake 2012; EFSA potassium adequacy; USDA nutrient database; PubMed: 'potassium cardiovascular meta-analysis 2020-2026'",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Скандинавська ходьба: чому палки — це не аксесуар для пенсіонерів, а інструмент, що перетворює прогулянку на повноцінне кардіо",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Мета-аналіз Tschentscher et al. (Am J Prev Med 2013, 11 РКД) — Nordic walking підвищує VO2max на 2,3 мл/кг/хв більше, ніж звичайна ходьба. Систематичний огляд Bullo et al. (Scand J Med Sci Sports 2018) — покращення кардіореспіраторної функції, ліпідного профілю та якості життя. Pellegrini et al. (Gait Posture 2015) — залучення 90% м'язів проти 40% при звичайній ходьбі, +20% калорій. Актуальність для України: доступний вид активності для 40+, не потребує залу, ідеальний для весняного сезону. Техніка і типові помилки.",
+      "sources_hint": "Tschentscher et al. American Journal of Preventive Medicine 2013; Bullo et al. Scandinavian J Med Sci Sports 2018; Pellegrini et al. Gait & Posture 2015; Takeshima et al. Research in Sports Medicine 2013; PubMed: 'Nordic walking meta-analysis cardiovascular'; Church et al. 2002 (caloric expenditure)",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Втрата слуху як модифікований фактор ризику деменції: чому захист вух — це інвестиція в мозок",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Lancet Commission 2024 визначила втрату слуху як найбільший модифікований фактор ризику деменції серед 14 виявлених (8,2% популяційного ризику — більше за куріння чи гіпертонію). РКД ACHIEVE (Lin et al., Lancet 2023, n=977) — перше дослідження, що показало уповільнення когнітивного зниження на 48% при використанні слухових апаратів у групі підвищеного ризику. Мета-аналіз Loughrey et al. (JAMA Otolaryngology 2018, 36 досліджень, n=20 264) — помірна втрата слуху подвоює ризик деменції. ВООЗ прогнозує 2,5 млрд з втратою слуху до 2050. Український контекст: вплив вибухів і обстрілів на слух ветеранів та цивільного населення, обмежений доступ до аудіометрії, висока вартість слухових апаратів. Практичний протокол: правило 60/60 для навушників, ознаки ранньої втрати слуху, коли робити аудіограму, захист слуху при обстрілах.",
+      "sources_hint": "Livingston et al. Lancet 2020, 2024 (dementia prevention commission); Lin et al. Lancet 2023 (ACHIEVE RCT); Loughrey et al. JAMA Otolaryngology 2018 (hearing loss and cognition meta-analysis); WHO World Report on Hearing 2021; Deal et al. JAMA 2017 (hearing loss and dementia incidence); PubMed: 'hearing loss dementia meta-analysis 2023-2026'; WHO noise-induced hearing loss military",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Блакитні зони під мікроскопом: чому демографи ставлять під сумнів найвідоміші дані про довголіття — і чого вони все ж нас навчили",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Демограф Saul Newman (2019, bioRxiv; 2024, PLOS Biology) продемонстрував, що регіони з найвищою концентрацією «суперстолітніх» корелюють із бідністю, низькою грамотністю та поганим веденням актів народження. Після введення пенсійної верифікації в Японії кількість столітніх у Окінаві різко впала. Sardinia та Ikaria мають аналогічні проблеми з документами. Водночас: Buettner 2016 визначив 9 спільних рис (Power 9), більшість із яких підтверджуються незалежними мета-аналізами (рослинна дієта, соціальні зв'язки, рух, сенс). Висновок: дані про конкретні зони сумнівні, але lifestyle-принципи підтверджені іншими дослідженнями.",
+      "sources_hint": "Newman S. PLOS Biology 2024; Newman S. bioRxiv 2019 (supercentenarian data quality); Buettner & Skemp American J Lifestyle Medicine 2016 (Blue Zones Power 9); Poulain et al. 2004 (Sardinia validation); Saito 2010 (Japan centenarian audit); Beltrán-Sánchez 2015; PubMed: 'supercentenarian data quality demographics'",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Пробіотики у 2026 році: при яких станах є докази ефективності, а де гроші витрачені марно",
+      "type": "research",
+      "category": "nutrition",
+      "angle": "AGA Clinical Practice Guidelines 2020 — рекомендують пробіотики ТІЛЬКИ для профілактики C. difficile-інфекції (помірна якість доказів) і некротизуючого ентероколіту. Cochrane 2023 (Goldenberg, 39 РКД, n=9955) — Lactobacillus + Saccharomyces знижують ризик антибіотик-асоційованої діареї. Водночас: для IBS — мережевий мета-аналіз Ford et al. (Am J Gastro 2023) показує малий ефект з високою гетерогенністю; для імунітету та загального здоров'я — недостатньо доказів. Ключова проблема: colony-forming units на етикетці не гарантують виживання до кишечника. В Україні пробіотики — безрецептурний ринок ~3 млрд грн без регуляції якості.",
+      "sources_hint": "AGA Clinical Practice Guidelines on Probiotics 2020; Goldenberg et al. Cochrane 2023 (antibiotic-associated diarrhea); Ford et al. Am J Gastroenterology 2023 (IBS network meta-analysis); ISAPP consensus 2024; Sanders et al. Nature Reviews Gastro 2019; Suez et al. Cell 2018 (post-antibiotic probiotics); PubMed: 'probiotics systematic review guidelines 2024-2026'",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Мікрозвички для здоров'я: чому правило двох хвилин працює краще за мотивацію та силу волі",
+      "type": "lifehack",
+      "category": "mental-health",
+      "angle": "BJ Fogg (Stanford) у Tiny Habits (2020) та дослідження Lally et al. (EJSP 2010, n=96): формування звички займає в середньому 66 днів, але маленькі дії автоматизуються значно швидше. Мета-аналіз Hennessy et al. (Health Psychology Review 2023): implementation intentions (if-then planning) подвоюють ймовірність виконання здорових поведінок (d=0,65). Habit stacking — прив'язка нової мікрозвички до існуючої (після кави → 10 присідань). РКД Gardner et al. (2023): автоматичність важливіша за мотивацію для довгострокового дотримання. Практичний план: 5 здорових мікрозвичок, які працюють без «сили волі» — по 2 хвилини кожна.",
+      "sources_hint": "Lally et al. EJSP 2010 (habit formation 66 days); Fogg BJ Tiny Habits 2020; Hennessy et al. Health Psychology Review 2023 (implementation intentions meta-analysis); Gardner et al. 2023 (automaticity vs motivation); Wood & Rünger Annual Rev Psychology 2016; Gollwitzer 1999 (implementation intentions); Clear J Atomic Habits references",
+      "evidence_level": "moderate",
+      "priority": 3
+    }
+  ],
+  "date": "2026-04-28",
+  "created_at": "2026-04-28T03:03:01.978320+00:00"
+}
