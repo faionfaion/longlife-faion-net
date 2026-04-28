@@ -19276,3 +19276,129 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-28 03:19:11 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] QA passed on attempt 1
 03:19:11 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/hale-healthy-life-expectancy-ukraine-uk-gbd-2021-who.md
 2026-04-28 03:19:11 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/hale-healthy-life-expectancy-ukraine-uk-gbd-2021-who.md
+03:19:11 [pipeline] INFO: Article ready: hale-healthy-life-expectancy-ukraine-uk-gbd-2021-who (Здорова тривалість життя скоротилась на 2 роки у В)
+2026-04-28 03:19:11 [pipeline] INFO: Article ready: hale-healthy-life-expectancy-ukraine-uk-gbd-2021-who (Здорова тривалість життя скоротилась на 2 роки у В)
+03:19:11 [pipeline] INFO: === Article 2/9 ===
+2026-04-28 03:19:11 [pipeline] INFO: === Article 2/9 ===
+03:19:11 [pipeline] INFO: --- Article: [research] Екранний час і психічне здоров'я підлітків: чому вчені спере ---
+2026-04-28 03:19:11 [pipeline] INFO: --- Article: [research] Екранний час і психічне здоров'я підлітків: чому вчені спере ---
+03:19:11 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 03:19:11 [asyncio] DEBUG: Using selector: EpollSelector
+03:19:11 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 03:19:11 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:22:01 [pipeline.stages.s2_research] INFO: Research complete: 20201 chars
+2026-04-28 03:22:01 [pipeline.stages.s2_research] INFO: Research complete: 20201 chars
+03:22:01 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 03:22:01 [asyncio] DEBUG: Using selector: EpollSelector
+03:22:01 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 03:22:01 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:23:28 [pipeline.stages.s3_generate] INFO: Generated: 'Екранний час і психічне здоров'я підлітків: чому вчені сперечаються вже 10 років і що показують найбільші дослідження' (slug=screen-time-adolescent-mental-health-haidt-orben-debate, 779 words, 7 sources)
+2026-04-28 03:23:28 [pipeline.stages.s3_generate] INFO: Generated: 'Екранний час і психічне здоров'я підлітків: чому вчені сперечаються вже 10 років і що показують найбільші дослідження' (slug=screen-time-adolescent-mental-health-haidt-orben-debate, 779 words, 7 sources)
+03:23:28 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 03:23:28 [asyncio] DEBUG: Using selector: EpollSelector
+03:23:28 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 03:23:28 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:24:30 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+2026-04-28 03:24:30 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+03:24:30 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом дуже якісна — збалансована, добре структурована, коректно розрізняє кореляцію та каузацію. Проте потрібні такі виправлення перед публікацією:
+
+1. **Відсутнє джерело для критики Оджерс у
+2026-04-28 03:24:30 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом дуже якісна — збалансована, добре структурована, коректно розрізняє кореляцію та каузацію. Проте потрібні такі виправлення перед публікацією:
+
+1. **Відсутнє джерело для критики Оджерс у
+03:24:30 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 03:24:30 [asyncio] DEBUG: Using selector: EpollSelector
+03:24:30 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 03:24:30 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:25:16 [pipeline.stages.s5_revise] INFO: Revised article: 896 words
+2026-04-28 03:25:16 [pipeline.stages.s5_revise] INFO: Revised article: 896 words
+03:25:16 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-28 03:25:16 [pipeline] INFO: === Review cycle 1/3 complete ===
+03:25:16 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 03:25:16 [asyncio] DEBUG: Using selector: EpollSelector
+03:25:16 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 03:25:16 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:26:20 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-28 03:26:20 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+03:26:20 [pipeline.stages.s4_review] INFO: Feedback: Відмінний, збалансований огляд дискусії. Стаття коректно розмежовує кореляцію та каузальність, чесно описує обмеження кожного дослідження, і не скочується ані в паніку, ані в тривіалізацію. Кілька зау
+2026-04-28 03:26:20 [pipeline.stages.s4_review] INFO: Feedback: Відмінний, збалансований огляд дискусії. Стаття коректно розмежовує кореляцію та каузальність, чесно описує обмеження кожного дослідження, і не скочується ані в паніку, ані в тривіалізацію. Кілька зау
+03:26:20 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-28 03:26:20 [pipeline] INFO: Article approved after 1 revision(s)
+03:26:20 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 03:26:20 [asyncio] DEBUG: Using selector: EpollSelector
+03:26:20 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 03:26:20 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:26:44 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita sits on the edge of a desk in a modern research office, | pose=Sitting casually on the edge of a white desk, left leg crossed over right, leaning slightly forward toward the viewer. Left hand holds a tablet at a slight angle (screen facing viewer showing a scatter-plot style chart). Right hand holds a pair of round reading glasses out toward the camera in a playful 'get this' gesture. Her torso is slightly turned, making the small green leaf tattoo on her right shoulder visible. | expression=One eyebrow slightly raised, an amused and engaged teaching expression — a half-smile that says 'can you believe this?' Combined with warm, bright green eyes that invite the viewer to think critically. | props=tablet displaying a specification curve analysis chart with colorful data points, round reading glasses held in right hand as a visual metaphor, large wall monitor showing '0,4%' statistic with an eyeglasses icon, open laptop with bar charts on standing desk, stack of psychology journals (one spine reads 'Nature Human Behaviour')
+2026-04-28 03:26:44 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita sits on the edge of a desk in a modern research office, | pose=Sitting casually on the edge of a white desk, left leg crossed over right, leaning slightly forward toward the viewer. Left hand holds a tablet at a slight angle (screen facing viewer showing a scatter-plot style chart). Right hand holds a pair of round reading glasses out toward the camera in a playful 'get this' gesture. Her torso is slightly turned, making the small green leaf tattoo on her right shoulder visible. | expression=One eyebrow slightly raised, an amused and engaged teaching expression — a half-smile that says 'can you believe this?' Combined with warm, bright green eyes that invite the viewer to think critically. | props=tablet displaying a specification curve analysis chart with colorful data points, round reading glasses held in right hand as a visual metaphor, large wall monitor showing '0,4%' statistic with an eyeglasses icon, open laptop with bar charts on standing desk, stack of psychology journals (one spine reads 'Nature Human Behaviour')
+03:26:44 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 03:26:44 [asyncio] DEBUG: Using selector: EpollSelector
+03:26:44 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 03:26:44 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:26:53 [pipeline.stages.s6_generate_tg] INFO: TG caption: 657 chars
+2026-04-28 03:26:53 [pipeline.stages.s6_generate_tg] INFO: TG caption: 657 chars
+03:26:53 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=screen-time-adolescent-mental-health-haidt-orben-debate
+2026-04-28 03:26:53 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=screen-time-adolescent-mental-health-haidt-orben-debate
+03:26:53 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 03:26:53 [asyncio] DEBUG: Using selector: EpollSelector
+03:26:53 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 03:26:53 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:27:20 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Consolidated redundant character descriptions scattered across six sections into a single structured
+2026-04-28 03:27:20 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Consolidated redundant character descriptions scattered across six sections into a single structured
+03:27:20 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+2026-04-28 03:27:20 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+03:27:20 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-28 03:27:20 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:28:27 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-28 03:28:27 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+03:28:28 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-28 03:28:28 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+03:28:28 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 23626
+2026-04-28 03:28:28 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 23626
+03:28:28 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 23626 (unknown)
+2026-04-28 03:28:28 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 23626 (unknown)
+03:28:28 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 23679 2771229
+2026-04-28 03:28:28 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 23679 2771229
+03:28:28 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/screen-time-adolescent-mental-health-haidt-orben-debate.jpg (203 KB, quality=auto)
+2026-04-28 03:28:28 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/screen-time-adolescent-mental-health-haidt-orben-debate.jpg (203 KB, quality=auto)
+03:28:28 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 03:28:28 [asyncio] DEBUG: Using selector: EpollSelector
+03:28:28 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 03:28:28 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:28:39 [pipeline.stages.s_image_qa] INFO: Image QA: ok=None, severity=None, retry=True, issues=1 — REVIEW BLOCKED: quota guard prevented file read — 5h quota at 101%. Cannot inspect image.
+2026-04-28 03:28:39 [pipeline.stages.s_image_qa] INFO: Image QA: ok=None, severity=None, retry=True, issues=1 — REVIEW BLOCKED: quota guard prevented file read — 5h quota at 101%. Cannot inspect image.
+03:28:39 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1 failed QA (severity=None, issues=1)
+2026-04-28 03:28:39 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1 failed QA (severity=None, issues=1)
+03:28:39 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 03:28:39 [asyncio] DEBUG: Using selector: EpollSelector
+03:28:39 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 03:28:39 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:29:03 [pipeline.stages.s_image_prompt_editor] INFO: Prompt revised: Since the review was blocked and specific artifacts could not be identified, I hardened the prompt a
+2026-04-28 03:29:03 [pipeline.stages.s_image_prompt_editor] INFO: Prompt revised: Since the review was blocked and specific artifacts could not be identified, I hardened the prompt a
+03:29:03 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 2/3 (quality=high)
+2026-04-28 03:29:03 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 2/3 (quality=high)
+03:29:03 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-28 03:29:03 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:29:59 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-28 03:29:59 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+03:30:00 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-28 03:30:00 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+03:30:00 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 26415
+2026-04-28 03:30:00 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 26415
+03:30:00 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 26415 (unknown)
+2026-04-28 03:30:00 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 26415 (unknown)
+03:30:00 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 26468 2675380
+2026-04-28 03:30:00 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 26468 2675380
+03:30:00 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/screen-time-adolescent-mental-health-haidt-orben-debate_try2.jpg (191 KB, quality=high)
+2026-04-28 03:30:00 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/screen-time-adolescent-mental-health-haidt-orben-debate_try2.jpg (191 KB, quality=high)
+03:30:00 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 03:30:00 [asyncio] DEBUG: Using selector: EpollSelector
+03:30:00 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 03:30:00 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:30:10 [pipeline.stages.s_image_qa] WARNING: QA returned unparseable output, assuming OK: 'The quota guard hook is blocking file reads right now:\n\n```\nQUOTA-BLOCKED: 5h at 101.0%. Already parked. New work blocked until quota recovers.\n```\n\nI cannot inspect the image because the pre-tool quo'
+2026-04-28 03:30:10 [pipeline.stages.s_image_qa] WARNING: QA returned unparseable output, assuming OK: 'The quota guard hook is blocking file reads right now:\n\n```\nQUOTA-BLOCKED: 5h at 101.0%. Already parked. New work blocked until quota recovers.\n```\n\nI cannot inspect the image because the pre-tool quo'
+03:30:10 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] QA passed on attempt 2
+2026-04-28 03:30:10 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] QA passed on attempt 2
+03:30:10 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Finalized: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/screen-time-adolescent-mental-health-haidt-orben-debate.jpg
+2026-04-28 03:30:10 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Finalized: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/screen-time-adolescent-mental-health-haidt-orben-debate.jpg
+03:30:10 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/screen-time-adolescent-mental-health-haidt-orben-debate.md
+2026-04-28 03:30:10 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/screen-time-adolescent-mental-health-haidt-orben-debate.md

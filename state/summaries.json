@@ -1258,5 +1258,20 @@
       "GBD"
     ],
     "summary": "BBC повідомила про скорочення здорової тривалості життя (HLE) у Великій Британії на ~2 роки за десятиліття. Стаття пояснює метрику HALE (WHO) та порівнює показники: Україна має HALE ~63 роки за GBD 2021 (The Lancet) — один із найнижчих у Європі, з розривом 9–10 років між LE та HALE. Головні драйвери: ССЗ, ментальні розлади, хвороби опорно-рухового апарату. Практичний блок — 5 модифікованих факторів ризику (тютюн, тиск, харчування, активність, алкоголь). Рівень доказовості: strong (GBD, WHO, IHME)."
+  },
+  "screen-time-adolescent-mental-health-haidt-orben-debate": {
+    "date": "2026-04-28",
+    "title": "Екранний час і психічне здоров'я підлітків: чому вчені сперечаються вже 10 років і що показують найбільші дослідження",
+    "type": "research",
+    "tags": [
+      "ментальне здоров'я",
+      "підлітки",
+      "екранний час",
+      "соціальні мережі",
+      "дослідження",
+      "психологія",
+      "батьківство"
+    ],
+    "summary": "The 10-year debate on screen time and adolescent mental health remains unresolved. Orben & Przybylski (Nature 2019) showed digital technology explains only 0.4% of wellbeing variance across 350,000+ teens. Twenge et al. (2018) found temporal correlations between smartphone adoption and rising depression. The strongest causal evidence — Allcott et al.'s RCT (AER 2020) — showed modest wellbeing improvement from Facebook deactivation, but studied adults only. APA (2023) shifted focus from quantity to quality of screen use. The US Surgeon General (2023) took a precautionary stance. Haidt's Anxious Generation (2024) drove policy action but drew scientific criticism. HBSC 2022 provides Ukrainian context. Evidence level: moderate. Practical takeaway: monitor content quality over screen minutes, protect sleep, increase offline activities."
   }
 }
