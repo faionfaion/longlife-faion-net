@@ -1371,5 +1371,20 @@
       "антибіотики"
     ],
     "summary": "Probiotics have strong evidence (Cochrane 2023, 39 RCTs, n=9955) only for preventing antibiotic-associated diarrhea (~37% risk reduction with L. rhamnosus GG and S. boulardii) and AGA 2020 guidelines recommend them only for C. difficile prophylaxis and NEC in preterm infants. For IBS the effect is small with high heterogeneity (Ford et al. 2023 network meta-analysis). For immunity, skin, mood, and general wellness — high-quality evidence is absent. A key quality concern: CFU counts on labels reflect production, not viability at consumption. Ukraine's ~3 billion UAH probiotics market is largely unregulated, with most products sold as dietary supplements without clinical efficacy requirements. Practical takeaway: ask your doctor about strain-specific probiotics only when starting antibiotics; skip 'immunity-boosting' products."
+  },
+  "micro-habits-two-minute-rule-tiny-habits-fogg-lally-automaticity": {
+    "date": "2026-04-28",
+    "title": "Мікрозвички для здоров'я: чому правило двох хвилин працює краще за мотивацію",
+    "type": "lifehack",
+    "tags": [
+      "звички",
+      "мікрозвички",
+      "психологія",
+      "мотивація",
+      "продуктивність",
+      "поведінкова наука",
+      "здоров'я"
+    ],
+    "summary": "Micro-habits (tiny, 2-minute actions anchored to existing routines) build lasting health behaviors more effectively than motivation or willpower. Key evidence: Lally et al. (EJSP 2010, n=96) found habit automaticity takes a median of 66 days but simple actions automate much faster; Hennessy et al. (Health Psychology Review 2023) meta-analysis shows implementation intentions (if-then plans) double health behavior adherence (d=0.65); Wood & Rünger (2016) established that ~43% of daily actions are habitual and context-driven; Gardner et al. confirmed automaticity outpredicts motivation for long-term maintenance. The article provides 5 practical 2-minute micro-habits using habit stacking (anchoring new behaviors to existing routines like morning coffee or teeth brushing). Evidence level: strong (meta-analyses + multiple RCTs + robust theoretical framework). This is a new topic for LongLife — no prior coverage of behavioral psychology or habit formation."
   }
 }

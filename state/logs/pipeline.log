@@ -20006,3 +20006,101 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-28 04:34:03 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] QA passed on attempt 1
 04:34:03 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/probiotyky-dokazy-efektyvnosti-aga-cochrane-ibs-aad-ukraina.md
 2026-04-28 04:34:03 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/probiotyky-dokazy-efektyvnosti-aga-cochrane-ibs-aad-ukraina.md
+04:34:03 [pipeline] INFO: Article ready: probiotyky-dokazy-efektyvnosti-aga-cochrane-ibs-aad-ukraina (Пробіотики у 2026 році: при яких станах є докази е)
+2026-04-28 04:34:03 [pipeline] INFO: Article ready: probiotyky-dokazy-efektyvnosti-aga-cochrane-ibs-aad-ukraina (Пробіотики у 2026 році: при яких станах є докази е)
+04:34:03 [pipeline] INFO: === Article 9/9 ===
+2026-04-28 04:34:03 [pipeline] INFO: === Article 9/9 ===
+04:34:03 [pipeline] INFO: --- Article: [lifehack] Мікрозвички для здоров'я: чому правило двох хвилин працює кр ---
+2026-04-28 04:34:03 [pipeline] INFO: --- Article: [lifehack] Мікрозвички для здоров'я: чому правило двох хвилин працює кр ---
+04:34:03 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 04:34:03 [asyncio] DEBUG: Using selector: EpollSelector
+04:34:03 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 04:34:03 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:35:49 [pipeline.stages.s2_research] INFO: Research complete: 12473 chars
+2026-04-28 04:35:49 [pipeline.stages.s2_research] INFO: Research complete: 12473 chars
+04:35:49 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 04:35:49 [asyncio] DEBUG: Using selector: EpollSelector
+04:35:49 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 04:35:49 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:36:52 [pipeline.stages.s3_generate] INFO: Generated: 'Мікрозвички для здоров'я: чому правило двох хвилин працює краще за мотивацію' (slug=micro-habits-two-minute-rule-tiny-habits-fogg-lally-automaticity, 443 words, 6 sources)
+2026-04-28 04:36:52 [pipeline.stages.s3_generate] INFO: Generated: 'Мікрозвички для здоров'я: чому правило двох хвилин працює краще за мотивацію' (slug=micro-habits-two-minute-rule-tiny-habits-fogg-lally-automaticity, 443 words, 6 sources)
+04:36:52 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 04:36:52 [asyncio] DEBUG: Using selector: EpollSelector
+04:36:52 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 04:36:52 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:38:05 [pipeline.stages.s4_review] INFO: Review: score=6, approved=False
+2026-04-28 04:38:05 [pipeline.stages.s4_review] INFO: Review: score=6, approved=False
+04:38:05 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом якісна і безпечна, але має кілька проблем, які потребують виправлення перед публікацією:
+
+1. **КРИТИЧНО: Невірний DOI для Hennessy et al. (2023).** У списку джерел вказано https://doi.o
+2026-04-28 04:38:05 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом якісна і безпечна, але має кілька проблем, які потребують виправлення перед публікацією:
+
+1. **КРИТИЧНО: Невірний DOI для Hennessy et al. (2023).** У списку джерел вказано https://doi.o
+04:38:05 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 04:38:05 [asyncio] DEBUG: Using selector: EpollSelector
+04:38:05 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 04:38:05 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:39:29 [pipeline.stages.s5_revise] INFO: Revised article: 584 words
+2026-04-28 04:39:29 [pipeline.stages.s5_revise] INFO: Revised article: 584 words
+04:39:29 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-28 04:39:29 [pipeline] INFO: === Review cycle 1/3 complete ===
+04:39:29 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 04:39:29 [asyncio] DEBUG: Using selector: EpollSelector
+04:39:29 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 04:39:29 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:40:28 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-28 04:40:28 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+04:40:28 [pipeline.stages.s4_review] INFO: Feedback: Загалом якісна, добре збалансована стаття з коректним хеджуванням наукових тверджень та належними застереженнями. Перед публікацією потрібно виправити кілька моментів:
+
+1. **КРИТИЧНО — невірний DOI дл
+2026-04-28 04:40:28 [pipeline.stages.s4_review] INFO: Feedback: Загалом якісна, добре збалансована стаття з коректним хеджуванням наукових тверджень та належними застереженнями. Перед публікацією потрібно виправити кілька моментів:
+
+1. **КРИТИЧНО — невірний DOI дл
+04:40:28 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-28 04:40:28 [pipeline] INFO: Article approved after 1 revision(s)
+04:40:28 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 04:40:28 [asyncio] DEBUG: Using selector: EpollSelector
+04:40:28 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 04:40:28 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:40:54 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita is kneeling on a bright morning living room floor, chee | pose=Kneeling on one knee, both hands gripping the edge of a rolled-up yoga mat she has just begun to unroll — only about 15 cm unfurled so far. Her body is angled toward the viewer at a three-quarter turn, right shoulder visible showing the small green leaf tattoo. Left wrist rests on the mat edge, displaying her black fitness smartwatch with green accents. Posture is relaxed and inviting, not intense. | expression=Encouraging look — warm confident smile, slight head tilt to the right, bright green eyes softened with warmth, one eyebrow playfully raised as if sharing a secret with the viewer. | props=Emerald green yoga mat (barely unrolled, emphasizing 'tiny start'), Wall habit-tracker calendar with 66 numbered days, green checkmarks, and one orange-circled skip, Glass of water with a lemon slice on a side table, Fitness smartwatch on left wrist (black band, green accents)
+2026-04-28 04:40:54 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita is kneeling on a bright morning living room floor, chee | pose=Kneeling on one knee, both hands gripping the edge of a rolled-up yoga mat she has just begun to unroll — only about 15 cm unfurled so far. Her body is angled toward the viewer at a three-quarter turn, right shoulder visible showing the small green leaf tattoo. Left wrist rests on the mat edge, displaying her black fitness smartwatch with green accents. Posture is relaxed and inviting, not intense. | expression=Encouraging look — warm confident smile, slight head tilt to the right, bright green eyes softened with warmth, one eyebrow playfully raised as if sharing a secret with the viewer. | props=Emerald green yoga mat (barely unrolled, emphasizing 'tiny start'), Wall habit-tracker calendar with 66 numbered days, green checkmarks, and one orange-circled skip, Glass of water with a lemon slice on a side table, Fitness smartwatch on left wrist (black band, green accents)
+04:40:54 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 04:40:54 [asyncio] DEBUG: Using selector: EpollSelector
+04:40:54 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 04:40:54 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:41:03 [pipeline.stages.s6_generate_tg] INFO: TG caption: 654 chars
+2026-04-28 04:41:03 [pipeline.stages.s6_generate_tg] INFO: TG caption: 654 chars
+04:41:03 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=micro-habits-two-minute-rule-tiny-habits-fogg-lally-automaticity
+2026-04-28 04:41:03 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=micro-habits-two-minute-rule-tiny-habits-fogg-lally-automaticity
+04:41:03 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 04:41:03 [asyncio] DEBUG: Using selector: EpollSelector
+04:41:03 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 04:41:03 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:41:28 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Restructured to subject-first ordering with anatomy constraints (finger count, limb count, eye count
+2026-04-28 04:41:28 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Restructured to subject-first ordering with anatomy constraints (finger count, limb count, eye count
+04:41:28 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+2026-04-28 04:41:28 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+04:41:28 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-28 04:41:28 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:42:23 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-28 04:42:23 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+04:42:24 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-28 04:42:24 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+04:42:24 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 26415
+2026-04-28 04:42:24 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 26415
+04:42:24 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 26415 (unknown)
+2026-04-28 04:42:24 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 26415 (unknown)
+04:42:24 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 26468 3198905
+2026-04-28 04:42:24 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 26468 3198905
+04:42:24 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/micro-habits-two-minute-rule-tiny-habits-fogg-lally-automaticity.jpg (203 KB, quality=auto)
+2026-04-28 04:42:24 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/micro-habits-two-minute-rule-tiny-habits-fogg-lally-automaticity.jpg (203 KB, quality=auto)
+04:42:24 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 04:42:24 [asyncio] DEBUG: Using selector: EpollSelector
+04:42:24 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 04:42:24 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:42:37 [pipeline.stages.s_image_qa] WARNING: QA returned unparseable output, assuming OK: "It looks like the read was blocked by a quota guard hook. Let me try an alternative approach.\nI'm unable to inspect the image right now — the quota guard hook is blocking all tool usage because the cu"
+2026-04-28 04:42:37 [pipeline.stages.s_image_qa] WARNING: QA returned unparseable output, assuming OK: "It looks like the read was blocked by a quota guard hook. Let me try an alternative approach.\nI'm unable to inspect the image right now — the quota guard hook is blocking all tool usage because the cu"
+04:42:37 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] QA passed on attempt 1
+2026-04-28 04:42:37 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] QA passed on attempt 1
+04:42:37 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/micro-habits-two-minute-rule-tiny-habits-fogg-lally-automaticity.md
+2026-04-28 04:42:37 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/micro-habits-two-minute-rule-tiny-habits-fogg-lally-automaticity.md
