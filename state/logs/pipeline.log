@@ -19594,3 +19594,97 @@ urllib.error.HTTPError: HTTP Error 404: Not Found
 2026-04-28 03:51:20 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] QA passed on attempt 1
 03:51:20 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/kaliy-elektrolit-tysk-natriy-kaliyevyy-balans-who-bmj-nejm.md
 2026-04-28 03:51:20 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/kaliy-elektrolit-tysk-natriy-kaliyevyy-balans-who-bmj-nejm.md
+03:51:20 [pipeline] INFO: Article ready: kaliy-elektrolit-tysk-natriy-kaliyevyy-balans-who-bmj-nejm (Калій — електроліт, про який забувають: чому збіль)
+2026-04-28 03:51:20 [pipeline] INFO: Article ready: kaliy-elektrolit-tysk-natriy-kaliyevyy-balans-who-bmj-nejm (Калій — електроліт, про який забувають: чому збіль)
+03:51:20 [pipeline] INFO: === Article 5/9 ===
+2026-04-28 03:51:20 [pipeline] INFO: === Article 5/9 ===
+03:51:20 [pipeline] INFO: --- Article: [fitness] Скандинавська ходьба: чому палки — це не аксесуар для пенсіо ---
+2026-04-28 03:51:20 [pipeline] INFO: --- Article: [fitness] Скандинавська ходьба: чому палки — це не аксесуар для пенсіо ---
+03:51:20 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 03:51:20 [asyncio] DEBUG: Using selector: EpollSelector
+03:51:20 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 03:51:20 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:53:08 [pipeline.stages.s2_research] INFO: Research complete: 14612 chars
+2026-04-28 03:53:08 [pipeline.stages.s2_research] INFO: Research complete: 14612 chars
+03:53:08 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 03:53:08 [asyncio] DEBUG: Using selector: EpollSelector
+03:53:08 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 03:53:08 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:54:24 [pipeline.stages.s3_generate] INFO: Generated: 'Скандинавська ходьба: чому палки — це не аксесуар для пенсіонерів, а повноцінне кардіо' (slug=skandynavska-khodba-palky-kardio-vo2max-meta-analiz, 738 words, 7 sources)
+2026-04-28 03:54:24 [pipeline.stages.s3_generate] INFO: Generated: 'Скандинавська ходьба: чому палки — це не аксесуар для пенсіонерів, а повноцінне кардіо' (slug=skandynavska-khodba-palky-kardio-vo2max-meta-analiz, 738 words, 7 sources)
+03:54:24 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 03:54:24 [asyncio] DEBUG: Using selector: EpollSelector
+03:54:24 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 03:54:24 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:55:27 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+2026-04-28 03:55:27 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+03:55:27 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом якісна, добре структурована і з міцною доказовою базою. Потрібні два виправлення перед публікацією:
+
+1. **Безджерельне твердження про біг (вступ):** «залучає більше м'язів, ніж біг» — д
+2026-04-28 03:55:27 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом якісна, добре структурована і з міцною доказовою базою. Потрібні два виправлення перед публікацією:
+
+1. **Безджерельне твердження про біг (вступ):** «залучає більше м'язів, ніж біг» — д
+03:55:27 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 03:55:27 [asyncio] DEBUG: Using selector: EpollSelector
+03:55:27 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 03:55:27 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:56:48 [pipeline.stages.s5_revise] INFO: Revised article: 845 words
+2026-04-28 03:56:48 [pipeline.stages.s5_revise] INFO: Revised article: 845 words
+03:56:48 [pipeline] INFO: === Review cycle 1/3 complete ===
+2026-04-28 03:56:48 [pipeline] INFO: === Review cycle 1/3 complete ===
+03:56:48 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 03:56:48 [asyncio] DEBUG: Using selector: EpollSelector
+03:56:48 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 03:56:48 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:57:34 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+2026-04-28 03:57:34 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+03:57:34 [pipeline.stages.s4_review] INFO: Feedback: Відмінна стаття. Наукова точність на високому рівні: усі ключові твердження підкріплені конкretними дослідженнями з PubMed-посиланнями, чітко розмежовано кореляцію та причинність (особливо щодо Kodama
+2026-04-28 03:57:34 [pipeline.stages.s4_review] INFO: Feedback: Відмінна стаття. Наукова точність на високому рівні: усі ключові твердження підкріплені конкretними дослідженнями з PubMed-посиланнями, чітко розмежовано кореляцію та причинність (особливо щодо Kodama
+03:57:34 [pipeline] INFO: Article approved after 1 revision(s)
+2026-04-28 03:57:34 [pipeline] INFO: Article approved after 1 revision(s)
+03:57:34 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 03:57:34 [asyncio] DEBUG: Using selector: EpollSelector
+03:57:34 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 03:57:34 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:58:03 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita is mid-stride doing Nordic walking on a sunlit park tra | pose=Dynamic mid-stride Nordic walking stance: left arm extended behind gripping a pole planted in the ground at an angle, right arm swinging forward with pole tip lifted, right leg stepping forward with knee slightly bent, left leg pushing off behind. Torso slightly leaned forward with engaged core. Hair flowing behind her in the motion. She is tall (178 cm), athletic-muscular build with defined biceps, visible quads, and lean core. Long wavy blonde hair parted on the left, flowing past shoulders in a braid. Bright green eyes. Sun-kissed skin with healthy glow. Small green leaf tattoo visible on her right shoulder. Black fitness smartwatch with green accents on left wrist. | expression=Confident smile — warm, self-assured, with a slight head turn toward the viewer as if inviting them to join her. Eyes bright and energized, full lips curved in a motivational grin. | props=Two professional Nordic walking poles with black shafts and green ergonomic grips with wrist straps, Fitness smartwatch on left wrist displaying a heart rate zone chart in green, Translucent neon-green anatomical muscle overlay on her body highlighting upper back, shoulders, triceps, core, glutes, and quads, A small infographic floating near her shoulder showing '90% м'язів' with a human silhouette
+2026-04-28 03:58:03 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita is mid-stride doing Nordic walking on a sunlit park tra | pose=Dynamic mid-stride Nordic walking stance: left arm extended behind gripping a pole planted in the ground at an angle, right arm swinging forward with pole tip lifted, right leg stepping forward with knee slightly bent, left leg pushing off behind. Torso slightly leaned forward with engaged core. Hair flowing behind her in the motion. She is tall (178 cm), athletic-muscular build with defined biceps, visible quads, and lean core. Long wavy blonde hair parted on the left, flowing past shoulders in a braid. Bright green eyes. Sun-kissed skin with healthy glow. Small green leaf tattoo visible on her right shoulder. Black fitness smartwatch with green accents on left wrist. | expression=Confident smile — warm, self-assured, with a slight head turn toward the viewer as if inviting them to join her. Eyes bright and energized, full lips curved in a motivational grin. | props=Two professional Nordic walking poles with black shafts and green ergonomic grips with wrist straps, Fitness smartwatch on left wrist displaying a heart rate zone chart in green, Translucent neon-green anatomical muscle overlay on her body highlighting upper back, shoulders, triceps, core, glutes, and quads, A small infographic floating near her shoulder showing '90% м'язів' with a human silhouette
+03:58:03 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 03:58:03 [asyncio] DEBUG: Using selector: EpollSelector
+03:58:03 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 03:58:03 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:58:12 [pipeline.stages.s6_generate_tg] INFO: TG caption: 727 chars
+2026-04-28 03:58:12 [pipeline.stages.s6_generate_tg] INFO: TG caption: 727 chars
+03:58:12 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=skandynavska-khodba-palky-kardio-vo2max-meta-analiz
+2026-04-28 03:58:12 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=skandynavska-khodba-palky-kardio-vo2max-meta-analiz
+03:58:12 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 03:58:12 [asyncio] DEBUG: Using selector: EpollSelector
+03:58:12 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 03:58:12 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:58:40 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Deduplicated repeated character details, reordered to subject-first structure, added explicit anatom
+2026-04-28 03:58:40 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Deduplicated repeated character details, reordered to subject-first structure, added explicit anatom
+03:58:40 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+2026-04-28 03:58:40 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+03:58:40 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2026-04-28 03:58:40 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:59:52 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+2026-04-28 03:59:52 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 200 None
+03:59:53 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+2026-04-28 03:59:53 [PIL.PngImagePlugin] DEBUG: STREAM b'IHDR' 16 13
+03:59:53 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 23626
+2026-04-28 03:59:53 [PIL.PngImagePlugin] DEBUG: STREAM b'caBX' 41 23626
+03:59:53 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 23626 (unknown)
+2026-04-28 03:59:53 [PIL.PngImagePlugin] DEBUG: b'caBX' 41 23626 (unknown)
+03:59:53 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 23679 3505695
+2026-04-28 03:59:53 [PIL.PngImagePlugin] DEBUG: STREAM b'IDAT' 23679 3505695
+03:59:53 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/skandynavska-khodba-palky-kardio-vo2max-meta-analiz.jpg (249 KB, quality=auto)
+2026-04-28 03:59:53 [pipeline.image_gen] INFO: Image saved: /home/nero/workspace/projects/longlife-faion-net/gatsby/static/images/skandynavska-khodba-palky-kardio-vo2max-meta-analiz.jpg (249 KB, quality=auto)
+03:59:53 [asyncio] DEBUG: Using selector: EpollSelector
+2026-04-28 03:59:53 [asyncio] DEBUG: Using selector: EpollSelector
+03:59:53 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+2026-04-28 03:59:53 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/nero/.local/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:00:02 [pipeline.stages.s_image_qa] WARNING: QA returned unparseable output, assuming OK: "The image read was blocked by a quota guard hook:\n\n```\nQUOTA-BLOCKED: 5h at 101.0%. Already parked. New work blocked until quota recovers.\n```\n\nI cannot inspect the image right now because the system'"
+2026-04-28 04:00:02 [pipeline.stages.s_image_qa] WARNING: QA returned unparseable output, assuming OK: "The image read was blocked by a quota guard hook:\n\n```\nQUOTA-BLOCKED: 5h at 101.0%. Already parked. New work blocked until quota recovers.\n```\n\nI cannot inspect the image right now because the system'"
+04:00:02 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] QA passed on attempt 1
+2026-04-28 04:00:02 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] QA passed on attempt 1
+04:00:02 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/skandynavska-khodba-palky-kardio-vo2max-meta-analiz.md
+2026-04-28 04:00:02 [pipeline.stages.s7_save] INFO: Article saved: /home/nero/workspace/projects/longlife-faion-net/content/skandynavska-khodba-palky-kardio-vo2max-meta-analiz.md
