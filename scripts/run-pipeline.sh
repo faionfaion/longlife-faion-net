@@ -29,10 +29,15 @@ trap "rm -f $LOCK" EXIT
 
 cd "$PROJECT_DIR"
 
-# Load environment
+# Load environment. `set -a` auto-exports every var from .env so child
+# processes (python pipeline) inherit them — .env uses plain KEY=value with
+# no `export`, so a bare `source` would keep them shell-local (e.g. an empty
+# TG_BOT_TOKEN, which silently breaks publishing).
 export PATH="$HOME/.local/bin:/usr/local/bin:/usr/bin:$PATH"
 export HOME="${HOME:-/home/nero}"
+set -a
 [ -f "$HOME/workspace/.env" ] && source "$HOME/workspace/.env"
+set +a
 
 # Activate shared media venv if present (faion-net runtime). On hosts without
 # this venv (e.g. nero-prod), fall through to system python3.

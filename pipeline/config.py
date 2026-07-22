@@ -1,5 +1,6 @@
 """Pipeline configuration: paths, models, constants."""
 
+import os
 from pathlib import Path
 
 # Project root
@@ -42,7 +43,10 @@ RETRY_BASE_DELAY = 5.0
 RETRY_MAX_DELAY = 60.0
 
 # Telegram
-TG_BOT_TOKEN = "8578996384:AAFhkTHh_D40VdCc7em5U9taM5a-o00JzaA"
+# Shared @nero_open_bot token, loaded from env (~/workspace/.env). The previous
+# dedicated bot token was hardcoded here and started returning 401 Unauthorized
+# (bot revoked), which silently killed TG publishing from late April 2026.
+TG_BOT_TOKEN = os.environ.get("NERO_TG_BOT_TOKEN", "")
 TG_CHANNEL_ID = "-1003845412300"
 TG_CHANNEL_USERNAME = "long_life_media"
 TG_BUTTON_LABEL = "Читати повністю \u2192"
