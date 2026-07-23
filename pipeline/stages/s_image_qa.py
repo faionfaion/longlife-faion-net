@@ -48,11 +48,21 @@ Output ONLY JSON, no prose."""
 
 
 _JSON_SCHEMA_HINT = """{
+  "counts": {
+    "hands": 2,
+    "arms": 2,
+    "legs": 2,
+    "heads": 1,
+    "eyes": 2,
+    "fingers_right_hand": 5,
+    "fingers_left_hand": 5
+  },
+  "readable_text_present": false,
   "ok": false,
   "severity": "high",
   "issues": [
-    "Left hand has 6 fingers",
-    "Text on bottle is garbled"
+    "Character has 3 hands — the right arm ends in two separate hands",
+    "Text on background poster is garbled"
   ],
   "retry_recommended": true
 }"""
@@ -76,12 +86,24 @@ def analyze(image_path: Path, scene_context: str = "") -> dict:
 
     user_prompt = (
         f"Read the image at: {image_path}\n\n"
-        f"Inspect it for ANY artifact — anatomy errors, distorted faces/hands, garbled text, "
-        f"style breaks, object glitches, composition issues. "
-        f"Count fingers on every visible hand. Verify limb count.{context_block}\n\n"
+        f"FIRST, look carefully at the main character and answer these questions by counting what you "
+        f"actually see (fill the `counts` object):\n"
+        f"- How many hands does the character have?\n"
+        f"- How many arms?\n"
+        f"- How many legs?\n"
+        f"- How many heads?\n"
+        f"- How many eyes?\n"
+        f"- How many fingers on the RIGHT hand?\n"
+        f"- How many fingers on the LEFT hand?\n"
+        f"(If a limb is hidden/cropped by the frame, count only what is visible and say so in issues — do "
+        f"not assume.) Also set `readable_text_present` = true if ANY readable text, numbers, chart, label, "
+        f"or screen appears in the image.\n\n"
+        f"THEN inspect for any other artifact — distorted faces, merged/duplicated objects, garbled text, "
+        f"floating props, warping, composition breaks.{context_block}\n\n"
         f"Return strict JSON matching this shape:\n{_JSON_SCHEMA_HINT}\n\n"
-        f"If the image is perfect, set ok=true, severity='none', issues=[], retry_recommended=false. "
-        f"Otherwise list every specific issue."
+        f"A normal human has exactly 2 hands, 2 arms, 2 legs, 1 head, 2 eyes, and 5 fingers per visible hand. "
+        f"Any deviation, OR any readable text present, is a hard fail (severity='high', retry_recommended=true). "
+        f"If and only if the image is truly clean, set ok=true, severity='none', issues=[], retry_recommended=false."
     )
 
     try:
@@ -93,31 +115,40 @@ def analyze(image_path: Path, scene_context: str = "") -> dict:
             timeout=300,
         )
     except Exception as e:
-        logger.error("QA agent_query failed: %s", e)
-        return {"ok": True, "severity": "none", "issues": [], "retry_recommended": False}
+        # Fail CLOSED: if we cannot inspect the image, do NOT rubber-stamp it — force a retry.
+        logger.error("QA agent_query failed: %s — failing closed (retry)", e)
+        return {"ok": False, "severity": "high", "issues": [f"QA inspection failed: {e}"], "retry_recommended": True}
 
     result = _extract_json(text)
     if result is None:
-        logger.warning("QA returned unparseable output, assuming OK: %r", text[:200])
-        return {"ok": True, "severity": "none", "issues": [], "retry_recommended": False}
+        logger.warning("QA returned unparseable output — failing closed (retry): %r", text[:200])
+        return {"ok": False, "severity": "high", "issues": ["QA output unparseable"], "retry_recommended": True}
 
-    issues = result.get("issues", [])
-    severity = result.get("severity", "none")
-    ok = result.get("ok", True)
-    retry = result.get("retry_recommended", False)
+    issues = [str(i) for i in result.get("issues", [])]
+    severity = str(result.get("severity", "none"))
+    ok = bool(result.get("ok", True))
+    retry = bool(result.get("retry_recommended", False))
+
+    # Cross-check the explicit anatomy counts — override a too-lenient verdict.
+    expected = {"hands": 2, "arms": 2, "legs": 2, "heads": 1, "eyes": 2,
+                "fingers_right_hand": 5, "fingers_left_hand": 5}
+    counts = result.get("counts") or {}
+    for key, want in expected.items():
+        got = counts.get(key)
+        if isinstance(got, int) and got != want:
+            issues.append(f"Anatomy count off: {key}={got} (expected {want})")
+            ok, retry, severity = False, True, "high"
+    if result.get("readable_text_present") is True:
+        issues.append("Readable text/labels present in image")
+        ok, retry, severity = False, True, "high"
 
     logger.info(
-        "Image QA: ok=%s, severity=%s, retry=%s, issues=%d — %s",
-        ok, severity, retry, len(issues),
+        "Image QA: ok=%s, severity=%s, retry=%s, counts=%s, issues=%d — %s",
+        ok, severity, retry, counts or "n/a", len(issues),
         "; ".join(issues)[:200] if issues else "clean",
     )
 
-    return {
-        "ok": bool(ok),
-        "severity": str(severity),
-        "issues": [str(i) for i in issues],
-        "retry_recommended": bool(retry),
-    }
+    return {"ok": ok, "severity": severity, "issues": issues, "retry_recommended": retry}
 
 
 def _extract_json(text: str) -> dict | None:
