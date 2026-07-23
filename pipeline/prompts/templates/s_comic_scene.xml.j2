@@ -5,12 +5,24 @@ featuring Vita Zelenko — the fitness super-trainer mascot.
 {% include '_partials/character_sheet.md' %}
 
 CRITICAL RULES:
-1. Vita MUST be recognizable: blonde wavy hair parted left, green eyes, leaf tattoo on right shoulder,
-   smartwatch on left wrist. These markers are NON-NEGOTIABLE.
+1. Vita MUST be present and recognizable: blonde wavy hair parted left, green eyes, leaf tattoo on right
+   shoulder, smartwatch on left wrist. These markers are NON-NEGOTIABLE. She is required in every scene.
 2. Scene MUST directly relate to the article topic — not generic fitness.
-3. The text bubble must be a real insight from the article, in Ukrainian, max 1 sentence.
-4. Keep the scene dynamic — Vita should be DOING something, not just standing.
-5. Props must be relevant to the specific health topic of the article.
+3. PLACE VITA INSIDE A REAL ENVIRONMENT AND A REAL SITUATION — not an empty studio close-up. Vary the
+   framing across articles: wide establishing shots, environmental/full-body shots, action and movement,
+   Vita among other people or in a crowd, everyday real-life situations (street, market, clinic waiting
+   room, park path, home kitchen, office). Reserve tight close-ups only for genuinely emotional/facial
+   topics. Default to WIDE or MEDIUM, not portrait.
+4. Keep the scene dynamic — Vita should be DOING something (walking, cooking, stretching, climbing stairs,
+   reaching, carrying), integrated into the environment. Movement over posing.
+5. ONE clear physical action. Vita's hands must be simple and unambiguous: prefer a single active hand, or
+   both hands doing the SAME simple thing (e.g. both hands carrying one basket). NEVER stage a "presenting"
+   pose where one hand points at information while the other holds a prop — that split-hand gesturing is the
+   #1 cause of extra-hand / duplicated-limb artifacts.
+6. Props must be PHYSICAL, real-world objects relevant to the topic. DO NOT use props that carry readable
+   text, numbers, charts, graphs, forest plots, book spines, labels, tablets/phones/screens showing data,
+   posters, or whiteboards — the image model garbles all text and produces nonsense glyphs. If a data point
+   matters, express it visually through the environment or a single simple object, never as written text.
 </system>
 ===SPLIT===
 <task>
@@ -26,11 +38,21 @@ Type: {{ ctx.slot_type }}
 
 <scene_requirements>
 Design ONE comic panel featuring Vita that:
-- Shows her engaging with the article's specific health topic
-- Uses a setting appropriate to the topic (lab for research, kitchen for nutrition, gym for fitness, bedroom for sleep, park for outdoor activity)
-- Includes 2-3 props relevant to the topic
-- Has a text bubble with the single most actionable or surprising fact from the article (in Ukrainian)
-- Specifies color palette that matches the mood (energetic = warm golds and greens, calming = cool blues and sage, scientific = clean whites and teals)
+- Shows her LIVING the article's specific health topic inside a concrete, populated, real-world situation
+- Picks a vivid setting appropriate to the topic and places Vita fully INSIDE it (a busy street, a farmers'
+  market, a clinic waiting room, a kitchen mid-cook, a park path with other walkers, a stairwell, a bedroom
+  at night) — with real environmental depth, and other people around when it fits the topic
+- Chooses a shot type deliberately and states it in `pose`: WIDE (full environment, Vita smaller in frame),
+  MEDIUM (waist-up, environment visible), or, only when the topic is about emotion/face, CLOSE. Favor WIDE
+  and MEDIUM. Avoid the default centered close-up portrait.
+- Gives Vita ONE clear action with simple, unambiguous hands (single active hand, or both hands doing the
+  same thing). Do NOT have her point at anything while holding something else.
+- Includes 1-3 PHYSICAL props relevant to the topic that contain NO readable text, numbers, charts, screens,
+  or labels. If a fact matters, show it through the scene, not through written words.
+- Specifies color palette that matches the mood (energetic = warm golds and greens, calming = cool blues and
+  sage, scientific = clean whites and teals)
+- `text_bubble`: still provide the single key takeaway in Ukrainian (used downstream as caption text), but it
+  will NOT be drawn in the image — the illustration itself carries no text.
 
 IMPORTANT: The scene description must be detailed enough for an image generation model to produce a consistent result.
 Describe Vita's physical appearance in every scene — do not assume the image model remembers her.

@@ -37,17 +37,20 @@
 - **Determined training face:** Focused eyes, slight jaw clench, mid-exercise
 - **Explaining/teaching:** One eyebrow slightly raised, engaged expression, pointing or gesturing
 
-## Common Props
+## Common Props (physical objects only — NEVER anything with readable text, numbers, charts, or screens)
 - Dumbbells (chrome with green grips)
 - Yoga mat (emerald green)
 - Green smoothie in glass bottle
-- Tablet or phone showing research/charts
 - Resistance bands
 - Jump rope
 - Fresh vegetables/fruits basket
+- Everyday real-world objects that fit the scene (a mug, a grocery bag, a pillow, a water bottle, stairs, a park bench)
+- AVOID: tablets, phones, laptops, charts, graphs, posters, whiteboards, books with visible spines — the image model garbles all text
 
-## Pose Library
-- **Power stance:** Hands on hips, slight lean forward, confident
+## Pose Library (favor environmental + action; keep hands simple)
+- **In motion:** Walking, climbing stairs, jogging a park path, carrying groceries — full body inside a real setting
+- **Doing a task:** Cooking at the stove, chopping vegetables, rolling out a yoga mat, filling a water bottle
+- **Among people:** Moving through a market, street, or clinic waiting room with other figures around her
 - **Training:** Mid-exercise with equipment, dynamic movement
-- **Presenting:** One hand gesturing toward information, other holding prop
-- **Casual:** Leaning against wall or sitting, relaxed but athletic posture
+- **Quiet moment:** Sitting on a bench, stretching, resting — relaxed but athletic
+- Hand rule: ONE clear active hand, or both hands doing the same thing. Never point at something while holding something else.

@@ -19,14 +19,16 @@ logger = logging.getLogger(__name__)
 _SYSTEM_PROMPT = """You are an expert prompt engineer for OpenAI's gpt-image-1 model.
 
 Best practices for this model:
-1. ANATOMY EXPLICITLY: "two hands with exactly five fingers each, one head, two eyes, natural proportions". The model often adds extra limbs or fingers — always state the correct count positively.
-2. ORDER MATTERS: subject first → pose → environment → lighting → style. Most-important details go first.
-3. AVOID AMBIGUITY: no "or", "might be", "maybe", "possibly". Replace with specific choices.
-4. POSITIVE FRAMING: the model treats all words as things to include. Instead of "no extra arms", say "a single pair of arms, anatomically correct". Instead of "no text", say "clean illustration with no text overlays".
-5. CONCRETE OVER ABSTRACT: "soft afternoon sunlight from the left" beats "nice lighting".
-6. SINGLE FOCAL POINT: one clear subject, one clear action.
-7. PRESERVE CHARACTER DETAILS: if the input describes a specific character (clothing, hair, tattoos, accessories) — keep them verbatim, don't paraphrase.
-8. KEEP LENGTH REASONABLE: 150-300 words. Longer prompts dilute attention.
+1. ANATOMY EXPLICITLY: state "exactly two arms, two hands with five fingers each, two legs, one head, two eyes, natural human proportions". The model often adds extra limbs, hands, or fingers — always state the correct count positively.
+2. SIMPLE HANDS: describe ONE clear hand action, or both hands doing the SAME thing. NEVER describe one hand pointing/gesturing at something while the other holds a prop — split-hand gestures are the #1 trigger for extra-hand and duplicated-limb artifacts. If the input has such a pose, rewrite it into a single simple action.
+3. ENVIRONMENT & ACTION OVER PORTRAIT: place the character fully inside a real, populated environment, doing a real action (walking, cooking, carrying, climbing, stretching). Prefer WIDE or MEDIUM framing with visible surroundings and, when it fits, other people around. Avoid empty centered close-up portraits unless the input explicitly calls for a facial/emotional focus.
+4. NO READABLE TEXT: the model cannot render text (especially Cyrillic) and produces garbled glyphs. Strip every request for readable text, numbers, charts, graphs, forest plots, book spines, labels, posters, whiteboards, and screens/tablets/phones showing data. State positively: "a clean illustration with no text, numbers, or charts anywhere". Replace any data-bearing prop with a plain physical object.
+5. ORDER MATTERS: subject first → action → environment → lighting → style. Most-important details go first.
+6. AVOID AMBIGUITY: no "or", "might be", "maybe", "possibly". Replace with specific choices.
+7. POSITIVE FRAMING: the model treats all words as things to include. Instead of "no extra arms", say "a single pair of arms, anatomically correct".
+8. CONCRETE OVER ABSTRACT: "soft afternoon sunlight from the left" beats "nice lighting".
+9. PRESERVE CHARACTER DETAILS: keep the character's appearance (clothing, hair, tattoos, accessories) verbatim — but you MAY change framing, setting, action, and props to satisfy rules 2-4.
+10. KEEP LENGTH REASONABLE: 150-300 words. Longer prompts dilute attention.
 
 Output JSON only."""
 
@@ -82,12 +84,21 @@ def revise(raw_prompt: str, previous_prompt: str, qa_issues: list[str]) -> str:
     """
     issues_block = "\n".join(f"- {i}" for i in qa_issues)
     user_prompt = (
-        "The previous image had artifacts. Rewrite the prompt to fix them while preserving "
-        "the character and scene content. Be MORE explicit about anatomy where artifacts occurred.\n\n"
+        "The previous image had artifacts. Before rewriting, DIAGNOSE the prompt: for each issue, identify "
+        "which specific phrase or instruction in the PREVIOUS PROMPT most likely caused it. Common causes:\n"
+        "- extra/duplicated hands or limbs ← a split-hand pose (one hand points/gestures while the other holds "
+        "a prop), a busy pose, or too many simultaneous actions\n"
+        "- garbled text/glyphs ← any prop or background element that implies readable text, numbers, charts, "
+        "screens, labels, book spines, or posters\n"
+        "- duplicated objects (e.g. two smartwatches) ← the accessory described ambiguously or twice\n"
+        "- floating/clipping props ← an object described as held but not clearly attached to one hand\n\n"
+        "Then rewrite the prompt to REMOVE the root cause, not just to add more anatomy words. Simplify the "
+        "pose to one clear action with unambiguous hands, replace any text/data-bearing prop with a plain "
+        "physical object, and keep the character's appearance verbatim.\n\n"
         f"ORIGINAL SCENE:\n{raw_prompt}\n\n"
         f"PREVIOUS (FLAWED) PROMPT:\n{previous_prompt}\n\n"
         f"ISSUES FOUND IN THE IMAGE:\n{issues_block}\n\n"
-        "Produce a revised prompt that directly addresses every issue."
+        "Put your root-cause diagnosis in `reasoning`, and the corrected prompt in `prompt`."
     )
 
     result = structured_query(
