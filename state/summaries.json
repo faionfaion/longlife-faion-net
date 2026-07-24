@@ -4014,5 +4014,22 @@
       "catch-up"
     ],
     "summary": "Guide article based on the July 2026 WHO-UNICEF WUENIC report showing global DTP3 at 85% and MCV1 at 84%, still below the 2019 baseline and far from the 95% herd-immunity threshold for measles. Ukraine recorded a +2 pp DTP3 increase in 2025 and roughly 2,000 measles cases concentrated in Chernivtsi, Zakarpattia and Ivano-Frankivsk oblasts; neighbouring Romania had ~10,000 cases. Explains the January 2026 МОЗ calendar changes (HPV for 12–13-year-old girls, MMR2 moved from 6 to 4 years, unified 2-4-6-18-month schedule for DTaP/HepB/Hib/polio, BCG within 24 hours, full switch to IPV) and gives parents a step-by-step catch-up protocol drawn from WHO 'Big Catch-Up', CDC refugee guidance and Royal Children's Hospital Melbourne — including the rule not to restart series, co-administration safety, and early MMR from 6 months in outbreak areas. Evidence strength: strong (WUENIC, WHO Europe, ECDC surveillance, national regulatory documents). Includes limitations (WUENIC uncertainty bounds, exclusion of occupied territories) and cross-links to the site's flu-vaccine 2026-2027 article."
+  },
+  "kazein-pered-snom-trommelen-2023-100g-protein-mezha": {
+    "date": "2026-07-24",
+    "title": "Казеїн 40 г перед сном і 100 г за раз: що змінив ізотопний RCT Trommelen 2023 у правилах білка",
+    "type": "nutrition",
+    "tags": [
+      "білок",
+      "казеїн",
+      "силові тренування",
+      "сон",
+      "м'язи",
+      "нутриціологія",
+      "дослідження",
+      "після 40",
+      "спортивне харчування"
+    ],
+    "summary": "Ізотопний RCT Trommelen 2023 (Cell Reports Medicine, n=36 молодих чоловіків) спростував догму про 25–30 г білка як стелю засвоєння: 100 г молочного білка після силового тренування підвищували міофібрилярний МПС на 20–40% і підтримували синтез >12 год без насичення. Для нічного казеїну класичні RCT (Res 2012, Snijders 2015) підтверджують ефект у молодих; Kouw 2017 показав, що після 60+ потрібна доза саме 40 г (нижчі не працюють через анаболічну резистентність). Однак свіжий 2025 RCT у JISSN на літніх нетренованих чоловіках показав: якщо добовий білок ≥1,0 г/кг, додавання 40 г казеїну перед сном за 12 тижнів не дає приросту м'язів vs training-only. Мета-аналіз Morton 2018 (BJSM) підтверджує плато на ~1,62 г/кг/добу. Практичний висновок: загальна добова норма білка важить більше за таймінг, але 30–40 г казеїну (або сироваткового — вони еквівалентні за Trommelen Sports Med 2023) перед сном — розумна опція для 40+ силових атлетів, коли добова норма не добирається. Безпека підтверджена (Kinsey 2016, Ormsbee 2020). Рівень доказовості — середній."
   }
 }
