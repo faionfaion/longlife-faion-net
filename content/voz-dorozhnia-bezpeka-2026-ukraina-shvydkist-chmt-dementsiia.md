@@ -1,0 +1,113 @@
+---
+title: "Тиха епідемія: чому смертність на дорогах у світі впала на 21%, а в Україні зростає"
+slug: "voz-dorozhnia-bezpeka-2026-ukraina-shvydkist-chmt-dementsiia"
+date: "2026-07-24"
+type: "research"
+lang: "ua"
+tags:
+  - "дорожня безпека"
+  - "ВООЗ"
+  - "ДТП Україна"
+  - "черепно-мозкова травма"
+  - "деменція"
+  - "профілактика"
+  - "швидкість"
+  - "велошолом"
+description: "ВООЗ 2026: смертність на дорогах −21% у світі, але росте в Україні. Швидкість, ЧМТ і зв'язок із деменцією."
+author: "Віта Зеленко"
+source_urls:
+  - "https://www.who.int/news/item/20-07-2026-road-deaths-fall-by-21--globally-but-stronger-action-is-needed-to-save-lives"
+  - "https://opendatabot.ua/en/analytics/dtp-2024-8"
+  - "https://unn.ua/en/news/how-many-people-have-died-in-road-accidents-in-ukraine-since-the-beginning-of-2025-statistics"
+  - "https://cedem.org.ua/en/news/road-safety-in-ukraine/"
+  - "https://www.sciencedirect.com/science/article/abs/pii/S000145751830839X"
+  - "https://www.sciencedirect.com/science/article/abs/pii/S0001457519301058"
+  - "https://www.sciencedirect.com/science/article/abs/pii/S002243752400152X"
+  - "https://academic.oup.com/ije/article/46/1/278/2617198"
+  - "https://www.cdc.gov/seat-belts/facts/index.html"
+  - "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6310927/"
+  - "https://www.mitre.org/sites/default/files/2025-11/PR-25-3048-PARTS-Effectiveness-of-Advanced-Driver-Assistance-Systems-Nov-2025.pdf"
+  - "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253206"
+  - "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002496"
+  - "https://pubmed.ncbi.nlm.nih.gov/39096926/"
+source_names:
+  - "WHO Global Status Report on Road Safety 2026"
+  - "Opendatabot — Ukraine crash statistics 2024"
+  - "UNN — Ukraine 2025 fatalities"
+  - "CEDEM — Road safety in Ukraine"
+  - "Elvik, 2019, Accident Analysis & Prevention"
+  - "Hussain et al., 2019, Accident Analysis & Prevention"
+  - "Yannis et al., 2024, Journal of Safety Research"
+  - "Olivier & Creighton, 2017, International Journal of Epidemiology"
+  - "CDC — Facts About Seat Belt Use"
+  - "Fouda Mbarga et al., 2018, BMC Public Health"
+  - "MITRE/PARTS 2025 — ADAS Effectiveness"
+  - "Gu et al., 2021, PLOS ONE"
+  - "Fann et al., 2018, PLOS Medicine"
+  - "Livingston et al., 2024, Lancet Commission on Dementia"
+image: ""
+tg_post: |
+  <b>Звіт ВООЗ 2026: смертність на дорогах у світі впала на 21%, але в Україні — навпаки, зростає.</b>
+  
+  За 2011–2025 роки Європа скоротила дорожню смертність на 36%, тоді як в Україні кількість ДТП з постраждалими у 2024-му зросла на 11%. Головна причина — перевищення швидкості (39,9%): за мета-аналізом Ельвіка, +1% до середньої швидкості дає +4% смертельних ДТП.
+  
+  <a href="https://longlife.faion.net/voz-dorozhnia-bezpeka-2026-ukraina-shvydkist-chmt-dementsiia/">Читати повністю →</a>
+  
+  <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
+---
+
+Привіт! Сьогодні розберемо звіт, який рідко потрапляє на перші шпальти, хоча стосується кожного, хто виходить з дому. ВООЗ опублікувала Global Status Report on Road Safety 2026, і в ньому є дві новини — гарна і не дуже. 🔬
+
+Гарна: за 2011–2025 роки глобальна смертність на дорогах впала на **21%** — попри те, що автопарк планети зріс більш ніж на мільярд машин. Не дуже: у 2025-му на дорогах усе одно загинуло близько **1,16 мільйона людей**, а дорожні травми залишаються провідною причиною смерті серед людей віком 5–29 років ([WHO, 2026](https://www.who.int/news/item/20-07-2026-road-deaths-fall-by-21--globally-but-stronger-action-is-needed-to-save-lives)).
+
+Європа за цей період скоротила смертність на **36%**, Західна частина Тихого океану — на 15%. А от Африканський регіон, навпаки, +17%. Україна, на жаль, ближче до другої групи.
+
+**Категорія:** Громадське здоров'я
+**Теги:** #безпекадоріг #ЧМТ #профілактикадеменції #громадськездоровя #ДТП #Україна
+
+## Що показує українська статистика
+
+За даними Національної поліції та аналітики Opendatabot, у 2024 році кількість ДТП із постраждалими зросла на **11%** порівняно з 2023-м. Лише за січень–серпень — 16 621 аварія, 1918 загиблих, 20 862 травмованих ([Opendatabot](https://opendatabot.ua/en/analytics/dtp-2024-8)). За перший квартал 2025-го — ще 1252 загиблих ([UNN](https://unn.ua/en/news/how-many-people-have-died-in-road-accidents-in-ukraine-since-the-beginning-of-2025-statistics)).
+
+Головна причина — **перевищення швидкості (39,9%)**. Далі йдуть неправильне маневрування і порушення на перехрестях ([CEDEM](https://cedem.org.ua/en/news/road-safety-in-ukraine/)). Так, воєнні умови впливають на дані і на дороги — але фізика від цього не змінюється.
+
+## Чому швидкість — це не просто про штрафи
+
+Мета-аналіз Руне Ельвіка у *Accident Analysis & Prevention* (2019) оновив класичну «модель степенів»: **+1% до середньої швидкості дає ~+2% до аварій з травмами і ~+4% до смертельних ДТП** ([Elvik, 2019](https://www.sciencedirect.com/science/article/abs/pii/S000145751830839X)).
+
+Важливий нюанс: ця модель описує зміни *середньої швидкості потоку на рівні дорожньої мережі* (наприклад, коли місто знижує ліміт на цілій ділянці), а не поведінку окремого водія в конкретній поїздці. Це інструмент для планувальників і політиків, а не формула для власного спідометра.
+
+Для пішоходів залежність ще жорсткіша. Мета-аналіз Хуссейна та колег: ризик загинути під час наїзду — **5% при 30 км/год, 50% при 59 км/год і 90% при 80 км/год** ([Hussain et al., 2019](https://www.sciencedirect.com/science/article/abs/pii/S0001457519301058)).
+
+Саме тому огляд Янніса та колег (2024) підрахував: перехід міст на **30 км/год** зменшує аварії з пішоходами на 21–32%, а з велосипедистами — на 17% ([Yannis et al., 2024](https://www.sciencedirect.com/science/article/abs/pii/S002243752400152X)).
+
+## Ремені, шоломи, ADAS
+
+Прості речі, які працюють:
+
+- **Ремінь безпеки** знижує ризик смертельної травми у переднього пасажира на **45%** ([CDC](https://www.cdc.gov/seat-belts/facts/index.html)).
+- **Велошолом** — це не про моду. Мета-аналіз 40 досліджень (~64 000 велосипедистів): травми голови −48%, серйозні травми голови −60%, черепно-мозкові травми −53% ([Olivier & Creighton, 2017, IJE](https://academic.oup.com/ije/article/46/1/278/2617198)).
+- **ADAS** (Advanced Driver Assistance Systems — системи допомоги водієві: автоматичне екстрене гальмування, утримання в смузі, попередження про сліпі зони) за даними IIHS та звіту PARTS 2025: автоматичне екстрене гальмування (AEB) зменшує зіткнення «в задній бампер» на **~50%**, а пішохідне AEB — на 27% ([MITRE/PARTS, 2025](https://www.mitre.org/sites/default/files/2025-11/PR-25-3048-PARTS-Effectiveness-of-Advanced-Driver-Assistance-Systems-Nov-2025.pdf)).
+
+## Прихована ціна ДТП — деменція через десятиліття
+
+Ось та «тиха» частина, про яку не пишуть у поліцейських зведеннях. Черепно-мозкова травма (ЧМТ) — це пошкодження мозку внаслідок удару, струсу чи проникаючої травми голови; вона не лише про реанімацію в перший тиждень. Мета-аналіз 17 когортних досліджень (n=4,3 млн) показав: люди з ЧМТ мають на **17% вищий ризик хвороби Альцгеймера**, а після середньої/тяжкої травми — на 30% ([Gu et al., 2021, PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253206)).
+
+Датське дослідження 2,8 мільйона людей це підтвердило: ризик деменції зростає у **1,24 раза** і зберігається понад 30 років після травми ([Fann et al., 2018, PLOS Medicine](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002496)).
+
+Саме тому Lancet Commission on Dementia 2024 включила ЧМТ до **14 модифікованих факторів ризику** — на неї припадає близько **3%** із 45% потенційно попереджуваних випадків деменції ([Livingston et al., 2024](https://pubmed.ncbi.nlm.nih.gov/39096926/)). Уточнення: це *популяційна атрибутивна фракція* (PAF) — оцінка того, скільки випадків деменції на рівні всього населення теоретично не сталося б, якби фактор ризику зник. Це не про індивідуальний ризик конкретної людини після конкретної травми. Про решту 13 факторів ми писали [окремо](https://longlife.faion.net/slukh-dementsiia-audiometriia-45-achieve-slukhovi-aparaty-ukraina/).
+
+Важливо: причинність для одноразових легких ЧМТ ще обговорюється, і когортні дослідження не виключають зворотної причинності (коли ранні, ще недіагностовані зміни в мозку самі підвищують схильність до падінь і травм). Але напрямок сигналу стабільний. 🧠
+
+## Що можна зробити вже сьогодні
+
+- **Пристібайся сам і проси пасажирів ззаду** — задній ремінь скорочує ризик серйозних травм на ~44% ([BMC Public Health, 2018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6310927/)).
+- **У місті тримай ~50, у житлових зонах — 30 км/год.** Кожні +1 км/год швидкості удару для пішохода помітно підвищують ризик фатального наслідку — крива стрімка саме в діапазоні 30–60 км/год ([Hussain et al., 2019](https://www.sciencedirect.com/science/article/abs/pii/S0001457519301058)).
+- **Велосипед або самокат — тільки в шоломі.** Так, навіть на «пʼять хвилин до магазину» ([Olivier & Creighton, 2017](https://academic.oup.com/ije/article/46/1/278/2617198)).
+- Якщо міняєш авто — дивись, чи є AEB і система утримання смуги. Це вже не преміум-опція ([MITRE/PARTS, 2025](https://www.mitre.org/sites/default/files/2025-11/PR-25-3048-PARTS-Effectiveness-of-Advanced-Driver-Assistance-Systems-Nov-2025.pdf)).
+
+Прогрес у світі показує, що дороги можуть ставати безпечнішими навіть при зростанні трафіку. Питання — чи виберемо ми ту саму траєкторію.
+
+---
+
+*Редакційна примітка: посилання на звіт ВООЗ від 20.07.2026 варто перевірити на актуальність перед публікацією.*

@@ -3980,5 +3980,21 @@
       "sedentary behaviour"
     ],
     "summary": "Systematic review by Buffey et al. (2022, Sports Medicine, 7 RCTs) shows that interrupting prolonged sitting with 2–5 min of light walking every 20–30 min reduces postprandial glucose by ~17% (vs ~9.5% for standing) and lowers insulin. Reynolds 2016 (Diabetologia, n=41 T2D) found three 10-min post-meal walks beat one 30-min walk (~12% lower iAUC, ~22% after dinner). Engeroff 2023 meta-analysis clarifies timing: exercise works only AFTER meals, best within 0–29 min — the '60–90 min window' is when glucose peaks, so walking should precede it. Chang 2025 (Frontiers in Nutrition, 17 trials, 261 adults with obesity) confirms exercise snacks lower glucose (SMD −0.49). Chen 2026 (n=20 healthy) suggests women benefit more. All evidence is ACUTE laboratory data; no long-term HbA1c RCT yet. Practical takeaway: walk 2–10 min within 15–30 min after meals, especially dinner; office workers should break sitting every 30 min. Cross-links to prior CGM article to temper hype. Evidence: moderate."
+  },
+  "voz-dorozhnia-bezpeka-2026-ukraina-shvydkist-chmt-dementsiia": {
+    "date": "2026-07-24",
+    "title": "Тиха епідемія: чому смертність на дорогах у світі впала на 21%, а в Україні зростає",
+    "type": "research",
+    "tags": [
+      "дорожня безпека",
+      "ВООЗ",
+      "ДТП Україна",
+      "черепно-мозкова травма",
+      "деменція",
+      "профілактика",
+      "швидкість",
+      "велошолом"
+    ],
+    "summary": "Стаття зіставляє глобальний звіт ВООЗ 2026 (−21% дорожньої смертності за 2011–2025) з даними МВС та Opendatabot про зростання ДТП в Україні (+11% у 2024, ~3300 загиблих). Пояснює модель Ельвіка (+1% швидкості = +4% фатальних ДТП), мета-аналіз Хусcейна (30 км/год = 5% ризику смерті пішохода vs 90% при 80 км/год), огляд Янніса про ефект зон 30 км/год, ефективність ременів (CDC −45%), велошоломів (Olivier 2017: −60% серйозних травм голови) та ADAS (PARTS 2025: AEB −50%). Ключовий ракурс — звʼязок ЧМТ з деменцією через Lancet Commission 2024 (ЧМТ = 3% PAF із 45%), підкріплений мета-аналізом Gu 2021 (RR 1,17) і датським когортним дослідженням Fann 2018 (HR 1,24). Практичні рекомендації: ремінь, 30 км/год у житлових зонах, велошолом, ADAS при виборі авто. Рівень доказовості — сильний."
   }
 }
