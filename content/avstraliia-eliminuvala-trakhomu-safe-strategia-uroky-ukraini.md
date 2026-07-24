@@ -1,0 +1,104 @@
+---
+title: "Австралія елімінувала трахому: чому ВООЗ святкує і що Україна може взяти з 30-річної кампанії"
+slug: "avstraliia-eliminuvala-trakhomu-safe-strategia-uroky-ukraini"
+date: "2026-05-17"
+type: "research"
+lang: "ua"
+tags:
+  - "ВООЗ"
+  - "трахома"
+  - "елімінація"
+  - "вакцинація"
+  - "кір"
+  - "поліомієліт"
+  - "громадське здоров'я"
+  - "Україна"
+  - "дослідження"
+  - "профілактика"
+description: "ВООЗ підтвердила: Австралія стала 30-ю країною, що елімінувала трахому. Що це за хвороба, як працює стратегія SAFE та чому Україні варто звернути увагу."
+author: "Віта Зеленко"
+source_urls:
+  - "https://www.who.int/news/item/29-04-2026-australia-becomes-the-30th-country-to-eliminate-trachoma-as-a-public-health-problem"
+  - "https://www.who.int/news/item/14-05-2026-tunisia-validated-by-who-as-having-eliminated-trachoma-as-a-public-health-problem"
+  - "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)00551-3/abstract"
+  - "https://pubmed.ncbi.nlm.nih.gov/40412861/"
+  - "https://www.who.int/publications/i/item/who-wer10029-30-285-302"
+  - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12006610/"
+  - "https://www.mja.com.au/journal/2010/192/5/prevalence-trachoma-australia-national-indigenous-eye-health-survey"
+  - "https://www.who.int/news-room/fact-sheets/detail/trachoma"
+  - "https://www.who.int/europe/news-room/21-09-2023-polio-outbreak-in-ukraine-closed-a-success-story-for-public-health-despite-extreme-challenges-of-war"
+  - "https://en.moz.gov.ua/article/news/65-cases-of-measles-recorded-in-ukraine-in-2023-and-5-cases-since-the-beginning-of-this-year"
+  - "https://www.unicef.org/moldova/en/press-releases/european-region-reports-highest-number-measles-cases-more-25-years-unicef-whoeurope"
+  - "https://beaconbio.org/en/report/?reportid=f2c80751-f4b6-42f2-84e6-1778a2f77a8c"
+  - "https://www.unicef.org/ukraine/en/press-releases/over-55000-people-contracted-measles-beginning-2019"
+source_names:
+  - "WHO News — Australia eliminates trachoma (2026)"
+  - "WHO News — Tunisia eliminates trachoma (2026)"
+  - "The Lancet — Trachoma Seminar (2025)"
+  - "PubMed — Lancet Trachoma Seminar"
+  - "WHO Weekly Epidemiological Record (2025)"
+  - "Ophthalmology and Therapy — Meng et al. (2025)"
+  - "Medical Journal of Australia — Taylor et al. (2010)"
+  - "WHO Fact Sheet — Trachoma"
+  - "WHO Europe — Polio outbreak closed (2023)"
+  - "МОЗ України — Кір 2023"
+  - "UNICEF/WHO Europe — Measles surge"
+  - "BEACON / Boston University — Ukraine measles 2025"
+  - "UNICEF Ukraine — Measles outbreak 2017–2019"
+image: "/images/avstraliia-eliminuvala-trakhomu-safe-strategia-uroky-ukraini.jpg"
+tg_post: |
+  <b>Австралія стала 30-ю країною світу, яка перемогла хворобу, що століттями сліпила людство.</b>
+  
+  29 квітня 2026 року ВООЗ підтвердила: Австралія елімінувала трахому — провідну інфекційну причину сліпоти у світі. У 2024 році в ендемічних зонах ще жили 97 мільйонів людей, а 1,9 мільйона мали порушення зору через цю інфекцію — але глобальна поширеність впала на 67,9% з 1990 року завдяки стратегії SAFE: хірургія, антибіотики, гігієна обличчя й чисте довкілля.
+  
+  <a href="https://longlife.faion.net/avstraliia-eliminuvala-trakhomu-safe-strategia-uroky-ukraini/">Читати повністю →</a>
+  
+  <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
+---
+
+Привіт! Є новини з лабораторій громадського здоров'я — і цього разу вони по-справжньому світлі. 29 квітня 2026 року ВООЗ офіційно підтвердила: Австралія стала 30-ю країною світу, яка елімінувала трахому як проблему громадського здоров'я ([WHO, 2026](https://www.who.int/news/item/29-04-2026-australia-becomes-the-30th-country-to-eliminate-trachoma-as-a-public-health-problem)). Через два тижні до клубу долучився Туніс — 31-а країна ([WHO, 2026](https://www.who.int/news/item/14-05-2026-tunisia-validated-by-who-as-having-eliminated-trachoma-as-a-public-health-problem)). 🔬
+
+Чому це важливо для нас, у країні, де про трахому востаннє говорили хіба що бабусі? Бо це найбільш послідовна історія елімінації інфекційної хвороби XXI століття — і вона показує, як працює система, коли вона працює.
+
+## Що таке трахома і чому її так складно подолати
+
+Трахома — інфекція ока, яку викликає бактерія *Chlamydia trachomatis*. Починається в дитинстві з повторних кон'юнктивітів (запалень слизової оболонки ока), а через десятиліття у частини людей призводить до рубцювання повік, вростання вій усередину (трихіазу) і сліпоти. Це провідна інфекційна причина сліпоти у світі ([The Lancet, 2025](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)00551-3/abstract)).
+
+За даними ВООЗ, у 2024 році в ендемічних зонах жили 97 мільйонів людей, 1,9 мільйона мали порушення зору або сліпоту через трахому ([WHO WER, 2025](https://www.who.int/publications/i/item/who-wer10029-30-285-302)). Глобальна поширеність впала на 67,9% з 1990 року ([Meng et al., Ophthalmology and Therapy, 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12006610/)). Це не випадковість — це результат стратегії.
+
+## SAFE — чотири літери, які працюють
+
+Стратегія ВООЗ називається SAFE і складається з чотирьох компонентів ([WHO Fact Sheet](https://www.who.int/news-room/fact-sheets/detail/trachoma)):
+
+- **S — Surgery** (хірургія) — операції при трихіазі, щоб вії не пошкоджували рогівку.
+- **A — Antibiotics** (антибіотики) — масове введення азитроміцину одноразовою дозою, коли захворюваність у дітей 1–9 років перевищує 10%.
+- **F — Facial cleanliness** (гігієна обличчя) — миття обличчя дітям зменшує передачу через виділення і мух.
+- **E — Environmental improvement** (середовище) — чиста вода, санітарія, житло.
+
+Ключове тут — не «диво-таблетка», а комбінація медичного втручання з гігієною і базовою інфраструктурою. В Австралії хвороба зберігалась переважно у віддалених громадах аборигенів — і саме адресна, тривала, культурно чутлива робота з 2006 року дала результат. У 2008-му в деяких громадах активна трахома сягала 67% серед дітей ([Taylor et al., MJA, 2010](https://www.mja.com.au/journal/2010/192/5/prevalence-trachoma-australia-national-indigenous-eye-health-survey)). У 2026-му — нижче елімінаційного порогу ВООЗ.
+
+## А що ж Україна?
+
+У нас є один великий успіх і одна болюча регресія.
+
+**Успіх.** У 2021 році в Україні виявили завезений поліовірус. Попри повномасштабне вторгнення 2022 року, ВООЗ Європа офіційно закрила спалах у вересні 2023-го — нових випадків після грудня 2021-го не зафіксували ([WHO Europe, 2023](https://www.who.int/europe/news-room/21-09-2023-polio-outbreak-in-ukraine-closed-a-success-story-for-public-health-despite-extreme-challenges-of-war)). Це показало: система може мобілізуватися навіть у війну.
+
+**Регресія.** Кір повертається. За даними МОЗ, у 2023 році в Україні зафіксували 65 випадків кору ([МОЗ України](https://en.moz.gov.ua/article/news/65-cases-of-measles-recorded-in-ukraine-in-2023-and-5-cases-since-the-beginning-of-this-year)). У 2024-му за оперативними даними МОЗ — 473 випадки в Україні; на рівні Європейського регіону ВООЗ загалом 2024 рік став роком найбільшого числа випадків кору за останні 25 років ([UNICEF/WHO Europe](https://www.unicef.org/moldova/en/press-releases/european-region-reports-highest-number-measles-cases-more-25-years-unicef-whoeurope)). А за січень–серпень 2025-го в Україні — близько 1 200 випадків, з них приблизно 900 у дітей до 17 років і двоє померлих ([BEACON, 2025](https://beaconbio.org/en/report/?reportid=f2c80751-f4b6-42f2-84e6-1778a2f77a8c)). Для порівняння, у 2017–2019 роках Україна пережила один із найбільших спалахів кору в Європі за 20 років — понад 115 000 випадків ([UNICEF Ukraine](https://www.unicef.org/ukraine/en/press-releases/over-55000-people-contracted-measles-beginning-2019)). Тоді охоплення першою дозою MMR було лише 42% при цільовому 95%.
+
+## Які уроки ми можемо взяти
+
+По-перше, елімінація — це марафон, а не спринт. Австралії знадобилося приблизно 20 років системної роботи. Як ми вже писали про [нові тести ВООЗ на туберкульоз](https://longlife.faion.net/voz-novi-testy-tuberkuloz-2026-ukraina/), тривалі програми вимагають політичної волі поза виборчими циклами.
+
+По-друге, гігієна та інфраструктура — не «м'яка» частина. Літери F і E в SAFE не менш важливі за медичні компоненти: без чистої води, санітарії та регулярного миття обличчя хірургія й антибіотики не дають стійкого ефекту ([WHO Fact Sheet](https://www.who.int/news-room/fact-sheets/detail/trachoma)).
+
+По-третє, масове застосування антибіотиків працює, але має ціну. Дослідження масового медикаментозного лікування (MDA — mass drug administration) показують, що азитроміцинові кампанії можуть тимчасово підвищувати резистентність у непатогенних бактерій ([The Lancet, 2025](https://pubmed.ncbi.nlm.nih.gov/40412861/)). Важливо: це стосується саме популяційних кампаній MDA, а не звичайного клінічного призначення антибіотика конкретному пацієнту лікарем. Для України, де самолікування антибіотиками — серйозна проблема, цей урок особливо важливий.
+
+По-четверте, охоплення вакцинацією — це не «галочка», а тонкий лід. Падіння нижче 95% швидко повертає те, що, здавалося, перемогли.
+
+## Що можна зробити вже сьогодні 🌿
+
+- Перевір свій вакцинальний статус і статус дітей за карткою щеплень. За календарем МОЗ, MMR (кір–паротит–краснуха) — дві дози: у 12 місяців і 6 років. Якщо щось пропущене — поговори зі своїм сімейним лікарем про наздоганяючу вакцинацію (довакцинацію). Вакцинальний статус і схема — індивідуальні; остаточне рішення приймає лікар з урахуванням вашого анамнезу.
+- Не приймай антибіотики без призначення лікаря, навіть якщо «допомогло минулого разу». Резистентність — глобальна проблема, і вона починається з домашньої аптечки.
+- Якщо чуєш в інформпросторі заклики проти щеплень — звіряйся з первинними джерелами: ВООЗ, МОЗ, ECDC. Спалахи 2017–2019 і 2024–2025 років показують, що ціна недовіри — реальні дитячі життя.
+
+Хоча історія Австралії обнадійлива, вона також нагадує: жодна перемога над інфекцією не остаточна. Хвороба повертається туди, де слабшає система.

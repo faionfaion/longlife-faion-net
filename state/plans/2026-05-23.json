@@ -1,0 +1,87 @@
+{
+  "articles": [
+    {
+      "topic": "Меланома б'є рекорди: як перевіряти родимки за ABCDE — і чому найнебезпечніші меланоми не підпадають під це правило",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "На тлі рекордної кількості інвазивних меланом у Британії — практичний самоогляд: ABCDE + ознака «гидке каченя», але головний акцент на вузловій (nodular) та безпігментній (amelanotic) меланомі, які не дають класичних ознак (правило EFG: elevated, firm, growing). Чесне застереження: USPSTF не має доказів за рутинний скринінг усього тіла, тож фокус — на змінах і своєчасному зверненні до дерматолога. Завершує травневу серію про шкіру: кросс-лінк на статтю про травневий UV-індекс/SPF (19 травня) і солярії/IARC (16 травня), розводячи кути (профілактика опіку vs самодіагностика новоутворень).",
+      "sources_hint": "BBC Health May 2026 'Riskiest skin cancer cases hit UK record high'; ABCDE criteria (Rigel); nodular/amelanotic melanoma & EFG rule (Kelly 2003); 'ugly duckling' sign (Grob 1998); USPSTF 2023 skin cancer screening statement; dermoscopy evidence; Ukrainian National Cancer Registry melanoma data.",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Самотність як фактор ризику смерті: що каже Комісія ВООЗ із соціальних зв'язків і чому це критично для України",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Поглиблення теми, лише згаданої в оглядовій статті про WHA79 (19 травня, пункт 15.2): окремий розбір доповіді Комісії ВООЗ із соціальних зв'язків. Розрізнення самотності (суб'єктивне відчуття) та ізоляції (об'єктивний брак контактів); мета-аналізи Holt-Lunstad показують підвищення смертності, порівнянне з курінням, але дані спостережні з ризиком зворотної причинності. Контекст війни, ВПО, втрат. Що реально працює за доказами проти самотності (робота з дезадаптивними думками), а не порада «просто більше спілкуйтесь». Крос-лінк на WHA79.",
+      "sources_hint": "WHO Commission on Social Connection report (2025); Holt-Lunstad et al. 2010 PLoS Medicine (148 studies) & 2015 Perspectives on Psychological Science; US Surgeon General Advisory on loneliness 2023; Masi 2011 meta-analysis on loneliness interventions; WHA79 social connection agenda item.",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Риб'ячий жир під мікроскопом: чи захищає омега-3 серце і мозок — що показали VITAL, REDUCE-IT і Cochrane",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Реаліті-чек популярної добавки в стилі статей про вітамін D і таурин: великі RCT (VITAL, ASCEND) не виявили користі звичайних доз омега-3 для первинної профілактики ССЗ; REDUCE-IT (висока доза ікозапент етилу) показав ефект, але STRENGTH — ні (суперечка про мінеральне плацебо); Cochrane 2020 — мінімальний вплив; для когніції докази слабкі. Кому добавка реально показана (гіпертригліцеридемія, за призначенням лікаря), а кому це маркетинг. Крос-лінк на статтю про вітамін D (22 травня).",
+      "sources_hint": "Manson VITAL trial NEJM 2019 (omega-3 arm); ASCEND NEJM 2018; Bhatt REDUCE-IT NEJM 2019 vs Nicholls STRENGTH JAMA 2020; Abdelhamid Cochrane 2020 review; AHA Science Advisory on omega-3; cognitive decline meta-analyses.",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Хропіння — це не норма: навіщо пройти тест STOP-BANG на апное сну і що це дає",
+      "type": "guide",
+      "category": "sleep",
+      "angle": "Окремий напрям від безсоння/CBT-I і трекерів сну: обструктивне апное сну — масово недодіагностований розлад, пов'язаний із гіпертензією та СС-ризиком. Як самостійно оцінити ризик за опитувальником STOP-BANG і шкалою сонливості Епворта, коли потрібна полісомнографія чи домашній тест, що каже доказова база про CPAP (SAVE: покращує симптоми, але не довів зниження СС-подій — і чому). Українські реалії доступу та коли йти до лікаря.",
+      "sources_hint": "Chung STOP-BANG questionnaire 2008/2016; Epworth Sleepiness Scale; Benjafield Lancet Respir Med 2019 (global OSA prevalence ~936M); McEvoy SAVE trial NEJM 2016; AASM clinical practice guidelines; home sleep apnea testing evidence.",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Сила хвату як дзеркало здоров'я: чому простий тест передбачає смертність — і як її тренувати",
+      "type": "fitness",
+      "category": "longevity",
+      "angle": "Сила хвату — дешевий біомаркер старіння й саркопенії: у дослідженні PURE кожні −5 кг асоціювалися з +16% загальної смертності. Ключове розрізнення: це маркер загального здоров'я, а не магічна ціль — тренування саме хвату не доведено подовжує життя, але силові загалом так. Як виміряти (динамометр), нормативи за віком/статтю, прості вправи (станова, фермерська хода, віси на перекладині). Застереження для 40+.",
+      "sources_hint": "Leong et al. 2015 Lancet PURE study (grip strength & mortality, n~140,000); Celis-Morales 2018 BMJ UK Biobank grip & outcomes; Bohannon 2019 normative grip reviews; EWGSOP2 sarcopenia 2019 grip cutoffs; resistance-training evidence.",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "«Снеки руху»: чому 3×20 секунд сходами вдень покращують витривалість не гірше за похід у зал",
+      "type": "lifehack",
+      "category": "fitness",
+      "angle": "Окремо від «воїна вихідного дня» (про обсяг, 22 травня), прогулянок після їжі (про глюкозу, 17 травня) і суботнього протоколу відновлення (16 травня): мікродози інтенсивного руху («exercise snacks» і VILPA) кілька разів на день підвищують VO₂max і знижують смертність. Докази: сходи 3×20 с (Jenkins 2019), огляд Islam 2022, VILPA Stamatakis 2022 (−38–40% смертності). Практичний протокол на вихідні й робочий день; застереження для серця та 40+.",
+      "sources_hint": "Islam et al. 2022 exercise snacks review; Jenkins et al. 2019 stair-climbing snacks & CRF (Appl Physiol Nutr Metab); Stamatakis et al. 2022 Nature Medicine VILPA; Gillen/Little sprint-interval studies; CVD/40+ safety caveats.",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Берберин — це не «природний Ozempic»: що насправді показують мета-аналізи про цукор, ліпіди й вагу",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Спростування вірусного TikTok-міфу: берберин не діє через GLP-1 і не є замінником семаглутиду. Мета-аналізи показують помірне зниження глюкози й ЛПНЩ (механізм AMPK), але вплив на вагу слабкий і непевний; біодоступність ~1%, реальні ШКТ-побічні ефекти й взаємодії з ліками (CYP). Кому варто обговорити з лікарем, а кому — точно ні.",
+      "sources_hint": "Lan 2015 J Ethnopharmacol berberine meta-analysis (glycemia/lipids); Dong 2012 RCT meta-analysis; Yin 2008 metabolic syndrome; oral bioavailability (~1%) data; CYP drug-interaction data; debunking 'nature's Ozempic' (no GLP-1 mechanism).",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Вакцина проти Ебола-Bundibugyo: чи реально «готова до випробувань за місяці» — і що означає R&D-конвеєр",
+      "type": "research",
+      "category": "research",
+      "angle": "Вузький фокус-апдейт до статті про PHEIC від 18 травня (без дублювання): головна нова подія — британська команда (BBC, травень 2026) розробляє кандидат проти Bundibugyo. Основний акцент — реалістичний розбір конвеєра розробки: що насправді означає «готова до випробувань» (доклініка → фази 1–3 → реєстрація), чому ефективна проти Заїр Ervebo не масштабується автоматично, чому MBP134 і cAd3/ChAdOx досі дослідницькі. Деталі штаму (різниця ~30%) і PHEIC — лише коротким нагадуванням із крос-лінком. Для України ризик завезення дуже низький (ECDC); цільова аудиторія — медики гуманітарних місій.",
+      "sources_hint": "BBC Health May 2026 'UK scientists developing Ebola vaccine that could be ready for trials in months'; WHO Bundibugyo PHEIC statements 2026; Henao-Restrepo Lancet 2017 (Ervebo Zaire specificity); cAd3/ChAdOx Ebola platforms; Bornholdt MBP134 antibody cocktail; ECDC importation risk assessment; clinical-trial phase timelines.",
+      "evidence_level": "preliminary",
+      "priority": 2
+    },
+    {
+      "topic": "Червоне світло (фотобіомодуляція): де закінчуються докази для шкіри й волосся — і де починається маркетинг",
+      "type": "research",
+      "category": "biohacking",
+      "angle": "Біохак-серія після холоду й CGM: що реально показують RCT для зморшок (Wunsch 2014) і андрогенної алопеції (FDA-clearance, мета-аналізи LLLT), помірні дані для м'язового відновлення — і чому заяви про спалювання жиру, тестостерон та «енергію мітохондрій» поки спекулятивні. Безпека очей і дуже різна якість домашніх панелей.",
+      "sources_hint": "Hamblin 2016 photobiomodulation mechanisms review; Wunsch & Matuschka 2014 skin RCT; Liu 2020 LLLT androgenetic alopecia meta-analysis; Ferraresi muscle-recovery reviews; eye-safety standards; critiques of fat-loss/testosterone PBM claims.",
+      "evidence_level": "preliminary",
+      "priority": 2
+    }
+  ],
+  "date": "2026-05-23",
+  "created_at": "2026-05-23T03:03:03.448332+00:00"
+}

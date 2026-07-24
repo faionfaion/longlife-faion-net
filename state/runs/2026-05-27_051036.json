@@ -1,0 +1,332 @@
+{
+  "timestamp": "2026-05-27_051036",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "difteriya-avstraliya-smert-bustery-td-doroslym-ukraina, syndrom-vidminy-antydepresantiv-lancet-2024-ne-zalezhnist, regulyarnist-snu-vs-tryvalist-sri-uk-biobank-smertnist, sitting-rising-test-srt-pidloga-bez-ruk-dovholittia, 120-khvylyn-na-pryrodi-na-tyzhden-doza-zeleni",
+  "author": "LongLife Media",
+  "duration_s": 7653.3,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 438.3,
+      "error": null
+    },
+    {
+      "name": "research:Дифтерія повертається: чому Ав",
+      "status": "ok",
+      "duration_s": 217.8,
+      "error": null
+    },
+    {
+      "name": "generate:Дифтерія повертається: чому Ав",
+      "status": "ok",
+      "duration_s": 105.6,
+      "error": null
+    },
+    {
+      "name": "review:Дифтерія повертається: чому Ав",
+      "status": "ok",
+      "duration_s": 177.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Дифтерія повертається: чому Ав",
+      "status": "ok",
+      "duration_s": 19.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Дифтерія повертається: чому Ав",
+      "status": "ok",
+      "duration_s": 12.9,
+      "error": null
+    },
+    {
+      "name": "save:Дифтерія повертається: чому Ав",
+      "status": "ok",
+      "duration_s": 493.9,
+      "error": null
+    },
+    {
+      "name": "research:Синдром відміни антидепресанті",
+      "status": "ok",
+      "duration_s": 208.8,
+      "error": null
+    },
+    {
+      "name": "generate:Синдром відміни антидепресанті",
+      "status": "ok",
+      "duration_s": 162.2,
+      "error": null
+    },
+    {
+      "name": "review:Синдром відміни антидепресанті",
+      "status": "ok",
+      "duration_s": 258.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Синдром відміни антидепресанті",
+      "status": "ok",
+      "duration_s": 20.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Синдром відміни антидепресанті",
+      "status": "ok",
+      "duration_s": 10.2,
+      "error": null
+    },
+    {
+      "name": "save:Синдром відміни антидепресанті",
+      "status": "ok",
+      "duration_s": 260.6,
+      "error": null
+    },
+    {
+      "name": "research:Регулярність сну важливіша за ",
+      "status": "ok",
+      "duration_s": 169.7,
+      "error": null
+    },
+    {
+      "name": "generate:Регулярність сну важливіша за ",
+      "status": "ok",
+      "duration_s": 92.6,
+      "error": null
+    },
+    {
+      "name": "review:Регулярність сну важливіша за ",
+      "status": "ok",
+      "duration_s": 170.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Регулярність сну важливіша за ",
+      "status": "ok",
+      "duration_s": 17.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Регулярність сну важливіша за ",
+      "status": "ok",
+      "duration_s": 13.0,
+      "error": null
+    },
+    {
+      "name": "save:Регулярність сну важливіша за ",
+      "status": "ok",
+      "duration_s": 266.9,
+      "error": null
+    },
+    {
+      "name": "research:Тест «сядь-встань» (sitting-ri",
+      "status": "ok",
+      "duration_s": 170.1,
+      "error": null
+    },
+    {
+      "name": "generate:Тест «сядь-встань» (sitting-ri",
+      "status": "ok",
+      "duration_s": 93.8,
+      "error": null
+    },
+    {
+      "name": "review:Тест «сядь-встань» (sitting-ri",
+      "status": "ok",
+      "duration_s": 184.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Тест «сядь-встань» (sitting-ri",
+      "status": "ok",
+      "duration_s": 21.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Тест «сядь-встань» (sitting-ri",
+      "status": "ok",
+      "duration_s": 10.5,
+      "error": null
+    },
+    {
+      "name": "save:Тест «сядь-встань» (sitting-ri",
+      "status": "ok",
+      "duration_s": 276.8,
+      "error": null
+    },
+    {
+      "name": "research:120 хвилин на природі на тижде",
+      "status": "ok",
+      "duration_s": 166.8,
+      "error": null
+    },
+    {
+      "name": "generate:120 хвилин на природі на тижде",
+      "status": "ok",
+      "duration_s": 65.0,
+      "error": null
+    },
+    {
+      "name": "review:120 хвилин на природі на тижде",
+      "status": "ok",
+      "duration_s": 158.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:120 хвилин на природі на тижде",
+      "status": "ok",
+      "duration_s": 17.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:120 хвилин на природі на тижде",
+      "status": "ok",
+      "duration_s": 12.1,
+      "error": null
+    },
+    {
+      "name": "save:120 хвилин на природі на тижде",
+      "status": "ok",
+      "duration_s": 496.0,
+      "error": null
+    },
+    {
+      "name": "research:Скільки відпочивати між підход",
+      "status": "ok",
+      "duration_s": 178.4,
+      "error": null
+    },
+    {
+      "name": "generate:Скільки відпочивати між підход",
+      "status": "ok",
+      "duration_s": 111.9,
+      "error": null
+    },
+    {
+      "name": "review:Скільки відпочивати між підход",
+      "status": "ok",
+      "duration_s": 141.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Скільки відпочивати між підход",
+      "status": "ok",
+      "duration_s": 20.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Скільки відпочивати між підход",
+      "status": "ok",
+      "duration_s": 10.9,
+      "error": null
+    },
+    {
+      "name": "save:Скільки відпочивати між підход",
+      "status": "ok",
+      "duration_s": 138.7,
+      "error": null
+    },
+    {
+      "name": "research:Магній у добавках: гліцинат, ц",
+      "status": "ok",
+      "duration_s": 198.4,
+      "error": null
+    },
+    {
+      "name": "generate:Магній у добавках: гліцинат, ц",
+      "status": "ok",
+      "duration_s": 96.7,
+      "error": null
+    },
+    {
+      "name": "review:Магній у добавках: гліцинат, ц",
+      "status": "ok",
+      "duration_s": 150.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Магній у добавках: гліцинат, ц",
+      "status": "ok",
+      "duration_s": 18.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Магній у добавках: гліцинат, ц",
+      "status": "ok",
+      "duration_s": 14.3,
+      "error": null
+    },
+    {
+      "name": "save:Магній у добавках: гліцинат, ц",
+      "status": "ok",
+      "duration_s": 393.5,
+      "error": null
+    },
+    {
+      "name": "research:Міф про «8 склянок води на ден",
+      "status": "ok",
+      "duration_s": 165.3,
+      "error": null
+    },
+    {
+      "name": "generate:Міф про «8 склянок води на ден",
+      "status": "ok",
+      "duration_s": 120.6,
+      "error": null
+    },
+    {
+      "name": "review:Міф про «8 склянок води на ден",
+      "status": "ok",
+      "duration_s": 210.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Міф про «8 склянок води на ден",
+      "status": "ok",
+      "duration_s": 26.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Міф про «8 склянок води на ден",
+      "status": "ok",
+      "duration_s": 12.0,
+      "error": null
+    },
+    {
+      "name": "save:Міф про «8 склянок води на ден",
+      "status": "ok",
+      "duration_s": 522.6,
+      "error": null
+    },
+    {
+      "name": "research:Варіабельність серцевого ритму",
+      "status": "ok",
+      "duration_s": 283.7,
+      "error": null
+    },
+    {
+      "name": "generate:Варіабельність серцевого ритму",
+      "status": "failed",
+      "duration_s": 49.0,
+      "error": "Claude Code returned an error result: Reached maximum number of turns (1)"
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.2,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

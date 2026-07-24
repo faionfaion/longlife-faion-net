@@ -1,0 +1,96 @@
+{
+  "articles": [
+    {
+      "topic": "Спалах Ебола Bundibugyo у ДР Конго та Уганді: чому ВООЗ оголосила PHEIC і що це означає для України",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Розбір рішення ВООЗ оголосити епідемію Ebola Bundibugyo надзвичайною подією міжнародного значення (PHEIC) у травні 2026. Що відомо про Bundibugyo virus (CFR ~25-36%), чим відрізняється від Заїр-штаму, проти якого є вакцина Ervebo. Чому Ervebo не працює проти Bundibugyo, статус кандидатних вакцин (cAd3-EBO-B). Для України — ризик завезення низький, але медики в гуманітарних місіях, протоколи скринінгу на кордоні, історія підготовки до Ебола 2014-2016.",
+      "sources_hint": "WHO PHEIC announcement May 2026, NEJM Bundibugyo outbreak reports, Lancet Infect Dis ebolavirus species comparison, Ervebo (rVSV-ZEBOV) efficacy data from Henao-Restrepo 2017, cAd3-EBO-B Phase 1 trials",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Цифровий детокс 24 години: що показав найбільший RCT 2025 року про відмову від соцмереж",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Розбір нового великого RCT 2025 (Lambert et al. або Castro-Calvo) про блокування соцмереж на смартфоні протягом 2 тижнів. Порівняти з попередніми даними: Allcott AER 2020 (Facebook deactivation, modest wellbeing +0.09 SD), Hunt 2018 J Soc Clin Psychol (30 хв/день limit, n=143), Hall 2021 (deactivation null). Чому ефекти такі різні: вимірювання, тип платформи (TikTok vs Facebook), компенсаторні поведінки. Практичний takeaway: 24-годинний детокс як діагностика, не лікування — оцінити власну реактивність. Cross-link до Apr 28 статті про екранний час підлітків — тут фокус саме на дорослих і свіжому RCT.",
+      "sources_hint": "PubMed query 'smartphone deactivation RCT 2025', Lambert PNAS Nexus 2022 smartphone abstinence, Allcott AER 2020 'welfare effects of social media', Hunt 2018 Journal of Social and Clinical Psychology",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Аспірин для первинної профілактики у 2026: чому USPSTF знизила вікові межі і кому 100 мг все ще доцільні після 60",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Свіжий розбір позиції USPSTF 2022 (recommendation D для 60+, individualized для 40-59) на фоні даних ASPREE (Lancet 2018, n=19,114, шкода у літніх перевищила користь) та ASCEND (NEJM 2018, діабет). Хто все ще потенційний кандидат: 40-59 з 10-річним ASCVD risk ≥10% і низьким bleeding risk. Чому 'мій тато п'є аспірин 20 років' — застаріла практика. Український контекст: безрецептурний продаж, самопризначення після інсульту в родичів. Завжди консультація з кардіологом. Disclaimer: не змінювати терапію без лікаря, особливо при вторинній профілактиці після ІМ/інсульту.",
+      "sources_hint": "USPSTF Aspirin for Primary Prevention 2022 final recommendation, ASPREE Lancet 2018 McNeil, ASCEND NEJM 2018, ACC/AHA 2019 primary prevention guidelines",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Тиха гіпертонія у 30-40 років: чому 'білий халат' — не виправдання і що показав SPRINT через 10 років",
+      "type": "research",
+      "category": "research",
+      "angle": "Свіжі 10-річні дані SPRINT (NEJM 2021 extension, follow-up по смертності) підтверджують переваги цільового САТ <120 мм рт.ст. у високого ризику. Але стаття фокусується на молодих 30-40 з 'м'якою' гіпертонією: ESC/ESH 2024 guidelines, домашній моніторинг (HBPM) як золотий стандарт, ABPM при підозрі white-coat і masked hypertension. Чому masked hypertension (нормальний в кабінеті, високий вдома) у молодих — найнебезпечніша форма (Stergiou 2014 IDACO). Український контекст: відсутність національної програми скринінгу до 40 років, доступні автоматичні тонометри (Microlife, Omron) у середньому ціновому сегменті.",
+      "sources_hint": "SPRINT NEJM 2021 long-term follow-up, ESC/ESH 2024 hypertension guidelines, Stergiou Hypertension 2014 IDACO masked hypertension, HBPM ABPM consensus statements",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Понеділковий рестарт: чому 'ефект свіжого старту' науково обґрунтований і як використати його цього тижня",
+      "type": "lifehack",
+      "category": "mental-health",
+      "angle": "Понеділок як 'temporal landmark' за дослідженнями Dai, Milkman & Riis (Management Science 2014, n=мільйони пошуків Google + члени тренажерних залів). Чому понеділки, перші числа місяця і дні народження запускають aspirational behavior. Як побудувати один реалістичний тижневий health-experiment (один сон, один прийом їжі, одне тренування) замість 'нового життя з понеділка'. Принципи implementation intentions Gollwitzer. Cross-link до Apr 28 статті про мікрозвички — тут фокус саме на temporal landmark як тригері.",
+      "sources_hint": "Dai et al. Management Science 2014 'Fresh Start Effect', Hennessy 2023 meta-analysis implementation intentions, Gollwitzer 1999 if-then planning, Beshears 2021 NBER fresh start RCT",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Сонна інерція в понеділок: чому перші 30 хвилин після пробудження когнітивно дорівнюють легкому сп'янінню — і як її скоротити",
+      "type": "lifehack",
+      "category": "sleep",
+      "angle": "Феномен sleep inertia: префронтальна кора повільно реактивується після пробудження (Tassi & Muzet 2000 Sleep Medicine Reviews), а Wertz 2006 (JAMA) показав когнітивне порушення, еквівалентне 0,05-0,10% BAC, тривалістю до 30-60 хв. Понеділок підсилює інерцію через 'social jetlag' — зміщений графік вихідних. Практичні контрзаходи з доказовою базою: 200 мг кофеїну одразу після пробудження (Jay 2018 Frontiers in Psychiatry), холодна вода на обличчя/руки 30-60 сек (Hayashi 2003), 5-10 хв яскравого світла (cross-link до Apr 17 статті про ранкове сонце), уникати критичних рішень у перші 30 хв. Не плутати з хронічним hypersomnia (Trotti 2017).",
+      "sources_hint": "Tassi & Muzet 2000 Sleep Medicine Reviews, Wertz JAMA 2006 sleep inertia cognitive impairment, Hilditch & McHill 2019 Nature and Science of Sleep, Trotti 2017 Sleep Medicine Reviews, Jay 2018 caffeine sleep inertia",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "HMB як добавка проти саркопенії: що показує мета-аналіз 2025 і чи варто додавати до креатину після 60",
+      "type": "nutrition",
+      "category": "longevity",
+      "angle": "Продовження теми саркопенії та креатину (квітень-травень). β-гідрокси-β-метилбутират (HMB) — метаболіт лейцину, який обіцяє збереження м'язової маси без тренувань. Чесний розбір: мета-аналіз Phillips 2022 показує помірний ефект на lean mass у літніх (+0.35 кг), Wilkinson 2018 RCT з bed rest показав збереження м'язів у іммобілізованих, але Stout 2013 не виявив переваги у активних літніх. Доза 3 г/день. Хто реальний кандидат: іммобілізовані, кахексія, відновлення після операцій — не здорові 60+ з тренуваннями. Disclaimer: HMB не замінює силові тренування і креатин з доведеним ефектом.",
+      "sources_hint": "Phillips Journal of Cachexia Sarcopenia and Muscle 2022 meta-analysis HMB elderly, Wilkinson Clinical Nutrition 2018 bed rest, Stout Experimental Gerontology 2013, ESPEN guidelines on HMB",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Зональні тренування за пульсом: чому 'Zone 2' стала модною і що дійсно каже наука про мітохондрії",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Поясни концепцію Zone 2 (60-70% HRmax, 'розмовний темп', лактат <2 ммоль/л) яка стала вірусною завдяки Iñigo San Millán та Peter Attia. Що насправді показує наука: мітохондріальна біогенез через PGC-1α (Granata 2018), покращення жирового окислення. Але: критики (Foster, Seiler) кажуть що це переупаковка старого LISS, поляризована модель 80/20 включає Zone 2 за замовчуванням. Як виміряти Zone 2 без лактометра: talk test, формула Maffetone (180-вік), HRR-метод. Скільки потрібно: 3-4 години/тиждень для адаптації. Cross-link до May 16 VO2max протоколу.",
+      "sources_hint": "San Millán & Brooks 2018 Sports Medicine lactate threshold, Granata 2018 Sports Medicine mitochondrial adaptations, Seiler 2010 polarized training, Maffetone method critique, Stöggl & Sperlich 2014 Frontiers in Physiology",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Ясенева гігієна після 50: міжзубні щіточки vs зубна нитка — нова мережева мета-аналіз 2025",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Нова мережева мета-аналіз (Worthington et al., Cochrane 2025 update) порівнює інтердентальні засоби: щіточки interdental brushes вищі за зубну нитку для зниження запалення ясен (gingival index) і нальоту в проміжках. Іригатори (water flossers) — помірна перевага, але вибагливі до техніки. Чому ця тема важлива зараз: продовження статті про пародонтит-серце від 20 квітня. Практичний алгоритм: розмір щіточки (ISO 0-7), частота, послідовність 'щітка → інтердентальна щіточка → паста'. Український контекст: вартість в аптеках, що покриває НСЗУ (планова пародонтологія для дорослих не покривається).",
+      "sources_hint": "Cochrane Worthington 2019/2025 interdental cleaning meta-analysis, Salzer JCP 2015 network meta-analysis, EFP guidelines 2020 periodontitis prevention",
+      "evidence_level": "strong",
+      "priority": 3
+    },
+    {
+      "topic": "Адаптогени під мікроскопом: ашваганда, родіола і елеутерокок — що насправді показують мета-аналізи 2024-2025",
+      "type": "nutrition",
+      "category": "biohacking",
+      "angle": "Чесний розбір трьох найпопулярніших адаптогенів. Ашваганда: мета-аналіз Akhgarjand 2022 (12 RCT) — помірний ефект на стрес (SMD -1.55) і кортизол, але малі вибірки, переважно фінансування виробником, питання гепатотоксичності (DILI Network 2024). Родіола: огляд Ivanova Stojcheva 2022 (11 RCT) — обмежені докази для втоми, переважно радянські/російські дослідження зі слабкою методологією. Елеутерокок: майже немає сучасних якісних RCT. Безпека: взаємодія з тиреоїдними препаратами (ашваганда), варфарином, контрацептивами. Не приймати під час вагітності та лактації. Завжди консультація з лікарем при прийомі будь-яких призначених препаратів.",
+      "sources_hint": "Akhgarjand Phytotherapy Research 2022 ashwagandha meta-analysis, Ivanova Stojcheva Molecules 2022 rhodiola review, LiverTox NIH ashwagandha DILI 2024, EMA herbal monograph eleutherococcus",
+      "evidence_level": "moderate",
+      "priority": 3
+    }
+  ],
+  "date": "2026-05-18",
+  "created_at": "2026-05-18T03:03:03.393366+00:00"
+}

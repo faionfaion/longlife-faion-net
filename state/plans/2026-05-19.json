@@ -1,0 +1,96 @@
+{
+  "articles": [
+    {
+      "topic": "Світова асамблея охорони здоров'я 2026 у Женеві: 5 рішень, які вплинуть на українську медицину",
+      "type": "research",
+      "category": "research",
+      "angle": "Розбір ключових рішень 78-ї WHA (травень 2026): пандемічна угода, фінансування ВООЗ після виходу США, цілі по НІЗ-2030, психічне здоров'я як пріоритет, доступ до ліків. Що з цього стосується України напряму — від закупівель через PAHO/UNICEF до інтеграції з ЄС.",
+      "sources_hint": "WHO World Health Assembly 2026 resolutions, WHO DG opening speech May 2026, Lancet WHA coverage, MoH Ukraine press releases",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Стоматолог із Сіднея заразив пацієнтів ВІЛ і гепатитами: як в Україні перевірити стерилізацію в клініці",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Реальний кейс із Сіднея (травень 2026) як привід пояснити інфекційний контроль у стоматології: автоклавування за класом B, індикатори стерильності (Bowie-Dick, Helix-тест), одноразові інструменти, ризик передачі HBV/HCV/HIV через ендодонтію. Чек-лист 7 запитань пацієнта перед інвазивним втручанням і коли вимагати тестування. Cross-link на травневу статтю про міжзубні щіточки.",
+      "sources_hint": "NSW Health investigation May 2026, CDC Guidelines for Infection Control in Dental Settings 2003/2016, WHO infection prevention dentistry, MOZ Ukraine стандарти стерилізації, Cleveland 2003 dental HCV transmission case",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Падіння смертей від алкоголю у Британії: що спрацювало і чому в Україні зворотний тренд",
+      "type": "research",
+      "category": "research",
+      "angle": "ONS травень 2026 — перше з пандемії падіння алкогольних смертей у UK. Аналіз політик MUP (Шотландія), оподаткування, скринінг AUDIT-C у GP-практиках. Український контекст: зростання алкогольних розладів під час війни (дані ДЗ ЦГЗ 2024-2025), відсутність MUP, переваги SBI-втручання сімейного лікаря. Що працює на популяційному рівні.",
+      "sources_hint": "ONS Alcohol-specific deaths UK 2025 report, Lancet Public Health MUP Scotland evaluation 2023, USPSTF unhealthy alcohol use screening 2018, Ukraine MOZ alcohol epidemiology, AUDIT-C validation studies",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Травневий ультрафіолет: чому UV-індекс 7+ у Києві потребує SPF 30, а не «легкого крему»",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Сезонний практичний гайд: як читати UV-індекс, скільки крему наносити (правило 2 мг/см² = ~30 мл на тіло дорослого), різниця UVA/UVB, чому SPF 50 — це не вдвічі сильніше за SPF 25 (98% vs 96%), коли потрібен mineral vs chemical, міф про вітамін D і сонцезахист. Cross-link на травневу статтю про солярії та рак шкіри.",
+      "sources_hint": "AAD sunscreen guidelines 2024, Cochrane sunscreen review 2018, Petersen 2017 JAAD sunscreen application amounts, Lancet skin cancer prevention reviews, EPA UV index forecast methodology",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Інтероцепція: чому здатність «чути власне тіло» передбачає тривогу краще за психологічні тести",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Свіжа лінія досліджень (Khalsa, Critchley, Quigley 2024-2025): інтероцептивна точність як трансдіагностичний маркер тривоги, депресії, РХП. Тест на серцебиття (Schandry HBC), нові протоколи MAIA-2. Терапія усвідомленості тіла (MABT) — RCT Price 2019 при PTSD. Що це означає для людей, які «не відчувають емоцій». Cross-link на цикл про дихальні техніки та EMDR.",
+      "sources_hint": "Khalsa et al. Biological Psychiatry 2024 interoception review, Quigley TICS 2021, MABT Price 2019 RCT in PTSD, Critchley Nature Neuroscience interoception, Garfinkel 2015 dimensions interoceptive awareness",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Тренування вранці vs ввечері: що показав мета-аналіз 2025 про час доби і результат",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Розбір нового мета-аналізу Mirizio et al. (Frontiers in Physiology 2025) та Küüsmaa 2016 RCT: сила пікова у 16-19:00 (+3-5% 1RM), гіпертрофія не залежить від часу, ранкові тренування кращі для зниження ваги (Brooker 2023), хронотип модифікує ефект. Що робити «жайворонкам» і «совам», як адаптувати графік під війну з повітряними тривогами.",
+      "sources_hint": "Mirizio 2025 Frontiers in Physiology time-of-day exercise meta-analysis, Küüsmaa 2016 morning vs evening training, Brooker 2023 exercise timing weight loss, Chtourou 2012 time-of-day strength",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Час до першої кави: чому 90 хвилин після пробудження — це міф із TikTok",
+      "type": "lifehack",
+      "category": "sleep",
+      "angle": "Розбір вірусного твердження Huberman про «delayed caffeine» — джерельна база: одна стаття Wyatt 2004 без RCT, фізіологічна модель Landolt. Реальні докази: Drake 2013 показав значення дози і часу до сну, а не часу після пробудження. Що дійсно впливає на ефект кофеїну: CYP1A2, аденозиновий тиск, толерантність. Cross-link на травневу статтю про сонну інерцію та квітневу про кофеїн і архітектуру сну.",
+      "sources_hint": "Drake 2013 caffeine timing JCSM, Landolt 2008 caffeine adenosine review, Wyatt 2004 cortisol awakening response, Clark & Landolt 2017 Sleep Medicine Reviews caffeine",
+      "evidence_level": "preliminary",
+      "priority": 2
+    },
+    {
+      "topic": "Аутофагія і голодування: що нове дослідження 2025 показало про реальні пороги у людях",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Перший прямий вимір аутофагії в людських тканинах при різних протоколах голодування (Cell Metabolism 2025). Маркери LC3-II, p62 у м'язовій біопсії: значущі зміни лише після 48+ годин, а не «16 годин» з популярних блогів. Mizushima нагадує: Нобелівка Осумі була про дріжджі. Що це означає для популярних протоколів TRE 16:8 — на відміну від квітневої статті про вагу/глюкозу, тут фокус саме на молекулярному механізмі.",
+      "sources_hint": "Jamshed 2019 Nutrients TRE autophagy markers, Mizushima 2020 Nature reviews autophagy, recent 2025 Cell Metabolism human autophagy fasting studies, Bagherniya 2018 Ageing Research Reviews fasting autophagy",
+      "evidence_level": "preliminary",
+      "priority": 2
+    },
+    {
+      "topic": "Білок з комах і альтернативні джерела: що показав EFSA після 4 років авторизації",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "EFSA авторизувала борошно з Acheta domesticus, Tenebrio molitor, Locusta migratoria у 2021-2023. Що показали 4 роки даних: амінокислотний профіль не гірший за яловичину, біодоступність заліза до 95%, ризики алергії (перехресна з ракоподібними), вміст хітину. Чи варто це українському споживачу? Реальна доступність на ринку ЄС і ціна за грам білка vs сироватка/казеїн.",
+      "sources_hint": "EFSA NDA Panel opinions on insect novel foods 2021-2024, Ribeiro 2018 insect allergy review, van Huis 2013 FAO edible insects, Belluco 2013 comprehensive review insect nutrition",
+      "evidence_level": "moderate",
+      "priority": 3
+    },
+    {
+      "topic": "Дихання через ніс під час бігу: міф Джеймса Нестора чи реальна перевага",
+      "type": "fitness",
+      "category": "biohacking",
+      "angle": "Книга «Breath» Нестора популяризувала носове дихання у спорті. Що каже наука: Dallam 2018 (n=10) — носове дихання знижує VO2 при тій же швидкості; LaComb 2017 — підвищена резистентність; RCT Recinto 2017 при субмаксимальних навантаженнях. Чому пік нітрату оксиду в носі важливий, але не для всіх. Чесні рекомендації: коли пробувати, коли не варто (астма, поліпи, девіація перегородки).",
+      "sources_hint": "Dallam 2018 IJKSS nasal breathing running, Recinto 2017 IJES, LaComb 2017, Lundberg 2008 NO physiology review, Nestor Breath 2020 critical reviews",
+      "evidence_level": "preliminary",
+      "priority": 3
+    }
+  ],
+  "date": "2026-05-19",
+  "created_at": "2026-05-19T03:03:03.488767+00:00"
+}

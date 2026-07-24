@@ -1,0 +1,392 @@
+{
+  "timestamp": "2026-05-21_044404",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "mikroplastyk-mozok-arterii-nature-medicine-2025-dokazy, lipoprotein-a-spadkovyi-kholesteryn-analiz-raz-u-zhytti-eas-pelacarsen, masld-zhyrova-khvoroba-pechinky-fib4-rezmetirom, 7000-krokiv-vs-10000-meta-analiz-smertnist-vik, bezsonnia-cbt-i-persha-liniia-likuvannia-bez-snodiynykh",
+  "author": "LongLife Media",
+  "duration_s": 6060.7,
+  "image_generated": false,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 422.3,
+      "error": null
+    },
+    {
+      "name": "research:Мікропластик у крові, артеріях",
+      "status": "ok",
+      "duration_s": 210.8,
+      "error": null
+    },
+    {
+      "name": "generate:Мікропластик у крові, артеріях",
+      "status": "ok",
+      "duration_s": 118.5,
+      "error": null
+    },
+    {
+      "name": "review:Мікропластик у крові, артеріях",
+      "status": "ok",
+      "duration_s": 172.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Мікропластик у крові, артеріях",
+      "status": "ok",
+      "duration_s": 21.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Мікропластик у крові, артеріях",
+      "status": "ok",
+      "duration_s": 11.1,
+      "error": null
+    },
+    {
+      "name": "save:Мікропластик у крові, артеріях",
+      "status": "ok",
+      "duration_s": 16.5,
+      "error": null
+    },
+    {
+      "name": "research:Ліпопротеїн(а): «прихований» с",
+      "status": "ok",
+      "duration_s": 226.6,
+      "error": null
+    },
+    {
+      "name": "generate:Ліпопротеїн(а): «прихований» с",
+      "status": "ok",
+      "duration_s": 167.9,
+      "error": null
+    },
+    {
+      "name": "review:Ліпопротеїн(а): «прихований» с",
+      "status": "ok",
+      "duration_s": 201.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ліпопротеїн(а): «прихований» с",
+      "status": "ok",
+      "duration_s": 20.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ліпопротеїн(а): «прихований» с",
+      "status": "ok",
+      "duration_s": 10.8,
+      "error": null
+    },
+    {
+      "name": "save:Ліпопротеїн(а): «прихований» с",
+      "status": "ok",
+      "duration_s": 19.2,
+      "error": null
+    },
+    {
+      "name": "research:Жирова хвороба печінки (MASLD)",
+      "status": "ok",
+      "duration_s": 178.7,
+      "error": null
+    },
+    {
+      "name": "generate:Жирова хвороба печінки (MASLD)",
+      "status": "ok",
+      "duration_s": 132.8,
+      "error": null
+    },
+    {
+      "name": "review:Жирова хвороба печінки (MASLD)",
+      "status": "ok",
+      "duration_s": 199.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Жирова хвороба печінки (MASLD)",
+      "status": "ok",
+      "duration_s": 18.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Жирова хвороба печінки (MASLD)",
+      "status": "ok",
+      "duration_s": 9.8,
+      "error": null
+    },
+    {
+      "name": "save:Жирова хвороба печінки (MASLD)",
+      "status": "ok",
+      "duration_s": 15.4,
+      "error": null
+    },
+    {
+      "name": "research:7000 кроків замість 10000: що ",
+      "status": "ok",
+      "duration_s": 191.7,
+      "error": null
+    },
+    {
+      "name": "generate:7000 кроків замість 10000: що ",
+      "status": "ok",
+      "duration_s": 87.2,
+      "error": null
+    },
+    {
+      "name": "review:7000 кроків замість 10000: що ",
+      "status": "ok",
+      "duration_s": 159.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:7000 кроків замість 10000: що ",
+      "status": "ok",
+      "duration_s": 18.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:7000 кроків замість 10000: що ",
+      "status": "ok",
+      "duration_s": 9.1,
+      "error": null
+    },
+    {
+      "name": "save:7000 кроків замість 10000: що ",
+      "status": "ok",
+      "duration_s": 23.2,
+      "error": null
+    },
+    {
+      "name": "research:Безсоння без таблеток: чому ко",
+      "status": "ok",
+      "duration_s": 244.1,
+      "error": null
+    },
+    {
+      "name": "generate:Безсоння без таблеток: чому ко",
+      "status": "ok",
+      "duration_s": 148.1,
+      "error": null
+    },
+    {
+      "name": "review:Безсоння без таблеток: чому ко",
+      "status": "ok",
+      "duration_s": 219.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Безсоння без таблеток: чому ко",
+      "status": "ok",
+      "duration_s": 17.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Безсоння без таблеток: чому ко",
+      "status": "ok",
+      "duration_s": 11.3,
+      "error": null
+    },
+    {
+      "name": "save:Безсоння без таблеток: чому ко",
+      "status": "ok",
+      "duration_s": 14.4,
+      "error": null
+    },
+    {
+      "name": "research:Психоделіки проти ПТСР і депре",
+      "status": "ok",
+      "duration_s": 241.9,
+      "error": null
+    },
+    {
+      "name": "generate:Психоделіки проти ПТСР і депре",
+      "status": "ok",
+      "duration_s": 105.8,
+      "error": null
+    },
+    {
+      "name": "review:Психоделіки проти ПТСР і депре",
+      "status": "ok",
+      "duration_s": 172.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Психоделіки проти ПТСР і депре",
+      "status": "ok",
+      "duration_s": 18.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Психоделіки проти ПТСР і депре",
+      "status": "ok",
+      "duration_s": 12.2,
+      "error": null
+    },
+    {
+      "name": "save:Психоделіки проти ПТСР і депре",
+      "status": "ok",
+      "duration_s": 16.9,
+      "error": null
+    },
+    {
+      "name": "research:Еритрит, ксиліт і серце: чому ",
+      "status": "ok",
+      "duration_s": 162.9,
+      "error": null
+    },
+    {
+      "name": "generate:Еритрит, ксиліт і серце: чому ",
+      "status": "ok",
+      "duration_s": 92.8,
+      "error": null
+    },
+    {
+      "name": "review:Еритрит, ксиліт і серце: чому ",
+      "status": "ok",
+      "duration_s": 181.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Еритрит, ксиліт і серце: чому ",
+      "status": "ok",
+      "duration_s": 25.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Еритрит, ксиліт і серце: чому ",
+      "status": "ok",
+      "duration_s": 11.4,
+      "error": null
+    },
+    {
+      "name": "save:Еритрит, ксиліт і серце: чому ",
+      "status": "ok",
+      "duration_s": 16.5,
+      "error": null
+    },
+    {
+      "name": "research:Чи точні Oura, Whoop і смарт-г",
+      "status": "ok",
+      "duration_s": 239.7,
+      "error": null
+    },
+    {
+      "name": "generate:Чи точні Oura, Whoop і смарт-г",
+      "status": "ok",
+      "duration_s": 123.7,
+      "error": null
+    },
+    {
+      "name": "review:Чи точні Oura, Whoop і смарт-г",
+      "status": "ok",
+      "duration_s": 174.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Чи точні Oura, Whoop і смарт-г",
+      "status": "ok",
+      "duration_s": 20.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Чи точні Oura, Whoop і смарт-г",
+      "status": "ok",
+      "duration_s": 14.7,
+      "error": null
+    },
+    {
+      "name": "save:Чи точні Oura, Whoop і смарт-г",
+      "status": "ok",
+      "duration_s": 15.6,
+      "error": null
+    },
+    {
+      "name": "research:Таурин — четвертий «кандидат у",
+      "status": "ok",
+      "duration_s": 237.6,
+      "error": null
+    },
+    {
+      "name": "generate:Таурин — четвертий «кандидат у",
+      "status": "ok",
+      "duration_s": 142.9,
+      "error": null
+    },
+    {
+      "name": "review:Таурин — четвертий «кандидат у",
+      "status": "ok",
+      "duration_s": 159.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Таурин — четвертий «кандидат у",
+      "status": "ok",
+      "duration_s": 18.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Таурин — четвертий «кандидат у",
+      "status": "ok",
+      "duration_s": 13.2,
+      "error": null
+    },
+    {
+      "name": "save:Таурин — четвертий «кандидат у",
+      "status": "ok",
+      "duration_s": 17.1,
+      "error": null
+    },
+    {
+      "name": "research:Ферментовані продукти проти ка",
+      "status": "ok",
+      "duration_s": 178.6,
+      "error": null
+    },
+    {
+      "name": "generate:Ферментовані продукти проти ка",
+      "status": "ok",
+      "duration_s": 104.0,
+      "error": null
+    },
+    {
+      "name": "review:Ферментовані продукти проти ка",
+      "status": "ok",
+      "duration_s": 175.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ферментовані продукти проти ка",
+      "status": "ok",
+      "duration_s": 19.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ферментовані продукти проти ка",
+      "status": "ok",
+      "duration_s": 11.4,
+      "error": null
+    },
+    {
+      "name": "save:Ферментовані продукти проти ка",
+      "status": "ok",
+      "duration_s": 16.8,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.2,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

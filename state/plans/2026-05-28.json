@@ -1,0 +1,87 @@
+{
+  "articles": [
+    {
+      "topic": "Ебола Bundibugyo в ДР Конго і Уганді: що означає рішення ВООЗ про надзвичайну ситуацію та чи є ризик для України",
+      "type": "research",
+      "category": "prevention",
+      "angle": "News-pegged explainer on the May 2026 WHO PHEIC declaration for the Bundibugyo Ebola outbreak. Differentiate Bundibugyo from Zaire ebolavirus (no licensed Ervebo vaccine for Bundibugyo — only experimental candidates in trials), case fatality ~25-40%, transmission via body fluids not airborne. Honest risk assessment for Ukraine (negligible direct risk, but explain why WHO declares PHEIC: regional spread risk, need for coordinated response). Cover the UK Ebola vaccine candidate news angle. Practical takeaway: travel advisories, no panic, basic hygiene.",
+      "sources_hint": "WHO Disease Outbreak News May 2026, IHR Emergency Committee statement, NEJM/Lancet on Bundibugyo (Wamala 2010), CDC Ebola page, MSF outbreak updates, Ervebo licensure status",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "NMN і NR як «молодильні» добавки: що показали РКД на людях у 2024-2025 і чому FDA заборонила NMN як добавку",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Critical update on NAD+ precursor supplements (nicotinamide mononucleotide / nicotinamide riboside) — the most-hyped longevity supplements after the David Sinclair narrative. Recent human RCTs: NR (Martens 2018, Conze 2019, Remie 2020) raise NAD+ but show minimal clinical effects; NMN trials (Yoshino 2021 Science in women with prediabetes — modest muscle insulin sensitivity; Yamaguchi 2024) — small, short, surrogate endpoints, no lifespan or hard outcome data in humans. FDA 2022-2023 ruling that NMN cannot be marketed as a dietary supplement (under investigation as drug) — major regulatory shift. Industry conflicts of interest pervasive. Practical: not proven to extend healthspan in humans; cheaper, evidence-based interventions (exercise, sleep) outperform. Cross-link to taurine, telomere, epigenetic clock articles.",
+      "sources_hint": "Yoshino et al. 2021 Science NMN women prediabetes, Martens 2018 Nature Communications NR safety, Remie 2020 AJCN NR insulin sensitivity, FDA NMN ruling 2022-2023, Sharma 2024 GeroScience review of NAD+ precursors, Conze 2019 Sci Reports",
+      "evidence_level": "preliminary",
+      "priority": 1
+    },
+    {
+      "topic": "Чому народжуваність у Британії впала до 50-річного мінімуму: що каже репродуктивна наука про відкладене батьківство і фертильність",
+      "type": "research",
+      "category": "research",
+      "angle": "News-pegged piece on the BBC headline about UK births at 50-year low. Focus on the health-science angle: maternal age trends (ONS data showing first-birth age ~30+), evidence on fertility decline by age (ESHRE data — significant drop after 35, sharper after 40), oocyte quality, AMH testing limitations, male-factor decline often overlooked (sperm quality meta-analyses Levine 2022), and what's evidence-based for fertility preservation. Avoid moralizing — frame as informed reproductive planning. Ukrainian context: war-driven demographic crisis, declining births.",
+      "sources_hint": "ONS UK birth statistics 2026, ESHRE fertility age guidelines, Levine et al. 2022 Human Reproduction Update sperm count meta-analysis, ASRM age and fertility committee opinion, Ukrainian State Statistics demographic data",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Тривожність на роботі: що показав мета-аналіз про чотириденний робочий тиждень для психічного здоров'я",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Coverage of the largest 4-day workweek trial evidence — the 2024 Nature Human Behaviour paper (Schor et al.) on 2,896 employees across 141 companies in 6 countries showed reduced burnout, anxiety, fatigue, and improved sleep with no productivity loss after 6 months. Honest caveats: self-selected companies, mostly knowledge workers, self-reported outcomes, no true control. Compare with Iceland trials (Haraldsson & Kellam 2021). Ukrainian context: wartime burnout, remote work culture. Distinguish from prior burnout/stress articles. Practical: how individuals can negotiate compressed schedules, recovery hygiene.",
+      "sources_hint": "Schor et al. 2024 Nature Human Behaviour 4-day week trial, Haraldsson & Kellam 2021 Iceland trial, UK 4 Day Week Foundation report 2023, WHO mental health and work guidelines 2022",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Куркумін і запалення: чому популярна добавка провалила більшість якісних РКД попри тисячі публікацій",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Critical evidence review of curcumin/turmeric supplements. Despite ~20,000 PubMed papers, the famous Nelson 2017 J Med Chem review labeled curcumin a PAINS (pan-assay interference) compound — unstable, poorly bioavailable, false-positive in many assays. Recent meta-analyses show modest effects on CRP/inflammation markers but heterogeneous, mostly industry-funded, with strong publication bias. Real hepatotoxicity signal: LiverTox 2023 update, Australia TGA warnings, ~10 confirmed liver injury cases. Bioavailability tricks (piperine, nano) don't fix the core pharmacology problem. Practical: food spice is fine and safe; supplements oversold.",
+      "sources_hint": "Nelson et al. 2017 J Med Chem 'The Essential Medicinal Chemistry of Curcumin', Cochrane reviews on curcumin osteoarthritis, NIH LiverTox curcumin entry, TGA hepatotoxicity safety review 2023, Heger 2014 critique",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Тренування з обмеженням кровотоку (BFR): що показали мета-аналізи про ріст м'язів з легкими вагами",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Evidence review of blood flow restriction (BFR) training — exercising with pneumatic cuffs at 40-80% limb occlusion pressure using ~20-30% 1RM loads. Meta-analyses (Hughes 2017 BJSM, Lixandrão 2018 Sports Med, Grønfeldt 2020) show hypertrophy comparable to heavy lifting but smaller strength gains. Particularly useful post-surgery, for older adults, or when heavy loads aren't feasible. Safety: rhabdomyolysis case reports, contraindications (DVT history, sickle cell, uncontrolled hypertension, pregnancy). Practical: proper cuff width, pressure individualization, not a beginner-DIY method. Distinct from prior rest-interval, set-volume articles.",
+      "sources_hint": "Hughes 2017 BJSM BFR meta-analysis, Lixandrão 2018 Sports Medicine, Patterson 2019 Frontiers in Physiology BFR position stand, Grønfeldt 2020 Scand J Med Sci Sports, rhabdomyolysis case series",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Постпрандіальна сонливість: чому хочеться спати після обіду і що працює окрім кави — за доказами",
+      "type": "lifehack",
+      "category": "sleep",
+      "angle": "Practical lifehack on post-lunch dip. Distinguish two mechanisms: (1) circadian afternoon dip (real, ~13:00-15:00, independent of food — Monk 2005); (2) postprandial response (size + macronutrient composition matters — high-GI/large meals increase subjective sleepiness, Wells 1995, Lehrskov 2018). Evidence-based countermeasures: smaller midday portions, protein/fiber emphasis, 10-min post-meal walk (cross-link to glucose walks), bright light exposure (Phipps-Nelson 2003), 10-20 min power nap (cross-link to nap article), and caffeine timing. Debunk myth that lunch sleepiness = diabetes warning (only if extreme/persistent → see doctor). New angle distinct from nap protocol and circadian articles.",
+      "sources_hint": "Monk 2005 Chronobiology International on post-lunch dip, Lehrskov 2018 J Clin Endocrinol Metab meal composition, Phipps-Nelson 2003 Sleep on light, Reyner & Horne studies on caffeine+nap, Bes 2009 review of postprandial alertness",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Дисморфофобія тіла і соцмережі: коли занепокоєння виглядом стає розладом — DSM-5, BDDQ-скринінг і доказова терапія",
+      "type": "guide",
+      "category": "mental-health",
+      "angle": "Practical mental-health guide on body dysmorphic disorder (BDD) and its rise alongside social media filters/AI face-editing. Evidence: BDD prevalence ~2-3% general population but 5-15% in adolescents per recent meta-analyses (Veale 2016, Möllmann 2024). 'Snapchat dysmorphia' coined Rajanala 2018 JAMA Facial Plastic Surgery; AI filter exposure studies (Tiggemann 2020, Kleemans 2018) show appearance dissatisfaction increases. Distinguish BDD from normal appearance concern (DSM-5 criteria, BDDQ screening tool). Evidence-based treatment: CBT specifically for BDD (Wilhelm 2014 meta-analysis), SSRIs second-line. Ukrainian context: cosmetic procedure growth, lack of BDD-trained therapists. Practical: BDDQ self-screen, when to seek help, why dermatology/plastic surgery makes BDD worse.",
+      "sources_hint": "Veale 2016 Body Image prevalence meta-analysis, Rajanala 2018 JAMA Facial Plast Surg 'Selfies — Living in the Era of Filtered Photographs', Wilhelm 2014 Behaviour Research and Therapy CBT meta-analysis, NICE BDD guideline CG31, Möllmann 2024 adolescent BDD studies",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Хронічна крапля з носа і постназальний синдром: коли це алергія, коли — рефлюкс, а коли треба до ЛОРа",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Practical differential-diagnosis guide for chronic postnasal drip/upper airway cough syndrome — one of the top 3 causes of chronic cough (>8 weeks) per CHEST 2018 guideline. Differentiate: allergic rhinitis (clear, itchy, seasonal — cross-link to pollen article), non-allergic rhinitis, chronic rhinosinusitis (purulent, facial pressure, anosmia >12 weeks per EPOS 2020), laryngopharyngeal reflux (morning hoarseness, throat clearing, RSI questionnaire), medication-induced (ACE inhibitors). When to suspect cancer (unilateral epistaxis, neck mass, persistent unilateral block — red flags). Evidence-based first-line: saline irrigation, intranasal steroids; what doesn't work (oral decongestants long-term, OTC mucolytics — weak evidence). Distinct from May 22 pollinosis article.",
+      "sources_hint": "CHEST 2018 chronic cough guideline, EPOS 2020 European Position Paper on Rhinosinusitis, Pratter 2006 ACCP postnasal drip review, Reflux Symptom Index Belafsky 2002, NICE chronic sinusitis guidance",
+      "evidence_level": "strong",
+      "priority": 3
+    }
+  ],
+  "date": "2026-05-28",
+  "created_at": "2026-05-28T03:03:03.167773+00:00"
+}

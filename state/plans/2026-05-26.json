@@ -1,0 +1,96 @@
+{
+  "articles": [
+    {
+      "topic": "Прихована сіль: чому «здоровий» сендвіч може мати більше солі, ніж чотири чизбургери",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Прив'язка до сьогоднішнього заголовка BBC про преміальний сендвіч. Не про сільничку на столі, а про невидиму сіль у переробленій їжі (хліб, сири, делі-м'ясо, соуси), яка дає 70–80% добового натрію. Як читати етикетки (сіль = натрій ×2,5), скільки реально з'їдаємо проти норми ВООЗ <5 г/добу, і чому замінники солі з калієм — недооцінений важіль.",
+      "sources_hint": "WHO sodium intake guideline (2025 update) and global sodium benchmarks; Cochrane and He & MacGregor meta-analyses on salt reduction → blood pressure/CVD; SALT-SUBSTITUTE (SSaSS, NEJM 2021) potassium-enriched salt RCT; UK Action on Salt / SACN data on hidden salt in bread and processed meat. Hook: BBC May 2026 'posh sandwich salt' story.",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Тирзепатид проти семаглутиду: що показало перше пряме порівняння препаратів для схуднення (SURMOUNT-5)",
+      "type": "research",
+      "category": "research",
+      "angle": "Net-new тема для видання (раніше GLP-1 лише згадувався у крослінках). Розбір першого head-to-head РКД: тирзепатид дав ~20,2% втрати ваги проти ~13,7% у семаглутиду. Чесні застереження: ШКТ-побічні ефекти, повернення ваги після відміни, ціна й недоступність в Україні, що це ліки за призначенням, а не біохак.",
+      "sources_hint": "SURMOUNT-5 RCT (NEJM 2025, Aronne et al.) tirzepatide vs semaglutide; SELECT (NEJM 2023) semaglutide CV outcomes; STEP-1 extension on weight regain after discontinuation; SURPASS programme. Note conflicts of interest and Ukraine access/cost.",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Залізодефіцит без анемії: коли втома — це про феритин, і чому залізо краще пити через день",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Практичний гайд про латентний дефіцит заліза (низький феритин при нормальному гемоглобіні) — часта причина втоми, випадіння волосся й синдрому неспокійних ніг у жінок репродуктивного віку, вегетаріанців і спортсменів. Які пороги феритину, кому здавати аналіз, і доказова схема прийому: через день краще за щодня (менше гепсидину, краще засвоєння). Коли обов'язково до лікаря (виключити кровотечі).",
+      "sources_hint": "WHO ferritin thresholds guideline 2020 (deficiency <15 µg/L, <30 with inflammation); Stoffel et al. 2017 (Lancet Haematology) and 2020 (Blood) alternate-day vs daily oral iron absorption; restless legs and iron (Allen 2018); at-risk groups. Ukrainian lab context (Synevo/DILA ferritin).",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Блакитні зони під сумнівом: чому дослідник пов'язує «довгожителів» із похибками реєстрів",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Свіжий критичний погляд на культовий концепт «блакитних зон». Аналіз Сола Ньюмана: значна частина рекордів довгожительства корелює з відсутністю реєстрації народжень, бідністю і навіть пенсійним шахрайством, а не з дієтою. Баланс: що з принципів блакитних зон (рух, спільнота, рослинна їжа) лишається обґрунтованим попри сумнівні дані про вік.",
+      "sources_hint": "Saul Justin Newman 2024 work on supercentenarian/blue-zone data validation (Rejuvenation Research / preprint, Ig Nobel 2024); Poulain et al. original Sardinia/Okinawa demography; Buettner blue zones popularization; critiques on birth-registration and pension-fraud confounding. PubMed: 'supercentenarian age validation Newman'.",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Брудне повітря і мозок: чому PM2.5 — недооцінений екологічний фактор ризику деменції в Україні",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Екологічний кут, а не третя поспіль «деменційна» стаття — лише крослінк на спільну рамку Lancet Commission зі вчорашнім матеріалом про слух, без її повтору. Фокус на повітрі: чому дрібнодисперсний пил PM2.5 опинився серед модифікованих факторів ризику, доза-відповідь на кожні 2 мкг/м³, механізми (нейрозапалення, перетин ГЕБ). Чесне розмежування: це спостережні дані, не доведена причинність. Український контекст у центрі: димова завіса від обстрілів/пожеж, пічне опалення, і що реально дають побутові очищувачі з HEPA, а коли це викинуті гроші.",
+      "sources_hint": "Wilker et al. 2023 systematic review/meta-analysis (BMJ) PM2.5 and dementia; Lancet Commission on dementia prevention 2024 update (air pollution PAF ~3%); WHO Global Air Quality Guidelines 2021; recent 2025 cohort updates. Differentiate from the 2026-05-25 hearing-loss dementia article (cross-link, don't repeat). Emphasize observational caveats and indoor-air practical steps.",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Раккінг: чому ходьба з рюкзаком-обтяженням стала трендом — і що каже наука про кістки й калорії",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Розмежування зі статтями про 7000 кроків і пліометрику. Раккінг (ходьба з обтяженим рюкзаком/жилетом) як гібрид кардіо й силового навантаження: вищі витрати енергії за ту саму дистанцію, потенційна користь для щільності кісток і постави. Чесно про межі доказів (екстраполяція з військової фізіології та РКД з обтяженими жилетами), правила прогресії й ризик для спини/колін.",
+      "sources_hint": "Military load-carriage physiology reviews (Knapik); weighted-vest and bone density trials (INVEST in Bone Health RCT 2024, Obesity); energy expenditure of load carriage; gradual-progression and injury data. Distinguish from steps-mortality and plyometrics articles.",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Креатин не лише для м'язів: що показують дослідження про вплив на пам'ять, втому і мозок",
+      "type": "research",
+      "category": "biohacking",
+      "angle": "Розмежування з попередніми статтями про креатин для м'язів/сили. Фокус на когнітивному напрямку: чи покращує креатин пам'ять і реакцію, особливо при недосипі та у вегетаріанців (нижчі запаси). Чому ефекти скромні, питання дозування для мозку (потрібні високі дози), і де закінчуються докази та починається хайп.",
+      "sources_hint": "Prokopidis et al. 2023 meta-analysis (Nutrition Reviews) creatine and memory; Forbes 2022 review; Gordji-Nejad et al. 2024 (Scientific Reports) single high-dose creatine and sleep-deprived cognition; brain creatine kinetics/dosing literature. Flag small samples and heterogeneity.",
+      "evidence_level": "preliminary",
+      "priority": 3
+    },
+    {
+      "topic": "Музика проти стресу: чи справді улюблений трек знижує кортизол — що показують мета-аналізи",
+      "type": "lifehack",
+      "category": "mental-health",
+      "angle": "Доказовий лайфхак: чи допомагає прослуховування музики реально знижувати стрес і тривогу, чи це лише суб'єктивне відчуття. Розмежування пасивного слухання й музикотерапії; роль темпу, знайомості та особистого вибору. Практичний протокол (повільніший темп, власний плейліст, перед сном/процедурами) і чесні застереження про малу-помірну величину ефекту.",
+      "sources_hint": "de Witte et al. 2020 meta-analysis (Health Psychology Review) music and stress/cortisol; Cochrane reviews on music for preoperative anxiety; Aalbers et al. 2017 Cochrane music therapy for depression. Note heterogeneity and self-report limits.",
+      "evidence_level": "moderate",
+      "priority": 3
+    },
+    {
+      "topic": "Колаген у порошку для шкіри і суглобів: що реально доводять мета-аналізи, а що — маркетинг",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Розбір популярної добавки. Що показують РКД щодо пружності/зволоженості шкіри та болю в суглобах — і ключове застереження: колаген розщеплюється до амінокислот у кишечнику, переважна частина досліджень профінансована виробниками, а достатній загальний білок у раціоні може давати схожий ефект дешевше. Окремо про вітамін С і реалістичні очікування.",
+      "sources_hint": "de Miranda et al. 2021 (Int J Dermatol) and Pu et al. 2023 (Nutrients) collagen peptides for skin; García-Coronado 2019 / Khatri 2021 (Amino Acids) for osteoarthritis/tendons; industry-funding and bioavailability critiques; dietary protein adequacy comparison.",
+      "evidence_level": "preliminary",
+      "priority": 3
+    },
+    {
+      "topic": "Температура у спальні: чому 18–19 °C — недооцінений важіль якості сну",
+      "type": "lifehack",
+      "category": "sleep",
+      "angle": "Свіжий кут серед насиченої теми сну (не про гігієну загалом, а саме про терморегуляцію). Чому надто тепла спальня крадеться у глибокий і REM-сон, як працює механізм охолодження тіла перед засинанням (тепла ванна/шкарпетки парадоксально допомагають через розширення судин), і конкретний діапазон ~18–19 °C з поправками для літніх людей і спекотного українського літа без кондиціонера.",
+      "sources_hint": "Okamoto-Mizuno & Mizuno 2012 review on ambient temperature and sleep; Baniassadi et al. 2023 (Science of the Total Environment) optimal bedroom temperature in older adults; Kräuchi thermoregulation/distal skin warming and sleep onset; warm-bath-before-bed meta-analysis (Haghayegh 2019, Sleep Medicine Reviews).",
+      "evidence_level": "moderate",
+      "priority": 3
+    }
+  ],
+  "date": "2026-05-26",
+  "created_at": "2026-05-26T03:03:04.444499+00:00"
+}

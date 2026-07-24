@@ -1,0 +1,392 @@
+{
+  "timestamp": "2026-05-16_045804",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "hepatyt-c-ukraina-voz-2030-bezkoshtovne-testuvannia, prykhovana-sil-premium-sendvichi-action-on-salt-2026-voz, orforglipron-tabletka-utrymannia-vahy-pislia-ozempic-attain-maintain-2026, hantavirus-mv-hondius-tenerife-2026-ukraina-puumala-dobrava, solarii-rak-shkiry-britaniya-zaborona-reklamy-iarc-boniol-2026",
+  "author": "LongLife Media",
+  "duration_s": 6900.8,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 198.8,
+      "error": null
+    },
+    {
+      "name": "research:Гепатит C в Україні: чому ВООЗ",
+      "status": "ok",
+      "duration_s": 215.7,
+      "error": null
+    },
+    {
+      "name": "generate:Гепатит C в Україні: чому ВООЗ",
+      "status": "ok",
+      "duration_s": 126.7,
+      "error": null
+    },
+    {
+      "name": "review:Гепатит C в Україні: чому ВООЗ",
+      "status": "ok",
+      "duration_s": 184.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Гепатит C в Україні: чому ВООЗ",
+      "status": "ok",
+      "duration_s": 21.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Гепатит C в Україні: чому ВООЗ",
+      "status": "ok",
+      "duration_s": 10.4,
+      "error": null
+    },
+    {
+      "name": "save:Гепатит C в Україні: чому ВООЗ",
+      "status": "ok",
+      "duration_s": 286.2,
+      "error": null
+    },
+    {
+      "name": "research:Прихована сіль у «преміум» їжі",
+      "status": "ok",
+      "duration_s": 168.4,
+      "error": null
+    },
+    {
+      "name": "generate:Прихована сіль у «преміум» їжі",
+      "status": "ok",
+      "duration_s": 80.0,
+      "error": null
+    },
+    {
+      "name": "review:Прихована сіль у «преміум» їжі",
+      "status": "ok",
+      "duration_s": 153.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Прихована сіль у «преміум» їжі",
+      "status": "ok",
+      "duration_s": 19.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Прихована сіль у «преміум» їжі",
+      "status": "ok",
+      "duration_s": 11.7,
+      "error": null
+    },
+    {
+      "name": "save:Прихована сіль у «преміум» їжі",
+      "status": "ok",
+      "duration_s": 332.3,
+      "error": null
+    },
+    {
+      "name": "research:Таблетка після Ozempic: чи доп",
+      "status": "ok",
+      "duration_s": 269.8,
+      "error": null
+    },
+    {
+      "name": "generate:Таблетка після Ozempic: чи доп",
+      "status": "ok",
+      "duration_s": 75.9,
+      "error": null
+    },
+    {
+      "name": "review:Таблетка після Ozempic: чи доп",
+      "status": "ok",
+      "duration_s": 112.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Таблетка після Ozempic: чи доп",
+      "status": "ok",
+      "duration_s": 20.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Таблетка після Ozempic: чи доп",
+      "status": "ok",
+      "duration_s": 10.4,
+      "error": null
+    },
+    {
+      "name": "save:Таблетка після Ozempic: чи доп",
+      "status": "ok",
+      "duration_s": 210.1,
+      "error": null
+    },
+    {
+      "name": "research:Хантавірус на круїзному лайнер",
+      "status": "ok",
+      "duration_s": 197.3,
+      "error": null
+    },
+    {
+      "name": "generate:Хантавірус на круїзному лайнер",
+      "status": "ok",
+      "duration_s": 87.1,
+      "error": null
+    },
+    {
+      "name": "review:Хантавірус на круїзному лайнер",
+      "status": "ok",
+      "duration_s": 109.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Хантавірус на круїзному лайнер",
+      "status": "ok",
+      "duration_s": 24.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Хантавірус на круїзному лайнер",
+      "status": "ok",
+      "duration_s": 10.4,
+      "error": null
+    },
+    {
+      "name": "save:Хантавірус на круїзному лайнер",
+      "status": "ok",
+      "duration_s": 79.2,
+      "error": null
+    },
+    {
+      "name": "research:Засмага в солярії та рак шкіри",
+      "status": "ok",
+      "duration_s": 191.9,
+      "error": null
+    },
+    {
+      "name": "generate:Засмага в солярії та рак шкіри",
+      "status": "ok",
+      "duration_s": 86.7,
+      "error": null
+    },
+    {
+      "name": "review:Засмага в солярії та рак шкіри",
+      "status": "ok",
+      "duration_s": 108.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Засмага в солярії та рак шкіри",
+      "status": "ok",
+      "duration_s": 19.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Засмага в солярії та рак шкіри",
+      "status": "ok",
+      "duration_s": 26.4,
+      "error": null
+    },
+    {
+      "name": "save:Засмага в солярії та рак шкіри",
+      "status": "ok",
+      "duration_s": 300.9,
+      "error": null
+    },
+    {
+      "name": "research:Субота для відновлення: проток",
+      "status": "ok",
+      "duration_s": 273.2,
+      "error": null
+    },
+    {
+      "name": "generate:Субота для відновлення: проток",
+      "status": "ok",
+      "duration_s": 122.6,
+      "error": null
+    },
+    {
+      "name": "review:Субота для відновлення: проток",
+      "status": "ok",
+      "duration_s": 175.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Субота для відновлення: проток",
+      "status": "ok",
+      "duration_s": 17.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Субота для відновлення: проток",
+      "status": "ok",
+      "duration_s": 12.3,
+      "error": null
+    },
+    {
+      "name": "save:Субота для відновлення: проток",
+      "status": "ok",
+      "duration_s": 195.2,
+      "error": null
+    },
+    {
+      "name": "research:Тривога вихідного дня: чому «н",
+      "status": "ok",
+      "duration_s": 215.6,
+      "error": null
+    },
+    {
+      "name": "generate:Тривога вихідного дня: чому «н",
+      "status": "ok",
+      "duration_s": 69.0,
+      "error": null
+    },
+    {
+      "name": "review:Тривога вихідного дня: чому «н",
+      "status": "ok",
+      "duration_s": 106.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Тривога вихідного дня: чому «н",
+      "status": "ok",
+      "duration_s": 19.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Тривога вихідного дня: чому «н",
+      "status": "ok",
+      "duration_s": 11.1,
+      "error": null
+    },
+    {
+      "name": "save:Тривога вихідного дня: чому «н",
+      "status": "ok",
+      "duration_s": 99.3,
+      "error": null
+    },
+    {
+      "name": "research:VO₂max як головний маркер довг",
+      "status": "ok",
+      "duration_s": 162.0,
+      "error": null
+    },
+    {
+      "name": "generate:VO₂max як головний маркер довг",
+      "status": "ok",
+      "duration_s": 66.7,
+      "error": null
+    },
+    {
+      "name": "review:VO₂max як головний маркер довг",
+      "status": "ok",
+      "duration_s": 83.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:VO₂max як головний маркер довг",
+      "status": "ok",
+      "duration_s": 24.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:VO₂max як головний маркер довг",
+      "status": "ok",
+      "duration_s": 8.8,
+      "error": null
+    },
+    {
+      "name": "save:VO₂max як головний маркер довг",
+      "status": "ok",
+      "duration_s": 290.0,
+      "error": null
+    },
+    {
+      "name": "research:Креатин після 50: чому стара с",
+      "status": "ok",
+      "duration_s": 206.0,
+      "error": null
+    },
+    {
+      "name": "generate:Креатин після 50: чому стара с",
+      "status": "ok",
+      "duration_s": 69.7,
+      "error": null
+    },
+    {
+      "name": "review:Креатин після 50: чому стара с",
+      "status": "ok",
+      "duration_s": 82.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Креатин після 50: чому стара с",
+      "status": "ok",
+      "duration_s": 21.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Креатин після 50: чому стара с",
+      "status": "ok",
+      "duration_s": 11.7,
+      "error": null
+    },
+    {
+      "name": "save:Креатин після 50: чому стара с",
+      "status": "ok",
+      "duration_s": 177.3,
+      "error": null
+    },
+    {
+      "name": "research:Триптофан, серотонін і вечеря:",
+      "status": "ok",
+      "duration_s": 140.6,
+      "error": null
+    },
+    {
+      "name": "generate:Триптофан, серотонін і вечеря:",
+      "status": "ok",
+      "duration_s": 69.7,
+      "error": null
+    },
+    {
+      "name": "review:Триптофан, серотонін і вечеря:",
+      "status": "ok",
+      "duration_s": 93.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Триптофан, серотонін і вечеря:",
+      "status": "ok",
+      "duration_s": 20.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Триптофан, серотонін і вечеря:",
+      "status": "ok",
+      "duration_s": 9.5,
+      "error": null
+    },
+    {
+      "name": "save:Триптофан, серотонін і вечеря:",
+      "status": "ok",
+      "duration_s": 293.7,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.2,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

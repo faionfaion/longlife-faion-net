@@ -1,0 +1,392 @@
+{
+  "timestamp": "2026-05-30_042837",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "teplova-aklimatyzatsiia-10-14-dniv-tepoloviy-udar-protokol, gad-7-tryvozhnyi-rozlad-skryninh-cbt-ssri-ukraina, aktyvnyi-vidpochynok-vs-lezhannia-na-dyvani-dupuy-ortiz-meta-analiz, polunytsia-antotsiany-rkd-sertse-pamyat-sezon, dytyachi-soniachni-opiky-melanoma-wu-2014-aap-guide",
+  "author": "LongLife Media",
+  "duration_s": 5133.3,
+  "image_generated": false,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 221.5,
+      "error": null
+    },
+    {
+      "name": "research:Спека наближається: що каже на",
+      "status": "ok",
+      "duration_s": 177.5,
+      "error": null
+    },
+    {
+      "name": "generate:Спека наближається: що каже на",
+      "status": "ok",
+      "duration_s": 125.9,
+      "error": null
+    },
+    {
+      "name": "review:Спека наближається: що каже на",
+      "status": "ok",
+      "duration_s": 200.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Спека наближається: що каже на",
+      "status": "ok",
+      "duration_s": 21.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Спека наближається: що каже на",
+      "status": "ok",
+      "duration_s": 9.6,
+      "error": null
+    },
+    {
+      "name": "save:Спека наближається: що каже на",
+      "status": "ok",
+      "duration_s": 17.7,
+      "error": null
+    },
+    {
+      "name": "research:Тривожний розлад у дорослих: к",
+      "status": "ok",
+      "duration_s": 184.9,
+      "error": null
+    },
+    {
+      "name": "generate:Тривожний розлад у дорослих: к",
+      "status": "ok",
+      "duration_s": 116.0,
+      "error": null
+    },
+    {
+      "name": "review:Тривожний розлад у дорослих: к",
+      "status": "ok",
+      "duration_s": 168.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Тривожний розлад у дорослих: к",
+      "status": "ok",
+      "duration_s": 15.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Тривожний розлад у дорослих: к",
+      "status": "ok",
+      "duration_s": 12.4,
+      "error": null
+    },
+    {
+      "name": "save:Тривожний розлад у дорослих: к",
+      "status": "ok",
+      "duration_s": 18.4,
+      "error": null
+    },
+    {
+      "name": "research:Субота для відновлення: чому «",
+      "status": "ok",
+      "duration_s": 288.2,
+      "error": null
+    },
+    {
+      "name": "generate:Субота для відновлення: чому «",
+      "status": "ok",
+      "duration_s": 69.8,
+      "error": null
+    },
+    {
+      "name": "review:Субота для відновлення: чому «",
+      "status": "ok",
+      "duration_s": 99.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Субота для відновлення: чому «",
+      "status": "ok",
+      "duration_s": 18.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Субота для відновлення: чому «",
+      "status": "ok",
+      "duration_s": 9.3,
+      "error": null
+    },
+    {
+      "name": "save:Субота для відновлення: чому «",
+      "status": "ok",
+      "duration_s": 16.3,
+      "error": null
+    },
+    {
+      "name": "research:Сезонна полуниця і поліфеноли:",
+      "status": "ok",
+      "duration_s": 242.6,
+      "error": null
+    },
+    {
+      "name": "generate:Сезонна полуниця і поліфеноли:",
+      "status": "ok",
+      "duration_s": 74.3,
+      "error": null
+    },
+    {
+      "name": "review:Сезонна полуниця і поліфеноли:",
+      "status": "ok",
+      "duration_s": 86.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Сезонна полуниця і поліфеноли:",
+      "status": "ok",
+      "duration_s": 16.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Сезонна полуниця і поліфеноли:",
+      "status": "ok",
+      "duration_s": 9.4,
+      "error": null
+    },
+    {
+      "name": "save:Сезонна полуниця і поліфеноли:",
+      "status": "ok",
+      "duration_s": 16.3,
+      "error": null
+    },
+    {
+      "name": "research:Дитячі сонячні опіки і ризик м",
+      "status": "ok",
+      "duration_s": 209.1,
+      "error": null
+    },
+    {
+      "name": "generate:Дитячі сонячні опіки і ризик м",
+      "status": "ok",
+      "duration_s": 135.5,
+      "error": null
+    },
+    {
+      "name": "review:Дитячі сонячні опіки і ризик м",
+      "status": "ok",
+      "duration_s": 153.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Дитячі сонячні опіки і ризик м",
+      "status": "ok",
+      "duration_s": 18.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Дитячі сонячні опіки і ризик м",
+      "status": "ok",
+      "duration_s": 9.4,
+      "error": null
+    },
+    {
+      "name": "save:Дитячі сонячні опіки і ризик м",
+      "status": "ok",
+      "duration_s": 15.8,
+      "error": null
+    },
+    {
+      "name": "research:Інтервальне голодування 16:8 п",
+      "status": "ok",
+      "duration_s": 167.6,
+      "error": null
+    },
+    {
+      "name": "generate:Інтервальне голодування 16:8 п",
+      "status": "ok",
+      "duration_s": 113.7,
+      "error": null
+    },
+    {
+      "name": "review:Інтервальне голодування 16:8 п",
+      "status": "ok",
+      "duration_s": 116.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Інтервальне голодування 16:8 п",
+      "status": "ok",
+      "duration_s": 16.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Інтервальне голодування 16:8 п",
+      "status": "ok",
+      "duration_s": 9.4,
+      "error": null
+    },
+    {
+      "name": "save:Інтервальне голодування 16:8 п",
+      "status": "ok",
+      "duration_s": 16.6,
+      "error": null
+    },
+    {
+      "name": "research:Циркадні гени і вечірня тренув",
+      "status": "ok",
+      "duration_s": 174.2,
+      "error": null
+    },
+    {
+      "name": "generate:Циркадні гени і вечірня тренув",
+      "status": "ok",
+      "duration_s": 72.3,
+      "error": null
+    },
+    {
+      "name": "review:Циркадні гени і вечірня тренув",
+      "status": "ok",
+      "duration_s": 94.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Циркадні гени і вечірня тренув",
+      "status": "ok",
+      "duration_s": 17.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Циркадні гени і вечірня тренув",
+      "status": "ok",
+      "duration_s": 8.2,
+      "error": null
+    },
+    {
+      "name": "save:Циркадні гени і вечірня тренув",
+      "status": "ok",
+      "duration_s": 17.2,
+      "error": null
+    },
+    {
+      "name": "research:Ашваганда під мікроскопом: що ",
+      "status": "ok",
+      "duration_s": 153.2,
+      "error": null
+    },
+    {
+      "name": "generate:Ашваганда під мікроскопом: що ",
+      "status": "ok",
+      "duration_s": 73.9,
+      "error": null
+    },
+    {
+      "name": "review:Ашваганда під мікроскопом: що ",
+      "status": "ok",
+      "duration_s": 114.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ашваганда під мікроскопом: що ",
+      "status": "ok",
+      "duration_s": 22.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ашваганда під мікроскопом: що ",
+      "status": "ok",
+      "duration_s": 9.0,
+      "error": null
+    },
+    {
+      "name": "save:Ашваганда під мікроскопом: що ",
+      "status": "ok",
+      "duration_s": 16.2,
+      "error": null
+    },
+    {
+      "name": "research:Підліткова депресія і соцмереж",
+      "status": "ok",
+      "duration_s": 226.3,
+      "error": null
+    },
+    {
+      "name": "generate:Підліткова депресія і соцмереж",
+      "status": "ok",
+      "duration_s": 85.6,
+      "error": null
+    },
+    {
+      "name": "review:Підліткова депресія і соцмереж",
+      "status": "ok",
+      "duration_s": 243.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Підліткова депресія і соцмереж",
+      "status": "ok",
+      "duration_s": 19.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Підліткова депресія і соцмереж",
+      "status": "ok",
+      "duration_s": 9.0,
+      "error": null
+    },
+    {
+      "name": "save:Підліткова депресія і соцмереж",
+      "status": "ok",
+      "duration_s": 15.9,
+      "error": null
+    },
+    {
+      "name": "research:Бруксизм уві сні: чому стиранн",
+      "status": "ok",
+      "duration_s": 170.9,
+      "error": null
+    },
+    {
+      "name": "generate:Бруксизм уві сні: чому стиранн",
+      "status": "ok",
+      "duration_s": 125.6,
+      "error": null
+    },
+    {
+      "name": "review:Бруксизм уві сні: чому стиранн",
+      "status": "ok",
+      "duration_s": 197.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Бруксизм уві сні: чому стиранн",
+      "status": "ok",
+      "duration_s": 17.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Бруксизм уві сні: чому стиранн",
+      "status": "ok",
+      "duration_s": 11.3,
+      "error": null
+    },
+    {
+      "name": "save:Бруксизм уві сні: чому стиранн",
+      "status": "ok",
+      "duration_s": 16.0,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.3,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

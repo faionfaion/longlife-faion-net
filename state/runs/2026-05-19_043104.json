@@ -1,0 +1,392 @@
+{
+  "timestamp": "2026-05-19_043104",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "wha79-zheneva-2026-5-rishen-ukrainska-medytsyna, stomatolog-sydney-vil-hepatyt-sterylizatsiia-klinika-cheklist, alcohol-deaths-uk-fall-2024-mup-audit-c-ukraine-war, travnevyi-uv-indeks-kyiv-spf-30-50-2mg-cm2-pravylo, interotseptsiia-trivoga-maia-mabt-khalsa-jenkinson",
+  "author": "LongLife Media",
+  "duration_s": 5281.1,
+  "image_generated": false,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 178.2,
+      "error": null
+    },
+    {
+      "name": "research:Світова асамблея охорони здоро",
+      "status": "ok",
+      "duration_s": 282.4,
+      "error": null
+    },
+    {
+      "name": "generate:Світова асамблея охорони здоро",
+      "status": "ok",
+      "duration_s": 97.8,
+      "error": null
+    },
+    {
+      "name": "review:Світова асамблея охорони здоро",
+      "status": "ok",
+      "duration_s": 90.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Світова асамблея охорони здоро",
+      "status": "ok",
+      "duration_s": 17.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Світова асамблея охорони здоро",
+      "status": "ok",
+      "duration_s": 10.1,
+      "error": null
+    },
+    {
+      "name": "save:Світова асамблея охорони здоро",
+      "status": "ok",
+      "duration_s": 24.3,
+      "error": null
+    },
+    {
+      "name": "research:Стоматолог із Сіднея заразив п",
+      "status": "ok",
+      "duration_s": 203.3,
+      "error": null
+    },
+    {
+      "name": "generate:Стоматолог із Сіднея заразив п",
+      "status": "ok",
+      "duration_s": 124.9,
+      "error": null
+    },
+    {
+      "name": "review:Стоматолог із Сіднея заразив п",
+      "status": "ok",
+      "duration_s": 145.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Стоматолог із Сіднея заразив п",
+      "status": "ok",
+      "duration_s": 18.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Стоматолог із Сіднея заразив п",
+      "status": "ok",
+      "duration_s": 10.8,
+      "error": null
+    },
+    {
+      "name": "save:Стоматолог із Сіднея заразив п",
+      "status": "ok",
+      "duration_s": 17.4,
+      "error": null
+    },
+    {
+      "name": "research:Падіння смертей від алкоголю у",
+      "status": "ok",
+      "duration_s": 237.9,
+      "error": null
+    },
+    {
+      "name": "generate:Падіння смертей від алкоголю у",
+      "status": "ok",
+      "duration_s": 82.0,
+      "error": null
+    },
+    {
+      "name": "review:Падіння смертей від алкоголю у",
+      "status": "ok",
+      "duration_s": 90.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Падіння смертей від алкоголю у",
+      "status": "ok",
+      "duration_s": 19.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Падіння смертей від алкоголю у",
+      "status": "ok",
+      "duration_s": 7.6,
+      "error": null
+    },
+    {
+      "name": "save:Падіння смертей від алкоголю у",
+      "status": "ok",
+      "duration_s": 17.2,
+      "error": null
+    },
+    {
+      "name": "research:Травневий ультрафіолет: чому U",
+      "status": "ok",
+      "duration_s": 226.8,
+      "error": null
+    },
+    {
+      "name": "generate:Травневий ультрафіолет: чому U",
+      "status": "ok",
+      "duration_s": 143.0,
+      "error": null
+    },
+    {
+      "name": "review:Травневий ультрафіолет: чому U",
+      "status": "ok",
+      "duration_s": 158.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Травневий ультрафіолет: чому U",
+      "status": "ok",
+      "duration_s": 19.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Травневий ультрафіолет: чому U",
+      "status": "ok",
+      "duration_s": 7.7,
+      "error": null
+    },
+    {
+      "name": "save:Травневий ультрафіолет: чому U",
+      "status": "ok",
+      "duration_s": 15.8,
+      "error": null
+    },
+    {
+      "name": "research:Інтероцепція: чому здатність «",
+      "status": "ok",
+      "duration_s": 527.9,
+      "error": null
+    },
+    {
+      "name": "generate:Інтероцепція: чому здатність «",
+      "status": "ok",
+      "duration_s": 76.6,
+      "error": null
+    },
+    {
+      "name": "review:Інтероцепція: чому здатність «",
+      "status": "ok",
+      "duration_s": 70.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Інтероцепція: чому здатність «",
+      "status": "ok",
+      "duration_s": 20.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Інтероцепція: чому здатність «",
+      "status": "ok",
+      "duration_s": 12.9,
+      "error": null
+    },
+    {
+      "name": "save:Інтероцепція: чому здатність «",
+      "status": "ok",
+      "duration_s": 14.3,
+      "error": null
+    },
+    {
+      "name": "research:Тренування вранці vs ввечері: ",
+      "status": "ok",
+      "duration_s": 528.3,
+      "error": null
+    },
+    {
+      "name": "generate:Тренування вранці vs ввечері: ",
+      "status": "ok",
+      "duration_s": 65.4,
+      "error": null
+    },
+    {
+      "name": "review:Тренування вранці vs ввечері: ",
+      "status": "ok",
+      "duration_s": 93.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Тренування вранці vs ввечері: ",
+      "status": "ok",
+      "duration_s": 17.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Тренування вранці vs ввечері: ",
+      "status": "ok",
+      "duration_s": 8.2,
+      "error": null
+    },
+    {
+      "name": "save:Тренування вранці vs ввечері: ",
+      "status": "ok",
+      "duration_s": 15.5,
+      "error": null
+    },
+    {
+      "name": "research:Час до першої кави: чому 90 хв",
+      "status": "ok",
+      "duration_s": 187.1,
+      "error": null
+    },
+    {
+      "name": "generate:Час до першої кави: чому 90 хв",
+      "status": "ok",
+      "duration_s": 51.3,
+      "error": null
+    },
+    {
+      "name": "review:Час до першої кави: чому 90 хв",
+      "status": "ok",
+      "duration_s": 89.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Час до першої кави: чому 90 хв",
+      "status": "ok",
+      "duration_s": 17.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Час до першої кави: чому 90 хв",
+      "status": "ok",
+      "duration_s": 10.8,
+      "error": null
+    },
+    {
+      "name": "save:Час до першої кави: чому 90 хв",
+      "status": "ok",
+      "duration_s": 17.6,
+      "error": null
+    },
+    {
+      "name": "research:Аутофагія і голодування: що но",
+      "status": "ok",
+      "duration_s": 183.1,
+      "error": null
+    },
+    {
+      "name": "generate:Аутофагія і голодування: що но",
+      "status": "ok",
+      "duration_s": 80.3,
+      "error": null
+    },
+    {
+      "name": "review:Аутофагія і голодування: що но",
+      "status": "ok",
+      "duration_s": 88.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Аутофагія і голодування: що но",
+      "status": "ok",
+      "duration_s": 18.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Аутофагія і голодування: що но",
+      "status": "ok",
+      "duration_s": 9.0,
+      "error": null
+    },
+    {
+      "name": "save:Аутофагія і голодування: що но",
+      "status": "ok",
+      "duration_s": 17.9,
+      "error": null
+    },
+    {
+      "name": "research:Білок з комах і альтернативні ",
+      "status": "ok",
+      "duration_s": 187.1,
+      "error": null
+    },
+    {
+      "name": "generate:Білок з комах і альтернативні ",
+      "status": "ok",
+      "duration_s": 80.0,
+      "error": null
+    },
+    {
+      "name": "review:Білок з комах і альтернативні ",
+      "status": "ok",
+      "duration_s": 90.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Білок з комах і альтернативні ",
+      "status": "ok",
+      "duration_s": 19.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Білок з комах і альтернативні ",
+      "status": "ok",
+      "duration_s": 25.0,
+      "error": null
+    },
+    {
+      "name": "save:Білок з комах і альтернативні ",
+      "status": "ok",
+      "duration_s": 16.1,
+      "error": null
+    },
+    {
+      "name": "research:Дихання через ніс під час бігу",
+      "status": "ok",
+      "duration_s": 192.6,
+      "error": null
+    },
+    {
+      "name": "generate:Дихання через ніс під час бігу",
+      "status": "ok",
+      "duration_s": 74.9,
+      "error": null
+    },
+    {
+      "name": "review:Дихання через ніс під час бігу",
+      "status": "ok",
+      "duration_s": 79.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Дихання через ніс під час бігу",
+      "status": "ok",
+      "duration_s": 17.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Дихання через ніс під час бігу",
+      "status": "ok",
+      "duration_s": 11.6,
+      "error": null
+    },
+    {
+      "name": "save:Дихання через ніс під час бігу",
+      "status": "ok",
+      "duration_s": 16.1,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.2,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

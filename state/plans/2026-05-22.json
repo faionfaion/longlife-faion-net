@@ -1,0 +1,87 @@
+{
+  "articles": [
+    {
+      "topic": "Гонорея і сифіліс б'ють рекорди в Європі: що показує звіт ECDC 2026 і чому стійка гонорея — наступна загроза",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Реакція на свіжий заголовок: за даними ECDC випадки гонореї та сифілісу в ЄС/ЄЕЗ досягли історичних максимумів, окремо — тривожне зростання вродженого сифілісу. Фокус на драйверах (менше використання презервативів, тестування після пандемії), на цефтриаксон-резистентній Neisseria gonorrhoeae як найближчій загрозі (моніторинг WHO Euro-GASP) і на тому, що сифіліс знову зростає після десятиліть спаду. Український контекст: дані ЦГЗ, війна/міграція, доступ до тестування. Практичний блок: коли і де перевіритися, що безкоштовно за НСЗУ, бар'єрна профілактика, doxy-PEP (де докази обмежені). Чітко: це не самолікування — діагностика і терапія через лікаря.",
+      "sources_hint": "ECDC Annual Epidemiological Report 2025/2026 gonorrhoea & syphilis & congenital syphilis; WHO Europe STI surveillance; WHO 2024 guidance on ceftriaxone-resistant N. gonorrhoeae; Euro-GASP antimicrobial resistance data; PubMed 'gonorrhoea syphilis Europe surveillance 2025'; doxy-PEP RCTs (DoxyPEP, Luetkemeyer NEJM 2023); Ukraine ЦГЗ STI statistics",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Поліноз у розпал сезону: що реально працює проти алергічного риніту за гайдлайнами ARIA",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Сезонна актуальність — кінець травня, пік цвітіння трав в Україні. Доказова ієрархія лікування за ARIA: інтраназальні кортикостероїди — перша лінія (ефективніші за пероральні антигістамінні), коли додавати антигістамінні, роль сольового зрошення носа, чому деконгестанти-спреї не можна довго. Алерген-специфічна імунотерапія як єдиний хворобомодифікувальний метод. Практичне: моніторинг пилку, побутові заходи (душ після вулиці, фільтри), коли йти до алерголога, як відрізнити поліноз від застуди/COVID. Без самопризначення рецептурних засобів.",
+      "sources_hint": "ARIA 2019/2020 allergic rhinitis guidelines (Bousquet et al.); Cochrane reviews on intranasal corticosteroids vs antihistamines and saline nasal irrigation; EAACI allergen immunotherapy guidelines; PubMed 'allergic rhinitis treatment ARIA intranasal corticosteroid'; Ukraine pollen season (grass/birch) data",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "«Воїн вихідного дня»: чи можна набрати тижневу норму руху за 1–2 дні і отримати ту саму користь",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "П'ятничний кут під вихідні: для зайнятих людей, які не встигають тренуватися щодня. Великі акселерометричні дослідження UK Biobank показують, що концентрація фізичної активності у 1–2 дні дає приблизно таке саме зниження смертності й серцево-судинного ризику, як рівномірний розподіл, — за умови досягнення ~150 хв помірної/інтенсивної активності. Чесні застереження: вищий ризик травм при різкому навантаженні без бази, важливість прогресії та розминки. Відрізняється від статті про 7000 кроків (це про патерн розподілу, а не обсяг). Практика: як спланувати «активні вихідні» без перевантаження.",
+      "sources_hint": "Khurshid et al. JAMA 2023 (UK Biobank accelerometer weekend warrior, CVD); dos Santos et al. JAMA Intern Med 2022 (mortality, n~350k); O'Donovan et al. JAMA Intern Med 2017; WHO 2020 physical activity guidelines; PubMed 'weekend warrior physical activity mortality accelerometer'",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "«Hangxiety»: чому наступного дня після алкоголю накриває тривога — і що з цим робити",
+      "type": "lifehack",
+      "category": "mental-health",
+      "angle": "Ідеально під п'ятницю/вихідні. Пояснення механізму ребаунд-тривоги: алкоголь підсилює ГАМК і пригнічує глутамат, а під час метаболізму система відскакує у бік збудження; додають зневоднення, порушений сон, підвищений кортизол і ацетальдегід. Чому особливо страждають люди з соціальною тривожністю (Marsh та ін.). Доказові кроки: межа доз, не пити для зняття тривоги (хибне коло), гідратація і відновлення сну, коли «недільна тривога» — насправді сигнал тривожного розладу чи проблемного пиття (скринінг AUDIT-C, крос-лінк). Чесно: доказова база на людях обмежена, ефект індивідуальний.",
+      "sources_hint": "PubMed 'alcohol hangover anxiety hangxiety'; Marsh et al. (shyness/social anxiety and hangover anxiety, Personality and Individual Differences 2019/2021); GABA/glutamate rebound reviews; Stephens et al. alcohol hangover research; cortisol and acute alcohol withdrawal literature; AUDIT-C",
+      "evidence_level": "preliminary",
+      "priority": 2
+    },
+    {
+      "topic": "Вітамін D у 2026: кому добавка реально допомагає, а кому це викинуті гроші — підсумок VITAL і D-Health",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Розбір доказів проти хайпу: великі РКД (VITAL, D-Health) не показали зниження раку, ССЗ чи переломів у загальній популяції з нормальним статусом, але користь є для груп ризику дефіциту (літні в закладах, мала інсоляція, ожиріння, мальабсорбція) і для падінь/кісток за низького базового рівня. Пояснити, кому варто вимірювати 25(OH)D, цільові рівні, дози (без мегадоз — ризик при болюсних дозах), і чому скринінг усіх не рекомендований (USPSTF 2024). Відрізняється від травневої статті про UV/вітамін D (там — міф про сонцезахист): тут фокус на добавці та РКД. Завжди — консультація з лікарем перед призначенням.",
+      "sources_hint": "Manson et al. VITAL NEJM 2019 (cancer/CVD); LeBoff et al. NEJM 2022 (VITAL fractures); Neale et al. D-Health Lancet Diabetes Endocrinol 2022 (mortality); USPSTF 2024 vitamin D screening statement; meta-analyses on vitamin D and falls; EFSA intake reference values",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Заклеювання рота на ніч (mouth taping): що показав систематичний огляд 2025 і чому це може бути небезпечно",
+      "type": "research",
+      "category": "sleep",
+      "angle": "Розбір вірусного TikTok/біохак-тренду носового дихання уві сні через заклеювання рота. Свіжий систематичний огляд 2025 року: доказів користі для здорових мало, при невиявленому обструктивному апное чи закладеному носі це потенційно небезпечно (ризик асфіксії, маскування апное). Розрізнити обґрунтоване (лікування закладеності носа, верифіковане апное під наглядом) і необґрунтоване самолікування. Доповнює травневу статтю про носове дихання під час бігу (інший контекст — сон vs біг). Червоні прапорці апное, коли йти до сомнолога.",
+      "sources_hint": "Kovacevic et al. 2025 systematic review on mouth taping (PLOS One / sleep journals); Lee et al. 2022 (mouth taping mild OSA, Healthcare); AASM commentary on mouth taping; PubMed 'mouth taping sleep systematic review 2025'; nasal obstruction and sleep-disordered breathing reviews",
+      "evidence_level": "preliminary",
+      "priority": 2
+    },
+    {
+      "topic": "Сила хвату як «дешевий» біомаркер довголіття: що показали PURE і UK Biobank — і як її тренувати",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Новий кут на маркери старіння (після VO2max і кроків): динамометрія сили хвату передбачає загальну та серцево-судинну смертність сильніше за систолічний тиск у деяких аналізах. Пояснити дані PURE (17 країн) і UK Biobank (~500k), порогові значення сарко­пенії (EWGSOP2), чому хват — проксі загальної м'язової сили й здоров'я. Чесно: це асоціація, не причинність — слабкий хват радше індикатор, ніж мішень. Практика: як виміряти вдома, прості вправи (тримання, тяги, фермерська хода), зв'язок із силовими 2–3 р/тиж.",
+      "sources_hint": "Leong et al. PURE Lancet 2015 (grip strength and mortality); Celis-Morales et al. BMJ 2018 (UK Biobank, n~500k); Bohannon 2019 review (grip strength clinical marker); EWGSOP2 sarcopenia 2019 cutoffs; PubMed 'grip strength all-cause mortality cohort'",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Чи захищає розтяжка перед тренуванням від травм — і чому статичний стретчинг може зашкодити перед силовою",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Розвінчання поширеного міфу «потягнувся — не травмуєшся». Кокранівські та інші огляди: статична розтяжка перед навантаженням майже не знижує ризик травм і тимчасово зменшує силу/потужність (preload deficit). Що справді працює: динамічна розминка та — найсильніший доказ — силові тренування знижують спортивні травми приблизно на третину (Lauersen 2014). Коли статичний стретчинг доречний (після тренування, для гнучкості). Відрізняється від статті про фоум-ролер (там — ROM/відновлення девайсами, тут — розминка та профілактика травм).",
+      "sources_hint": "Herbert & Gabriel Cochrane/BMJ 2011 (stretching and injury); Behm & Chaouachi 2011, Behm et al. 2016 review (acute static stretching effects on power); Lauersen et al. BJSM 2014/2018 (strength training reduces injuries); dynamic warm-up RCTs; PubMed 'static stretching injury prevention meta-analysis'",
+      "evidence_level": "moderate",
+      "priority": 3
+    },
+    {
+      "topic": "Червоне світло (фотобіомодуляція): шкіра, відновлення, ріст волосся — де докази, а де маркетинг панелей за $300",
+      "type": "guide",
+      "category": "biohacking",
+      "angle": "Розбір буму домашніх red-light/LED-панелей і масок. Що каже доказова база: помірні дані для андрогенної алопеції (LLLT) і деяких шкірних/загоювальних показань, попередні — для м'язового відновлення/DOMS, слабкі або відсутні — для «детоксу», схуднення, метаболізму. Проблема гетерогенності: довжина хвилі, доза (Дж/см²), відстань — більшість споживчих заяв не стандартизовані. Безпека очей, протипоказання. Практика: чого реально очікувати, на що звертати увагу в характеристиках, коли це просто плацебо. Доповнює квітневу статтю про холодову терапію як «біохак з межами доказів».",
+      "sources_hint": "Glass 2021 (photobiomodulation skin, Aesthet Surg J); Vanin et al. 2018 (LLLT muscle recovery meta-analysis, Lasers Med Sci); Hamblin reviews on photobiomodulation mechanisms; LLLT androgenetic alopecia meta-analyses; PubMed 'photobiomodulation low-level laser therapy systematic review skin muscle'",
+      "evidence_level": "preliminary",
+      "priority": 3
+    }
+  ],
+  "date": "2026-05-22",
+  "created_at": "2026-05-22T03:03:03.382574+00:00"
+}

@@ -1,0 +1,87 @@
+{
+  "articles": [
+    {
+      "topic": "О котрій пити каву для довголіття: ранкові любителі кави живуть довше за тих, хто п'є весь день — нове дослідження",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Не «скільки чашок», а КОЛИ: великий когортний аналіз показав, що ранковий патерн споживання кави асоціюється з нижчою загальною та серцево-судинною смертністю, ніж рівномірне споживання впродовж дня. Чітко розмежувати з нашою статтею про «90 хвилин до кави» (там — кортизол і міф Хубермана, тут — добовий патерн і смертність). Наголосити: це спостережне дослідження (асоціація, не причинність), можливий вплив пізньої кави на сон як медіатор.",
+      "sources_hint": "Wang et al., European Heart Journal, Jan 2025, 'Coffee drinking timing and mortality' (NHANES, ~40k adults). Cross-check with Gardener 2018, prior coffee-mortality meta-analyses (Poole BMJ 2017 umbrella review). PubMed: coffee timing circadian mortality cohort.",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Мелатонін: чому 0,5 мг працює краще за 5–10 мг, коли його пити — і що показало дослідження AHA 2025 про серцеву недостатність",
+      "type": "lifehack",
+      "category": "sleep",
+      "angle": "Практичний протокол: мелатонін — це сигнал часу (хронобіотик), а не снодійне; мікродоза 0,3–0,5 мг за 1,5–2 год до сну для зсуву фази ефективніша й безпечніша за «мегадози» з аптеки. Новий тривожний сигнал: спостережний аналіз, представлений на AHA Scientific Sessions (листопад 2025), пов'язав тривалий прийом мелатоніну з вищим ризиком серцевої недостатності — пояснити обмеження (асоціація, не РКД). Проблема нестабільного дозування в добавках/гумках. Без самопризначення при супутніх станах — обговорити з лікарем.",
+      "sources_hint": "AHA Scientific Sessions 2025 abstract on long-term melatonin use and heart failure risk; Erland & Saxena 2017 JCSM (melatonin content variability in supplements); Burgess 2010 (low-dose melatonin phase shift); AASM stance on melatonin for insomnia. PubMed: melatonin dose timing phase response curve.",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Холодне занурення (cold plunge) під мікроскопом: що показав систематичний огляд 2025 про стрес, сон, настрій і запалення",
+      "type": "research",
+      "category": "biohacking",
+      "angle": "Розвіяти хайп навколо крижаних ванн і Віма Хофа на основі першого великого систематичного огляду саме холодного занурення (а не загартовування взагалі). Ключове: короткостроковий сплеск «бадьорості» й можливе зниження стресу через 12 год, але дані щодо сну/імунітету слабкі, вибірки малі, ефект очікувань не контрольований. Застереження: ризики для людей із гіпертензією та аритміями, холодовий шок.",
+      "sources_hint": "Cain et al., PLOS ONE 2025 systematic review on cold-water immersion (health outcomes, stress, sleep, mood, immunity). Also Esperland 2022 review, Buijze 2016 RCT (cold showers). PubMed: cold water immersion systematic review healthy adults stress sleep.",
+      "evidence_level": "preliminary",
+      "priority": 1
+    },
+    {
+      "topic": "Чи правда, що за раз засвоюється лише 30 г білка? Що показало дослідження зі 100 г білка за один прийом",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Розвінчати міф про «стелю» 25–30 г білка на прийом для росту м'язів. РКД зі стабільними ізотопами показало, що 100 г білка стимулюють синтез м'язового протеїну сильніше й довше за 25 г — «надлишок» не просто окислюється. Практичний висновок: загальна добова доза (~1,6 г/кг) і розподіл важливіші за нав'язливе «дроблення», що звільняє людей з 2-разовим харчуванням або інтервальним голодуванням. Розмежувати з нашими статтями про креатин і HMB.",
+      "sources_hint": "Trommelen et al., Cell Reports Medicine 2023 ('The anabolic response to protein ingestion during recovery... is not limited to 25 g', 100g bolus). Morton 2018 BJSM meta-analysis (1.6 g/kg/day); Schoenfeld & Aragon 2018 JISSN protein per meal review. PubMed: protein per meal muscle protein synthesis 100 g.",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Скільки підходів на тиждень потрібно для росту м'язів: що показав мета-аналіз про дозу силового навантаження",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Конкретна доза-відповідь для гіпертрофії та сили: більше підходів = більше росту, але з спадною віддачею, тоді як для сили достатньо навіть малого обсягу. Для зайнятих/початківців ~4 ефективних підходи на групу м'язів/тиждень уже дають більшу частину результату. Чесний нюанс: висока гетерогенність, вимірювання обсягу різняться. Розмежувати з нашими статтями про Couch-to-5K, плiометрику та силу хвату (там — інші цілі).",
+      "sources_hint": "Pelland et al. 2024/2025 meta-analysis on resistance training volume dose-response (hypertrophy & strength); Schoenfeld 2017 J Sports Sci sets meta-analysis; Androulakis-Korakakis 2020 (minimum dose for strength). PubMed: resistance training volume dose response hypertrophy meta-analysis.",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Слух і деменція: чому втрата слуху — найбільший модифікований фактор ризику і чи рятують слухові апарати",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Звязок між нелікованою втратою слуху та деменцією (Lancet Commission називає його найбільшим окремим модифікованим фактором). Центр статті — РКД ACHIEVE (Lancet 2023): слухові апарати сповільнили зниження когніції на 48% у підгрупі високого ризику, але не в загальній вибірці — чесно пояснити, чому. Практика: коли перевіряти слух, чому «само пройде» — погана стратегія, доступність аудіометрії в Україні.",
+      "sources_hint": "Lin et al. ACHIEVE trial, The Lancet 2023; Livingston et al. Lancet Commission on dementia prevention 2024 (14 modifiable factors); Loughrey 2018 JAMA Otolaryngol meta-analysis (hearing loss & cognitive decline). PubMed: hearing aids cognitive decline ACHIEVE randomized.",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Остеопороз без симптомів: кому і коли робити денситометрію (DEXA) і що таке калькулятор FRAX",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Практичний гайд зі скринінгу щільності кісток: остеопороз «тихий» до першого перелому. Кому показана DEXA (жінки 65+, чоловіки 70+, раніше — за факторами ризику), як працює T-критерій і безкоштовний онлайн-калькулятор FRAX для оцінки 10-річного ризику перелому. Коли потрібні ліки, а коли достатньо навантаження/білка/вітаміну D. Доповнює нашу статтю про плiометричні стрибки (профілактика vs діагностика). Український контекст доступності.",
+      "sources_hint": "USPSTF 2018 osteoporosis screening recommendation; ISCD 2023 official positions; FRAX tool (Kanis, University of Sheffield); Bone Health & Osteoporosis Foundation guidelines. PubMed: DEXA screening osteoporosis USPSTF FRAX.",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Щоденник вдячності під мікроскопом: чи справді покращує настрій і чи не переоцінений ефект — що кажуть мета-аналізи",
+      "type": "lifehack",
+      "category": "mental-health",
+      "angle": "Доказовий розбір практики «щоденника вдячності» без езотерики, придатний як спокійний старт робочого тижня. Мета-аналізи показують реальний, але скромний ефект на добробут і депресію — слабший за КПТ і часто завищений у дослідженнях зі слабким контролем. Робочий протокол: 3 конкретні речі двічі на тиждень (не щодня), фокус на людях, а не подіях. Чітко розмежувати з нашими статтями про «ефект свіжого старту» (механізм мотивації) та «недільну тривогу» — тут інша інтервенція й інша доказова база.",
+      "sources_hint": "Cregg & Cheavens 2021 J Happiness Stud meta-analysis (gratitude vs depression/anxiety); Davis 2016 J Couns Psychol; Dickens 2017 (limitations, weak control groups); Emmons & McCullough 2003 foundational RCT. PubMed: gratitude intervention meta-analysis wellbeing depression.",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Психобіотики: чи можуть пробіотики реально знижувати тривогу й депресію — що показують РКД",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Вісь «кишківник–мозок» на практиці: чи працюють пробіотики як доповнення при тривозі/депресії. Мета-аналізи дають малий-помірний сигнал, але з низькою достовірністю, малими вибірками й конфліктами інтересів виробників; ефект сильніший у людей із клінічними симптомами, ніж у здорових. Чітко розмежувати з нашою статтею про ферментовані продукти (там — мікробіом/запалення/кардіометаболіка, тут — психічне здоров'я) та медитаційні застосунки. Наголос: не заміна психотерапії чи ліків.",
+      "sources_hint": "Liu et al. 2019 / Le Morvan de Sequeira 2022 meta-analyses on probiotics for depression & anxiety; Nikolova 2021 JAMA Psychiatry (live biotherapeutics in psychiatry); ISAPP consensus on psychobiotics. PubMed: probiotics depression anxiety randomized meta-analysis.",
+      "evidence_level": "preliminary",
+      "priority": 3
+    }
+  ],
+  "date": "2026-05-25",
+  "created_at": "2026-05-25T03:03:03.826226+00:00"
+}

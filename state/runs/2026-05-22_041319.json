@@ -1,0 +1,224 @@
+{
+  "timestamp": "2026-05-22_041319",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "gonoreya-syfilis-rekordy-ievropa-ecdc-2026-stiyka-gonoreya, polinoz-piltsa-trav-aria-intranazalni-steroidy-deconhestanty, voin-vykhidnoho-dnia-150-khvylyn-2-dni-smertnist-uk-biobank, vitamin-d-dobavka-2026-vital-d-health-komu-dopomahaye",
+  "author": "LongLife Media",
+  "duration_s": 4216.5,
+  "image_generated": false,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 377.2,
+      "error": null
+    },
+    {
+      "name": "research:Гонорея і сифіліс б'ють рекорд",
+      "status": "ok",
+      "duration_s": 205.0,
+      "error": null
+    },
+    {
+      "name": "generate:Гонорея і сифіліс б'ють рекорд",
+      "status": "ok",
+      "duration_s": 100.0,
+      "error": null
+    },
+    {
+      "name": "review:Гонорея і сифіліс б'ють рекорд",
+      "status": "ok",
+      "duration_s": 231.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Гонорея і сифіліс б'ють рекорд",
+      "status": "ok",
+      "duration_s": 20.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Гонорея і сифіліс б'ють рекорд",
+      "status": "ok",
+      "duration_s": 9.9,
+      "error": null
+    },
+    {
+      "name": "save:Гонорея і сифіліс б'ють рекорд",
+      "status": "ok",
+      "duration_s": 18.7,
+      "error": null
+    },
+    {
+      "name": "research:Поліноз у розпал сезону: що ре",
+      "status": "ok",
+      "duration_s": 218.1,
+      "error": null
+    },
+    {
+      "name": "generate:Поліноз у розпал сезону: що ре",
+      "status": "ok",
+      "duration_s": 128.3,
+      "error": null
+    },
+    {
+      "name": "review:Поліноз у розпал сезону: що ре",
+      "status": "ok",
+      "duration_s": 212.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Поліноз у розпал сезону: що ре",
+      "status": "ok",
+      "duration_s": 27.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Поліноз у розпал сезону: що ре",
+      "status": "ok",
+      "duration_s": 13.7,
+      "error": null
+    },
+    {
+      "name": "save:Поліноз у розпал сезону: що ре",
+      "status": "ok",
+      "duration_s": 15.1,
+      "error": null
+    },
+    {
+      "name": "research:«Воїн вихідного дня»: чи можна",
+      "status": "ok",
+      "duration_s": 232.1,
+      "error": null
+    },
+    {
+      "name": "generate:«Воїн вихідного дня»: чи можна",
+      "status": "ok",
+      "duration_s": 111.7,
+      "error": null
+    },
+    {
+      "name": "review:«Воїн вихідного дня»: чи можна",
+      "status": "ok",
+      "duration_s": 179.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:«Воїн вихідного дня»: чи можна",
+      "status": "ok",
+      "duration_s": 19.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:«Воїн вихідного дня»: чи можна",
+      "status": "ok",
+      "duration_s": 11.8,
+      "error": null
+    },
+    {
+      "name": "save:«Воїн вихідного дня»: чи можна",
+      "status": "ok",
+      "duration_s": 17.4,
+      "error": null
+    },
+    {
+      "name": "research:«Hangxiety»: чому наступного д",
+      "status": "ok",
+      "duration_s": 219.8,
+      "error": null
+    },
+    {
+      "name": "generate:«Hangxiety»: чому наступного д",
+      "status": "ok",
+      "duration_s": 80.2,
+      "error": null
+    },
+    {
+      "name": "review:«Hangxiety»: чому наступного д",
+      "status": "failed",
+      "duration_s": 103.7,
+      "error": "Claude Code returned an error result: Reached maximum number of turns (1)"
+    },
+    {
+      "name": "research:Вітамін D у 2026: кому добавка",
+      "status": "ok",
+      "duration_s": 279.0,
+      "error": null
+    },
+    {
+      "name": "generate:Вітамін D у 2026: кому добавка",
+      "status": "ok",
+      "duration_s": 110.3,
+      "error": null
+    },
+    {
+      "name": "review:Вітамін D у 2026: кому добавка",
+      "status": "ok",
+      "duration_s": 152.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Вітамін D у 2026: кому добавка",
+      "status": "ok",
+      "duration_s": 18.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Вітамін D у 2026: кому добавка",
+      "status": "ok",
+      "duration_s": 10.9,
+      "error": null
+    },
+    {
+      "name": "save:Вітамін D у 2026: кому добавка",
+      "status": "ok",
+      "duration_s": 15.5,
+      "error": null
+    },
+    {
+      "name": "research:Заклеювання рота на ніч (mouth",
+      "status": "ok",
+      "duration_s": 247.0,
+      "error": null
+    },
+    {
+      "name": "generate:Заклеювання рота на ніч (mouth",
+      "status": "failed",
+      "duration_s": 204.8,
+      "error": "Claude Code returned an error result: success"
+    },
+    {
+      "name": "research:Сила хвату як «дешевий» біомар",
+      "status": "failed",
+      "duration_s": 209.3,
+      "error": "Claude Code returned an error result: success"
+    },
+    {
+      "name": "research:Чи захищає розтяжка перед трен",
+      "status": "failed",
+      "duration_s": 213.5,
+      "error": "Claude Code returned an error result: success"
+    },
+    {
+      "name": "research:Червоне світло (фотобіомодуляц",
+      "status": "failed",
+      "duration_s": 198.7,
+      "error": "Claude Code returned an error result: success"
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.3,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

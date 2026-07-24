@@ -1,0 +1,87 @@
+{
+  "articles": [
+    {
+      "topic": "Раптова серцева смерть у молодих: чому здорові 20-річні падають на полі — і чи рятує ЕКГ-скринінг спортсменів",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Розбір 'невидимого вбивці молодих' на тлі заголовка BBC: гіпертрофічна кардіоміопатія, синдром подовженого QT, аритмогенна дисплазія та аномалії коронарних артерій як головні причини SADS. Чому італійська програма обов'язкового ЕКГ перед допуском знизила смертність атлетів, але AHA/USPSTF не радять масовий скринінг безсимптомних. Тривожні симптоми, що вимагають кардіолога: синкопе при навантаженні, серцебиття, раптова смерть родича до 50 років.",
+      "sources_hint": "Corrado et al. JAMA 2006 (Veneto pre-participation ECG screening); ESC 2020 sports cardiology guidelines; AHA/ACC 2015 athlete screening scientific statement; Maron NEJM HCM reviews; sudden arrhythmic death syndrome (SADS) reviews 2024-2026",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Середземноморська дієта у 2026: чому це досі найкраще доведений харчовий патерн — і що сталося з гучним PREDIMED",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Не екзотика, а патерн: оливкова олія, бобові, риба, овочі, горіхи. Історія PREDIMED (NEJM 2013, відкликання й перерахунок 2018 через дефекти рандомізації — і чому висновок усе одно встояв), Lyon Diet Heart Study, мета-аналізи серцево-судинної смертності та діабету 2 типу. Чесно про обмеження доказів і практична адаптація під українські продукти (локальні овочі, бобові, риба).",
+      "sources_hint": "Estruch et al. PREDIMED NEJM 2013 + 2018 reanalysis; Lyon Diet Heart Study; Cochrane 2019 Mediterranean diet for CVD prevention; Dinu 2018 EJCN meta-analysis Mediterranean diet mortality/T2D",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Біль у попереку: чому МРТ і постільний режим — погана ідея, а рух — перша лінія за гайдлайнами",
+      "type": "guide",
+      "category": "fitness",
+      "angle": "Неспецифічний біль у попереку — найпоширеніший у світі. Серія Lancet 2018: уникати ранньої візуалізації й опіоїдів, залишатися активним, робити вправи й отримувати освіту про природу болю. Червоні прапорці, що вимагають негайно лікаря (синдром кінського хвоста, онкоанамнез, травма, лихоманка). Які вправи мають докази (рух загалом важливіший за конкретний 'правильний' метод). Український контекст надмірних МРТ-направлень.",
+      "sources_hint": "Lancet Low Back Pain Series 2018 (Foster, Hartvigsen, Buchbinder); NICE NG59 low back pain & sciatica; Hayden Cochrane 2021 exercise for low back pain; Choosing Wisely imaging recommendations",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Розтяжка перед тренуванням не запобігає травмам: що каже доказова база — і що працює натомість",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Розвінчання міфу, що статична розтяжка знижує ризик травм — і нагадування, що тривале статичне розтягування перед навантаженням тимчасово знижує силу/потужність. Мета-аналіз Lauersen: силові тренування скорочують спортивні травми ефективніше за стретчинг; роль динамічної розминки. Практичний протокол розминки. Відмінність від попередньої статті про фоум-ролер (ROM/DOMS, а не профілактика травм).",
+      "sources_hint": "Lauersen et al. BJSM 2014 & 2018 meta-analyses (strength training vs stretching for injury prevention); Behm & Chaouachi 2011 static stretching and performance; Herbert Cochrane 2011 stretching injury prevention; dynamic warm-up RCTs",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Сауна для серця і довголіття: що показали фінські когорти — і де межа між користю і ризиком",
+      "type": "guide",
+      "category": "biohacking",
+      "angle": "Доказова база регулярної сауни: фінські когорти Laukkanen (KIHD) пов'язують 4-7 сеансів/тиждень із нижчою серцево-судинною й загальною смертністю та ризиком деменції; ймовірний механізм — теплова адаптація й функція ендотелію, паралелі з помірним кардіо. Чесно: дані спостережні, можливі конфаундери здорового користувача. Протипоказання (нестабільна стенокардія, вагітність, алкоголь), правила гідратації й безпечний старт.",
+      "sources_hint": "Laukkanen et al. JAMA Intern Med 2015 sauna and mortality; Laukkanen 2017 Age and Ageing sauna and dementia; Mayo Clin Proc 2018 sauna health review; observational-confounding caveats; 2023-2025 sauna meta-analyses",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Застосунки для медитації (Headspace, Calm): що насправді показують рандомізовані дослідження про стрес і тривогу",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Чи працюють 10 хвилин на день у застосунку — окремо від офлайн-практик. RCT і мета-аналізи ефективності з малими розмірами ефекту, проблема активного контролю й самозвітних шкал, висока гетерогенність. Кому допомагає найбільше і де межа: додаток — це доповнення, а не заміна психотерапії при клінічних тривожних чи депресивних розладах.",
+      "sources_hint": "Linardon 2020 meta-analysis mHealth mindfulness apps; Gál et al. 2021 J Affect Disord app meditation; Goldberg 2018 Clinical Psychology Review mindfulness meta-analysis; Headspace/Calm RCTs; active-control critiques 2023-2025",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Окуляри з фільтром синього світла: чи рятують вони очі й сон — Cochrane каже 'ні'",
+      "type": "lifehack",
+      "category": "biohacking",
+      "angle": "Розвінчання маркетингу blue-light-blocking окулярів. Огляд Cochrane 2023 (Singh): немає доказів користі для зорової втоми, здоров'я сітківки чи якості сну. Що реально працює проти цифрової втоми очей (правило 20-20-20, частота кліпання, сухість, перерви) і що справді впливає на сон (час і яскравість екрана, а не спектр). Крос-лінк на матеріал про ранкове світло та циркадні ритми.",
+      "sources_hint": "Singh et al. Cochrane Database Syst Rev 2023 (blue-light filtering spectacle lenses); American Academy of Ophthalmology statements on blue-light glasses; 20-20-20 rule evidence for digital eye strain; light wavelength/melatonin sleep studies",
+      "evidence_level": "moderate",
+      "priority": 3
+    },
+    {
+      "topic": "Обважнені ковдри для сну і тривоги: робочий біохак чи дорогий плацебо — що показують дослідження",
+      "type": "lifehack",
+      "category": "sleep",
+      "angle": "Чи допомагають ковдри 7-12% маси тіла швидше заснути й знизити тривогу. RCT Ekholm 2020 (безсоння при психіатричних діагнозах) і систематичні огляди; гіпотеза 'глибокого тиску' й вплив на мелатонін; чесно про малі вибірки та неможливість сліпого контролю. Кому варто спробувати, а кому небезпечно (немовлята, апное сну, обмежена рухливість).",
+      "sources_hint": "Ekholm et al. J Clin Sleep Med 2020 weighted blanket RCT for insomnia; Meth et al. 2023 weighted blanket and melatonin (J Sleep Res); systematic reviews on deep-pressure stimulation; pediatric/apnea safety guidance",
+      "evidence_level": "preliminary",
+      "priority": 3
+    },
+    {
+      "topic": "Теломери і старіння: чи можна 'подовжити' захисні ковпачки ДНК способом життя — що показують мета-аналізи",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Чим теломерний годинник відрізняється від епігенетичного (крос-лінк на матеріал про Horvath/DunedinPACE). Чи реально активність, дієта чи медитація подовжують теломери, чи це переважно кореляції; чому короткі теломери — і причина, і наслідок хвороб; критика комерційних тестів довжини теломер. Ключове розрізнення: асоціація з віком/смертністю сильна, а причинний вплив способу життя слабкий і часто з малих пілотів.",
+      "sources_hint": "Blackburn/Epel telomere biology; Mundstock 2015 meta-analysis physical activity and telomere length; Ornish 2013 Lancet Oncology lifestyle/telomerase pilot; Codd et al. Mendelian randomization telomere length (Nat Genet); critiques of commercial telomere tests; 2024-2026 reviews",
+      "evidence_level": "preliminary",
+      "priority": 3
+    }
+  ],
+  "date": "2026-05-24",
+  "created_at": "2026-05-24T03:03:03.497175+00:00"
+}

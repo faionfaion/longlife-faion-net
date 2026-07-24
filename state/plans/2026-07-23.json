@@ -1,0 +1,96 @@
+{
+  "articles": [
+    {
+      "topic": "Рак до 2050 року подвоїться: розбір нового звіту ВООЗ і 5 факторів ризику, які можна контролювати вже сьогодні",
+      "type": "research",
+      "category": "prevention",
+      "angle": "WHO/IARC прогноз про 35 млн нових випадків раку до 2050 (+77% від 2022). Розбір за типами раку, географією і — головне — модифікованих факторів (тютюн, алкоголь, ожиріння, HPV, УФ). Український контекст: скринінгові програми, що працюють.",
+      "sources_hint": "WHO cancer projections 2024-2026, IARC GLOBOCAN 2022, Lancet Oncology commissions 2025, PubMed: 'cancer burden 2050 projections'",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Літня спека і серце: чому смертність від ССЗ зростає на 2,5% за кожен градус вище 25 °C і як захиститися",
+      "type": "lifehack",
+      "category": "longevity",
+      "angle": "Практичний гід на липневу спеку в Україні. Дані Nature Medicine 2024-2025 щодо надлишкової смертності, механізми теплового навантаження на серце, ризик для тих, хто на бета-блокаторах і діуретиках. Гідратація, час тренувань, охолодження, коли викликати швидку.",
+      "sources_hint": "Nature Medicine heat mortality Europe 2024-2025, Lancet Planetary Health 2025, ESC 2024 heat and cardiovascular disease",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "MS-препарат нового покоління на NHS: що це означає для 25 тисяч українців із розсіяним склерозом",
+      "type": "research",
+      "category": "research",
+      "angle": "Розбір рішення NICE 2026 щодо нового препарату для розсіяного склерозу (ймовірно, тольєбрутиніб або оновлений окрелізумаб). Механізм BTK-інгібіторів, дані III фази, доступність в Україні через програми МОЗ і благодійні фонди.",
+      "sources_hint": "NICE guidance July 2026, NEJM tolebrutinib GEMINI/HERCULES trials, MS Society UK, Lancet Neurology 2025-2026",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Алергія на м'ясо після укусу кліща: alpha-gal синдром в Україні — чи є ризик і як розпізнати",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Alpha-gal синдром (AGS) — реакція на галактозу-альфа-1,3-галактозу після укусу кліщів. Симптоми через 3-6 годин після червоного м'яса. Дані CDC про 450 000 випадків у США, огляд європейських даних, ситуація з Ixodes ricinus в Україні.",
+      "sources_hint": "CDC alpha-gal syndrome 2024-2026, Commins et al. JACI, European Journal of Allergy 2025, Ukrainian tick surveillance data",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Прицільна протонна терапія раку простати: -60% побічних ефектів за даними PACE-B follow-up 2026",
+      "type": "research",
+      "category": "research",
+      "angle": "Розбір оновлених даних PACE-B і нових досліджень фокальної терапії HIFU/протонів проти класичної радіотерапії. Кому підходить активне спостереження, кому — фокальна терапія. Українські центри протонної терапії.",
+      "sources_hint": "Lancet Oncology PACE-B 2026 update, NEJM prostate focal therapy, ProtecT trial 15-year data, EAU guidelines 2026",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Дефіцит слуху як фактор №1 деменції: коли робити аудіометрію після 45 і чи справді слухові апарати захищають мозок",
+      "type": "guide",
+      "category": "longevity",
+      "angle": "Поглиблення учорашньої теми Lancet Commission із фокусом на єдиному факторі: розбір ACHIEVE trial 2023 (Lin et al., JAMA) — слухові апарати сповільнили когнітивне зниження на 48% у групі ризику за 3 роки. Практично: коли робити аудіометрію після 45, порогові значення dB, критерії якісних апаратів, орієнтовна вартість в Україні, компенсації МОЗ.",
+      "sources_hint": "Lin et al. Lancet ACHIEVE 2023, WHO World Report on Hearing 2021, JAMA Otolaryngology 2024-2026, Livingston Lancet Commission dementia",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Як нагодувати перебірливу дитину: 6 доказових технік від дитячих дієтологів (не за принципом 'їж, поки не з'їси')",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Метод Еллін Саттер 'division of responsibility', експозиційна терапія (8-15 разів), family-style serving. Що НЕ працює: тиск, підкуп десертом, приховування овочів у пюре (Fildes 2015). Практичні рецепти для дитини 3-7 років.",
+      "sources_hint": "Satter Institute research, Fildes et al. American Journal of Clinical Nutrition 2015-2024, ARFID guidelines, Ellyn Satter DOR meta-analyses",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Йога проти тривоги: мета-аналіз JAMA Psychiatry показав ефект, порівнянний з СІЗЗС при легкій-помірній тривозі",
+      "type": "fitness",
+      "category": "mental-health",
+      "angle": "Розбір мета-аналізу 2025-2026 щодо йоги при генералізованій тривозі. Порівняння Кундаліні, Хатха, дихальних практик. Дозування (2-3 сесії/тиждень, 45-60 хв), тривалість до ефекту (~8 тижнів). Що це НЕ замінює психотерапії при клінічній тривозі.",
+      "sources_hint": "JAMA Psychiatry Simon et al. Kundalini yoga GAD, Cochrane yoga anxiety 2024, PubMed 'yoga anxiety meta-analysis 2025'",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Фітнес-трекер розпізнав вагітність раніше за тест: що показують дані Oura, Fitbit і Apple Watch",
+      "type": "research",
+      "category": "biohacking",
+      "angle": "Історія з BBC як привід розібрати справжні дослідження: підвищення температури тіла, зниження ВСР і зміна пульсу спокою як ранні маркери. Що каже наука про надійність, коли варто вірити трекеру, а коли — тесту.",
+      "sources_hint": "Scientific Reports 2020 Oura pregnancy detection, npj Digital Medicine 2022-2025 wearables fertility, Yang et al. Nature Medicine 2024",
+      "evidence_level": "preliminary",
+      "priority": 3
+    },
+    {
+      "topic": "Кето-дієта для мозку: що нове дослідження Cell Metabolism 2026 показало про кетони і нейрозапалення",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Розбір свіжого дослідження про β-гідроксибутират як інгібітор NLRP3-інфламасоми в мікроглії. Обмеження — переважно на мишах, поодинокі RCT на людях (Alzheimer's MCI). Кому кето реально показане (епілепсія, glut1), а кому — маркетинговий шум.",
+      "sources_hint": "Cell Metabolism 2025-2026 ketones neuroinflammation, Newport/Cunnane MCT Alzheimer trials, PubMed 'ketogenic diet cognition RCT 2025'",
+      "evidence_level": "preliminary",
+      "priority": 3
+    }
+  ],
+  "date": "2026-07-23",
+  "created_at": "2026-07-23T03:03:03.685253+00:00"
+}

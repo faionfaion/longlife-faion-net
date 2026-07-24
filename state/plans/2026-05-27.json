@@ -1,0 +1,87 @@
+{
+  "articles": [
+    {
+      "topic": "Дифтерія повертається: чому Австралія зафіксувала першу смерть за десятиліття і що це означає для дорослих українців",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Прив'язка до свіжого заголовка BBC про першу смерть від дифтерії в Австралії під час найгіршого спалаху за десятиліття. Головний кут — згасання щепленого імунітету в дорослих: вакцина DTP захищає в дитинстві, але антитоксичний імунітет слабшає, тож потрібен бустер Td кожні ~10 років. Український контекст критичний: епідемія дифтерії 1990-х (десятки тисяч випадків, сотні смертей через провал ревакцинації після розпаду СРСР) і ризик повторення через прогалини у щепленні дорослих під час війни. Чесно: летальність токсичної форми 5–10%, антитоксин дефіцитний у світі. Не паніка, а заклик перевірити статус Td.",
+      "sources_hint": "BBC Health 'Australia confirms first diphtheria death'; WHO diphtheria fact sheet and immunological basis (waning immunity, 10-year Td/Tdap booster); ECDC diphtheria surveillance; historical Ukraine/NIS 1990s diphtheria epidemic data (Vitek & Wharton, Emerg Infect Dis 1998); Ukrainian ЦГЗ/МОЗ adult vaccination schedule",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Синдром відміни антидепресантів: що насправді показав мета-аналіз Lancet Psychiatry 2024 — і чому це не «залежність»",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Збалансований розбір гарячої теми. Мета-аналіз Henssler et al. (Lancet Psychiatry, 2024, 79 досліджень) показав, що симптоми відміни виникають приблизно в 1 з 3, але після поправки на плацебо безпосередньо з препаратом пов'язано ~15%, а важкі форми — близько 3%. Ключове розмежування: синдром відміни (короткочасний, минущий) ≠ рецидив депресії ≠ залежність. Чому раптове припинення небезпечніше за поступове зниження дози (tapering), і чому НЕ можна відміняти самостійно. Український контекст: зростання призначень СІЗЗС під час війни. Обов'язково — звернутися до лікаря.",
+      "sources_hint": "Henssler J et al., 'Incidence of antidepressant discontinuation symptoms: a systematic review and meta-analysis', Lancet Psychiatry 2024; Davies & Read 2019 review; Horowitz & Taylor 2019 (hyperbolic tapering); NICE depression guideline NG222 on stopping antidepressants",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Регулярність сну важливіша за його тривалість: що показало дослідження UK Biobank на 60 000 людей",
+      "type": "research",
+      "category": "sleep",
+      "angle": "Свіжий кут, який ще не висвітлювали: не «скільки годин», а «наскільки стабільно». Акселерометричне когортне дослідження Windred et al. (Sleep, 2024) показало, що Sleep Regularity Index прогнозує загальну смертність сильніше за тривалість сну (нерегулярні сплять — HR ~1,3–1,5). Пояснити, як рахується індекс, чому стабільний час відбою/підйому синхронізує циркадний ритм, і дати практичний протокол: фіксований час підйому навіть у вихідні (проти social jetlag). Чесно: дані спостережні, причинність не доведена. Розмежувати з попередніми статтями про тривалість/гігієну сну та сонну інерцію.",
+      "sources_hint": "Windred DP et al., 'Sleep regularity is a stronger predictor of mortality risk than sleep duration: A prospective cohort study', Sleep 2024 (UK Biobank, ~60,000 accelerometry); Sleep Regularity Index methodology (Phillips 2017, Scientific Reports); social jetlag (Wittmann 2006)",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Тест «сядь-встань» (sitting-rising test): чому здатність піднятися з підлоги без рук передбачає тривалість життя",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Простий 10-бальний тест на силу, гнучкість і баланс як дешевий маркер смертності. Нове велике дослідження Araújo et al. (European Journal of Preventive Cardiology, 2025; ~4000 дорослих 46–75 років, спостереження ~12 років) показало: низький бал SRT пов'язаний із кратно вищою природною та серцево-судинною смертністю — продовження пілота 2014 року. Дати інструкцію виконання та шкалу. Чесні застереження: спостережні дані, тест відображає composite-фітнес, а не магію; покращувати треба силу/мобільність загалом, не «тренувати тест». Розмежувати зі статтею про силу хвату як біомаркер.",
+      "sources_hint": "Araújo CG et al., sitting-rising test and mortality, European Journal of Preventive Cardiology 2025; original Brito LB et al. 2014 (Eur J Prev Cardiol); compare grip-strength PURE cohort framing",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "120 хвилин на природі на тиждень: «доза зелені», яку показало дослідження на 20 000 людей",
+      "type": "lifehack",
+      "category": "mental-health",
+      "angle": "Сезонний (кінець травня) практичний лайфхак із чіткою цифрою. Дослідження White et al. (Scientific Reports, 2019; ~20 000 учасників) виявило поріг ~120 хв/тиждень контакту з природою, пов'язаний із кращим самопочуттям і здоров'ям — менше не дає ефекту, а понад ~200–300 хв вигоди виходять на плато; неважливо, одним візитом чи кількома. Додати нюанс «forest bathing/шінрін-йоку» (огляди — малий-помірний ефект на стрес, низька якість). Чесно: дані поперечні, асоціація, не причинність; це доповнення, а не лікування. Практично: парк, річка, ліс — як набрати 120 хв у міському графіку.",
+      "sources_hint": "White MP et al., 'Spending at least 120 minutes a week in nature is associated with good health and wellbeing', Scientific Reports 2019; shinrin-yoku/forest bathing systematic reviews (Hansen 2017; Antonelli 2019 cortisol); green space and mental health umbrella reviews",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Скільки відпочивати між підходами: чому 2–3 хвилини, а не 60 секунд, дають більше м'язів",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Конкретна, недооцінена змінна силового тренування. Всупереч ідеї «короткий відпочинок = більше пампінгу й росту», RCT Schoenfeld et al. (J Strength Cond Res, 2016) показав більший приріст сили й гіпертрофії при 3-хв паузах проти 1-хв — бо довший відпочинок дозволяє утримати тренувальний об'єм і навантаження. Мета-аналіз Grgic 2018 узгоджується для сили. Нюанс: для метаболічної/витривалісної мети або браку часу короткі паузи прийнятні; суперсети економлять час із малою втратою. Практично: 2–3 хв для базових багатосуглобових, 1–1,5 хв для ізоляції. Розмежувати зі статтею про кількість підходів на тиждень.",
+      "sources_hint": "Schoenfeld BJ et al. 2016, 'Longer interset rest periods enhance muscle strength and hypertrophy', J Strength Cond Res; Grgic J et al. 2018 systematic review on rest interval and hypertrophy (Sports Med); de Salles 2009 review",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Магній у добавках: гліцинат, цитрат чи оксид — і для чого з цього є докази, а для чого ні",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Магній — вірусна «добавка від усього» (сон, тривога, судоми, м'язи). Розкласти за формами: біодоступність (цитрат/гліцинат > оксид), і за показаннями. Чесна доказова сітка: для нічних судом ніг Cochrane не підтверджує користь у дорослих; для сну — слабкі/попередні дані (Mah 2021 систематичний огляд: низька якість); для тривоги — попередні (Boyle 2017); реальна користь — лише при справжньому дефіциті та певних станах. RDA ~310–420 мг, харчові джерела (горіхи, бобові, цільні злаки) первинні. Безпека: оксид/проносний ефект, обережність при хворобах нирок. Розмежувати з раніше висвітленими адаптогенами й мелатоніном.",
+      "sources_hint": "Mah J & Pitre T 2021 systematic review (magnesium and sleep, BMC Complement Med); Cochrane review on magnesium for muscle cramps (Garrison 2020); Boyle NB 2017 (Nutrients, magnesium and subjective anxiety); EFSA/NIH ODS magnesium fact sheet and bioavailability by salt form",
+      "evidence_level": "preliminary",
+      "priority": 2
+    },
+    {
+      "topic": "Міф про «8 склянок води на день»: скільки рідини реально потрібно і коли надмір небезпечний",
+      "type": "guide",
+      "category": "nutrition",
+      "angle": "Сезонний (літня спека) доказовий розбір. Правило «8×8» не має наукового джерела; орієнтири адекватного споживання (EFSA ~2,0 л жінки / 2,5 л чоловіки, IOM ~2,7/3,7 л з УСІХ джерел, включно з їжею та чаєм/кавою — кофеїн у помірних дозах не зневоднює). Найкращі практичні маркери — спрага й колір сечі, а не рахунок склянок. Важливий блок безпеки: гіпонатріємія через надмірне пиття у бігунів/на витривалісних подіях (Almond, NEJM 2005) і ризик у людей із серцевою/нирковою недостатністю. Коли потреба зростає (спека, тренування, гарячка). Розмежувати з електролітами/натрієм.",
+      "sources_hint": "Valtin H 2002 ('Drink at least eight glasses of water a day. Really?', Am J Physiol); EFSA 2010 dietary reference values for water; US IOM 2005 water intake; Almond CS et al. NEJM 2005 (exercise-associated hyponatremia, Boston Marathon); coffee/caffeine hydration (Killer 2014, PLOS ONE)",
+      "evidence_level": "moderate",
+      "priority": 3
+    },
+    {
+      "topic": "Варіабельність серцевого ритму (HRV) у Oura та Whoop: що цей показник реально означає і чи можна його «прокачати»",
+      "type": "guide",
+      "category": "biohacking",
+      "angle": "HRV — модний показник «готовності» й «відновлення» у носимих гаджетах. Пояснити фізіологію (вагусний тонус, RMSSD), чому абсолютні значення між людьми не порівнюються, а має сенс лише власний тренд. Що піднімає HRV (аеробна база, сон, дихання повільне) і що тимчасово знижує (алкоголь, недосип, хвороба, інтенсивне тренування, стрес) — за даними Plews та оглядів HRV-guided тренувань (помірний приріст VO2max у малих RCT). Чесно: точність споживчих пристроїв вночі прийнятна, вдень шумна; не діагностичний інструмент. Уникати «HRV-тривоги» (паралель з ортосомнією). Розмежувати зі статтею про точність трекерів сну.",
+      "sources_hint": "Plews DJ et al. 2013 (training-load monitoring with HRV, Sports Med); Laborde 2017 (HRV methodology, Front Psychol); systematic reviews of HRV-guided training (Vesterinen 2016); validity of wrist/ring HRV vs ECG (Stone 2021, JMIR)",
+      "evidence_level": "preliminary",
+      "priority": 3
+    }
+  ],
+  "date": "2026-05-27",
+  "created_at": "2026-05-27T03:03:03.450152+00:00"
+}

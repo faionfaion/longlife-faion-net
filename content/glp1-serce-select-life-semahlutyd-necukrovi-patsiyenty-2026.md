@@ -1,0 +1,96 @@
+---
+title: "GLP-1 і серце після SELECT-LIFE: що показав довгостроковий follow-up семаглутиду у нецукрових пацієнтів"
+slug: "glp1-serce-select-life-semahlutyd-necukrovi-patsiyenty-2026"
+date: "2026-07-24"
+type: "research"
+lang: "ua"
+tags:
+  - "семаглутид"
+  - "GLP-1"
+  - "серцево-судинні захворювання"
+  - "SELECT"
+  - "тирзепатид"
+  - "ожиріння"
+  - "кардіологія"
+  - "дослідження"
+  - "Україна"
+description: "SELECT-LIFE: ефект семаглутиду зникає після відміни. Розбір ризиків, доступності в Україні та практичних кроків."
+author: "Віта Зеленко"
+source_urls:
+  - "https://www.nejm.org/doi/full/10.1056/NEJMoa2307563"
+  - "https://sciencehub.novonordisk.com/content/dam/sciencehub/global/en/congresses-and-scientific-publications/congresses/aha2025/lingvay/sliders/Lingvay_AHA25_SELECT-LIFE_poster_slides_Final.pdf"
+  - "https://clinicaltrials.gov/study/NCT04972721"
+  - "https://pubmed.ncbi.nlm.nih.gov/39608381/"
+  - "https://pubmed.ncbi.nlm.nih.gov/41433034/"
+  - "https://pubmed.ncbi.nlm.nih.gov/41406444/"
+  - "https://clinicaltrials.gov/study/NCT05556512"
+  - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12000858/"
+  - "https://www.nature.com/articles/s41366-026-02088-1"
+  - "https://bpspubs.onlinelibrary.wiley.com/doi/10.1111/bph.70355"
+  - "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11657653/"
+  - "https://unn.ua/en/news/ozempic-may-appear-in-ukrainian-pharmacies-by-the-end-of-may-and-the-release-of-wegovy-is-expected-next-year"
+  - "https://www.iqvia.com/locations/emea/blogs/2025/07/off-patent-semaglutide"
+source_names:
+  - "NEJM (SELECT, Lincoff 2023)"
+  - "Novo Nordisk Science Hub (SELECT-LIFE, AHA 2025)"
+  - "ClinicalTrials.gov NCT04972721"
+  - "Lancet Diabetes & Endocrinology (Badve 2025)"
+  - "JAMA Cardiology 2026"
+  - "NEJM (SURPASS-CVOT, Nicholls 2025)"
+  - "ClinicalTrials.gov NCT05556512 (SURMOUNT-MMO)"
+  - "PMC — real-world pancreatitis review"
+  - "International Journal of Obesity (meta-analysis 2026)"
+  - "British Journal of Pharmacology (Prokopidis 2026)"
+  - "PMC — NAION Danish cohort"
+  - "UNN (Ozempic Ukraine launch)"
+  - "IQVIA — off-patent semaglutide"
+image: ""
+tg_post: |
+  <b>SELECT-LIFE: захисний ефект семаглутиду для серця зникає разом із препаратом.</b>
+  
+  Через ~16 місяців після припинення терапії частота серцево-судинних подій у колишній «семаглутидній» групі вирівнялась із плацебо, а вага частково повернулась (AHA 2025). Висновок дослідників: GLP-1 для серця — це не курс, а хронічна терапія, як статини, а не як антибіотик.
+  
+  <a href="https://longlife.faion.net/glp1-serce-select-life-semahlutyd-necukrovi-patsiyenty-2026/">Читати повністю →</a>
+  
+  <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
+---
+
+Привіт! Є свіжі дані з лабораторій — і вони змушують переосмислити, як ми говоримо про семаглутид для серця. 🔬
+
+У листопаді 2025 року на конференції Американської кардіологічної асоціації представили результати SELECT-LIFE — спостережного продовження великого дослідження SELECT, у якому семаглутид знижував ризик серцево-судинних подій на 20% у людей з ожирінням і ССЗ без діабету ([SELECT, NEJM 2023](https://www.nejm.org/doi/full/10.1056/NEJMoa2307563)). Ми детально розбирали первинні результати у [квітневій статті про SELECT](https://longlife.faion.net/glp-1-semaglutide-heart-disease-select-trial/).
+
+SELECT-LIFE спостерігав тих самих учасників у середньому близько 16 місяців після припинення прийому препарату (за постерними даними AHA 2025 — уточнені цифри чекаємо у peer-reviewed публікації). Головний висновок: **захисний ефект зникає разом із препаратом**. Частота серцево-судинних подій між колишньою «семаглутидною» і плацебо-групами вирівнялась, а вага частково повернулась ([Novo Nordisk Science Hub, AHA 2025](https://sciencehub.novonordisk.com/content/dam/sciencehub/global/en/congresses-and-scientific-publications/congresses/aha2025/lingvay/sliders/Lingvay_AHA25_SELECT-LIFE_poster_slides_Final.pdf); [ClinicalTrials.gov NCT04972721](https://clinicaltrials.gov/study/NCT04972721)).
+
+Це не «курс» на пів року, як антибіотик — це хронічна терапія, як статини. Ми вже писали про цю логіку у [матеріалі про орфорглипрон](https://longlife.faion.net/orforglipron-tabletka-utrymannia-vahy-pislia-ozempic-attain-maintain-2026/).
+
+> ⚕️ **Важливо:** ця стаття — оглядова, не заміна консультації з лікарем. Будь-які рішення про початок, продовження чи припинення GLP-1-терапії ухвалюйте разом із кардіологом або ендокринологом, який знає твою історію.
+
+## Що ще додалось за 2025–2026
+
+**Мета-аналіз The Lancet Diabetes & Endocrinology (січень 2025)** — 11 РКД (рандомізованих контрольованих досліджень), 85 373 учасники. MACE (композитний показник великих серцево-судинних подій — інфаркт, інсульт, серцево-судинна смерть) — HR 0.86 при додаванні даних SELECT. Ниркові події — мінус 18%. Панкреатиту не побільшало ([Badve et al., Lancet D&E 2025](https://pubmed.ncbi.nlm.nih.gov/39608381/)).
+
+**JAMA Cardiology 2026** у вторинному (експлораторному) аналізі показав додатковий бонус: у групі семаглутиду було приблизно 18.3 vs 20.4 госпіталізацій на 100 пацієнто-років — близько 10% менше. Це не первинна кінцева точка, тож ставитись до цифри варто як до гіпотези, яку ще треба підтвердити ([JAMA Cardiol 2026](https://pubmed.ncbi.nlm.nih.gov/41433034/)).
+
+**А що з тирзепатидом?** У грудні 2025 NEJM опублікував SURPASS-CVOT — 13 299 пацієнтів із діабетом і ССЗ. Тирзепатид виявився не гіршим за дулаглутид (HR 0.92), але **не показав переваги** (p=0.09) ([Nicholls et al., NEJM 2025](https://pubmed.ncbi.nlm.nih.gov/41406444/)). Для нецукрових пацієнтів із ССЗ дані по тирзепатиду ще збирають — SURMOUNT-MMO очікуємо у жовтні 2027 ([NCT05556512](https://clinicaltrials.gov/study/NCT05556512)).
+
+## Ризики, про які варто говорити чесно
+
+**Панкреатит** (запалення підшлункової залози). У РКД сигналу немає (RR 0.95), але спостережні дослідження показують вищі абсолютні цифри — 4–8 випадків на 1000 пацієнто-років ([PMC12000858](https://pmc.ncbi.nlm.nih.gov/articles/PMC12000858/)). Ймовірно, це confounding (спотворення через супутні фактори) — тим, хто отримує GLP-1, зазвичай і без нього більше факторів ризику.
+
+**Саркопенія** (втрата м'язової маси). Мета-аналіз 22 РКД: близько 25% втраченої ваги — це м'язи ([Int J Obesity 2026](https://www.nature.com/articles/s41366-026-02088-1)). Сила хвату при цьому статистично зберігається, але потрібен прямий моніторинг ([Prokopidis, Br J Pharmacol 2026](https://bpspubs.onlinelibrary.wiley.com/doi/10.1111/bph.70355)). Особливо це важливо для людей після 60. Про роль сили хвату для довголіття ми писали [окремо](https://longlife.faion.net/grip-strength-health-marker-longevity-uk-biobank/).
+
+**NAION** (передня ішемічна нейропатія зорового нерва — рідкісне порушення кровопостачання зорового нерва). Данська когорта (424 152 пацієнти з ЦД2) показала подвоєння 5-річного ризику ([PMC 2024](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11657653/)). Важливий контекст: базова частота NAION у популяції — приблизно 2–10 випадків на 100 000 людей на рік, тож навіть подвоєння відносного ризику залишає абсолютний ризик низьким. Але якщо у тебе вже є проблеми із зором або діагностована оптична нейропатія — це аргумент обговорити альтернативи.
+
+## Хто в Україні реально може претендувати
+
+Тут неприємна правда. У травні 2026 Novo Nordisk офіційно запустив Ozempic в українських аптеках ([UNN, травень 2026](https://unn.ua/en/news/ozempic-may-appear-in-ukrainian-pharmacies-by-the-end-of-may-and-the-release-of-wegovy-is-expected-next-year)). Але зареєстрований лише як препарат від діабету у дозах 0.5 і 1 мг. **Wegovy 2.4 мг — саме та доза, яку тестували у SELECT — очікується в Україні лише у 2027 році.**
+
+Тобто нецукровий пацієнт із ССЗ технічно не може легально отримати «SELECT-дозу» в Україні прямо зараз. Можливий вихід — генерики семаглутиду після спливу патентів ([IQVIA, липень 2025](https://www.iqvia.com/locations/emea/blogs/2025/07/off-patent-semaglutide)).
+
+## Що можна зробити вже сьогодні:
+
+1. **Не сприймай GLP-1 як «курс».** SELECT-LIFE чітко показує: припинив — ефект зник. Це рішення на роки.
+2. **Якщо приймаєш — додай силові тренування** 2 рази на тиждень і 1.2–1.6 г білка на кг ваги. Це базовий захист від саркопенії за даними літератури з профілактики втрати м'язової маси ([Prokopidis, Br J Pharmacol 2026](https://bpspubs.onlinelibrary.wiley.com/doi/10.1111/bph.70355); [калістеніка як опція](https://longlife.faion.net/calisthenics-vs-weights-syla-bez-sportzalu/)). ⚠️ Якщо у тебе хронічна хвороба нирок (ХХН/CKD), норма білка має бути нижчою і підбирається індивідуально з нефрологом — універсальні цифри тут не працюють.
+3. **Обговори з кардіологом** індивідуальний баланс користі та ризиків — особливо якщо в анамнезі був панкреатит, є проблеми із зором або хронічна хвороба нирок.
+
+Ще раз наголошу: ця стаття не замінює медичну консультацію. Хоча дані обнадійливі, семаглутид — не чарівна пігулка проти ССЗ. Це серйозний інструмент із серйозними умовами використання. 💪

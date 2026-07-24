@@ -1,0 +1,356 @@
+{
+  "timestamp": "2026-05-24_050628",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "raptova-sertseva-smert-molodi-ekg-skryninh-sportsmeniv-hkmp, seredzemnomorska-diieta-2026-predimed-dokazova-baza, bil-u-popereku-mrt-postilnyi-rezhym-rukh-lancet-gaydlayny, roztyazhka-pered-trenuvannyam-travmy-sylovi-dynamichna-rozminka, sauna-sertse-dovholittia-finski-kohorty-mezha-koryst-ryzyk",
+  "author": "LongLife Media",
+  "duration_s": 7405.2,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 345.5,
+      "error": null
+    },
+    {
+      "name": "research:Раптова серцева смерть у молод",
+      "status": "ok",
+      "duration_s": 242.6,
+      "error": null
+    },
+    {
+      "name": "generate:Раптова серцева смерть у молод",
+      "status": "ok",
+      "duration_s": 100.6,
+      "error": null
+    },
+    {
+      "name": "review:Раптова серцева смерть у молод",
+      "status": "ok",
+      "duration_s": 210.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Раптова серцева смерть у молод",
+      "status": "ok",
+      "duration_s": 20.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Раптова серцева смерть у молод",
+      "status": "ok",
+      "duration_s": 10.9,
+      "error": null
+    },
+    {
+      "name": "save:Раптова серцева смерть у молод",
+      "status": "ok",
+      "duration_s": 290.3,
+      "error": null
+    },
+    {
+      "name": "research:Середземноморська дієта у 2026",
+      "status": "ok",
+      "duration_s": 219.3,
+      "error": null
+    },
+    {
+      "name": "generate:Середземноморська дієта у 2026",
+      "status": "ok",
+      "duration_s": 104.5,
+      "error": null
+    },
+    {
+      "name": "review:Середземноморська дієта у 2026",
+      "status": "ok",
+      "duration_s": 208.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Середземноморська дієта у 2026",
+      "status": "ok",
+      "duration_s": 22.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Середземноморська дієта у 2026",
+      "status": "ok",
+      "duration_s": 10.1,
+      "error": null
+    },
+    {
+      "name": "save:Середземноморська дієта у 2026",
+      "status": "ok",
+      "duration_s": 347.2,
+      "error": null
+    },
+    {
+      "name": "research:Біль у попереку: чому МРТ і по",
+      "status": "ok",
+      "duration_s": 163.8,
+      "error": null
+    },
+    {
+      "name": "generate:Біль у попереку: чому МРТ і по",
+      "status": "ok",
+      "duration_s": 148.5,
+      "error": null
+    },
+    {
+      "name": "review:Біль у попереку: чому МРТ і по",
+      "status": "ok",
+      "duration_s": 158.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Біль у попереку: чому МРТ і по",
+      "status": "ok",
+      "duration_s": 25.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Біль у попереку: чому МРТ і по",
+      "status": "ok",
+      "duration_s": 10.0,
+      "error": null
+    },
+    {
+      "name": "save:Біль у попереку: чому МРТ і по",
+      "status": "ok",
+      "duration_s": 227.4,
+      "error": null
+    },
+    {
+      "name": "research:Розтяжка перед тренуванням не ",
+      "status": "ok",
+      "duration_s": 202.4,
+      "error": null
+    },
+    {
+      "name": "generate:Розтяжка перед тренуванням не ",
+      "status": "ok",
+      "duration_s": 93.2,
+      "error": null
+    },
+    {
+      "name": "review:Розтяжка перед тренуванням не ",
+      "status": "ok",
+      "duration_s": 254.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Розтяжка перед тренуванням не ",
+      "status": "ok",
+      "duration_s": 16.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Розтяжка перед тренуванням не ",
+      "status": "ok",
+      "duration_s": 14.7,
+      "error": null
+    },
+    {
+      "name": "save:Розтяжка перед тренуванням не ",
+      "status": "ok",
+      "duration_s": 366.1,
+      "error": null
+    },
+    {
+      "name": "research:Сауна для серця і довголіття: ",
+      "status": "ok",
+      "duration_s": 156.8,
+      "error": null
+    },
+    {
+      "name": "generate:Сауна для серця і довголіття: ",
+      "status": "ok",
+      "duration_s": 168.5,
+      "error": null
+    },
+    {
+      "name": "review:Сауна для серця і довголіття: ",
+      "status": "ok",
+      "duration_s": 196.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Сауна для серця і довголіття: ",
+      "status": "ok",
+      "duration_s": 22.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Сауна для серця і довголіття: ",
+      "status": "ok",
+      "duration_s": 9.5,
+      "error": null
+    },
+    {
+      "name": "save:Сауна для серця і довголіття: ",
+      "status": "ok",
+      "duration_s": 363.7,
+      "error": null
+    },
+    {
+      "name": "research:Застосунки для медитації (Head",
+      "status": "ok",
+      "duration_s": 222.8,
+      "error": null
+    },
+    {
+      "name": "generate:Застосунки для медитації (Head",
+      "status": "ok",
+      "duration_s": 101.2,
+      "error": null
+    },
+    {
+      "name": "review:Застосунки для медитації (Head",
+      "status": "ok",
+      "duration_s": 168.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Застосунки для медитації (Head",
+      "status": "ok",
+      "duration_s": 20.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Застосунки для медитації (Head",
+      "status": "ok",
+      "duration_s": 9.2,
+      "error": null
+    },
+    {
+      "name": "save:Застосунки для медитації (Head",
+      "status": "ok",
+      "duration_s": 342.7,
+      "error": null
+    },
+    {
+      "name": "research:Окуляри з фільтром синього сві",
+      "status": "ok",
+      "duration_s": 147.9,
+      "error": null
+    },
+    {
+      "name": "generate:Окуляри з фільтром синього сві",
+      "status": "ok",
+      "duration_s": 79.2,
+      "error": null
+    },
+    {
+      "name": "review:Окуляри з фільтром синього сві",
+      "status": "ok",
+      "duration_s": 189.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Окуляри з фільтром синього сві",
+      "status": "ok",
+      "duration_s": 16.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Окуляри з фільтром синього сві",
+      "status": "ok",
+      "duration_s": 10.2,
+      "error": null
+    },
+    {
+      "name": "save:Окуляри з фільтром синього сві",
+      "status": "ok",
+      "duration_s": 148.7,
+      "error": null
+    },
+    {
+      "name": "research:Обважнені ковдри для сну і три",
+      "status": "ok",
+      "duration_s": 228.6,
+      "error": null
+    },
+    {
+      "name": "generate:Обважнені ковдри для сну і три",
+      "status": "ok",
+      "duration_s": 97.0,
+      "error": null
+    },
+    {
+      "name": "review:Обважнені ковдри для сну і три",
+      "status": "ok",
+      "duration_s": 206.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Обважнені ковдри для сну і три",
+      "status": "ok",
+      "duration_s": 14.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Обважнені ковдри для сну і три",
+      "status": "ok",
+      "duration_s": 9.8,
+      "error": null
+    },
+    {
+      "name": "save:Обважнені ковдри для сну і три",
+      "status": "ok",
+      "duration_s": 102.6,
+      "error": null
+    },
+    {
+      "name": "research:Теломери і старіння: чи можна ",
+      "status": "ok",
+      "duration_s": 182.1,
+      "error": null
+    },
+    {
+      "name": "generate:Теломери і старіння: чи можна ",
+      "status": "ok",
+      "duration_s": 72.8,
+      "error": null
+    },
+    {
+      "name": "review:Теломери і старіння: чи можна ",
+      "status": "ok",
+      "duration_s": 167.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Теломери і старіння: чи можна ",
+      "status": "ok",
+      "duration_s": 19.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Теломери і старіння: чи можна ",
+      "status": "ok",
+      "duration_s": 12.4,
+      "error": null
+    },
+    {
+      "name": "save:Теломери і старіння: чи можна ",
+      "status": "ok",
+      "duration_s": 100.6,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.2,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

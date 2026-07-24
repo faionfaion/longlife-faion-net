@@ -1,0 +1,96 @@
+{
+  "articles": [
+    {
+      "topic": "Скринінг раку простати лише для груп ризику: що нового сказала рекомендація NHS і де докази PSA",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "News-peg: NHS оголосила про таргетований PSA-скринінг для 'кількох тисяч' чоловіків високого ризику (BRCA2, чорношкірі, сімейний анамнез). Розбір доказової бази: ERSPC (NEJM 2009, 2019 — 20% зниження смертності з ARR ~0.11%), PLCO (зашумлене контамінацією), CAP RCT (JAMA 2018 — нуль ефекту за 10 років), USPSTF 2018 Grade C для 55-69. MRI-перший підхід (PROMIS 2017, PRECISION 2018) і BRCA2 ризик. Український контекст: PSA доступний у лабораторіях ~200-400 грн, але немає національної програми. Червоні прапорці й коли обговорювати з урологом після 50 (45 для груп ризику).",
+      "sources_hint": "BBC 'Prostate cancer screening only for a few thousand high risk men'; ERSPC Schröder NEJM 2019; CAP trial Martin JAMA 2018; USPSTF 2018 prostate; NICE NG131; IMPACT study BRCA",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "П'ятничний алкоголь і вихідні: що показав мета-аналіз 2023 про 'безпечну дозу' і скасування J-кривої",
+      "type": "research",
+      "category": "longevity",
+      "angle": "П'ятниця — релевантний день. Свіжий мета-аналіз Zhao et al. JAMA Network Open 2023 (107 досліджень, 4.8 млн осіб) показав, що раніше виявлений захисний ефект 'помірного' алкоголю зникає після поправки на колишніх п'яниць (sick-quitter bias) і характеристики способу життя. Anderson Lancet Public Health 2023 — будь-який рівень підвищує ризик 7 видів раку. WHO 2023: 'no safe level'. Контраст із UK Biobank даними про серце. Український контекст: ВООЗ Україна 8.6 л чистого алкоголю/рік. Практично: 'binge drinking' на вихідних шкідливіший за рівномірний розподіл; рекомендації Канади CCSA 2023 ≤2 порції/тиждень.",
+      "sources_hint": "Zhao JAMA Network Open 2023 alcohol mortality meta-analysis; Anderson Lancet Public Health 2023 cancer; WHO 2023 'no safe level' statement; CCSA Canada 2023 guidance; GBD 2018 Lancet",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Страйк лікарів-ординаторів в Англії: що дані кажуть про вплив страйків медиків на смертність і відтерміновану допомогу",
+      "type": "research",
+      "category": "research",
+      "angle": "News-pegged розбір 16-го страйку resident doctors NHS: систематичні огляди впливу страйків лікарів на смертність (Cunningham 2008 — переважно без зростання смертності, навіть зниження для планової хірургії; Metcalfe 2015 BMJ Open — нейтральний ефект); довгі черги NHS і RTT-цілі; контраст із Південною Кореєю 2024 (Lee et al. 2025) де тривалий страйк не змінив 30-денну смертність, але збільшив затримки в онкології. Український кут: уроки для системи з обмеженими ресурсами під час війни — як пацієнтам пріоритизувати звернення.",
+      "sources_hint": "PubMed: 'physician strike mortality systematic review' Cunningham 2008 Soc Sci Med; Metcalfe BMJ Open 2015; Lee 2025 Korea strike; BBC News 'Resident doctors England 16th strike'; BMA pay dispute timeline",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Семаглутид і м'язова маса: що насправді показав sub-аналіз STEP-1 і чи можна її зберегти силовими",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Свіже sub-аналіз STEP-1 і дослідження з силовими тренуваннями під час семаглутиду: до 25-40% втрати ваги на GLP-1 — це знежирена маса (Wilding NEJM 2021). RCT 2024 Sandsdal Lancet eClinicalMedicine — комбінація вправ зберегла знежирену масу. Контраст із попередньою статтею про SURMOUNT-5 (2026-05-26): фокус не на вазі, а на саркопенічному ризику в літніх. Практично: білок 1.6 г/кг + 2-3 силові на тиждень як обов'язковий додаток до GLP-1.",
+      "sources_hint": "Sandsdal eClinicalMedicine 2024 semaglutide exercise; Wilding STEP-1 NEJM 2021 body composition; Jensen 2024 GLP-1 muscle loss review; ADA 2024 guidance on GLP-1 + resistance training",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Розумова втома у п'ятницю ввечері: що показала нейровізуалізація про накопичення глутамату в префронтальній корі",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Wiehler et al. Current Biology 2022 — після тривалої когнітивної роботи в латеральній префронтальній корі накопичується глутамат (МРС-спектроскопія), що пояснює суб'єктивне відчуття 'вигорілого мозку' й зсув до меншзатратних рішень. Нове: Müller et al. 2024 — підтвердження зв'язку метаболізму з контролем зусиль. Чому це не те саме, що просто 'втома'. Практичні висновки: справжній відпочинок (сон, природа), а не пасивний скролінг; чому 'one more task' у п'ятницю погіршує якість рішень. Без хайпу — це механістичні дані, не клінічна рекомендація.",
+      "sources_hint": "Wiehler Current Biology 2022 cognitive fatigue glutamate; Müller 2024 follow-up; Boksem 2008 mental fatigue review; Pessiglione cognitive effort",
+      "evidence_level": "preliminary",
+      "priority": 2
+    },
+    {
+      "topic": "Вечеря пізно ввечері і здоров'я: що показало RCT з ізокалорійним зсувом на 4 години (Vujović Cell Metab 2022)",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Свіжий кут на time-restricted eating: не про вікно, а про час останнього прийому їжі. Vujović Cell Metabolism 2022 (n=16, кросовер) — їжа зі зсувом на 4 год пізніше підвищувала голод, знижувала добові витрати енергії на ~5%, змінювала експресію ліполізних генів. McHill AJCN 2017 — пізніша калорійна нагрузка пов'язана з вищим % жиру. Контраст з 'час не має значення, лише калорії' позицією. Однак: малі вибірки, переважно чоловіки, метаболічна камера. Українська реальність — пізня вечеря після роботи. Практично: за можливості зміщувати головний прийом на день; останній прийом за 2-3 год до сну (узгоджено з нашою статтею про сон).",
+      "sources_hint": "Vujović Cell Metabolism 2022 late eating energy expenditure; McHill AJCN 2017 meal timing; Allison Obesity 2014 late dinner; Garaulet IJO 2013 late lunch weight loss",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Soreness не дорівнює росту м'язів: що каже наука про DOMS як маркер тренувального стимулу",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Поширений міф: 'якщо не болить — не росте'. Розбір: Damas et al. Sports Medicine 2018 — м'язовий ріст не корелює з DOMS, кореляція ослабла після першої адаптації. Schoenfeld & Contreras Strength Cond J 2013 — DOMS поганий проксі для гіпертрофії. Mechanistic: DOMS — переважно нейрозапальний ноцицептивний сигнал, не маркер мікротравм у пропорції до стимулу (Mizumura 2016). Тренованим людям DOMS зникає при стабільному прогресі. Практично: орієнтуватися на прогресивне перевантаження (повторення, вагу), а не біль; для початківців нормально, але не ціль. Крос-лінк на статті про обсяг (підходи/тиждень) і відпочинок.",
+      "sources_hint": "Damas Sports Medicine 2018 DOMS hypertrophy; Schoenfeld Strength Cond J 2013; Mizumura J Physiol Sci 2016 DOMS mechanism; Nosaka 2002 repeated bout effect",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Сонячні очі і UV: чому варто носити сонцезахисні окуляри з категорією 3 — пік сезону травень-серпень",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Seasonal (кінець травня, високий UV-індекс в Україні). Net-new topic. Кумулятивний UV пов'язаний з катарактою (Roberts 2011 review, WHO 2012 — до 20% катаракт пов'язані з UV), птеригіум, фотокератит, можливо AMD (менш певний зв'язок). EN ISO 12312-1 категорії 0-4; для України з травня по серпень потрібна категорія 2-3. Міфи: темні скельця без UV-фільтра гірші за відсутність окулярів (зіниця розширюється). Дитячі очі пропускають більше UV до 18 років. Поляризація ≠ UV-захист. Практично: маркування CE/UV400, ширші оправи, головний убір додатково; категорія 4 — лише для гір/снігу, не для водіння. Крос-лінк на статтю про меланому і SPF.",
+      "sources_hint": "WHO 2012 'Global burden of disease from solar UV radiation'; Roberts 2011 Eye and Contact Lens UV cataract; AOA guidelines; AAO sunglasses; EN ISO 12312-1; Yam & Kwok 2014 UV ocular damage review",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Дитячий розлад харчової поведінки ARFID: коли 'перебірливість' — це вже діагноз, а не каприз",
+      "type": "guide",
+      "category": "mental-health",
+      "angle": "Net-new topic. ARFID (Avoidant/Restrictive Food Intake Disorder) — окремий діагноз у DSM-5 (2013) і ICD-11 (6B83), відрізняється від анорексії відсутністю занепокоєння формою тіла. Поширеність 0.3-3.2% (Hay 2017 Aust NZ J Psychiatry), частіше в дітей з аутизмом і ГРДУ. Тригери: сенсорна чутливість, страх блювання після епізоду, низький інтерес до їжі. Скринінг NIAS (Zickgraf 2018) і PARDI. Доказове лікування: CBT-AR (Thomas & Eddy 2019), сімейна терапія, мультидисциплінарна команда. Червоні прапорці: дефіцит ваги, нутритивні дефіцити (залізо, цинк, вітамін D), соціальна ізоляція. Український контекст: обмежений доступ до спеціалістів, дит-психіатри. Коли до лікаря.",
+      "sources_hint": "DSM-5 ARFID criteria; Thomas & Eddy 2019 CBT-AR; Zickgraf 2018 NIAS; Bourne 2022 ARFID review Curr Opin Psychiatry; Hay 2017 epidemiology",
+      "evidence_level": "moderate",
+      "priority": 3
+    },
+    {
+      "topic": "Парилка vs фінська сауна: чи дає вологе тепло такі ж серцево-судинні бонуси — обмежені докази",
+      "type": "lifehack",
+      "category": "biohacking",
+      "angle": "Fresh angle: попередня стаття 24 травня була про фінську суху сауну (KIHD-когорти Лаукканена). Тут — парилка/хамам (humid heat) як окрема модальність. Pizzey 2021 (Experimental Physiology) — humid heat дає схожі гострі гемодинамічні ефекти, але потовиділення менш ефективне. Українська лазня з парилкою — культурна реальність, але доказів довгострокової користі майже нема (немає когорт як KIHD). Безпека: вищий ризик гіпертермії при вологості >70%, особливо для літніх, гіпертоніків, при алкоголі. Підвищений ризик аритмій при різких контрастах. Практично: 8-12 хв, 2-3 заходи, гідратація, без алкоголю. Крос-лінк на статтю про сауну від 2026-05-24 і холодне занурення від 2026-05-25.",
+      "sources_hint": "Pizzey 2021 Experimental Physiology humid vs dry heat; Laukkanen JAMA Intern Med 2015 (для контрасту); Hannuksela & Ellahham 2001 sauna review; Patrick & Johnson Experimental Gerontology 2021 heat therapy",
+      "evidence_level": "preliminary",
+      "priority": 3
+    }
+  ],
+  "date": "2026-05-29",
+  "created_at": "2026-05-29T03:03:03.532278+00:00"
+}

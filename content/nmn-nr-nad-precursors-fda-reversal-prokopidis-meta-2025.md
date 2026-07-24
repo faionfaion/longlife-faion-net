@@ -1,0 +1,112 @@
+---
+title: "NMN і NR через рік: що змінилося — FDA розвернулася, мета-аналіз 2025 не побачив користі для м'язів"
+slug: "nmn-nr-nad-precursors-fda-reversal-prokopidis-meta-2025"
+date: "2026-05-28"
+type: "research"
+lang: "ua"
+tags:
+  - "довголіття"
+  - "NAD+"
+  - "NMN"
+  - "NR"
+  - "добавки"
+  - "старіння"
+  - "дослідження"
+  - "FDA"
+  - "м'язи"
+  - "біохакінг"
+description: "NMN і NR у 2025: новий мета-аналіз, рішення FDA та що це означає для тебе"
+author: "Віта Зеленко"
+source_urls:
+  - "https://pmc.ncbi.nlm.nih.gov/articles/PMC8550608/"
+  - "https://www.science.org/doi/10.1126/science.abj1696"
+  - "https://www.nature.com/articles/s41467-018-03421-7"
+  - "https://www.nature.com/articles/s41598-019-46120-z"
+  - "https://pmc.ncbi.nlm.nih.gov/articles/PMC7398770/"
+  - "https://pmc.ncbi.nlm.nih.gov/articles/PMC11176364/"
+  - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12022230/"
+  - "https://pmc.ncbi.nlm.nih.gov/articles/PMC10721522/"
+  - "https://pmc.ncbi.nlm.nih.gov/articles/PMC11195006/"
+  - "https://pmc.ncbi.nlm.nih.gov/articles/PMC10361580/"
+  - "https://www.nutraingredients.com/Article/2025/09/30/fda-declares-nmn-lawful-in-dietary-supplements/"
+  - "https://www.venable.com/insights/publications/2025/10/fda-declares-nicotinamide-mononucleotide-is"
+  - "https://www.npanational.org/news/fda-reinstates-nmn-as-dietary-supplement-after-npa-lawsuit/"
+  - "https://nautil.us/the-longevity-skeptic-305806"
+  - "https://kffhealthnews.org/aging/a-fountain-of-youth-pill-sure-if-youre-a-mouse/"
+source_names:
+  - "Yoshino et al. 2021, Science (PMC)"
+  - "Khan Comment on Yoshino, Science 2021"
+  - "Martens et al. 2018, Nature Communications"
+  - "Conze et al. 2019, Scientific Reports"
+  - "Remie et al. 2020, American Journal of Clinical Nutrition"
+  - "NICE Trial 2024, Nature Communications"
+  - "Prokopidis et al. 2025 meta-analysis, J Cachexia Sarcopenia Muscle"
+  - "Song et al. 2023 NMN review, Advances in Nutrition"
+  - "NAD+ precursor meta-regression 2024 (PMC)"
+  - "Science Advances 2023 — review of NR effects"
+  - "NutraIngredients — FDA NMN reversal 2025"
+  - "Venable LLP — FDA NMN legal analysis"
+  - "Natural Products Association — NMN lawsuit"
+  - "Nautilus Magazine — The Longevity Skeptic"
+  - "KFF Health News — Fountain of Youth Pill"
+image: "/images/nmn-nr-nad-precursors-fda-reversal-prokopidis-meta-2025.jpg"
+tg_post: |
+  <b>Мета-аналіз 2025 року: модні NAD+-добавки NMN і NR не дали приросту м'язової сили в людей.</b>
+  
+  NAD+ у крові справді зростає на 22–142% залежно від дози, але це лише сурогатний маркер — реальні клінічні ефекти виявилися скромними. У дослідженні Remie 2020 NR не покращив ані чутливості до інсуліну, ані мітохондріальної функції, ані тиску, а FDA США за рік двічі змінила позицію щодо NMN.
+  
+  <a href="https://longlife.faion.net/nmn-nr-nad-precursors-fda-reversal-prokopidis-meta-2025/">Читати повністю →</a>
+  
+  <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
+---
+
+Привіт! Рік тому ми вже розбирали NAD+-прекурсори — нікотинамід мононуклеотид (NMN) і нікотинамід рибозид (NR) — як одні з найбільш розрекламованих «молодильних» добавок ([наш попередній огляд](https://longlife.faion.net/telomery-starinnya-sposib-zhyttia-meta-analizy-2026/) на суміжну тему теж залишається актуальним). Відтоді сталися дві важливі речі: FDA США двічі змінила позицію щодо NMN, а у квітні 2025-го вийшов перший великий мета-аналіз, який поставив під сумнів «м'язовий» бонус. Розбираємось спокійно. 🔬
+
+> ⚕️ **Медичне застереження.** Це освітній матеріал, а не медична порада. Будь-які добавки, особливо за наявності хронічних захворювань, вагітності чи прийому ліків, обговорюй із лікарем.
+
+**Коротко про молекули.** NAD+ (нікотинамідаденіндинуклеотид) — це кофермент, який бере участь у виробництві енергії в клітині та роботі ферментів-сиртуїнів (білків, що регулюють «програми» старіння і відновлення ДНК). З віком його рівень у тканинах падає. Ідея проста: «долити» попередники (NMN або NR) — і нібито «обернути годинник» (саме так це формулює маркетинг). На мишах це часто працює. На людях — складніше.
+
+## Що показали РКД (рандомізовані контрольовані дослідження) на людях
+
+NAD+ у крові реально зростає — це підтвердили і [Conze 2019](https://www.nature.com/articles/s41598-019-46120-z) (140 учасників, +22–142% залежно від дози NR), і [Martens 2018](https://www.nature.com/articles/s41467-018-03421-7) (+60% при 1000 мг NR/добу). Але рівень NAD+ — це сурогатний маркер (проміжний показник, який легко виміряти, але який сам по собі не означає краще самопочуття чи довше життя).
+
+Клінічні ефекти виявилися значно скромнішими. У [Remie 2020 (*American Journal of Clinical Nutrition*)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7398770/) NR не покращив ані чутливості до інсуліну, ані мітохондріальної функції, ані тиску. Гучне дослідження [Yoshino 2021 у *Science*](https://pmc.ncbi.nlm.nih.gov/articles/PMC8550608/) показало невелике покращення м'язової чутливості до інсуліну в 13 жінок з предіабетом — але лише 10 тижнів і з [критикою щодо вихідних відмінностей між групами](https://www.science.org/doi/10.1126/science.abj1696).
+
+Єдина свіжа добра новина — [NICE trial 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11176364/): у пацієнтів із захворюванням периферичних артерій NR покращив 6-хвилинну дистанцію ходьби на +17,6 м проти плацебо. Важливі застереження: вибірка невелика (90 учасників), тривалість — лише 6 місяців, а сам приріст у ~17 м перебуває на межі мінімально клінічно значущої різниці (зазвичай оцінюють як 8–20 м для цієї популяції). Тобто результат обнадійливий, але потребує підтвердження у більших і триваліших дослідженнях, і стосується специфічної групи хворих, а не здорових людей.
+
+## Головна новина 2025-го: м'язи — мимо
+
+Мета-аналіз [Prokopidis та ін. у *Journal of Cachexia, Sarcopenia and Muscle*](https://pmc.ncbi.nlm.nih.gov/articles/PMC12022230/) (квітень 2025, 10 РКД, дорослі 60+ років) не виявив значущого впливу NMN/NR на м'язову масу, силу хвату чи швидкість ходьби. Висновок авторів: «наявні дані не підтверджують застосування NMN і NR для збереження м'язів у людей старше 60».
+
+Мета-регресія 2024 року (45 досліджень, 9256 учасників) додала тверезості: NAD+-прекурсори трохи [підвищували глюкозу натще і HbA1c (глікований гемоглобін — показник середнього рівня цукру за останні 2–3 місяці)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11195006/), знижували CRP (С-реактивний білок, маркер запалення), але без впливу на інсулін чи HOMA-IR (індекс інсулінорезистентності). Розмір ефекту для глюкози і HbA1c був невеликим і, ймовірно, на межі клінічної значущості — тобто статистично помітний на великій вибірці, але навряд чи відчутний для окремої людини. Втім, для людей із преддіабетом або діабетом це додатковий привід обговорити прийом з лікарем.
+
+## FDA-карусель: заборона, що стала дозволом
+
+У 2022-му FDA заявила, що NMN не може продаватися як добавка — бо його раніше досліджували як ліки (MetroBiotech, MIB-626). У вересні 2025-го після позову Natural Products Association FDA [розвернулася і визнала NMN законним як дієтична добавка](https://www.nutraingredients.com/Article/2025/09/30/fda-declares-nmn-lawful-in-dietary-supplements/) ([детальний юридичний розбір — Venable LLP](https://www.venable.com/insights/publications/2025/10/fda-declares-nicotinamide-mononucleotide-is)). Тобто популярна теза «FDA заборонила NMN» — вже застаріла.
+
+## Чому варто читати дрібний шрифт
+
+Майже всі ключові РКД фінансують виробники: ChromaDex стоїть за дослідженнями NR (Niagen), MetroBiotech — за NMN. Девід Сінклер, головний публічний амбасадор NAD+-наративу, [афілійований з десятками компаній у сфері довголіття (Nautilus, 2023)](https://nautil.us/the-longevity-skeptic-305806). Для тебе як читача це означає одне: коли той самий науковець одночасно продає добавку і просуває її у медіа, потрібно особливо критично оцінювати обіцянки і шукати незалежні підтвердження. Це не дискваліфікує дослідження, але пояснює, чому ентузіазм випереджає докази. Жодне РКД досі не виміряло вплив NMN чи NR на тривалість життя, частоту деменції чи серцеві події.
+
+## Що можна зробити вже сьогодні
+
+- **Не покладайся на NMN/NR як на «таблетку молодості»** — для людей у нас є докази підняття NAD+, але не подовження здорового життя.
+- **Інвестуй у те, що працює і теж піднімає NAD+:** регулярні аеробні навантаження ([наш гайд про VO₂max](https://longlife.faion.net/vo2max-predictor-longevity-cardiorespiratory-fitness/)), якісний сон, силові тренування, помірне обмеження калорій.
+- **Якщо все ж хочеш спробувати** — обговори з лікарем, особливо за наявності діабету, преддіабету чи прийому ліків. Сліпо орієнтуватися на маркетинг не варто.
+
+NAD+-прекурсори — це не шахрайство і не панацея. Це молода галузь з обнадійливою біологією, скромними клінічними даними і великими комерційними інтересами. Будемо стежити далі. 🌿
+
+---
+
+**Джерела:**
+- Conze D., et al. *Scientific Reports*, 2019 — РКД з NR, 140 учасників.
+- Martens C.R., et al. *Nature Communications*, 2018 — NR і NAD+ у здорових дорослих.
+- Remie C.M.E., et al. *American Journal of Clinical Nutrition*, 2020 — NR і метаболізм.
+- Yoshino M., et al. *Science*, 2021 — NMN у жінок з предіабетом.
+- NICE trial, *Nature Communications*, 2024 — NR при захворюванні периферичних артерій.
+- Prokopidis K., et al. *Journal of Cachexia, Sarcopenia and Muscle*, квітень 2025 — мета-аналіз м'язових ефектів.
+- Мета-регресія, 2024 — глюкоза, HbA1c, CRP, інсулін.
+- NutraIngredients / Venable LLP — юридичний статус NMN після рішення FDA 2025.
+- Nautilus, 2023 — про конфлікти інтересів Девіда Сінклера.
+
+**Теги:** #NAD #NMN #NR #NADprecursors #довголіття #добавки #старіння

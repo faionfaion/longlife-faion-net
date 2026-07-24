@@ -1,0 +1,392 @@
+{
+  "timestamp": "2026-07-22_134704",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "voz-14-faktoriv-ryzyku-dementsii-lancet-2024-profilaktyka, diabet-2-typu-zhinky-20-29-hba1c-tg-hdl-pcos-skryninh, fermentovani-produkty-vs-klitkovyna-stanford-sonnenburg-mikrobiom, rankove-sontse-10-khvylyn-tsyrkadnyi-rytm-protokol, zone-2-cardio-mitokhondriyi-san-millan-hiit-2025",
+  "author": "LongLife Media",
+  "duration_s": 5608.0,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 124.8,
+      "error": null
+    },
+    {
+      "name": "research:Нові рекомендації ВООЗ: до 45%",
+      "status": "ok",
+      "duration_s": 227.9,
+      "error": null
+    },
+    {
+      "name": "generate:Нові рекомендації ВООЗ: до 45%",
+      "status": "ok",
+      "duration_s": 84.0,
+      "error": null
+    },
+    {
+      "name": "review:Нові рекомендації ВООЗ: до 45%",
+      "status": "ok",
+      "duration_s": 102.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Нові рекомендації ВООЗ: до 45%",
+      "status": "ok",
+      "duration_s": 18.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Нові рекомендації ВООЗ: до 45%",
+      "status": "ok",
+      "duration_s": 9.9,
+      "error": null
+    },
+    {
+      "name": "save:Нові рекомендації ВООЗ: до 45%",
+      "status": "ok",
+      "duration_s": 325.9,
+      "error": null
+    },
+    {
+      "name": "research:Діабет 2 типу молодшає: чому ж",
+      "status": "ok",
+      "duration_s": 241.0,
+      "error": null
+    },
+    {
+      "name": "generate:Діабет 2 типу молодшає: чому ж",
+      "status": "ok",
+      "duration_s": 93.8,
+      "error": null
+    },
+    {
+      "name": "review:Діабет 2 типу молодшає: чому ж",
+      "status": "ok",
+      "duration_s": 109.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Діабет 2 типу молодшає: чому ж",
+      "status": "ok",
+      "duration_s": 18.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Діабет 2 типу молодшає: чому ж",
+      "status": "ok",
+      "duration_s": 11.5,
+      "error": null
+    },
+    {
+      "name": "save:Діабет 2 типу молодшає: чому ж",
+      "status": "ok",
+      "duration_s": 207.4,
+      "error": null
+    },
+    {
+      "name": "research:Ферментовані продукти проти кл",
+      "status": "ok",
+      "duration_s": 253.0,
+      "error": null
+    },
+    {
+      "name": "generate:Ферментовані продукти проти кл",
+      "status": "ok",
+      "duration_s": 75.9,
+      "error": null
+    },
+    {
+      "name": "review:Ферментовані продукти проти кл",
+      "status": "ok",
+      "duration_s": 103.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ферментовані продукти проти кл",
+      "status": "ok",
+      "duration_s": 17.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ферментовані продукти проти кл",
+      "status": "ok",
+      "duration_s": 8.9,
+      "error": null
+    },
+    {
+      "name": "save:Ферментовані продукти проти кл",
+      "status": "ok",
+      "duration_s": 16.1,
+      "error": null
+    },
+    {
+      "name": "research:Ранкове сонце проти вечірнього",
+      "status": "ok",
+      "duration_s": 163.2,
+      "error": null
+    },
+    {
+      "name": "generate:Ранкове сонце проти вечірнього",
+      "status": "ok",
+      "duration_s": 56.2,
+      "error": null
+    },
+    {
+      "name": "review:Ранкове сонце проти вечірнього",
+      "status": "ok",
+      "duration_s": 106.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ранкове сонце проти вечірнього",
+      "status": "ok",
+      "duration_s": 16.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ранкове сонце проти вечірнього",
+      "status": "ok",
+      "duration_s": 11.1,
+      "error": null
+    },
+    {
+      "name": "save:Ранкове сонце проти вечірнього",
+      "status": "ok",
+      "duration_s": 16.3,
+      "error": null
+    },
+    {
+      "name": "research:Зона 2 кардіо: чому повільний ",
+      "status": "ok",
+      "duration_s": 164.6,
+      "error": null
+    },
+    {
+      "name": "generate:Зона 2 кардіо: чому повільний ",
+      "status": "ok",
+      "duration_s": 72.4,
+      "error": null
+    },
+    {
+      "name": "review:Зона 2 кардіо: чому повільний ",
+      "status": "ok",
+      "duration_s": 104.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Зона 2 кардіо: чому повільний ",
+      "status": "ok",
+      "duration_s": 18.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Зона 2 кардіо: чому повільний ",
+      "status": "ok",
+      "duration_s": 9.1,
+      "error": null
+    },
+    {
+      "name": "save:Зона 2 кардіо: чому повільний ",
+      "status": "ok",
+      "duration_s": 16.3,
+      "error": null
+    },
+    {
+      "name": "research:Прокрастинація має 4 типи: як ",
+      "status": "ok",
+      "duration_s": 175.8,
+      "error": null
+    },
+    {
+      "name": "generate:Прокрастинація має 4 типи: як ",
+      "status": "ok",
+      "duration_s": 125.8,
+      "error": null
+    },
+    {
+      "name": "review:Прокрастинація має 4 типи: як ",
+      "status": "ok",
+      "duration_s": 138.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Прокрастинація має 4 типи: як ",
+      "status": "ok",
+      "duration_s": 19.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Прокрастинація має 4 типи: як ",
+      "status": "ok",
+      "duration_s": 9.6,
+      "error": null
+    },
+    {
+      "name": "save:Прокрастинація має 4 типи: як ",
+      "status": "ok",
+      "duration_s": 15.7,
+      "error": null
+    },
+    {
+      "name": "research:Креатин моногідрат для жінок 4",
+      "status": "ok",
+      "duration_s": 199.0,
+      "error": null
+    },
+    {
+      "name": "generate:Креатин моногідрат для жінок 4",
+      "status": "ok",
+      "duration_s": 77.7,
+      "error": null
+    },
+    {
+      "name": "review:Креатин моногідрат для жінок 4",
+      "status": "ok",
+      "duration_s": 102.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Креатин моногідрат для жінок 4",
+      "status": "ok",
+      "duration_s": 21.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Креатин моногідрат для жінок 4",
+      "status": "ok",
+      "duration_s": 11.6,
+      "error": null
+    },
+    {
+      "name": "save:Креатин моногідрат для жінок 4",
+      "status": "ok",
+      "duration_s": 16.9,
+      "error": null
+    },
+    {
+      "name": "research:Магній гліцинат проти цитрату ",
+      "status": "ok",
+      "duration_s": 214.6,
+      "error": null
+    },
+    {
+      "name": "generate:Магній гліцинат проти цитрату ",
+      "status": "ok",
+      "duration_s": 126.9,
+      "error": null
+    },
+    {
+      "name": "review:Магній гліцинат проти цитрату ",
+      "status": "ok",
+      "duration_s": 155.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Магній гліцинат проти цитрату ",
+      "status": "ok",
+      "duration_s": 21.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Магній гліцинат проти цитрату ",
+      "status": "ok",
+      "duration_s": 10.3,
+      "error": null
+    },
+    {
+      "name": "save:Магній гліцинат проти цитрату ",
+      "status": "ok",
+      "duration_s": 18.3,
+      "error": null
+    },
+    {
+      "name": "research:Середа — середина тижня: 15-хв",
+      "status": "ok",
+      "duration_s": 276.2,
+      "error": null
+    },
+    {
+      "name": "generate:Середа — середина тижня: 15-хв",
+      "status": "ok",
+      "duration_s": 59.5,
+      "error": null
+    },
+    {
+      "name": "review:Середа — середина тижня: 15-хв",
+      "status": "ok",
+      "duration_s": 77.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Середа — середина тижня: 15-хв",
+      "status": "ok",
+      "duration_s": 18.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Середа — середина тижня: 15-хв",
+      "status": "ok",
+      "duration_s": 10.4,
+      "error": null
+    },
+    {
+      "name": "save:Середа — середина тижня: 15-хв",
+      "status": "ok",
+      "duration_s": 16.7,
+      "error": null
+    },
+    {
+      "name": "research:Холодний душ 2 хвилини щоранку",
+      "status": "ok",
+      "duration_s": 514.2,
+      "error": null
+    },
+    {
+      "name": "generate:Холодний душ 2 хвилини щоранку",
+      "status": "ok",
+      "duration_s": 82.5,
+      "error": null
+    },
+    {
+      "name": "review:Холодний душ 2 хвилини щоранку",
+      "status": "ok",
+      "duration_s": 239.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Холодний душ 2 хвилини щоранку",
+      "status": "ok",
+      "duration_s": 19.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Холодний душ 2 хвилини щоранку",
+      "status": "ok",
+      "duration_s": 10.2,
+      "error": null
+    },
+    {
+      "name": "save:Холодний душ 2 хвилини щоранку",
+      "status": "ok",
+      "duration_s": 16.5,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.2,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

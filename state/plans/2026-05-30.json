@@ -1,0 +1,96 @@
+{
+  "articles": [
+    {
+      "topic": "Спека наближається: що каже наука про теплову акліматизацію за 10–14 днів — і як уникнути теплового удару",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Pre-summer guide on heat acclimatization, timely for late May/early June heat waves in Ukraine. Evidence: Périard 2015 (Scand J Med Sci Sports) review shows 10-14 days of progressive heat exposure (60-90 min/day) produces 50% of physiological adaptations by day 5, plateau by day 14: plasma volume +12%, sweat rate +50%, lower HR/core temp. Tyler 2016 meta-analysis (45 studies) confirmed performance benefits. Critical safety: heat stroke kills 30-80% if core temp >40°C >30min (Bouchama NEJM 2002); cooling FIRST then transport rule. Differentiate from prior water/hyponatremia article — this is acclimatization mechanism. Vulnerable groups: 65+, cardiac/renal disease, certain meds (diuretics, anticholinergics). Practical protocol: gradual outdoor activity exposure starting now, ~30min day 1 progressing to 90min by day 10, hydration with sodium, recognize early signs (heat exhaustion: nausea, dizziness, profuse sweating). Evidence: strong.",
+      "sources_hint": "PubMed: Périard 2015 heat acclimatization Scand J Med Sci Sports; Tyler 2016 heat acclimation meta-analysis; Bouchama 2002 NEJM heat stroke; CDC heat-related illness guidelines; WHO heat-health action plans",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Тривожний розлад у дорослих: коли «нормальне хвилювання» — це вже GAD-7 ≥10 і час до психотерапевта",
+      "type": "guide",
+      "category": "mental-health",
+      "angle": "Practical guide on generalized anxiety disorder (GAD) screening with GAD-7 scale (Spitzer 2006, Arch Intern Med). Distinguishes normal worry from clinical GAD (DSM-5: ≥6 months, ≥3 somatic symptoms, functional impairment). GAD-7 cutoffs: 5/10/15 = mild/moderate/severe; ≥10 sensitivity 89%, specificity 82% for GAD. Evidence-based first-line treatment: CBT (NICE NG113, Carpenter 2018 meta-analysis 41 RCTs g=0.80) and SSRIs (Slee 2019 Lancet network meta-analysis). Distinguish from prior articles: not antidepressant withdrawal, not BDD, not loneliness — this is GAD specifically. Ukrainian context: war-driven anxiety prevalence rise, free Telehealth services. Practical: self-screen, watch for red flags (panic attacks, suicidal thoughts), seek family doctor referral. Evidence: strong.",
+      "sources_hint": "PubMed: Spitzer 2006 GAD-7 Arch Intern Med; Carpenter 2018 CBT anxiety meta-analysis; Slee 2019 Lancet anxiety pharmacotherapy; NICE NG113 generalized anxiety disorder guideline",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Субота для відновлення: чому «активний відпочинок» працює краще за лежання на дивані — мета-аналіз",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Saturday-pegged fitness piece on active recovery vs passive rest. Focus on Ortiz 2018 meta-analysis (J Strength Cond Res, 26 studies) showing active recovery (light cardio 30–60% VO2max) clears lactate faster than passive rest but does NOT improve subsequent performance more than passive. New angle: Dupuy 2018 (Frontiers in Physiology, 99 studies) on between-session recovery — light movement on rest days reduces DOMS and inflammation markers (CK, IL-6) better than complete rest. Differentiate from prior DOMS article (which was about pain ≠ growth) and rest-between-sets article (intra-session). Practical: 20–30 min walk/easy cycling on rest days, not zero-movement. Caveats: small samples, mostly young athletes, individual variation. Evidence: moderate.",
+      "sources_hint": "PubMed: Ortiz 2018 active recovery meta-analysis J Strength Cond Res; Dupuy 2018 Frontiers Physiology recovery techniques; Poppendieck 2013 active recovery; ACSM position stand on recovery",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Сезонна полуниця і поліфеноли: що показали РКД про антоціани, серце і пам'ять",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Late-May seasonal angle on Ukrainian strawberry season. Evidence review of strawberry/anthocyanin RCTs. Basu 2014 (J Nutr, n=60 metabolic syndrome) showed freeze-dried strawberry 50g/day lowered LDL by 11% over 8 weeks. Devore 2012 (Annals of Neurology, n=16,010 Nurses' Health Study) — high berry intake associated with slower cognitive decline (2.5 years younger). 2024 meta-analysis (Critical Reviews Food Science, 28 RCTs) showed modest BP reduction (~2 mmHg systolic) from anthocyanin supplementation. Honest caveats: most RCTs short-term, industry funding common (California Strawberry Commission), whole-food vs extract distinction matters, observational cognition data not causal. Practical: 150–250g fresh strawberries during peak season (June), wash thoroughly (EWG Dirty Dozen pesticides), frozen berries equally beneficial off-season. Evidence: moderate.",
+      "sources_hint": "PubMed: Basu 2014 strawberry metabolic syndrome J Nutr; Devore 2012 berries cognitive decline Annals Neurology; anthocyanin meta-analysis 2024 blood pressure; Cassidy 2016 anthocyanins cardiovascular",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Дитячі сонячні опіки і ризик меланоми: чому 5 опіків у дитинстві подвоюють ризик у дорослому віці",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Companion to existing melanoma ABCDE/EFG article, focused specifically on childhood UV exposure as critical window. Wu 2014 (Cancer Epidemiol Biomarkers Prev, Nurses' Health Study II, n=108,916) found ≥5 blistering sunburns ages 15-20 increased melanoma risk 80% (HR 1.80). Whiteman 2001 meta-analysis: childhood sunburns OR ~2.0 for melanoma. Children's skin biology: thinner stratum corneum, higher UV transmittance, ~25% lifetime UV exposure before 18. AAP 2025 sunscreen guidance: <6 months avoid sun, shade + clothing; >6 months mineral SPF 30+ broad-spectrum, reapply every 2h. Practical: UPF 50+ clothing, wide-brim hats, sunglasses (cross-link to prior UV400 article), avoid 10:00-16:00 peak, parents model behavior. Caveats: observational data, recall bias, but converging evidence is strong. Different from existing solarium and SPF articles — child-specific window of vulnerability. Evidence: strong.",
+      "sources_hint": "PubMed: Wu 2014 childhood sunburns melanoma Nurses Health Study; Whiteman 2001 sunburns melanoma meta-analysis; AAP sun safety guidelines 2025; Dennis 2008 sunburn melanoma meta-analysis",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Інтервальне голодування 16:8 проти простого підрахунку калорій: що показало пряме РКД у 2024–2025",
+      "type": "research",
+      "category": "nutrition",
+      "angle": "Research piece on time-restricted eating (TRE) vs caloric restriction direct comparison. Centerpiece: Lin 2023 (Annals of Internal Medicine, n=139, 12 months) — TRE 8-hour window vs continuous caloric restriction produced equivalent weight loss (~8 kg both groups). Liu 2022 (NEJM, n=139) same conclusion. Lowe 2020 (JAMA Intern Med, TREAT trial) — 16:8 alone (no calorie counting) produced minimal weight loss and concerning lean mass loss. 2024 meta-analysis (Allaf, Cochrane) — TRE provides no additional benefit over calorie restriction. Liang 2024 follow-up: increased CV mortality signal in observational AHA abstract (highly criticized methodology). Practical: TRE may be useful tool for adherence if it suits lifestyle, but it's not metabolic magic — calories still matter, protein 1.6 g/kg + resistance training to preserve muscle (cross-link to semaglutide/muscle article). Caveats: short-term trials, adherence challenges. Distinct from prior late-dinner Vujović article (which was about meal timing, not fasting window). Evidence: strong.",
+      "sources_hint": "PubMed: Lin 2023 time restricted eating Annals Internal Medicine; Liu 2022 NEJM time restricted eating obesity; Lowe 2020 TREAT trial JAMA Intern Med; Allaf 2021/2024 Cochrane intermittent fasting; Liang 2024 AHA time restricted eating cardiovascular",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Циркадні гени і вечірня тренування: чому «жайворонки» і «сови» потребують різного часу для силових",
+      "type": "research",
+      "category": "biohacking",
+      "angle": "Research piece on chronotype-matched exercise timing. Centerpiece: Küüsmaa 2016 (Applied Physiol Nutr Metab) showed evening resistance training produced greater hypertrophy than morning in young men (n=72, 24 weeks). Chtourou 2012 review showed muscle strength peaks 16:00-19:00 (~5-10% higher than morning). 2024 ChronoType X Exercise study (Vitale, Eur J Sport Sci) found late chronotypes lose 10-15% strength in morning sessions vs evening, while early chronotypes show smaller difference. Cross-link to existing sleep regularity article. Caveats: small samples, mostly trained young men, individual variation huge. Practical: take MEQ chronotype quiz, schedule heavy lifts when alert, avoid forcing 6am workouts if you're an extreme owl, allow ≥3h before bed to avoid sleep disruption. Evidence: moderate.",
+      "sources_hint": "PubMed: Küüsmaa 2016 morning evening resistance training; Chtourou 2012 time of day performance review; Vitale 2024 chronotype exercise; Horne-Östberg MEQ morningness-eveningness questionnaire",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Ашваганда під мікроскопом: що показують мета-аналізи про стрес, тестостерон і ризик для печінки",
+      "type": "research",
+      "category": "biohacking",
+      "angle": "Critical evidence review of ashwagandha (Withania somnifera) supplements, a major TikTok/wellness trend. Pratte 2014 (J Altern Complement Med, 5 RCTs) and Akhgarjand 2022 (Phytother Res, 12 RCTs, n=1002) show moderate stress/anxiety reduction (SMD ~-1.5) but study quality is low, most trials industry-funded, samples small (40-80). Testosterone claims rest on Lopresti 2019 (n=57, +14.7%) and Wankhede 2015 — small samples, mostly subfertile men. Safety signal: Iceland 2023 case series + Indian PMS reports of hepatotoxicity (Björnsson 2020 LiverTox B likelihood); Danish Food Authority 2023 banned ashwagandha citing thyroid, liver, pregnancy risks. EFSA 2024 ongoing review. Sleep meta-analysis (Cheah 2021) shows small benefit. Contraindications: pregnancy (abortifacient potential), thyroid disease (T4 elevation), autoimmune conditions, hepatic conditions. Practical: not a sustained-use anxiolytic, evidence-based alternatives are CBT and exercise. Evidence: preliminary to moderate.",
+      "sources_hint": "PubMed: Akhgarjand 2022 ashwagandha anxiety Phytother Res meta-analysis; Lopresti 2019 ashwagandha testosterone; Björnsson ashwagandha hepatotoxicity; Danish Food Authority ashwagandha 2023; EFSA Withania somnifera; LiverTox NIH ashwagandha",
+      "evidence_level": "preliminary",
+      "priority": 2
+    },
+    {
+      "topic": "Підліткова депресія і соцмережі: що показав мета-аналіз 2025 з 50+ лонгітюдних досліджень",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Research deep-dive on the social-media → adolescent depression debate, timely given Jonathan Haidt/Jean Twenge ongoing discourse. Latest meta-analysis: Valkenburg 2025 (Curr Opin Psychol) and Orben 2024 (Nature Human Behaviour) longitudinal review of 50+ studies — effect sizes small (r ≈ 0.10-0.15), often within-person bidirectional (depressed teens use more, not vice versa). Twenge's iGen hypothesis criticized for cherry-picking (Vuorre 2021 Clin Psychol Sci 1M+ adolescents found near-zero effects). However: passive scrolling worse than active use (Thorisdottir 2019), girls more affected (Kelly 2018 EClinicalMedicine), <13 use linked to worse outcomes (Twenge 2024). 2024 Surgeon General advisory. Practical: bedroom phone ban (cross-link to sleep regularity article), delay smartphones to 14+ (Smartphone Free Childhood movement), monitor passive vs active use, watch for warning signs. Caveats: causation unproven, screen-time measurement crude. Evidence: moderate but contested.",
+      "sources_hint": "PubMed: Valkenburg 2025 social media adolescent mental health Curr Opin Psychol; Orben 2024 Nature Human Behaviour social media; Vuorre 2021 Clinical Psychological Science screen time; US Surgeon General advisory social media youth 2023",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Бруксизм уві сні: чому стирання зубів вночі частіше пов'язане зі стресом і апное, ніж із прикусом",
+      "type": "guide",
+      "category": "sleep",
+      "angle": "Practical guide on sleep bruxism, an underdiagnosed condition affecting ~8-10% adults (Manfredini 2013 meta-analysis). New consensus (Lobbezoo 2018 J Oral Rehabil) reframes bruxism not as a disease but as behavior — risk-factor for some, protective for others (linked to airway reflex in OSA). Strong association with sleep apnea (Hosoya 2014 OR 4.0), GERD, anxiety, SSRIs, caffeine/alcohol. Diagnosis: bed-partner report, masseter hypertrophy, tooth wear, morning jaw pain/headache, PSG with EMG for definitive Dx. Treatment hierarchy per AASM: occlusal splints reduce tooth wear but don't stop bruxism (Macedo Cochrane 2007); address underlying sleep apnea first (cross-link to STOP-BANG/Epworth article); CBT and stress management; botulinum toxin for severe cases. NOT recommended: occlusal adjustment, irreversible dental procedures. Practical: ask bed partner, check for morning jaw pain, screen for apnea symptoms, see dentist for splint + doctor for underlying causes. Evidence: moderate.",
+      "sources_hint": "PubMed: Lobbezoo 2018 bruxism consensus J Oral Rehabil; Manfredini 2013 bruxism epidemiology; Hosoya 2014 bruxism sleep apnea; Macedo Cochrane bruxism occlusal splints; AASM bruxism guidelines",
+      "evidence_level": "moderate",
+      "priority": 3
+    }
+  ],
+  "date": "2026-05-30",
+  "created_at": "2026-05-30T03:03:03.680263+00:00"
+}

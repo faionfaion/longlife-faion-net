@@ -1,0 +1,96 @@
+{
+  "articles": [
+    {
+      "topic": "Нові рекомендації ВООЗ: до 45% випадків деменції можна попередити — 14 факторів ризику",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Детальний розбір оновленого звіту WHO/Lancet Commission 2024: які саме 14 факторів (від слуху до холестерину ЛПНЩ), як українцям адаптувати профілактику і з якого віку починати",
+      "sources_hint": "WHO news July 2024 dementia guidelines, Lancet Commission on dementia prevention 2024 update, PubMed: 'dementia prevention modifiable risk factors 2024'",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Діабет 2 типу молодшає: чому жінки 20-29 років у групі ризику і як розпізнати ранні сигнали",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Аналіз даних Diabetes UK та епідеміологічних досліджень 2024-2025: роль вісцерального жиру, СПКЯ, ультраоброблених продуктів; конкретні маркери (HbA1c, тригліцериди/ЛПВЩ) для скринінгу до 30 років",
+      "sources_hint": "Diabetes UK 2025 report, Diabetes Care journal 2024-2025 'early-onset type 2 diabetes women', BBC Health July 2026 coverage",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Ферментовані продукти проти клітковини: яка стратегія швидше змінює мікробіом — дослідження Stanford",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Детальний огляд роботи Sonnenburg/Gardner (Cell 2021) та її продовжень 2024-2025: чому кефір, квашена капуста і кімчі знижують 19 маркерів запалення за 10 тижнів; порції, конкретні продукти доступні в Україні",
+      "sources_hint": "Cell journal Sonnenburg 2021 fermented foods, follow-up studies 2024-2025 Stanford microbiome, PubMed 'fermented foods inflammation microbiome diversity'",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Ранкове сонце проти вечірнього екрану: як 10 хвилин світла після пробудження зсуває циркадний ритм",
+      "type": "lifehack",
+      "category": "sleep",
+      "angle": "Практичний протокол на основі досліджень Huberman Lab та Stanford: конкретна доза люксів, чому вікно 0-60 хв після пробудження критичне, що робити взимку в Україні коли сонце пізно",
+      "sources_hint": "PubMed: 'morning light exposure circadian phase 2024', Journal of Biological Rhythms, Sleep Medicine Reviews meta-analysis on light therapy",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Зона 2 кардіо: чому повільний біг 3 години на тиждень збільшує мітохондріальну щільність краще за HIIT",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Розбір досліджень Iñigo San Millán та нових метааналізів 2024-2025: як розрахувати свою зону 2 без лактометра (тест розмови), скільки потрібно для довголіття, кому HIIT все ж кращий",
+      "sources_hint": "PubMed: 'zone 2 training mitochondrial biogenesis', Cell Metabolism 2024, Journal of Applied Physiology aerobic base training",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Прокрастинація має 4 типи: як визначити свій і застосувати правильну техніку (за науковими даними)",
+      "type": "guide",
+      "category": "mental-health",
+      "angle": "Типологія прокрастинації Piers Steel + техніки CBT: перфекціоніст, уникач, шукач гострих відчуттів, кризовий тип. Для кожного — конкретний протокол (implementation intentions, temptation bundling, 2-minute rule)",
+      "sources_hint": "Piers Steel 'The Procrastination Equation', Psychological Bulletin meta-analyses, BBC Health July 2026 procrastination article, Fuschia Sirois research 2023-2024",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Креатин моногідрат для жінок 40+: докази захисту кістяка, мозку і м'язової маси в менопаузі",
+      "type": "nutrition",
+      "category": "longevity",
+      "angle": "Систематичний огляд 2024 у Nutrients про креатин при саркопенії та когнітивному зниженні; чому саме 5г/добу, безпека для нирок, коли починати; окремий блок про перименопаузу",
+      "sources_hint": "Nutrients 2024 'creatine women menopause', Journal of the International Society of Sports Nutrition 2023-2024 position stand, PubMed 'creatine cognition older adults RCT'",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Магній гліцинат проти цитрату проти оксиду: який працює для сну, а який для м'язів",
+      "type": "guide",
+      "category": "nutrition",
+      "angle": "Порівняння біодоступності та клінічних показань 6 форм магнію на основі RCTs; конкретні дози для судом, тривоги, сну, закрепів; взаємодія з ІПП і петлевими діуретиками — актуально для українських пацієнтів на антигіпертензивних",
+      "sources_hint": "Nutrients journal magnesium bioavailability reviews 2023-2024, PubMed 'magnesium glycinate sleep RCT', 'magnesium citrate constipation', Cochrane reviews",
+      "evidence_level": "moderate",
+      "priority": 3
+    },
+    {
+      "topic": "Середа — середина тижня: 15-хвилинний протокол non-sleep deep rest (NSDR) проти вигорання",
+      "type": "lifehack",
+      "category": "mental-health",
+      "angle": "Науковий розбір NSDR/yoga nidra: як 15 хв відновлюють дофамін базальних гангліїв краще за каву; покроковий гайд для офісного працівника, найкращий час доби (13-15:00), українськомовні аудіо-ресурси",
+      "sources_hint": "PubMed 'yoga nidra cortisol RCT 2023-2024', Frontiers in Psychology NSDR studies, Andrew Huberman lab protocols, Sleep Medicine 'daytime rest cognitive performance'",
+      "evidence_level": "preliminary",
+      "priority": 3
+    },
+    {
+      "topic": "Холодний душ 2 хвилини щоранку: що насправді робить з дофаміном і імунітетом — метааналіз 2024",
+      "type": "research",
+      "category": "biohacking",
+      "angle": "Розбір метааналізу PLOS ONE 2023-2024 по cold water immersion: реальний ефект на настрій, запалення, sick days; чому 11 хв/тиждень — оптимум за Søeberg; кому категорично не можна (аритмії, гіпертонія)",
+      "sources_hint": "PLOS ONE 2023 cold water immersion meta-analysis, Susanna Søeberg protocol, European Journal of Applied Physiology 'cold exposure brown fat 2024'",
+      "evidence_level": "preliminary",
+      "priority": 3
+    }
+  ],
+  "date": "2026-07-22",
+  "created_at": "2026-07-22T12:13:36.898411+00:00"
+}

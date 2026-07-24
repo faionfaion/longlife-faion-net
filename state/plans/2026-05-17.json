@@ -1,0 +1,96 @@
+{
+  "articles": [
+    {
+      "topic": "Нікотинові паучі захоплюють підлітків: чому ВООЗ б'є на сполох і що відомо про шкоду «бездимного» нікотину",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Розбір нового попередження ВООЗ (травень 2026) про маркетинг нікотинових паучів (Zyn, Velo) для молоді. Що показують дослідження про серцево-судинні ризики, нікотинову залежність та вплив на мозок підлітків. Український контекст: вибуховий ріст продажів у tobacco-shops після обмежень на вейпи. Зв'язок із попередньою статтею про UK tobacco endgame (Apr 23).",
+      "sources_hint": "WHO news May 2026 'nicotine pouches targeting youth'; PubMed: 'nicotine pouches cardiovascular' (Rensch 2024, Mallock 2024); Tob Control journal; ERS statements; State Statistics Service Ukraine tobacco sales 2024-2025",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Австралія елімінувала трахому: чому ВООЗ святкує і що Україна може взяти з 30-річної кампанії",
+      "type": "research",
+      "category": "research",
+      "angle": "Свіжа новина ВООЗ (травень 2026): Австралія стала 30-ю країною, що елімінувала трахому. Що це за хвороба, чому стратегія SAFE (Surgery, Antibiotics, Facial cleanliness, Environmental improvement) працює, які уроки для України з 2 елімінованих хвороб (поліомієліт, кір — частково), де ми відстаємо (кір повернувся у 2023-2025).",
+      "sources_hint": "WHO news May 2026 Australia/Tunisia trachoma elimination; Lancet Glob Health trachoma reviews 2023-2025; SAFE strategy WHO; ЦГЗ дані по кору в Україні 2023-2025; ECDC measles surveillance",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Ходьба після їжі: скільки хвилин і коли саме знижують глюкозу — мета-аналіз 2025",
+      "type": "research",
+      "category": "nutrition",
+      "angle": "Свіжий мета-аналіз про postprandial walking: 2-5-хвилинні прогулянки одразу після їжі знижують глікемічний пік сильніше, ніж довша прогулянка через годину. Конкретні цифри, механізм (GLUT4-транслокація), порівняння з метформіном за ефектом на глюкозу. Доповнює раніше опубліковані матеріали про сидячий час і рак (Apr 21) та часове вікно харчування (Apr 22).",
+      "sources_hint": "PubMed: 'postprandial walking glucose meta-analysis 2024 2025'; Buffey et al. Sports Med 2022; Reynolds et al. Diabetologia 2016; Bellini et al. Nutrients 2022; ADA Standards of Care 2026",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Тривала COVID через 5 років: що ми зрештою знаємо про лікування і чому 65 мільйонів людей досі чекають терапії",
+      "type": "research",
+      "category": "research",
+      "angle": "Огляд найновіших даних 2025-2026 про long COVID: RECOVER trial results, останні мета-аналізи поширеності (6-10% інфікованих), що НЕ працює (ivermectin, HBOT — суперечливо), що показує перспективу (LDN, метформін за COVID-OUT, реабілітація). Український контекст: відсутність національного реєстру, навантаження на сімейних лікарів.",
+      "sources_hint": "NIH RECOVER initiative 2025-2026 updates; Nature Med long COVID reviews 2025; Bramante et al. (metformin COVID-OUT) Lancet ID 2023; Davis et al. Nat Rev Microbiol 2023; WHO post-COVID condition clinical case definition",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Захист від кліщів-2026: репеленти DEET, пікаридин, перметрин — що працює, а що маркетинг",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Продовження кліщової теми (стаття від Apr 21 була про дії при укусі), але інший кут: як уникнути. Порівняння репелентів за CDC/EPA даними: DEET 20-30% (золотий стандарт), пікаридин 20%, IR3535, олія евкаліпта лимонного (OLE) — єдина «натуральна» з доказами, перметрин на одяг (не на шкіру). Що НЕ працює: ультразвукові браслети, ефірні олії лаванди/чайного дерева.",
+      "sources_hint": "CDC tick prevention 2024-2026; EPA insect repellent guidance; Lupi et al. J Am Acad Dermatol 2013 meta-analysis natural repellents; Onyett 2014 Paediatr Child Health; Pollack et al. 2002 (lavender debunked)",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Ранкове сонце 10 хвилин: чому світло на сітківку до 9:00 — найдешевший біохак для циркадного ритму",
+      "type": "lifehack",
+      "category": "sleep",
+      "angle": "Фокус НЕ на регулярності сну (вже було Apr 23), а саме на morning light exposure як окремій інтервенції. 10 000 lux за 10 хв влітку vs 30+ хв у похмурий день; чому через вікно не працює (UV/blue light фільтрується); зв'язок із cortisol awakening response і нічним мелатоніном. Практичний протокол для Києва в травні: вихід на балкон/прогулянка до сніданку.",
+      "sources_hint": "Wright et al. 2013 Curr Biol (camping study); Burns et al. 2021 J Affect Disord light therapy; Blume et al. 2019 Somnologie circadian light; peer-reviewed citations only (avoid podcast as primary); Münch & Bromundt 2012",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Магній гліцинат, цитрат, оксид: яка форма реально працює і при яких станах — розбір 2026",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Порівняльний розбір 7 форм магнію за біодоступністю і доказами. Що каже наука: гліцинат — для тривоги/сну (попередньо), цитрат — при закрепах (сильно), оксид — найдешевший, але засвоюється 4%, треонат — модне, але мало даних. Чому 60% українців у дефіциті за NHANES-подібними даними та EFSA. Уникаємо повтору B12/калію/йоду — це окрема стаття саме про форми.",
+      "sources_hint": "PubMed: 'magnesium bioavailability forms comparison' (Schuchardt 2017 Curr Nutr Food Sci); Boyle 2017 (Nutrients) on anxiety; Zhang 2022 meta-analysis sleep; EFSA dietary reference 2015; Walker 2003 absorption",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Лісове купання (shinrin-yoku): чому 2 години в лісі знижують кортизол і тиск сильніше за прогулянку містом — японські та корейські РКД",
+      "type": "lifehack",
+      "category": "mental-health",
+      "angle": "Недільний фокус на природі як інтервенції. Що каже наука про shinrin-yoku: систематичні огляди показують зниження систолічного тиску, кортизолу слини та симптомів тривоги після 2-годинного перебування в лісі vs міському парку. Поріг «дози природи» 120 хв/тиждень (Уайт, Nature Sci Rep 2019, n=20 000). Український контекст: доступ до лісових масивів (Голосіївський, Пуща-Водиця для Києва), безпекові міркування у воєнний час. Чітко відрізняється від статті про subota active recovery (May 16) — там 20 хв ходьби в природі як один з блоків, тут — самостійна доказова інтервенція.",
+      "sources_hint": "Hansen et al. Int J Environ Res Public Health 2017 systematic review; Park et al. Environ Health Prev Med 2010 cortisol/HRV; Li 2010 NK cells; White et al. Sci Rep 2019 (n=19,806) 120-min threshold; Antonelli 2019 cortisol meta-analysis",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Плiометричні стрибки після 40: чому 50 стрибків через день будують щільність кісток сильніше за ходьбу",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Доказовий розбір імпактного навантаження для кісток як доповнення до статті про остеопороз (Apr 19, фокус на силових). Чому стрибки створюють GRF 3-5× маси тіла і запускають остеоцитарну механотрансдукцію (Wolff's law). LIFTMOR-M (Harding 2020) для чоловіків, Watson 2018 LIFTMOR для жінок, Multanen 2017 (n=80) — 12-міс. протокол стрибків покращив BMD стегна. Безпечний прогрес: міні-стрибки → подвійні → одноногі. Контраіндикації: остеопороз з переломом в анамнезі, болі в колінах, проблеми з підлогою (нижні поверхи).",
+      "sources_hint": "Watson et al. JBMR 2018 LIFTMOR; Harding et al. JBMR 2020 LIFTMOR-M; Multanen et al. Bone 2017 jumping protocol; Vainionpää 2005 Osteoporos Int; Zhao et al. Sports Med 2017 meta-analysis high-impact exercise BMD",
+      "evidence_level": "moderate",
+      "priority": 3
+    },
+    {
+      "topic": "Пробіг 5K за 30 днів з нуля: доказовий протокол couch-to-5K і чому він працює навіть для 50+",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Недільна мотиваційна стаття з конкретним планом. NHS Couch-to-5K — найдослідженіший масовий протокол з доказами на 858 000+ користувачів (Public Health England). Чому інтервали ходьба/біг працюють для початківців 40+, як уникнути травм (правило 10%, тип взуття), коли НЕ починати (BMI 35+, болі в колінах — спершу рукінг або скандинавська ходьба). Перехресні посилання на VO2max, rucking, баланс-тест.",
+      "sources_hint": "NHS Couch-to-5K evaluation studies; Public Health England 2018 report; Lavie et al. 2015 Mayo Clin Proc running mortality; Schnohr et al. 2015 J Am Coll Cardiol Copenhagen City Heart Study; Nielsen et al. 2014 BMJ running injury risk",
+      "evidence_level": "moderate",
+      "priority": 3
+    }
+  ],
+  "date": "2026-05-17",
+  "created_at": "2026-05-17T03:03:03.281779+00:00"
+}

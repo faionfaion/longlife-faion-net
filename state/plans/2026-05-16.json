@@ -1,0 +1,96 @@
+{
+  "articles": [
+    {
+      "topic": "Гепатит C в Україні: чому ВООЗ б'є на сполох про зрив цілей 2030 і як безкоштовно перевіритися",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Реакція на травневу заяву ВООЗ про відставання від цілей елімінації гепатитів до 2030. Український контекст: оцінено 5% поширеності HCV (ЦГЗ 2024), безкоштовні швидкі тести в кабінетах сімейних лікарів та центрах профілактики ВІЛ. Алгоритм: anti-HCV → HCV RNA → ПЛР-генотипування → схеми ДПП (софосбувір/велпатасвір) за програмою МОЗ. Кому особливо варто тестуватися.",
+      "sources_hint": "WHO global hepatitis report 2026; WHO viral hepatitis elimination targets 2030; AASLD-IDSA HCV guidance 2024; Ukraine Public Health Center hepatitis statistics; Ministry of Health Ukraine HCV treatment program order",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Прихована сіль у «преміум» їжі: чому один сендвіч може містити більше натрію, ніж 5 чизбургерів",
+      "type": "research",
+      "category": "nutrition",
+      "angle": "Розбір британського розслідування Action on Salt 2026: як ресторанні сендвічі та готова їжа обходять норми ВООЗ (5 г солі/день). Аналіз українського ринку готової їжі (АТБ, Сільпо, Львівські круасани) — де ховається натрій. Порівняння з даними Mente et al. (PURE, Lancet 2018) про U-подібну криву сольового ризику та мета-аналізом He et al. (BMJ 2020). Чим відрізняється від попередньої статті про калій (Apr 28): фокус на промисловому натрії, а не на K/Na балансі.",
+      "sources_hint": "BBC Health April 2026 sandwich salt investigation; WHO sodium reduction targets 2025; Mente PURE Lancet 2018; He FJ BMJ 2020 meta-analysis on salt reduction; Action on Salt UK survey methodology",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Таблетка після Ozempic: чи допоможе нова pill утримати вагу після відміни GLP-1 агоністів",
+      "type": "research",
+      "category": "research",
+      "angle": "Розбір нових даних 2026 року про щоденну пероральну молекулу для утримання ваги після припинення семаглутиду/тирзепатиду. Проблема rebound: STEP 1 extension (Wilding NEJM 2022) показав повернення 2/3 ваги за рік після відміни. Що дає нова таблетка, фаза випробувань, реалістичні очікування для українських пацієнтів.",
+      "sources_hint": "BBC Health May 2026 weight loss pill story; Wilding STEP 1 extension NEJM 2022; SURMOUNT-4 tirzepatide withdrawal JAMA 2024; Eli Lilly orforglipron Phase 3 readout 2026",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Хантавірус на круїзному лайнері: чому ВООЗ стежить за спалахом і яка реальна загроза для українських туристів",
+      "type": "research",
+      "category": "research",
+      "angle": "Аналіз спалаху хантавірусної інфекції на круїзному судні (Tenerife, квітень 2026): шляхи передачі (гризуни, аерозолі екскрементів), синдроми HPS і HFRS, летальність 35–40%. Контекст для України: ендемічні вогнища Puumala/Dobrava в Закарпатті та на Поліссі, дані Центру громадського здоров'я. Коли турбуватися, а коли — паніка ЗМІ.",
+      "sources_hint": "WHO Disease Outbreak News April 2026 hantavirus; CDC Yellow Book hantavirus chapter; Vaheri A Nat Rev Microbiol 2013 hantavirus review; Ukrainian CDC surveillance data hantavirus",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Засмага в солярії та рак шкіри: чому британські депутати закликають заборонити рекламу і що каже наука",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Реакція на ініціативу британських MP заборонити рекламу соляріїв (травень 2026). IARC класифікація UV-ламп як Group 1 carcinogen (2009). Boniol meta-analysis (BMJ 2012, 27 досліджень) — використання солярію до 35 років підвищує ризик меланоми на 59–87%. WHO дані 2024. Український контекст: відсутність вікових обмежень для соляріїв, на відміну від Австралії та Бразилії (повна заборона).",
+      "sources_hint": "BBC Health May 2026 sunbed advertising ban MPs; Boniol M BMJ 2012 sunbed melanoma meta-analysis; IARC monograph vol 100D solar radiation; WHO artificial tanning sunbeds factsheet 2024",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Субота для відновлення: протокол «активного відпочинку» для тих, хто пропрацював 5 днів за столом",
+      "type": "guide",
+      "category": "fitness",
+      "angle": "Конкретний 90-хвилинний суботній протокол: 20 хв ходьби на природі + 15 хв мобільності грудного відділу + 20 хв силового circuit з власною вагою + 15 хв розтяжки + 20 хв сауни/контрасту. Базується на дослідженнях Pesta et al. (2017) про мітохондріальну адаптацію до різнотипних навантажень та принципі «exercise snacking» (Islam et al. 2022) і VILPA (Stamatakis Nat Med 2022).",
+      "sources_hint": "Islam H et al. Exercise snacking review Appl Physiol Nutr Metab 2022; Pesta D Mitochondrion 2017; Stamatakis E vigorous intermittent lifestyle physical activity Nat Med 2022 VILPA",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Тривога вихідного дня: чому «недільний страх» — це реальний феномен і 4 техніки, які працюють",
+      "type": "lifehack",
+      "category": "mental-health",
+      "angle": "Розбір Sunday Scaries / anticipatory anxiety. Дані LinkedIn Workforce Confidence 2024 (80% працівників), нейрофізіологія антиципаційної тривоги (Grupe & Nitschke Nat Rev Neurosci 2013). 4 техніки з доказами: «worry window» (Borkovec 1983), behavioural activation субота (Cuijpers meta-analysis 2007), планування понеділка в п'ятницю (Zijlstra 2014), expressive writing 15 хв (Pennebaker). Без популярних, але неробочих порад («просто розслабтесь»).",
+      "sources_hint": "Grupe DW Nitschke JB Nat Rev Neurosci 2013 anticipatory anxiety; Borkovec TD stimulus control worry 1983; Cuijpers P behavioural activation meta-analysis Clin Psychol Rev 2007; APA stress in America Sunday anxiety surveys",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "VO₂max як головний маркер довголіття: як виміряти без лабораторії і протокол покращення на 12 тижнів",
+      "type": "fitness",
+      "category": "longevity",
+      "angle": "Чому VO₂max — найсильніший модифікований предиктор смертності (Mandsager JAMA Netw Open 2018, n=122 007: різниця в HR 5,04 між найнижчим і найвищим квінтилем). Доморобні методи оцінки: Cooper test 12 хв, Rockport walk test, формули за пульсом спокою. Норвезький 4×4 протокол (Wisløff 2007) vs Zone 2 (Seiler полярна модель). 12-тижневий план для початківців з реалістичним покращенням на 10–15%.",
+      "sources_hint": "Mandsager K JAMA Netw Open 2018 cardiorespiratory fitness mortality; Wisløff U Circulation 2007 4x4 interval; Ross R AHA scientific statement Circulation 2016 cardiorespiratory fitness; Seiler S polarized training Int J Sports Physiol Perform 2010",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Креатин після 50: чому стара спортивна добавка несподівано стала молекулою для мозку",
+      "type": "nutrition",
+      "category": "longevity",
+      "angle": "Нові дані 2024–2026 про креатин моногідрат поза спортом. Мета-аналіз Sandkühler et al. (2023, 16 RCT) — покращення робочої пам'яті у літніх; Smith-Ryan et al. (Nutrients 2021) — користь для жінок у пременопаузі; Forbes et al. (2022) — ефект на саркопенію в комбінації з силовими. Дозування 3–5 г/день, безпека ниркового профілю (Antonio 2021 review). Чому це найкраща за співвідношенням ціна/докази добавка для людей 50+.",
+      "sources_hint": "Sandkühler JF creatine cognition meta-analysis Eur J Nutr 2023; Smith-Ryan AE creatine women Nutrients 2021; Forbes SC creatine sarcopenia 2022; Antonio J creatine safety review J Int Soc Sports Nutr 2021",
+      "evidence_level": "moderate",
+      "priority": 3
+    },
+    {
+      "topic": "Триптофан, серотонін і вечеря: чи справді індичка робить вас сонними — і що з цього правда",
+      "type": "nutrition",
+      "category": "sleep",
+      "angle": "Розбір міфу про триптофан в індичці як снодійне. Аналіз справжніх дієтичних впливів на сон: вуглеводи з низьким GI за 4 год до сну (Afaghi 2007), ківі (Lin 2011 RCT), кислий вишневий сік (Howatson 2012). Чому індичка не виділяється серед інших білкових продуктів. Як скласти вечерю, що реально сприяє сну, без добавок мелатоніну. Доповнює серію про сон (caffeine Apr 22, alcohol Apr 21, regularity Apr 23) дієтичним кутом.",
+      "sources_hint": "Afaghi A Am J Clin Nutr 2007 high GI meal sleep onset; Lin HH kiwifruit sleep Asia Pac J Clin Nutr 2011; Howatson G tart cherry juice Eur J Nutr 2012; Peuhkuri K Nutr Res 2012 diet sleep review",
+      "evidence_level": "moderate",
+      "priority": 3
+    }
+  ],
+  "date": "2026-05-16",
+  "created_at": "2026-05-16T03:03:03.765513+00:00"
+}

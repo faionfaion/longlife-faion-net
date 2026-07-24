@@ -1,0 +1,96 @@
+{
+  "articles": [
+    {
+      "topic": "Мікропластик у крові, артеріях і мозку: що показали дослідження 2024–2026 і чи можна зменшити вплив",
+      "type": "research",
+      "category": "research",
+      "angle": "Не паніка, а зважений огляд доказів: від мікропластику в бляшках сонної артерії (NEJM 2024, ризик MACE) до накопичення в тканині мозку (Nature Medicine 2025) — що вже доведено, що поки лише асоціація, і 5 практичних кроків зниження експозиції (нагрівання їжі в пластику, пляшкова вода, домашній пил). Новий для LongLife топік.",
+      "sources_hint": "Marfella et al. NEJM 2024 (microplastics in carotid atheroma, ~4.5x MACE); Nihart et al. Nature Medicine 2025 (microplastics in human brain tissue); 2025-2026 systematic reviews on microplastics & cardiovascular/reproductive health; WHO microplastics in drinking water report",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Ліпопротеїн(а): «прихований» спадковий холестерин, який варто виміряти раз у житті",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Чому приблизно 1 з 5 людей має генетично підвищений Lp(a) і не підозрює про це, хоча звичайна ліпідограма його не показує; одноразовий аналіз за рекомендаціями EAS/ESC, що робити з результатом сьогодні (агресивний контроль LDL, тиску, відмова від тютюну) і нові препарати (пелакарсен, олпасиран) на горизонті. Холестерин/Lp(a) ще не покривався.",
+      "sources_hint": "EAS 2022 consensus statement on Lp(a) (Kronenberg et al., European Heart Journal); ESC/EAS 2019 dyslipidaemia guidelines; Lp(a)HORIZON (pelacarsen) and OCEAN(a) (olpasiran) phase 3 trials; lab availability in Ukraine",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Жирова хвороба печінки (MASLD): нова назва, ~30% дорослих і чому це не лише проблема тих, хто п'є",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Перейменування NAFLD→MASLD (2023) і чому воно важливе; як запідозрити у себе (індекс FIB-4, УЗД, підвищені АЛТ), зв'язок з інсулінорезистентністю й вісцеральним жиром; що реально працює — втрата 7–10% ваги — і перший схвалений препарат резметиром (Rezdiffra); коли обов'язково до лікаря. Новий топік.",
+      "sources_hint": "AASLD/EASL/ALEH 2023 Delphi MASLD nomenclature (Rinella et al., Journal of Hepatology/Hepatology 2023); resmetirom MAESTRO-NASH NEJM 2024 (Harrison et al.); FIB-4 score validation; Vilar-Gomez 2015 weight-loss histology data",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "7000 кроків замість 10000: що насправді показують мета-аналізи про кроки і смертність",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Звідки взялась «магічна» цифра 10000 (маркетинг японського крокоміра 1960-х) і де реальний поріг користі: близько 7000 кроків суттєво знижують смертність, а плато залежить від віку; чому темп має менше значення, ніж загальний обсяг. Відмінне від статті про ходьбу після їжі (там — постпрандіальна глюкоза); крос-лінк на неї.",
+      "sources_hint": "Paluch et al. Lancet Public Health 2022 (Steps for Health Collaborative, mortality plateau 6000-8000 older / 8000-10000 younger); Banach et al. 2023 meta-analysis; 2024-2025 Lancet Public Health step-count updates; origin of '10000 steps' manpo-kei",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Безсоння без таблеток: чому когнітивно-поведінкова терапія (CBT-I) — перша лінія, а не снодійне",
+      "type": "guide",
+      "category": "sleep",
+      "angle": "Практичний розбір компонентів CBT-I (контроль стимулів, обмеження часу в ліжку, робота з катастрофічними думками, гігієна сну) як рекомендованого ACP/AASM ПЕРШОГО вибору при хронічному безсонні; докази переваги над снодійними у довгій перспективі та доступ через цифрові програми. Відрізняється від попередніх статей про регулярність/інерцію сну — це лікування діагнозу.",
+      "sources_hint": "Trauer et al. Annals of Internal Medicine 2015 meta-analysis (CBT-I efficacy); ACP 2016 clinical guideline (Qaseem); AASM 2021 clinical practice guideline; Espie/Sleepio digital CBT-I RCTs",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Психоделіки проти ПТСР і депресії у 2026: що показали випробування псилоцибіну і чому MDMA отримала відмову FDA",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Особливо релевантно для України з її тягарем ПТСР: чесний статус доказів — псилоцибін при стійкій депресії (COMPASS COMP360), відмова FDA компанії Lykos по MDMA-терапії у 2024 з вимогою нового дослідження; чому це поки контрольовані клінічні випробування, а НЕ самолікування, і де межа доказів. Відмінне від статті про EMDR.",
+      "sources_hint": "Carhart-Harris et al. NEJM 2021 (psilocybin vs escitalopram); COMPASS COMP360 phase 2b/phase 3 results; FDA Complete Response Letter to Lykos MDMA-assisted therapy (Aug 2024); MAPP1/MAPP2 trials; WHO PTSD prevalence in Ukraine",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Еритрит, ксиліт і серце: чому популярні цукрозамінники потрапили під підозру",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Не «всі підсолоджувачі однакові»: огляд доказів, що поліоли еритрит і ксиліт асоціюються з підвищеною реактивністю тромбоцитів і серцево-судинними подіями — сильна асоціація + механізм, але ще без РКД на тверді кінцеві точки; чому це не привід повертатись до цукру і що каже настанова ВООЗ щодо некалорійних підсолоджувачів.",
+      "sources_hint": "Witkowski et al. Nature Medicine 2023 (erythritol, platelet reactivity, MACE); Witkowski et al. European Heart Journal 2024 (xylitol); WHO 2023 guideline on non-sugar sweeteners; methodological critiques and dose context",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Чи точні Oura, Whoop і смарт-годинники у вимірюванні сну — і що таке «ортосомнія»",
+      "type": "research",
+      "category": "biohacking",
+      "angle": "Прямий аналог нашої статті про глюкозні монітори, але для сну: валідаційні дослідження проти полісомнографії показують пристойне визначення загального часу сну, але слабке стадіювання фаз; феномен «ортосомнії» — тривога через гонитву за ідеальним балом; як читати тренди тижнів, а не каратись через окрему ніч.",
+      "sources_hint": "Chinoy et al. Sleep 2021 and 2023 (consumer sleep tracker validation vs PSG); Baron et al. J Clin Sleep Med 2017 (orthosomnia); de Zambotti reviews; 2024-2025 Oura/Whoop validation studies",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Таурин — четвертий «кандидат у молекули довголіття»? Чому гучне дослідження 2023 спіткнулось у 2025",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Продовження серії про молекули довголіття (метформін, NAD+, рапаміцин, сенолітики): миші й примати Singh 2023 (Science) проти людських даних 2025, які не підтвердили, що рівень таурину закономірно падає з віком; чому енергетики з таурином — не еліксир молодості, а доказова база поки попередня.",
+      "sources_hint": "Singh et al. Science 2023 (taurine deficiency as a driver of aging); 2025 Science re-analysis showing taurine does not consistently decline with age in humans/primates; reviews of taurine supplementation RCTs and safety",
+      "evidence_level": "preliminary",
+      "priority": 3
+    },
+    {
+      "topic": "Ферментовані продукти проти капсул-пробіотиків: що показало стенфордське РКД про різноманіття мікробіому",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Чому квашена капуста, кефір, кімчі й комбуча можуть бути кориснішими за добавки: РКД Стенфорда (Cell 2021) — ферментована їжа підвищила різноманіття мікробіому й знизила маркери запалення, тоді як висока клітковина — ні; практичні дози, з чого почати і застереження (сіль, гістамін). Крос-лінк на статтю про пробіотики.",
+      "sources_hint": "Wastyk et al. Cell 2021 (Stanford, fermented foods vs high-fiber diet, microbiome diversity & inflammatory markers); Marco et al. 2021 fermented foods consensus review; cross-link to prior LongLife probiotics article",
+      "evidence_level": "moderate",
+      "priority": 3
+    }
+  ],
+  "date": "2026-05-21",
+  "created_at": "2026-05-21T03:03:03.797238+00:00"
+}

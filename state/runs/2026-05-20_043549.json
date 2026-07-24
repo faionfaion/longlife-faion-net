@@ -1,0 +1,356 @@
+{
+  "timestamp": "2026-05-20_043549",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "vaktsyna-operizuvalnyi-herpes-dementsiia-nature-2025-pryrodnyi-eksperyment, vpravy-depresiia-yakist-dokaziv-bmj-meta-analiz-viyna, ultraobroblena-yizha-zontychnyi-oglyad-nova-chy-vsi-upf-shkidlyvi, kolorektalnyi-rak-molodshaye-skryninh-z-45-rokiv-fit-kolonoskopiia, dennyi-son-power-nap-10-20-khvylyn-protokol-kavovyi-son",
+  "author": "LongLife Media",
+  "duration_s": 5565.7,
+  "image_generated": false,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 415.6,
+      "error": null
+    },
+    {
+      "name": "research:Вакцина від оперізувального ге",
+      "status": "ok",
+      "duration_s": 174.3,
+      "error": null
+    },
+    {
+      "name": "generate:Вакцина від оперізувального ге",
+      "status": "ok",
+      "duration_s": 102.0,
+      "error": null
+    },
+    {
+      "name": "review:Вакцина від оперізувального ге",
+      "status": "ok",
+      "duration_s": 181.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Вакцина від оперізувального ге",
+      "status": "ok",
+      "duration_s": 19.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Вакцина від оперізувального ге",
+      "status": "ok",
+      "duration_s": 10.6,
+      "error": null
+    },
+    {
+      "name": "save:Вакцина від оперізувального ге",
+      "status": "ok",
+      "duration_s": 29.9,
+      "error": null
+    },
+    {
+      "name": "research:Фізичні вправи проти депресії:",
+      "status": "ok",
+      "duration_s": 196.0,
+      "error": null
+    },
+    {
+      "name": "generate:Фізичні вправи проти депресії:",
+      "status": "ok",
+      "duration_s": 117.3,
+      "error": null
+    },
+    {
+      "name": "review:Фізичні вправи проти депресії:",
+      "status": "ok",
+      "duration_s": 153.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Фізичні вправи проти депресії:",
+      "status": "ok",
+      "duration_s": 18.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Фізичні вправи проти депресії:",
+      "status": "ok",
+      "duration_s": 11.1,
+      "error": null
+    },
+    {
+      "name": "save:Фізичні вправи проти депресії:",
+      "status": "ok",
+      "duration_s": 15.8,
+      "error": null
+    },
+    {
+      "name": "research:Ультраоброблена їжа під мікрос",
+      "status": "ok",
+      "duration_s": 212.2,
+      "error": null
+    },
+    {
+      "name": "generate:Ультраоброблена їжа під мікрос",
+      "status": "ok",
+      "duration_s": 97.4,
+      "error": null
+    },
+    {
+      "name": "review:Ультраоброблена їжа під мікрос",
+      "status": "ok",
+      "duration_s": 272.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ультраоброблена їжа під мікрос",
+      "status": "ok",
+      "duration_s": 26.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ультраоброблена їжа під мікрос",
+      "status": "ok",
+      "duration_s": 10.9,
+      "error": null
+    },
+    {
+      "name": "save:Ультраоброблена їжа під мікрос",
+      "status": "ok",
+      "duration_s": 16.3,
+      "error": null
+    },
+    {
+      "name": "research:Колоректальний рак молодшає: ч",
+      "status": "ok",
+      "duration_s": 174.5,
+      "error": null
+    },
+    {
+      "name": "generate:Колоректальний рак молодшає: ч",
+      "status": "ok",
+      "duration_s": 144.1,
+      "error": null
+    },
+    {
+      "name": "review:Колоректальний рак молодшає: ч",
+      "status": "ok",
+      "duration_s": 242.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Колоректальний рак молодшає: ч",
+      "status": "ok",
+      "duration_s": 23.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Колоректальний рак молодшає: ч",
+      "status": "ok",
+      "duration_s": 12.6,
+      "error": null
+    },
+    {
+      "name": "save:Колоректальний рак молодшає: ч",
+      "status": "ok",
+      "duration_s": 15.5,
+      "error": null
+    },
+    {
+      "name": "research:Денний сон 10–20 хвилин: оптим",
+      "status": "ok",
+      "duration_s": 233.4,
+      "error": null
+    },
+    {
+      "name": "generate:Денний сон 10–20 хвилин: оптим",
+      "status": "ok",
+      "duration_s": 85.7,
+      "error": null
+    },
+    {
+      "name": "review:Денний сон 10–20 хвилин: оптим",
+      "status": "ok",
+      "duration_s": 178.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Денний сон 10–20 хвилин: оптим",
+      "status": "ok",
+      "duration_s": 25.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Денний сон 10–20 хвилин: оптим",
+      "status": "ok",
+      "duration_s": 11.2,
+      "error": null
+    },
+    {
+      "name": "save:Денний сон 10–20 хвилин: оптим",
+      "status": "ok",
+      "duration_s": 16.7,
+      "error": null
+    },
+    {
+      "name": "research:Фоум-роллер і масажні пістолет",
+      "status": "ok",
+      "duration_s": 244.8,
+      "error": null
+    },
+    {
+      "name": "generate:Фоум-роллер і масажні пістолет",
+      "status": "ok",
+      "duration_s": 92.0,
+      "error": null
+    },
+    {
+      "name": "review:Фоум-роллер і масажні пістолет",
+      "status": "ok",
+      "duration_s": 228.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Фоум-роллер і масажні пістолет",
+      "status": "ok",
+      "duration_s": 23.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Фоум-роллер і масажні пістолет",
+      "status": "ok",
+      "duration_s": 10.6,
+      "error": null
+    },
+    {
+      "name": "save:Фоум-роллер і масажні пістолет",
+      "status": "ok",
+      "duration_s": 16.5,
+      "error": null
+    },
+    {
+      "name": "research:Глюкозні монітори для здорових",
+      "status": "ok",
+      "duration_s": 257.4,
+      "error": null
+    },
+    {
+      "name": "generate:Глюкозні монітори для здорових",
+      "status": "ok",
+      "duration_s": 117.0,
+      "error": null
+    },
+    {
+      "name": "review:Глюкозні монітори для здорових",
+      "status": "ok",
+      "duration_s": 162.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Глюкозні монітори для здорових",
+      "status": "ok",
+      "duration_s": 20.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Глюкозні монітори для здорових",
+      "status": "ok",
+      "duration_s": 10.7,
+      "error": null
+    },
+    {
+      "name": "save:Глюкозні монітори для здорових",
+      "status": "ok",
+      "duration_s": 15.6,
+      "error": null
+    },
+    {
+      "name": "research:Клітковина: чому більшість укр",
+      "status": "ok",
+      "duration_s": 228.1,
+      "error": null
+    },
+    {
+      "name": "generate:Клітковина: чому більшість укр",
+      "status": "ok",
+      "duration_s": 102.1,
+      "error": null
+    },
+    {
+      "name": "review:Клітковина: чому більшість укр",
+      "status": "ok",
+      "duration_s": 161.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Клітковина: чому більшість укр",
+      "status": "ok",
+      "duration_s": 15.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Клітковина: чому більшість укр",
+      "status": "ok",
+      "duration_s": 9.9,
+      "error": null
+    },
+    {
+      "name": "save:Клітковина: чому більшість укр",
+      "status": "ok",
+      "duration_s": 16.0,
+      "error": null
+    },
+    {
+      "name": "research:Біологічний вік за краплею кро",
+      "status": "ok",
+      "duration_s": 281.0,
+      "error": null
+    },
+    {
+      "name": "generate:Біологічний вік за краплею кро",
+      "status": "ok",
+      "duration_s": 96.0,
+      "error": null
+    },
+    {
+      "name": "review:Біологічний вік за краплею кро",
+      "status": "ok",
+      "duration_s": 161.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Біологічний вік за краплею кро",
+      "status": "ok",
+      "duration_s": 21.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Біологічний вік за краплею кро",
+      "status": "ok",
+      "duration_s": 10.2,
+      "error": null
+    },
+    {
+      "name": "save:Біологічний вік за краплею кро",
+      "status": "ok",
+      "duration_s": 16.7,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.2,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

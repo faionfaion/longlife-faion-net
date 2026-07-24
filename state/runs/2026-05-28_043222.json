@@ -1,0 +1,356 @@
+{
+  "timestamp": "2026-05-28_043222",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "ebola-bundibugyo-pheic-oxford-vaccine-ihr-update-2026, nmn-nr-nad-precursors-fda-reversal-prokopidis-meta-2025, narodzhuvanist-britania-50-richny-minimum-vidkladene-batkivstvo-fertilnist, 4-day-workweek-anxiety-burnout-schor-nature-2025, curcumin-pains-bioavailability-livertox-tga-critical-review-2026",
+  "author": "LongLife Media",
+  "duration_s": 5359.4,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 174.1,
+      "error": null
+    },
+    {
+      "name": "research:Ебола Bundibugyo в ДР Конго і ",
+      "status": "ok",
+      "duration_s": 147.3,
+      "error": null
+    },
+    {
+      "name": "generate:Ебола Bundibugyo в ДР Конго і ",
+      "status": "ok",
+      "duration_s": 72.6,
+      "error": null
+    },
+    {
+      "name": "review:Ебола Bundibugyo в ДР Конго і ",
+      "status": "ok",
+      "duration_s": 99.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ебола Bundibugyo в ДР Конго і ",
+      "status": "ok",
+      "duration_s": 17.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ебола Bundibugyo в ДР Конго і ",
+      "status": "ok",
+      "duration_s": 10.9,
+      "error": null
+    },
+    {
+      "name": "save:Ебола Bundibugyo в ДР Конго і ",
+      "status": "ok",
+      "duration_s": 78.3,
+      "error": null
+    },
+    {
+      "name": "research:NMN і NR як «молодильні» добав",
+      "status": "ok",
+      "duration_s": 198.8,
+      "error": null
+    },
+    {
+      "name": "generate:NMN і NR як «молодильні» добав",
+      "status": "ok",
+      "duration_s": 79.1,
+      "error": null
+    },
+    {
+      "name": "review:NMN і NR як «молодильні» добав",
+      "status": "ok",
+      "duration_s": 184.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:NMN і NR як «молодильні» добав",
+      "status": "ok",
+      "duration_s": 17.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:NMN і NR як «молодильні» добав",
+      "status": "ok",
+      "duration_s": 7.3,
+      "error": null
+    },
+    {
+      "name": "save:NMN і NR як «молодильні» добав",
+      "status": "ok",
+      "duration_s": 96.9,
+      "error": null
+    },
+    {
+      "name": "research:Чому народжуваність у Британії",
+      "status": "ok",
+      "duration_s": 196.3,
+      "error": null
+    },
+    {
+      "name": "generate:Чому народжуваність у Британії",
+      "status": "ok",
+      "duration_s": 80.6,
+      "error": null
+    },
+    {
+      "name": "review:Чому народжуваність у Британії",
+      "status": "ok",
+      "duration_s": 96.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Чому народжуваність у Британії",
+      "status": "ok",
+      "duration_s": 17.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Чому народжуваність у Британії",
+      "status": "ok",
+      "duration_s": 10.0,
+      "error": null
+    },
+    {
+      "name": "save:Чому народжуваність у Британії",
+      "status": "ok",
+      "duration_s": 194.8,
+      "error": null
+    },
+    {
+      "name": "research:Тривожність на роботі: що пока",
+      "status": "ok",
+      "duration_s": 240.4,
+      "error": null
+    },
+    {
+      "name": "generate:Тривожність на роботі: що пока",
+      "status": "ok",
+      "duration_s": 78.7,
+      "error": null
+    },
+    {
+      "name": "review:Тривожність на роботі: що пока",
+      "status": "ok",
+      "duration_s": 84.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Тривожність на роботі: що пока",
+      "status": "ok",
+      "duration_s": 20.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Тривожність на роботі: що пока",
+      "status": "ok",
+      "duration_s": 9.6,
+      "error": null
+    },
+    {
+      "name": "save:Тривожність на роботі: що пока",
+      "status": "ok",
+      "duration_s": 89.1,
+      "error": null
+    },
+    {
+      "name": "research:Куркумін і запалення: чому поп",
+      "status": "ok",
+      "duration_s": 194.1,
+      "error": null
+    },
+    {
+      "name": "generate:Куркумін і запалення: чому поп",
+      "status": "ok",
+      "duration_s": 92.6,
+      "error": null
+    },
+    {
+      "name": "review:Куркумін і запалення: чому поп",
+      "status": "ok",
+      "duration_s": 132.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Куркумін і запалення: чому поп",
+      "status": "ok",
+      "duration_s": 18.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Куркумін і запалення: чому поп",
+      "status": "ok",
+      "duration_s": 9.7,
+      "error": null
+    },
+    {
+      "name": "save:Куркумін і запалення: чому поп",
+      "status": "ok",
+      "duration_s": 193.1,
+      "error": null
+    },
+    {
+      "name": "research:Тренування з обмеженням кровот",
+      "status": "ok",
+      "duration_s": 194.5,
+      "error": null
+    },
+    {
+      "name": "generate:Тренування з обмеженням кровот",
+      "status": "ok",
+      "duration_s": 80.8,
+      "error": null
+    },
+    {
+      "name": "review:Тренування з обмеженням кровот",
+      "status": "ok",
+      "duration_s": 91.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Тренування з обмеженням кровот",
+      "status": "ok",
+      "duration_s": 16.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Тренування з обмеженням кровот",
+      "status": "ok",
+      "duration_s": 8.1,
+      "error": null
+    },
+    {
+      "name": "save:Тренування з обмеженням кровот",
+      "status": "ok",
+      "duration_s": 275.0,
+      "error": null
+    },
+    {
+      "name": "research:Постпрандіальна сонливість: чо",
+      "status": "ok",
+      "duration_s": 211.3,
+      "error": null
+    },
+    {
+      "name": "generate:Постпрандіальна сонливість: чо",
+      "status": "ok",
+      "duration_s": 58.5,
+      "error": null
+    },
+    {
+      "name": "review:Постпрандіальна сонливість: чо",
+      "status": "ok",
+      "duration_s": 48.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Постпрандіальна сонливість: чо",
+      "status": "ok",
+      "duration_s": 18.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Постпрандіальна сонливість: чо",
+      "status": "ok",
+      "duration_s": 7.6,
+      "error": null
+    },
+    {
+      "name": "save:Постпрандіальна сонливість: чо",
+      "status": "ok",
+      "duration_s": 102.6,
+      "error": null
+    },
+    {
+      "name": "research:Дисморфофобія тіла і соцмережі",
+      "status": "ok",
+      "duration_s": 176.8,
+      "error": null
+    },
+    {
+      "name": "generate:Дисморфофобія тіла і соцмережі",
+      "status": "ok",
+      "duration_s": 139.7,
+      "error": null
+    },
+    {
+      "name": "review:Дисморфофобія тіла і соцмережі",
+      "status": "ok",
+      "duration_s": 145.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Дисморфофобія тіла і соцмережі",
+      "status": "ok",
+      "duration_s": 19.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Дисморфофобія тіла і соцмережі",
+      "status": "ok",
+      "duration_s": 8.6,
+      "error": null
+    },
+    {
+      "name": "save:Дисморфофобія тіла і соцмережі",
+      "status": "ok",
+      "duration_s": 276.6,
+      "error": null
+    },
+    {
+      "name": "research:Хронічна крапля з носа і постн",
+      "status": "ok",
+      "duration_s": 152.5,
+      "error": null
+    },
+    {
+      "name": "generate:Хронічна крапля з носа і постн",
+      "status": "ok",
+      "duration_s": 129.7,
+      "error": null
+    },
+    {
+      "name": "review:Хронічна крапля з носа і постн",
+      "status": "ok",
+      "duration_s": 124.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Хронічна крапля з носа і постн",
+      "status": "ok",
+      "duration_s": 18.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Хронічна крапля з носа і постн",
+      "status": "ok",
+      "duration_s": 11.2,
+      "error": null
+    },
+    {
+      "name": "save:Хронічна крапля з носа і постн",
+      "status": "ok",
+      "duration_s": 98.7,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.2,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

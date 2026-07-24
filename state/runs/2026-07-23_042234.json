@@ -1,0 +1,392 @@
+{
+  "timestamp": "2026-07-23_042234",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "voz-rak-2050-prohnoz-35-mln-5-modyfikovanykh-faktoriv, speka-sertse-esc-2025-nature-medicine-gid-vyzhyvannya, ms-nhs-fampridine-tolebrutinib-2026-ukraina-btk-inhibitory, alpha-gal-syndrome-tick-bite-meat-allergy-ukraine-guide, fokalna-terapiya-sbrt-protony-rak-prostaty-2026",
+  "author": "LongLife Media",
+  "duration_s": 4771.3,
+  "image_generated": false,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 180.4,
+      "error": null
+    },
+    {
+      "name": "research:Рак до 2050 року подвоїться: р",
+      "status": "ok",
+      "duration_s": 278.4,
+      "error": null
+    },
+    {
+      "name": "generate:Рак до 2050 року подвоїться: р",
+      "status": "ok",
+      "duration_s": 72.6,
+      "error": null
+    },
+    {
+      "name": "review:Рак до 2050 року подвоїться: р",
+      "status": "ok",
+      "duration_s": 139.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Рак до 2050 року подвоїться: р",
+      "status": "ok",
+      "duration_s": 17.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Рак до 2050 року подвоїться: р",
+      "status": "ok",
+      "duration_s": 8.9,
+      "error": null
+    },
+    {
+      "name": "save:Рак до 2050 року подвоїться: р",
+      "status": "ok",
+      "duration_s": 18.8,
+      "error": null
+    },
+    {
+      "name": "research:Літня спека і серце: чому смер",
+      "status": "ok",
+      "duration_s": 233.8,
+      "error": null
+    },
+    {
+      "name": "generate:Літня спека і серце: чому смер",
+      "status": "ok",
+      "duration_s": 58.7,
+      "error": null
+    },
+    {
+      "name": "review:Літня спека і серце: чому смер",
+      "status": "ok",
+      "duration_s": 99.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Літня спека і серце: чому смер",
+      "status": "ok",
+      "duration_s": 18.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Літня спека і серце: чому смер",
+      "status": "ok",
+      "duration_s": 8.9,
+      "error": null
+    },
+    {
+      "name": "save:Літня спека і серце: чому смер",
+      "status": "ok",
+      "duration_s": 17.4,
+      "error": null
+    },
+    {
+      "name": "research:MS-препарат нового покоління н",
+      "status": "ok",
+      "duration_s": 230.6,
+      "error": null
+    },
+    {
+      "name": "generate:MS-препарат нового покоління н",
+      "status": "ok",
+      "duration_s": 81.7,
+      "error": null
+    },
+    {
+      "name": "review:MS-препарат нового покоління н",
+      "status": "ok",
+      "duration_s": 95.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:MS-препарат нового покоління н",
+      "status": "ok",
+      "duration_s": 16.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:MS-препарат нового покоління н",
+      "status": "ok",
+      "duration_s": 12.3,
+      "error": null
+    },
+    {
+      "name": "save:MS-препарат нового покоління н",
+      "status": "ok",
+      "duration_s": 16.8,
+      "error": null
+    },
+    {
+      "name": "research:Алергія на м'ясо після укусу к",
+      "status": "ok",
+      "duration_s": 189.8,
+      "error": null
+    },
+    {
+      "name": "generate:Алергія на м'ясо після укусу к",
+      "status": "ok",
+      "duration_s": 119.3,
+      "error": null
+    },
+    {
+      "name": "review:Алергія на м'ясо після укусу к",
+      "status": "ok",
+      "duration_s": 163.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Алергія на м'ясо після укусу к",
+      "status": "ok",
+      "duration_s": 17.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Алергія на м'ясо після укусу к",
+      "status": "ok",
+      "duration_s": 9.9,
+      "error": null
+    },
+    {
+      "name": "save:Алергія на м'ясо після укусу к",
+      "status": "ok",
+      "duration_s": 18.2,
+      "error": null
+    },
+    {
+      "name": "research:Прицільна протонна терапія рак",
+      "status": "ok",
+      "duration_s": 216.9,
+      "error": null
+    },
+    {
+      "name": "generate:Прицільна протонна терапія рак",
+      "status": "ok",
+      "duration_s": 73.7,
+      "error": null
+    },
+    {
+      "name": "review:Прицільна протонна терапія рак",
+      "status": "ok",
+      "duration_s": 93.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Прицільна протонна терапія рак",
+      "status": "ok",
+      "duration_s": 18.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Прицільна протонна терапія рак",
+      "status": "ok",
+      "duration_s": 9.0,
+      "error": null
+    },
+    {
+      "name": "save:Прицільна протонна терапія рак",
+      "status": "ok",
+      "duration_s": 17.1,
+      "error": null
+    },
+    {
+      "name": "research:Дефіцит слуху як фактор №1 дем",
+      "status": "ok",
+      "duration_s": 207.4,
+      "error": null
+    },
+    {
+      "name": "generate:Дефіцит слуху як фактор №1 дем",
+      "status": "ok",
+      "duration_s": 117.7,
+      "error": null
+    },
+    {
+      "name": "review:Дефіцит слуху як фактор №1 дем",
+      "status": "ok",
+      "duration_s": 133.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Дефіцит слуху як фактор №1 дем",
+      "status": "ok",
+      "duration_s": 23.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Дефіцит слуху як фактор №1 дем",
+      "status": "ok",
+      "duration_s": 10.3,
+      "error": null
+    },
+    {
+      "name": "save:Дефіцит слуху як фактор №1 дем",
+      "status": "ok",
+      "duration_s": 17.9,
+      "error": null
+    },
+    {
+      "name": "research:Як нагодувати перебірливу дити",
+      "status": "ok",
+      "duration_s": 188.6,
+      "error": null
+    },
+    {
+      "name": "generate:Як нагодувати перебірливу дити",
+      "status": "ok",
+      "duration_s": 80.4,
+      "error": null
+    },
+    {
+      "name": "review:Як нагодувати перебірливу дити",
+      "status": "ok",
+      "duration_s": 104.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Як нагодувати перебірливу дити",
+      "status": "ok",
+      "duration_s": 19.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Як нагодувати перебірливу дити",
+      "status": "ok",
+      "duration_s": 8.9,
+      "error": null
+    },
+    {
+      "name": "save:Як нагодувати перебірливу дити",
+      "status": "ok",
+      "duration_s": 15.5,
+      "error": null
+    },
+    {
+      "name": "research:Йога проти тривоги: мета-аналі",
+      "status": "ok",
+      "duration_s": 181.3,
+      "error": null
+    },
+    {
+      "name": "generate:Йога проти тривоги: мета-аналі",
+      "status": "ok",
+      "duration_s": 94.4,
+      "error": null
+    },
+    {
+      "name": "review:Йога проти тривоги: мета-аналі",
+      "status": "ok",
+      "duration_s": 83.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Йога проти тривоги: мета-аналі",
+      "status": "ok",
+      "duration_s": 17.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Йога проти тривоги: мета-аналі",
+      "status": "ok",
+      "duration_s": 8.5,
+      "error": null
+    },
+    {
+      "name": "save:Йога проти тривоги: мета-аналі",
+      "status": "ok",
+      "duration_s": 15.4,
+      "error": null
+    },
+    {
+      "name": "research:Фітнес-трекер розпізнав вагітн",
+      "status": "ok",
+      "duration_s": 198.5,
+      "error": null
+    },
+    {
+      "name": "generate:Фітнес-трекер розпізнав вагітн",
+      "status": "ok",
+      "duration_s": 69.9,
+      "error": null
+    },
+    {
+      "name": "review:Фітнес-трекер розпізнав вагітн",
+      "status": "ok",
+      "duration_s": 105.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Фітнес-трекер розпізнав вагітн",
+      "status": "ok",
+      "duration_s": 17.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Фітнес-трекер розпізнав вагітн",
+      "status": "ok",
+      "duration_s": 8.7,
+      "error": null
+    },
+    {
+      "name": "save:Фітнес-трекер розпізнав вагітн",
+      "status": "ok",
+      "duration_s": 16.9,
+      "error": null
+    },
+    {
+      "name": "research:Кето-дієта для мозку: що нове ",
+      "status": "ok",
+      "duration_s": 210.6,
+      "error": null
+    },
+    {
+      "name": "generate:Кето-дієта для мозку: що нове ",
+      "status": "ok",
+      "duration_s": 80.6,
+      "error": null
+    },
+    {
+      "name": "review:Кето-дієта для мозку: що нове ",
+      "status": "ok",
+      "duration_s": 132.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Кето-дієта для мозку: що нове ",
+      "status": "ok",
+      "duration_s": 17.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Кето-дієта для мозку: що нове ",
+      "status": "ok",
+      "duration_s": 10.4,
+      "error": null
+    },
+    {
+      "name": "save:Кето-дієта для мозку: що нове ",
+      "status": "ok",
+      "duration_s": 18.2,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.3,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

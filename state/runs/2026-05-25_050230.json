@@ -1,0 +1,356 @@
+{
+  "timestamp": "2026-05-25_050230",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "kava-vranci-chy-ves-den-dovgolittia-smertnist-kohorta, melatonin-mikrodoza-0-5-mg-chas-pryyomu-aha-2025-sertse, holodne-zanurennia-systematychnyi-ohliad-2025-stres-son-zapalennia, mif-30g-bilka-za-pryyom-100g-syntez-miaziv-doslidzhennia, pidhody-na-tyzhden-rist-miaziv-syla-meta-analiz-doza-vidpovid",
+  "author": "LongLife Media",
+  "duration_s": 7167.1,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 333.1,
+      "error": null
+    },
+    {
+      "name": "research:О котрій пити каву для довголі",
+      "status": "ok",
+      "duration_s": 144.1,
+      "error": null
+    },
+    {
+      "name": "generate:О котрій пити каву для довголі",
+      "status": "ok",
+      "duration_s": 100.7,
+      "error": null
+    },
+    {
+      "name": "review:О котрій пити каву для довголі",
+      "status": "ok",
+      "duration_s": 173.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:О котрій пити каву для довголі",
+      "status": "ok",
+      "duration_s": 15.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:О котрій пити каву для довголі",
+      "status": "ok",
+      "duration_s": 10.3,
+      "error": null
+    },
+    {
+      "name": "save:О котрій пити каву для довголі",
+      "status": "ok",
+      "duration_s": 152.0,
+      "error": null
+    },
+    {
+      "name": "research:Мелатонін: чому 0,5 мг працює ",
+      "status": "ok",
+      "duration_s": 187.1,
+      "error": null
+    },
+    {
+      "name": "generate:Мелатонін: чому 0,5 мг працює ",
+      "status": "ok",
+      "duration_s": 79.5,
+      "error": null
+    },
+    {
+      "name": "review:Мелатонін: чому 0,5 мг працює ",
+      "status": "ok",
+      "duration_s": 182.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Мелатонін: чому 0,5 мг працює ",
+      "status": "ok",
+      "duration_s": 16.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Мелатонін: чому 0,5 мг працює ",
+      "status": "ok",
+      "duration_s": 12.9,
+      "error": null
+    },
+    {
+      "name": "save:Мелатонін: чому 0,5 мг працює ",
+      "status": "ok",
+      "duration_s": 99.5,
+      "error": null
+    },
+    {
+      "name": "research:Холодне занурення (cold plunge",
+      "status": "ok",
+      "duration_s": 150.7,
+      "error": null
+    },
+    {
+      "name": "generate:Холодне занурення (cold plunge",
+      "status": "ok",
+      "duration_s": 140.6,
+      "error": null
+    },
+    {
+      "name": "review:Холодне занурення (cold plunge",
+      "status": "ok",
+      "duration_s": 138.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Холодне занурення (cold plunge",
+      "status": "ok",
+      "duration_s": 18.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Холодне занурення (cold plunge",
+      "status": "ok",
+      "duration_s": 12.4,
+      "error": null
+    },
+    {
+      "name": "save:Холодне занурення (cold plunge",
+      "status": "ok",
+      "duration_s": 258.9,
+      "error": null
+    },
+    {
+      "name": "research:Чи правда, що за раз засвоюєть",
+      "status": "ok",
+      "duration_s": 196.7,
+      "error": null
+    },
+    {
+      "name": "generate:Чи правда, що за раз засвоюєть",
+      "status": "ok",
+      "duration_s": 116.6,
+      "error": null
+    },
+    {
+      "name": "review:Чи правда, що за раз засвоюєть",
+      "status": "ok",
+      "duration_s": 137.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Чи правда, що за раз засвоюєть",
+      "status": "ok",
+      "duration_s": 19.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Чи правда, що за раз засвоюєть",
+      "status": "ok",
+      "duration_s": 14.0,
+      "error": null
+    },
+    {
+      "name": "save:Чи правда, що за раз засвоюєть",
+      "status": "ok",
+      "duration_s": 454.9,
+      "error": null
+    },
+    {
+      "name": "research:Скільки підходів на тиждень по",
+      "status": "ok",
+      "duration_s": 203.1,
+      "error": null
+    },
+    {
+      "name": "generate:Скільки підходів на тиждень по",
+      "status": "ok",
+      "duration_s": 91.1,
+      "error": null
+    },
+    {
+      "name": "review:Скільки підходів на тиждень по",
+      "status": "ok",
+      "duration_s": 181.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Скільки підходів на тиждень по",
+      "status": "ok",
+      "duration_s": 16.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Скільки підходів на тиждень по",
+      "status": "ok",
+      "duration_s": 9.6,
+      "error": null
+    },
+    {
+      "name": "save:Скільки підходів на тиждень по",
+      "status": "ok",
+      "duration_s": 95.4,
+      "error": null
+    },
+    {
+      "name": "research:Слух і деменція: чому втрата с",
+      "status": "ok",
+      "duration_s": 204.7,
+      "error": null
+    },
+    {
+      "name": "generate:Слух і деменція: чому втрата с",
+      "status": "ok",
+      "duration_s": 127.5,
+      "error": null
+    },
+    {
+      "name": "review:Слух і деменція: чому втрата с",
+      "status": "ok",
+      "duration_s": 236.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Слух і деменція: чому втрата с",
+      "status": "ok",
+      "duration_s": 16.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Слух і деменція: чому втрата с",
+      "status": "ok",
+      "duration_s": 9.2,
+      "error": null
+    },
+    {
+      "name": "save:Слух і деменція: чому втрата с",
+      "status": "ok",
+      "duration_s": 426.5,
+      "error": null
+    },
+    {
+      "name": "research:Остеопороз без симптомів: кому",
+      "status": "ok",
+      "duration_s": 223.7,
+      "error": null
+    },
+    {
+      "name": "generate:Остеопороз без симптомів: кому",
+      "status": "ok",
+      "duration_s": 120.1,
+      "error": null
+    },
+    {
+      "name": "review:Остеопороз без симптомів: кому",
+      "status": "ok",
+      "duration_s": 225.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Остеопороз без симптомів: кому",
+      "status": "ok",
+      "duration_s": 15.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Остеопороз без симптомів: кому",
+      "status": "ok",
+      "duration_s": 9.3,
+      "error": null
+    },
+    {
+      "name": "save:Остеопороз без симптомів: кому",
+      "status": "ok",
+      "duration_s": 111.9,
+      "error": null
+    },
+    {
+      "name": "research:Щоденник вдячності під мікроск",
+      "status": "ok",
+      "duration_s": 241.3,
+      "error": null
+    },
+    {
+      "name": "generate:Щоденник вдячності під мікроск",
+      "status": "ok",
+      "duration_s": 71.6,
+      "error": null
+    },
+    {
+      "name": "review:Щоденник вдячності під мікроск",
+      "status": "ok",
+      "duration_s": 308.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Щоденник вдячності під мікроск",
+      "status": "ok",
+      "duration_s": 16.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Щоденник вдячності під мікроск",
+      "status": "ok",
+      "duration_s": 9.6,
+      "error": null
+    },
+    {
+      "name": "save:Щоденник вдячності під мікроск",
+      "status": "ok",
+      "duration_s": 299.9,
+      "error": null
+    },
+    {
+      "name": "research:Психобіотики: чи можуть пробіо",
+      "status": "ok",
+      "duration_s": 174.2,
+      "error": null
+    },
+    {
+      "name": "generate:Психобіотики: чи можуть пробіо",
+      "status": "ok",
+      "duration_s": 90.5,
+      "error": null
+    },
+    {
+      "name": "review:Психобіотики: чи можуть пробіо",
+      "status": "ok",
+      "duration_s": 202.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Психобіотики: чи можуть пробіо",
+      "status": "ok",
+      "duration_s": 16.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Психобіотики: чи можуть пробіо",
+      "status": "ok",
+      "duration_s": 12.4,
+      "error": null
+    },
+    {
+      "name": "save:Психобіотики: чи можуть пробіо",
+      "status": "ok",
+      "duration_s": 232.0,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.2,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

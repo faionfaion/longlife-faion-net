@@ -1,0 +1,392 @@
+{
+  "timestamp": "2026-05-29_043445",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "psa-skryninh-prostata-nhs-brca2-grupy-ryzyku-2026, alkohol-jamka-kryva-zhao-meta-analiz-2023-no-safe-level, straik-likariv-nhs-smertnist-meta-analiz-essex-korea-2024, semaglutyd-mязова-masa-step1-sylovi-trenuvannya-bilok, glutamat-prefrontalna-kora-pyatnytsya-wiehler-current-biology-2022",
+  "author": "LongLife Media",
+  "duration_s": 5502.4,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 267.1,
+      "error": null
+    },
+    {
+      "name": "research:Скринінг раку простати лише дл",
+      "status": "ok",
+      "duration_s": 227.9,
+      "error": null
+    },
+    {
+      "name": "generate:Скринінг раку простати лише дл",
+      "status": "ok",
+      "duration_s": 123.2,
+      "error": null
+    },
+    {
+      "name": "review:Скринінг раку простати лише дл",
+      "status": "ok",
+      "duration_s": 145.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Скринінг раку простати лише дл",
+      "status": "ok",
+      "duration_s": 16.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Скринінг раку простати лише дл",
+      "status": "ok",
+      "duration_s": 7.1,
+      "error": null
+    },
+    {
+      "name": "save:Скринінг раку простати лише дл",
+      "status": "ok",
+      "duration_s": 206.1,
+      "error": null
+    },
+    {
+      "name": "research:П'ятничний алкоголь і вихідні:",
+      "status": "ok",
+      "duration_s": 238.4,
+      "error": null
+    },
+    {
+      "name": "generate:П'ятничний алкоголь і вихідні:",
+      "status": "ok",
+      "duration_s": 90.9,
+      "error": null
+    },
+    {
+      "name": "review:П'ятничний алкоголь і вихідні:",
+      "status": "ok",
+      "duration_s": 105.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:П'ятничний алкоголь і вихідні:",
+      "status": "ok",
+      "duration_s": 16.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:П'ятничний алкоголь і вихідні:",
+      "status": "ok",
+      "duration_s": 8.8,
+      "error": null
+    },
+    {
+      "name": "save:П'ятничний алкоголь і вихідні:",
+      "status": "ok",
+      "duration_s": 253.2,
+      "error": null
+    },
+    {
+      "name": "research:Страйк лікарів-ординаторів в А",
+      "status": "ok",
+      "duration_s": 152.4,
+      "error": null
+    },
+    {
+      "name": "generate:Страйк лікарів-ординаторів в А",
+      "status": "ok",
+      "duration_s": 72.2,
+      "error": null
+    },
+    {
+      "name": "review:Страйк лікарів-ординаторів в А",
+      "status": "ok",
+      "duration_s": 87.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Страйк лікарів-ординаторів в А",
+      "status": "ok",
+      "duration_s": 24.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Страйк лікарів-ординаторів в А",
+      "status": "ok",
+      "duration_s": 9.0,
+      "error": null
+    },
+    {
+      "name": "save:Страйк лікарів-ординаторів в А",
+      "status": "ok",
+      "duration_s": 213.3,
+      "error": null
+    },
+    {
+      "name": "research:Семаглутид і м'язова маса: що ",
+      "status": "ok",
+      "duration_s": 241.9,
+      "error": null
+    },
+    {
+      "name": "generate:Семаглутид і м'язова маса: що ",
+      "status": "ok",
+      "duration_s": 81.2,
+      "error": null
+    },
+    {
+      "name": "review:Семаглутид і м'язова маса: що ",
+      "status": "ok",
+      "duration_s": 107.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Семаглутид і м'язова маса: що ",
+      "status": "ok",
+      "duration_s": 18.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Семаглутид і м'язова маса: що ",
+      "status": "ok",
+      "duration_s": 9.6,
+      "error": null
+    },
+    {
+      "name": "save:Семаглутид і м'язова маса: що ",
+      "status": "ok",
+      "duration_s": 20.1,
+      "error": null
+    },
+    {
+      "name": "research:Розумова втома у п'ятницю ввеч",
+      "status": "ok",
+      "duration_s": 282.8,
+      "error": null
+    },
+    {
+      "name": "generate:Розумова втома у п'ятницю ввеч",
+      "status": "ok",
+      "duration_s": 76.4,
+      "error": null
+    },
+    {
+      "name": "review:Розумова втома у п'ятницю ввеч",
+      "status": "ok",
+      "duration_s": 95.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Розумова втома у п'ятницю ввеч",
+      "status": "ok",
+      "duration_s": 16.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Розумова втома у п'ятницю ввеч",
+      "status": "ok",
+      "duration_s": 11.4,
+      "error": null
+    },
+    {
+      "name": "save:Розумова втома у п'ятницю ввеч",
+      "status": "ok",
+      "duration_s": 14.8,
+      "error": null
+    },
+    {
+      "name": "research:Вечеря пізно ввечері і здоров'",
+      "status": "ok",
+      "duration_s": 153.4,
+      "error": null
+    },
+    {
+      "name": "generate:Вечеря пізно ввечері і здоров'",
+      "status": "ok",
+      "duration_s": 68.8,
+      "error": null
+    },
+    {
+      "name": "review:Вечеря пізно ввечері і здоров'",
+      "status": "ok",
+      "duration_s": 98.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Вечеря пізно ввечері і здоров'",
+      "status": "ok",
+      "duration_s": 17.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Вечеря пізно ввечері і здоров'",
+      "status": "ok",
+      "duration_s": 9.4,
+      "error": null
+    },
+    {
+      "name": "save:Вечеря пізно ввечері і здоров'",
+      "status": "ok",
+      "duration_s": 18.6,
+      "error": null
+    },
+    {
+      "name": "research:Soreness не дорівнює росту м'я",
+      "status": "ok",
+      "duration_s": 149.6,
+      "error": null
+    },
+    {
+      "name": "generate:Soreness не дорівнює росту м'я",
+      "status": "ok",
+      "duration_s": 78.7,
+      "error": null
+    },
+    {
+      "name": "review:Soreness не дорівнює росту м'я",
+      "status": "ok",
+      "duration_s": 100.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Soreness не дорівнює росту м'я",
+      "status": "ok",
+      "duration_s": 19.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Soreness не дорівнює росту м'я",
+      "status": "ok",
+      "duration_s": 9.2,
+      "error": null
+    },
+    {
+      "name": "save:Soreness не дорівнює росту м'я",
+      "status": "ok",
+      "duration_s": 17.3,
+      "error": null
+    },
+    {
+      "name": "research:Сонячні очі і UV: чому варто н",
+      "status": "ok",
+      "duration_s": 214.3,
+      "error": null
+    },
+    {
+      "name": "generate:Сонячні очі і UV: чому варто н",
+      "status": "ok",
+      "duration_s": 123.2,
+      "error": null
+    },
+    {
+      "name": "review:Сонячні очі і UV: чому варто н",
+      "status": "ok",
+      "duration_s": 168.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Сонячні очі і UV: чому варто н",
+      "status": "ok",
+      "duration_s": 18.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Сонячні очі і UV: чому варто н",
+      "status": "ok",
+      "duration_s": 9.4,
+      "error": null
+    },
+    {
+      "name": "save:Сонячні очі і UV: чому варто н",
+      "status": "ok",
+      "duration_s": 16.8,
+      "error": null
+    },
+    {
+      "name": "research:Дитячий розлад харчової поведі",
+      "status": "ok",
+      "duration_s": 230.7,
+      "error": null
+    },
+    {
+      "name": "generate:Дитячий розлад харчової поведі",
+      "status": "ok",
+      "duration_s": 134.1,
+      "error": null
+    },
+    {
+      "name": "review:Дитячий розлад харчової поведі",
+      "status": "ok",
+      "duration_s": 144.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Дитячий розлад харчової поведі",
+      "status": "ok",
+      "duration_s": 17.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Дитячий розлад харчової поведі",
+      "status": "ok",
+      "duration_s": 10.2,
+      "error": null
+    },
+    {
+      "name": "save:Дитячий розлад харчової поведі",
+      "status": "ok",
+      "duration_s": 16.6,
+      "error": null
+    },
+    {
+      "name": "research:Парилка vs фінська сауна: чи д",
+      "status": "ok",
+      "duration_s": 243.2,
+      "error": null
+    },
+    {
+      "name": "generate:Парилка vs фінська сауна: чи д",
+      "status": "ok",
+      "duration_s": 53.5,
+      "error": null
+    },
+    {
+      "name": "review:Парилка vs фінська сауна: чи д",
+      "status": "ok",
+      "duration_s": 76.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Парилка vs фінська сауна: чи д",
+      "status": "ok",
+      "duration_s": 16.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Парилка vs фінська сауна: чи д",
+      "status": "ok",
+      "duration_s": 8.7,
+      "error": null
+    },
+    {
+      "name": "save:Парилка vs фінська сауна: чи д",
+      "status": "ok",
+      "duration_s": 15.5,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.3,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.2,
+      "error": null
+    }
+  ]
+}

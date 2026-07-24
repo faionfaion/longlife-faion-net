@@ -1,0 +1,326 @@
+{
+  "timestamp": "2026-05-23_043306",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "melanoma-abcde-efg-vuzlova-bezpihmentna-samoogliad-2026, voz-komisiia-sotsialni-zviazky-samotnist-kpt-2025, rybiachyi-zhyr-omega-3-sertse-mozok-vital-reduce-it-cochrane, epworth-shkala-sonlyvosti-stop-bang-apnoe-snu-cpap-sertse, syla-hvatu-biomarker-vs-silovi-trenuvannia-smertnist",
+  "author": "LongLife Media",
+  "duration_s": 5402.7,
+  "image_generated": false,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 468.5,
+      "error": null
+    },
+    {
+      "name": "research:Меланома б'є рекорди: як перев",
+      "status": "ok",
+      "duration_s": 225.0,
+      "error": null
+    },
+    {
+      "name": "generate:Меланома б'є рекорди: як перев",
+      "status": "ok",
+      "duration_s": 174.7,
+      "error": null
+    },
+    {
+      "name": "review:Меланома б'є рекорди: як перев",
+      "status": "ok",
+      "duration_s": 322.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Меланома б'є рекорди: як перев",
+      "status": "ok",
+      "duration_s": 20.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Меланома б'є рекорди: як перев",
+      "status": "ok",
+      "duration_s": 13.1,
+      "error": null
+    },
+    {
+      "name": "save:Меланома б'є рекорди: як перев",
+      "status": "ok",
+      "duration_s": 16.6,
+      "error": null
+    },
+    {
+      "name": "research:Самотність як фактор ризику см",
+      "status": "ok",
+      "duration_s": 179.6,
+      "error": null
+    },
+    {
+      "name": "generate:Самотність як фактор ризику см",
+      "status": "ok",
+      "duration_s": 101.5,
+      "error": null
+    },
+    {
+      "name": "review:Самотність як фактор ризику см",
+      "status": "ok",
+      "duration_s": 162.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Самотність як фактор ризику см",
+      "status": "ok",
+      "duration_s": 20.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Самотність як фактор ризику см",
+      "status": "ok",
+      "duration_s": 10.3,
+      "error": null
+    },
+    {
+      "name": "save:Самотність як фактор ризику см",
+      "status": "ok",
+      "duration_s": 15.8,
+      "error": null
+    },
+    {
+      "name": "research:Риб'ячий жир під мікроскопом: ",
+      "status": "ok",
+      "duration_s": 282.5,
+      "error": null
+    },
+    {
+      "name": "generate:Риб'ячий жир під мікроскопом: ",
+      "status": "ok",
+      "duration_s": 131.1,
+      "error": null
+    },
+    {
+      "name": "review:Риб'ячий жир під мікроскопом: ",
+      "status": "ok",
+      "duration_s": 146.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Риб'ячий жир під мікроскопом: ",
+      "status": "ok",
+      "duration_s": 18.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Риб'ячий жир під мікроскопом: ",
+      "status": "ok",
+      "duration_s": 11.0,
+      "error": null
+    },
+    {
+      "name": "save:Риб'ячий жир під мікроскопом: ",
+      "status": "ok",
+      "duration_s": 15.0,
+      "error": null
+    },
+    {
+      "name": "research:Хропіння — це не норма: навіщо",
+      "status": "ok",
+      "duration_s": 171.9,
+      "error": null
+    },
+    {
+      "name": "generate:Хропіння — це не норма: навіщо",
+      "status": "ok",
+      "duration_s": 127.7,
+      "error": null
+    },
+    {
+      "name": "review:Хропіння — це не норма: навіщо",
+      "status": "ok",
+      "duration_s": 280.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Хропіння — це не норма: навіщо",
+      "status": "ok",
+      "duration_s": 23.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Хропіння — це не норма: навіщо",
+      "status": "ok",
+      "duration_s": 10.6,
+      "error": null
+    },
+    {
+      "name": "save:Хропіння — це не норма: навіщо",
+      "status": "ok",
+      "duration_s": 15.9,
+      "error": null
+    },
+    {
+      "name": "research:Сила хвату як дзеркало здоров'",
+      "status": "ok",
+      "duration_s": 172.4,
+      "error": null
+    },
+    {
+      "name": "generate:Сила хвату як дзеркало здоров'",
+      "status": "ok",
+      "duration_s": 100.4,
+      "error": null
+    },
+    {
+      "name": "review:Сила хвату як дзеркало здоров'",
+      "status": "ok",
+      "duration_s": 180.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Сила хвату як дзеркало здоров'",
+      "status": "ok",
+      "duration_s": 20.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Сила хвату як дзеркало здоров'",
+      "status": "ok",
+      "duration_s": 10.6,
+      "error": null
+    },
+    {
+      "name": "save:Сила хвату як дзеркало здоров'",
+      "status": "ok",
+      "duration_s": 16.5,
+      "error": null
+    },
+    {
+      "name": "research:«Снеки руху»: чому 3×20 секунд",
+      "status": "ok",
+      "duration_s": 231.6,
+      "error": null
+    },
+    {
+      "name": "generate:«Снеки руху»: чому 3×20 секунд",
+      "status": "ok",
+      "duration_s": 115.5,
+      "error": null
+    },
+    {
+      "name": "review:«Снеки руху»: чому 3×20 секунд",
+      "status": "ok",
+      "duration_s": 216.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:«Снеки руху»: чому 3×20 секунд",
+      "status": "ok",
+      "duration_s": 18.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:«Снеки руху»: чому 3×20 секунд",
+      "status": "ok",
+      "duration_s": 10.7,
+      "error": null
+    },
+    {
+      "name": "save:«Снеки руху»: чому 3×20 секунд",
+      "status": "ok",
+      "duration_s": 17.4,
+      "error": null
+    },
+    {
+      "name": "research:Берберин — це не «природний Oz",
+      "status": "ok",
+      "duration_s": 187.3,
+      "error": null
+    },
+    {
+      "name": "generate:Берберин — це не «природний Oz",
+      "status": "ok",
+      "duration_s": 116.8,
+      "error": null
+    },
+    {
+      "name": "review:Берберин — це не «природний Oz",
+      "status": "ok",
+      "duration_s": 205.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Берберин — це не «природний Oz",
+      "status": "ok",
+      "duration_s": 19.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Берберин — це не «природний Oz",
+      "status": "ok",
+      "duration_s": 12.9,
+      "error": null
+    },
+    {
+      "name": "save:Берберин — це не «природний Oz",
+      "status": "ok",
+      "duration_s": 17.0,
+      "error": null
+    },
+    {
+      "name": "research:Вакцина проти Ебола-Bundibugyo",
+      "status": "failed",
+      "duration_s": 182.2,
+      "error": "Claude Code returned an error result: success"
+    },
+    {
+      "name": "research:Червоне світло (фотобіомодуляц",
+      "status": "ok",
+      "duration_s": 216.1,
+      "error": null
+    },
+    {
+      "name": "generate:Червоне світло (фотобіомодуляц",
+      "status": "ok",
+      "duration_s": 103.5,
+      "error": null
+    },
+    {
+      "name": "review:Червоне світло (фотобіомодуляц",
+      "status": "ok",
+      "duration_s": 213.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Червоне світло (фотобіомодуляц",
+      "status": "ok",
+      "duration_s": 22.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Червоне світло (фотобіомодуляц",
+      "status": "ok",
+      "duration_s": 10.6,
+      "error": null
+    },
+    {
+      "name": "save:Червоне світло (фотобіомодуляц",
+      "status": "ok",
+      "duration_s": 15.7,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.2,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

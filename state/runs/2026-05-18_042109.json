@@ -1,0 +1,392 @@
+{
+  "timestamp": "2026-05-18_042109",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "ebola-bundibugyo-pheic-2026-drc-uganda-ukraina, digital-detox-24-hours-castelo-pnas-nexus-2025-rct-adults, aspirin-pervynna-profilaktyka-uspstf-2022-aspree-ascend-2026, tykha-hipertonia-30-40-sprint-10-rokiv-hbpm-masked-hypertension, ponedilkovyi-restart-fresh-start-effect-temporal-landmarks-implementation-intentions",
+  "author": "LongLife Media",
+  "duration_s": 4686.5,
+  "image_generated": false,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 311.0,
+      "error": null
+    },
+    {
+      "name": "research:Спалах Ебола Bundibugyo у ДР К",
+      "status": "ok",
+      "duration_s": 199.7,
+      "error": null
+    },
+    {
+      "name": "generate:Спалах Ебола Bundibugyo у ДР К",
+      "status": "ok",
+      "duration_s": 84.5,
+      "error": null
+    },
+    {
+      "name": "review:Спалах Ебола Bundibugyo у ДР К",
+      "status": "ok",
+      "duration_s": 122.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Спалах Ебола Bundibugyo у ДР К",
+      "status": "ok",
+      "duration_s": 19.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Спалах Ебола Bundibugyo у ДР К",
+      "status": "ok",
+      "duration_s": 13.0,
+      "error": null
+    },
+    {
+      "name": "save:Спалах Ебола Bundibugyo у ДР К",
+      "status": "ok",
+      "duration_s": 8.1,
+      "error": null
+    },
+    {
+      "name": "research:Цифровий детокс 24 години: що ",
+      "status": "ok",
+      "duration_s": 178.3,
+      "error": null
+    },
+    {
+      "name": "generate:Цифровий детокс 24 години: що ",
+      "status": "ok",
+      "duration_s": 85.4,
+      "error": null
+    },
+    {
+      "name": "review:Цифровий детокс 24 години: що ",
+      "status": "ok",
+      "duration_s": 92.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Цифровий детокс 24 години: що ",
+      "status": "ok",
+      "duration_s": 18.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Цифровий детокс 24 години: що ",
+      "status": "ok",
+      "duration_s": 12.4,
+      "error": null
+    },
+    {
+      "name": "save:Цифровий детокс 24 години: що ",
+      "status": "ok",
+      "duration_s": 15.9,
+      "error": null
+    },
+    {
+      "name": "research:Аспірин для первинної профілак",
+      "status": "ok",
+      "duration_s": 191.7,
+      "error": null
+    },
+    {
+      "name": "generate:Аспірин для первинної профілак",
+      "status": "ok",
+      "duration_s": 75.9,
+      "error": null
+    },
+    {
+      "name": "review:Аспірин для первинної профілак",
+      "status": "ok",
+      "duration_s": 136.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Аспірин для первинної профілак",
+      "status": "ok",
+      "duration_s": 21.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Аспірин для первинної профілак",
+      "status": "ok",
+      "duration_s": 11.5,
+      "error": null
+    },
+    {
+      "name": "save:Аспірин для первинної профілак",
+      "status": "ok",
+      "duration_s": 15.8,
+      "error": null
+    },
+    {
+      "name": "research:Тиха гіпертонія у 30-40 років:",
+      "status": "ok",
+      "duration_s": 179.4,
+      "error": null
+    },
+    {
+      "name": "generate:Тиха гіпертонія у 30-40 років:",
+      "status": "ok",
+      "duration_s": 76.8,
+      "error": null
+    },
+    {
+      "name": "review:Тиха гіпертонія у 30-40 років:",
+      "status": "ok",
+      "duration_s": 107.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Тиха гіпертонія у 30-40 років:",
+      "status": "ok",
+      "duration_s": 23.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Тиха гіпертонія у 30-40 років:",
+      "status": "ok",
+      "duration_s": 12.7,
+      "error": null
+    },
+    {
+      "name": "save:Тиха гіпертонія у 30-40 років:",
+      "status": "ok",
+      "duration_s": 15.8,
+      "error": null
+    },
+    {
+      "name": "research:Понеділковий рестарт: чому 'еф",
+      "status": "ok",
+      "duration_s": 245.8,
+      "error": null
+    },
+    {
+      "name": "generate:Понеділковий рестарт: чому 'еф",
+      "status": "ok",
+      "duration_s": 55.9,
+      "error": null
+    },
+    {
+      "name": "review:Понеділковий рестарт: чому 'еф",
+      "status": "ok",
+      "duration_s": 71.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Понеділковий рестарт: чому 'еф",
+      "status": "ok",
+      "duration_s": 18.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Понеділковий рестарт: чому 'еф",
+      "status": "ok",
+      "duration_s": 11.2,
+      "error": null
+    },
+    {
+      "name": "save:Понеділковий рестарт: чому 'еф",
+      "status": "ok",
+      "duration_s": 20.7,
+      "error": null
+    },
+    {
+      "name": "research:Сонна інерція в понеділок: чом",
+      "status": "ok",
+      "duration_s": 285.2,
+      "error": null
+    },
+    {
+      "name": "generate:Сонна інерція в понеділок: чом",
+      "status": "ok",
+      "duration_s": 59.4,
+      "error": null
+    },
+    {
+      "name": "review:Сонна інерція в понеділок: чом",
+      "status": "ok",
+      "duration_s": 75.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Сонна інерція в понеділок: чом",
+      "status": "ok",
+      "duration_s": 20.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Сонна інерція в понеділок: чом",
+      "status": "ok",
+      "duration_s": 9.9,
+      "error": null
+    },
+    {
+      "name": "save:Сонна інерція в понеділок: чом",
+      "status": "ok",
+      "duration_s": 19.1,
+      "error": null
+    },
+    {
+      "name": "research:HMB як добавка проти саркопені",
+      "status": "ok",
+      "duration_s": 222.4,
+      "error": null
+    },
+    {
+      "name": "generate:HMB як добавка проти саркопені",
+      "status": "ok",
+      "duration_s": 76.2,
+      "error": null
+    },
+    {
+      "name": "review:HMB як добавка проти саркопені",
+      "status": "ok",
+      "duration_s": 115.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:HMB як добавка проти саркопені",
+      "status": "ok",
+      "duration_s": 20.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:HMB як добавка проти саркопені",
+      "status": "ok",
+      "duration_s": 8.5,
+      "error": null
+    },
+    {
+      "name": "save:HMB як добавка проти саркопені",
+      "status": "ok",
+      "duration_s": 16.0,
+      "error": null
+    },
+    {
+      "name": "research:Зональні тренування за пульсом",
+      "status": "ok",
+      "duration_s": 143.0,
+      "error": null
+    },
+    {
+      "name": "generate:Зональні тренування за пульсом",
+      "status": "ok",
+      "duration_s": 76.0,
+      "error": null
+    },
+    {
+      "name": "review:Зональні тренування за пульсом",
+      "status": "ok",
+      "duration_s": 116.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Зональні тренування за пульсом",
+      "status": "ok",
+      "duration_s": 24.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Зональні тренування за пульсом",
+      "status": "ok",
+      "duration_s": 9.1,
+      "error": null
+    },
+    {
+      "name": "save:Зональні тренування за пульсом",
+      "status": "ok",
+      "duration_s": 18.5,
+      "error": null
+    },
+    {
+      "name": "research:Ясенева гігієна після 50: міжз",
+      "status": "ok",
+      "duration_s": 225.0,
+      "error": null
+    },
+    {
+      "name": "generate:Ясенева гігієна після 50: міжз",
+      "status": "ok",
+      "duration_s": 105.2,
+      "error": null
+    },
+    {
+      "name": "review:Ясенева гігієна після 50: міжз",
+      "status": "ok",
+      "duration_s": 150.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ясенева гігієна після 50: міжз",
+      "status": "ok",
+      "duration_s": 22.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ясенева гігієна після 50: міжз",
+      "status": "ok",
+      "duration_s": 8.0,
+      "error": null
+    },
+    {
+      "name": "save:Ясенева гігієна після 50: міжз",
+      "status": "ok",
+      "duration_s": 18.6,
+      "error": null
+    },
+    {
+      "name": "research:Адаптогени під мікроскопом: аш",
+      "status": "ok",
+      "duration_s": 127.1,
+      "error": null
+    },
+    {
+      "name": "generate:Адаптогени під мікроскопом: аш",
+      "status": "ok",
+      "duration_s": 93.7,
+      "error": null
+    },
+    {
+      "name": "review:Адаптогени під мікроскопом: аш",
+      "status": "ok",
+      "duration_s": 121.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Адаптогени під мікроскопом: аш",
+      "status": "ok",
+      "duration_s": 16.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Адаптогени під мікроскопом: аш",
+      "status": "ok",
+      "duration_s": 8.1,
+      "error": null
+    },
+    {
+      "name": "save:Адаптогени під мікроскопом: аш",
+      "status": "ok",
+      "duration_s": 17.2,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.2,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

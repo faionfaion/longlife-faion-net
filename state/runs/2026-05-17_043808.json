@@ -1,0 +1,392 @@
+{
+  "timestamp": "2026-05-17_043808",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "nikotynovi-pauchi-voz-poperedzhennia-zyn-velo-pidlitky, avstraliia-eliminuvala-trakhomu-safe-strategia-uroky-ukraini, khodba-pislya-yizhi-2-5-khvylyn-postprandialna-hlyukoza-meta-analiz, long-covid-5-rokiv-recover-metformin-ldn-likuvannia, zakhyst-vid-klishchiv-2026-deet-pikarydyn-permetryn-repelenty",
+  "author": "LongLife Media",
+  "duration_s": 5705.1,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 216.1,
+      "error": null
+    },
+    {
+      "name": "research:Нікотинові паучі захоплюють пі",
+      "status": "ok",
+      "duration_s": 184.8,
+      "error": null
+    },
+    {
+      "name": "generate:Нікотинові паучі захоплюють пі",
+      "status": "ok",
+      "duration_s": 90.9,
+      "error": null
+    },
+    {
+      "name": "review:Нікотинові паучі захоплюють пі",
+      "status": "ok",
+      "duration_s": 96.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Нікотинові паучі захоплюють пі",
+      "status": "ok",
+      "duration_s": 19.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Нікотинові паучі захоплюють пі",
+      "status": "ok",
+      "duration_s": 12.0,
+      "error": null
+    },
+    {
+      "name": "save:Нікотинові паучі захоплюють пі",
+      "status": "ok",
+      "duration_s": 214.5,
+      "error": null
+    },
+    {
+      "name": "research:Австралія елімінувала трахому:",
+      "status": "ok",
+      "duration_s": 199.3,
+      "error": null
+    },
+    {
+      "name": "generate:Австралія елімінувала трахому:",
+      "status": "ok",
+      "duration_s": 92.4,
+      "error": null
+    },
+    {
+      "name": "review:Австралія елімінувала трахому:",
+      "status": "ok",
+      "duration_s": 120.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Австралія елімінувала трахому:",
+      "status": "ok",
+      "duration_s": 20.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Австралія елімінувала трахому:",
+      "status": "ok",
+      "duration_s": 10.0,
+      "error": null
+    },
+    {
+      "name": "save:Австралія елімінувала трахому:",
+      "status": "ok",
+      "duration_s": 303.0,
+      "error": null
+    },
+    {
+      "name": "research:Ходьба після їжі: скільки хвил",
+      "status": "ok",
+      "duration_s": 217.8,
+      "error": null
+    },
+    {
+      "name": "generate:Ходьба після їжі: скільки хвил",
+      "status": "ok",
+      "duration_s": 86.7,
+      "error": null
+    },
+    {
+      "name": "review:Ходьба після їжі: скільки хвил",
+      "status": "ok",
+      "duration_s": 101.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ходьба після їжі: скільки хвил",
+      "status": "ok",
+      "duration_s": 21.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ходьба після їжі: скільки хвил",
+      "status": "ok",
+      "duration_s": 12.5,
+      "error": null
+    },
+    {
+      "name": "save:Ходьба після їжі: скільки хвил",
+      "status": "ok",
+      "duration_s": 101.7,
+      "error": null
+    },
+    {
+      "name": "research:Тривала COVID через 5 років: щ",
+      "status": "ok",
+      "duration_s": 166.5,
+      "error": null
+    },
+    {
+      "name": "generate:Тривала COVID через 5 років: щ",
+      "status": "ok",
+      "duration_s": 85.1,
+      "error": null
+    },
+    {
+      "name": "review:Тривала COVID через 5 років: щ",
+      "status": "ok",
+      "duration_s": 101.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Тривала COVID через 5 років: щ",
+      "status": "ok",
+      "duration_s": 22.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Тривала COVID через 5 років: щ",
+      "status": "ok",
+      "duration_s": 12.4,
+      "error": null
+    },
+    {
+      "name": "save:Тривала COVID через 5 років: щ",
+      "status": "ok",
+      "duration_s": 196.1,
+      "error": null
+    },
+    {
+      "name": "research:Захист від кліщів-2026: репеле",
+      "status": "ok",
+      "duration_s": 225.1,
+      "error": null
+    },
+    {
+      "name": "generate:Захист від кліщів-2026: репеле",
+      "status": "ok",
+      "duration_s": 130.4,
+      "error": null
+    },
+    {
+      "name": "review:Захист від кліщів-2026: репеле",
+      "status": "ok",
+      "duration_s": 156.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Захист від кліщів-2026: репеле",
+      "status": "ok",
+      "duration_s": 20.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Захист від кліщів-2026: репеле",
+      "status": "ok",
+      "duration_s": 11.5,
+      "error": null
+    },
+    {
+      "name": "save:Захист від кліщів-2026: репеле",
+      "status": "ok",
+      "duration_s": 294.8,
+      "error": null
+    },
+    {
+      "name": "research:Ранкове сонце 10 хвилин: чому ",
+      "status": "ok",
+      "duration_s": 192.9,
+      "error": null
+    },
+    {
+      "name": "generate:Ранкове сонце 10 хвилин: чому ",
+      "status": "ok",
+      "duration_s": 67.5,
+      "error": null
+    },
+    {
+      "name": "review:Ранкове сонце 10 хвилин: чому ",
+      "status": "ok",
+      "duration_s": 106.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ранкове сонце 10 хвилин: чому ",
+      "status": "ok",
+      "duration_s": 21.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ранкове сонце 10 хвилин: чому ",
+      "status": "ok",
+      "duration_s": 13.3,
+      "error": null
+    },
+    {
+      "name": "save:Ранкове сонце 10 хвилин: чому ",
+      "status": "ok",
+      "duration_s": 103.7,
+      "error": null
+    },
+    {
+      "name": "research:Магній гліцинат, цитрат, оксид",
+      "status": "ok",
+      "duration_s": 155.6,
+      "error": null
+    },
+    {
+      "name": "generate:Магній гліцинат, цитрат, оксид",
+      "status": "ok",
+      "duration_s": 80.7,
+      "error": null
+    },
+    {
+      "name": "review:Магній гліцинат, цитрат, оксид",
+      "status": "ok",
+      "duration_s": 103.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Магній гліцинат, цитрат, оксид",
+      "status": "ok",
+      "duration_s": 16.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Магній гліцинат, цитрат, оксид",
+      "status": "ok",
+      "duration_s": 12.1,
+      "error": null
+    },
+    {
+      "name": "save:Магній гліцинат, цитрат, оксид",
+      "status": "ok",
+      "duration_s": 18.9,
+      "error": null
+    },
+    {
+      "name": "research:Лісове купання (shinrin-yoku):",
+      "status": "ok",
+      "duration_s": 160.6,
+      "error": null
+    },
+    {
+      "name": "generate:Лісове купання (shinrin-yoku):",
+      "status": "ok",
+      "duration_s": 60.1,
+      "error": null
+    },
+    {
+      "name": "review:Лісове купання (shinrin-yoku):",
+      "status": "ok",
+      "duration_s": 91.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Лісове купання (shinrin-yoku):",
+      "status": "ok",
+      "duration_s": 19.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Лісове купання (shinrin-yoku):",
+      "status": "ok",
+      "duration_s": 13.1,
+      "error": null
+    },
+    {
+      "name": "save:Лісове купання (shinrin-yoku):",
+      "status": "ok",
+      "duration_s": 18.7,
+      "error": null
+    },
+    {
+      "name": "research:Плiометричні стрибки після 40:",
+      "status": "ok",
+      "duration_s": 198.3,
+      "error": null
+    },
+    {
+      "name": "generate:Плiометричні стрибки після 40:",
+      "status": "ok",
+      "duration_s": 85.1,
+      "error": null
+    },
+    {
+      "name": "review:Плiометричні стрибки після 40:",
+      "status": "ok",
+      "duration_s": 118.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Плiометричні стрибки після 40:",
+      "status": "ok",
+      "duration_s": 17.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Плiометричні стрибки після 40:",
+      "status": "ok",
+      "duration_s": 9.4,
+      "error": null
+    },
+    {
+      "name": "save:Плiометричні стрибки після 40:",
+      "status": "ok",
+      "duration_s": 17.5,
+      "error": null
+    },
+    {
+      "name": "research:Пробіг 5K за 30 днів з нуля: д",
+      "status": "ok",
+      "duration_s": 215.0,
+      "error": null
+    },
+    {
+      "name": "generate:Пробіг 5K за 30 днів з нуля: д",
+      "status": "ok",
+      "duration_s": 90.4,
+      "error": null
+    },
+    {
+      "name": "review:Пробіг 5K за 30 днів з нуля: д",
+      "status": "ok",
+      "duration_s": 104.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Пробіг 5K за 30 днів з нуля: д",
+      "status": "ok",
+      "duration_s": 19.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Пробіг 5K за 30 днів з нуля: д",
+      "status": "ok",
+      "duration_s": 9.5,
+      "error": null
+    },
+    {
+      "name": "save:Пробіг 5K за 30 днів з нуля: д",
+      "status": "ok",
+      "duration_s": 20.2,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.2,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

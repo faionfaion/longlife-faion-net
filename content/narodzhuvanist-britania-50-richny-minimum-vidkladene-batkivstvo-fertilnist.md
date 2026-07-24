@@ -1,0 +1,101 @@
+---
+title: "Народжуваність у Британії на 50-річному мінімумі: що репродуктивна наука каже про відкладене батьківство"
+slug: "narodzhuvanist-britania-50-richny-minimum-vidkladene-batkivstvo-fertilnist"
+date: "2026-05-28"
+type: "research"
+lang: "ua"
+tags:
+  - "фертильність"
+  - "репродуктивне здоров'я"
+  - "демографія"
+  - "дослідження"
+  - "планування сім'ї"
+  - "жіноче здоров'я"
+  - "чоловіче здоров'я"
+description: "Що показують дослідження про фертильність, AMH-тести, чоловічий вік і заморожування яйцеклітин — без паніки."
+author: "Віта Зеленко"
+source_urls:
+  - "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/birthsummarytablesenglandandwales/2024"
+  - "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/conceptionandfertilityrates/articles/howisthefertilityratechanginginenglandandwales/2024-10-28"
+  - "https://pmc.ncbi.nlm.nih.gov/articles/PMC3672329/"
+  - "https://pmc.ncbi.nlm.nih.gov/articles/PMC7822973/"
+  - "https://pubmed.ncbi.nlm.nih.gov/29049585/"
+  - "https://academic.oup.com/humupd/article/29/2/157/6824414"
+  - "https://www.sciencedirect.com/science/article/pii/S0015028224019538"
+  - "https://pmc.ncbi.nlm.nih.gov/articles/PMC8761235/"
+  - "https://www.asrm.org/practice-guidance/ethics-opinions/assisted-reproduction-with-advancing-paternal-and-maternal-age-an-ethics-committee-opinion-2025/"
+  - "https://www.fertstert.org/article/S0015-0282(25)02290-3/fulltext"
+  - "https://www.thinkglobalhealth.org/article/reversing-ukraines-population-loss-after-four-years-of-war"
+  - "https://kyivindependent.com/ukraine-birth-rates/"
+source_names:
+  - "Office for National Statistics (UK)"
+  - "ONS — Fertility Rate Analysis 2024"
+  - "Rothman et al., American Journal of Epidemiology"
+  - "Systematic Review, J Assist Reprod Genet"
+  - "Steiner et al., JAMA 2017"
+  - "Levine et al., Human Reproduction Update 2023"
+  - "Fertility & Sterility, 2024 (US donor analysis)"
+  - "Aitken et al., World J Mens Health 2022"
+  - "ASRM Ethics Committee Opinion, 2025"
+  - "Fertility & Sterility, 2025 (egg freezing cohort)"
+  - "Think Global Health (CFR)"
+  - "Kyiv Independent"
+image: "/images/narodzhuvanist-britania-50-richny-minimum-vidkladene-batkivstvo-fertilnist.jpg"
+tg_post: |
+  <b>Народжуваність у Британії впала до історичного мінімуму — а репродуктивна наука пояснює, що відбувається з біологією покоління, яке відкладає батьківство.</b>
+  
+  За даними ONS, сумарний коефіцієнт народжуваності в Англії та Уельсі — 1,41 дитини на жінку, а середній вік матері при першій дитині сягнув 29,4 року. Данське когортне дослідження показує: ймовірність зачаття за цикл падає на 30% у 38–39 років і на 53% у 40–41, а ризик хромосомних аномалій яйцеклітини зростає вдесятеро після 40 — тож гайдлайни NICE, ASRM та ESHRE радять звертатися до фахівця вже після 6 місяців спроб, якщо тобі за 35.
+  
+  <a href="https://longlife.faion.net/narodzhuvanist-britania-50-richny-minimum-vidkladene-batkivstvo-fertilnist/">Читати повністю →</a>
+  
+  <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
+---
+
+Привіт! Є новини з лабораторій і статистичних відомств — і вони серйозні. Управління національної статистики Великої Британії (ONS) повідомило: сумарний коефіцієнт народжуваності в Англії та Уельсі впав до **1,41 дитини на жінку** у 2024 році — це історичний мінімум за всю історію реєстрації з 1938 року ([ONS, 2024](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/birthsummarytablesenglandandwales/2024)).
+
+Цікава деталь: середній вік матері при першій дитині — **29,4 року**, загальний середній вік матері — рекордні 31,0 рік ([ONS analysis, жовтень 2024](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/conceptionandfertilityrates/articles/howisthefertilityratechanginginenglandandwales/2024-10-28)). Народжуваність зросла лише у вікових групах 30–34, 35–39 і 40+. Це не катастрофа — це зміна біографії цілого покоління.
+
+За цими цифрами ховається репродуктивна біологія, про яку варто говорити спокійно й без моралізаторства. Розберемо, що показують дослідження. 🔬
+
+> **Важливо:** ця стаття — оглядова, не медична консультація. Репродуктивне здоров'я завжди індивідуальне: для рішень щодо планування вагітності, обстежень чи кріоконсервації звертайся до гінеколога або репродуктолога, який знає твою історію.
+
+## Жіноча фертильність: де насправді поріг
+
+Данське проспективне когортне дослідження Ротмана показало зниження ймовірності зачаття за цикл порівняно з жінками 30–31 року: у 34–35 років — на 14%, у 38–39 — на 30%, у 40–41 — на 53% ([PMC3672329](https://pmc.ncbi.nlm.nih.gov/articles/PMC3672329/)).
+
+Систематичний огляд клінічних рекомендацій (NICE, ASRM, ESHRE) фіксує консенсус: жінкам після 35 років варто звертатися до фахівця після **6 місяців** невдалих спроб, а не року. Ризик анеуплоїдії (хромосомних аномалій — коли в ембріона неправильна кількість хромосом) яйцеклітини зростає приблизно у 10 разів після 40 років ([PMC7822973](https://pmc.ncbi.nlm.nih.gov/articles/PMC7822973/)).
+
+Важливий нюанс: «обрив о 35» — це спрощення. Зниження плавне через 30-ті, різкий спад починається ближче до 38–40.
+
+## Міф про AMH-тест
+
+Антимюллерів гормон (AMH) — речовина, яка показує запас яйцеклітин у яєчниках. Його активно продають як «тест на фертильність». Але дослідження Steiner у JAMA (2017) на **750 жінках 30–44 років** показало: низький AMH **не** прогнозував меншу ймовірність природного зачаття за 6 чи 12 циклів ([JAMA 2017, PMID 29049585](https://pubmed.ncbi.nlm.nih.gov/29049585/)).
+
+AMH корисний для прогнозу відповіді на ЕКЗ — але не каже, чи зможеш ти завагітніти природним шляхом. Гроші на домашні AMH-тести часто витрачені даремно.
+
+## Чоловічий годинник теж існує
+
+Мета-аналіз Levine та колег у Human Reproduction Update проаналізував **57 168 чоловіків з 53 країн** за 1973–2018 роки: концентрація сперматозоїдів знизилась на **51,6%**, а після 2000 року темп прискорився ([DOI 10.1093/humupd/dmac035](https://academic.oup.com/humupd/article/29/2/157/6824414)).
+
+Для балансу: аналіз 2024 року на доведено фертильних донорах сперми у США не виявив зниження — тренд Levine може частково пояснюватись зміною вибірки ([Fertility & Sterility, 2024](https://www.sciencedirect.com/science/article/pii/S0015028224019538)).
+
+Ще один факт: систематичний огляд 19 досліджень (40 668 чоловіків) показав, що індекс фрагментації ДНК сперматозоїдів (показник пошкодження генетичного матеріалу в сперматозоїді) зростає з 12,6% у віці 20–29 років до 39,3% у 60–80 ([PMC8761235](https://pmc.ncbi.nlm.nih.gov/articles/PMC8761235/)). Етичний комітет ASRM 2025 також нагадує: кожен рік батьківського віку додає ~4% нових мутацій *de novo* — тобто нових генетичних змін, які виникають у сперматозоїді й яких не було в попередніх поколіннях родини ([ASRM, 2025](https://www.asrm.org/practice-guidance/ethics-opinions/assisted-reproduction-with-advancing-paternal-and-maternal-age-an-ethics-committee-opinion-2025/)).
+
+## Заморожування яйцеклітин: чесні цифри
+
+За клінічними даними 2025 року, жінки до 38 років, які розморозили понад 20 зрілих яйцеклітин, мали ~70% шансів живонародження ([Fertility & Sterility, 2025](https://www.fertstert.org/article/S0015-0282(25)02290-3/fulltext)). Важливий нюанс: це дані одноцентрових когорт обмеженого розміру, тож реальні шанси сильно залежать від клініки, протоколу стимуляції й індивідуального здоров'я — не сприймай 70% як гарантовану ставку. Заморожування після 38 дає значно нижчі результати.
+
+## Український контекст
+
+Український TFR оцінюють у 0,8–1,0 — імовірно, найнижчий у світі ([Think Global Health](https://www.thinkglobalhealth.org/article/reversing-ukraines-population-loss-after-four-years-of-war)). У 2024 співвідношення народжень і смертей — приблизно 1:3 ([Kyiv Independent](https://kyivindependent.com/ukraine-birth-rates/)). На відміну від британської історії *відкладеного* батьківства, наша ситуація — *вимушена*: війна, переміщення, розлука.
+
+Для українських родин це робить кріоконсервацію сперми мобілізованих та інформоване планування ще важливішими.
+
+## Що можна зробити вже сьогодні:
+
+- **Знай реальну біологію, а не маркетинг.** Якщо плануєш дітей після 35 — обговори з гінекологом або репродуктологом, не покладайся на домашній AMH.
+- **Чоловіки, ви теж у рівнянні.** Після 40 варто розглянути аналіз фрагментації ДНК сперматозоїдів, а не лише класичну спермограму.
+- **Якщо обставини відкладають батьківство** (війна, кар'єра, відсутність партнера) — кріоконсервація яйцеклітин чи сперми ефективніша до 35. Це опція, а не зобов'язання.
+- **Будь-яке рішення — індивідуальне.** Цифри з досліджень дають орієнтири, але твоя ситуація унікальна. Персональна консультація з репродуктологом завжди корисніша за самодіагностику.
+
+Хоча дані обнадійливі для тих, хто планує заздалегідь, жоден метод не гарантує результату. Інформоване рішення — найкраще, що дає наука. ⏳

@@ -1,0 +1,87 @@
+{
+  "articles": [
+    {
+      "topic": "Вакцина від оперізувального герпесу і ризик деменції: що показало природне дослідження 2025 року в Nature",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Природний експеримент в Уельсі використав порогову дату народження для права на безкоштовне щеплення Zostavax і методом regression discontinuity показав причинно-наближене зниження ризику деменції приблизно на 20% у щеплених. Пояснюємо, чому такий дизайн сильніший за звичайні обсерваційні зв'язки, що додають дані по Shingrix (Taquet 2024), які гіпотези механізму (нейрозапалення, реактивація VZV) і що це означає для українців 50+, де рекомбінантна вакцина фактично недоступна. Обов'язкове застереження: причинність ще не доведена, рішення про вакцинацію — з лікарем.",
+      "sources_hint": "Eyting et al. Nature 2025 (Welsh herpes zoster vaccine natural experiment, regression discontinuity, dementia); Taquet et al. 2024 Shingrix vs Zostavax dementia cohort; CDC/ACIP recombinant zoster vaccine (RZV) recommendations; PubMed 'herpes zoster vaccine dementia 2025'",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Фізичні вправи проти депресії: що показав мережевий мета-аналіз 218 досліджень у BMJ",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Мережевий мета-аналіз Noetel et al. (BMJ 2024, 218 RCT, ~14 000 учасників) показав, що ходьба/біг, силові тренування, йога і танці дають клінічно значущий антидепресивний ефект, порівнянний із психотерапією, причому вища інтенсивність — сильніший ефект. Чесно про обмеження: більшість досліджень із високим ризиком упередженості, сертифікованість доказів за GRADE низька. Практичний акцент для України, де доступ до психотерапевтів обмежений війною: рух як доповнення (не заміна) лікування, коли звертатися до фахівця.",
+      "sources_hint": "Noetel et al. BMJ 2024 'Effect of exercise for depression: systematic review and network meta-analysis of randomised controlled trials'; Cooney Cochrane 2013; Schuch et al. 2016; WHO mental health burden Ukraine wartime",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Ультраоброблена їжа під мікроскопом: що показав зонтичний огляд 45 мета-аналізів і чи всі UPF однаково шкідливі",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Зонтичний огляд Lane et al. (BMJ 2024) пов'язав високе споживання ультраобробленої їжі з десятками наслідків — смертністю, ССЗ, діабетом 2 типу, тривогою й депресією. Пояснюємо класифікацію NOVA, контрольований стаціонарний RCT Hall 2019 (NIH: +508 ккал/день на UPF-дієті при доступності їжі ad libitum), обґрунтовану критику NOVA за нечіткість категорій і практичний висновок для українця: не вся оброблена їжа рівнозначна, на що реально дивитися на етикетці.",
+      "sources_hint": "Lane et al. BMJ 2024 umbrella review ultra-processed foods and health outcomes; Hall et al. Cell Metabolism 2019 NIH inpatient UPF RCT; Monteiro NOVA classification; critiques in Am J Clin Nutr / Nutrients",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Колоректальний рак молодшає: чому скринінг тепер рекомендують з 45 років, а не з 50",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Захворюваність на колоректальний рак серед людей до 50 років зростає у багатьох країнах, і USPSTF у 2021 знизила вік початку скринінгу до 45. Гайд пояснює опції (щорічний FIT-тест на приховану кров vs колоноскопія раз на 10 років), тривожні симптоми, які молоді часто списують на гемороїд чи стрес (кров у калі, зміна ритму випорожнень, залізодефіцитна анемія), і реалії доступу в Україні — відсутність національної програми скринінгу, що покриває НСЗУ. Коли йти до сімейного лікаря.",
+      "sources_hint": "USPSTF 2021 colorectal cancer screening recommendation (age 45); Siegel et al. CA Cancer J Clin early-onset CRC trends; ACS guidelines; Ukrainian National Cancer Registry; PubMed 'early-onset colorectal cancer incidence 2024'",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Денний сон 10–20 хвилин: оптимальний протокол power nap і коли він шкодить",
+      "type": "lifehack",
+      "category": "sleep",
+      "angle": "Чому 10–20-хвилинний сон відновлює пильність майже без сонної інерції, тоді як 30–60 хвилин залишають 'важку голову' через пробудження з глибокого сну. Розбираємо 'кавовий сон' (кофеїн безпосередньо перед коротким сном), оптимальне вікно (рання друга половина дня, не пізніше ~15:00, щоб не красти нічний сон) і червоний прапорець: коли регулярна потреба у довгому денному сні може сигналізувати про апное чи підвищений СС-ризик. Крос-лінк на статтю про сонну інерцію.",
+      "sources_hint": "Brooks & Lack 2006 Sleep (10-min nap optimal); Hayashi nap studies; Centofanti et al. coffee-nap; Mantua & Spencer 2017 review; UK Biobank napping & cardiovascular/brain volume (Paz et al. 2023); link to sleep inertia & caffeine articles",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Фоум-роллер і масажні пістолети: що каже доказова база про відновлення, гнучкість і DOMS",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Мета-аналізи показують, що фоум-роллінг дає короткочасне зростання діапазону руху без втрати сили й трохи зменшує суб'єктивний м'язовий біль (DOMS), але ефект радше відчуттєвий, ніж структурний. Перкусійні масажні пістолети мають ще тоншу доказову базу — переважно гострий приріст ROM. Що з цього варте часу перед розминкою чи після тренування, де закінчуються докази і чому 'розбивання фасції' — фізіологічний міф.",
+      "sources_hint": "Wiewelhove et al. 2019 meta-analysis (foam rolling performance/recovery); Wilke et al. 2020 systematic review; Behm & Wilke 2019; Konrad et al. 2022 percussion/vibration therapy ROM; PubMed 'percussive massage therapy range of motion meta-analysis'",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Глюкозні монітори для здорових: чи вартий цей біохак грошей — докази 2024–2025",
+      "type": "research",
+      "category": "biohacking",
+      "angle": "Безперервні монітори глюкози (CGM) перетворилися на модний біохак завдяки трендам типу 'glucose goddess'. Розбираємо нові дані: у недіабетиків 'спайки' глюкози дуже варіабельні, два прилади на тій самій людині розходяться між собою, а доказів, що штучне згладжування спайків у здорових покращує тверді наслідки для здоров'я, поки немає. Кому CGM справді показаний (діабет, предіабет під наглядом лікаря), а для кого це дорогий маркетинг.",
+      "sources_hint": "Studies on CGM accuracy/variability in non-diabetic adults (Shilo 2024; Howard et al. 2024 comparing CGM devices in healthy people, AJCN); critique of glucose-spike narrative; ADA Standards of Care position on CGM; PubMed 'continuous glucose monitor healthy non-diabetic 2024'",
+      "evidence_level": "preliminary",
+      "priority": 2
+    },
+    {
+      "topic": "Клітковина: чому більшість українців не добирає норму і що показують мета-аналізи про серце, кишечник і смертність",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Замовлений ВООЗ мета-аналіз Reynolds et al. (Lancet 2019) виявив дозозалежне зниження загальної смертності, ССЗ, діабету 2 типу й колоректального раку при споживанні 25–29 г клітковини/день, з подальшою користю при більших дозах. Пояснюємо різницю розчинна/нерозчинна, чому ізольовані добавки не дорівнюють цільним продуктам, реалістичні джерела в українському раціоні (бобові, цільні крупи, овочі, ягоди) і як нарощувати поступово, щоб уникнути здуття. Крос-лінк на статті про UPF і калій.",
+      "sources_hint": "Reynolds et al. Lancet 2019 'Carbohydrate quality and human health' (WHO-commissioned meta-analysis); Veronese et al. 2018 AJCN; EFSA dietary fibre 25 g/day; soluble vs insoluble fibre & SCFA",
+      "evidence_level": "strong",
+      "priority": 3
+    },
+    {
+      "topic": "Біологічний вік за краплею крові: що насправді вимірюють епігенетичні годинники і чи варто платити",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Тести 'біологічного віку' (Horvath, GrimAge, DunedinPACE) продають як спосіб виміряти швидкість старіння. Пояснюємо різницю між годинниками першого і другого покоління, ключову проблему тест-ретест надійності (один зразок може дати різницю в кілька 'років'), що показали інтервенційні дані — CALERIE-2, де калорійне обмеження сповільнило темп старіння за DunedinPACE — і чому це поки інструмент науки, а не керівництво до самостійних дій.",
+      "sources_hint": "Horvath 2013 Genome Biology; Lu et al. GrimAge 2019; Belsky et al. DunedinPACE eLife 2022; Higgins-Chen et al. Nature Aging 2022 (principal-component clock reliability); Waziry et al. Nature Aging 2023 (CALERIE caloric restriction & DunedinPACE)",
+      "evidence_level": "preliminary",
+      "priority": 3
+    }
+  ],
+  "date": "2026-05-20",
+  "created_at": "2026-05-20T03:03:03.444998+00:00"
+}
