@@ -3948,5 +3948,20 @@
       "дослідження"
     ],
     "summary": "Guide article covering the 21 July 2026 UKHSA precautionary medical evacuation of a UK humanitarian worker from DRC to a London HCID unit, and WHO's 2 July 2026 Emergency Use Listing of the first molecular diagnostic test for Ebola Bundibugyo virus (BDBV). Explains WHO's three-tier contact tracing protocol and 21-day monitoring window, current outbreak scale (2,124 confirmed cases, 828 deaths, 39% CFR in DRC; 119 healthcare worker infections), and ECDC's quantitative importation risk estimate (~1 per 23,000 travelers, 0.45% probability of ≥1 imported case per 2 weeks EU/EEA-wide). Third piece in the Bundibugyo series, cross-referencing prior PHEIC and Oxford vaccine coverage. Practical takeaway: symptomatic returnees from endemic regions should call 103 or an infectious disease specialist before visiting outpatient clinics, disclose travel dates, and self-isolate until evaluation. Framing: London case demonstrates the system working, not failing. Evidence strength: strong (official WHO, UKHSA, ECDC sources)."
+  },
+  "alkohol-son-zhinky-adh-whoop-2026-kompensatsiya": {
+    "date": "2026-07-24",
+    "title": "WHOOP 2026: 5 мільйонів ночей показали, чому у жінок келих вина б'є по сну сильніше",
+    "type": "lifehack",
+    "tags": [
+      "сон",
+      "алкоголь",
+      "жіноче здоров'я",
+      "HRV",
+      "REM",
+      "дослідження",
+      "біохакінг"
+    ],
+    "summary": "Свіжий мета-масштабний аналіз PLOS Digital Health 2026 (Grosicki et al., 20 968 користувачів WHOOP, 5,1 млн ночей) показав дозозалежне зростання нічного пульсу (+2,8 vs +2,4 уд/хв на напій) і падіння HRV (−3,8 vs −3,3 мс) з ~12% сильнішим ефектом у жінок. Біологічна основа — нижча активність шлункової ADH (Frezza NEJM 1990) і менше загальної води в тілі, що дає на 35–45% вищий пік BAC. Малі PSG-дослідження (Miyata 2004, n=13; Curtis 2025, n=64) показують редукцію REM у чутливих жінок, але вибірки обмежені. Компенсаторні важелі з Grosicki 2026: зсув напою на 60 хв раніше, довший сон, легше навантаження наступного дня. Стаття доповнює квітневий гід про REM/HRV, не дублюючи його. Рівень доказів: помірний для серцево-судинних маркерів, попередній для REM-ефектів у жінок."
   }
 }
