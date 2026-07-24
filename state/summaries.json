@@ -3963,5 +3963,22 @@
       "біохакінг"
     ],
     "summary": "Свіжий мета-масштабний аналіз PLOS Digital Health 2026 (Grosicki et al., 20 968 користувачів WHOOP, 5,1 млн ночей) показав дозозалежне зростання нічного пульсу (+2,8 vs +2,4 уд/хв на напій) і падіння HRV (−3,8 vs −3,3 мс) з ~12% сильнішим ефектом у жінок. Біологічна основа — нижча активність шлункової ADH (Frezza NEJM 1990) і менше загальної води в тілі, що дає на 35–45% вищий пік BAC. Малі PSG-дослідження (Miyata 2004, n=13; Curtis 2025, n=64) показують редукцію REM у чутливих жінок, але вибірки обмежені. Компенсаторні важелі з Grosicki 2026: зсув напою на 60 хв раніше, довший сон, легше навантаження наступного дня. Стаття доповнює квітневий гід про REM/HRV, не дублюючи його. Рівень доказів: помірний для серцево-судинних маркерів, попередній для REM-ефектів у жінок."
+  },
+  "khodba-pislya-yizhi-2-khvylyny-hlyukoza-buffey-2022": {
+    "date": "2026-07-24",
+    "title": "Ходьба після їжі: чи справді 2 хвилини знижують глюкозу — що показав систематичний огляд Sports Medicine",
+    "type": "fitness",
+    "tags": [
+      "фітнес",
+      "ходьба",
+      "глюкоза",
+      "діабет",
+      "офісне здоровя",
+      "дослідження",
+      "метаболізм",
+      "постпрандіальна глюкоза",
+      "sedentary behaviour"
+    ],
+    "summary": "Systematic review by Buffey et al. (2022, Sports Medicine, 7 RCTs) shows that interrupting prolonged sitting with 2–5 min of light walking every 20–30 min reduces postprandial glucose by ~17% (vs ~9.5% for standing) and lowers insulin. Reynolds 2016 (Diabetologia, n=41 T2D) found three 10-min post-meal walks beat one 30-min walk (~12% lower iAUC, ~22% after dinner). Engeroff 2023 meta-analysis clarifies timing: exercise works only AFTER meals, best within 0–29 min — the '60–90 min window' is when glucose peaks, so walking should precede it. Chang 2025 (Frontiers in Nutrition, 17 trials, 261 adults with obesity) confirms exercise snacks lower glucose (SMD −0.49). Chen 2026 (n=20 healthy) suggests women benefit more. All evidence is ACUTE laboratory data; no long-term HbA1c RCT yet. Practical takeaway: walk 2–10 min within 15–30 min after meals, especially dinner; office workers should break sitting every 30 min. Cross-links to prior CGM article to temper hype. Evidence: moderate."
   }
 }
