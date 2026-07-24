@@ -3930,5 +3930,23 @@
       "Україна"
     ],
     "summary": "Довгостроковий follow-up SELECT-LIFE (AHA 2025) показав, що кардіопротекція семаглутиду зникає після припинення прийому — це підтверджує модель хронічної, а не курсової терапії. Мета-аналіз Lancet D&E 2025 (85 373 учасників) підтвердив зниження MACE на 14%, а JAMA Cardiology 2026 — зниження госпіталізацій на 10%. SURPASS-CVOT (NEJM 2025) показав, що тирзепатид не гірший за дулаглутид, але не перевершує його; дані по нецукрових пацієнтах з'являться лише у 2027 (SURMOUNT-MMO). Основні ризики: саркопенія (25% втраченої ваги — м'язи), панкреатит (сигнал у спостережних даних), NAION. В Україні офіційно доступний лише Ozempic 1 мг (діабет); Wegovy 2.4 мг для ССЗ — очікується 2027. Практичне: не припиняти без плану, додати силові + білок, консультуватись із кардіологом. Evidence: strong для MACE, moderate для legacy-ефекту та ризиків."
+  },
+  "ebola-london-monitoring-humanitarian-workers-ukraina-2026": {
+    "date": "2026-07-24",
+    "title": "Ебола в Лондоні: як працює 21-денний моніторинг гуманітарних працівників і що це означає для України",
+    "type": "guide",
+    "tags": [
+      "ебола",
+      "bundibugyo",
+      "воз",
+      "моніторинг",
+      "гуманітарні місії",
+      "інфекційні хвороби",
+      "профілактика",
+      "подорожі",
+      "ukhsa",
+      "дослідження"
+    ],
+    "summary": "Guide article covering the 21 July 2026 UKHSA precautionary medical evacuation of a UK humanitarian worker from DRC to a London HCID unit, and WHO's 2 July 2026 Emergency Use Listing of the first molecular diagnostic test for Ebola Bundibugyo virus (BDBV). Explains WHO's three-tier contact tracing protocol and 21-day monitoring window, current outbreak scale (2,124 confirmed cases, 828 deaths, 39% CFR in DRC; 119 healthcare worker infections), and ECDC's quantitative importation risk estimate (~1 per 23,000 travelers, 0.45% probability of ≥1 imported case per 2 weeks EU/EEA-wide). Third piece in the Bundibugyo series, cross-referencing prior PHEIC and Oxford vaccine coverage. Practical takeaway: symptomatic returnees from endemic regions should call 103 or an infectious disease specialist before visiting outpatient clinics, disclose travel dates, and self-isolate until evaluation. Framing: London case demonstrates the system working, not failing. Evidence strength: strong (official WHO, UKHSA, ECDC sources)."
   }
 }
