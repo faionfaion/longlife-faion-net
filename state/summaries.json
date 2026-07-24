@@ -3996,5 +3996,23 @@
       "велошолом"
     ],
     "summary": "Стаття зіставляє глобальний звіт ВООЗ 2026 (−21% дорожньої смертності за 2011–2025) з даними МВС та Opendatabot про зростання ДТП в Україні (+11% у 2024, ~3300 загиблих). Пояснює модель Ельвіка (+1% швидкості = +4% фатальних ДТП), мета-аналіз Хусcейна (30 км/год = 5% ризику смерті пішохода vs 90% при 80 км/год), огляд Янніса про ефект зон 30 км/год, ефективність ременів (CDC −45%), велошоломів (Olivier 2017: −60% серйозних травм голови) та ADAS (PARTS 2025: AEB −50%). Ключовий ракурс — звʼязок ЧМТ з деменцією через Lancet Commission 2024 (ЧМТ = 3% PAF із 45%), підкріплений мета-аналізом Gu 2021 (RR 1,17) і датським когортним дослідженням Fann 2018 (HR 1,24). Практичні рекомендації: ремінь, 30 км/год у житлових зонах, велошолом, ADAS при виборі авто. Рівень доказовості — сильний."
+  },
+  "dytyachi-shcheplennia-2026-ukraina-catch-up-mmr-dtp-kalendar-moz": {
+    "date": "2026-07-24",
+    "title": "Дитячі щеплення 2026: чому Україна нижче за середній ЄС і що робити батькам після паузи війни",
+    "type": "guide",
+    "tags": [
+      "щеплення",
+      "діти",
+      "вакцинація",
+      "кір",
+      "MMR",
+      "ВООЗ",
+      "МОЗ",
+      "профілактика",
+      "здоров'я дітей",
+      "catch-up"
+    ],
+    "summary": "Guide article based on the July 2026 WHO-UNICEF WUENIC report showing global DTP3 at 85% and MCV1 at 84%, still below the 2019 baseline and far from the 95% herd-immunity threshold for measles. Ukraine recorded a +2 pp DTP3 increase in 2025 and roughly 2,000 measles cases concentrated in Chernivtsi, Zakarpattia and Ivano-Frankivsk oblasts; neighbouring Romania had ~10,000 cases. Explains the January 2026 МОЗ calendar changes (HPV for 12–13-year-old girls, MMR2 moved from 6 to 4 years, unified 2-4-6-18-month schedule for DTaP/HepB/Hib/polio, BCG within 24 hours, full switch to IPV) and gives parents a step-by-step catch-up protocol drawn from WHO 'Big Catch-Up', CDC refugee guidance and Royal Children's Hospital Melbourne — including the rule not to restart series, co-administration safety, and early MMR from 6 months in outbreak areas. Evidence strength: strong (WUENIC, WHO Europe, ECDC surveillance, national regulatory documents). Includes limitations (WUENIC uncertainty bounds, exclusion of occupied territories) and cross-links to the site's flu-vaccine 2026-2027 article."
   }
 }
