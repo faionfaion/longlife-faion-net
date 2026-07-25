@@ -4165,5 +4165,20 @@
       "лайфхак"
     ],
     "summary": "Lifehack article on the cardiovascular effects of short daytime naps. Reconciles the Naska 2007 Greek siesta study (37% lower coronary mortality) with the Wang 2022 UK Biobank paper in Hypertension (12% higher hypertension risk, 20% higher stroke risk in habitual nappers) via the Yamada 2015 J-curve meta-analysis: naps <60 min are neutral, ≥60 min are harmful. Kallistratos 2020 shows a 5.3 mmHg 24-h SBP reduction in treated hypertensives. Anchored to the 2026 SSPH+ umbrella review. Practical protocol: 20–30 min between 13:00–14:30. Contraindications: chronic insomnia, suspected OSA. Evidence moderate — mostly observational, no RCT for BP-lowering claim in normotensives. Cross-links to prior power nap, CBT-I, STOP-BANG articles."
+  },
+  "ekstsentrychni-vpravy-akhilovyi-tendynoz-doza-alfredson-hsr": {
+    "date": "2026-07-25",
+    "title": "Ексцентричні опускання п'яти при ахіловому тендинозі: скільки повторень справді потрібно",
+    "type": "fitness",
+    "tags": [
+      "ахіловий тендиноз",
+      "ексцентричні вправи",
+      "біг",
+      "реабілітація",
+      "тендинопатія",
+      "спортивна медицина",
+      "HSR"
+    ],
+    "summary": "Стаття переосмислює класичний протокол Альфредсона (3×15 двічі на день) для ахілового тендинозу через призму сучасних доказів. Ключові джерела: RCT Stevens & Tan 2014 (JOSPT) показав, що знижений обсяг повторень 'do-as-tolerated' дає однакове покращення VISA-A за 6 тижнів; клінічна настанова JOSPT 2024 (Chimenti et al.) підтверджує гнучкість дозування (частота від разу на день до 3 разів на тиждень не впливає на результат); RCT Beyer 2015 показав рівноцінність Heavy Slow Resistance (HSR, 3 рази на тиждень) і щоденного Альфредсона з вищою задоволеністю HSR (78% vs 59%). Практична порада: у сезон бігун може обрати HSR або знижений обсяг ексцентричних опускань; продовжувати біг можна за моделлю Silbernagel (біль ≤5/10, без погіршення зранку). Червоні прапорці для звернення до ортопеда: підозра на розрив, відсутність покращення VISA-A на 20 пунктів за 12 тижнів, інсерційна тендинопатія, системні симптоми. Сила доказів: помірна (невеликі RCT, переважно серединна тендинопатія). Стаття НЕ цитує неверифіковану згадку про 'протокол Nakamura 2025', оскільки джерело не знайдено. Кроспосилання на попередню статтю про ексцентричний тренінг."
   }
 }
