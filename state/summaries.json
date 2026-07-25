@@ -4148,5 +4148,22 @@
       "Україна"
     ],
     "summary": "Огляд 45 досліджень технології Oxevision оксфордськими науковцями у межах Lampard Inquiry (2026) показав відсутність сильних незалежних доказів ефективності моніторингових технологій психічного здоров'я. З 10 000+ застосунків менш ніж 5% мають доказову базу; мета-аналіз 66 RCT (Linardon 2019, World Psychiatry) знайшов лише малі ефекти (g≈0.28). Індустріальні провали (Mindstrong $160М, Woebot $124М) підкреслюють розрив між VC-таймлайнами і клінічними доказами. Ефекти чат-ботів зникають до 3 місяців. Українські застосунки (Моментал, Mental Tutor, Solomiya) поки не мають RCT. Практична порада: APA 5-рівнева рамка оцінки, вибір CBT-контенту з людською підтримкою, а за серйозних симптомів — лінія 7333. Рівень доказів: помірний."
+  },
+  "denny-son-20-khvylyn-kroviyanyi-tysk-hypertension-2026": {
+    "date": "2026-07-25",
+    "title": "Сієста для тиску: як денний сон впливає на серце — і кому він шкодить",
+    "type": "lifehack",
+    "tags": [
+      "сон",
+      "денний сон",
+      "сієста",
+      "гіпертонія",
+      "кров'яний тиск",
+      "серце",
+      "дослідження",
+      "UK Biobank",
+      "лайфхак"
+    ],
+    "summary": "Lifehack article on the cardiovascular effects of short daytime naps. Reconciles the Naska 2007 Greek siesta study (37% lower coronary mortality) with the Wang 2022 UK Biobank paper in Hypertension (12% higher hypertension risk, 20% higher stroke risk in habitual nappers) via the Yamada 2015 J-curve meta-analysis: naps <60 min are neutral, ≥60 min are harmful. Kallistratos 2020 shows a 5.3 mmHg 24-h SBP reduction in treated hypertensives. Anchored to the 2026 SSPH+ umbrella review. Practical protocol: 20–30 min between 13:00–14:30. Contraindications: chronic insomnia, suspected OSA. Evidence moderate — mostly observational, no RCT for BP-lowering claim in normotensives. Cross-links to prior power nap, CBT-I, STOP-BANG articles."
   }
 }
