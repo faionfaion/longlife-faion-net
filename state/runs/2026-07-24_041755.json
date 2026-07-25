@@ -1,0 +1,392 @@
+{
+  "timestamp": "2026-07-24_041755",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "glp1-serce-select-life-semahlutyd-necukrovi-patsiyenty-2026, ebola-london-monitoring-humanitarian-workers-ukraina-2026, alkohol-son-zhinky-adh-whoop-2026-kompensatsiya, khodba-pislya-yizhi-2-khvylyny-hlyukoza-buffey-2022, voz-dorozhnia-bezpeka-2026-ukraina-shvydkist-chmt-dementsiia",
+  "author": "LongLife Media",
+  "duration_s": 4492.3,
+  "image_generated": false,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 196.8,
+      "error": null
+    },
+    {
+      "name": "research:GLP-1 і серце: що показав SELE",
+      "status": "ok",
+      "duration_s": 207.9,
+      "error": null
+    },
+    {
+      "name": "generate:GLP-1 і серце: що показав SELE",
+      "status": "ok",
+      "duration_s": 79.0,
+      "error": null
+    },
+    {
+      "name": "review:GLP-1 і серце: що показав SELE",
+      "status": "ok",
+      "duration_s": 112.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:GLP-1 і серце: що показав SELE",
+      "status": "ok",
+      "duration_s": 21.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:GLP-1 і серце: що показав SELE",
+      "status": "ok",
+      "duration_s": 8.6,
+      "error": null
+    },
+    {
+      "name": "save:GLP-1 і серце: що показав SELE",
+      "status": "ok",
+      "duration_s": 37.4,
+      "error": null
+    },
+    {
+      "name": "research:Ебола в Лондоні: що варто знат",
+      "status": "ok",
+      "duration_s": 159.0,
+      "error": null
+    },
+    {
+      "name": "generate:Ебола в Лондоні: що варто знат",
+      "status": "ok",
+      "duration_s": 120.0,
+      "error": null
+    },
+    {
+      "name": "review:Ебола в Лондоні: що варто знат",
+      "status": "ok",
+      "duration_s": 138.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ебола в Лондоні: що варто знат",
+      "status": "ok",
+      "duration_s": 20.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ебола в Лондоні: що варто знат",
+      "status": "ok",
+      "duration_s": 11.2,
+      "error": null
+    },
+    {
+      "name": "save:Ебола в Лондоні: що варто знат",
+      "status": "ok",
+      "duration_s": 18.5,
+      "error": null
+    },
+    {
+      "name": "research:П'ятничний алкоголь і сон: чом",
+      "status": "ok",
+      "duration_s": 205.3,
+      "error": null
+    },
+    {
+      "name": "generate:П'ятничний алкоголь і сон: чом",
+      "status": "ok",
+      "duration_s": 53.5,
+      "error": null
+    },
+    {
+      "name": "review:П'ятничний алкоголь і сон: чом",
+      "status": "ok",
+      "duration_s": 77.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:П'ятничний алкоголь і сон: чом",
+      "status": "ok",
+      "duration_s": 22.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:П'ятничний алкоголь і сон: чом",
+      "status": "ok",
+      "duration_s": 10.8,
+      "error": null
+    },
+    {
+      "name": "save:П'ятничний алкоголь і сон: чом",
+      "status": "ok",
+      "duration_s": 16.6,
+      "error": null
+    },
+    {
+      "name": "research:Ходьба після їжі: чи справді 2",
+      "status": "ok",
+      "duration_s": 164.4,
+      "error": null
+    },
+    {
+      "name": "generate:Ходьба після їжі: чи справді 2",
+      "status": "ok",
+      "duration_s": 108.8,
+      "error": null
+    },
+    {
+      "name": "review:Ходьба після їжі: чи справді 2",
+      "status": "ok",
+      "duration_s": 93.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ходьба після їжі: чи справді 2",
+      "status": "ok",
+      "duration_s": 18.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ходьба після їжі: чи справді 2",
+      "status": "ok",
+      "duration_s": 8.8,
+      "error": null
+    },
+    {
+      "name": "save:Ходьба після їжі: чи справді 2",
+      "status": "ok",
+      "duration_s": 18.5,
+      "error": null
+    },
+    {
+      "name": "research:Тиха епідемія: чому глобальна ",
+      "status": "ok",
+      "duration_s": 166.8,
+      "error": null
+    },
+    {
+      "name": "generate:Тиха епідемія: чому глобальна ",
+      "status": "ok",
+      "duration_s": 86.3,
+      "error": null
+    },
+    {
+      "name": "review:Тиха епідемія: чому глобальна ",
+      "status": "ok",
+      "duration_s": 114.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Тиха епідемія: чому глобальна ",
+      "status": "ok",
+      "duration_s": 20.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Тиха епідемія: чому глобальна ",
+      "status": "ok",
+      "duration_s": 9.4,
+      "error": null
+    },
+    {
+      "name": "save:Тиха епідемія: чому глобальна ",
+      "status": "ok",
+      "duration_s": 19.0,
+      "error": null
+    },
+    {
+      "name": "research:Дитячі щеплення 2026: чому Укр",
+      "status": "ok",
+      "duration_s": 214.5,
+      "error": null
+    },
+    {
+      "name": "generate:Дитячі щеплення 2026: чому Укр",
+      "status": "ok",
+      "duration_s": 125.2,
+      "error": null
+    },
+    {
+      "name": "review:Дитячі щеплення 2026: чому Укр",
+      "status": "ok",
+      "duration_s": 146.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Дитячі щеплення 2026: чому Укр",
+      "status": "ok",
+      "duration_s": 21.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Дитячі щеплення 2026: чому Укр",
+      "status": "ok",
+      "duration_s": 11.9,
+      "error": null
+    },
+    {
+      "name": "save:Дитячі щеплення 2026: чому Укр",
+      "status": "ok",
+      "duration_s": 15.7,
+      "error": null
+    },
+    {
+      "name": "research:Протеїн перед сном: чи справді",
+      "status": "ok",
+      "duration_s": 168.4,
+      "error": null
+    },
+    {
+      "name": "generate:Протеїн перед сном: чи справді",
+      "status": "ok",
+      "duration_s": 82.2,
+      "error": null
+    },
+    {
+      "name": "review:Протеїн перед сном: чи справді",
+      "status": "ok",
+      "duration_s": 106.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Протеїн перед сном: чи справді",
+      "status": "ok",
+      "duration_s": 18.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Протеїн перед сном: чи справді",
+      "status": "ok",
+      "duration_s": 9.8,
+      "error": null
+    },
+    {
+      "name": "save:Протеїн перед сном: чи справді",
+      "status": "ok",
+      "duration_s": 17.7,
+      "error": null
+    },
+    {
+      "name": "research:Тренування у спеку: 5 правил а",
+      "status": "ok",
+      "duration_s": 183.2,
+      "error": null
+    },
+    {
+      "name": "generate:Тренування у спеку: 5 правил а",
+      "status": "ok",
+      "duration_s": 78.5,
+      "error": null
+    },
+    {
+      "name": "review:Тренування у спеку: 5 правил а",
+      "status": "ok",
+      "duration_s": 110.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Тренування у спеку: 5 правил а",
+      "status": "ok",
+      "duration_s": 21.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Тренування у спеку: 5 правил а",
+      "status": "ok",
+      "duration_s": 9.3,
+      "error": null
+    },
+    {
+      "name": "save:Тренування у спеку: 5 правил а",
+      "status": "ok",
+      "duration_s": 17.4,
+      "error": null
+    },
+    {
+      "name": "research:Сауна на вихідних: що показала",
+      "status": "ok",
+      "duration_s": 174.8,
+      "error": null
+    },
+    {
+      "name": "generate:Сауна на вихідних: що показала",
+      "status": "ok",
+      "duration_s": 52.9,
+      "error": null
+    },
+    {
+      "name": "review:Сауна на вихідних: що показала",
+      "status": "ok",
+      "duration_s": 64.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Сауна на вихідних: що показала",
+      "status": "ok",
+      "duration_s": 20.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Сауна на вихідних: що показала",
+      "status": "ok",
+      "duration_s": 9.3,
+      "error": null
+    },
+    {
+      "name": "save:Сауна на вихідних: що показала",
+      "status": "ok",
+      "duration_s": 15.9,
+      "error": null
+    },
+    {
+      "name": "research:120 хвилин на природі на тижде",
+      "status": "ok",
+      "duration_s": 193.7,
+      "error": null
+    },
+    {
+      "name": "generate:120 хвилин на природі на тижде",
+      "status": "ok",
+      "duration_s": 83.5,
+      "error": null
+    },
+    {
+      "name": "review:120 хвилин на природі на тижде",
+      "status": "ok",
+      "duration_s": 121.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:120 хвилин на природі на тижде",
+      "status": "ok",
+      "duration_s": 21.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:120 хвилин на природі на тижде",
+      "status": "ok",
+      "duration_s": 10.9,
+      "error": null
+    },
+    {
+      "name": "save:120 хвилин на природі на тижде",
+      "status": "ok",
+      "duration_s": 16.6,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.3,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

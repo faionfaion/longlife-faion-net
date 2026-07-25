@@ -1,0 +1,96 @@
+{
+  "articles": [
+    {
+      "topic": "Сім стратегій ВООЗ проти утоплення: чому в Україні тонуть удвічі більше за середній ЄС і що робити батькам біля води",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Новий пакет ВООЗ (липень 2026) про профілактику утоплень з адаптацією до українських реалій: статистика ДСНС, чому огородження басейнів працює краще за нагляд, 'сухе утоплення' як міф, техніка 'reach-throw-don't-go', обов'язкові навички плавання до 6 років. Практичний чек-лист для батьків на суботу-неділю в липні-серпні.",
+      "sources_hint": "WHO 'Preventing drowning: seven interventions' 2026; WHO Global Report on Drowning 2014/2024; ДСНС України статистика утоплень 2024-2025; ILS guidelines; Cochrane review on pool fencing (Thompson 2000, updated).",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Тепловий стрес і психіка: як хвилі спеки підвищують ризик депресії та тривоги — розбір Lancet Planetary Health 2026",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Свіжий систематичний огляд про зв'язок температури й психіатричних госпіталізацій — окремий фокус на панічні атаки та «heatwave anxiety», якого не було в попередніх матеріалах про спеку. Що робити людям з тривожними розладами під час аномальної спеки, коли антидепресанти (СІОЗС) знижують теплостійкість. Доповнює вчорашній матеріал 'Спека і серце' психіатричним кутом.",
+      "sources_hint": "PubMed: 'ambient temperature mental health hospitalization 2025 2026'; Lancet Planetary Health; Nori-Sarma JAMA Psychiatry 2022; BBC Health 'Heatwave anxiety' July 2026; APA guidance on SSRI+heat.",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Голод у світі знижується третій рік поспіль: що каже звіт SOFI 2026 і чому в Україні зростає продовольча вразливість",
+      "type": "research",
+      "category": "nutrition",
+      "angle": "Розбір нового звіту FAO/WHO/UNICEF/WFP/IFAD 2026 (SOFI): глобальний PoU знизився, але Східна Європа з війною — виняток. Чому 'прихований голод' (дефіцити заліза, йоду, B12) зростає навіть при достатніх калоріях. Дані НАМНУ по школярах, ВПО, вагітних. Що робити при обмеженому бюджеті — доказовий список 10 доступних нутрієнтно-щільних продуктів.",
+      "sources_hint": "FAO/WHO SOFI 2026 report; Global Nutrition Report 2025; WFP Ukraine assessment 2025; НАМН України 'Стан харчування населення'; Lancet 2023 hidden hunger series.",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "'Докази бракує' — чому додатки для моніторингу психічного здоров'я не працюють: розбір огляду NIHR 2026",
+      "type": "research",
+      "category": "biohacking",
+      "angle": "Критичний розбір огляду NIHR/BBC Health про застосунки для моніторингу настрою, тривоги, суїцидального ризику. Що з 10 000+ mental health apps має реальні RCT (менше 1%), проблема Headspace/Calm ефекту (Linardon 2019), ризики passive sensing (Mindstrong closure). Що робити українцям, які шукають цифрову підтримку: перевірені інструменти (Woebot, Wysa, Тримайся) з реальною доказовою базою.",
+      "sources_hint": "NIHR evidence review mental health apps 2026; BBC Health 'Evidence lacking' July 2026; Linardon World Psychiatry 2019 meta-analysis; Torous JMIR Mental Health 2020; APA app evaluation framework; Fitzpatrick Woebot JMIR 2017.",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Пасивний дохід сну: як 20 хвилин денного сну впливають на кров'яний тиск — нове дослідження Hypertension 2026",
+      "type": "lifehack",
+      "category": "sleep",
+      "angle": "Не про nap для когніції (вже було), а про кардіоваскулярний ефект короткого денного сну. Свіжа мега-когорта UK Biobank 2026 про nap і АТ, порівняння з мета-аналізом Naska 2007. Кому шкодить (нічна безсоння, апное), кому корисно (гіпертоніки на терапії), оптимальний час 13:00-14:30, чому >30 хв — інерція сну і гірші метаболічні наслідки. Ідеальний матеріал на суботу для 'сієсти'.",
+      "sources_hint": "Hypertension journal 2025-2026 nap blood pressure UK Biobank; Naska Arch Intern Med 2007; Häusler Heart 2019; Yamada Sleep 2015 meta-analysis; Mantua Sleep Med Rev 2017 nap architecture.",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Ексцентричні присідання за 2 хвилини на день: що показав протокол Nakamura 2025 для тендинопатії ахілла",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Свіжий RCT (J Sport Rehabil / Br J Sports Med 2025) про мінімальну ефективну дозу ексцентричних вправ Alfredson при ахіловому тендинозі — робить робочим протокол для бігунів у сезон. Порівняння з класичним 3x15 двічі на день, роль важких повільних резистентних (HSR) вправ Beyer, коли направляти до ортопеда.",
+      "sources_hint": "PubMed: 'eccentric heel drop Achilles tendinopathy minimum effective dose 2024 2025'; BJSM; Alfredson 1998 original; Beyer 2015 HSR trial; Malliaras 2013 systematic review; Silbernagel 2020 update.",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Ель-Сальвадор ліквідував трахому: чому Україна не в списку і що це говорить про профілактичну офтальмологію",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "На прикладі валідації ВООЗ Ель-Сальвадору пояснити стратегію SAFE (surgery-antibiotics-facial cleanliness-environment) і перенести логіку на актуальні для України очні проблеми: сухий кератокон'юнктивіт при роботі за монітором, міопія у школярів (проєкт SMILE 2026), рекомендації МОЗ щодо профоглядів. Коли після 40 йти до офтальмолога навіть без скарг.",
+      "sources_hint": "WHO validation report El Salvador 2026; WHO GET2020 initiative; IAPB Vision Atlas 2025; AAO Preferred Practice Patterns; наказ МОЗ №90 щодо профоглядів; Sankaridurg 2023 myopia meta-analysis.",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Мозкові імпланти для депресії: що насправді може і не може закритий контур DBS у 2026",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Реалістичний огляд стану глибокої стимуляції мозку (DBS) при резистентній депресії після BROADEN failure і нових результатів Mayberg 2023-2025 з персоналізованим таргетингом SCC. Свіжий пілот closed-loop DBS у Nature Medicine 2025 (n=10). Чому це не для звичайного пацієнта: критерії резистентності, ризики, вартість, недоступність в Україні. Куди йти українцям з ТРД зараз (кетамін, ТМС, наказ МОЗ).",
+      "sources_hint": "Nature Medicine closed-loop DBS depression 2024/2025; Mayberg SCC DBS Am J Psychiatry 2023; BROADEN trial Dougherty 2015; Scangos Nature Medicine 2021; FDA 2024 breakthrough designations; наказ МОЗ №1118 щодо депресії.",
+      "evidence_level": "preliminary",
+      "priority": 3
+    },
+    {
+      "topic": "Бабусина 'щаслива година': чи справді келих вина в геріатрії покращує якість життя — розбір даних після зміни закону в UK",
+      "type": "nutrition",
+      "category": "longevity",
+      "angle": "Приводом слугує зміна британського закону про алкоголь у будинках літніх людей. Що каже наука про alcohol у 75+: J-крива Holahan 2010 vs нові дані Lancet 2022 (немає безпечної дози), баланс QoL vs ризики падінь, взаємодії з поліфармакотерапією (бензодіазепіни, антигіпертензивні). Позиція ВООЗ Європа 2023, рекомендації для українських геріатрів і родин. Кут суттєво відрізняється від матеріалу про алкоголь і жіночий сон (24.07).",
+      "sources_hint": "GBD alcohol 2022 Lancet; Holahan J Stud Alcohol Drugs 2010; WHO Europe 'No safe level' 2023; Naimi Alcoholism 2017; NICE guidance older adults alcohol; BGS position statement; BBC Health 'Granny wins Happy Hour' July 2026.",
+      "evidence_level": "moderate",
+      "priority": 3
+    },
+    {
+      "topic": "Гліфозат у сечі 90% українців? Що показує європейське біомоніторинг-дослідження HBM4EU і як зменшити експозицію",
+      "type": "guide",
+      "category": "longevity",
+      "angle": "Розбір даних HBM4EU/PARC 2025 про пестициди в сечі європейців з проєкцією на Україну (сільськогосподарська країна). Що каже IARC 2A класифікація vs EFSA переоцінка 2023, реальний рівень ризику для споживача, чи миття овочів працює (Krol 2012), органіка vs звичайна (Curl 2015), пріоритетний Dirty Dozen для України з місцевих культур.",
+      "sources_hint": "HBM4EU aligned studies 2024-2025; PARC project reports; EFSA glyphosate re-evaluation 2023; IARC Monograph 112; Curl Environ Health Perspect 2015; EWG Dirty Dozen 2026; Держпродспоживслужба моніторинг залишків.",
+      "evidence_level": "moderate",
+      "priority": 3
+    }
+  ],
+  "date": "2026-07-25",
+  "created_at": "2026-07-25T03:03:03.197901+00:00"
+}
