@@ -1,0 +1,104 @@
+---
+title: "«Доказів бракує»: чому застосунки для моніторингу психічного здоров'я поки не тримають обіцянок"
+slug: "mental-health-monitoring-apps-oxford-lampard-review-2026"
+date: "2026-07-25"
+type: "research"
+lang: "ua"
+tags:
+  - "психічне здоровя"
+  - "застосунки"
+  - "цифрове здоровя"
+  - "дослідження"
+  - "тривога"
+  - "депресія"
+  - "CBT"
+  - "Україна"
+description: "Огляд доказової бази mental health застосунків: чому 95% з 10 000 не мають RCT і що з цим робити."
+author: "Віта Зеленко"
+source_urls:
+  - "https://www.bbc.co.uk/news/articles/c7vgd11d60do"
+  - "https://htworld.co.uk/news/digital-health/no-strong-independent-evidence-for-mental-health-monitoring-tech-inquiry-hears/"
+  - "https://pubmed.ncbi.nlm.nih.gov/31496095/"
+  - "https://onlinelibrary.wiley.com/doi/full/10.1002/wps.20673"
+  - "https://mental.jmir.org/2017/2/e19/"
+  - "https://onlinelibrary.wiley.com/doi/10.1002/wps.21299"
+  - "https://www.nature.com/articles/s41746-020-00312-4"
+  - "https://www.psychiatry.org/psychiatrists/practice/mental-health-apps"
+  - "https://www.statnews.com/2023/02/06/mindstrong-demise-future-mental-health-care/"
+  - "https://www.medtechdive.com/news/sondermind-acquires-mindstrong-technology-digital-mental-health/645794/"
+  - "https://www.mobihealthnews.com/news/woebot-health-shutting-down-its-app"
+  - "https://pmc.ncbi.nlm.nih.gov/articles/PMC11176869/"
+  - "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12661615/"
+  - "https://www.unicef.org/ukraine/en/press-releases/unicef-helps-how-are-you-campaign-boost-mental-health-ukraine"
+  - "https://howareu.com"
+source_names:
+  - "BBC News"
+  - "Healthcare Technology World"
+  - "PubMed / World Psychiatry (Linardon 2019)"
+  - "World Psychiatry (Linardon 2019, full text)"
+  - "JMIR Mental Health (Fitzpatrick 2017, Woebot RCT)"
+  - "World Psychiatry (Torous 2025)"
+  - "npj Digital Medicine (Lagan/Torous 2020, APA framework)"
+  - "American Psychiatric Association — Mental Health Apps"
+  - "STAT News — Mindstrong demise"
+  - "MedTech Dive — SonderMind acquires Mindstrong"
+  - "MobiHealthNews — Woebot shutdown"
+  - "PMC — Wysa chronic-disease RCT"
+  - "PMC — Mental health chatbot meta-analysis"
+  - "UNICEF Ukraine — «Ти як?» campaign"
+  - "howareu.com — офіційна платформа «Ти як?»"
+image: ""
+tg_post: |
+  <b>Оксфордські вчені перевірили 45 досліджень популярних застосунків для психічного здоров'я — і не знайшли переконливих доказів, що вони працюють.</b>
+  
+  У Google Play та App Store — понад 10 000 mental health застосунків, але менш ніж 5% мають хоч якусь доказову базу. Найбільший мета-аналіз 66 RCT показав лише малі ефекти: покращення депресії за шкалою PHQ-9 у середньому на 1–2 бали — статистично значуще, але клінічно скромно порівняно з живою терапією.
+  
+  <a href="https://longlife.faion.net/mental-health-monitoring-apps-oxford-lampard-review-2026/">Читати повністю →</a>
+  
+  <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
+---
+
+> ⚠️ **Дисклеймер.** Ця стаття — оглядовий матеріал про наукові дані та ринок mental health застосунків. Вона не замінює консультацію лікаря чи психотерапевта. Якщо тобі зараз важко — звернись до фахівця або на національну лінію 7333.
+
+Привіт! Є новини з розслідування Lampard Inquiry у Великій Британії — і вони змушують інакше подивитися на модні застосунки для «моніторингу настрою». Двоє оксфордських науковців переглянули 45 досліджень технології Oxevision (безконтактне інфрачервоне спостереження за пацієнтами у психіатричних відділеннях) і зробили висновок: **«немає сильних незалежних доказів» покращення безпеки, прийнятності чи економічної ефективності** ([BBC News, 2026](https://www.bbc.co.uk/news/articles/c7vgd11d60do)).
+
+При цьому Oxevision вже стоїть у ~40% британських психіатричних клінік. А більшість із цих 45 робіт — або зі співавторами-працівниками виробника, або замалі за вибіркою ([HTWorld, 2026](https://htworld.co.uk/news/digital-health/no-strong-independent-evidence-for-mental-health-monitoring-tech-inquiry-hears/)).
+
+## Скільки з 10 000 застосунків взагалі мають докази?
+
+У Google Play та App Store — понад 10 000 mental health apps. За оцінками систематичних оглядів, менш ніж 5% мають хоч якусь доказову базу ([Lagan et al., npj Digital Medicine 2020](https://www.nature.com/articles/s41746-020-00312-4)).
+
+Найбільший мета-аналіз (66 RCT, тобто рандомізованих контрольованих досліджень — «золотий стандарт» медицини) знайшов реальні, але **малі** ефекти: g≈0.28 для депресії, g≈0.30 для тривоги ([Linardon, World Psychiatry 2019](https://pubmed.ncbi.nlm.nih.gov/31496095/)).
+
+Що таке g≈0.28 простими словами? Це приблизно чверть стандартного відхилення — маленький, але помітний зсув. На практиці, якщо міряти депресію шкалою PHQ-9 (0–27 балів), середнє покращення від застосунку виходить десь на 1–2 бали більше, ніж без нього. Статистично значуще — але клінічно скромно, особливо якщо порівняти з ефектом живої терапії чи медикаментів.
+
+Нагадаємо, ми вже [розбирали Headspace і Calm окремо](https://longlife.faion.net/medytatsiyni-zastosunky-headspace-calm-rct-stres-tryvoga/) — там та сама історія: g≈0.28 і половина досліджень з конфліктом інтересів.
+
+## Мільярди інвестицій — і закриті двері
+
+**Mindstrong.** Компанія Тома Інсела (колишнього директора NIMH) підняла ~$160 млн під ідею «пасивного сенсингу» — визначати депресію за тим, як ти торкаєшся екрана. У лютому 2023 закрилася, так і не опублікувавши переконливих валідаційних RCT ([STAT News, 2023](https://www.statnews.com/2023/02/06/mindstrong-demise-future-mental-health-care/)).
+
+**Woebot.** Чат-бот на основі когнітивно-поведінкової терапії (КПТ) з піонерським пілотним RCT ([Fitzpatrick, JMIR Mental Health 2017](https://mental.jmir.org/2017/2/e19/)). Підняв $124 млн, отримав FDA Breakthrough Designation у 2021 — і закрив споживчий застосунок наприкінці червня 2025 ([MobiHealthNews, 2025](https://www.mobihealthnews.com/news/woebot-health-shutting-down-its-app)).
+
+Що це означає для нас з тобою? Ринок біжить швидше, ніж встигає накопичуватися доказова база.
+
+## А що з чат-ботами взагалі?
+
+Мета-аналіз 18 досліджень чат-ботів для психічного здоров'я показав помірне зниження симптомів депресії й тривоги на 8-му тижні — але **ефект зникав до 3-місячного контрольного огляду** ([PMC, 2024](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12661615/)). Тобто короткостроково — так, довгостроково — питання відкрите.
+
+Wysa у 4-тижневому RCT в людей з артритом і діабетом показав зниження депресії й тривоги ([PMC, 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC11176869/)). Важливий контекст: вибірка була невеликою, спостереження тривало всього 4 тижні, і чи зберігається ефект довше — з цього дослідження не видно. Але це все одно один із найкраще документованих чат-ботів на ринку.
+
+## А українські застосунки?
+
+**«Моментал» від UNICEF Ukraine** у межах національної програми «Ти як?» — 2-хвилинні практики стійкості ([UNICEF Ukraine](https://www.unicef.org/ukraine/en/press-releases/unicef-helps-how-are-you-campaign-boost-mental-health-ukraine)). Є також Mental Tutor від МВС, Solomiya (партнерство з Charité), iStrong для дітей.
+
+Чесно: жоден український застосунок наразі не має опублікованого RCT. Це не робить їх поганими — але «державна підтримка» ≠ «доведена ефективність». 🧠
+
+## Що можна зробити вже сьогодні
+
+1. **Перевір застосунок за 5-рівневою рамкою APA** ([American Psychiatric Association](https://www.psychiatry.org/psychiatrists/practice/mental-health-apps)): доступність, приватність, клінічна база, стиль залучення, обмін даними.
+2. **Обирай КПТ-контент і платформи з людською підтримкою** — саме вони давали більший ефект у мета-аналізах.
+3. **Не покладайся на «пасивний моніторинг настрою»** як на діагностику — доказів поки замало. Використовуй застосунок як щоденник, а не як лікаря.
+4. **За серйозних симптомів** (тривалі суїцидальні думки, важка депресія) — національна лінія психологічної допомоги 7333 або платформа [howareu.com](https://howareu.com). Живий фахівець досі має найсильніші докази ефективності. 🌿
+
+> 💡 **Нагадування.** Цей матеріал — не медична порада. Застосунок може бути хорошим доповненням до турботи про себе, але при серйозних симптомах перший крок — звернутись до лікаря чи психотерапевта.
