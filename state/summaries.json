@@ -4247,5 +4247,22 @@
       "харчова безпека"
     ],
     "summary": "Guide про гліфозат і біомоніторинг HBM4EU. Головні дані: у сечі європейців гліфозат виявляють у 40–99% зразків залежно від когорти та методу (Lemke 2022, Buekers 2022, Grau 2022), але виміряні дози становлять <2% від ADI. IARC (2A, 2015) і EFSA (2023, дозвіл до 2033) розходяться, бо оцінюють hazard vs risk. Для України прямих даних біомоніторингу немає, але країна — №1 імпортер гліфозату з 2012, ~25% ринку — контрафакт. Практика: миття проточною водою знижує залишки на 77% (Kim 2022), сода — до 96% з поверхні яблук (Yang 2017), тижнева органічна дієта знижує сечові маркери на 60–70% (Hyland 2019, Fagan 2020, Bradman 2015). Пріоритетний Dirty Dozen для України: яблука, полуниця, вишні, картопля, листова зелень. Рівень доказовості: moderate."
+  },
+  "sunday-shutdown-ritual-20-min-worry-postponement-newport": {
+    "date": "2026-07-26",
+    "title": "Недільний shutdown ritual: 20 хвилин, які знижують тривогу перед понеділком",
+    "type": "lifehack",
+    "tags": [
+      "тривога",
+      "психічне здоровя",
+      "стрес",
+      "продуктивність",
+      "ритуали",
+      "sunday scaries",
+      "КПТ",
+      "робота",
+      "воєнний час"
+    ],
+    "summary": "Lifehack article on the Sunday shutdown ritual — a 20-minute weekly wind-down protocol popularized by Cal Newport. Synthesizes evidence for its components: worry postponement (Borkovec 1983; McGowan & Behar 2013 RCT; Krzikalla 2024 RCT d=0.82 for GAD; Klar & Barke 2023 meta-analysis of 7 RCTs showing small daily-worry effect d=0.31) and implementation intentions (Gollwitzer & Sheeran 2006 meta-analysis d=0.65; Masicampo & Baumeister 2011 on Zeigarnik-effect closure). Prevalence framed with LinkedIn 80% survey and APA Work in America 2024 (77% workplace stress). Physiology backed by Devereux 2011 Monday-vs-Sunday cortisol. Balanced with limitations: McCarrick 2025 failed to replicate sleep benefit, Newport's bundle not itself RCT-tested, effect sizes modest, no long-term follow-up. Practical 5-step Sunday checklist with wartime Ukrainian framing. Cross-links to CBT and breathing articles. Evidence: moderate."
   }
 }

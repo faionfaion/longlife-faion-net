@@ -1,0 +1,392 @@
+{
+  "timestamp": "2026-07-25_043331",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "voz-protect-utoplennya-profilaktyka-ukraina-2026, speka-psykhika-tryvoga-depresiya-siozs-nature-health-2026, sofi-2026-prykhovanyi-holod-ukraina-nutrienty, mental-health-monitoring-apps-oxford-lampard-review-2026, denny-son-20-khvylyn-kroviyanyi-tysk-hypertension-2026",
+  "author": "LongLife Media",
+  "duration_s": 5428.3,
+  "image_generated": false,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 203.7,
+      "error": null
+    },
+    {
+      "name": "research:Сім стратегій ВООЗ проти утопл",
+      "status": "ok",
+      "duration_s": 146.9,
+      "error": null
+    },
+    {
+      "name": "generate:Сім стратегій ВООЗ проти утопл",
+      "status": "ok",
+      "duration_s": 133.7,
+      "error": null
+    },
+    {
+      "name": "review:Сім стратегій ВООЗ проти утопл",
+      "status": "ok",
+      "duration_s": 144.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Сім стратегій ВООЗ проти утопл",
+      "status": "ok",
+      "duration_s": 22.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Сім стратегій ВООЗ проти утопл",
+      "status": "ok",
+      "duration_s": 10.2,
+      "error": null
+    },
+    {
+      "name": "save:Сім стратегій ВООЗ проти утопл",
+      "status": "ok",
+      "duration_s": 18.1,
+      "error": null
+    },
+    {
+      "name": "research:Тепловий стрес і психіка: як х",
+      "status": "ok",
+      "duration_s": 279.1,
+      "error": null
+    },
+    {
+      "name": "generate:Тепловий стрес і психіка: як х",
+      "status": "ok",
+      "duration_s": 80.6,
+      "error": null
+    },
+    {
+      "name": "review:Тепловий стрес і психіка: як х",
+      "status": "ok",
+      "duration_s": 108.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Тепловий стрес і психіка: як х",
+      "status": "ok",
+      "duration_s": 18.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Тепловий стрес і психіка: як х",
+      "status": "ok",
+      "duration_s": 10.6,
+      "error": null
+    },
+    {
+      "name": "save:Тепловий стрес і психіка: як х",
+      "status": "ok",
+      "duration_s": 16.9,
+      "error": null
+    },
+    {
+      "name": "research:Голод у світі знижується треті",
+      "status": "ok",
+      "duration_s": 260.2,
+      "error": null
+    },
+    {
+      "name": "generate:Голод у світі знижується треті",
+      "status": "ok",
+      "duration_s": 87.5,
+      "error": null
+    },
+    {
+      "name": "review:Голод у світі знижується треті",
+      "status": "ok",
+      "duration_s": 109.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Голод у світі знижується треті",
+      "status": "ok",
+      "duration_s": 21.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Голод у світі знижується треті",
+      "status": "ok",
+      "duration_s": 8.9,
+      "error": null
+    },
+    {
+      "name": "save:Голод у світі знижується треті",
+      "status": "ok",
+      "duration_s": 17.5,
+      "error": null
+    },
+    {
+      "name": "research:'Докази бракує' — чому додатки",
+      "status": "ok",
+      "duration_s": 207.3,
+      "error": null
+    },
+    {
+      "name": "generate:'Докази бракує' — чому додатки",
+      "status": "ok",
+      "duration_s": 78.1,
+      "error": null
+    },
+    {
+      "name": "review:'Докази бракує' — чому додатки",
+      "status": "ok",
+      "duration_s": 108.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:'Докази бракує' — чому додатки",
+      "status": "ok",
+      "duration_s": 20.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:'Докази бракує' — чому додатки",
+      "status": "ok",
+      "duration_s": 9.2,
+      "error": null
+    },
+    {
+      "name": "save:'Докази бракує' — чому додатки",
+      "status": "ok",
+      "duration_s": 16.2,
+      "error": null
+    },
+    {
+      "name": "research:Пасивний дохід сну: як 20 хвил",
+      "status": "ok",
+      "duration_s": 218.1,
+      "error": null
+    },
+    {
+      "name": "generate:Пасивний дохід сну: як 20 хвил",
+      "status": "ok",
+      "duration_s": 58.1,
+      "error": null
+    },
+    {
+      "name": "review:Пасивний дохід сну: як 20 хвил",
+      "status": "ok",
+      "duration_s": 125.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Пасивний дохід сну: як 20 хвил",
+      "status": "ok",
+      "duration_s": 18.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Пасивний дохід сну: як 20 хвил",
+      "status": "ok",
+      "duration_s": 9.3,
+      "error": null
+    },
+    {
+      "name": "save:Пасивний дохід сну: як 20 хвил",
+      "status": "ok",
+      "duration_s": 17.8,
+      "error": null
+    },
+    {
+      "name": "research:Ексцентричні присідання за 2 х",
+      "status": "ok",
+      "duration_s": 198.7,
+      "error": null
+    },
+    {
+      "name": "generate:Ексцентричні присідання за 2 х",
+      "status": "ok",
+      "duration_s": 107.0,
+      "error": null
+    },
+    {
+      "name": "review:Ексцентричні присідання за 2 х",
+      "status": "ok",
+      "duration_s": 124.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ексцентричні присідання за 2 х",
+      "status": "ok",
+      "duration_s": 17.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ексцентричні присідання за 2 х",
+      "status": "ok",
+      "duration_s": 9.4,
+      "error": null
+    },
+    {
+      "name": "save:Ексцентричні присідання за 2 х",
+      "status": "ok",
+      "duration_s": 16.0,
+      "error": null
+    },
+    {
+      "name": "research:Ель-Сальвадор ліквідував трахо",
+      "status": "ok",
+      "duration_s": 173.4,
+      "error": null
+    },
+    {
+      "name": "generate:Ель-Сальвадор ліквідував трахо",
+      "status": "ok",
+      "duration_s": 134.2,
+      "error": null
+    },
+    {
+      "name": "review:Ель-Сальвадор ліквідував трахо",
+      "status": "ok",
+      "duration_s": 144.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ель-Сальвадор ліквідував трахо",
+      "status": "ok",
+      "duration_s": 21.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ель-Сальвадор ліквідував трахо",
+      "status": "ok",
+      "duration_s": 9.7,
+      "error": null
+    },
+    {
+      "name": "save:Ель-Сальвадор ліквідував трахо",
+      "status": "ok",
+      "duration_s": 20.1,
+      "error": null
+    },
+    {
+      "name": "research:Мозкові імпланти для депресії:",
+      "status": "ok",
+      "duration_s": 555.2,
+      "error": null
+    },
+    {
+      "name": "generate:Мозкові імпланти для депресії:",
+      "status": "ok",
+      "duration_s": 84.8,
+      "error": null
+    },
+    {
+      "name": "review:Мозкові імпланти для депресії:",
+      "status": "ok",
+      "duration_s": 126.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Мозкові імпланти для депресії:",
+      "status": "ok",
+      "duration_s": 26.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Мозкові імпланти для депресії:",
+      "status": "ok",
+      "duration_s": 10.4,
+      "error": null
+    },
+    {
+      "name": "save:Мозкові імпланти для депресії:",
+      "status": "ok",
+      "duration_s": 18.7,
+      "error": null
+    },
+    {
+      "name": "research:Бабусина 'щаслива година': чи ",
+      "status": "ok",
+      "duration_s": 198.1,
+      "error": null
+    },
+    {
+      "name": "generate:Бабусина 'щаслива година': чи ",
+      "status": "ok",
+      "duration_s": 98.2,
+      "error": null
+    },
+    {
+      "name": "review:Бабусина 'щаслива година': чи ",
+      "status": "ok",
+      "duration_s": 104.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Бабусина 'щаслива година': чи ",
+      "status": "ok",
+      "duration_s": 25.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Бабусина 'щаслива година': чи ",
+      "status": "ok",
+      "duration_s": 8.3,
+      "error": null
+    },
+    {
+      "name": "save:Бабусина 'щаслива година': чи ",
+      "status": "ok",
+      "duration_s": 17.9,
+      "error": null
+    },
+    {
+      "name": "research:Гліфозат у сечі 90% українців?",
+      "status": "ok",
+      "duration_s": 260.4,
+      "error": null
+    },
+    {
+      "name": "generate:Гліфозат у сечі 90% українців?",
+      "status": "ok",
+      "duration_s": 119.6,
+      "error": null
+    },
+    {
+      "name": "review:Гліфозат у сечі 90% українців?",
+      "status": "ok",
+      "duration_s": 159.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Гліфозат у сечі 90% українців?",
+      "status": "ok",
+      "duration_s": 21.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Гліфозат у сечі 90% українців?",
+      "status": "ok",
+      "duration_s": 8.2,
+      "error": null
+    },
+    {
+      "name": "save:Гліфозат у сечі 90% українців?",
+      "status": "ok",
+      "duration_s": 19.7,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.2,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

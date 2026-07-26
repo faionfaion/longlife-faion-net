@@ -1,0 +1,96 @@
+{
+  "articles": [
+    {
+      "topic": "Недільний 'shutdown ritual': як 20-хвилинний ритуал завершення тижня знижує тривогу перед понеділком",
+      "type": "lifehack",
+      "category": "mental-health",
+      "angle": "Sunday scaries — окрема психологічна категорія (LinkedIn/APA 2024, 80% працівників). Розбір протоколу Cal Newport shutdown ritual + доказова база implementation intentions і worry postponement (Borkovec 1983, McGowan 2013). Практичний недільний чек-лист для українських працівників і фрилансерів у воєнний час.",
+      "sources_hint": "PubMed: 'Sunday night anxiety', 'worry postponement RCT', McGowan 2013 Behaviour Research and Therapy, Borkovec stimulus control; APA Stress in America 2024; Cal Newport 'Deep Work' shutdown ritual",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Пептид GLP-1 і кістки: чи справді семаглутид підвищує ризик переломів у людей 60+",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Свіжий сигнал 2026 з FDA FAERS і данської когорти про зростання переломів стегна у літніх користувачів GLP-1 при швидкій втраті ваги. Механізм — втрата м'язової маси і зниження BMD. Кут відрізняється від вчорашньої статті про MACE (SELECT-LIFE, 24.07) — фокус на скелеті у 60+, а не серце.",
+      "sources_hint": "JAMA Internal Medicine 2026 GLP-1 fracture risk, Lancet Diabetes Endocrinol 2025 bone density semaglutide, FDA FAERS signal, Endocrine Society 2026 statement, Ukraine МОЗ Ozempic registration",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Обхват талії важливіший за ІМТ після 60: що показав European Heart Journal 2026 про 400 тисяч європейців",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Свіже когортне дослідження EHJ 2026: waist-to-height ratio >0.55 передбачає ССЗ-смертність краще за BMI у людей 60+ (obesity paradox пояснюється саркопенією). Практичне: як правильно міряти талію (WHO протокол), українські референси, чому важити себе після 60 недостатньо. Cross-link на нещодавній матеріал про 14 факторів деменції (22.07) — обхват талії як проксі для вісцерального жиру.",
+      "sources_hint": "European Heart Journal 2026 waist-to-height cardiovascular mortality, Ross 2020 Nature Reviews Endocrinology waist circumference consensus, NHANES III sarcopenic obesity, WHO waist circumference report 2011",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Мелатонін для дітей: що каже AASM 2024 і чому українським батькам не варто давати гумки з iHerb",
+      "type": "guide",
+      "category": "sleep",
+      "angle": "AAP і AASM 2024 попередження про 530% зростання отруєнь мелатоніном у дітей США (JAMA Pediatrics 2022, Lelak). Розбір: коли мелатонін виправданий у дітей (АСР, ADHD — Bruni 2022), реальні дози (0.3–0.5 мг, не 5 мг), проблема iHerb-гумок без стандартизації. Українські альтернативи: гігієна сну, ранкове світло (cross-link на статтю про 10 хв ранкового сонця, 22.07).",
+      "sources_hint": "Lelak 2022 JAMA Pediatrics pediatric melatonin ingestions, AASM 2024 position statement melatonin children, Bruni 2022 Journal of Pineal Research pediatric melatonin, Erland 2017 J Clin Sleep Med melatonin content variability",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Метод 4-7-8 vs box breathing vs фізіологічне зітхання: яке дихання реально знижує пульс за 60 секунд",
+      "type": "guide",
+      "category": "mental-health",
+      "angle": "Head-to-head порівняння трьох популярних дихальних технік на основі Balban 2023 Cell Reports Medicine (n=108, Huberman lab) — cyclic sighing перевершив box breathing і mindfulness за настроєм і HRV. Практична табличка: коли яка техніка. Розвіювання міфу '4-7-8 як снодійне' (Weil немає RCT).",
+      "sources_hint": "Balban et al. 2023 Cell Reports Medicine cyclic sighing, Fincham 2023 meta-analysis breathwork Scientific Reports, Zaccaro 2018 Frontiers Human Neuroscience, Ma 2017 Frontiers Psychology diaphragmatic breathing",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Соціальні зв'язки як фактор довголіття: розбір мета-аналізу 148 досліджень і що робити самотнім чоловікам 50+",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Holt-Lunstad 2010/2015 meta-analysis: слабкі соціальні зв'язки = ризик смерті на рівні куріння 15 сиг/день. Свіжі дані 2025 з UK Biobank про чоловічу самотність після 50 (в Україні загострено війною і міграцією). Практичні протоколи: Men's Sheds, тижневий 'social minimum' (Dunbar). Cross-link на статтю про 14 факторів деменції (соціальна ізоляція 5% PAF).",
+      "sources_hint": "Holt-Lunstad 2010/2015 PLOS Medicine, Nature Human Behaviour 2023 loneliness UK Biobank, Dunbar 'Friends' 2021, WHO Commission on Social Connection 2024, US Surgeon General advisory 2023",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Вітамін D і респіраторні інфекції: що показав Cochrane 2025 і чому доза 4000 МО не для всіх",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Оновлений Cochrane review 2025 (Jolliffe/Martineau) підтвердив зниження ARI на 8%, але ефект зникає при болюсних дозах >100 000 МО. Українські особливості: дефіцит у 80% населення взимку, але і надлишок (>60 нг/мл) — небезпечний. Practical dosing з Endocrine Society 2024 гайдлайну. НЕ дублює матеріали про магній чи мікронутрієнти SOFI.",
+      "sources_hint": "Cochrane Database Syst Rev 2025 Jolliffe vitamin D respiratory infections, Endocrine Society Clinical Practice Guideline 2024 vitamin D, VITAL trial follow-up NEJM 2025, D-Health trial JAMA 2023",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Ексцентричний vs концентричний силовий тренінг для 50+: що краще для сили і менше болю",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Мета-аналіз Douglas 2017 і свіжий Franchi 2024 у Sports Medicine: ексцентрична фаза дає +10% сили при меншому серцево-судинному навантаженні, критично для 50+. Не дублює статтю про Alfredson (25.07 — про тендиноз), а це — про загальний resistance training. Практичний темп 3-1-1 і приклади вправ.",
+      "sources_hint": "Douglas 2017 Sports Medicine eccentric vs concentric, Franchi 2024 Sports Medicine eccentric training elderly, Roig 2009 BJSM meta-analysis, ACSM position stand resistance training older adults 2023",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "HRV Biofeedback vs медитація: що ефективніше знижує кортизол за даними мета-аналізу 2025",
+      "type": "research",
+      "category": "biohacking",
+      "angle": "Lehrer 2020 і свіжий Pizzoli 2025 мета-аналіз (58 RCT): HRV biofeedback дає SMD −0.83 для тривоги vs −0.55 для класичної медитації. Розбір доступних додатків (Elite HRV, HRV4Training) і сумісності з Garmin/Whoop/Polar. Обмеження — потрібна регулярність 5×/тиждень мінімум 5 тижнів.",
+      "sources_hint": "Lehrer 2020 Applied Psychophysiology Biofeedback meta-analysis, Pizzoli 2025 Scientific Reports HRV biofeedback anxiety, Goessl 2017 Psychological Medicine, resonance frequency 0.1 Hz breathing",
+      "evidence_level": "moderate",
+      "priority": 3
+    },
+    {
+      "topic": "Кофеїн і вагітність: чому EFSA 200 мг більше не безпечна межа за даними BMJ Evidence-Based Medicine 2020",
+      "type": "nutrition",
+      "category": "prevention",
+      "angle": "Огляд Джеймса (2020 BMJ EBM, 42 дослідження): жоден рівень кофеїну не безпечний під час вагітності — лінійна доза-відповідь для викидня, мертвонародження, LBW. Розходження з EFSA/ACOG (200 мг). Практичне: caffeine content в українській каві/чаї/матчі, декофеїнізовані опції, синдром відміни план на 3 тижні до зачаття.",
+      "sources_hint": "James 2020 BMJ Evidence-Based Medicine caffeine pregnancy, Chen 2018 Nutrition Reviews meta-analysis, NAP2 trial 2010 NEJM, ACOG Committee Opinion 462, EFSA 2015 caffeine safety",
+      "evidence_level": "moderate",
+      "priority": 3
+    }
+  ],
+  "date": "2026-07-26",
+  "created_at": "2026-07-26T03:03:03.494413+00:00"
+}
