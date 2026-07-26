@@ -4264,5 +4264,23 @@
       "воєнний час"
     ],
     "summary": "Lifehack article on the Sunday shutdown ritual — a 20-minute weekly wind-down protocol popularized by Cal Newport. Synthesizes evidence for its components: worry postponement (Borkovec 1983; McGowan & Behar 2013 RCT; Krzikalla 2024 RCT d=0.82 for GAD; Klar & Barke 2023 meta-analysis of 7 RCTs showing small daily-worry effect d=0.31) and implementation intentions (Gollwitzer & Sheeran 2006 meta-analysis d=0.65; Masicampo & Baumeister 2011 on Zeigarnik-effect closure). Prevalence framed with LinkedIn 80% survey and APA Work in America 2024 (77% workplace stress). Physiology backed by Devereux 2011 Monday-vs-Sunday cortisol. Balanced with limitations: McCarrick 2025 failed to replicate sleep benefit, Newport's bundle not itself RCT-tested, effect sizes modest, no long-term follow-up. Practical 5-step Sunday checklist with wartime Ukrainian framing. Cross-links to CBT and breathing articles. Evidence: moderate."
+  },
+  "glp1-semahlutyd-kistky-perelomy-stehna-60-plus-2026": {
+    "date": "2026-07-26",
+    "title": "GLP-1 і кістки після 60: чому дані 2026 про переломи стегна суперечать одне одному",
+    "type": "research",
+    "tags": [
+      "GLP-1",
+      "семаглутид",
+      "Ozempic",
+      "остеопороз",
+      "переломи стегна",
+      "BMD",
+      "саркопенія",
+      "довголіття",
+      "60+",
+      "дослідження 2026"
+    ],
+    "summary": "Стаття розбирає суперечливі дані 2026 року про вплив GLP-1 (семаглутиду) на ризик переломів у людей 60+. JCEM (лютий 2026) показав +11% крихких переломів у 46 177 пацієнтів 65+, а JAMA Network Open (24.07.2026, n=133 606) — навпаки, -21% переломів і -30% переломів стегна порівняно з DPP-4. Ключове пояснення — вибір компаратора (SGLT2i vs DPP-4i). Механістичне RCT eClinicalMedicine 2024 підтверджує зниження BMD стегна на 2.6% за 52 тижні. Практичний висновок: перед стартом GLP-1 після 60 — DEXA і FRAX, під час терапії — білок 1.2–1.6 г/кг, силові 2–3×/тиж, моніторинг сили хвату. Evidence level: moderate. Продовжує серію про GLP-1 (SELECT-LIFE 24.07, STEP-1 29.05)."
   }
 }
