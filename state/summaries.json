@@ -4300,5 +4300,21 @@
       "здоров'я 60+"
     ],
     "summary": "Стаття синтезує кілька великих когортних досліджень (UK Biobank AJCN 2024, JACC 2026, PLOS ONE 2025, NHANES/Frontiers 2025), які показують: обхват талії та співвідношення талія/зріст (WHtR) передбачають серцево-судинну смертність краще за ІМТ, особливо в людей 60+. Пояснює «парадокс ожиріння» через саркопенічне ожиріння — втрату м'язів разом зі збереженим вісцеральним жиром. Наводить протокол вимірювання ВООЗ, референсні пороги (WHtR BMI, помірна для композитного індексу саркопенічного ожиріння."
+  },
+  "melatonin-dity-aasm-aap-gumky-iherb-ryzyky-guide": {
+    "date": "2026-07-26",
+    "title": "Мелатонін для дітей: що каже AASM і чому гумки з iHerb — не рішення для сну",
+    "type": "guide",
+    "tags": [
+      "сон",
+      "діти",
+      "мелатонін",
+      "безпека",
+      "добавки",
+      "педіатрія",
+      "циркадний ритм",
+      "дослідження"
+    ],
+    "summary": "Guide article for Ukrainian parents on pediatric melatonin safety. Main finding: CDC data shows 530% increase in pediatric melatonin poisonings (Lelak 2022 MMWR), with nearly half of ED visits linked to gummies (Freeman 2024). JAMA 2023 (Cohen) analysis found 88% of US melatonin gummy brands mislabeled, doses ranging 74–347% of label. AASM 2023 advisory states little evidence for melatonin in healthy children — sleep hygiene and behavioral therapy are first-line. Melatonin justified in children with ASD, ADHD, epilepsy (Bruni 2015, IPSA 2025) at 0.5–5 mg, age >2, under medical supervision. Practical takeaway: secure supplements out of children's reach, avoid unregulated iHerb gummies without USP verification, prioritize morning light, cool bedroom (18–19°C), consistent bedtime routine. Evidence strength: strong for surveillance and content-variability claims; moderate for pediatric indications. Cross-links to morning sunlight, bedroom temperature, and adult melatonin microdose articles."
   }
 }
