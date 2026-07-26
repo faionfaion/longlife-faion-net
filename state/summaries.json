@@ -4316,5 +4316,22 @@
       "дослідження"
     ],
     "summary": "Guide article for Ukrainian parents on pediatric melatonin safety. Main finding: CDC data shows 530% increase in pediatric melatonin poisonings (Lelak 2022 MMWR), with nearly half of ED visits linked to gummies (Freeman 2024). JAMA 2023 (Cohen) analysis found 88% of US melatonin gummy brands mislabeled, doses ranging 74–347% of label. AASM 2023 advisory states little evidence for melatonin in healthy children — sleep hygiene and behavioral therapy are first-line. Melatonin justified in children with ASD, ADHD, epilepsy (Bruni 2015, IPSA 2025) at 0.5–5 mg, age >2, under medical supervision. Practical takeaway: secure supplements out of children's reach, avoid unregulated iHerb gummies without USP verification, prioritize morning light, cool bedroom (18–19°C), consistent bedtime routine. Evidence strength: strong for surveillance and content-variability claims; moderate for pediatric indications. Cross-links to morning sunlight, bedroom temperature, and adult melatonin microdose articles."
+  },
+  "4-7-8-vs-box-breathing-vs-fiziolohichne-zithannia-porivniannia": {
+    "date": "2026-07-26",
+    "title": "4-7-8 vs box breathing vs фізіологічне зітхання: яка техніка реально знижує пульс за хвилину",
+    "type": "guide",
+    "tags": [
+      "дихальні практики",
+      "стрес",
+      "тривога",
+      "фізіологічне зітхання",
+      "4-7-8",
+      "box breathing",
+      "HRV",
+      "дослідження",
+      "психічне здоров'я"
+    ],
+    "summary": "Head-to-head порівняння трьох дихальних технік на основі RCT Balban 2023 (n=108, Stanford/Huberman lab). Головна знахідка: cyclic sighing перевершив box breathing і mindfulness за настроєм і зниженням респіраторної частоти, але жодна техніка не показала значущої різниці у пульсі/HRV. Найкращі дані про гострий (−5 уд/хв) вплив на пульс — у 4-7-8 (Vierra 2022, n=43, не RCT). Стаття розвіює два міфи: 1) що cyclic sighing доведено знижує пульс (Balban це не показав); 2) що 4-7-8 занурює у сон за 60 сек (RCT на латентність засинання не існує). Практична таблиця розводить техніки за сценаріями: 4-7-8 для гострої тривоги, cyclic sighing для швидкої розрядки і щоденної практики, box breathing для фокусу. Сила доказів помірна: мета-аналіз Fincham 2023 показує g=−0,35 для стресу."
   }
 }
