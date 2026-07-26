@@ -4397,5 +4397,20 @@
       "мета-аналіз"
     ],
     "summary": "HRV біофідбек (дихання ≈6 вдихів/хв із зворотним зв'язком за варіабельністю серцевого ритму) має сильні докази ефективності для зниження тривоги й стресу: мета-аналіз Goessl 2017 дає Hedges' g = 0.83 проти контролю, синтеза Lehrer 2020 підтверджує на 58 дослідженнях. Однак прямі РКД (Brinkmann 2020, van der Zwan 2015) показують, що HRV біофідбек і медитація майндфулнес працюють приблизно однаково — обидва знижують кортизол з великим ефектом за 6 тижнів практики, але ефекти не тримаються без продовження. Застосункова версія (мета-аналіз 2025) слабша за лабораторну (g = −0.41). Elite HRV валідований проти ЕКГ; найкраща точність — з Polar H10. Практичний висновок: обирати ту практику, яку зможеш робити 5×/тиждень протягом ≥5 тижнів. Рівень доказів — помірний."
+  },
+  "kofein-vahitnist-james-2020-bmj-ebm-net-bezpechnoho-rivnia": {
+    "date": "2026-07-26",
+    "title": "Кофеїн і вагітність: чому огляд у BMJ 2020 поставив під сумнів межу 200 мг",
+    "type": "nutrition",
+    "tags": [
+      "вагітність",
+      "кофеїн",
+      "харчування",
+      "профілактика",
+      "дослідження",
+      "кава",
+      "жіноче здоров'я"
+    ],
+    "summary": "Article contrasts the EFSA/ACOG 200 mg/day caffeine limit for pregnancy with James's 2020 BMJ Evidence-Based Medicine narrative review of 48 studies, which found linear dose-response for miscarriage, stillbirth, low birth weight and childhood leukaemia with no safe threshold. Supporting evidence from Chen 2016 meta-analysis (+7% pregnancy loss per 100 mg/day) and Gleason 2021 biomarker-confirmed harm below 200 mg. Balanced by the only RCT (Bech 2007, negative) and RCOG/ACOG rebuttals citing residual confounding. Mechanistic anchor: maternal CYP1A2 activity drops sharply in later trimesters, tripling fetal exposure. Practical takeaway: Ukrainian caffeine content table, 3-week preconception taper protocol, no panic for women already pregnant. Evidence: moderate — strong association, limited causal evidence."
   }
 }
