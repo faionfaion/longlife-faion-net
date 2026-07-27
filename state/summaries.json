@@ -4527,5 +4527,20 @@
       "веганство"
     ],
     "summary": "Ukrainian soils are notably poor in selenium (average 0.10 mg/kg vs adequate 0.3-0.4; Polissya wheat only 0.045 mg/kg), classifying Ukraine as a selenium-deficient biogeochemical province. However, large RCTs (SELECT 2009/2011, Cochrane 2018) show selenium supplementation does not prevent cancer in replete populations and may slightly increase type-2 diabetes risk. Benefits are limited to deficient subgroups: NPC trial showed prostate cancer risk reduction only in men with low baseline plasma Se; Negro 2007 showed reduced postpartum thyroid dysfunction in anti-TPO+ pregnant women; Cochrane 2013 shows selenium reduces TPO antibodies in Hashimoto's without proven clinical benefit. Vegans in deficient regions have measurably lower serum selenium. EFSA 2023 lowered the upper intake limit to 255 μg/day; Brazil nuts show 10-fold variability (8-90 μg per nut) and are named as a population at overdose risk (alopecia is first sign). Practical takeaway: test plasma selenium before supplementing (target 90-125 μg/L), limit Brazil nuts to 1-2 per day, and consider supplementation only in documented risk groups under medical supervision. Evidence strength: moderate — strong for null cancer prevention effect, moderate for thyroid subgroup benefits, preliminary for Ukrainian soil-to-clinical-outcome link."
+  },
+  "sdvh-doroslykh-jama-psychiatry-2026-asrs-concerta-ukraina": {
+    "date": "2026-07-27",
+    "title": "Дорослий СДУГ: чому діагнозів стало вчетверо більше і що з цим робити в Україні",
+    "type": "research",
+    "tags": [
+      "сдвг",
+      "психічне здоровя",
+      "дослідження",
+      "ліки",
+      "діагностика",
+      "стрес",
+      "мозок"
+    ],
+    "summary": "Огляд свіжих даних про адультний СДУГ: датська мега-когорта JAMA Psychiatry 2026 (LaBianca et al., n=20 111) показала, що пізніше діагностовані пацієнти мають нижчий поліґенний ризик — тобто зростання діагнозів пояснюється переважно розширенням критеріїв і кращим виявленням легких випадків, а не генетичною епідемією. Європейське дослідження (Lancet Reg Health Europe 2026) фіксує +1770% призначень серед британок 25+ за 2010–2023, канадське — 4-разове зростання нових випадків. PLOS One 2025 показує, що 51% контенту #ADHD у TikTok не відповідає DSM-5. Мета-аналіз Cortese 2018 (Lancet Psychiatry) підтверджує ефективність метилфенідату й амфетамінів у дорослих; NICE NG87 рекомендує ліки як першу лінію, КПТ — як альтернативу/доповнення. Стаття пояснює скринінг ASRS-v1.1 (специфічність 99,5%, чутливість 68,7%), український контекст (Concerta за е-рецептом психіатра, амфетаміни не зареєстровані) і ризики самодіагностики. Практичний висновок: пройти ASRS онлайн, за позитивним результатом — до психіатра, не до телеграм-каналів. Рівень доказовості: сильний."
   }
 }
