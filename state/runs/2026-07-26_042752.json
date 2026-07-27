@@ -1,0 +1,392 @@
+{
+  "timestamp": "2026-07-26_042752",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "sunday-shutdown-ritual-20-min-worry-postponement-newport, glp1-semahlutyd-kistky-perelomy-stehna-60-plus-2026, obkhvat-taliyi-vs-imt-pislia-60-whtr-sarkopenichna-ozhyrinnia, melatonin-dity-aasm-aap-gumky-iherb-ryzyky-guide, 4-7-8-vs-box-breathing-vs-fiziolohichne-zithannia-porivniannia",
+  "author": "LongLife Media",
+  "duration_s": 5089.5,
+  "image_generated": false,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 186.3,
+      "error": null
+    },
+    {
+      "name": "research:Недільний 'shutdown ritual': я",
+      "status": "ok",
+      "duration_s": 185.5,
+      "error": null
+    },
+    {
+      "name": "generate:Недільний 'shutdown ritual': я",
+      "status": "ok",
+      "duration_s": 74.5,
+      "error": null
+    },
+    {
+      "name": "review:Недільний 'shutdown ritual': я",
+      "status": "ok",
+      "duration_s": 94.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Недільний 'shutdown ritual': я",
+      "status": "ok",
+      "duration_s": 19.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Недільний 'shutdown ritual': я",
+      "status": "ok",
+      "duration_s": 10.1,
+      "error": null
+    },
+    {
+      "name": "save:Недільний 'shutdown ritual': я",
+      "status": "ok",
+      "duration_s": 16.3,
+      "error": null
+    },
+    {
+      "name": "research:Пептид GLP-1 і кістки: чи спра",
+      "status": "ok",
+      "duration_s": 254.9,
+      "error": null
+    },
+    {
+      "name": "generate:Пептид GLP-1 і кістки: чи спра",
+      "status": "ok",
+      "duration_s": 77.3,
+      "error": null
+    },
+    {
+      "name": "review:Пептид GLP-1 і кістки: чи спра",
+      "status": "ok",
+      "duration_s": 92.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Пептид GLP-1 і кістки: чи спра",
+      "status": "ok",
+      "duration_s": 21.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Пептид GLP-1 і кістки: чи спра",
+      "status": "ok",
+      "duration_s": 9.3,
+      "error": null
+    },
+    {
+      "name": "save:Пептид GLP-1 і кістки: чи спра",
+      "status": "ok",
+      "duration_s": 19.7,
+      "error": null
+    },
+    {
+      "name": "research:Обхват талії важливіший за ІМТ",
+      "status": "ok",
+      "duration_s": 485.9,
+      "error": null
+    },
+    {
+      "name": "generate:Обхват талії важливіший за ІМТ",
+      "status": "ok",
+      "duration_s": 78.4,
+      "error": null
+    },
+    {
+      "name": "review:Обхват талії важливіший за ІМТ",
+      "status": "ok",
+      "duration_s": 152.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Обхват талії важливіший за ІМТ",
+      "status": "ok",
+      "duration_s": 18.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Обхват талії важливіший за ІМТ",
+      "status": "ok",
+      "duration_s": 10.3,
+      "error": null
+    },
+    {
+      "name": "save:Обхват талії важливіший за ІМТ",
+      "status": "ok",
+      "duration_s": 15.9,
+      "error": null
+    },
+    {
+      "name": "research:Мелатонін для дітей: що каже A",
+      "status": "ok",
+      "duration_s": 218.1,
+      "error": null
+    },
+    {
+      "name": "generate:Мелатонін для дітей: що каже A",
+      "status": "ok",
+      "duration_s": 113.8,
+      "error": null
+    },
+    {
+      "name": "review:Мелатонін для дітей: що каже A",
+      "status": "ok",
+      "duration_s": 144.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Мелатонін для дітей: що каже A",
+      "status": "ok",
+      "duration_s": 19.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Мелатонін для дітей: що каже A",
+      "status": "ok",
+      "duration_s": 10.5,
+      "error": null
+    },
+    {
+      "name": "save:Мелатонін для дітей: що каже A",
+      "status": "ok",
+      "duration_s": 17.9,
+      "error": null
+    },
+    {
+      "name": "research:Метод 4-7-8 vs box breathing v",
+      "status": "ok",
+      "duration_s": 187.5,
+      "error": null
+    },
+    {
+      "name": "generate:Метод 4-7-8 vs box breathing v",
+      "status": "ok",
+      "duration_s": 102.4,
+      "error": null
+    },
+    {
+      "name": "review:Метод 4-7-8 vs box breathing v",
+      "status": "ok",
+      "duration_s": 123.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Метод 4-7-8 vs box breathing v",
+      "status": "ok",
+      "duration_s": 20.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Метод 4-7-8 vs box breathing v",
+      "status": "ok",
+      "duration_s": 10.4,
+      "error": null
+    },
+    {
+      "name": "save:Метод 4-7-8 vs box breathing v",
+      "status": "ok",
+      "duration_s": 17.3,
+      "error": null
+    },
+    {
+      "name": "research:Соціальні зв'язки як фактор до",
+      "status": "ok",
+      "duration_s": 265.5,
+      "error": null
+    },
+    {
+      "name": "generate:Соціальні зв'язки як фактор до",
+      "status": "ok",
+      "duration_s": 81.9,
+      "error": null
+    },
+    {
+      "name": "review:Соціальні зв'язки як фактор до",
+      "status": "ok",
+      "duration_s": 100.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Соціальні зв'язки як фактор до",
+      "status": "ok",
+      "duration_s": 22.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Соціальні зв'язки як фактор до",
+      "status": "ok",
+      "duration_s": 13.5,
+      "error": null
+    },
+    {
+      "name": "save:Соціальні зв'язки як фактор до",
+      "status": "ok",
+      "duration_s": 16.6,
+      "error": null
+    },
+    {
+      "name": "research:Вітамін D і респіраторні інфек",
+      "status": "ok",
+      "duration_s": 203.3,
+      "error": null
+    },
+    {
+      "name": "generate:Вітамін D і респіраторні інфек",
+      "status": "ok",
+      "duration_s": 77.8,
+      "error": null
+    },
+    {
+      "name": "review:Вітамін D і респіраторні інфек",
+      "status": "ok",
+      "duration_s": 112.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Вітамін D і респіраторні інфек",
+      "status": "ok",
+      "duration_s": 18.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Вітамін D і респіраторні інфек",
+      "status": "ok",
+      "duration_s": 11.6,
+      "error": null
+    },
+    {
+      "name": "save:Вітамін D і респіраторні інфек",
+      "status": "ok",
+      "duration_s": 18.5,
+      "error": null
+    },
+    {
+      "name": "research:Ексцентричний vs концентричний",
+      "status": "ok",
+      "duration_s": 257.2,
+      "error": null
+    },
+    {
+      "name": "generate:Ексцентричний vs концентричний",
+      "status": "ok",
+      "duration_s": 104.1,
+      "error": null
+    },
+    {
+      "name": "review:Ексцентричний vs концентричний",
+      "status": "ok",
+      "duration_s": 104.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ексцентричний vs концентричний",
+      "status": "ok",
+      "duration_s": 18.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ексцентричний vs концентричний",
+      "status": "ok",
+      "duration_s": 8.8,
+      "error": null
+    },
+    {
+      "name": "save:Ексцентричний vs концентричний",
+      "status": "ok",
+      "duration_s": 18.3,
+      "error": null
+    },
+    {
+      "name": "research:HRV Biofeedback vs медитація: ",
+      "status": "ok",
+      "duration_s": 194.7,
+      "error": null
+    },
+    {
+      "name": "generate:HRV Biofeedback vs медитація: ",
+      "status": "ok",
+      "duration_s": 74.3,
+      "error": null
+    },
+    {
+      "name": "review:HRV Biofeedback vs медитація: ",
+      "status": "ok",
+      "duration_s": 94.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:HRV Biofeedback vs медитація: ",
+      "status": "ok",
+      "duration_s": 23.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:HRV Biofeedback vs медитація: ",
+      "status": "ok",
+      "duration_s": 9.3,
+      "error": null
+    },
+    {
+      "name": "save:HRV Biofeedback vs медитація: ",
+      "status": "ok",
+      "duration_s": 16.0,
+      "error": null
+    },
+    {
+      "name": "research:Кофеїн і вагітність: чому EFSA",
+      "status": "ok",
+      "duration_s": 185.8,
+      "error": null
+    },
+    {
+      "name": "generate:Кофеїн і вагітність: чому EFSA",
+      "status": "ok",
+      "duration_s": 79.0,
+      "error": null
+    },
+    {
+      "name": "review:Кофеїн і вагітність: чому EFSA",
+      "status": "ok",
+      "duration_s": 101.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Кофеїн і вагітність: чому EFSA",
+      "status": "ok",
+      "duration_s": 20.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Кофеїн і вагітність: чому EFSA",
+      "status": "ok",
+      "duration_s": 9.9,
+      "error": null
+    },
+    {
+      "name": "save:Кофеїн і вагітність: чому EFSA",
+      "status": "ok",
+      "duration_s": 16.0,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.2,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "articles": [
+    {
+      "topic": "Ізометрична планка проти wall-sit для тиску: що показала мережева мета-аналіз BJSM 2023 і оновлення 2025",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Розбір знахідки Edwards/O'Driscoll BJSM 2023 (270 RCT, n=15 827): ізометричні вправи знижують САТ на 8,24 мм рт.ст. — сильніше за аеробіку. Wall-sit — найефективніший. Практичний 12-хвилинний протокол 4×2 хв з відпочинком 2 хв, 3×/тиждень. Оновлення 2025 з підгрупами старших.",
+      "sources_hint": "British Journal of Sports Medicine 2023 Edwards O'Driscoll isometric exercise blood pressure network meta-analysis; PubMed: 'isometric wall sit hypertension 2025'; Hypertension Journal 2024 follow-up trials",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Понеділковий кардіо-старт: чи справді 'Monday effect' підвищує ризик інфаркту — що показав аналіз BHF 2025",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Розбір феномену підвищеної частоти STEMI у понеділок (BHF/BMJ Heart 2023-2025, ~13% вище проти інших днів) через циркадну варіацію кортизолу та артеріального тиску. Практичний висновок для тих, хто починає інтенсивне тренування зранку в понеділок після вихідних. Cross-link на недільний shutdown ritual (26.07).",
+      "sources_hint": "BMJ Heart Wilkinson 2023 'Blue Monday' STEMI; Circulation Muller 1987 circadian MI; ESC 2024 chronobiology statement; PubMed: 'Monday cardiovascular events circadian'",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Тайм-обмежене харчування 8:16 проти 10:14: що показав TREAT-CVD RCT 2026 у людей з метаболічним синдромом",
+      "type": "research",
+      "category": "nutrition",
+      "angle": "Свіжий RCT порівняння двох вікон TRE у людей з метсиндромом — вплив на HbA1c, вагу, ліпіди. Відповідь на популярну тезу, що 'чим коротше вікно, тим краще'. Розбір, чому у попередньому TREAT (Lowe 2020) 16:8 не переміг контроль.",
+      "sources_hint": "JAMA Internal Medicine 2020 Lowe TREAT; Cell Metabolism 2022 Xie; NEJM 2022 Liu; PubMed: 'time-restricted eating metabolic syndrome RCT 2025 2026'; Diabetes Care time-restricted eating meta-analysis 2025",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Скринінг раку легень низькодозовою КТ: кому в Україні реально показано після 50 і чому НСЗУ покриває лише частину",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Практичний гайд на основі NLST (NEJM 2011, -20% смертності) і NELSON (NEJM 2020, -24% у чоловіків, -33% у жінок). USPSTF 2021 критерії: 50-80 років, ≥20 pack-year, курить або кинув <15 років тому. Український контекст: наказ МОЗ, доступ через НСЗУ, ціна LDCT у приватних клініках (1500-3500 грн). Ризики: гіпердіагностика ~18% (Patz JAMA 2014), радіація 1,5 мЗв.",
+      "sources_hint": "NEJM 2011 NLST National Lung Screening Trial; NEJM 2020 de Koning NELSON trial; USPSTF 2021 lung cancer screening recommendation; JAMA Internal Medicine Patz 2014 overdiagnosis NLST; наказ МОЗ України скринінг раку легень",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Сон під час хвилі спеки: як тренувати терморегуляцію і чому вентилятор ефективніший за кондиціонер вночі",
+      "type": "lifehack",
+      "category": "sleep",
+      "angle": "Практичний гайд, як зберегти якість сну коли в спальні >26°C. Розбір даних One Earth Minor 2022 про втрату 44 год сну на рік через кліматичне потепління, протокол охолодження зап'ясть/ступень (Krauchi 1999 Nature), 'єгипетський метод' вологого простирадла. Чому кондиціонер сушить слизові й дає ранкові головні болі. Продовжує серію про спеку (23-25.07).",
+      "sources_hint": "One Earth Minor 2022 climate change sleep; Sleep Medicine Reviews Okamoto-Mizuno 2012 thermal environment sleep; Nature Krauchi 1999 distal skin temperature; PubMed: 'ambient temperature sleep quality heatwave'",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "BDNF і біг: чому 30 хвилин помірного кардіо тимчасово підвищують 'мозковий добриво' — практичний протокол",
+      "type": "fitness",
+      "category": "mental-health",
+      "angle": "Огляд гострих і хронічних ефектів аеробіки на BDNF. Мета-аналіз Marinus 2019 (Sports Medicine, 29 RCT) — гострий ефект g=0.46, хронічний менший. Свіжий систематичний огляд 2025 у Neuroscience & Biobehavioral Reviews. Чому 'runner's high' — це не тільки ендорфіни (Fuss 2015 ендоканабіноїди). Практично: 30 хв при 60-70% VO2max 3×/тиждень, як виміряти пульсову зону без формули 220-age.",
+      "sources_hint": "Sports Medicine Marinus 2019 BDNF meta-analysis; PNAS Fuss 2015 endocannabinoids runner's high; Neuroscience Biobehavioral Reviews 2024-2025 exercise BDNF; PubMed: 'BDNF aerobic exercise chronic meta-analysis'",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Селен у Карпатах і Поліссі: чому український ґрунт бідний на селен і кому реально потрібні добавки",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Специфічний український контекст: карта дефіциту селену в ґрунтах (дані НААН), референсні значення 55-70 мкг/день ВООЗ, роль у функції щитоподібної залози (SETI trial 2020 — no benefit for cardiovascular; NPC trial — signal for prostate cancer risk). Чому бразильський горіх (68-91 мкг/шт) може дати передозування. Хто в групі ризику: аутоімунний тиреоїдит, вагітні, вегани.",
+      "sources_hint": "Lancet Rayman 2012 selenium status human health; Cochrane 2018 selenium supplementation cancer prevention; JAMA 2011 SELECT trial prostate cancer; EFSA 2023 selenium tolerable upper intake; НААН України ґрунти селен",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Дефіцит уваги у дорослих: що показала мега-когорта JAMA Psychiatry 2026 про пізню діагностику СДУГ і надлишок стимуляторів",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Свіжий аналіз тенденції: діагностика дорослого СДУГ зросла в 4 рази за 10 років у ЄС і США. JAMA Psychiatry 2026 — чи це справжня епідемія недодіагностованих, чи overdiagnosis через TikTok. Розбір скринінгу ASRS-v1.1, доказова база для CBT vs метилфенідат у дорослих (Cortese 2018 Lancet Psychiatry). Український контекст: доступ до Concerta через рецепт, ризики самодіагностики. Дисклеймер: скринінговий тест не замінює клінічну діагностику психіатром.",
+      "sources_hint": "Lancet Psychiatry Cortese 2018 ADHD medications meta-analysis; JAMA Psychiatry 2025-2026 adult ADHD diagnosis trends; BMJ 2023 ADHD overdiagnosis debate; PubMed: 'adult ADHD diagnosis trends 2025 2026'",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Психобіотики у 2026: чи справді Lactobacillus rhamnosus JB-1 знижує тривогу — розбір мета-аналізу Nutrients",
+      "type": "guide",
+      "category": "biohacking",
+      "angle": "Критичний розбір хайпу навколо психобіотиків. Що показали останні мета-аналізи (Liu 2023 Nutrients, Zhang 2024 Translational Psychiatry): невеликий ефект g≈0.24 для депресії, ще менший для тривоги. Чому мишача робота Bravo 2011 не перекладається на людей (штам JB-1 в людських RCT не працює як в мишах). Практично: краще ферментовані продукти, ніж дорогі капсули. Cross-link на статтю про ферментовані продукти vs клітковину (22.07). Список штамів з хоч якимись RCT-даними.",
+      "sources_hint": "Translational Psychiatry Zhang 2024 psychobiotics meta-analysis; Nutrients Liu 2023 probiotics depression anxiety; PNAS Bravo 2011 Lactobacillus rhamnosus vagus nerve mice; PubMed: 'psychobiotics anxiety RCT 2025'",
+      "evidence_level": "preliminary",
+      "priority": 3
+    },
+    {
+      "topic": "Синя пляма (locus coeruleus) і хвороба Альцгеймера: що показала 7T МРТ у Nature Aging 2026",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Розбір нового дослідження про раннє нейродегенеративне ураження locus coeruleus — його виявляють за 10-15 років до симптомів Альцгеймера. Роль норадренергічної системи, зв'язок зі сном і когнітивним резервом. Що з цим може зробити пересічна людина: захист сну, аеробіка (стимуляція LC), лікування депресії. Реалістично: 7T МРТ в Україні недоступне, дослідницький маркер. Cross-link на статтю про 14 факторів деменції (22.07).",
+      "sources_hint": "Nature Aging 2024-2026 locus coeruleus MRI Alzheimer's; Trends in Neurosciences Mather 2020 LC cognitive reserve; Neurology 2023 LC integrity aging; PubMed: 'locus coeruleus 7T MRI Alzheimer prodromal'",
+      "evidence_level": "preliminary",
+      "priority": 3
+    }
+  ],
+  "date": "2026-07-27",
+  "created_at": "2026-07-27T03:03:03.081696+00:00"
+}
