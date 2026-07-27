@@ -4510,5 +4510,22 @@
       "дослідження"
     ],
     "summary": "Мета-аналізи Szuhany 2015 (29 RCT, g=0,46) і Dinoff 2017 (55 досліджень, SMD=0,59) показують, що одна сесія помірного аеробного кардіо тимчасово піднімає рівень BDNF у крові. Хронічний ефект менший (g=0,27) і залежить від популяції — Marinus 2019 не знайшов ефекту аеробіки на BDNF у людей 60+ без силового компоненту. Fuss 2015 (PNAS, миші) показав, що runner's high пов'язаний з ендоканабіноїдами, а не ендорфінами. Практичний протокол: 30 хв при 60–70% VO2max, 3×/тиждень. Пульсову зону визначати через формулу Танаки, Карвонена або talk test. Рівень доказовості: помірний."
+  },
+  "selen-ukrainski-grunty-karpaty-polissya-shchytopodibna-brazylski-gorikhy": {
+    "date": "2026-07-27",
+    "title": "Селен у Карпатах і Поліссі: чому український ґрунт бідний на цей мікроелемент і кому реально потрібні добавки",
+    "type": "nutrition",
+    "tags": [
+      "селен",
+      "мікроелементи",
+      "щитоподібна залоза",
+      "добавки",
+      "харчування",
+      "українські ґрунти",
+      "хашимото",
+      "вагітність",
+      "веганство"
+    ],
+    "summary": "Ukrainian soils are notably poor in selenium (average 0.10 mg/kg vs adequate 0.3-0.4; Polissya wheat only 0.045 mg/kg), classifying Ukraine as a selenium-deficient biogeochemical province. However, large RCTs (SELECT 2009/2011, Cochrane 2018) show selenium supplementation does not prevent cancer in replete populations and may slightly increase type-2 diabetes risk. Benefits are limited to deficient subgroups: NPC trial showed prostate cancer risk reduction only in men with low baseline plasma Se; Negro 2007 showed reduced postpartum thyroid dysfunction in anti-TPO+ pregnant women; Cochrane 2013 shows selenium reduces TPO antibodies in Hashimoto's without proven clinical benefit. Vegans in deficient regions have measurably lower serum selenium. EFSA 2023 lowered the upper intake limit to 255 μg/day; Brazil nuts show 10-fold variability (8-90 μg per nut) and are named as a population at overdose risk (alopecia is first sign). Practical takeaway: test plasma selenium before supplementing (target 90-125 μg/L), limit Brazil nuts to 1-2 per day, and consider supplementation only in documented risk groups under medical supervision. Evidence strength: moderate — strong for null cancer prevention effect, moderate for thyroid subgroup benefits, preliminary for Ukrainian soil-to-clinical-outcome link."
   }
 }
