@@ -4428,5 +4428,21 @@
       "серцево-судинне здоров'я"
     ],
     "summary": "Follow-up to April 2026 article on isometric exercise and hypertension. Covers three new 2025 studies: Zhou multilevel meta-review of 30 RCTs (SBP −7.31 mmHg, but smaller effect in older adults; unmedicated benefit twice as large as medicated); Jung crossover RCT showing single plank session reduces 24h SBP by 4.3 mmHg (n=12, preliminary); Journal of Hypertension acute study warning that 97–98% of adults exceed ACSM DBP safety threshold within ~50 seconds during 2-min holds. Confirms 4×2 min with 2-min rest, 3×/week as settled protocol. Wall-sit still superior to handgrip (−9.84 vs −5.72 mmHg). Practical takeaway: start with 30-second holds, choose plank vs wall-sit based on knee/back tolerance, consult doctor if hypertensive or 60+. Evidence strength: strong for chronic BP reduction, preliminary for plank-specific ABPM data."
+  },
+  "monday-effect-stemi-ranok-kardio-bhf-2025": {
+    "date": "2026-07-27",
+    "title": "«Ефект понеділка» і серце: чи справді ранкове кардіо після вихідних підвищує ризик інфаркту",
+    "type": "research",
+    "tags": [
+      "серце",
+      "інфаркт",
+      "циркадні ритми",
+      "кортизол",
+      "ранкове тренування",
+      "профілактика",
+      "дослідження",
+      "кардіологія"
+    ],
+    "summary": "Аналіз British Heart Foundation (Laffan et al., 2023, n=10528) виявив ~13% більше STEMI у понеділок; турецька реплікація в Medicina 2026 (n=500) показала +23% (IRR 1.23) з піком у ранкове вікно 06:00–10:00. Механізм — циркадний сплеск кортизолу, симпатичної активації, АТ, агрегабельності тромбоцитів і PAI-1 (Muller NEJM 1985, Tofler NEJM 1987, Scheer Blood 2014), підсилений понеділковим anticipatory stress (Devereux 2011). Дані про ранкові тренування суперечливі: RCT-мета-аналізи не показують шкоди, але великі observational study натякають на вищий CV ризик ранкової активності. Практичний висновок: після сидячих вихідних не стартувати з max-intensity у понеділок о 6-7 ранку, робити довший розігрів, найважчу сесію переносити на середу-четвер якщо є фактори ризику. Cross-link на недільний shutdown-ритуал. Evidence: MODERATE (обсерваційні дані + сильний фізіологічний механізм)."
   }
 }
