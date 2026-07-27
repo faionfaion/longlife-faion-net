@@ -4478,5 +4478,21 @@
       "дослідження"
     ],
     "summary": "Практичний гайд про низькодозову КТ (LDCT) як скринінг раку легень для українців 50+. Основні докази: NLST (NEJM 2011) показало зниження смертності від раку легень на 20% порівняно з рентгеном; NELSON (NEJM 2020) — на 24% у чоловіків (тренд –33% у жінок, статистично незначущий); мета-аналіз 9 РКД у Lancet Reg Health Europe 2021 — сумарно –16%. Критерії USPSTF 2021 (Grade B): вік 50–80, ≥20 pack-year, курить або кинув <15 років тому. Ризики: гіпердіагностика 6–18,5% (Patz JAMA 2014 vs USPSTF модель), радіація ~1–2 мЗв, фальш-позитиви 13% з Lung-RADS. Український контекст: Наказ МОЗ №1368 не включає легені у скринінги, НСЗУ покриває КТ лише за клінічним направленням, приватний LDCT 1 500–3 500 грн. Практичний висновок: розрахувати pack-year, обговорити із сімейним лікарем, за потреби зробити приватно з протоколом Lung-RADS, кинути курити. Сила доказової бази — сильна (2 великі РКД + мета-аналіз)."
+  },
+  "son-speka-ventylator-kondytsioner-egyptian-method-krauchi": {
+    "date": "2026-07-27",
+    "title": "Сон у спеку: як охолодити тіло, коли спальня перегріта, і чому вентилятор часто виграє у кондиціонера",
+    "type": "lifehack",
+    "tags": [
+      "сон",
+      "спека",
+      "терморегуляція",
+      "вентилятор",
+      "кондиціонер",
+      "єгипетський метод",
+      "гігієна сну",
+      "клімат"
+    ],
+    "summary": "Lifehack article on maintaining sleep quality during heatwaves when bedroom temperature exceeds 26°C. Cites One Earth 2022 (44 hours annual sleep loss from warming), Kräuchi 1999 Nature (distal-proximal gradient predicts sleep onset — practical translation: cool wrists/ankles/neck 2-3 min pre-bed), Egyptian method (damp sheet + fan airflow), and the fan-vs-AC nuance: Lancet Planetary Health 2024 confirms fans help up to ~35°C, but JAMA 2024 RCT on older adults at 36°C showed fans don't reduce core temperature. AC dries mucosa (sick building syndrome literature) — recommend 24-25°C setting with humidifier. Continuation of July 23-25 heatwave series. Evidence moderate: mechanisms well-established, but RCTs limited (Cochrane review found none eligible)."
   }
 }
