@@ -4494,5 +4494,21 @@
       "клімат"
     ],
     "summary": "Lifehack article on maintaining sleep quality during heatwaves when bedroom temperature exceeds 26°C. Cites One Earth 2022 (44 hours annual sleep loss from warming), Kräuchi 1999 Nature (distal-proximal gradient predicts sleep onset — practical translation: cool wrists/ankles/neck 2-3 min pre-bed), Egyptian method (damp sheet + fan airflow), and the fan-vs-AC nuance: Lancet Planetary Health 2024 confirms fans help up to ~35°C, but JAMA 2024 RCT on older adults at 36°C showed fans don't reduce core temperature. AC dries mucosa (sick building syndrome literature) — recommend 24-25°C setting with humidifier. Continuation of July 23-25 heatwave series. Evidence moderate: mechanisms well-established, but RCTs limited (Cochrane review found none eligible)."
+  },
+  "bdnf-bih-30-khvylyn-kardio-mozok-szuhany-fuss": {
+    "date": "2026-07-27",
+    "title": "BDNF і біг: чому 30 хвилин помірного кардіо тимчасово підвищують «мозкове добриво»",
+    "type": "fitness",
+    "tags": [
+      "фітнес",
+      "біг",
+      "мозок",
+      "BDNF",
+      "кардіо",
+      "нейропластичність",
+      "психічне здоров'я",
+      "дослідження"
+    ],
+    "summary": "Мета-аналізи Szuhany 2015 (29 RCT, g=0,46) і Dinoff 2017 (55 досліджень, SMD=0,59) показують, що одна сесія помірного аеробного кардіо тимчасово піднімає рівень BDNF у крові. Хронічний ефект менший (g=0,27) і залежить від популяції — Marinus 2019 не знайшов ефекту аеробіки на BDNF у людей 60+ без силового компоненту. Fuss 2015 (PNAS, миші) показав, що runner's high пов'язаний з ендоканабіноїдами, а не ендорфінами. Практичний протокол: 30 хв при 60–70% VO2max, 3×/тиждень. Пульсову зону визначати через формулу Танаки, Карвонена або talk test. Рівень доказовості: помірний."
   }
 }

@@ -29261,3 +29261,92 @@ ModuleNotFoundError: No module named 'opentelemetry'
 03:44:21 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
 03:44:21 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
 03:44:21 [pipeline.stages.s7_save] INFO: Article saved: /home/faion/longlife-faion-net/content/son-speka-ventylator-kondytsioner-egyptian-method-krauchi.md
+03:44:22 [pipeline] INFO: Article ready: son-speka-ventylator-kondytsioner-egyptian-method-krauchi (Сон у спеку: як охолодити тіло, коли спальня перег)
+03:44:22 [pipeline] INFO: === Article 6/10 ===
+03:44:22 [pipeline] INFO: --- Article: [fitness] BDNF і біг: чому 30 хвилин помірного кардіо тимчасово підвищ ---
+03:44:22 [asyncio] DEBUG: Using selector: EpollSelector
+03:44:22 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:44:22 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:47:49 [pipeline.stages.s2_research] INFO: Research complete: 13516 chars
+03:47:49 [asyncio] DEBUG: Using selector: EpollSelector
+03:47:49 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:47:50 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:48:57 [pipeline.stages.s3_generate] INFO: Generated: 'BDNF і біг: чому 30 хвилин помірного кардіо тимчасово підвищують «мозкове добриво»' (slug=bdnf-bih-30-khvylyn-kardio-mozok-szuhany-fuss, 546 words, 9 sources)
+03:48:57 [asyncio] DEBUG: Using selector: EpollSelector
+03:48:57 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:48:57 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:49:28 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+03:49:28 [pipeline.stages.s4_review] INFO: Feedback: Стаття науково коректна, добре структурована, з прозорим цитуванням мета-аналізів та чітким розмежуванням гострого й хронічного ефектів. Обмеження (BDNF у крові як непрямий маркер, слабша відповідь у 
+03:49:28 [asyncio] DEBUG: Using selector: EpollSelector
+03:49:28 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:49:28 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:50:24 [pipeline.stages.s5_revise] INFO: Revised article: 671 words
+03:50:24 [pipeline] INFO: === Review cycle 1/3 complete ===
+03:50:24 [asyncio] DEBUG: Using selector: EpollSelector
+03:50:24 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:50:24 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:51:13 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+03:51:13 [pipeline.stages.s4_review] INFO: Feedback: Стаття загалом науково коректна, добре структурована, з чіткими джерелами та належним медичним дисклеймером. Тон Віти Зеленко витриманий: тепло, конкретно, без гіпу. Балансу немає нарікань: чітко розм
+03:51:13 [pipeline] INFO: Article approved after 1 revision(s)
+03:51:13 [asyncio] DEBUG: Using selector: EpollSelector
+03:51:13 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:51:13 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:51:34 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita jogs along a sunlit city park path at a comfortable mod | pose=WIDE full-body shot, Vita mid-jog in profile-three-quarter view, right foot planted, left knee lifted forward, arms bent at 90 degrees and swinging in sync with her stride, torso upright and relaxed, braid mid-swing — clean symmetrical arm motion with no split gesture. | expression=Relaxed, softly focused training face with a subtle contented half-smile, eyes forward on the path, cheeks slightly flushed from steady aerobic effort. | props=black running tank top with subtle green trim, high-waist emerald green running shorts, white running shoes with green accents, black-and-green fitness smartwatch on left wrist, a green stainless-steel water bottle tucked into a slim running belt at her waist
+03:51:34 [asyncio] DEBUG: Using selector: EpollSelector
+03:51:34 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:51:34 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:51:45 [pipeline.stages.s6_generate_tg] INFO: TG caption: 664 chars
+03:51:45 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=bdnf-bih-30-khvylyn-kardio-mozok-szuhany-fuss
+03:51:45 [asyncio] DEBUG: Using selector: EpollSelector
+03:51:45 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:51:45 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:52:00 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Reordered to subject→anatomy→action→environment→lighting→style, enforced explicit limb/finger counts
+03:52:00 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+03:52:00 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:52:01 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+03:52:01 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+03:52:01 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 1 failed to produce image
+03:52:01 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 2/3 (quality=high)
+03:52:01 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:52:01 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+03:52:01 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+03:52:01 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 2 failed to produce image
+03:52:01 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 3/3 (quality=high)
+03:52:01 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:52:02 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+03:52:02 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+03:52:02 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
+03:52:02 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
+03:52:02 [pipeline.stages.s7_save] INFO: Article saved: /home/faion/longlife-faion-net/content/bdnf-bih-30-khvylyn-kardio-mozok-szuhany-fuss.md
