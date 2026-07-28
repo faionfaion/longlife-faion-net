@@ -1,0 +1,87 @@
+{
+  "articles": [
+    {
+      "topic": "Ранкова пігулка проти вечірньої: що показав хронотерапевтичний мета-аналіз антигіпертензивних 2026 після провалу TIME",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Розбір нових даних 2025-2026 років про час прийому антигіпертензивних препаратів після скандалу навколо Hygia (відкликана 2024) і нульового результату TIME (Lancet 2022). Що каже свіжий мета-аналіз BMJ 2025 і оновлені гайдлайни ESH — чи справді вечірній прийом більше не рекомендується, і кому все ж таки може підходити.",
+      "sources_hint": "PubMed: 'chronotherapy antihypertensive TIME trial meta-analysis 2025'; BMJ Evidence-Based Medicine 2025; ESH 2024 guidelines; Hermida Hygia retraction context; TIME trial Lancet 2022",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Мікропластик у людському мозку: що показала аутопсія 24 зразків у Nature Medicine 2024 і чи виправдана паніка 2026",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Розбір гучного дослідження Campen et al. (Nature Medicine 2024) про 7 г мікропластику у 24 фронтальних кортексах з кросслінком на нові follow-up 2026: чи справді у людей з деменцією у 3-5 разів більше MNPs, обмеження piROLYSIS-GC/MS методу, критика Prata & da Costa 2025 щодо контамінації зразків. Чого поки НЕ знаємо і як розумно зменшити експозицію без інфопаніки.",
+      "sources_hint": "Nature Medicine 2024 Campen et al. 'Bioaccumulation of microplastics in decedent human brains'; Environmental Health Perspectives 2025 replication; NEJM 2024 carotid plaque study Marfella; PLASTIC study protocol",
+      "evidence_level": "preliminary",
+      "priority": 1
+    },
+    {
+      "topic": "Йододефіцит у вагітних українок 2026: чому 250 мкг калію йодиду — не універсальна відповідь",
+      "type": "guide",
+      "category": "nutrition",
+      "angle": "Практичний гайд для вагітних і тих, хто планує: як інтерпретувати нові дані про IQ дитини та йодний статус матері (Lancet Diabetes Endocrinol 2024), українські дані про медіанну йодурію <100 мкг/л у Львівській і Закарпатській областях, ризики надмірного прийому при аутоімунному тиреоїдиті. Коли 150 мкг йодованої солі достатньо, а коли потрібні 250 мкг калію йодиду. Cross-link на статтю про селен у Карпатах (27.07).",
+      "sources_hint": "WHO/UNICEF/IGN Global Iodine Scorecard 2024; Bath et al. Lancet Diabetes Endocrinol; ATA 2017 pregnancy thyroid guidelines; Ukrainian Endocrinological Institute data; Zimmermann meta-analysis",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Ранкова таблетка контрацепції з аптеки без рецепта: що знати українкам після запуску безкоштовної служби у Британії",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Приводом стала новина BBC про сотні тисяч жінок, які отримали emergency contraception через безкоштовну аптечну службу NHS. Розбір: як працюють levonorgestrel (до 72 год) і ulipristal (до 120 год), українська доступність (Постінор, ЕллаОне без рецепта), ефективність за ІМТ (гірше при ІМТ >26 для LNG), взаємодія з CYP3A4-індукторами, чому це НЕ абортивний засіб. Cross-link на попередні матеріали про репродуктивне здоров'я.",
+      "sources_hint": "FSRH Emergency Contraception guideline 2023; Cochrane review Shen 2019; WHO MEC 2015; NHS Pharmacy First 2025 press release; ellaOne SmPC",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Nature Prescriptions: чому лікарі у Шотландії виписують прогулянки, а в Україні поки що ні",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Follow-up до вчорашньої статті про 120 хвилин на природі. Розбір програми RSPB Nature Prescriptions на Shetland (з 2018), канадської PaRx (>10 000 лікарів, безкоштовні національні парки), нового RCT Nurtured in Nature (BJGP 2024) з Wales. Що показує систематичний огляд Nguyen 2023 у Lancet Planetary Health — помірний ефект на депресію (SMD -0.5), але висока гетерогенність. Як українські сімейні лікарі можуть інтегрувати social prescribing у ПМД.",
+      "sources_hint": "Lancet Planetary Health 2023 Nguyen nature prescribing systematic review; British Journal of General Practice 2024; PaRx Canada evaluation; RSPB Shetland pilot 2019",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Втома надвечір: 3 хвилини рухового 'снеку' проти 15-хвилинної кавової паузи — що показав RCT 2025",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Практична порівняльна стаття: чому короткі рухові інтервенції (exercise snacks 1-3 хв кожні 30-45 хв) кращі за одну довгу перерву для когнітивної працездатності офісного працівника. Нові RCT 2025 з Journal of Applied Physiology і Frontiers in Cognition, дані про VILPA (Stamatakis Nature Medicine 2022). Практичний протокол 3-2-1: 3 хв рухів × 2 присідання-віджимання × 1 раз/год.",
+      "sources_hint": "Stamatakis VILPA Nature Medicine 2022; Islam Applied Physiology Nutrition Metabolism 2022; Jones exercise snacks meta-analysis 2024; Frontiers in Cognition 2025 acute exercise cognitive",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Синій світлофільтр смартфона перед сном: що показав Кокранівський огляд 2023 і чому індустрія на 30 млрд доларів тримається на слабких доказах",
+      "type": "lifehack",
+      "category": "sleep",
+      "angle": "Розвінчання популярного лайфгаку: Cochrane review Singh 2023 (17 RCTs, n=619) не знайшов клінічно значущого впливу окулярів з блакитним фільтром на сон чи візуальну втому. Що насправді працює для вечірнього екрану: зменшення яскравості (не спектру), відстань 40+ см, кут погляду, правило 20-20-20. Українські ціни на фільтр-окуляри 800-4000 грн — куди варто витратити гроші натомість.",
+      "sources_hint": "Cochrane Database Syst Rev 2023 Singh 'Blue-light filtering spectacle lenses'; Ophthalmic & Physiological Optics 2023; AAO position statement on blue light; Chang PNAS 2015 iPad melatonin",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "L-теанін 200 мг зі зеленим чаєм: чому 'кофеїн без тремору' має слабші докази, ніж очікується",
+      "type": "nutrition",
+      "category": "biohacking",
+      "angle": "Розбір популярного nootropic-стеку L-теанін + кофеїн. Що реально показують мета-аналізи (Williams 2020 Plant Foods Hum Nutr, 21 RCT — малий ефект на увагу g=0.19; Everett 2022 на тривозі — обмежені дані). Скільки L-теаніну справді у чашці зеленого чаю (5-30 мг vs потрібні 100-200 мг у RCT), відсутність довгострокових даних, безпека. Українські добавки на iHerb та ринку — на що дивитися.",
+      "sources_hint": "Williams et al. Plant Foods Hum Nutr 2020 L-theanine meta-analysis; Everett Frontiers in Nutrition 2022; Nobre Asia Pac J Clin Nutr 2008; Kelly PLOS ONE 2008 attention EEG",
+      "evidence_level": "moderate",
+      "priority": 3
+    },
+    {
+      "topic": "Пептид GHK-Cu у сироватках для обличчя: що показує наука проти маркетингу антиейджу за 3000 грн",
+      "type": "guide",
+      "category": "longevity",
+      "angle": "Розбір популярного інгредієнта cosmeceuticals: мідно-пептидний комплекс GHK-Cu. Основа — робота Loren Pickart 1970-80х (in vitro стимуляція колагену), нові in vivo дані Pickart & Margolina 2018 (огляд, не RCT). Що показують реальні клінічні дослідження на людях — маленькі відкриті випробування (Leyden 2002 n=67; Finkley 2005 n=41), відсутність голови-до-голови vs ретиноїди. Стабільність pH, конфлікт з вітаміном C у одній рутині, alternatives з сильнішими доказами (третиноїн, азелаїнова кислота).",
+      "sources_hint": "Pickart Biomed Res Int 2015 review; Finkley Int J Cosmet Sci 2005; PubMed 'GHK-Cu clinical trial'; Griffiths NEJM 1993 tretinoin comparison; JAMA Dermatology cosmeceuticals reviews 2020-2024",
+      "evidence_level": "preliminary",
+      "priority": 3
+    }
+  ],
+  "date": "2026-07-28",
+  "created_at": "2026-07-28T03:03:03.641534+00:00"
+}

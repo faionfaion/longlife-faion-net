@@ -1,0 +1,392 @@
+{
+  "timestamp": "2026-07-27_042335",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "planka-vs-wall-sit-tysk-zhou-jung-2025-onovlennya, monday-effect-stemi-ranok-kardio-bhf-2025, tre-8h-vs-10h-metsyndrom-timet-2024-rct, ldct-skryninh-raku-legen-50-plus-nlst-nelson-nszu-ukraina, son-speka-ventylator-kondytsioner-egyptian-method-krauchi",
+  "author": "LongLife Media",
+  "duration_s": 4832.3,
+  "image_generated": false,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 192.7,
+      "error": null
+    },
+    {
+      "name": "research:Ізометрична планка проти wall-",
+      "status": "ok",
+      "duration_s": 151.4,
+      "error": null
+    },
+    {
+      "name": "generate:Ізометрична планка проти wall-",
+      "status": "ok",
+      "duration_s": 65.9,
+      "error": null
+    },
+    {
+      "name": "review:Ізометрична планка проти wall-",
+      "status": "ok",
+      "duration_s": 130.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ізометрична планка проти wall-",
+      "status": "ok",
+      "duration_s": 18.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ізометрична планка проти wall-",
+      "status": "ok",
+      "duration_s": 8.7,
+      "error": null
+    },
+    {
+      "name": "save:Ізометрична планка проти wall-",
+      "status": "ok",
+      "duration_s": 23.7,
+      "error": null
+    },
+    {
+      "name": "research:Понеділковий кардіо-старт: чи ",
+      "status": "ok",
+      "duration_s": 179.5,
+      "error": null
+    },
+    {
+      "name": "generate:Понеділковий кардіо-старт: чи ",
+      "status": "ok",
+      "duration_s": 73.1,
+      "error": null
+    },
+    {
+      "name": "review:Понеділковий кардіо-старт: чи ",
+      "status": "ok",
+      "duration_s": 98.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Понеділковий кардіо-старт: чи ",
+      "status": "ok",
+      "duration_s": 23.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Понеділковий кардіо-старт: чи ",
+      "status": "ok",
+      "duration_s": 10.9,
+      "error": null
+    },
+    {
+      "name": "save:Понеділковий кардіо-старт: чи ",
+      "status": "ok",
+      "duration_s": 16.1,
+      "error": null
+    },
+    {
+      "name": "research:Тайм-обмежене харчування 8:16 ",
+      "status": "ok",
+      "duration_s": 194.6,
+      "error": null
+    },
+    {
+      "name": "generate:Тайм-обмежене харчування 8:16 ",
+      "status": "ok",
+      "duration_s": 107.7,
+      "error": null
+    },
+    {
+      "name": "review:Тайм-обмежене харчування 8:16 ",
+      "status": "ok",
+      "duration_s": 101.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Тайм-обмежене харчування 8:16 ",
+      "status": "ok",
+      "duration_s": 22.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Тайм-обмежене харчування 8:16 ",
+      "status": "ok",
+      "duration_s": 9.9,
+      "error": null
+    },
+    {
+      "name": "save:Тайм-обмежене харчування 8:16 ",
+      "status": "ok",
+      "duration_s": 25.3,
+      "error": null
+    },
+    {
+      "name": "research:Скринінг раку легень низькодоз",
+      "status": "ok",
+      "duration_s": 234.5,
+      "error": null
+    },
+    {
+      "name": "generate:Скринінг раку легень низькодоз",
+      "status": "ok",
+      "duration_s": 136.1,
+      "error": null
+    },
+    {
+      "name": "review:Скринінг раку легень низькодоз",
+      "status": "ok",
+      "duration_s": 154.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Скринінг раку легень низькодоз",
+      "status": "ok",
+      "duration_s": 20.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Скринінг раку легень низькодоз",
+      "status": "ok",
+      "duration_s": 13.4,
+      "error": null
+    },
+    {
+      "name": "save:Скринінг раку легень низькодоз",
+      "status": "ok",
+      "duration_s": 16.5,
+      "error": null
+    },
+    {
+      "name": "research:Сон під час хвилі спеки: як тр",
+      "status": "ok",
+      "duration_s": 218.9,
+      "error": null
+    },
+    {
+      "name": "generate:Сон під час хвилі спеки: як тр",
+      "status": "ok",
+      "duration_s": 59.5,
+      "error": null
+    },
+    {
+      "name": "review:Сон під час хвилі спеки: як тр",
+      "status": "ok",
+      "duration_s": 112.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Сон під час хвилі спеки: як тр",
+      "status": "ok",
+      "duration_s": 22.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Сон під час хвилі спеки: як тр",
+      "status": "ok",
+      "duration_s": 16.2,
+      "error": null
+    },
+    {
+      "name": "save:Сон під час хвилі спеки: як тр",
+      "status": "ok",
+      "duration_s": 18.7,
+      "error": null
+    },
+    {
+      "name": "research:BDNF і біг: чому 30 хвилин пом",
+      "status": "ok",
+      "duration_s": 207.8,
+      "error": null
+    },
+    {
+      "name": "generate:BDNF і біг: чому 30 хвилин пом",
+      "status": "ok",
+      "duration_s": 67.7,
+      "error": null
+    },
+    {
+      "name": "review:BDNF і біг: чому 30 хвилин пом",
+      "status": "ok",
+      "duration_s": 136.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:BDNF і біг: чому 30 хвилин пом",
+      "status": "ok",
+      "duration_s": 21.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:BDNF і біг: чому 30 хвилин пом",
+      "status": "ok",
+      "duration_s": 10.8,
+      "error": null
+    },
+    {
+      "name": "save:BDNF і біг: чому 30 хвилин пом",
+      "status": "ok",
+      "duration_s": 17.6,
+      "error": null
+    },
+    {
+      "name": "research:Селен у Карпатах і Поліссі: чо",
+      "status": "ok",
+      "duration_s": 260.2,
+      "error": null
+    },
+    {
+      "name": "generate:Селен у Карпатах і Поліссі: чо",
+      "status": "ok",
+      "duration_s": 93.3,
+      "error": null
+    },
+    {
+      "name": "review:Селен у Карпатах і Поліссі: чо",
+      "status": "ok",
+      "duration_s": 104.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Селен у Карпатах і Поліссі: чо",
+      "status": "ok",
+      "duration_s": 21.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Селен у Карпатах і Поліссі: чо",
+      "status": "ok",
+      "duration_s": 12.4,
+      "error": null
+    },
+    {
+      "name": "save:Селен у Карпатах і Поліссі: чо",
+      "status": "ok",
+      "duration_s": 19.6,
+      "error": null
+    },
+    {
+      "name": "research:Дефіцит уваги у дорослих: що п",
+      "status": "ok",
+      "duration_s": 207.9,
+      "error": null
+    },
+    {
+      "name": "generate:Дефіцит уваги у дорослих: що п",
+      "status": "ok",
+      "duration_s": 88.2,
+      "error": null
+    },
+    {
+      "name": "review:Дефіцит уваги у дорослих: що п",
+      "status": "ok",
+      "duration_s": 110.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Дефіцит уваги у дорослих: що п",
+      "status": "ok",
+      "duration_s": 20.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Дефіцит уваги у дорослих: що п",
+      "status": "ok",
+      "duration_s": 10.2,
+      "error": null
+    },
+    {
+      "name": "save:Дефіцит уваги у дорослих: що п",
+      "status": "ok",
+      "duration_s": 22.2,
+      "error": null
+    },
+    {
+      "name": "research:Психобіотики у 2026: чи справд",
+      "status": "ok",
+      "duration_s": 163.2,
+      "error": null
+    },
+    {
+      "name": "generate:Психобіотики у 2026: чи справд",
+      "status": "ok",
+      "duration_s": 114.9,
+      "error": null
+    },
+    {
+      "name": "review:Психобіотики у 2026: чи справд",
+      "status": "ok",
+      "duration_s": 135.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Психобіотики у 2026: чи справд",
+      "status": "ok",
+      "duration_s": 21.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Психобіотики у 2026: чи справд",
+      "status": "ok",
+      "duration_s": 8.7,
+      "error": null
+    },
+    {
+      "name": "save:Психобіотики у 2026: чи справд",
+      "status": "ok",
+      "duration_s": 19.5,
+      "error": null
+    },
+    {
+      "name": "research:Синя пляма (locus coeruleus) і",
+      "status": "ok",
+      "duration_s": 232.4,
+      "error": null
+    },
+    {
+      "name": "generate:Синя пляма (locus coeruleus) і",
+      "status": "ok",
+      "duration_s": 77.2,
+      "error": null
+    },
+    {
+      "name": "review:Синя пляма (locus coeruleus) і",
+      "status": "ok",
+      "duration_s": 99.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Синя пляма (locus coeruleus) і",
+      "status": "ok",
+      "duration_s": 19.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Синя пляма (locus coeruleus) і",
+      "status": "ok",
+      "duration_s": 12.6,
+      "error": null
+    },
+    {
+      "name": "save:Синя пляма (locus coeruleus) і",
+      "status": "ok",
+      "duration_s": 16.6,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.2,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}
