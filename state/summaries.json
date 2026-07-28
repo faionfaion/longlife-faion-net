@@ -4590,5 +4590,20 @@
       "ліки"
     ],
     "summary": "Стаття підсумовує сучасні докази щодо часу прийому антигіпертензивних препаратів. Три великі РКД (TIME 2022, BedMed 2025, BedMed-Frail 2025) і мета-аналіз Canadian Journal of Cardiology 2025 (46 606 учасників) не виявили різниці за серцево-судинними подіями між ранковим і вечірнім прийомом. Мета-аналіз Kuang 2025 (56 РКД) і OMAN 2025 показали, що вечірній прийом краще контролює нічний тиск у молодших пацієнтів, при ожирінні та non-dipping. Гайдлайни ESH 2023 рекомендують ранковий прийом для кращої прихильності, з опцією вечірнього при документованій нічній гіпертензії. Практичний висновок: приймати тоді, коли не забудеш; обговорити ABPM і вечірній прийом з лікарем лише за наявності показань. Сила доказів — сильна для основного висновку."
+  },
+  "mikroplastyk-mozok-campen-nature-medicine-2024-replikatsiya-2026": {
+    "date": "2026-07-28",
+    "title": "Мікропластик у мозку: чи справді там «пластикова ложка» і що показало нове дослідження 2026",
+    "type": "research",
+    "tags": [
+      "мікропластик",
+      "мозок",
+      "деменція",
+      "дослідження",
+      "екологія",
+      "довголіття",
+      "нейронауки"
+    ],
+    "summary": "Cross-sectional autopsy study by Nihart/Campen (Nature Medicine 2025) reported ~4,917 µg/g of micro- and nanoplastics in human frontal cortex tissue (2024 samples), with dementia brains showing nearly 8× higher concentrations. The famous 'plastic spoon' figure (~7 g) is an extrapolation from press interviews, not the paper itself. Methodological critiques (Fazel Monikh 2025 in Nature Medicine; Rauert 2025 in ES&T) flag serious limitations of Py-GC/MS for polyethylene detection in biological matrices, plus PubPeer image-duplication concerns. A 2026 replication by Li et al. (Nature Health) using LDIR+SEM on 191 samples found ~100× lower concentrations (median 50.3 µg/g), though that method has its own false-positive risks. Dementia association is likely confounded by BBB breakdown. Practical takeaways: avoid microwaving food in plastic, filter tap water, read microplastic headlines with methodological skepticism. Evidence level: preliminary."
   }
 }
