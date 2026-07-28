@@ -4622,5 +4622,23 @@
       "дослідження"
     ],
     "summary": "Guide for pregnant Ukrainian women and those planning pregnancy on choosing between 150 and 250 µg potassium iodide daily. Main finding: dose should be individualized based on regional iodine status, diet, and thyroid autoimmunity — not a universal 250 µg prescription. Key evidence: 2019 IPD meta-analysis (Levie et al., JCEM, n=6180) shows U-shaped curve between maternal iodine and child IQ; 2026 Nutrients dose-response meta-analysis identifies adverse effects both below 185 µg/day and above 350–370 µg/day; Western Ukraine data (Pasyechko, median UIC 82 µg/L) justify higher doses regionally, while ATA 2017 sets 150 µg as baseline supplement dose. Hashimoto's patients require caution due to Wolff-Chaikoff mechanism, though Thumma & Maraka 2021 case series (n=20) shows 100–150 µg is safe. Practical takeaway: test urinary iodine and TSH/anti-TPO before supplementing; use iodized salt; avoid stacking multiple iodine sources. Cross-linked with previous LongLife articles on returning iodine deficiency and Ukrainian selenium status. Evidence strength: strong for adequate iodine benefit; moderate for exact optimal dose."
+  },
+  "ranky-kontratseptyv-levonorgestrel-ulipristal-imt-cyp3a4-ukraina-guide": {
+    "date": "2026-07-28",
+    "title": "Ранкова таблетка контрацепції: як працює, коли обирати ulipristal замість levonorgestrel і що з нею в Україні",
+    "type": "guide",
+    "tags": [
+      "контрацепція",
+      "репродуктивне здоровя",
+      "жіноче здоровя",
+      "levonorgestrel",
+      "ulipristal",
+      "Постінор",
+      "ЕллаОне",
+      "гайдлайни",
+      "FSRH",
+      "ВООЗ"
+    ],
+    "summary": "Гайд про екстрену контрацепцію на приводі запуску безкоштовної служби NHS у Британії (жовтень 2025). Пояснюємо різницю між levonorgestrel (до 72 год, Постінор/Ескапел) та ulipristal acetate (до 120 год, Ulissa/ellaOne): механізм, ефективність, вплив ІМТ >26 (FSRH vs WHO суперечка), взаємодію з CYP3A4-індукторами (рифампіцин, протисудомні, звіробій). Ключова теза FIGO/ACOG: EC — не абортивний засіб, не діє на встановлену вагітність. Український контекст: формально рецептурні, МОЗ не заперечує проти OTC, але перекласифікація не завершена. Джерела: NHS England, Cochrane 2019, Lancet 2010 (Glasier), FSRH 2023, EMA SmPC, WHO MEC 5. Evidence level: strong. Практичний висновок: обирати UPA при ІМТ >26 або >72 год, Cu-IUD при прийомі індукторів CYP3A4, тест на вагітність через 3 тижні."
   }
 }
