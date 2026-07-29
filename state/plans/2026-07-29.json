@@ -1,0 +1,87 @@
+{
+  "articles": [
+    {
+      "topic": "Аспартам і рак: що показала оновлена оцінка IARC/JECFA 2023-2026 і чи варто відмовлятись від Coca-Cola Zero",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "IARC класифікація 2B (можливо канцерогенний) vs JECFA підтвердження ADI 40 мг/кг. Реальні дози: людині 70 кг треба ~14 банок дієтичної коли на день. Свіжі дані NutriNet-Santé 2022 (Debras) про асоціацію з раком і критика confounders. Практичний висновок: не панікуй, але і не пий 2 літри на день. Порівняння з сукралозою, стевією і ацесульфамом-К за наявними даними.",
+      "sources_hint": "IARC Monographs Vol 134, JECFA 96th meeting 2023, Debras 2022 PLOS Medicine NutriNet-Santé, EFSA aspartame reassessment, WHO 2023 non-sugar sweeteners guideline",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "HPV-вакцина хлопцям 12-13 в Україні: чому Gardasil 9 у бюджеті МОЗ 2026 поки лише для дівчат і що робити батькам синів",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Практичний гайд: Gardasil 9 захищає від орофарингеального і анального раку у чоловіків (85% ОФК-раків HPV-асоційовані, Chaturvedi JCO 2011). ACIP 2019 і WHO SAGE 2022 рекомендують gender-neutral vaccination. Українська реалія: наказ МОЗ передбачає лише дівчат; для хлопців — приватно 6000-9000 грн за 2 дози. Оптимальний вік 9-14 (2 дози), 15+ — 3 дози. Cross-link на статтю про рак 2050 від 23.07.",
+      "sources_hint": "WHO SAGE 2022 position paper HPV, ACIP 2019 MMWR, Chaturvedi 2011 JCO oropharyngeal, Lancet Oncology 2023 gender-neutral HPV modeling",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "NAFLD/MASLD у струнких людей: чому 20% пацієнтів з жировим гепатозом мають ІМТ <25",
+      "type": "research",
+      "category": "nutrition",
+      "angle": "Lean MASLD — недооцінена проблема. Мета-аналіз Ye 2020 Lancet Gastro Hep (n=1,04 млн, поширеність 4,1% у нехудих), роль вісцерального жиру, PNPLA3 і TM6SF2 генетики, фруктози. AASLD 2023 і EASL 2024 guidelines: FIB-4 як перший крок скринінгу для всіх з метаболічними факторами. Практично: у стрункого українця з ТГ/ЛПВЩ >2 варто перевірити АЛТ і FIB-4. Cross-link на статтю про талію vs ІМТ 26.07.",
+      "sources_hint": "Ye 2020 Lancet Gastroenterology & Hepatology, AASLD 2023 practice guidance MASLD, Rinella 2023 Hepatology nomenclature, EASL 2024 clinical practice guideline",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Micro-workouts 4×4 хв: чому норвезький протокол Wisløff підвищує VO2max на 10-15% за 8 тижнів",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Практичний гайд по 4×4 min HIIT протоколу (90-95% HRmax, 3 хв активного відновлення) — цей матеріал доповнює статтю 22.07 про Zone 2 vs HIIT конкретним протоколом. Дані Wisløff 2007 Circulation про пацієнтів з СН, Gjellesvik 2020 після інсульту, SMARTEX-HF 2017 null результат і чому. Кому НЕ можна: неконтрольована АГ, свіжий ACS. Як інтегрувати з Zone 2 у 80/20 модель.",
+      "sources_hint": "Wisløff 2007 Circulation, Weston 2014 BJSM meta-analysis HIIT vs MICT, SMARTEX-HF 2017 Circulation, Ellingsen NEJM 2017",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Синдром неспокійних ніг у жінок 40+: чому феритин 75+ важливіший за таблетки — оновлені гайдлайни AASM 2024",
+      "type": "guide",
+      "category": "sleep",
+      "angle": "RLS/Willis-Ekbom вражає 7-10% дорослих, вдвічі частіше жінок. IRLSSG 2018 і AASM 2024 рекомендують перевіряти феритин перед фармакотерапією; поріг 75 нг/мл, не 30. Внутрішньовенне залізо (ferric carboxymaltose) — доказова терапія (Trenkwalder 2017). Ризик augmentation при допамінергіках. Роль вагітності, менопаузи. Український контекст: доступність в/в заліза, ціни на препарати.",
+      "sources_hint": "AASM 2024 RLS clinical practice guideline, Allen 2018 IRLSSG consensus, Trenkwalder 2017 Sleep Medicine, Winkelmann 2018 Movement Disorders",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Ранкова тривога і кортизоловий пік: чому CAR (cortisol awakening response) не варто плутати з вигоранням",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Пояснити відмінність нормального 50-60% сплеску кортизолу протягом 30-45 хв після пробудження від патологічної тривоги. Дані Fries 2009, Stalder 2016 expert consensus, свіжі дослідження про сплющений CAR при вигоранні (Chida & Steptoe 2009 meta) і зворотний ефект при ПТСР. Практично: не міряти слиновий кортизол без причини. Cross-link на статтю про HRV біофідбек 26.07.",
+      "sources_hint": "Psychoneuroendocrinology, Stalder 2016 consensus guidelines, Chida & Steptoe 2009 meta-analysis, Wüst studies on CAR",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Соціальний jet lag: як «відсипання на вихідних» руйнує метаболізм — свіжі дані European Sleep Research 2025",
+      "type": "lifehack",
+      "category": "biohacking",
+      "angle": "Роеннеберг concept, Wong 2015 J Clin Endocrinol Metab (соц. jet lag = +33% метсиндрому), Depner 2019 Current Biology показав, що weekend recovery sleep НЕ рятує від метаболічних наслідків. Практичний протокол: різниця <1 год між буднями і вихідними; якщо не виходить — 15-хв послідовний зсув. Доповнює недільний shutdown ritual (26.07) і Monday effect (27.07).",
+      "sources_hint": "Roenneberg MCTQ studies, Wong 2015 JCEM, Depner 2019 Current Biology, Sleep Medicine Reviews 2024 social jetlag meta-analyses",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Крижана ванна після силового тренування пригнічує гіпертрофію: що показав мережевий мета-аналіз 2026",
+      "type": "research",
+      "category": "fitness",
+      "angle": "Специфічний кут для атлетів (не плутати з холодним душем 22.07): CWI 10-15°C, 10-15 хв ПІСЛЯ силового блокує mTOR-сигналінг і зменшує довгостроковий приріст м'язів (Roberts 2015 J Physiol, Fyfe 2019, Piñero 2024). Для витривалості ефект нейтральний або позитивний. Практично: розділити CWI і силові щонайменше на 6-8 год, або використовувати лише перед змаганнями, не в базовий період.",
+      "sources_hint": "Roberts 2015 J Physiol, Fyfe 2019 Sports Med, Piñero 2024 European J Applied Physiol on hypertrophy blunting, Moore 2023 Sports Med network meta-analysis",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Довголіття собак і людини: що дані Dog Aging Project 2026 і TRIAD trial рапаміцину говорять нам",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Dog Aging Project (n>50 000) і рапаміцин trial TRIAD як translational model. Що ми вже знаємо про калорійне обмеження у Labrador study Kealy 2002 (+15% median lifespan), і чому рапаміцин у людей 60+ (PEARL trial 2024) поки що показує лише покращення імунної функції, а не подовження життя. Обережно щодо hype: чому extrapolation від собак до людини не працює прямолінійно.",
+      "sources_hint": "Dog Aging Project publications 2025-2026, Kealy 2002 JAVMA, PEARL trial results, Mannick 2018 Sci Transl Med rapalog immunity, Kaeberlein reviews",
+      "evidence_level": "preliminary",
+      "priority": 3
+    }
+  ],
+  "date": "2026-07-29",
+  "created_at": "2026-07-29T03:03:03.819396+00:00"
+}

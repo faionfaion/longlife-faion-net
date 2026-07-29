@@ -1,0 +1,332 @@
+{
+  "timestamp": "2026-07-28_041323",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "antyhipertenzyvni-ranok-vs-vechir-time-bedmed-meta-analiz-2025, mikroplastyk-mozok-campen-nature-medicine-2024-replikatsiya-2026, yododefitsyt-vahitni-ukrainky-250-mkg-kaliyu-yodidu-guide-2026, ranky-kontratseptyv-levonorgestrel-ulipristal-imt-cyp3a4-ukraina-guide, exercise-snacks-vs-coffee-break-cognition-office-fatigue-2025",
+  "author": "LongLife Media",
+  "duration_s": 4219.7,
+  "image_generated": false,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 179.4,
+      "error": null
+    },
+    {
+      "name": "research:Ранкова пігулка проти вечірньо",
+      "status": "ok",
+      "duration_s": 186.1,
+      "error": null
+    },
+    {
+      "name": "generate:Ранкова пігулка проти вечірньо",
+      "status": "ok",
+      "duration_s": 65.6,
+      "error": null
+    },
+    {
+      "name": "review:Ранкова пігулка проти вечірньо",
+      "status": "ok",
+      "duration_s": 107.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ранкова пігулка проти вечірньо",
+      "status": "ok",
+      "duration_s": 21.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ранкова пігулка проти вечірньо",
+      "status": "ok",
+      "duration_s": 10.3,
+      "error": null
+    },
+    {
+      "name": "save:Ранкова пігулка проти вечірньо",
+      "status": "ok",
+      "duration_s": 18.7,
+      "error": null
+    },
+    {
+      "name": "research:Мікропластик у людському мозку",
+      "status": "ok",
+      "duration_s": 216.2,
+      "error": null
+    },
+    {
+      "name": "generate:Мікропластик у людському мозку",
+      "status": "ok",
+      "duration_s": 83.0,
+      "error": null
+    },
+    {
+      "name": "review:Мікропластик у людському мозку",
+      "status": "ok",
+      "duration_s": 131.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Мікропластик у людському мозку",
+      "status": "ok",
+      "duration_s": 18.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Мікропластик у людському мозку",
+      "status": "ok",
+      "duration_s": 9.3,
+      "error": null
+    },
+    {
+      "name": "save:Мікропластик у людському мозку",
+      "status": "ok",
+      "duration_s": 17.0,
+      "error": null
+    },
+    {
+      "name": "research:Йододефіцит у вагітних україно",
+      "status": "ok",
+      "duration_s": 225.7,
+      "error": null
+    },
+    {
+      "name": "generate:Йододефіцит у вагітних україно",
+      "status": "ok",
+      "duration_s": 123.4,
+      "error": null
+    },
+    {
+      "name": "review:Йододефіцит у вагітних україно",
+      "status": "ok",
+      "duration_s": 191.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Йододефіцит у вагітних україно",
+      "status": "ok",
+      "duration_s": 20.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Йододефіцит у вагітних україно",
+      "status": "ok",
+      "duration_s": 8.9,
+      "error": null
+    },
+    {
+      "name": "save:Йододефіцит у вагітних україно",
+      "status": "ok",
+      "duration_s": 16.2,
+      "error": null
+    },
+    {
+      "name": "research:Ранкова таблетка контрацепції ",
+      "status": "ok",
+      "duration_s": 220.2,
+      "error": null
+    },
+    {
+      "name": "generate:Ранкова таблетка контрацепції ",
+      "status": "ok",
+      "duration_s": 125.5,
+      "error": null
+    },
+    {
+      "name": "review:Ранкова таблетка контрацепції ",
+      "status": "ok",
+      "duration_s": 175.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ранкова таблетка контрацепції ",
+      "status": "ok",
+      "duration_s": 21.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ранкова таблетка контрацепції ",
+      "status": "ok",
+      "duration_s": 20.9,
+      "error": null
+    },
+    {
+      "name": "save:Ранкова таблетка контрацепції ",
+      "status": "ok",
+      "duration_s": 17.4,
+      "error": null
+    },
+    {
+      "name": "research:Nature Prescriptions: чому лік",
+      "status": "ok",
+      "duration_s": 224.1,
+      "error": null
+    },
+    {
+      "name": "generate:Nature Prescriptions: чому лік",
+      "status": "failed",
+      "duration_s": 88.0,
+      "error": "[structured_query] All JSON repair attempts failed (8741 chars)"
+    },
+    {
+      "name": "research:Втома надвечір: 3 хвилини рухо",
+      "status": "ok",
+      "duration_s": 195.5,
+      "error": null
+    },
+    {
+      "name": "generate:Втома надвечір: 3 хвилини рухо",
+      "status": "ok",
+      "duration_s": 76.9,
+      "error": null
+    },
+    {
+      "name": "review:Втома надвечір: 3 хвилини рухо",
+      "status": "ok",
+      "duration_s": 98.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Втома надвечір: 3 хвилини рухо",
+      "status": "ok",
+      "duration_s": 19.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Втома надвечір: 3 хвилини рухо",
+      "status": "ok",
+      "duration_s": 10.5,
+      "error": null
+    },
+    {
+      "name": "save:Втома надвечір: 3 хвилини рухо",
+      "status": "ok",
+      "duration_s": 16.1,
+      "error": null
+    },
+    {
+      "name": "research:Синій світлофільтр смартфона п",
+      "status": "ok",
+      "duration_s": 196.5,
+      "error": null
+    },
+    {
+      "name": "generate:Синій світлофільтр смартфона п",
+      "status": "ok",
+      "duration_s": 48.4,
+      "error": null
+    },
+    {
+      "name": "review:Синій світлофільтр смартфона п",
+      "status": "ok",
+      "duration_s": 77.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Синій світлофільтр смартфона п",
+      "status": "ok",
+      "duration_s": 20.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Синій світлофільтр смартфона п",
+      "status": "ok",
+      "duration_s": 9.3,
+      "error": null
+    },
+    {
+      "name": "save:Синій світлофільтр смартфона п",
+      "status": "ok",
+      "duration_s": 17.5,
+      "error": null
+    },
+    {
+      "name": "research:L-теанін 200 мг зі зеленим чає",
+      "status": "ok",
+      "duration_s": 226.0,
+      "error": null
+    },
+    {
+      "name": "generate:L-теанін 200 мг зі зеленим чає",
+      "status": "ok",
+      "duration_s": 80.0,
+      "error": null
+    },
+    {
+      "name": "review:L-теанін 200 мг зі зеленим чає",
+      "status": "ok",
+      "duration_s": 98.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:L-теанін 200 мг зі зеленим чає",
+      "status": "ok",
+      "duration_s": 21.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:L-теанін 200 мг зі зеленим чає",
+      "status": "ok",
+      "duration_s": 10.6,
+      "error": null
+    },
+    {
+      "name": "save:L-теанін 200 мг зі зеленим чає",
+      "status": "ok",
+      "duration_s": 19.3,
+      "error": null
+    },
+    {
+      "name": "research:Пептид GHK-Cu у сироватках для",
+      "status": "ok",
+      "duration_s": 137.9,
+      "error": null
+    },
+    {
+      "name": "generate:Пептид GHK-Cu у сироватках для",
+      "status": "ok",
+      "duration_s": 108.3,
+      "error": null
+    },
+    {
+      "name": "review:Пептид GHK-Cu у сироватках для",
+      "status": "ok",
+      "duration_s": 137.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Пептид GHK-Cu у сироватках для",
+      "status": "ok",
+      "duration_s": 20.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Пептид GHK-Cu у сироватках для",
+      "status": "ok",
+      "duration_s": 10.7,
+      "error": null
+    },
+    {
+      "name": "save:Пептид GHK-Cu у сироватках для",
+      "status": "ok",
+      "duration_s": 16.9,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.2,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}
