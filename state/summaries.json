@@ -4770,5 +4770,21 @@
       "інтервальне тренування"
     ],
     "summary": "Норвезький протокол 4×4 (Wisløff, Trondheim) — 4 інтервали по 4 хв на 90–95% HRmax з 3 хв активного відновлення, 2–3 рази на тиждень. Оригінальне РКД 2007 у Circulation (N=27 пацієнтів із СН) показало +46% VO2peak за 12 тижнів проти +14% у групи безперервного кардіо. Мета-аналіз Weston 2014 у BJSM підтверджує ~9% додатковий приріст VO2peak порівняно з MICT; у здорових дорослих реалістичний виграш — 10–15% за 8 тижнів. Мультицентрове SMARTEX-HF 2017 (N=261) не показало переваги HIIT над MCT у пацієнтів із HFrEF, але причина — недотримання цільової інтенсивності (реально ~88% HRmax замість 90–95%). HIIT-Stroke 2020 підтверджує безпеку й короткострокову ефективність у пацієнтів після інсульту. Протипоказання: неконтрольована АГ, свіжий ACS, нестабільна стенокардія, аритмія, свіжий інсульт. Інтеграція в 80/20 модель: 120–150 хв Zone 2 + одна сесія 4×4 на тиждень. Практично: рахувати HRmax як 208−0.7×вік, обов'язково пульсометр, консультація кардіолога для 40+ із факторами ризику. Evidence: MODERATE (кілька РКД + мета-аналіз, але один великий null-результат нюансує картину)."
+  },
+  "syndrom-nespokiynykh-nih-zhinky-40-feritin-75-aasm-2024": {
+    "date": "2026-07-29",
+    "title": "Синдром неспокійних ніг у жінок 40+: чому феритин 75 важливіший за таблетки — гайдлайни AASM 2024",
+    "type": "guide",
+    "tags": [
+      "сон",
+      "синдром неспокійних ніг",
+      "залізо",
+      "феритин",
+      "менопауза",
+      "жіноче здоровя",
+      "неврологія",
+      "дослідження"
+    ],
+    "summary": "Guide on Restless Legs Syndrome (Willis-Ekbom disease) in women 40+. The 2024 AASM clinical practice guideline (JCSM, Winkelman et al.) shifted iron assessment and IV ferric carboxymaltose to strong recommendations, while demoting dopamine agonists (pramipexole, ropinirole, levodopa) to conditional-against due to augmentation risk. IRLSSG 2018 sets the ferritin target at ≤75 μg/L for oral iron and 15' as adequate for RLS; ask about iron before pharmacotherapy; review medication list (SSRIs, antihistamines, metoclopramide can worsen RLS). Evidence strength: strong (GRADE-based AASM CPG plus multiple RCTs). Cross-references existing article on iron deficiency without anemia and perimenopause coverage."
   }
 }
