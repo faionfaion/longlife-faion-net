@@ -4754,5 +4754,21 @@
       "метаболічне здоров'я"
     ],
     "summary": "Article explains lean MASLD (metabolic dysfunction-associated steatotic liver disease in people with BMI 2 on routine lipid panel + waist circumference >94cm men / >80cm women as low-cost pre-flags to discuss ALT and FIB-4 with a doctor. Evidence strength: strong for prevalence and guidelines, moderate for genetics and TG/HDL cutoff. Cross-links foundational MASLD article (2026-05-21) and waist vs BMI article (2026-07-26)."
+  },
+  "norvezkyi-protokol-4x4-hiit-wisloff-vo2max-8-tyzhniv": {
+    "date": "2026-07-29",
+    "title": "Норвезький протокол 4×4: чому 40 хвилин на тиждень підвищують VO2max на 10–15%",
+    "type": "fitness",
+    "tags": [
+      "фітнес",
+      "HIIT",
+      "VO2max",
+      "кардіо",
+      "витривалість",
+      "дослідження",
+      "серце",
+      "інтервальне тренування"
+    ],
+    "summary": "Норвезький протокол 4×4 (Wisløff, Trondheim) — 4 інтервали по 4 хв на 90–95% HRmax з 3 хв активного відновлення, 2–3 рази на тиждень. Оригінальне РКД 2007 у Circulation (N=27 пацієнтів із СН) показало +46% VO2peak за 12 тижнів проти +14% у групи безперервного кардіо. Мета-аналіз Weston 2014 у BJSM підтверджує ~9% додатковий приріст VO2peak порівняно з MICT; у здорових дорослих реалістичний виграш — 10–15% за 8 тижнів. Мультицентрове SMARTEX-HF 2017 (N=261) не показало переваги HIIT над MCT у пацієнтів із HFrEF, але причина — недотримання цільової інтенсивності (реально ~88% HRmax замість 90–95%). HIIT-Stroke 2020 підтверджує безпеку й короткострокову ефективність у пацієнтів після інсульту. Протипоказання: неконтрольована АГ, свіжий ACS, нестабільна стенокардія, аритмія, свіжий інсульт. Інтеграція в 80/20 модель: 120–150 хв Zone 2 + одна сесія 4×4 на тиждень. Практично: рахувати HRmax як 208−0.7×вік, обов'язково пульсометр, консультація кардіолога для 40+ із факторами ризику. Evidence: MODERATE (кілька РКД + мета-аналіз, але один великий null-результат нюансує картину)."
   }
 }
