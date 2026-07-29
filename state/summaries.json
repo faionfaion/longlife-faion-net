@@ -4736,5 +4736,23 @@
       "МОЗ"
     ],
     "summary": "Guide на тему HPV-вакцинації хлопців 12–13 років в Україні. Головна теза: з 1 січня 2026 Gardasil 9 у національному календарі щеплень України доступна безкоштовно лише дівчатам 12–13 (WHO Europe), тоді як ACIP (2019) рекомендує gender-neutral вакцинацію до 26 років. Докази ефективності у чоловіків: РКД Giuliano 2011 NEJM (90,4% проти генітальних уражень, n=4065) і Palefsky 2011 NEJM (74,9% проти анальної AIN 2/3, n=602). У чоловіків HPV викликає ~22 800 випадків раку на рік у США (CDC), передусім ротоглотки (>70% ОФК-раків HPV+, Chaturvedi 2011 JCO). Практичні цифри: приватно 2 дози у Києві коштують ~18 000–19 000 грн (не 6 000–9 000, як зазначено в брифі), 3 дози для 15+ — 27 000–28 000 грн. Актіонейбл: перевірити вік сина (9–14 — 2 дози), порівняти ціни клінік, консультація лікаря. Cross-link на статтю про рак 2050 від 23.07 і чек-лист скринінгів. Evidence: strong (РКД + рекомендації)."
+  },
+  "lean-masld-strunki-liudy-fib-4-pnpla3-fruktoza-skryninh": {
+    "date": "2026-07-29",
+    "title": "Худий ≠ здорова печінка: чому 1 з 5 людей із жировим гепатозом має ІМТ менше 25",
+    "type": "research",
+    "tags": [
+      "MASLD",
+      "NAFLD",
+      "печінка",
+      "жировий гепатоз",
+      "FIB-4",
+      "вісцеральний жир",
+      "фруктоза",
+      "генетика",
+      "скринінг",
+      "метаболічне здоров'я"
+    ],
+    "summary": "Article explains lean MASLD (metabolic dysfunction-associated steatotic liver disease in people with BMI 2 on routine lipid panel + waist circumference >94cm men / >80cm women as low-cost pre-flags to discuss ALT and FIB-4 with a doctor. Evidence strength: strong for prevalence and guidelines, moderate for genetics and TG/HDL cutoff. Cross-links foundational MASLD article (2026-05-21) and waist vs BMI article (2026-07-26)."
   }
 }
