@@ -31747,3 +31747,92 @@ ModuleNotFoundError: No module named 'opentelemetry'
 03:46:07 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
 03:46:07 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
 03:46:07 [pipeline.stages.s7_save] INFO: Article saved: /home/faion/longlife-faion-net/content/syndrom-nespokiynykh-nih-zhinky-40-feritin-75-aasm-2024.md
+03:46:07 [pipeline] INFO: Article ready: syndrom-nespokiynykh-nih-zhinky-40-feritin-75-aasm-2024 (Синдром неспокійних ніг у жінок 40+: чому феритин )
+03:46:07 [pipeline] INFO: === Article 6/9 ===
+03:46:07 [pipeline] INFO: --- Article: [research] Ранкова тривога і кортизоловий пік: чому CAR (cortisol awake ---
+03:46:07 [asyncio] DEBUG: Using selector: EpollSelector
+03:46:07 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:46:08 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:49:53 [pipeline.stages.s2_research] INFO: Research complete: 16380 chars
+03:49:53 [asyncio] DEBUG: Using selector: EpollSelector
+03:49:53 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:49:54 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:51:07 [pipeline.stages.s3_generate] INFO: Generated: 'Ранкова тривога і кортизоловий пік: чому CAR — це не вигорання' (slug=car-cortisol-awakening-response-ranok-tryvoha-vyhorannia, 527 words, 9 sources)
+03:51:07 [asyncio] DEBUG: Using selector: EpollSelector
+03:51:07 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:51:08 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:51:36 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+03:51:36 [pipeline.stages.s4_review] INFO: Feedback: Стаття наукового рівня: коректно розрізняє CAR як фізіологічний феномен від маркетингового наративу про «ранковий кортизол», акуратно передає парадокс вигорання (сплющений, а не підвищений CAR), спира
+03:51:36 [asyncio] DEBUG: Using selector: EpollSelector
+03:51:36 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:51:36 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:52:29 [pipeline.stages.s5_revise] INFO: Revised article: 597 words
+03:52:29 [pipeline] INFO: === Review cycle 1/3 complete ===
+03:52:29 [asyncio] DEBUG: Using selector: EpollSelector
+03:52:29 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:52:29 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:52:45 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+03:52:45 [pipeline.stages.s4_review] INFO: Feedback: Solid, evidence-based piece with accurate representation of CAR literature. Sources are legitimate and correctly cited (Fries 2009, Wüst 2000, Stalder ISPNE consensus, Chida & Steptoe meta-analysis, O
+03:52:45 [pipeline] INFO: Article approved after 1 revision(s)
+03:52:45 [asyncio] DEBUG: Using selector: EpollSelector
+03:52:45 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:52:45 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:53:05 [pipeline.stages.s_comic_scene] INFO: Comic scene: WIDE morning bedroom shot: Vita has just woken up and is sit | pose=MEDIUM-WIDE shot, waist-up plus environment visible. Vita sits on the edge of the bed, both arms lifted overhead in a symmetrical waking stretch, fingers loosely interlaced above her head, chin slightly tilted up, shoulders rolling back — both hands doing the exact same simple action | expression=Softly awake — eyes half-closed in a gentle stretch, mouth in a small serene smile, eyebrows relaxed, face lit warmly by dawn light, calm rather than anxious | props=rumpled white bedsheets with sage-green throw blanket, clear glass water bottle on wooden nightstand, small potted green plant catching the sunrise
+03:53:05 [asyncio] DEBUG: Using selector: EpollSelector
+03:53:05 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:53:05 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:53:15 [pipeline.stages.s6_generate_tg] INFO: TG caption: 747 chars
+03:53:15 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=car-cortisol-awakening-response-ranok-tryvoha-vyhorannia
+03:53:15 [asyncio] DEBUG: Using selector: EpollSelector
+03:53:15 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:53:16 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:53:30 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Reordered to subject-action-environment, added explicit positive anatomy counts, unified both hands 
+03:53:30 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+03:53:30 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:53:31 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+03:53:31 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+03:53:31 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 1 failed to produce image
+03:53:31 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 2/3 (quality=high)
+03:53:31 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:53:31 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+03:53:31 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+03:53:31 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 2 failed to produce image
+03:53:31 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 3/3 (quality=high)
+03:53:31 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:53:32 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+03:53:32 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+03:53:32 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
+03:53:32 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
+03:53:32 [pipeline.stages.s7_save] INFO: Article saved: /home/faion/longlife-faion-net/content/car-cortisol-awakening-response-ranok-tryvoha-vyhorannia.md

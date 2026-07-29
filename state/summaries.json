@@ -4786,5 +4786,21 @@
       "дослідження"
     ],
     "summary": "Guide on Restless Legs Syndrome (Willis-Ekbom disease) in women 40+. The 2024 AASM clinical practice guideline (JCSM, Winkelman et al.) shifted iron assessment and IV ferric carboxymaltose to strong recommendations, while demoting dopamine agonists (pramipexole, ropinirole, levodopa) to conditional-against due to augmentation risk. IRLSSG 2018 sets the ferritin target at ≤75 μg/L for oral iron and 15' as adequate for RLS; ask about iron before pharmacotherapy; review medication list (SSRIs, antihistamines, metoclopramide can worsen RLS). Evidence strength: strong (GRADE-based AASM CPG plus multiple RCTs). Cross-references existing article on iron deficiency without anemia and perimenopause coverage."
+  },
+  "car-cortisol-awakening-response-ranok-tryvoha-vyhorannia": {
+    "date": "2026-07-29",
+    "title": "Ранкова тривога і кортизоловий пік: чому CAR — це не вигорання",
+    "type": "research",
+    "tags": [
+      "кортизол",
+      "вигорання",
+      "тривога",
+      "стрес",
+      "дослідження",
+      "психічне здоровя",
+      "HPA-вісь",
+      "ПТСР"
+    ],
+    "summary": "Стаття пояснює концепцію CAR (cortisol awakening response) — нормального 50–156% підйому кортизолу протягом 30–45 хвилин після пробудження, що спостерігається у ~77% здорових дорослих (Wüst 2000, Fries 2009, Stalder 2025). Ключовий контр-інтуїтивний висновок: при вигоранні CAR не підвищений, а сплющений (мета-аналіз Chida & Steptoe 2009 на 147 дослідженнях; Oosterholt 2015). При ПТСР ранковий слиновий кортизол також знижений (Pan 2018 meta, SMD −0,39). Стаття критикує домашні слинові тести, посилаючись на консенсус ISPNE 2016/2022 (потрібні ≥3 проби, ≥2 дні, об'єктивний контроль пробудження) і позицію Endocrine Society. Крос-лінк на матеріал про HRV-біофідбек. Практичний висновок: не міряти слиновий кортизол без клінічної причини; при підозрі на вигорання — до психотерапевта. Сила доказової бази: сильна для нормативних даних і методології, помірно-сильна для зв'язку з вигоранням/ПТСР."
   }
 }
