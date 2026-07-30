@@ -4820,5 +4820,23 @@
       "харчові добавки"
     ],
     "summary": "The DO-HEALTH sub-study (Nature Aging, Feb 2025, n=777, age 70+) is the first RCT to show that 1 g/day of omega-3 (algae-derived, 330 mg EPA + 660 mg DHA) modestly slows epigenetic aging clocks (PhenoAge, GrimAge2, DunedinPACE) by ~3 months over 3 years (Cohen's d 0.16–0.32 — small effect). Combined with vitamin D 2000 IU and 3×/week home strength training, PhenoAge slowed by ~4 months. Vitamin D alone and exercise alone did not significantly shift any clock. Key caveats: no mortality data, only 2 timepoints, Swiss cohort was healthier than average 70+, parent DO-HEALTH trial's 6 primary clinical endpoints (JAMA 2020) were null, and Cochrane 2020 + VITAL show 1 g/day omega-3 does not reduce CV mortality broadly. Practical takeaway: modest additive tool for 70+ with low baseline omega-3; for younger healthy adults — fish 2×/week and strength training remain the priority. Evidence level: preliminary. Cross-references existing articles on omega-3 meta-analyses, VITAL/REDUCE-IT, plant-based omega-3 sources, VO2max, and grip strength."
+  },
+  "ozhyrinnia-dity-6-11-glp1-scale-kids-aap-ukraina-2026": {
+    "date": "2026-07-30",
+    "title": "Ліки від ожиріння дітям 6–11 років: що показало SCALE Kids і чому в Україні це поки off-label",
+    "type": "guide",
+    "tags": [
+      "ожиріння",
+      "діти",
+      "GLP-1",
+      "ліраглутид",
+      "семаглутид",
+      "ендокринологія",
+      "AAP",
+      "МОЗ",
+      "педіатрія",
+      "дослідження"
+    ],
+    "summary": "Guide на основі RCT SCALE Kids (Fox et al., NEJM 2024, n=82): ліраглутид 3 мг у дітей 6–11 років дав −7,4 в.п. різниці BMI vs плацебо за 56 тижнів; ≥5% зниження BMI у 46% vs 9%. Побічні GI-ефекти — 80%, припинення терапії — 11%. Стаття виправляє поширену тезу про «AAP-2026» — актуальна настанова AAP (Hampl 2023) все ще рекомендує фармакотерапію з 12+; заявка Novo Nordisk на розширення до 6 років ще розглядається FDA. Контекст: SCALE Teens (Kelly 2020) і STEP TEENS (Weghuber 2022) для 12+, відкриті питання росту/пубертату/кісток. Український контекст: наказ МОЗ №1732 від 24.09.2022 — GLP-1 для дітей лише off-label через дитячого ендокринолога у центрі спеціалізованої допомоги. Практичний висновок: поведінковий фундамент (сон, харчування, рух) — база; медикаменти — вузьке рішення для тяжких випадків. Evidence: moderate."
   }
 }
