@@ -32846,3 +32846,122 @@ ModuleNotFoundError: No module named 'opentelemetry'
 03:52:01 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
 03:52:01 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
 03:52:01 [pipeline.stages.s7_save] INFO: Article saved: /home/faion/longlife-faion-net/content/apnoe-snu-zhinky-50-plus-stop-bang-watchpat-skryninh.md
+03:52:01 [pipeline] INFO: Article ready: apnoe-snu-zhinky-50-plus-stop-bang-watchpat-skryninh (Апное сну у жінок після 50: чому STOP-BANG промаху)
+03:52:01 [pipeline] INFO: === Article 6/10 ===
+03:52:01 [pipeline] INFO: --- Article: [research] Прогулянка з коліжанкою vs терапевт: RCT 2026 порівняв walki ---
+03:52:01 [asyncio] DEBUG: Using selector: EpollSelector
+03:52:01 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:52:01 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:55:29 [pipeline.stages.s2_research] INFO: Research complete: 11153 chars
+03:55:29 [asyncio] DEBUG: Using selector: EpollSelector
+03:55:29 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:55:29 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:56:44 [pipeline] ERROR: Failed to generate article: Прогулянка з коліжанкою vs терапевт: RCT 2026 порівняв walki
+Traceback (most recent call last):
+  File "/home/faion/longlife-faion-net/pipeline/modes/generate.py", line 139, in _generate_one_article
+    s3_generate.run(ctx)
+  File "/home/faion/longlife-faion-net/pipeline/stages/s3_generate.py", line 28, in run
+    result = structured_query(
+             ^^^^^^^^^^^^^^^^^
+  File "/home/faion/longlife-faion-net/pipeline/sdk.py", line 131, in structured_query
+    return safe_parse_json(text, context="structured_query")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/faion/longlife-faion-net/pipeline/json_repair.py", line 79, in safe_parse_json
+    raise ValueError(f"{label}All JSON repair attempts failed ({len(raw)} chars)")
+ValueError: [structured_query] All JSON repair attempts failed (6610 chars)
+03:56:44 [pipeline] INFO: === Article 7/10 ===
+03:56:44 [pipeline] INFO: --- Article: [guide] Ферментери вдома: чому домашня комбуча може мати pH 2,5 і 3% ---
+03:56:44 [asyncio] DEBUG: Using selector: EpollSelector
+03:56:44 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:56:45 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:59:52 [pipeline.stages.s2_research] INFO: Research complete: 15651 chars
+03:59:52 [asyncio] DEBUG: Using selector: EpollSelector
+03:59:52 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:59:52 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:02:10 [pipeline.stages.s3_generate] INFO: Generated: 'Домашня комбуча, квашена капуста і водний кефір: гід із безпеки — коли pH-паска рятує від ботулізму' (slug=domashnia-fermentatsiia-kombucha-ph-alkohol-botulizm-guide-2026, 1202 words, 9 sources)
+04:02:10 [asyncio] DEBUG: Using selector: EpollSelector
+04:02:10 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:02:10 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:02:26 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+04:02:26 [pipeline.stages.s4_review] INFO: Feedback: Strong, evidence-based safety guide with well-cited sources (BCCDC, CDC MMWR, USDA NCHFP, TTB, peer-reviewed journals). Practical thresholds (pH 4.6, 2% salt, temperature ranges) are accurate and cons
+04:02:26 [asyncio] DEBUG: Using selector: EpollSelector
+04:02:26 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:02:26 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:04:25 [pipeline.stages.s5_revise] INFO: Revised article: 1356 words
+04:04:25 [pipeline] INFO: === Review cycle 1/3 complete ===
+04:04:25 [asyncio] DEBUG: Using selector: EpollSelector
+04:04:25 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:04:25 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:04:44 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+04:04:44 [pipeline.stages.s4_review] INFO: Feedback: Strong, evidence-based safety guide with well-cited sources (CDC, FDA, USDA/NCHFP, BCCDC, TTB, peer-reviewed journals). Medical/scientific terms are explained on first use (SCOBY, ботулотоксин, ABV, г
+04:04:44 [pipeline] INFO: Article approved after 1 revision(s)
+04:04:44 [asyncio] DEBUG: Using selector: EpollSelector
+04:04:44 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:04:44 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:05:03 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in a warm home kitchen surrounded by three tall  | pose=MEDIUM shot, waist-up, Vita turned three-quarters toward the jars, right arm extended forward dipping a thin paper strip into the jar, left hand resting flat on the counter — one clear active hand, environment fully visible around her | expression=focused teaching expression, one eyebrow slightly raised, calm confident half-smile, green eyes fixed on the test strip | props=large glass jar of kombucha with visible pale SCOBY disc floating on top, glass jar packed with shredded sauerkraut and cabbage leaves, glass bottle of water kefir with translucent grains at the bottom, small paper pH test strip pinched between fingers, small ceramic bowl of coarse salt with a fresh green cabbage head beside it
+04:05:03 [asyncio] DEBUG: Using selector: EpollSelector
+04:05:03 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:05:03 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:05:16 [pipeline.stages.s6_generate_tg] INFO: TG caption: 726 chars
+04:05:16 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=domashnia-fermentatsiia-kombucha-ph-alkohol-botulizm-guide-2026
+04:05:16 [asyncio] DEBUG: Using selector: EpollSelector
+04:05:16 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:05:16 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:05:31 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Merged the split-hand pose (one dipping, one resting) into both hands cooperating on the pH strip to
+04:05:31 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+04:05:31 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:05:32 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+04:05:32 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+04:05:32 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 1 failed to produce image
+04:05:32 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 2/3 (quality=high)
+04:05:32 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:05:32 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+04:05:32 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+04:05:32 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 2 failed to produce image
+04:05:32 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 3/3 (quality=high)
+04:05:32 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:05:33 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+04:05:33 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+04:05:33 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
+04:05:33 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
+04:05:33 [pipeline.stages.s7_save] INFO: Article saved: /home/faion/longlife-faion-net/content/domashnia-fermentatsiia-kombucha-ph-alkohol-botulizm-guide-2026.md
