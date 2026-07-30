@@ -4869,5 +4869,22 @@
       "рослинний раціон"
     ],
     "summary": "Стаття про дефіцит вітаміну B12 у веганів на основі мета-аналізу Niklewicz 2024 (Nutrition Bulletin, 17 досліджень). Ключове: у веганів без систематичної супплементації розвивається функціональний дефіцит (низький HoloTC, підвищені MMA і гомоцистеїн), який стандартний аналіз сироваткового B12 може пропустити. Чеське дослідження Selinger 2019 показало 52,9% дефіциту серед несупплементованих проти 5,56% серед регулярних користувачів. Ціанокобаламін демонструє кращі HoloTC-показники за метилкобаламін у малому обсерваційному дослідженні Zugravu 2021 (рамкувати обережно). За Del Bo' 2024 обидва режими — 50 мкг/день і 2000 мкг/тиждень — однаково ефективні. EFSA рекомендує композитний тест: B12 + HoloTC + MMA. Практичний висновок: перевірити функціональні маркери, приймати ціанокобаламін за одним із двох перевірених режимів, не покладатися на спіруліну/комбучу. Сила доказової бази — сильна для основних тверджень, помірна для порівняння форм. Стаття доповнює попередній загальний гайд про B12."
+  },
+  "apnoe-snu-zhinky-50-plus-stop-bang-watchpat-skryninh": {
+    "date": "2026-07-30",
+    "title": "Апное сну у жінок після 50: чому STOP-BANG промахує і що робити з WatchPAT-скринінгом",
+    "type": "guide",
+    "tags": [
+      "сон",
+      "апное",
+      "менопауза",
+      "жіноче здоров'я",
+      "діагностика",
+      "STOP-BANG",
+      "WatchPAT",
+      "CPAP",
+      "дослідження"
+    ],
+    "summary": "Guide about obstructive sleep apnea in post-menopausal women 50+. Key evidence: STOP-BANG sensitivity drops to 77% in women (Pataka 2020, Maturitas); up to 75% of women with OSA remain undiagnosed (Lastra 2018). Atypical symptoms — insomnia, morning headaches, treatment-resistant depression, nocturia — replace classic snoring. Post-menopause biology: loss of progesterone (airway tone) and estrogen (fat redistribution). WatchPAT home sleep test correlates strongly with polysomnography (r=0.889, Yalamanchali 2013 JAMA Oto meta-analysis) and is endorsed by AASM 2018 position statement, except for cardiopulmonary disease, opioid use, stroke, severe insomnia, AFib. Women 50+ show equal-or-better long-term CPAP adherence (Patel 2024). Practical takeaways: symptom self-check, don't rely on STOP-BANG threshold, request HSAT, partner observation. Evidence strength: moderate. Cross-references prior STOP-BANG and bruxism articles."
   }
 }
