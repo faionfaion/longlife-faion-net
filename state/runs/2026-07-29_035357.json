@@ -1,0 +1,266 @@
+{
+  "timestamp": "2026-07-29_035357",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "aspartam-rak-iarc-jecfa-coca-cola-zero-2023-2026, hpv-vaktsyna-khloptsi-gardasil-9-moz-2026-ukraina-guide, lean-masld-strunki-liudy-fib-4-pnpla3-fruktoza-skryninh, norvezkyi-protokol-4x4-hiit-wisloff-vo2max-8-tyzhniv, syndrom-nespokiynykh-nih-zhinky-40-feritin-75-aasm-2024",
+  "author": "LongLife Media",
+  "duration_s": 3053.2,
+  "image_generated": false,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 174.8,
+      "error": null
+    },
+    {
+      "name": "research:Аспартам і рак: що показала он",
+      "status": "ok",
+      "duration_s": 150.4,
+      "error": null
+    },
+    {
+      "name": "generate:Аспартам і рак: що показала он",
+      "status": "ok",
+      "duration_s": 85.2,
+      "error": null
+    },
+    {
+      "name": "review:Аспартам і рак: що показала он",
+      "status": "ok",
+      "duration_s": 107.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Аспартам і рак: що показала он",
+      "status": "ok",
+      "duration_s": 21.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Аспартам і рак: що показала он",
+      "status": "ok",
+      "duration_s": 10.7,
+      "error": null
+    },
+    {
+      "name": "save:Аспартам і рак: що показала он",
+      "status": "ok",
+      "duration_s": 19.1,
+      "error": null
+    },
+    {
+      "name": "research:HPV-вакцина хлопцям 12-13 в Ук",
+      "status": "ok",
+      "duration_s": 234.8,
+      "error": null
+    },
+    {
+      "name": "generate:HPV-вакцина хлопцям 12-13 в Ук",
+      "status": "ok",
+      "duration_s": 125.0,
+      "error": null
+    },
+    {
+      "name": "review:HPV-вакцина хлопцям 12-13 в Ук",
+      "status": "ok",
+      "duration_s": 155.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:HPV-вакцина хлопцям 12-13 в Ук",
+      "status": "ok",
+      "duration_s": 19.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:HPV-вакцина хлопцям 12-13 в Ук",
+      "status": "ok",
+      "duration_s": 9.9,
+      "error": null
+    },
+    {
+      "name": "save:HPV-вакцина хлопцям 12-13 в Ук",
+      "status": "ok",
+      "duration_s": 18.6,
+      "error": null
+    },
+    {
+      "name": "research:NAFLD/MASLD у струнких людей: ",
+      "status": "ok",
+      "duration_s": 232.7,
+      "error": null
+    },
+    {
+      "name": "generate:NAFLD/MASLD у струнких людей: ",
+      "status": "ok",
+      "duration_s": 80.9,
+      "error": null
+    },
+    {
+      "name": "review:NAFLD/MASLD у струнких людей: ",
+      "status": "ok",
+      "duration_s": 101.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:NAFLD/MASLD у струнких людей: ",
+      "status": "ok",
+      "duration_s": 19.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:NAFLD/MASLD у струнких людей: ",
+      "status": "ok",
+      "duration_s": 8.9,
+      "error": null
+    },
+    {
+      "name": "save:NAFLD/MASLD у струнких людей: ",
+      "status": "ok",
+      "duration_s": 16.3,
+      "error": null
+    },
+    {
+      "name": "research:Micro-workouts 4×4 хв: чому но",
+      "status": "ok",
+      "duration_s": 181.8,
+      "error": null
+    },
+    {
+      "name": "generate:Micro-workouts 4×4 хв: чому но",
+      "status": "ok",
+      "duration_s": 72.6,
+      "error": null
+    },
+    {
+      "name": "review:Micro-workouts 4×4 хв: чому но",
+      "status": "ok",
+      "duration_s": 132.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Micro-workouts 4×4 хв: чому но",
+      "status": "ok",
+      "duration_s": 21.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Micro-workouts 4×4 хв: чому но",
+      "status": "ok",
+      "duration_s": 9.5,
+      "error": null
+    },
+    {
+      "name": "save:Micro-workouts 4×4 хв: чому но",
+      "status": "ok",
+      "duration_s": 17.9,
+      "error": null
+    },
+    {
+      "name": "research:Синдром неспокійних ніг у жіно",
+      "status": "ok",
+      "duration_s": 195.6,
+      "error": null
+    },
+    {
+      "name": "generate:Синдром неспокійних ніг у жіно",
+      "status": "ok",
+      "duration_s": 134.4,
+      "error": null
+    },
+    {
+      "name": "review:Синдром неспокійних ніг у жіно",
+      "status": "ok",
+      "duration_s": 175.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Синдром неспокійних ніг у жіно",
+      "status": "ok",
+      "duration_s": 21.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Синдром неспокійних ніг у жіно",
+      "status": "ok",
+      "duration_s": 9.0,
+      "error": null
+    },
+    {
+      "name": "save:Синдром неспокійних ніг у жіно",
+      "status": "ok",
+      "duration_s": 18.3,
+      "error": null
+    },
+    {
+      "name": "research:Ранкова тривога і кортизоловий",
+      "status": "ok",
+      "duration_s": 226.0,
+      "error": null
+    },
+    {
+      "name": "generate:Ранкова тривога і кортизоловий",
+      "status": "ok",
+      "duration_s": 74.0,
+      "error": null
+    },
+    {
+      "name": "review:Ранкова тривога і кортизоловий",
+      "status": "ok",
+      "duration_s": 97.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ранкова тривога і кортизоловий",
+      "status": "ok",
+      "duration_s": 19.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ранкова тривога і кортизоловий",
+      "status": "ok",
+      "duration_s": 10.4,
+      "error": null
+    },
+    {
+      "name": "save:Ранкова тривога і кортизоловий",
+      "status": "ok",
+      "duration_s": 16.7,
+      "error": null
+    },
+    {
+      "name": "research:Соціальний jet lag: як «відсип",
+      "status": "failed",
+      "duration_s": 18.5,
+      "error": "Claude Code returned an error result: success"
+    },
+    {
+      "name": "research:Крижана ванна після силового т",
+      "status": "failed",
+      "duration_s": 2.6,
+      "error": "Claude Code returned an error result: success"
+    },
+    {
+      "name": "research:Довголіття собак і людини: що ",
+      "status": "failed",
+      "duration_s": 2.9,
+      "error": "Claude Code returned an error result: success"
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.2,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

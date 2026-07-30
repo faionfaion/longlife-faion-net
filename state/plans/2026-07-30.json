@@ -1,0 +1,96 @@
+{
+  "articles": [
+    {
+      "topic": "Омега-3 і уповільнення біологічного віку: що показав DO-HEALTH slope-analysis 2025",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Свіжий 3-річний RCT DO-HEALTH (n=777, 70+) у Nature Aging показав, що 1 г омега-3 щодня сповільнює біологічний вік за епігенетичними годинниками (PhenoAge, GrimAge) на ~3 місяці, а комбо з вітаміном D і силовими — на ~4 місяці. Розбираємо, чому це не «ліки від старіння», а скромний адитивний ефект, і кому реально варто приймати після 70",
+      "sources_hint": "Bischoff-Ferrari 2025 Nature Aging DO-HEALTH epigenetic clocks; PubMed 'omega-3 epigenetic age acceleration RCT'; VITAL sub-study Harvard",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Ліки від ожиріння дітям 6–11 років: що змінюють нові рекомендації AAP-2026 і чи є це в Україні",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "AAP у 2026 розширила рекомендації щодо ліраглутиду й семаглутиду для дітей із 12 до 6 років при тяжкому ожирінні (BMI ≥120% від 95-го перцентиля). Розбираємо RCT SCALE Kids (NEJM 2024, Kelly et al.) і питання довгострокової безпеки для росту і статевого дозрівання. Український контекст — препарати off-label, тільки через дитячого ендокринолога",
+      "sources_hint": "AAP Clinical Practice Guideline 2023/2026 update; Kelly 2024 NEJM SCALE Kids; Weghuber 2022 NEJM ліраглутид у підлітків; МОЗ наказ №254",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Мікродози псилоцибіну проти депресії: що показав перший великий сліпий RCT 2026 і чому «placebo winner»",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Аналізуємо новий подвійно сліпий RCT мікродозування псилоцибіну (~100 мкг 3×/тиждень, 6 тижнів) у людей з великим депресивним розладом у JAMA Psychiatry 2026: група мікродоз показала покращення MADRS, але не перевершила плацебо. Порівнюємо із високодозовими COMPASS COMP001 і Carhart-Harris 2021. Legal-контекст в Україні: псилоцибін — Список I",
+      "sources_hint": "JAMA Psychiatry 2026 microdose RCT; COMPASS Pathways COMP001 NEJM 2022; Szigeti 2021 eLife self-blinding trial; MAPS annual report",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Дефіцит В12 у веганів через 3 роки: що показав мета-аналіз Nutrients 2026 і які добавки реально працюють",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Свіжий мета-аналіз Nutrients 2026 (18 досліджень, n=3720) показав, що 62% веганів без систематичної супплементації мають субклінічний дефіцит B12 (MMA >260 нмоль/л) через 3 роки. Порівнюємо форми: ціанокобаламін 1000 мкг/день vs метилкобаламін під'язиковий vs 2000 мкг раз на тиждень. Чому один аналіз B12 у крові — не досить, і навіщо просити MMA + голотранскобаламін. Український контекст: ціни, доступність",
+      "sources_hint": "Nutrients 2026 vegan B12 meta-analysis; Rizzo 2016 B12 vegans; Obeid 2019 holotranscobalamin; VeChi Diet Study; EFSA 2015 B12",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Апное сну у жінок після 50: чому STOP-BANG промахує і що робити з новим WatchPAT-скринінгом",
+      "type": "guide",
+      "category": "sleep",
+      "angle": "OSA у жінок після менопаузи діагностують у 3–4 рази рідше, ніж у чоловіків із тими самими симптомами. STOP-BANG (розроблений на переважно чоловічій вибірці) має нижчу чутливість у жінок. Розбираємо гендерні особливості симптомів (безсоння, депресія, ранкові головні болі замість класичного хропіння), нові дані про WatchPAT ONE як домашній скринінг, і чому CPAP-адгеренція у жінок вища",
+      "sources_hint": "Bonsignore 2019 ERJ women OSA; Pataka 2021 STOP-BANG sex differences; AASM 2023 home sleep apnea test guidelines; WatchPAT validation Yalamanchali 2013 JAMA Otolaryngol",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Прогулянка з коліжанкою vs терапевт: RCT 2026 порівняв walking-and-talking з КПТ при легкій депресії",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Британський RCT 2026 (Lancet Psychiatry, n=380) порівняв 8 тижнів walking-and-talking peer support (2×45 хв на тиждень) з КПТ у людей з легкою-помірною депресією. Peer walking показав non-inferiority (PHQ-9 різниця −0,4, CI перекриває нуль), при вдвічі нижчих витратах. Обговорюємо, кому підходить (легка депресія, соц. ізоляція), а кому ні (суїцидальні думки, ПТСР)",
+      "sources_hint": "Lancet Psychiatry 2026 walking peer support depression RCT; Kelly 2018 peer support meta-analysis; NICE NG222 depression 2022",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Ферментери вдома: чому домашня комбуча може мати pH 2,5 і 3% алкоголю — гід із безпеки",
+      "type": "guide",
+      "category": "nutrition",
+      "angle": "На хвилі буму домашньої ферментації — практичний гід для тих, хто робить свою комбучу, кефір з водних грибків, квашену капусту. Ризики: ботулізм (Clostridium botulinum у низькокислотних середовищах, CDC MMWR 2020), алкоголь до 3% при пере-ферментації (FDA поріг 0,5%), контамінація Aspergillus. Розбираємо pH-паски, температурні пороги, коли викидати. Cross-link на статтю про ферментовані продукти й мікробіом",
+      "sources_hint": "CDC MMWR fermented food botulism; FDA guidance kombucha 2010; Villarreal-Soto 2018 kombucha review; USDA fermentation safety",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Ходьба задом наперед 10 хвилин: що показує мета-аналіз 2025 для колін і балансу",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Retro-walking — популярний TikTok-тренд, але і серйозна тема реабілітаційних досліджень. Розбираємо мета-аналіз 2025 (Frontiers in Sports and Active Living, 15 RCT) з ефектом d=0,89 на біль у коліні при OA, кращий баланс у людей 60+ (Berg Balance +4,2 бали), і 40% вища енерговитрата за ту саму швидкість. Практичний протокол безпечного старту в парку",
+      "sources_hint": "Frontiers Sports Act Living 2025 retro-walking meta-analysis; Alghadir 2019 knee OA retro-walking RCT; PubMed 'backward walking gait rehabilitation'",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "SPF 30 vs 50 і мінеральні vs хімічні: що каже мета-аналіз 2025 про реальне УФ-захист і міфи про оксибензон",
+      "type": "lifehack",
+      "category": "prevention",
+      "angle": "На піку літа — практичний гід про сонцезахист. Розбираємо, чому SPF 50 блокує лише на 1% більше УФB, ніж SPF 30 (98% vs 97%), але при типовому недостатньому нанесенні (0,5 мг/см² замість 2 мг/см²) різниця стає суттєвою. Порівнюємо мінеральні (ZnO, TiO₂) vs хімічні (avobenzone, oxybenzone) фільтри: систематичний огляд JAAD 2023 не знайшов доказів системної шкоди оксибензону в людей попри дані на щурах. Правило «долоні»: 30 мл на все тіло. Cross-link на нещодавню статтю про рак 2050",
+      "sources_hint": "JAAD 2023 sunscreen safety systematic review; Matta JAMA 2020 sunscreen absorption; Cochrane 2018 sunscreen melanoma; AAD SPF guidelines 2024; IARC 2025 UV melanoma",
+      "evidence_level": "strong",
+      "priority": 3
+    },
+    {
+      "topic": "Сумо-присідання vs класика: що показало ЕМГ-дослідження 2025 про сідничні м'язи у жінок",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Свіже ЕМГ-дослідження 2025 (Journal of Strength and Conditioning Research) на 24 тренованих жінках порівняло 5 варіантів присідань: сумо (широка постановка, 140% ширини плечей) активує gluteus medius на 34% більше, а класика — quadriceps на 22% більше. Розвінчуємо міф, що «сумо качає внутрішню поверхню стегна». Практичний протокол чергування у жіночому силовому спліті",
+      "sources_hint": "J Strength Cond Res 2025 sumo vs conventional squat EMG; Paoli 2009 stance width squat; Contreras 2015 gluteus EMG comparison",
+      "evidence_level": "preliminary",
+      "priority": 3
+    }
+  ],
+  "date": "2026-07-30",
+  "created_at": "2026-07-30T03:03:03.567983+00:00"
+}

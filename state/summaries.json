@@ -4802,5 +4802,23 @@
       "ПТСР"
     ],
     "summary": "Стаття пояснює концепцію CAR (cortisol awakening response) — нормального 50–156% підйому кортизолу протягом 30–45 хвилин після пробудження, що спостерігається у ~77% здорових дорослих (Wüst 2000, Fries 2009, Stalder 2025). Ключовий контр-інтуїтивний висновок: при вигоранні CAR не підвищений, а сплющений (мета-аналіз Chida & Steptoe 2009 на 147 дослідженнях; Oosterholt 2015). При ПТСР ранковий слиновий кортизол також знижений (Pan 2018 meta, SMD −0,39). Стаття критикує домашні слинові тести, посилаючись на консенсус ISPNE 2016/2022 (потрібні ≥3 проби, ≥2 дні, об'єктивний контроль пробудження) і позицію Endocrine Society. Крос-лінк на матеріал про HRV-біофідбек. Практичний висновок: не міряти слиновий кортизол без клінічної причини; при підозрі на вигорання — до психотерапевта. Сила доказової бази: сильна для нормативних даних і методології, помірно-сильна для зв'язку з вигоранням/ПТСР."
+  },
+  "omega-3-biolohichnyi-vik-do-health-2025-epigenetychni-hodynnyky": {
+    "date": "2026-07-30",
+    "title": "Омега-3 і біологічний вік: що показав DO-HEALTH 2025 і кому після 70 варто задуматися",
+    "type": "research",
+    "tags": [
+      "омега-3",
+      "довголіття",
+      "епігенетика",
+      "дослідження",
+      "старіння",
+      "вітамін D",
+      "силові тренування",
+      "DO-HEALTH",
+      "біологічний вік",
+      "харчові добавки"
+    ],
+    "summary": "The DO-HEALTH sub-study (Nature Aging, Feb 2025, n=777, age 70+) is the first RCT to show that 1 g/day of omega-3 (algae-derived, 330 mg EPA + 660 mg DHA) modestly slows epigenetic aging clocks (PhenoAge, GrimAge2, DunedinPACE) by ~3 months over 3 years (Cohen's d 0.16–0.32 — small effect). Combined with vitamin D 2000 IU and 3×/week home strength training, PhenoAge slowed by ~4 months. Vitamin D alone and exercise alone did not significantly shift any clock. Key caveats: no mortality data, only 2 timepoints, Swiss cohort was healthier than average 70+, parent DO-HEALTH trial's 6 primary clinical endpoints (JAMA 2020) were null, and Cochrane 2020 + VITAL show 1 g/day omega-3 does not reduce CV mortality broadly. Practical takeaway: modest additive tool for 70+ with low baseline omega-3; for younger healthy adults — fish 2×/week and strength training remain the priority. Evidence level: preliminary. Cross-references existing articles on omega-3 meta-analyses, VITAL/REDUCE-IT, plant-based omega-3 sources, VO2max, and grip strength."
   }
 }
