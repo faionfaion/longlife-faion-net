@@ -1,0 +1,368 @@
+{
+  "timestamp": "2026-07-30_042708",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "omega-3-biolohichnyi-vik-do-health-2025-epigenetychni-hodynnyky, ozhyrinnia-dity-6-11-glp1-scale-kids-aap-ukraina-2026, mikrodozy-psylotsybinu-depresiya-rct-2026-placebo-winner, b12-vegany-meta-analiz-2024-tsianokobalamin-metilkobalamin-doses, apnoe-snu-zhinky-50-plus-stop-bang-watchpat-skryninh",
+  "author": "LongLife Media",
+  "duration_s": 5044.5,
+  "image_generated": false,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 199.6,
+      "error": null
+    },
+    {
+      "name": "research:Омега-3 і уповільнення біологі",
+      "status": "ok",
+      "duration_s": 172.0,
+      "error": null
+    },
+    {
+      "name": "generate:Омега-3 і уповільнення біологі",
+      "status": "ok",
+      "duration_s": 79.4,
+      "error": null
+    },
+    {
+      "name": "review:Омега-3 і уповільнення біологі",
+      "status": "ok",
+      "duration_s": 101.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Омега-3 і уповільнення біологі",
+      "status": "ok",
+      "duration_s": 20.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Омега-3 і уповільнення біологі",
+      "status": "ok",
+      "duration_s": 10.4,
+      "error": null
+    },
+    {
+      "name": "save:Омега-3 і уповільнення біологі",
+      "status": "ok",
+      "duration_s": 20.0,
+      "error": null
+    },
+    {
+      "name": "research:Ліки від ожиріння дітям 6–11 р",
+      "status": "ok",
+      "duration_s": 593.8,
+      "error": null
+    },
+    {
+      "name": "generate:Ліки від ожиріння дітям 6–11 р",
+      "status": "ok",
+      "duration_s": 133.9,
+      "error": null
+    },
+    {
+      "name": "review:Ліки від ожиріння дітям 6–11 р",
+      "status": "ok",
+      "duration_s": 176.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ліки від ожиріння дітям 6–11 р",
+      "status": "ok",
+      "duration_s": 17.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ліки від ожиріння дітям 6–11 р",
+      "status": "ok",
+      "duration_s": 9.0,
+      "error": null
+    },
+    {
+      "name": "save:Ліки від ожиріння дітям 6–11 р",
+      "status": "ok",
+      "duration_s": 16.1,
+      "error": null
+    },
+    {
+      "name": "research:Мікродози псилоцибіну проти де",
+      "status": "ok",
+      "duration_s": 204.4,
+      "error": null
+    },
+    {
+      "name": "generate:Мікродози псилоцибіну проти де",
+      "status": "ok",
+      "duration_s": 83.9,
+      "error": null
+    },
+    {
+      "name": "review:Мікродози псилоцибіну проти де",
+      "status": "ok",
+      "duration_s": 123.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Мікродози псилоцибіну проти де",
+      "status": "ok",
+      "duration_s": 23.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Мікродози псилоцибіну проти де",
+      "status": "ok",
+      "duration_s": 13.0,
+      "error": null
+    },
+    {
+      "name": "save:Мікродози псилоцибіну проти де",
+      "status": "ok",
+      "duration_s": 17.7,
+      "error": null
+    },
+    {
+      "name": "research:Дефіцит В12 у веганів через 3 ",
+      "status": "ok",
+      "duration_s": 181.9,
+      "error": null
+    },
+    {
+      "name": "generate:Дефіцит В12 у веганів через 3 ",
+      "status": "ok",
+      "duration_s": 78.4,
+      "error": null
+    },
+    {
+      "name": "review:Дефіцит В12 у веганів через 3 ",
+      "status": "ok",
+      "duration_s": 106.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Дефіцит В12 у веганів через 3 ",
+      "status": "ok",
+      "duration_s": 17.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Дефіцит В12 у веганів через 3 ",
+      "status": "ok",
+      "duration_s": 15.6,
+      "error": null
+    },
+    {
+      "name": "save:Дефіцит В12 у веганів через 3 ",
+      "status": "ok",
+      "duration_s": 16.1,
+      "error": null
+    },
+    {
+      "name": "research:Апное сну у жінок після 50: чо",
+      "status": "ok",
+      "duration_s": 185.5,
+      "error": null
+    },
+    {
+      "name": "generate:Апное сну у жінок після 50: чо",
+      "status": "ok",
+      "duration_s": 116.0,
+      "error": null
+    },
+    {
+      "name": "review:Апное сну у жінок після 50: чо",
+      "status": "ok",
+      "duration_s": 156.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Апное сну у жінок після 50: чо",
+      "status": "ok",
+      "duration_s": 21.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Апное сну у жінок після 50: чо",
+      "status": "ok",
+      "duration_s": 9.1,
+      "error": null
+    },
+    {
+      "name": "save:Апное сну у жінок після 50: чо",
+      "status": "ok",
+      "duration_s": 16.6,
+      "error": null
+    },
+    {
+      "name": "research:Прогулянка з коліжанкою vs тер",
+      "status": "ok",
+      "duration_s": 207.7,
+      "error": null
+    },
+    {
+      "name": "generate:Прогулянка з коліжанкою vs тер",
+      "status": "failed",
+      "duration_s": 75.6,
+      "error": "[structured_query] All JSON repair attempts failed (6610 chars)"
+    },
+    {
+      "name": "research:Ферментери вдома: чому домашня",
+      "status": "ok",
+      "duration_s": 187.9,
+      "error": null
+    },
+    {
+      "name": "generate:Ферментери вдома: чому домашня",
+      "status": "ok",
+      "duration_s": 137.7,
+      "error": null
+    },
+    {
+      "name": "review:Ферментери вдома: чому домашня",
+      "status": "ok",
+      "duration_s": 154.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ферментери вдома: чому домашня",
+      "status": "ok",
+      "duration_s": 19.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ферментери вдома: чому домашня",
+      "status": "ok",
+      "duration_s": 12.6,
+      "error": null
+    },
+    {
+      "name": "save:Ферментери вдома: чому домашня",
+      "status": "ok",
+      "duration_s": 17.5,
+      "error": null
+    },
+    {
+      "name": "research:Ходьба задом наперед 10 хвилин",
+      "status": "ok",
+      "duration_s": 210.7,
+      "error": null
+    },
+    {
+      "name": "generate:Ходьба задом наперед 10 хвилин",
+      "status": "ok",
+      "duration_s": 72.1,
+      "error": null
+    },
+    {
+      "name": "review:Ходьба задом наперед 10 хвилин",
+      "status": "ok",
+      "duration_s": 106.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ходьба задом наперед 10 хвилин",
+      "status": "ok",
+      "duration_s": 21.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ходьба задом наперед 10 хвилин",
+      "status": "ok",
+      "duration_s": 9.3,
+      "error": null
+    },
+    {
+      "name": "save:Ходьба задом наперед 10 хвилин",
+      "status": "ok",
+      "duration_s": 17.4,
+      "error": null
+    },
+    {
+      "name": "research:SPF 30 vs 50 і мінеральні vs х",
+      "status": "ok",
+      "duration_s": 194.2,
+      "error": null
+    },
+    {
+      "name": "generate:SPF 30 vs 50 і мінеральні vs х",
+      "status": "ok",
+      "duration_s": 67.5,
+      "error": null
+    },
+    {
+      "name": "review:SPF 30 vs 50 і мінеральні vs х",
+      "status": "ok",
+      "duration_s": 71.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:SPF 30 vs 50 і мінеральні vs х",
+      "status": "ok",
+      "duration_s": 20.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:SPF 30 vs 50 і мінеральні vs х",
+      "status": "ok",
+      "duration_s": 10.4,
+      "error": null
+    },
+    {
+      "name": "save:SPF 30 vs 50 і мінеральні vs х",
+      "status": "ok",
+      "duration_s": 16.7,
+      "error": null
+    },
+    {
+      "name": "research:Сумо-присідання vs класика: що",
+      "status": "ok",
+      "duration_s": 194.7,
+      "error": null
+    },
+    {
+      "name": "generate:Сумо-присідання vs класика: що",
+      "status": "ok",
+      "duration_s": 94.2,
+      "error": null
+    },
+    {
+      "name": "review:Сумо-присідання vs класика: що",
+      "status": "ok",
+      "duration_s": 141.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Сумо-присідання vs класика: що",
+      "status": "ok",
+      "duration_s": 19.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Сумо-присідання vs класика: що",
+      "status": "ok",
+      "duration_s": 10.0,
+      "error": null
+    },
+    {
+      "name": "save:Сумо-присідання vs класика: що",
+      "status": "ok",
+      "duration_s": 16.2,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.2,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

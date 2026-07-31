@@ -1,0 +1,87 @@
+{
+  "articles": [
+    {
+      "topic": "Тип 2 діабет у жінок 20-29: чому Британія фіксує різкий приріст і які маркери перевірити зараз",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Розбір нових даних NHS/Diabetes UK 2026 про подвоєння T2D у молодих жінок 18-39: роль СПКЯ, гестаційного діабету, ультра-обробленої їжі та вісцерального жиру. Пороги HbA1c, коли просити тест у 25, і чому нормальний ІМТ не рятує. Cross-link на статтю про lean MASLD (29.07) і обхват талії (26.07).",
+      "sources_hint": "Diabetes UK 2026 press release; NHS Digital diabetes stats; Lancet D&E — early-onset T2D reviews (Misra 2023, TODAY study 15-year follow-up NEJM 2021); PCOS-T2D meta-analysis Kakoly 2018 Human Reproduction Update; IDF Atlas 11th edition 2025",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Профілактика деменції: як 14 факторів ВООЗ 2026 перекладаються на чек-лист для 40-річного українця",
+      "type": "guide",
+      "category": "longevity",
+      "angle": "Оновлений гайд ВООЗ (липень 2026) про 45% модифікованого ризику деменції — конкретний вік-специфічний чек-лист: що робити у 40, 50, 60. Наголос на нових факторах — нелікована депресія, забруднення повітря PM2.5 в українських містах, візуальні порушення. Не дублює попередні матеріали про слух (23.07), locus coeruleus (27.07) і самотність (26.07) — консолідуючий чек-лист.",
+      "sources_hint": "WHO Guidelines on risk reduction of cognitive decline and dementia 2026 update; Lancet Commission Livingston 2024 update; SaniSpace 2024 air pollution PM2.5 dementia; Ukrainian PM2.5 data from SaveEcoBot",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Weekend warrior: чи справді 150 хвилин за суботу-неділю дають ту саму користь, що й розкидані по тижню",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "П'ятничний матеріал під вихідні. Розбір JAMA Internal Medicine 2023 (dos Santos, UK Biobank 350 000 осіб) — HR смертності однаковий у weekend warriors і regular exercisers. Khurshid Circulation 2023 про фібриляцію передсердь не показує підвищеного ризику. Ризики: раптовий ІМ у нетренованих 40+ (crosslink на Monday effect 27.07), травми ОДА. Правило прогресу «крок за 2 тижні до +20%».",
+      "sources_hint": "dos Santos et al. JAMA Internal Medicine 2023 weekend warrior; O'Donovan JAMA IM 2017; Khurshid Circulation 2023; ACSM position stand on physical activity guidelines",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Cyclospora у салатах відпустки: що робити, якщо «пояснювана» діарея не минає 3 дні",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "UKHSA попередження про cyclospora у липні 2026 (спалахи серед туристів у Мексиці/Гватемалі/Туреччині). Як відрізнити від traveler's diarrhea, чому імодіум не працює, коли потрібен ТМП-СМК, чому промивання салату не рятує. Практика для українців перед відпусткою у Туреччині/Єгипті.",
+      "sources_hint": "UKHSA July 2026 cyclospora alert; CDC Yellow Book 2026 chapter on cyclosporiasis; Ortega & Sanchez Clin Microbiol Rev 2010; PLoS NTDs meta-analysis on traveler cyclospora",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Тривога через клімат («eco-anxiety»): що показав систематичний огляд Lancet Planetary Health 2026 і 3 доказові техніки",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Розбір нового систематичного огляду про eco/heatwave anxiety як окрему клінічну категорію (BBC News липень 2026). Різниця з ГТР, дані Hickman 2021 (10 країн, 10 000 молодих), нове дослідження 2026 про поведінкову активацію та групову CBT. Що робити батькам підлітків, які «не бачать сенсу через кліматичну кризу». Продовжує статтю 25.07 про спеку і психіку, але з фокусом на еко-тривозі як самостійному феномені.",
+      "sources_hint": "Hickman et al. Lancet Planetary Health 2021; Lawrance et al. 2022 review; BBC News heatwave anxiety July 2026; APA climate psychology guidelines 2024; Ojala 2023 J Environ Psychol on climate coping",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Хронотип «сова» і ризик метаболічного синдрому: що показала когорта UK Biobank 2026",
+      "type": "research",
+      "category": "sleep",
+      "angle": "Нове дослідження UK Biobank (n>60 000) про зв'язок вечірнього хронотипу з T2D та MetS незалежно від тривалості сну. Механізм — misalignment циркадного ритму з робочим графіком, а не сам хронотип. Практика: як «сові» знизити ризик без насильної зміни графіку. Не дублює попередні матеріали про мелатонін і ранкове сонце (22.07).",
+      "sources_hint": "Diabetologia 2024-2026 chronotype MetS; Knutson & von Schantz 2018; Reutrakul & Van Cauter 2018 Metabolism; MCTQ Munich ChronoType Questionnaire; UK Biobank chronotype papers Roenneberg",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Ферум у бігунок-аматорок: чому феритин 30 замало і як не пропустити «спортивну анемію»",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Sports iron deficiency у жінок-бігунок: гемоліз від удару стопи, гепсидинова відповідь на запалення після тренування, чому пероральне залізо через день ефективніше за щоденне (Moretti 2015 Blood, Stoffel 2020 Lancet Haematology). Цільовий феритин ≥50 для спортивної форми vs ≥15 для «нормальних» аналізів. Крослінк на статтю про RLS і феритин 75 (29.07).",
+      "sources_hint": "Sim et al. Sports Med 2019 iron in athletes; Stoffel 2020 Lancet Haematology alternate-day iron; IOC consensus 2018 iron in athletes; Peeling et al. review on hepcidin exercise",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "П'ятничний shutdown ritual на роботі: як 15 хвилин у кінці робочого тижня знижують cortisol carryover у вихідні",
+      "type": "lifehack",
+      "category": "mental-health",
+      "angle": "Практичний 15-хвилинний ритуал завершення робочого тижня — принципово інший від недільного shutdown (26.07): фокус саме на переході з робочого режиму в режим відновлення до початку вихідних, а не на плануванні понеділка. Sonnentag detachment framework, чому unfinished tasks list знижує Zeigarnik effect, чому Slack/email в суботу подвоює понеділковий кортизол (Barber 2019). Український контекст — робота під час повітряних тривог.",
+      "sources_hint": "Sonnentag & Fritz 2015 J Occup Health Psychol recovery experiences; Barber & Santuzzi 2015 telepressure; Masicampo & Baumeister 2011 Zeigarnik; Meier 2016 detachment meta-analysis; APA Work in America 2024",
+      "evidence_level": "moderate",
+      "priority": 3
+    },
+    {
+      "topic": "Магній L-треонат для когніції: чому «мозковий магній» коштує втричі дорожче і що показують реальні RCT",
+      "type": "nutrition",
+      "category": "biohacking",
+      "angle": "Розбір хайпу навколо MgT (Magtein) як «єдиної форми, що проходить ГЕБ». Оригінал Slutsky 2010 Neuron — на мишах Xu лабораторії MIT. Єдиний людський RCT — Liu 2016 (n=44, індустріальний). Свіжий Wroolie 2024 (n=15, pilot open-label) не є доказом. Порівняння з бісгліцинатом за ціною. Не дублює матеріал 22.07 про форми магнію та їх взаємодію з ліками — фокус саме на когнітивній заявці й розвінчанні маркетингу.",
+      "sources_hint": "Slutsky et al. Neuron 2010; Liu et al. J Alzheimer's Dis 2016; Wroolie 2024 pilot; EFSA magnesium claims rejections; Kirkland et al. Nutrients 2018 magnesium bioavailability review",
+      "evidence_level": "preliminary",
+      "priority": 3
+    }
+  ],
+  "date": "2026-07-31",
+  "created_at": "2026-07-31T03:03:03.275724+00:00"
+}
