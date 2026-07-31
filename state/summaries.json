@@ -5063,5 +5063,24 @@
       "продуктивність"
     ],
     "summary": "Lifehack article about a 15-minute Friday end-of-week shutdown ritual designed to prevent cortisol carryover into the weekend. Framed around Sonnentag & Fritz stressor-detachment model, Wendsche & Lohmann-Haislah 2017 meta-analysis (86 studies, N=38,124) linking psychological detachment to lower exhaustion and better sleep, Masicampo & Baumeister 2011 on plan-making silencing Zeigarnik intrusions, Barber & Santuzzi 2015 telepressure construct, and Kubo et al 2021 observational data linking shorter off-job time to larger cortisol awakening response. Differentiated from previously published Sunday shutdown article by timing (Friday 17:00 vs Sunday evening) and purpose (preventive work→recovery transition vs corrective planning). Ukrainian context: Euromaidan Press 2025 on tripled insomnia rates during wartime. Practical 3-step protocol (5 min open loops list + 5 min when/where/how plans + 5 min physical shutdown). Honest caveat: the specific 15-min bundle is not RCT-tested; evidence supports components. Evidence level: moderate."
+  },
+  "magnii-l-treonat-magtein-kognitsiya-rct-vs-bisglitsynat-tsina": {
+    "date": "2026-07-31",
+    "title": "Магній L-треонат за 1000 грн на місяць: що показують реальні дослідження про «мозковий магній»",
+    "type": "nutrition",
+    "tags": [
+      "магній",
+      "L-треонат",
+      "Magtein",
+      "когніція",
+      "біохакінг",
+      "добавки",
+      "мозок",
+      "пам'ять",
+      "RCT",
+      "EFSA",
+      "маркетинг здоров'я"
+    ],
+    "summary": "Розбір доказової бази магнію L-треонату (Magtein) для когніції. Оригінальна робота Slutsky 2010 — на щурах, з лабораторії Guosong Liu (MIT), який згодом заснував Neurocentria і патентує Magtein. Єдиний повноцінний людський RCT — Liu 2016 (n=44, 12 тижнів, Cohen's d=0.91), але повністю індустріальний, без незалежної реплікації за 10 років. Pilot Wroolie 2017 (n=15, open-label) не знайшов метаболічних змін у AD-релевантних зонах мозку. Свіжий Hausenblas 2025 RCT (n=100, 6 тижнів) — знову індустріальний, ефект граничний (p=0.043), об'єктивний сон не покращився. EFSA 2024 визнала форму безпечною і біодоступною, але не схвалила жодного окремого cognitive claim. Ціна MgT у 5–10 разів вища за бісгліцинат при вдвічі меншому вмісті елементного магнію. Твердження «єдина форма, що проходить ГЕБ» — маркетингова гіпербола. Висновок: для 99% людей бісгліцинат/цитрат виграють. Рівень доказів для когнітивної претензії MgT — попередній."
   }
 }
