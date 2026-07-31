@@ -4980,5 +4980,23 @@
       "травми"
     ],
     "summary": "П'ятничний матеріал під вихідні: розбір доказової бази weekend warrior феномену. Основа — dos Santos JAMA IM 2022 (350k US, HR смертності у WW і regulars практично однаковий при рівному обсязі MVPA) і Khurshid JAMA 2023 + Kany Circulation 2024 (UK Biobank 89k з акселерометрами: однакове зниження ризику інфаркту, серцевої недостатності, інсульту і фібриляції передсердь). Головний висновок: обсяг MVPA важливіший за розподіл. Два ключові застереження: (1) різкий інтенсивний старт у sedentary 40+ підвищує ризик гострих серцевих подій — RR 107 у першу годину за Mittleman NEJM 1993 і AHA statement 2020, з cross-link на статтю про Monday effect; (2) травми ОДА — критичний предиктор не тижневий приріст, а спайк в одній сесії (Nielsen JOSPT 2014). Практика: warm-up ≥10 хв, zone 2 на старт, обсяг +10–20%/2 тижні, огляд у кардіолога для sedentary 45+ ч / 55+ ж. Evidence level: strong (4 великі когорти, узгоджені результати, механістична узгодженість; обмеження — всі observational)."
+  },
+  "cyclospora-salaty-vidpustka-diareya-ukhsa-2026-tmp-smx": {
+    "date": "2026-07-31",
+    "title": "Циклоспора у салатах з відпустки: чому «звичайна» діарея не минає 3 дні і що з цим робити",
+    "type": "guide",
+    "tags": [
+      "циклоспора",
+      "діарея мандрівника",
+      "профілактика",
+      "інфекції",
+      "подорожі",
+      "паразити",
+      "харчова безпека",
+      "UKHSA",
+      "антибіотики",
+      "бісептол"
+    ],
+    "summary": "Guide article on cyclosporiasis in travelers, pegged to the UKHSA 30 July 2026 alert (67 UK cases, 48 linked to Mexico travel). Explains how to distinguish Cyclospora from bacterial traveler's diarrhea using the 3-day rule and 2–14 day incubation window (CDC Yellow Book 2026). Key practical points: loperamide, azithromycin and rifaximin are ineffective; first-line treatment is TMP-SMX (Biseptol) 960 mg BID for 7–10 days, nitazoxanide as sulfa-allergy alternative (evidence: case series only). Explains why chlorine washing does not inactivate oocysts (FDA) and only heat ≥70 °C kills the parasite. Adapted for Ukrainian readers going to Turkey/Egypt all-inclusive resorts — framed around food type (buffet salads, berries in cocktails, ice cubes) rather than country-specific data (honest gap noted). Includes diagnostic guidance: standard Ukrainian ova & parasite tests miss Cyclospora; requires acid-fast staining or multiplex PCR, 3 stool samples. Evidence strength: moderate — guideline consensus but limited modern RCTs. Practical takeaway: 3-step checklist for before/during/after travel."
   }
 }
