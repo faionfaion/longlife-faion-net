@@ -5047,5 +5047,21 @@
       "витривалість"
     ],
     "summary": "Практичний гайд для жінок-бігунок про залізодефіцит без анемії. Основні тези: у 15–35% спортсменок є дефіцит заліза (Sim 2019); робочий поріг феритину для витривалісного спорту — ≥50 мкг/л, а не 15 як у ВООЗ; біг спричиняє гемоліз від удару стопи, ШКТ-мікрокровотечі і втрати з потом; гепсидин після тренування зростає в 1,5–2,5× на 3–6 год (Peeling 2014, Fensham 2023) і блокує всмоктування; доза 60+ мг заліза сама піднімає гепсидин на 24 год (Moretti 2015), тому прийом через день ефективніший (Stoffel 2017/2020: 21,8% vs 16,3%). Кросслінк на статті про латентний дефіцит і РНН/феритин 75. Сила доказів: strong для механізму гепсидину, moderate для порога ≥50."
+  },
+  "pyatnychnyj-shutdown-ritual-15-khvylyn-detachment-cortisol-carryover": {
+    "date": "2026-07-31",
+    "title": "П'ятничний shutdown ritual: 15 хвилин, які не дають кортизолу залишатись підвищеним у вихідні",
+    "type": "lifehack",
+    "tags": [
+      "стрес",
+      "кортизол",
+      "робота",
+      "детачмент",
+      "дослідження",
+      "психічне здоров'я",
+      "вихідні",
+      "продуктивність"
+    ],
+    "summary": "Lifehack article about a 15-minute Friday end-of-week shutdown ritual designed to prevent cortisol carryover into the weekend. Framed around Sonnentag & Fritz stressor-detachment model, Wendsche & Lohmann-Haislah 2017 meta-analysis (86 studies, N=38,124) linking psychological detachment to lower exhaustion and better sleep, Masicampo & Baumeister 2011 on plan-making silencing Zeigarnik intrusions, Barber & Santuzzi 2015 telepressure construct, and Kubo et al 2021 observational data linking shorter off-job time to larger cortisol awakening response. Differentiated from previously published Sunday shutdown article by timing (Friday 17:00 vs Sunday evening) and purpose (preventive work→recovery transition vs corrective planning). Ukrainian context: Euromaidan Press 2025 on tripled insomnia rates during wartime. Practical 3-step protocol (5 min open loops list + 5 min when/where/how plans + 5 min physical shutdown). Honest caveat: the specific 15-min bundle is not RCT-tested; evidence supports components. Evidence level: moderate."
   }
 }
