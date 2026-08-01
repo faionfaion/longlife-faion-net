@@ -34969,3 +34969,92 @@ ModuleNotFoundError: No module named 'opentelemetry'
 03:22:50 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
 03:22:50 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
 03:22:50 [pipeline.stages.s7_save] INFO: Article saved: /home/faion/longlife-faion-net/content/tvns-vushna-stymulyatsiya-bludyuchoho-nerva-rct-2025-tryvoha.md
+03:22:50 [pipeline] INFO: Article ready: tvns-vushna-stymulyatsiya-bludyuchoho-nerva-rct-2025-tryvoha (Стимуляція блукаючого нерва через вуха: що показал)
+03:22:50 [pipeline] INFO: === Article 3/10 ===
+03:22:50 [pipeline] INFO: --- Article: [guide] Serotonin і 5-HTP добавки: чому 'бустери настрою' з iHerb мо ---
+03:22:50 [asyncio] DEBUG: Using selector: EpollSelector
+03:22:50 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:22:50 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:26:26 [pipeline.stages.s2_research] INFO: Research complete: 18156 chars
+03:26:26 [asyncio] DEBUG: Using selector: EpollSelector
+03:26:26 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:26:26 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:29:00 [pipeline.stages.s3_generate] INFO: Generated: '5-HTP і звіробій з iHerb на тлі СІОЗС: чому «бустери настрою» можуть закінчитися серотоніновим синдромом' (slug=5-htp-serotonin-syndrom-siozs-zvirobyi-tramadol-guide, 1327 words, 13 sources)
+03:29:00 [asyncio] DEBUG: Using selector: EpollSelector
+03:29:00 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:29:00 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:29:17 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+03:29:17 [pipeline.stages.s4_review] INFO: Feedback: Strong, evidence-based guide with clearly cited sources (NEJM, Cochrane, QJM, Nutrition Reviews, MSK, Merck Manual). Serotonin syndrome mechanism, Hunter criteria and drug interactions (tramadol, St J
+03:29:17 [asyncio] DEBUG: Using selector: EpollSelector
+03:29:17 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:29:17 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:31:20 [pipeline.stages.s5_revise] INFO: Revised article: 1460 words
+03:31:20 [pipeline] INFO: === Review cycle 1/3 complete ===
+03:31:20 [asyncio] DEBUG: Using selector: EpollSelector
+03:31:20 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:31:20 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:31:36 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+03:31:36 [pipeline.stages.s4_review] INFO: Feedback: Strong, evidence-based guide with clear risk communication. All major claims are sourced (NEJM, Cochrane, Nutrition Reviews, MSK, Merck Manual, AJP). Study limitations are explicitly noted (Cochrane 2
+03:31:36 [pipeline] INFO: Article approved after 1 revision(s)
+03:31:36 [asyncio] DEBUG: Using selector: EpollSelector
+03:31:36 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:31:36 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:31:58 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in the middle aisle of a small neighborhood phar | pose=MEDIUM shot, waist-up, Vita turned three-quarters toward the shelf on her right; right hand extended, fingertips resting a small amber supplement bottle back onto the shelf; left hand relaxed at her side; head slightly tilted with a thoughtful, cautious downward glance at the bottle. | expression=Thoughtful, cautious expression — brows softly drawn together, lips closed in a small serious line, eyes focused and questioning, as if reconsidering a decision. | props=small amber plastic supplement bottle with a plain white cap (no label text), wooden pharmacy shelf lined with unlabeled cream and amber bottles, a single sprig of dried St. John's wort with tiny yellow flowers tucked beside the bottles as a subtle visual cue
+03:31:58 [asyncio] DEBUG: Using selector: EpollSelector
+03:31:58 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:31:58 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:32:09 [pipeline.stages.s6_generate_tg] INFO: TG caption: 720 chars
+03:32:09 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=5-htp-serotonin-syndrom-siozs-zvirobyi-tramadol-guide
+03:32:09 [asyncio] DEBUG: Using selector: EpollSelector
+03:32:09 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:32:09 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:32:24 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Merged the split-hand pose (right placing bottle, left at side) into both hands cradling the bottle 
+03:32:24 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+03:32:24 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:32:24 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+03:32:24 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+03:32:24 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 1 failed to produce image
+03:32:24 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 2/3 (quality=high)
+03:32:24 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:32:25 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+03:32:25 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+03:32:25 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 2 failed to produce image
+03:32:25 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 3/3 (quality=high)
+03:32:25 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:32:25 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+03:32:25 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+03:32:25 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
+03:32:25 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
+03:32:25 [pipeline.stages.s7_save] INFO: Article saved: /home/faion/longlife-faion-net/content/5-htp-serotonin-syndrom-siozs-zvirobyi-tramadol-guide.md

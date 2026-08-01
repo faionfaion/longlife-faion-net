@@ -5114,5 +5114,23 @@
       "психічне здоровя"
     ],
     "summary": "Стаття розбирає доказову базу транскутанної аурикулярної стимуляції блукаючого нерва (taVNS) на основі мета-аналізів і RCT 2022–2025 років. Ключові знахідки: Wang 2023 (12 RCT, 838 учасників) показує зниження симптомів депресії, порівнянне з антидепресантами, але за GRADE — низька якість доказів; de Oliveira 2025 підтверджує покращення сну (PSQI −3,6); iWAVE 2025 — сигнал для тривоги на малій вибірці без плацебо; Kim 2022 підтверджує безпеку на 6322 учасниках. Головний нюанс — Kaduk 2025 показав, що HRV під час стимуляції знижується, а не зростає, що суперечить популярному наративу. Schiweck 2025 знайшов, що ефект залежить від базового HRV. Практичний висновок: клінічні прилади Parasym/Nemos (Class IIa) мають доказову базу, TikTok-кліпси на мочку вуха — ні (мочка = плацебо-точка в RCT). Читачам рекомендовано починати з HRV-біофідбеку через дихання. Рівень доказів — попередній."
+  },
+  "5-htp-serotonin-syndrom-siozs-zvirobyi-tramadol-guide": {
+    "date": "2026-08-01",
+    "title": "5-HTP і звіробій з iHerb на тлі СІОЗС: чому «бустери настрою» можуть закінчитися серотоніновим синдромом",
+    "type": "guide",
+    "tags": [
+      "серотоніновий синдром",
+      "5-HTP",
+      "СІОЗС",
+      "антидепресанти",
+      "звіробій",
+      "трамадол",
+      "добавки",
+      "психічне здоровʼя",
+      "безпека ліків",
+      "триптофан"
+    ],
+    "summary": "Guide explaining why Ukrainian readers on SSRIs, SNRIs, trazodone or tramadol should not self-add 5-HTP, L-tryptophan, St John's wort or SAMe from iHerb. Covers the serotonin syndrome mechanism (Boyer NEJM 2005), Hunter diagnostic criteria (Dunkley QJM 2003), high-risk combinations (SSRI + tramadol, + St John's wort, + 5-HTP), honest evidence check on 5-HTP for depression (Cochrane 2002 outdated + Javelle 2020 moderate signal with high heterogeneity), the 1989 EMS/Showa Denko historical warning, and the distinction between DIY supplementation and physician-supervised SAMe augmentation (Papakostas 2010 RCT). Emphasizes Ukrainian regulatory gap: dietary supplements sold OTC with no interaction warnings. Practical takeaways: list all supplements for your doctor, do not add mood boosters without consultation, disclose SSRI use to surgeons and dentists before receiving tramadol. Evidence strength: strong for interaction risk, weak-to-moderate for 5-HTP efficacy."
   }
 }
