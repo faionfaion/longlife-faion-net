@@ -35592,3 +35592,92 @@ ModuleNotFoundError: No module named 'opentelemetry'
 04:18:55 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
 04:18:55 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
 04:18:55 [pipeline.stages.s7_save] INFO: Article saved: /home/faion/longlife-faion-net/content/nmn-nr-nad-plus-rct-2024-2025-effect-size-reality-check.md
+04:18:56 [pipeline] INFO: Article ready: nmn-nr-nad-plus-rct-2024-2025-effect-size-reality-check (NMN і NR як «таблетки довголіття»: чому людські еф)
+04:18:56 [pipeline] INFO: === Article 10/10 ===
+04:18:56 [pipeline] INFO: --- Article: [nutrition] Гриб їжатець (Lion's Mane) для когніції: що показав перший л ---
+04:18:56 [asyncio] DEBUG: Using selector: EpollSelector
+04:18:56 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:18:56 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:23:11 [pipeline.stages.s2_research] INFO: Research complete: 15594 chars
+04:23:11 [asyncio] DEBUG: Using selector: EpollSelector
+04:23:11 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:23:11 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:24:33 [pipeline.stages.s3_generate] INFO: Generated: 'Гриб їжатець (Lion's Mane) для мозку: що показав перший західний RCT 2023 і чи справді бувають поколювання' (slug=lions-mane-hericium-erinaceus-docherty-2023-rct-parestezii-kognitsiya, 586 words, 9 sources)
+04:24:33 [asyncio] DEBUG: Using selector: EpollSelector
+04:24:33 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:24:33 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:24:50 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+04:24:50 [pipeline.stages.s4_review] INFO: Feedback: Solid, evidence-based review. Strengths: honest presentation of the 2023 Docherty RCT with actual p-values including the negative finding on delayed memory; clear framing of Mori 2008 and Kolotushkina
+04:24:50 [asyncio] DEBUG: Using selector: EpollSelector
+04:24:50 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:24:50 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:25:56 [pipeline.stages.s5_revise] INFO: Revised article: 671 words
+04:25:56 [pipeline] INFO: === Review cycle 1/3 complete ===
+04:25:56 [asyncio] DEBUG: Using selector: EpollSelector
+04:25:56 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:25:56 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:26:13 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+04:26:13 [pipeline.stages.s4_review] INFO: Feedback: Strong, evidence-based article with careful distinction between marketing claims and actual science. Excellent handling of the NGF mechanism (correctly clarifying it's not neurogenesis), honest report
+04:26:13 [pipeline] INFO: Article approved after 1 revision(s)
+04:26:13 [asyncio] DEBUG: Using selector: EpollSelector
+04:26:13 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:26:13 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:26:33 [pipeline.stages.s_comic_scene] INFO: Comic scene: MEDIUM shot: Vita stands at a wooden farmers' market stall d | pose=MEDIUM shot, waist-up, three-quarter angle. Vita is turned slightly toward the stall, her right hand raised at chest height cradling a single whole Lion's Mane mushroom, left arm relaxed at her side. Weight on her back foot, shoulders relaxed, head tilted a few degrees as she studies the mushroom. | expression=Curious, examining look — one eyebrow slightly raised, soft focused eyes, faint closed-lip smile, the teaching-and-inspecting expression of someone weighing evidence. | props=a single whole fresh Lion's Mane (Hericium erinaceus) mushroom — shaggy white cascading spines, held in her right hand, wicker baskets of assorted fresh mushrooms on the wooden stall, a woven cloth market tote hanging from her left shoulder
+04:26:33 [asyncio] DEBUG: Using selector: EpollSelector
+04:26:33 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:26:33 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:26:45 [pipeline.stages.s6_generate_tg] INFO: TG caption: 735 chars
+04:26:45 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=lions-mane-hericium-erinaceus-docherty-2023-rct-parestezii-kognitsiya
+04:26:45 [asyncio] DEBUG: Using selector: EpollSelector
+04:26:45 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:26:45 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:27:01 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Merged the split-hand pose (right hand holding mushroom, left arm at side) into a single both-hands 
+04:27:01 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+04:27:01 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:27:01 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+04:27:01 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+04:27:01 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 1 failed to produce image
+04:27:01 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 2/3 (quality=high)
+04:27:01 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:27:01 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+04:27:01 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+04:27:01 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 2 failed to produce image
+04:27:01 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 3/3 (quality=high)
+04:27:01 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:27:02 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+04:27:02 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+04:27:02 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
+04:27:02 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
+04:27:02 [pipeline.stages.s7_save] INFO: Article saved: /home/faion/longlife-faion-net/content/lions-mane-hericium-erinaceus-docherty-2023-rct-parestezii-kognitsiya.md
