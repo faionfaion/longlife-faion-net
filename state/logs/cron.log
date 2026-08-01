@@ -35325,3 +35325,92 @@ ModuleNotFoundError: No module named 'opentelemetry'
 03:56:06 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
 03:56:06 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
 03:56:06 [pipeline.stages.s7_save] INFO: Article saved: /home/faion/longlife-faion-net/content/cgm-zdorovi-spayky-nastriy-sham-rct-2025-spartano.md
+03:56:06 [pipeline] INFO: Article ready: cgm-zdorovi-spayky-nastriy-sham-rct-2025-spartano (Спайки після банана у здорових: що каже наука 2025)
+03:56:06 [pipeline] INFO: === Article 7/10 ===
+03:56:06 [pipeline] INFO: --- Article: [nutrition] Магнієве масло і трансдермальний магній: чому шкіра — не рот ---
+03:56:06 [asyncio] DEBUG: Using selector: EpollSelector
+03:56:06 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:56:06 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:59:31 [pipeline.stages.s2_research] INFO: Research complete: 10959 chars
+03:59:31 [asyncio] DEBUG: Using selector: EpollSelector
+03:59:31 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:59:31 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:00:49 [pipeline.stages.s3_generate] INFO: Generated: 'Магнієве масло і ванни з Epsom-сіллю: чому шкіра — не рот, і що показує пряме дослідження' (slug=magniyeve-maslo-transdermalnyi-epsom-vanny-kass-2017-grober-nutrients, 624 words, 5 sources)
+04:00:49 [asyncio] DEBUG: Using selector: EpollSelector
+04:00:49 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:00:49 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:01:13 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+04:01:13 [pipeline.stages.s4_review] INFO: Feedback: Стаття наукова, збалансована, з коректно поданими джерелами (Kass 2017, Gröber 2017, NIH ODS, Mayo Clinic pilot). Правильно наголошено на статистичній незначущості первинної кінцевої точки RCT (p=0.29
+04:01:13 [asyncio] DEBUG: Using selector: EpollSelector
+04:01:13 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:01:14 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:02:21 [pipeline.stages.s5_revise] INFO: Revised article: 798 words
+04:02:21 [pipeline] INFO: === Review cycle 1/3 complete ===
+04:02:21 [asyncio] DEBUG: Using selector: EpollSelector
+04:02:21 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:02:22 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:02:38 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+04:02:38 [pipeline.stages.s4_review] INFO: Feedback: Solid, evidence-based debunking article. Strengths: (1) Accurately reports Kass 2017 RCT with correct p-values and acknowledges underpowered design plus post-hoc subgroup caveat; (2) Correctly identif
+04:02:38 [pipeline] INFO: Article approved after 1 revision(s)
+04:02:38 [asyncio] DEBUG: Using selector: EpollSelector
+04:02:38 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:02:38 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:02:58 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita stands in the bath-and-body aisle of a busy wellness st | pose=MEDIUM shot, waist-up but with shelves receding behind her. Vita stands in three-quarter profile, torso turned slightly toward the shelf, both hands cupped around a single small glass spray bottle raised to roughly eye level as she studies the liquid — both hands doing the same simple thing, no pointing, no split gesture. | expression=Explaining/teaching expression — one eyebrow slightly raised, lips softly pressed in polite skepticism, eyes focused thoughtfully on the bottle in her hands. | props=small clear glass spray bottle of clear magnesium oil (no label, no text), open wide-mouth glass jar of coarse white Epsom salt crystals on the shelf beside her, small folded natural linen pouch on the shelf
+04:02:58 [asyncio] DEBUG: Using selector: EpollSelector
+04:02:58 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:02:58 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:03:09 [pipeline.stages.s6_generate_tg] INFO: TG caption: 767 chars
+04:03:09 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=magniyeve-maslo-transdermalnyi-epsom-vanny-kass-2017-grober-nutrients
+04:03:09 [asyncio] DEBUG: Using selector: EpollSelector
+04:03:09 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:03:09 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:03:26 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Reordered to subject-action-environment-lighting-style, added explicit anatomy counts, unified both 
+04:03:26 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+04:03:26 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:03:26 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+04:03:26 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+04:03:26 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 1 failed to produce image
+04:03:26 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 2/3 (quality=high)
+04:03:26 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:03:27 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+04:03:27 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+04:03:27 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 2 failed to produce image
+04:03:27 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 3/3 (quality=high)
+04:03:27 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:03:27 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+04:03:27 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+04:03:27 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
+04:03:27 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
+04:03:27 [pipeline.stages.s7_save] INFO: Article saved: /home/faion/longlife-faion-net/content/magniyeve-maslo-transdermalnyi-epsom-vanny-kass-2017-grober-nutrients.md
