@@ -1,0 +1,96 @@
+{
+  "articles": [
+    {
+      "topic": "Креатин для жінок у перименопаузі: що показав мета-аналіз 2025 про кістки, силу і когніцію",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Розбір свіжих мета-аналізів 2024-2025 щодо креатину моногідрату саме у жінок 40-60: чи справді 5 г/день + силові підвищують BMD стегна, впливають на депресивні симптоми і робочу пам'ять. Порівняння з чоловічими даними, розвінчання міфу про 'затримку води' і 'шкоду для нирок'. Український кут: доступність креатину, чому дешевий моногідрат = золотий стандарт vs дорогі 'нові форми'",
+      "sources_hint": "PubMed: 'creatine perimenopause meta-analysis 2024 2025', Smith-Ryan 2021 Nutrients, Candow 2023 Nutrients, Forbes 2022 Nutrients, Chilibeck 2015 bone, Sandkuhler 2023 cognition meta-analysis, ISSN position stand 2021",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Vagus nerve stimulation через вуха: що показали RCT 2025 для тривоги і чому TikTok-гаджети за 3000 грн ≠ tVNS",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Розбір транскутанної стимуляції блукаючого нерва (tVNS/taVNS) — модного 'біохаку'. Головна теза: клінічні прилади Parasym/Nemos мають десятки RCT, а вушні кліпси з AliExpress/TikTok не мають жодного. Свіжі мета-аналізи 2024-2025, ефект на HRV, тривогу, депресію. Різниця між auricular vs cervical vs invasive. Реальні протоколи (30 хв × 2 рази/день, 25 Гц). Крос-лінк на HRV-біофідбек статтю 26.07",
+      "sources_hint": "PubMed: 'transcutaneous auricular vagus nerve stimulation meta-analysis 2024 2025 anxiety depression', Wu 2022 Frontiers Psychiatry, Sahn 2023 systematic review, Ferstl 2021, Farmer 2020 consensus paper",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Serotonin і 5-HTP добавки: чому 'бустери настрою' з iHerb можуть викликати серотоніновий синдром",
+      "type": "guide",
+      "category": "mental-health",
+      "angle": "Практичний safety-guide для читачів, які приймають СІОЗС/тразодон/трамадол і думають додати 5-HTP, L-триптофан, звіробій, SAMe 'для настрою'. Механізм серотонінового синдрому, критерії Hunter, реальні випадки з Case reports. Що взагалі каже доказова база про 5-HTP для депресії (Cochrane 2002 outdated + свіжі мета-аналізи). Український контекст: OTC-статус, брак попереджень на упаковках",
+      "sources_hint": "PubMed: '5-HTP serotonin syndrome case report SSRI', Boyer NEJM 2005 serotonin syndrome, Cochrane 2002 5-HTP tryptophan depression, Turner 2006 Pharmacology & Therapeutics, EMA safety monitoring St John's wort interactions",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Літній сон дітей 6-12: як не збити режим за канікули і не тягнути 'соціальний джетлаг' у вересень",
+      "type": "lifehack",
+      "category": "sleep",
+      "angle": "Сезонний lifehack для батьків: серпень — критичний місяць, коли 2-3 години зсуву відходу до сну накопичуються у 'social jetlag'. Дані Roenneberg 2019 про MCTQ у дітей, дослідження LeBourgeois 2013 про DLMO у 9-11 років, консенсус AASM 2016 (9-12 год сну для 6-12 років). Практичний 3-тижневий протокол поступового зсуву за 15 хв/3 дні, ранкове світло 10 000 люкс, обмеження мелатонінових добавок (крос-лінк на 26.07 матеріал про мелатонін для дітей)",
+      "sources_hint": "AASM sleep duration recommendations 2016 (Paruthi et al. JCSM), Roenneberg 2019 social jetlag, LeBourgeois 2013 Pediatrics, Crowley 2018 Sleep Medicine Reviews adolescent circadian, Bruni 2015 melatonin pediatric",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Timor-Leste ліквідував малярію: чому це важливо, коли Anopheles приходить в Європу з кліматом",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Прив'язка до сертифікації Тимор-Лешті ВООЗ як країни, вільної від малярії (2026). Пояснення стратегії T3 (Test, Treat, Track), що дало 'плазмодій-нуль'. Головний практичний кут для українців: локальна передача малярії в Італії/Франції/Греції 2022-2025, поради мандрівникам (ATG/BPQ vs доксициклін vs мефлохін, коли починати профілактику, ЦГЗ рекомендації для 2026). Крос-лінк на статтю про циклоспору 31.07",
+      "sources_hint": "WHO malaria certification page 2026, CDC Yellow Book 2026 malaria chapter, ECDC surveillance report on autochthonous malaria in EU 2024-2025, WHO Guidelines for malaria 2024, ЦГЗ України mandrivnyk sait",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Continuous Glucose Monitor у здорових людей: що показало сліпе RCT 2025 про 'глюкозні спайки' і настрій",
+      "type": "research",
+      "category": "biohacking",
+      "angle": "Продовження вчорашньої weekend-warrior та ходьби-після-їжі: свіже сліпе RCT 2024-2025, де здорових учасників рандомізували на реальні vs sham-CGM. Чи справді 'спайки після банана' щось означають для нецукрових людей? Референсні діапазони у здорових (Shah 2019, Freckmann 2007), варіабельність між пробудженнями. Критика Levels/ZOE/January AI. Хто реально виграє від CGM (переддіабет, вагітні з ГЦД, T1D). Крос-лінк на статтю про ходьбу після їжі 24.07",
+      "sources_hint": "PubMed: 'continuous glucose monitor healthy adults randomized controlled trial 2024 2025', Shah 2019 JCEM normative CGM data, Klonoff 2023 Diabetes Care CGM in non-diabetic, ADA Standards 2025",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Магнієве масло і трансдермальний магній: чому шкіра — не рот, і що показує пряме дослідження абсорбції",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Розвінчання міфу про 'магнієве масло' (розчин MgCl₂) і ванни з Epsom salt як спосіб підвищити рівень магнію. Єдине пряме дослідження Kass 2017 (n=25, RCT) не показало значущого підвищення сироваткового Mg через шкіру. Огляд Gröber 2017 про низьку проникність. Порівняння з ефективними формами (бісгліцинат, цитрат) з ціною за мг елементного магнію. Український ринок: сольові ванни на Rozetka за 500-2000 грн. Крос-лінк на статтю про Magtein 31.07",
+      "sources_hint": "PubMed: 'transdermal magnesium absorption randomized', Kass 2017 Magnesium Research, Gröber 2017 Nutrients review, Chandrasekaran 2016 pilot, Watkins 2010",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Zone 2 vs 80/20: субота — правильний день для довгого повільного кардіо, ось що показує наука про мітохондрії",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Суботній лонгрід під weekend runners/cyclists. Що насправді робить Zone 2 (67-72% HRmax) з мітохондріями — біогенез, PGC-1α, окиснення жирів. Свіжі дані San-Millán/Brooks 2018, польові дослідження UAE Team Emirates, критика Iñigo Sanmillán/Attia хайпу. Практика: як точно визначити Zone 2 без лактометра (talk test, LT1, Karvonen 60-70%). Чому 90 хв × 2/тиж достатньо, а 4 год не додають нічого. Комплементарно до статті про Норвезький 4×4 (29.07) — це якраз '80' у моделі 80/20",
+      "sources_hint": "PubMed: 'zone 2 training mitochondrial biogenesis PGC-1alpha endurance', San-Millán & Brooks 2018 Frontiers in Physiology, Seiler 2010 IJSPP polarized training, Stöggl 2014, Rosenblat 2022 meta-analysis polarized vs pyramidal",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "NMN і NR як 'таблетки довголіття': що показали людські RCT 2024-2025 про NAD+ і чому ефекти в 10 разів слабші за обіцяне",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Суботній longevity-лонгрід. Розбір людських RCT NMN (nicotinamide mononucleotide) і NR (nicotinamide riboside) 2024-2025: Yoshino 2021, Martens 2018, Yamane 2023, Igarashi 2022. Так, NAD+ у крові піднімається на 30-50%, але клінічні ефекти (VO2max, walking distance, insulin sensitivity) — малі і непослідовні. FDA-заборона NMN як supplement у США 2022. Порівняння з даними на мишах Sinclair vs Baur. Ціна vs креатин/силові як реальні pro-longevity інтервенції. Крос-лінк на статтю про омега-3 і біологічний вік (30.07)",
+      "sources_hint": "PubMed: 'nicotinamide mononucleotide NMN randomized controlled trial 2024 2025', Yoshino Science 2021, Martens Nature Communications 2018, Yamane 2023, Igarashi 2022, FDA NDI decision NMN 2022, Rajman Cell Metabolism 2018",
+      "evidence_level": "preliminary",
+      "priority": 2
+    },
+    {
+      "topic": "Гриб їжатець (Lion's Mane) для когніції: що показав перший людський RCT 2023 і чому нейропатичні поколювання — реальний сигнал",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Розбір хайпу навколо Hericium erinaceus. Механістика NGF/BDNF з мишачих робіт Mori 2008/Kolotushkina 2003 vs скромні людські дані: Mori 2009 (n=30, MCI, японська), Docherty 2023 (n=41, Nutrients — перший західний RCT, тільки speed of processing). Reddit/PubMed репорти про парестезії і тимчасову anhedonia — Slomski 2024, MedShadow. Ціна vs креатин/риб'ячий жир для когніції. Порівняння з магнієм L-треонатом (перегук на статтю 31.07)",
+      "sources_hint": "PubMed: 'Hericium erinaceus Lion's Mane cognition randomized', Docherty 2023 Nutrients RCT, Mori 2009 Phytotherapy Research, Li 2020 review, Saitsu 2019, Vigna 2019, adverse event reports on Lion's Mane paresthesia",
+      "evidence_level": "preliminary",
+      "priority": 3
+    }
+  ],
+  "date": "2026-08-01",
+  "created_at": "2026-08-01T03:03:03.204671+00:00"
+}

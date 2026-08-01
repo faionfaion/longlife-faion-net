@@ -1,0 +1,326 @@
+{
+  "timestamp": "2026-07-31_044142",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "t2d-molodi-zhinky-20-29-nhs-hba1c-pcos-gdm-2026, weekend-warrior-150-khvylyn-vykhidni-vs-tyzhden-jama-2022, cyclospora-salaty-vidpustka-diareya-ukhsa-2026-tmp-smx, eko-tryvoga-ne-gtr-bmc-psychiatry-2024-tekhniky-batkam-pidlitkiv, sova-khronotyp-misalignment-uk-biobank-jacc-2024-t2d-mets",
+  "author": "LongLife Media",
+  "duration_s": 5919.3,
+  "image_generated": false,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 175.2,
+      "error": null
+    },
+    {
+      "name": "research:Тип 2 діабет у жінок 20-29: чо",
+      "status": "ok",
+      "duration_s": 249.3,
+      "error": null
+    },
+    {
+      "name": "generate:Тип 2 діабет у жінок 20-29: чо",
+      "status": "ok",
+      "duration_s": 87.0,
+      "error": null
+    },
+    {
+      "name": "review:Тип 2 діабет у жінок 20-29: чо",
+      "status": "ok",
+      "duration_s": 140.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Тип 2 діабет у жінок 20-29: чо",
+      "status": "ok",
+      "duration_s": 20.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Тип 2 діабет у жінок 20-29: чо",
+      "status": "ok",
+      "duration_s": 11.4,
+      "error": null
+    },
+    {
+      "name": "save:Тип 2 діабет у жінок 20-29: чо",
+      "status": "ok",
+      "duration_s": 19.6,
+      "error": null
+    },
+    {
+      "name": "research:Профілактика деменції: як 14 ф",
+      "status": "failed",
+      "duration_s": 931.8,
+      "error": "agent_query timed out after 300s"
+    },
+    {
+      "name": "research:Weekend warrior: чи справді 15",
+      "status": "ok",
+      "duration_s": 220.3,
+      "error": null
+    },
+    {
+      "name": "generate:Weekend warrior: чи справді 15",
+      "status": "ok",
+      "duration_s": 76.4,
+      "error": null
+    },
+    {
+      "name": "review:Weekend warrior: чи справді 15",
+      "status": "ok",
+      "duration_s": 135.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Weekend warrior: чи справді 15",
+      "status": "ok",
+      "duration_s": 19.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Weekend warrior: чи справді 15",
+      "status": "ok",
+      "duration_s": 10.7,
+      "error": null
+    },
+    {
+      "name": "save:Weekend warrior: чи справді 15",
+      "status": "ok",
+      "duration_s": 16.2,
+      "error": null
+    },
+    {
+      "name": "research:Cyclospora у салатах відпустки",
+      "status": "ok",
+      "duration_s": 258.7,
+      "error": null
+    },
+    {
+      "name": "generate:Cyclospora у салатах відпустки",
+      "status": "ok",
+      "duration_s": 143.8,
+      "error": null
+    },
+    {
+      "name": "review:Cyclospora у салатах відпустки",
+      "status": "ok",
+      "duration_s": 182.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Cyclospora у салатах відпустки",
+      "status": "ok",
+      "duration_s": 23.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Cyclospora у салатах відпустки",
+      "status": "ok",
+      "duration_s": 11.8,
+      "error": null
+    },
+    {
+      "name": "save:Cyclospora у салатах відпустки",
+      "status": "ok",
+      "duration_s": 17.2,
+      "error": null
+    },
+    {
+      "name": "research:Тривога через клімат («eco-anx",
+      "status": "ok",
+      "duration_s": 530.3,
+      "error": null
+    },
+    {
+      "name": "generate:Тривога через клімат («eco-anx",
+      "status": "ok",
+      "duration_s": 85.1,
+      "error": null
+    },
+    {
+      "name": "review:Тривога через клімат («eco-anx",
+      "status": "ok",
+      "duration_s": 98.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Тривога через клімат («eco-anx",
+      "status": "ok",
+      "duration_s": 17.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Тривога через клімат («eco-anx",
+      "status": "ok",
+      "duration_s": 9.8,
+      "error": null
+    },
+    {
+      "name": "save:Тривога через клімат («eco-anx",
+      "status": "ok",
+      "duration_s": 17.2,
+      "error": null
+    },
+    {
+      "name": "research:Хронотип «сова» і ризик метабо",
+      "status": "ok",
+      "duration_s": 255.6,
+      "error": null
+    },
+    {
+      "name": "generate:Хронотип «сова» і ризик метабо",
+      "status": "ok",
+      "duration_s": 75.8,
+      "error": null
+    },
+    {
+      "name": "review:Хронотип «сова» і ризик метабо",
+      "status": "ok",
+      "duration_s": 92.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Хронотип «сова» і ризик метабо",
+      "status": "ok",
+      "duration_s": 21.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Хронотип «сова» і ризик метабо",
+      "status": "ok",
+      "duration_s": 8.2,
+      "error": null
+    },
+    {
+      "name": "save:Хронотип «сова» і ризик метабо",
+      "status": "ok",
+      "duration_s": 16.7,
+      "error": null
+    },
+    {
+      "name": "research:Ферум у бігунок-аматорок: чому",
+      "status": "ok",
+      "duration_s": 171.6,
+      "error": null
+    },
+    {
+      "name": "generate:Ферум у бігунок-аматорок: чому",
+      "status": "ok",
+      "duration_s": 79.8,
+      "error": null
+    },
+    {
+      "name": "review:Ферум у бігунок-аматорок: чому",
+      "status": "ok",
+      "duration_s": 95.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ферум у бігунок-аматорок: чому",
+      "status": "ok",
+      "duration_s": 20.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ферум у бігунок-аматорок: чому",
+      "status": "ok",
+      "duration_s": 12.3,
+      "error": null
+    },
+    {
+      "name": "save:Ферум у бігунок-аматорок: чому",
+      "status": "ok",
+      "duration_s": 16.1,
+      "error": null
+    },
+    {
+      "name": "research:П'ятничний shutdown ritual на ",
+      "status": "ok",
+      "duration_s": 210.2,
+      "error": null
+    },
+    {
+      "name": "generate:П'ятничний shutdown ritual на ",
+      "status": "ok",
+      "duration_s": 83.4,
+      "error": null
+    },
+    {
+      "name": "review:П'ятничний shutdown ritual на ",
+      "status": "ok",
+      "duration_s": 93.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:П'ятничний shutdown ritual на ",
+      "status": "ok",
+      "duration_s": 19.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:П'ятничний shutdown ritual на ",
+      "status": "ok",
+      "duration_s": 11.7,
+      "error": null
+    },
+    {
+      "name": "save:П'ятничний shutdown ritual на ",
+      "status": "ok",
+      "duration_s": 17.9,
+      "error": null
+    },
+    {
+      "name": "research:Магній L-треонат для когніції:",
+      "status": "ok",
+      "duration_s": 881.5,
+      "error": null
+    },
+    {
+      "name": "generate:Магній L-треонат для когніції:",
+      "status": "ok",
+      "duration_s": 84.4,
+      "error": null
+    },
+    {
+      "name": "review:Магній L-треонат для когніції:",
+      "status": "ok",
+      "duration_s": 94.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Магній L-треонат для когніції:",
+      "status": "ok",
+      "duration_s": 19.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Магній L-треонат для когніції:",
+      "status": "ok",
+      "duration_s": 9.6,
+      "error": null
+    },
+    {
+      "name": "save:Магній L-треонат для когніції:",
+      "status": "ok",
+      "duration_s": 17.4,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.2,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}
