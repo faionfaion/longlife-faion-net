@@ -5098,5 +5098,21 @@
       "саркопенія"
     ],
     "summary": "Article reviews the 2026 JISSN meta-analysis (Naddafha et al., 7 RCTs, 608 postmenopausal women) showing that 5 g/day creatine monohydrate + resistance training yields +0.37 kg lean mass and +7.5 kg leg-press 1RM. BMD results are nuanced: Chilibeck 2015 showed femoral-neck preservation with 10 g/day, but pooled 2026 data is null. Cognition (Xu 2024 meta-analysis): moderate benefits for memory and processing speed, especially in metabolic-stress states like perimenopause. Depression (2025 BJN meta-analysis, SMD -0.34): small, uncertain effect except in clinically depressed women (Lyoo 2012 augmentation trial). Debunks water retention (JISSN 2021) and kidney damage myths (Kabiri Naeini 2025, Kreider 2017 ISSN position stand). Ukrainian angle: monohydrate at 200-400 UAH/500g is the gold standard; alternative forms (HCL, ethyl ester) have no proven advantage. Practical takeaway: 5 g/day monohydrate + strength training 2-3x/week for women 40+, warn lab technician before serum creatinine tests. Evidence: strong for strength/lean mass, moderate for cognition, preliminary for bone and depression."
+  },
+  "tvns-vushna-stymulyatsiya-bludyuchoho-nerva-rct-2025-tryvoha": {
+    "date": "2026-08-01",
+    "title": "Стимуляція блукаючого нерва через вуха: що показали RCT 2025 і чому кліпси з TikTok — не tVNS",
+    "type": "research",
+    "tags": [
+      "блукаючий нерв",
+      "tVNS",
+      "тривога",
+      "депресія",
+      "HRV",
+      "біохакінг",
+      "дослідження",
+      "психічне здоровя"
+    ],
+    "summary": "Стаття розбирає доказову базу транскутанної аурикулярної стимуляції блукаючого нерва (taVNS) на основі мета-аналізів і RCT 2022–2025 років. Ключові знахідки: Wang 2023 (12 RCT, 838 учасників) показує зниження симптомів депресії, порівнянне з антидепресантами, але за GRADE — низька якість доказів; de Oliveira 2025 підтверджує покращення сну (PSQI −3,6); iWAVE 2025 — сигнал для тривоги на малій вибірці без плацебо; Kim 2022 підтверджує безпеку на 6322 учасниках. Головний нюанс — Kaduk 2025 показав, що HRV під час стимуляції знижується, а не зростає, що суперечить популярному наративу. Schiweck 2025 знайшов, що ефект залежить від базового HRV. Практичний висновок: клінічні прилади Parasym/Nemos (Class IIa) мають доказову базу, TikTok-кліпси на мочку вуха — ні (мочка = плацебо-точка в RCT). Читачам рекомендовано починати з HRV-біофідбеку через дихання. Рівень доказів — попередній."
   }
 }
