@@ -5132,5 +5132,21 @@
       "триптофан"
     ],
     "summary": "Guide explaining why Ukrainian readers on SSRIs, SNRIs, trazodone or tramadol should not self-add 5-HTP, L-tryptophan, St John's wort or SAMe from iHerb. Covers the serotonin syndrome mechanism (Boyer NEJM 2005), Hunter diagnostic criteria (Dunkley QJM 2003), high-risk combinations (SSRI + tramadol, + St John's wort, + 5-HTP), honest evidence check on 5-HTP for depression (Cochrane 2002 outdated + Javelle 2020 moderate signal with high heterogeneity), the 1989 EMS/Showa Denko historical warning, and the distinction between DIY supplementation and physician-supervised SAMe augmentation (Papakostas 2010 RCT). Emphasizes Ukrainian regulatory gap: dietary supplements sold OTC with no interaction warnings. Practical takeaways: list all supplements for your doctor, do not add mood boosters without consultation, disclose SSRI use to surgeons and dentists before receiving tramadol. Evidence strength: strong for interaction risk, weak-to-moderate for 5-HTP efficacy."
+  },
+  "sotsialnyi-dzhetlah-dity-6-12-serpen-rezhym-snu-protokol": {
+    "date": "2026-08-01",
+    "title": "Літній сон дітей 6–12: як не привезти у вересень «соціальний джетлаг»",
+    "type": "lifehack",
+    "tags": [
+      "сон",
+      "діти",
+      "соціальний джетлаг",
+      "циркадні ритми",
+      "школа",
+      "батькам",
+      "мелатонін",
+      "ранкове світло"
+    ],
+    "summary": "Lifehack про підготовку режиму сну дітей 6-12 років до вересня. Ключова концепція — соціальний джетлаг (Roenneberg 2019, MCTQ): невідповідність між біологічним і соціальним часом, що накопичується за канікули у 2-3 години. Консенсус AASM 2016 рекомендує 9-12 годин сну для цього віку; Crowley 2018 пояснює біологію вікна вразливості (повільніший тиск сну, пізніший DLMO); лабораторія LeBourgeois показує підвищену чутливість дітей до вечірнього світла. Практичний протокол на 3 тижні: зсув по 15 хв/3 дні (і сон, і підйом), природне ранкове світло надворі (не SAD-лампа), затемнення після 19:00, температура спальні 18-19°C. Кросслінк на матеріал про мелатонін для дітей (26.07) — добавки НЕ рекомендовані як інструмент зсуву режиму. Сила доказів: середня (консенсус AASM сильний, протокол 15 хв/3 дні — експертний, без прямих RCT у 6-12 років)."
   }
 }
