@@ -5282,5 +5282,22 @@
       "біохакінг"
     ],
     "summary": "Мета-аналіз Piñero та колег (2024, EJSS) уперше кількісно підтвердив, що холодне занурення одразу після силової знижує гіпертрофію (SMD −0,22). Це узгоджується з РКД Roberts (2015) і Fyfe (2019), які показали пригнічення mTOR-сигналізації до 48 годин, а також з мета-аналізами Malta (2021, SMD −0,60 для сили) і Grgic (2023, ES −0,23). Мережевий мета-аналіз Cai (2025, 55 РКД) визначив оптимальний протокол для зняття DOMS — 10–15 хв при 11–15 °C. Практичний висновок: у фазі набору маси уникати CWI щонайменше 4–6 годин після силової; доречно використовувати між сесіями у турнірний день або при спеці. Сила доказової бази — сильна (2 РКД + 3 мета-аналізи узгоджені)."
+  },
+  "longevity-clinics-dubai-london-50k-audit-dokazy-vs-marketyng": {
+    "date": "2026-08-02",
+    "title": "Longevity clinics за $50 000 на рік: що з протоколів має докази, а що — маркетинг",
+    "type": "research",
+    "tags": [
+      "довголіття",
+      "longevity-clinics",
+      "скринінг",
+      "дослідження",
+      "біологічний вік",
+      "full-body-MRI",
+      "Galleri",
+      "сенолітики",
+      "плазмаферез"
+    ],
+    "summary": "Audit of the 2026 longevity clinics market (Human Longevity, Fountain Life, Extension Health, Hooke London, Biograph) charging $25k–$50k per year. Three-tier evidence checklist: PROVEN — grip strength (UK Biobank), VO2max (Mandsager JAMA 2018), DEXA (for osteoporosis only), HbA1c, lipid panel with ApoB; PRELIMINARY — Galleri MCED test (PATHFINDER Lancet 2023 PPV 38%, PATHFINDER 2 ASCO 2026 no mortality endpoint), senolytics (Justice EBioMedicine 2019 pilot n=14, Farr 2024 RCT missed primary endpoint); HYPE — full-body MRI (JMRI 2019 systematic review: 16% false-positive rate, ACR and Choosing Wisely against), plasma exchange (Villeda 2014 mouse data, Kim/Kiprov 2022 uncontrolled n≈24, Bryan Johnson abandoned it). Practical takeaway: a $15 dynamometer + BP cuff + annual HbA1c and lipid panel + Cooper test give ~80% of the actionable value of a $50k clinic bundle. Evidence strength: preliminary overall for clinic protocols; strong for baseline biomarkers."
   }
 }
