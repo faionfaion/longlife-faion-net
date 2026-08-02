@@ -5299,5 +5299,23 @@
       "плазмаферез"
     ],
     "summary": "Audit of the 2026 longevity clinics market (Human Longevity, Fountain Life, Extension Health, Hooke London, Biograph) charging $25k–$50k per year. Three-tier evidence checklist: PROVEN — grip strength (UK Biobank), VO2max (Mandsager JAMA 2018), DEXA (for osteoporosis only), HbA1c, lipid panel with ApoB; PRELIMINARY — Galleri MCED test (PATHFINDER Lancet 2023 PPV 38%, PATHFINDER 2 ASCO 2026 no mortality endpoint), senolytics (Justice EBioMedicine 2019 pilot n=14, Farr 2024 RCT missed primary endpoint); HYPE — full-body MRI (JMRI 2019 systematic review: 16% false-positive rate, ACR and Choosing Wisely against), plasma exchange (Villeda 2014 mouse data, Kim/Kiprov 2022 uncontrolled n≈24, Bryan Johnson abandoned it). Practical takeaway: a $15 dynamometer + BP cuff + annual HbA1c and lipid panel + Cooper test give ~80% of the actionable value of a $50k clinic bundle. Evidence strength: preliminary overall for clinic protocols; strong for baseline biomarkers."
+  },
+  "hirska-khvoroba-karpaty-hoverla-elbrus-kilimandzharo-wms-2024": {
+    "date": "2026-08-02",
+    "title": "Хайкінг у Карпатах на 2000+ м: коли починається гірська хвороба і що робити з дітьми",
+    "type": "guide",
+    "tags": [
+      "хайкінг",
+      "гори",
+      "Карпати",
+      "Говерла",
+      "гірська хвороба",
+      "акліматизація",
+      "ацетазоламід",
+      "діти в горах",
+      "Ельбрус",
+      "Кіліманджаро"
+    ],
+    "summary": "Guide article explaining altitude illness (AMS/HAPE/HACE) for Ukrainian hikers. Key facts: Carpathians (Hoverla 2061 m, Pip Ivan 2028 m) are below the 2500 m AMS threshold so risk is minimal; genuine risk starts on Elbrus, Kilimanjaro, Mont Blanc. Covers 2018 Lake Louise Score (headache + ≥3 total on 4 items), WMS 2024 ascent protocol (+500 m/night above 3000 m, rest day per 1000 m), adult acetazolamide dosing (125 mg BID) with Kayser 2012 NNT data, and importantly the 2024-halved pediatric dose (1.25 mg/kg BID vs old 2.5 mg/kg). Red flags for HAPE (dyspnea at rest, pink sputum) and HACE (ataxia via heel-to-toe test) require immediate descent 300-1000 m. Evidence strength: strong for adult prevention, extrapolated for pediatric. Practical takeaway: Carpathian day-hikes need no prophylaxis; big-mountain trips need staged ascent and physician consult on acetazolamide."
   }
 }
