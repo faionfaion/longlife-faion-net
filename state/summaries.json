@@ -5317,5 +5317,21 @@
       "Кіліманджаро"
     ],
     "summary": "Guide article explaining altitude illness (AMS/HAPE/HACE) for Ukrainian hikers. Key facts: Carpathians (Hoverla 2061 m, Pip Ivan 2028 m) are below the 2500 m AMS threshold so risk is minimal; genuine risk starts on Elbrus, Kilimanjaro, Mont Blanc. Covers 2018 Lake Louise Score (headache + ≥3 total on 4 items), WMS 2024 ascent protocol (+500 m/night above 3000 m, rest day per 1000 m), adult acetazolamide dosing (125 mg BID) with Kayser 2012 NNT data, and importantly the 2024-halved pediatric dose (1.25 mg/kg BID vs old 2.5 mg/kg). Red flags for HAPE (dyspnea at rest, pink sputum) and HACE (ataxia via heel-to-toe test) require immediate descent 300-1000 m. Evidence strength: strong for adult prevention, extrapolated for pediatric. Practical takeaway: Carpathian day-hikes need no prophylaxis; big-mountain trips need staged ascent and physician consult on acetazolamide."
+  },
+  "vidpustka-son-borh-van-dongen-depner-5-dniv-vidnovlennya": {
+    "date": "2026-08-02",
+    "title": "Відпустка як ліки для сну: чому 5 днів — мінімум, щоб віддати «борг» перед організмом",
+    "type": "lifehack",
+    "tags": [
+      "сон",
+      "відпустка",
+      "sleep debt",
+      "циркадні ритми",
+      "відновлення",
+      "дослідження",
+      "мелатонін",
+      "ранкове світло"
+    ],
+    "summary": "Лайфхак-стаття про відновлення хронічного sleep debt під час літньої відпустки для дорослих. Ключові докази: Van Dongen 2003 (Sleep) — 14 ночей по 6 год = когнітивний дефіцит рівня 2 діб без сну; Belenky 2003 — 3 ночей відновлення недостатньо; Depner 2019 (Current Biology) — вихідних мало для метаболічного відновлення, чутливість до інсуліну падає на 9-27%; Cohen 2010 (Science TM) — довгий одноразовий сон дає «оманливе відчуття відновлення»; Wright 2017 — 2 доби на природі зсувають мелатонін на 1,4 год; Yin 2025 (SLEEP, 1,5 млн ночей Oura) — тривалість сну відновлюється за 2 дні, циркадний таймінг — 5+ днів. Практика: 5+ ночей без будильника, не спати довше ніж +2 год від звичного часу, 15-30 хв ранкового світла надворі, за 2 дні до повернення — зсув графіка назад. Сила доказів: strong (кілька RCT + великі когорти)."
   }
 }
