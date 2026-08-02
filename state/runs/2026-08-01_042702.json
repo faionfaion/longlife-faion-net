@@ -1,0 +1,392 @@
+{
+  "timestamp": "2026-08-01_042702",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "kreatyn-zhinky-perymenopauza-meta-analiz-2026-kistky-syla-kohnitsiya, tvns-vushna-stymulyatsiya-bludyuchoho-nerva-rct-2025-tryvoha, 5-htp-serotonin-syndrom-siozs-zvirobyi-tramadol-guide, sotsialnyi-dzhetlah-dity-6-12-serpen-rezhym-snu-protokol, timor-leste-malaria-free-2025-t3-travel-prophylaxis-europe-anopheles",
+  "author": "LongLife Media",
+  "duration_s": 5039.8,
+  "image_generated": false,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 248.7,
+      "error": null
+    },
+    {
+      "name": "research:Креатин для жінок у перименопа",
+      "status": "ok",
+      "duration_s": 152.0,
+      "error": null
+    },
+    {
+      "name": "generate:Креатин для жінок у перименопа",
+      "status": "ok",
+      "duration_s": 82.6,
+      "error": null
+    },
+    {
+      "name": "review:Креатин для жінок у перименопа",
+      "status": "ok",
+      "duration_s": 103.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Креатин для жінок у перименопа",
+      "status": "ok",
+      "duration_s": 20.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Креатин для жінок у перименопа",
+      "status": "ok",
+      "duration_s": 10.2,
+      "error": null
+    },
+    {
+      "name": "save:Креатин для жінок у перименопа",
+      "status": "ok",
+      "duration_s": 17.3,
+      "error": null
+    },
+    {
+      "name": "research:Vagus nerve stimulation через ",
+      "status": "ok",
+      "duration_s": 236.3,
+      "error": null
+    },
+    {
+      "name": "generate:Vagus nerve stimulation через ",
+      "status": "ok",
+      "duration_s": 76.4,
+      "error": null
+    },
+    {
+      "name": "review:Vagus nerve stimulation через ",
+      "status": "ok",
+      "duration_s": 195.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Vagus nerve stimulation через ",
+      "status": "ok",
+      "duration_s": 18.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Vagus nerve stimulation через ",
+      "status": "ok",
+      "duration_s": 9.1,
+      "error": null
+    },
+    {
+      "name": "save:Vagus nerve stimulation через ",
+      "status": "ok",
+      "duration_s": 15.7,
+      "error": null
+    },
+    {
+      "name": "research:Serotonin і 5-HTP добавки: чом",
+      "status": "ok",
+      "duration_s": 216.0,
+      "error": null
+    },
+    {
+      "name": "generate:Serotonin і 5-HTP добавки: чом",
+      "status": "ok",
+      "duration_s": 153.2,
+      "error": null
+    },
+    {
+      "name": "review:Serotonin і 5-HTP добавки: чом",
+      "status": "ok",
+      "duration_s": 156.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Serotonin і 5-HTP добавки: чом",
+      "status": "ok",
+      "duration_s": 21.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Serotonin і 5-HTP добавки: чом",
+      "status": "ok",
+      "duration_s": 10.6,
+      "error": null
+    },
+    {
+      "name": "save:Serotonin і 5-HTP добавки: чом",
+      "status": "ok",
+      "duration_s": 17.1,
+      "error": null
+    },
+    {
+      "name": "research:Літній сон дітей 6-12: як не з",
+      "status": "ok",
+      "duration_s": 186.3,
+      "error": null
+    },
+    {
+      "name": "generate:Літній сон дітей 6-12: як не з",
+      "status": "ok",
+      "duration_s": 59.3,
+      "error": null
+    },
+    {
+      "name": "review:Літній сон дітей 6-12: як не з",
+      "status": "ok",
+      "duration_s": 75.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Літній сон дітей 6-12: як не з",
+      "status": "ok",
+      "duration_s": 20.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Літній сон дітей 6-12: як не з",
+      "status": "ok",
+      "duration_s": 9.7,
+      "error": null
+    },
+    {
+      "name": "save:Літній сон дітей 6-12: як не з",
+      "status": "ok",
+      "duration_s": 17.4,
+      "error": null
+    },
+    {
+      "name": "research:Timor-Leste ліквідував малярію",
+      "status": "ok",
+      "duration_s": 226.1,
+      "error": null
+    },
+    {
+      "name": "generate:Timor-Leste ліквідував малярію",
+      "status": "ok",
+      "duration_s": 140.5,
+      "error": null
+    },
+    {
+      "name": "review:Timor-Leste ліквідував малярію",
+      "status": "ok",
+      "duration_s": 165.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Timor-Leste ліквідував малярію",
+      "status": "ok",
+      "duration_s": 24.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Timor-Leste ліквідував малярію",
+      "status": "ok",
+      "duration_s": 10.8,
+      "error": null
+    },
+    {
+      "name": "save:Timor-Leste ліквідував малярію",
+      "status": "ok",
+      "duration_s": 18.2,
+      "error": null
+    },
+    {
+      "name": "research:Continuous Glucose Monitor у з",
+      "status": "ok",
+      "duration_s": 248.3,
+      "error": null
+    },
+    {
+      "name": "generate:Continuous Glucose Monitor у з",
+      "status": "ok",
+      "duration_s": 75.3,
+      "error": null
+    },
+    {
+      "name": "review:Continuous Glucose Monitor у з",
+      "status": "ok",
+      "duration_s": 97.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Continuous Glucose Monitor у з",
+      "status": "ok",
+      "duration_s": 18.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Continuous Glucose Monitor у з",
+      "status": "ok",
+      "duration_s": 9.1,
+      "error": null
+    },
+    {
+      "name": "save:Continuous Glucose Monitor у з",
+      "status": "ok",
+      "duration_s": 17.7,
+      "error": null
+    },
+    {
+      "name": "research:Магнієве масло і трансдермальн",
+      "status": "ok",
+      "duration_s": 204.7,
+      "error": null
+    },
+    {
+      "name": "generate:Магнієве масло і трансдермальн",
+      "status": "ok",
+      "duration_s": 77.7,
+      "error": null
+    },
+    {
+      "name": "review:Магнієве масло і трансдермальн",
+      "status": "ok",
+      "duration_s": 108.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Магнієве масло і трансдермальн",
+      "status": "ok",
+      "duration_s": 20.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Магнієве масло і трансдермальн",
+      "status": "ok",
+      "duration_s": 11.0,
+      "error": null
+    },
+    {
+      "name": "save:Магнієве масло і трансдермальн",
+      "status": "ok",
+      "duration_s": 18.7,
+      "error": null
+    },
+    {
+      "name": "research:Zone 2 vs 80/20: субота — прав",
+      "status": "ok",
+      "duration_s": 208.0,
+      "error": null
+    },
+    {
+      "name": "generate:Zone 2 vs 80/20: субота — прав",
+      "status": "ok",
+      "duration_s": 85.9,
+      "error": null
+    },
+    {
+      "name": "review:Zone 2 vs 80/20: субота — прав",
+      "status": "ok",
+      "duration_s": 95.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Zone 2 vs 80/20: субота — прав",
+      "status": "ok",
+      "duration_s": 20.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Zone 2 vs 80/20: субота — прав",
+      "status": "ok",
+      "duration_s": 10.2,
+      "error": null
+    },
+    {
+      "name": "save:Zone 2 vs 80/20: субота — прав",
+      "status": "ok",
+      "duration_s": 16.6,
+      "error": null
+    },
+    {
+      "name": "research:NMN і NR як 'таблетки довголіт",
+      "status": "ok",
+      "duration_s": 238.8,
+      "error": null
+    },
+    {
+      "name": "generate:NMN і NR як 'таблетки довголіт",
+      "status": "ok",
+      "duration_s": 84.8,
+      "error": null
+    },
+    {
+      "name": "review:NMN і NR як 'таблетки довголіт",
+      "status": "ok",
+      "duration_s": 120.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:NMN і NR як 'таблетки довголіт",
+      "status": "ok",
+      "duration_s": 22.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:NMN і NR як 'таблетки довголіт",
+      "status": "ok",
+      "duration_s": 8.6,
+      "error": null
+    },
+    {
+      "name": "save:NMN і NR як 'таблетки довголіт",
+      "status": "ok",
+      "duration_s": 16.8,
+      "error": null
+    },
+    {
+      "name": "research:Гриб їжатець (Lion's Mane) для",
+      "status": "ok",
+      "duration_s": 255.5,
+      "error": null
+    },
+    {
+      "name": "generate:Гриб їжатець (Lion's Mane) для",
+      "status": "ok",
+      "duration_s": 81.5,
+      "error": null
+    },
+    {
+      "name": "review:Гриб їжатець (Lion's Mane) для",
+      "status": "ok",
+      "duration_s": 100.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Гриб їжатець (Lion's Mane) для",
+      "status": "ok",
+      "duration_s": 20.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Гриб їжатець (Lion's Mane) для",
+      "status": "ok",
+      "duration_s": 11.4,
+      "error": null
+    },
+    {
+      "name": "save:Гриб їжатець (Lion's Mane) для",
+      "status": "ok",
+      "duration_s": 17.7,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.2,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

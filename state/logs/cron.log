@@ -35681,3 +35681,517 @@ ModuleNotFoundError: No module named 'opentelemetry'
 04:27:02 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
 04:27:02 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
 04:27:02 [pipeline.stages.s7_save] INFO: Article saved: /home/faion/longlife-faion-net/content/lions-mane-hericium-erinaceus-docherty-2023-rct-parestezii-kognitsiya.md
+04:27:02 [pipeline] INFO: Article ready: lions-mane-hericium-erinaceus-docherty-2023-rct-parestezii-kognitsiya (Гриб їжатець (Lion's Mane) для мозку: що показав п)
+04:27:02 [pipeline] INFO: Generated 10/10 articles
+04:27:02 [pipeline.stages.s7_deploy] INFO: Starting deploy: /home/faion/longlife-faion-net/gatsby/deploy-gh.sh
+04:27:02 [pipeline.stages.s7_deploy] ERROR: Deploy failed (exit 255): faion@46.225.58.119: Permission denied (publickey).
+
+04:27:02 [pipeline.stages.s8_verify] ERROR: Site verification failed: https://longlife.faion.net/lions-mane-hericium-erinaceus-docherty-2023-rct-parestezii-kognitsiya/ — HTTP Error 404: Not Found
+04:27:02 [pipeline] INFO: Run report saved: /home/faion/longlife-faion-net/state/runs/2026-08-01_042702.json
+04:27:02 [pipeline] INFO: Batch complete: 10 articles
+2026-08-01 04:27:03 Pipeline generate exit: 0
+---
+From github.com:faionfaion/longlife-faion-net
+ * branch              master     -> FETCH_HEAD
+Already up to date.
+2026-08-01 09:05:03 Pipeline publish started
+09:05:03 [pipeline] INFO: === TG Publish mode ===
+09:05:03 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.telegram.org:443
+09:05:03 [urllib3.connectionpool] DEBUG: https://api.telegram.org:443 "POST /bot8585090528:AAEd6hzackfitQfPJI2akuvrtTXWXbqN6R8/sendPhoto HTTP/1.1" 200 3362
+09:05:03 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.telegram.org:443
+09:05:03 [urllib3.connectionpool] DEBUG: https://api.telegram.org:443 "POST /bot8585090528:AAEd6hzackfitQfPJI2akuvrtTXWXbqN6R8/setMessageReaction HTTP/1.1" 200 25
+09:05:03 [pipeline.stages.s10_pick_and_publish] INFO: TG published: diabet-2-typu-zhinky-20-29-hba1c-tg-hdl-pcos-skryninh -> msg 263
+09:05:03 [pipeline] INFO: Published to TG: diabet-2-typu-zhinky-20-29-hba1c-tg-hdl-pcos-skryninh (msg 263)
+2026-08-01 09:05:03 Pipeline publish exit: 0
+---
+From github.com:faionfaion/longlife-faion-net
+ * branch              master     -> FETCH_HEAD
+Already up to date.
+2026-08-01 12:05:03 Pipeline publish started
+12:05:03 [pipeline] INFO: === TG Publish mode ===
+12:05:03 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.telegram.org:443
+12:05:03 [urllib3.connectionpool] DEBUG: https://api.telegram.org:443 "POST /bot8585090528:AAEd6hzackfitQfPJI2akuvrtTXWXbqN6R8/sendPhoto HTTP/1.1" 200 3738
+12:05:03 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.telegram.org:443
+12:05:03 [urllib3.connectionpool] DEBUG: https://api.telegram.org:443 "POST /bot8585090528:AAEd6hzackfitQfPJI2akuvrtTXWXbqN6R8/setMessageReaction HTTP/1.1" 200 25
+12:05:03 [pipeline.stages.s10_pick_and_publish] INFO: TG published: voz-14-faktoriv-ryzyku-dementsii-lancet-2024-profilaktyka -> msg 264
+12:05:03 [pipeline] INFO: Published to TG: voz-14-faktoriv-ryzyku-dementsii-lancet-2024-profilaktyka (msg 264)
+2026-08-01 12:05:03 Pipeline publish exit: 0
+---
+From github.com:faionfaion/longlife-faion-net
+ * branch              master     -> FETCH_HEAD
+Already up to date.
+2026-08-01 15:05:02 Pipeline publish started
+15:05:02 [pipeline] INFO: === TG Publish mode ===
+15:05:02 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.telegram.org:443
+15:05:02 [urllib3.connectionpool] DEBUG: https://api.telegram.org:443 "POST /bot8585090528:AAEd6hzackfitQfPJI2akuvrtTXWXbqN6R8/sendPhoto HTTP/1.1" 200 3403
+15:05:02 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.telegram.org:443
+15:05:02 [urllib3.connectionpool] DEBUG: https://api.telegram.org:443 "POST /bot8585090528:AAEd6hzackfitQfPJI2akuvrtTXWXbqN6R8/setMessageReaction HTTP/1.1" 200 25
+15:05:02 [pipeline.stages.s10_pick_and_publish] INFO: TG published: straik-likariv-nhs-smertnist-meta-analiz-essex-korea-2024 -> msg 265
+15:05:02 [pipeline] INFO: Published to TG: straik-likariv-nhs-smertnist-meta-analiz-essex-korea-2024 (msg 265)
+2026-08-01 15:05:02 Pipeline publish exit: 0
+---
+From github.com:faionfaion/longlife-faion-net
+ * branch              master     -> FETCH_HEAD
+Already up to date.
+2026-08-01 18:05:02 Pipeline publish started
+18:05:02 [pipeline] INFO: === TG Publish mode ===
+18:05:02 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.telegram.org:443
+18:05:02 [urllib3.connectionpool] DEBUG: https://api.telegram.org:443 "POST /bot8585090528:AAEd6hzackfitQfPJI2akuvrtTXWXbqN6R8/sendPhoto HTTP/1.1" 200 3620
+18:05:02 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.telegram.org:443
+18:05:03 [urllib3.connectionpool] DEBUG: https://api.telegram.org:443 "POST /bot8585090528:AAEd6hzackfitQfPJI2akuvrtTXWXbqN6R8/setMessageReaction HTTP/1.1" 200 25
+18:05:03 [pipeline.stages.s10_pick_and_publish] INFO: TG published: alkohol-jamka-kryva-zhao-meta-analiz-2023-no-safe-level -> msg 266
+18:05:03 [pipeline] INFO: Published to TG: alkohol-jamka-kryva-zhao-meta-analiz-2023-no-safe-level (msg 266)
+2026-08-01 18:05:03 Pipeline publish exit: 0
+---
+From github.com:faionfaion/longlife-faion-net
+ * branch              master     -> FETCH_HEAD
+Already up to date.
+2026-08-01 20:43:02 Pipeline digest started
+20:43:03 [pipeline.sdk] WARNING: Could not patch SDK parser: No module named 'claude_code_sdk'
+20:43:03 [pipeline] INFO: === Digest mode ===
+20:43:03 [asyncio] DEBUG: Using selector: EpollSelector
+20:43:03 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+20:43:03 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+20:43:24 [pipeline.stages.s11_digest] WARNING: No image found for digest
+20:43:24 [pipeline] INFO: Digest skipped (not enough articles)
+From github.com:faionfaion/longlife-faion-net
+ * branch              master     -> FETCH_HEAD
+Already up to date.
+2026-08-02 03:03:02 Pipeline generate started
+03:03:03 [pipeline.sdk] WARNING: Could not patch SDK parser: No module named 'claude_code_sdk'
+03:03:03 [pipeline.feeds] WARNING: Failed to fetch feed moz_news: https://moz.gov.ua/rss
+Traceback (most recent call last):
+  File "/home/faion/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/faion/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden
+03:03:03 [pipeline.feeds] WARNING: Failed to fetch feed ukrinform_health: https://www.ukrinform.ua/rss/block-zdorovja
+Traceback (most recent call last):
+  File "/home/faion/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/faion/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 553, in error
+    result = self._call_chain(*args)
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 745, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+03:03:04 [pipeline.feeds] WARNING: Failed to fetch feed ukrinform_science: https://www.ukrinform.ua/rss/block-nauka
+Traceback (most recent call last):
+  File "/home/faion/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/faion/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 553, in error
+    result = self._call_chain(*args)
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 745, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+03:03:04 [pipeline.feeds] WARNING: Failed to fetch feed unian_health: https://health.unian.ua/rss/all
+Traceback (most recent call last):
+  File "/home/faion/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/faion/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+03:03:04 [pipeline.feeds] INFO: Feed nv_health: 0 items
+03:03:04 [pipeline.feeds] INFO: Feed bbc_health: 10 items
+03:03:04 [pipeline.feeds] WARNING: Failed to fetch feed medicalnewstoday: https://www.medicalnewstoday.com/rss
+Traceback (most recent call last):
+  File "/home/faion/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/faion/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+03:03:04 [pipeline.feeds] INFO: Feed who_news: 10 items
+03:03:04 [asyncio] DEBUG: Using selector: EpollSelector
+03:03:04 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:03:04 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:04:39 [asyncio] DEBUG: Using selector: EpollSelector
+03:04:39 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:04:39 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:07:31 [pipeline.stages.s0_editorial_plan] INFO: Plan reviewed: 10 -> 10 articles
+03:07:31 [pipeline.stages.s0_editorial_plan] INFO: Editorial plan created: 10 articles for 2026-08-02
+03:07:31 [pipeline] INFO: Editorial plan: 10 topics
+03:07:31 [pipeline.feeds] WARNING: Failed to fetch feed moz_news: https://moz.gov.ua/rss
+Traceback (most recent call last):
+  File "/home/faion/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/faion/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden
+03:07:32 [pipeline.feeds] WARNING: Failed to fetch feed ukrinform_health: https://www.ukrinform.ua/rss/block-zdorovja
+Traceback (most recent call last):
+  File "/home/faion/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/faion/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 553, in error
+    result = self._call_chain(*args)
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 745, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+03:07:32 [pipeline.feeds] WARNING: Failed to fetch feed ukrinform_science: https://www.ukrinform.ua/rss/block-nauka
+Traceback (most recent call last):
+  File "/home/faion/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/faion/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 553, in error
+    result = self._call_chain(*args)
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 745, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+03:07:32 [pipeline.feeds] WARNING: Failed to fetch feed unian_health: https://health.unian.ua/rss/all
+Traceback (most recent call last):
+  File "/home/faion/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/faion/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+03:07:32 [pipeline.feeds] INFO: Feed nv_health: 0 items
+03:07:32 [pipeline.feeds] INFO: Feed bbc_health: 10 items
+03:07:32 [pipeline.feeds] WARNING: Failed to fetch feed medicalnewstoday: https://www.medicalnewstoday.com/rss
+Traceback (most recent call last):
+  File "/home/faion/longlife-faion-net/pipeline/feeds.py", line 25, in fetch_rss_headlines
+    items = _fetch_single_feed(name, url, max_per_feed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/faion/longlife-faion-net/pipeline/feeds.py", line 39, in _fetch_single_feed
+    with urlopen(req, timeout=15) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+03:07:32 [pipeline.feeds] INFO: Feed who_news: 10 items
+03:07:32 [pipeline.stages.s1_collect] INFO: Context: 20 RSS items, 364 existing articles
+03:07:32 [pipeline] INFO: === Article 1/10 ===
+03:07:32 [pipeline] INFO: --- Article: [research] MS-препарат клесрилімаб «змінює життя»: як працює новий шлях ---
+03:07:32 [asyncio] DEBUG: Using selector: EpollSelector
+03:07:32 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:07:33 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:10:30 [pipeline.stages.s2_research] INFO: Research complete: 14279 chars
+03:10:30 [asyncio] DEBUG: Using selector: EpollSelector
+03:10:30 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:10:31 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:11:49 [pipeline.stages.s3_generate] INFO: Generated: 'Фампридин для ходьби при розсіяному склерозі: що NHS дає 5000 пацієнтам і чому це не «новий прорив»' (slug=fampridin-rozsiyanyi-skleroz-khodba-nhs-2026, 508 words, 9 sources)
+03:11:49 [asyncio] DEBUG: Using selector: EpollSelector
+03:11:49 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:11:49 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:12:03 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+03:12:03 [pipeline.stages.s4_review] INFO: Feedback: Strong, well-sourced article. Accurately corrects the fabricated 'клесрилімаб' name and clarifies that fampridine is symptomatic, not disease-modifying. RCT results are presented with proper context (
+03:12:03 [asyncio] DEBUG: Using selector: EpollSelector
+03:12:03 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:12:03 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:13:13 [pipeline.stages.s5_revise] INFO: Revised article: 728 words
+03:13:13 [pipeline] INFO: === Review cycle 1/3 complete ===
+03:13:13 [asyncio] DEBUG: Using selector: EpollSelector
+03:13:13 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:13:13 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:13:27 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+03:13:27 [pipeline.stages.s4_review] INFO: Feedback: Strong, well-sourced article. Clear correction of the fabricated 'клесрилімаб' name, accurate mechanism explanation, honest presentation of RCT data with distinction between objective (T25FW) and subj
+03:13:27 [pipeline] INFO: Article approved after 1 revision(s)
+03:13:27 [asyncio] DEBUG: Using selector: EpollSelector
+03:13:27 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:13:27 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:13:45 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita walks steadily along a smooth hospital corridor beside  | pose=MEDIUM-WIDE shot, full body, Vita mid-stride walking forward beside the older man, shoulders squared, one hand gently placed on his back, the other relaxed at her side, weight shifting naturally onto her front foot | expression=encouraging look, slight head tilt toward the man beside her, softer warm eyes and a gentle closed-mouth smile | props=four-wheeled mobility walker with grey frame and black grips, green apple in the mesh basket of the walker, small potted fern on a low windowsill
+03:13:45 [asyncio] DEBUG: Using selector: EpollSelector
+03:13:45 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:13:45 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:14:00 [pipeline.stages.s6_generate_tg] INFO: TG caption: 661 chars
+03:14:00 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=fampridin-rozsiyanyi-skleroz-khodba-nhs-2026
+03:14:00 [asyncio] DEBUG: Using selector: EpollSelector
+03:14:00 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:14:00 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:14:16 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Merged the split-hand pose (one hand on back, one at side) into both hands symmetrically supporting 
+03:14:16 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+03:14:16 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:14:17 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+03:14:17 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+03:14:17 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 1 failed to produce image
+03:14:17 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 2/3 (quality=high)
+03:14:17 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:14:17 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+03:14:17 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+03:14:17 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 2 failed to produce image
+03:14:17 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 3/3 (quality=high)
+03:14:17 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:14:17 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+03:14:17 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+03:14:17 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
+03:14:17 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
+03:14:17 [pipeline.stages.s7_save] INFO: Article saved: /home/faion/longlife-faion-net/content/fampridin-rozsiyanyi-skleroz-khodba-nhs-2026.md

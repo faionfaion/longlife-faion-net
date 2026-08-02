@@ -1,0 +1,96 @@
+{
+  "articles": [
+    {
+      "topic": "MS-препарат клесрилімаб «змінює життя»: як працює новий шлях лікування розсіяного склерозу і кому він насправді допоможе",
+      "type": "research",
+      "category": "research",
+      "angle": "Розбір новини NHS England про перший препарат, який покращує ходьбу у прогресуючих формах РС. Що це за молекула, які RCT стоять за схваленням, різниця між relapsing-remitting і progressive MS, який відсоток пацієнтів реально відповість на терапію. Український контекст: доступність через НСЗУ, орієнтовна вартість, аналоги.",
+      "sources_hint": "NHS England July 2026 announcement; NICE technology appraisal; NEJM/Lancet Neurology 2024-2026 phase III trials for progressive MS (search: 'progressive multiple sclerosis phase 3 trial 2025'); MS Society UK; EMA product info",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Холодна ванна після силового тренування: чому свіжий мета-аналіз 2025 радить не поспішати з крижаним душем",
+      "type": "fitness",
+      "category": "biohacking",
+      "angle": "Розбір суперечності: холодне занурення знижує запалення і DOMS, але блокує сигнали mTOR і гіпертрофію (Roberts 2015, Fyfe 2019). Свіжі мета-аналізи 2024-2025 підтверджують, що для атлетів у фазі набору маси cold plunge ПІСЛЯ силової — контрпродуктивний. Коли він доречний: між сесіями у турнірний день, при екстремальній спеці. Практичний протокол таймінгу.",
+      "sources_hint": "Roberts JPhysiol 2015; Fyfe MSSE 2019; Piñero 2024 European Journal of Applied Physiology; Malta Sports Medicine 2021 meta-analysis; Moore 2022 meta-analysis; recent 2025 systematic reviews on cold water immersion and hypertrophy",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Спекулятивний бум навколо «longevity clinics» у Дубаї та Лондоні за $50k/рік: що з цього має докази, а що — маркетинг",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Огляд ринку longevity clinics 2026 (Human Longevity, Fountain Life, Extension Health) і аудит їхніх «протоколів»: full-body MRI (USPSTF проти), Galleri тест (PATHFINDER 2 результати), plasma exchange (Villeda mice 2014 → людські дані слабкі), сенолітики (Justice EBioMedicine 2019 pilot n=14). Чесний список: що з протоколів має докази (сила хвату, VO2max, DEXA, HbA1c, ліпідограма), що — preliminary, що — pure hype.",
+      "sources_hint": "USPSTF 2023 whole body screening; Klein Nature 2023 on Galleri MCED PATHFINDER; Justice EBioMedicine 2019 senolytics pilot; Kirkland J Intern Med 2020 senolytics review; recent 2025 reviews on longevity clinics in Nature Aging",
+      "evidence_level": "preliminary",
+      "priority": 1
+    },
+    {
+      "topic": "Скринінг раку шкіри самостійно за правилом ABCDE: що змінили EADO 2025 гайдлайни для родимок після 40",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Практичний недільний гайд: як робити повний огляд шкіри вдома раз на 3 місяці. Правило ABCDE (asymmetry, border, color, diameter, evolution), нове E-правило про еволюцію, роль dermatoscope-додатків (SkinVision, MoleMapper — доказова база), коли йти до дерматолога. Український контекст: приватна дерматоскопія 500-1500 грн, НСЗУ не покриває скринінг. Крос-лінк на статтю про SPF.",
+      "sources_hint": "EADO 2024-2025 guidelines on melanoma screening; AAD ABCDE rule; Freeman 2020 BMJ systematic review on smartphone dermatoscopy apps; Argenziano 2012 JAAD; USPSTF 2023 skin cancer screening recommendation",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Хайкінг у Карпатах на 2000+ м: як тіло адаптується до висоти і коли починається гірська хвороба",
+      "type": "guide",
+      "category": "fitness",
+      "angle": "Літній гайд для тих, хто планує Говерлу, Піп Іван, або тури в Альпи. Фізіологія акліматизації (Lake Louise criteria), протокол «climb high, sleep low», роль ацетазоламіду за Wilderness Medical Society 2019 і 2024 update. Червоні прапорці HAPE/HACE. Що робити з дітьми: педіатричні особливості (WMS pediatric altitude illness 2024). Практично: Карпати переважно <2100 м = мінімальний ризик, але Ельбрус чи Кіліманджаро — інша історія.",
+      "sources_hint": "Wilderness Medical Society 2024 practice guidelines for acute altitude illness; Luks NEJM 2013 review; Bloch High Alt Med Biol 2024; Kayser 2022 systematic review on acetazolamide; WMS pediatric altitude 2024",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Пробудження без будильника у відпустку: як за 5 днів канікул відновити хронічний sleep debt — дані Sleep Foundation 2025",
+      "type": "lifehack",
+      "category": "sleep",
+      "angle": "Не про соціальний джетлаг у дітей (це вже було 01.08), а про дорослих у літню відпустку. Розбір моделей sleep debt Van Dongen 2003, що показують: після 2 тижнів по 6 год сну потрібно 3-5 ночей вільного сну для відновлення реакцій і >7 днів для повного метаболічного відновлення (Depner 2019 Current Biology). Практика: як спланувати перші дні відпустки, чому не варто «наспатися» одразу до 11 годин, роль ранкового світла на пляжі.",
+      "sources_hint": "Van Dongen Sleep 2003; Depner Current Biology 2019 on recovery sleep; Åkerstedt 2018 J Sleep Res; Sleep Foundation 2025 vacation sleep report; Cohen Science Translational Medicine 2010",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "NAFLD/MASLD у дітей 10-14: що показав педіатричний реєстр 2025 і чому УЗД печінки має бути в диспансеризації підлітків з ІМТ >85 перцентиля",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Прогресія MASLD у дітей — ~10% всіх підлітків, у групах з ожирінням до 34% (Anderson meta-analysis). Свіжі дані NASPGHAN 2024 гайдлайну про ALT-скринінг з 9-11 років, коли ІМТ ≥85 перцентиля. Пояснення відмінності педіатричного і дорослого фенотипу: більше портальне запалення, вища частка NASH. Український контекст: наказ МОЗ про профогляди школярів не включає ALT.",
+      "sources_hint": "NASPGHAN 2024 pediatric NAFLD guidelines; Anderson PLOS One 2015 meta-analysis on pediatric NAFLD prevalence; Vos JPGN 2017; Draijer 2019 Eur J Pediatr; recent 2024-2025 pediatric MASLD studies in Hepatology/JHEP",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "«Соціальне харчування»: чому недільний обід з рідними знижує ризик депресії — дані Harvard Study of Adult Development",
+      "type": "nutrition",
+      "category": "mental-health",
+      "angle": "Не про калорії, а про контекст їжі. Огляд даних про family meals і психічне здоров'я підлітків та дорослих (Fulkerson meta-analysis), плюс дорослі дані з UK Biobank про самотнє харчування і ризик депресії. Український контекст воєнного часу — коли родини розкидані, як компенсувати через відеозв'язок за столом. Недільний ракурс.",
+      "sources_hint": "Fulkerson 2014 J Adolescent Health meta-analysis on family meals; Cheng 2023 BMC Geriatrics on eating alone; Harvard Study of Adult Development (Waldinger 2023 book); JAMA Network Open 2024 on commensality",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Власники собак живуть довше: що показала мета-аналіз AHA 2019 і чому справа не тільки у прогулянках",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Розбір мета-аналізу Kramer 2019 (Circulation Cardiovascular Quality and Outcomes, n=3.8 млн): у власників собак на 24% нижча загальна смертність і на 65% нижча смертність після інфаркту порівняно з невласниками. Шведська когорта Mubanga 2017 (n=3.4 млн) підтверджує ефект, сильніший у самотніх дорослих. Розкладка механізму: додаткові 22 хв/день ходьби (Christian 2013), соціальні контакти на прогулянках, зниження кортизолу (Beetz 2012). Чесно про confounding — здоровіші люди частіше обирають собаку. Український контекст воєнного часу: сплеск усиновлень тварин з притулків, ризики (укуси, зоонози, алергія). Коли собака — не варіант: заміщувальні стратегії (волонтерство у притулку, dog walking apps).",
+      "sources_hint": "Kramer 2019 Circulation Cardiovascular Quality and Outcomes meta-analysis (10 studies, 3.8M participants); Mubanga 2017 Scientific Reports Swedish national cohort; Chowdhury 2017 Scientific Reports; Christian 2013 J Phys Act Health; AHA 2013 scientific statement on pet ownership and CV risk; Beetz 2012 Frontiers in Psychology on oxytocin",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Кремнієві добавки для волосся і нігтів з TikTok: що показує наука про orthosilicic acid і колаген",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Розбір хайпу навколо biotin+silica+collagen стеків. Єдиний більш-менш якісний RCT Wickett 2007 на choline-stabilized orthosilicic acid — індустріальний, малий n. Мета-аналізи по гідролізованому колагену для шкіри (de Miranda 2021) — помірний ефект, але майже все фінансується виробниками. Біотин — дефіцит рідкісний, добавки спотворюють аналізи щитоподібної залози (FDA warning). Ціна vs користь.",
+      "sources_hint": "Wickett Arch Dermatol Res 2007; de Miranda IJD 2021 meta-analysis on collagen; FDA safety communication on biotin interference 2019; Almohanna 2019 Dermatology and Therapy on vitamins and hair loss; Barel Arch Dermatol Res 2005",
+      "evidence_level": "preliminary",
+      "priority": 3
+    }
+  ],
+  "date": "2026-08-02",
+  "created_at": "2026-08-02T03:03:03.282273+00:00"
+}
