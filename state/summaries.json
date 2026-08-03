@@ -5418,5 +5418,21 @@
       "дослідження"
     ],
     "summary": "RECOVER-Adult (Vernon et al., JGIM 2025, n=11 785) показало, що у 4,5% дорослих після COVID розвивається ME/CFS (HR 4,93), а нові випадки виросли приблизно в 15 разів порівняно з допандемічним рівнем. Ключовий симптом — post-exertional malaise (PEM). NICE NG206 (2021) прямо не рекомендує graded exercise therapy (GET) після реаналізу PACE trial (Wilshire, BMC Psychology 2018), який показав, що реальні recovery rates становили лише 3–4% замість заявлених 22%. Systematic review 2025 у Journal of Bodywork and Movement Therapies підтвердив кращий safety profile pacing. Workwell Foundation пропонує домашній орієнтир: пульс нижче RHR+15 bpm. NIH запустила RECOVER-ENERGIZE (NCT06404047) — першу RCT structured pacing, результати ~2027. В Україні окремого протоколу МОЗ для ME/CFS немає (є лише Наказ №771 для post-COVID реабілітації з прогресивним навантаженням) — ризик крашу для PEM-позитивних пацієнтів. Практичний takeaway: відстежувати PEM, знати свій ранковий пульс спокою, орієнтуватися на NICE NG206 і CDC. Рівень доказовості — moderate/consensus."
+  },
+  "ebola-mandrivnyky-drk-uganda-sabin-sudan-vaktsyna-ukraina-2026": {
+    "date": "2026-08-03",
+    "title": "Ебола і Україна: що робити мандрівнику в ДРК або Уганду, коли жодна вакцина не зареєстрована",
+    "type": "guide",
+    "tags": [
+      "ебола",
+      "подорожі",
+      "вакцинація",
+      "інфекційні хвороби",
+      "профілактика",
+      "тропічна медицина",
+      "Африка",
+      "дослідження"
+    ],
+    "summary": "Guide for Ukrainian travelers to DRC/Uganda/Kenya explaining the three-strain Ebola landscape (Zaire/Sudan/Bundibugyo) and vaccine coverage gaps. ERVEBO (Merck, FDA/EMA 2019) protects only against Zaire; Sabin/NIAID cAd3-Sudan completed Phase 2 enrollment March 2026 with >2,800 participants; Oxford ChAdOx-Bundibugyo Phase 1 started 25.07.2026 with first volunteer Ed Hunt. Zaire vs Sudan glycoproteins share only ~55% identity (Marzi et al., PMC), so ERVEBO provides only partial cross-protection. CDC maintains Level 3 travel notice for four DRC provinces. No Ebola vaccine is registered in Ukraine — pre-travel vaccination is available only via employer (MSF/WHO/ICRC/UN) or EU travel-medicine clinics. Practical protocol: check CDC notices before flight, self-monitor 21 days after return, call 103 or regional CPH before visiting a clinic if symptoms emerge. Evidence strength moderate: regulatory data on ERVEBO scope is strong, Sabin Phase 1 published in Lancet Infect Dis 2023, Phase 2/3 and Oxford BDBV data still emerging. Fourth follow-up article in Ebola 2026 series."
   }
 }
