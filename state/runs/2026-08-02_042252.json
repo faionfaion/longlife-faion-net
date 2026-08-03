@@ -1,0 +1,374 @@
+{
+  "timestamp": "2026-08-02_042252",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "fampridin-rozsiyanyi-skleroz-khodba-nhs-2026, cold-plunge-after-strength-training-hypertrophy-meta-2025, longevity-clinics-dubai-london-50k-audit-dokazy-vs-marketyng, hirska-khvoroba-karpaty-hoverla-elbrus-kilimandzharo-wms-2024, vidpustka-son-borh-van-dongen-depner-5-dniv-vidnovlennya",
+  "author": "LongLife Media",
+  "duration_s": 4789.4,
+  "image_generated": false,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 268.4,
+      "error": null
+    },
+    {
+      "name": "research:MS-препарат клесрилімаб «зміню",
+      "status": "ok",
+      "duration_s": 178.0,
+      "error": null
+    },
+    {
+      "name": "generate:MS-препарат клесрилімаб «зміню",
+      "status": "ok",
+      "duration_s": 78.6,
+      "error": null
+    },
+    {
+      "name": "review:MS-препарат клесрилімаб «зміню",
+      "status": "ok",
+      "duration_s": 97.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:MS-препарат клесрилімаб «зміню",
+      "status": "ok",
+      "duration_s": 18.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:MS-препарат клесрилімаб «зміню",
+      "status": "ok",
+      "duration_s": 15.0,
+      "error": null
+    },
+    {
+      "name": "save:MS-препарат клесрилімаб «зміню",
+      "status": "ok",
+      "duration_s": 17.7,
+      "error": null
+    },
+    {
+      "name": "research:Холодна ванна після силового т",
+      "status": "ok",
+      "duration_s": 188.7,
+      "error": null
+    },
+    {
+      "name": "generate:Холодна ванна після силового т",
+      "status": "ok",
+      "duration_s": 64.5,
+      "error": null
+    },
+    {
+      "name": "review:Холодна ванна після силового т",
+      "status": "ok",
+      "duration_s": 93.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Холодна ванна після силового т",
+      "status": "ok",
+      "duration_s": 18.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Холодна ванна після силового т",
+      "status": "ok",
+      "duration_s": 12.7,
+      "error": null
+    },
+    {
+      "name": "save:Холодна ванна після силового т",
+      "status": "ok",
+      "duration_s": 15.8,
+      "error": null
+    },
+    {
+      "name": "research:Спекулятивний бум навколо «lon",
+      "status": "ok",
+      "duration_s": 226.3,
+      "error": null
+    },
+    {
+      "name": "generate:Спекулятивний бум навколо «lon",
+      "status": "ok",
+      "duration_s": 79.4,
+      "error": null
+    },
+    {
+      "name": "review:Спекулятивний бум навколо «lon",
+      "status": "ok",
+      "duration_s": 145.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Спекулятивний бум навколо «lon",
+      "status": "ok",
+      "duration_s": 23.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Спекулятивний бум навколо «lon",
+      "status": "ok",
+      "duration_s": 9.9,
+      "error": null
+    },
+    {
+      "name": "save:Спекулятивний бум навколо «lon",
+      "status": "ok",
+      "duration_s": 16.2,
+      "error": null
+    },
+    {
+      "name": "research:Скринінг раку шкіри самостійно",
+      "status": "ok",
+      "duration_s": 195.5,
+      "error": null
+    },
+    {
+      "name": "generate:Скринінг раку шкіри самостійно",
+      "status": "ok",
+      "duration_s": 129.5,
+      "error": null
+    },
+    {
+      "name": "review:Скринінг раку шкіри самостійно",
+      "status": "failed",
+      "duration_s": 35.2,
+      "error": "[structured_query] All JSON repair attempts failed (2071 chars)"
+    },
+    {
+      "name": "research:Хайкінг у Карпатах на 2000+ м:",
+      "status": "ok",
+      "duration_s": 256.9,
+      "error": null
+    },
+    {
+      "name": "generate:Хайкінг у Карпатах на 2000+ м:",
+      "status": "ok",
+      "duration_s": 131.5,
+      "error": null
+    },
+    {
+      "name": "review:Хайкінг у Карпатах на 2000+ м:",
+      "status": "ok",
+      "duration_s": 176.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Хайкінг у Карпатах на 2000+ м:",
+      "status": "ok",
+      "duration_s": 20.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Хайкінг у Карпатах на 2000+ м:",
+      "status": "ok",
+      "duration_s": 8.2,
+      "error": null
+    },
+    {
+      "name": "save:Хайкінг у Карпатах на 2000+ м:",
+      "status": "ok",
+      "duration_s": 19.8,
+      "error": null
+    },
+    {
+      "name": "research:Пробудження без будильника у в",
+      "status": "ok",
+      "duration_s": 240.2,
+      "error": null
+    },
+    {
+      "name": "generate:Пробудження без будильника у в",
+      "status": "ok",
+      "duration_s": 62.3,
+      "error": null
+    },
+    {
+      "name": "review:Пробудження без будильника у в",
+      "status": "ok",
+      "duration_s": 147.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Пробудження без будильника у в",
+      "status": "ok",
+      "duration_s": 19.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Пробудження без будильника у в",
+      "status": "ok",
+      "duration_s": 9.9,
+      "error": null
+    },
+    {
+      "name": "save:Пробудження без будильника у в",
+      "status": "ok",
+      "duration_s": 16.3,
+      "error": null
+    },
+    {
+      "name": "research:NAFLD/MASLD у дітей 10-14: що ",
+      "status": "ok",
+      "duration_s": 260.2,
+      "error": null
+    },
+    {
+      "name": "generate:NAFLD/MASLD у дітей 10-14: що ",
+      "status": "ok",
+      "duration_s": 90.6,
+      "error": null
+    },
+    {
+      "name": "review:NAFLD/MASLD у дітей 10-14: що ",
+      "status": "ok",
+      "duration_s": 101.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:NAFLD/MASLD у дітей 10-14: що ",
+      "status": "ok",
+      "duration_s": 19.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:NAFLD/MASLD у дітей 10-14: що ",
+      "status": "ok",
+      "duration_s": 10.8,
+      "error": null
+    },
+    {
+      "name": "save:NAFLD/MASLD у дітей 10-14: що ",
+      "status": "ok",
+      "duration_s": 18.4,
+      "error": null
+    },
+    {
+      "name": "research:«Соціальне харчування»: чому н",
+      "status": "ok",
+      "duration_s": 217.1,
+      "error": null
+    },
+    {
+      "name": "generate:«Соціальне харчування»: чому н",
+      "status": "ok",
+      "duration_s": 74.3,
+      "error": null
+    },
+    {
+      "name": "review:«Соціальне харчування»: чому н",
+      "status": "ok",
+      "duration_s": 101.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:«Соціальне харчування»: чому н",
+      "status": "ok",
+      "duration_s": 19.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:«Соціальне харчування»: чому н",
+      "status": "ok",
+      "duration_s": 7.9,
+      "error": null
+    },
+    {
+      "name": "save:«Соціальне харчування»: чому н",
+      "status": "ok",
+      "duration_s": 16.3,
+      "error": null
+    },
+    {
+      "name": "research:Власники собак живуть довше: щ",
+      "status": "ok",
+      "duration_s": 177.6,
+      "error": null
+    },
+    {
+      "name": "generate:Власники собак живуть довше: щ",
+      "status": "ok",
+      "duration_s": 77.7,
+      "error": null
+    },
+    {
+      "name": "review:Власники собак живуть довше: щ",
+      "status": "ok",
+      "duration_s": 122.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Власники собак живуть довше: щ",
+      "status": "ok",
+      "duration_s": 17.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Власники собак живуть довше: щ",
+      "status": "ok",
+      "duration_s": 10.1,
+      "error": null
+    },
+    {
+      "name": "save:Власники собак живуть довше: щ",
+      "status": "ok",
+      "duration_s": 18.3,
+      "error": null
+    },
+    {
+      "name": "research:Кремнієві добавки для волосся ",
+      "status": "ok",
+      "duration_s": 162.3,
+      "error": null
+    },
+    {
+      "name": "generate:Кремнієві добавки для волосся ",
+      "status": "ok",
+      "duration_s": 74.0,
+      "error": null
+    },
+    {
+      "name": "review:Кремнієві добавки для волосся ",
+      "status": "ok",
+      "duration_s": 108.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Кремнієві добавки для волосся ",
+      "status": "ok",
+      "duration_s": 19.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Кремнієві добавки для волосся ",
+      "status": "ok",
+      "duration_s": 8.0,
+      "error": null
+    },
+    {
+      "name": "save:Кремнієві добавки для волосся ",
+      "status": "ok",
+      "duration_s": 18.0,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.2,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "articles": [
+    {
+      "topic": "Пост-вірусний синдром хронічної втоми: що показало RECOVER-Adult 2026 і чому pacing лишається основою терапії",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Нові дані NIH RECOVER 2026 про Long COVID/ME-CFS, оновлення NICE NG206 щодо GET (не рекомендовано) і graded pacing як safest first-line. Український контекст: відсутність офіційних протоколів МОЗ для ME/CFS.",
+      "sources_hint": "NIH RECOVER-Adult 2026 trial results; NICE NG206 2021 update; Cochrane 2024 exercise for CFS retraction context; PACE trial reanalysis; Workwell Foundation pacing guidelines",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Ебола-моніторинг у Лондоні: чому європейські країни готуються до завозних випадків і що це означає для українських мандрівників в Африку",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Розбір ризику завозної Еболи у зв'язку зі свіжою новиною BBC про моніторинг у Лондоні. Новий Sabin/NIAID вакцина-кандидат, відмінності Zaire vs Sudan штамів, ERVEBO для контактних осіб, CDC-рекомендації для мандрівників у ДРК/Уганду. Український контекст — вакцина не зареєстрована.",
+      "sources_hint": "WHO Ebola outbreak updates 2026; CDC Yellow Book 2026 Ebola chapter; ERVEBO EMA/FDA labels; Lancet Infectious Diseases 2025–2026 Sabin monovalent Sudan vaccine trials",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Понеділковий ранок і рівень глюкози: чому cortisol awakening response пікує після вихідних і що це означає для першого сніданку тижня",
+      "type": "research",
+      "category": "research",
+      "angle": "Понеділковий cortisol carryover ефект + dawn phenomenon: як спланувати перший прийом їжі, щоб уникнути глюкозного піку після вихідних із порушеним ритмом. Cross-link на статті про Monday STEMI (27.07) і CAR (29.07). Фокус на білково-жировому сніданку до 9:00, а не на загальному режимі джетлагу.",
+      "sources_hint": "Devereux 2011 Monday cortisol; Van Cauter 1997 dawn phenomenon; Jakubowicz 2013 big breakfast; Chronobiology International 2024–2025 meta-analyses on breakfast timing and glycemia",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "HIIT для профілактики деменції: RCT Blackmore 2023 і чому 6 хвилин VO2max можуть підняти BDNF сильніше за 30 хвилин Zone 2",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Розбір Blackmore et al. 2023 (J Physiology, single 6-min HIIT bout ↑ BDNF в 5× сильніше за помірне 90-хв кардіо), контраст із матеріалом від 27.07 про 30-хв кардіо і BDNF. Обмеження: гострі ефекти ≠ хронічні; вік ≥60 і безпека.",
+      "sources_hint": "Blackmore 2023 Journal of Physiology HIIT and BDNF; Etnier 2016 acute exercise BDNF meta-analysis; SMART trial 2025 exercise for cognitive impairment; FINGER trial; Norton 2014 Lancet Neurology dementia PAF",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Ізометричні вправи для передпліч і сили хвату: чому динамометр за 500 грн показує ризик смертності краще за BMI",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Практичний протокол тренування сили хвату (farmer's carry, dead hangs, plate pinches) як proxy для longevity. Grip strength як біомаркер (Bohannon 2015, PURE study), недорогий hand dynamometer як домашній тест. Не дублює статтю про креатин у жінок.",
+      "sources_hint": "Leong 2015 PURE grip strength Lancet; Bohannon 2015 grip strength mortality; Rantanen 1999 muscle strength; McGrath 2018 handgrip and cognition; Journal of Strength and Conditioning Research 2024–2025 loaded carries protocols",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Психобіотики і CBT-I для інсомнії: чи додає Bifidobacterium longum 1714 щось до поведінкової терапії — RCT 2026",
+      "type": "guide",
+      "category": "mental-health",
+      "angle": "Свіжі 2025–2026 RCT на штам-специфічних психобіотиках для інсомнії; чому мета-аналізи показують малі ефекти і чому CBT-I лишається gold standard. Продовження статті від 27.07 про JB-1, з новим фокусом саме на сон (не тривогу).",
+      "sources_hint": "Allen 2016 Bifidobacterium longum 1714; Marotta 2019 Lactobacillus/Bifidobacterium for sleep quality; Nakakita 2016 Lactobacillus gasseri stress; PLOS One 2025 probiotics for insomnia meta-analysis; AASM 2021 CBT-I guideline",
+      "evidence_level": "preliminary",
+      "priority": 2
+    },
+    {
+      "topic": "Синдром вигорання у медиків прифронтових областей: що показала когорта 2025 і які інтервенції мають найкращі докази",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Український контекст — військове вигорання серед медпрацівників. West 2016 Lancet мета-аналіз організаційних vs індивідуальних інтервенцій, дані по українських лікарях 2024–2025, роль Mindfulness-Based Stress Reduction і Schwartz Rounds. Cross-link на CAR-статтю від 29.07.",
+      "sources_hint": "West 2016 Lancet burnout interventions meta-analysis; Panagioti 2017 JAMA IM burnout meta-analysis; Ukrainian medical journal 2024–2025 wartime burnout studies; Maslach Burnout Inventory validation; NICE workplace mental health 2022",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Хром піколінат для контролю апетиту: що показав мета-аналіз 2025 і чому ефект зникає без калорійного дефіциту",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Розбір популярної добавки хрому піколінату для тяги до солодкого і контролю ваги. Cefalu 2013 (нуль ефекту на HbA1c), Tian 2013 Cochrane, свіжі 2024–2025 мета-аналізи. Підкреслити відмінність від жувальних GLP-1-міметиків.",
+      "sources_hint": "Tian 2013 Cochrane chromium; Cefalu 2013 Diabetes Care; Suksomboon 2014 meta-analysis; Piotrowska 2023 Nutrients chromium picolinate; NIH ODS chromium fact sheet 2024",
+      "evidence_level": "moderate",
+      "priority": 3
+    },
+    {
+      "topic": "Пробіотики після антибіотиків: чи справді Saccharomyces boulardii запобігає C. difficile — мета-аналіз Cochrane 2024",
+      "type": "guide",
+      "category": "nutrition",
+      "angle": "Практичний гайд, коли пити пробіотики під час/після курсу антибіотиків. Cochrane 2017/оновлення 2024 про AAD, штам-специфічність (S. boulardii, L. rhamnosus GG), контраст з ізраїльським дослідженням Suez 2018 (Cell) про затримку відновлення мікробіому. Український контекст — доступні бренди (Ентерол, Лінекс, Йогурт+).",
+      "sources_hint": "Cochrane 2017 Goldenberg probiotics for AAD; Suez 2018 Cell post-antibiotic reconstitution; McFarland 2015 S. boulardii meta-analysis; ACG 2021 C. difficile guideline; AGA 2020 probiotics guideline",
+      "evidence_level": "moderate",
+      "priority": 3
+    }
+  ],
+  "date": "2026-08-03",
+  "created_at": "2026-08-03T03:03:03.892264+00:00"
+}
