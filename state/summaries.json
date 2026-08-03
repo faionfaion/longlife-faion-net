@@ -5468,5 +5468,21 @@
       "профілактика"
     ],
     "summary": "Дослідження Gibbons et al. 2023 (J Physiology, n=12, перехресний дизайн) показало, що одна 6-хвилинна HIIT-сесія піднімає сироватковий BDNF у 4–5 разів сильніше за 90 хвилин легкого кардіо (з 396 до 1170 пг/л проти 336→390). Ймовірний механізм — лактатне паливо для мозку. Обмеження серйозні: мала вибірка, вік 18–56, гострий ефект, значна частина BDNF походить із тромбоцитів (зростання ~20%). Хронічної користі для профілактики деменції у 60+ це не доводить: EXERT trial 2025 (n=296, 18 місяців) не знайшов різниці між аеробікою і розтяжкою при MCI, а Marinus 2019 показав, що аеробіка сама по собі не піднімає resting BDNF у літніх. Практичний висновок: додати короткі HIIT-вставки до звичного помірного кардіо, поєднати з силовими, після 60 — медичний скринінг обов'язковий. Стаття продовжує лінію матеріалу від 27.07 про 30-хв кардіо і BDNF. Рівень доказів — preliminary."
+  },
+  "dynamometr-syla-hvatu-farmer-carry-dead-hang-protokol-2026": {
+    "date": "2026-08-03",
+    "title": "Динамометр за 500 грн: як домашній тест сили хвату прогнозує ризик смертності краще, ніж BMI",
+    "type": "fitness",
+    "tags": [
+      "сила хвату",
+      "динамометр",
+      "фітнес",
+      "довголіття",
+      "farmer's carry",
+      "dead hang",
+      "ізометрія",
+      "біомаркери"
+    ],
+    "summary": "Article covers why grip strength measured by a cheap home dynamometer (Camry EH101, ~500 UAH) predicts mortality better than BMI, based on PURE (Leong 2015, The Lancet) showing HR 1.16 per 5 kg drop and outperforming systolic BP as a predictor. Includes 25-year Honolulu Heart data (Rantanen 1999) showing 2.87× disability odds. Practical 12-week protocol from 2025 Bayesian meta-analysis (Frontiers Physiol): 3×/week, ~49% 1RM, 6 sets × 16 reps, expected +7–8 kg gain. Three exercises detailed: farmer's carry (with 2024 EMG data on core activation), dead hang (repeaters vs max holds), plate pinch. Cross-references previous grip-strength article. Evidence level: strong for observational associations, moderate for exact training protocol. Balanced framing includes C-index nuance and U-shaped limitation."
   }
 }

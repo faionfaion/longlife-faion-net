@@ -37733,3 +37733,92 @@ ModuleNotFoundError: No module named 'opentelemetry'
 03:37:16 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
 03:37:16 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
 03:37:16 [pipeline.stages.s7_save] INFO: Article saved: /home/faion/longlife-faion-net/content/hiit-6-min-bdnf-gibbons-2023-vs-30-min-kardio-dementsiya.md
+03:37:17 [pipeline] INFO: Article ready: hiit-6-min-bdnf-gibbons-2023-vs-30-min-kardio-dementsiya (6 хвилин HIIT vs 90 хвилин кардіо: що показало дос)
+03:37:17 [pipeline] INFO: === Article 5/9 ===
+03:37:17 [pipeline] INFO: --- Article: [fitness] Ізометричні вправи для передпліч і сили хвату: чому динамоме ---
+03:37:17 [asyncio] DEBUG: Using selector: EpollSelector
+03:37:17 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:37:17 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:40:37 [pipeline.stages.s2_research] INFO: Research complete: 16003 chars
+03:40:37 [asyncio] DEBUG: Using selector: EpollSelector
+03:40:37 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:40:38 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:41:49 [pipeline.stages.s3_generate] INFO: Generated: 'Динамометр за 500 грн: як домашній тест сили хвату передбачає ризик смертності точніше за ваги' (slug=dynamometr-syla-hvatu-farmer-carry-dead-hang-protokol-2026, 574 words, 10 sources)
+03:41:49 [asyncio] DEBUG: Using selector: EpollSelector
+03:41:49 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:41:49 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:42:24 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+03:42:24 [pipeline.stages.s4_review] INFO: Feedback: Стаття науково обґрунтована, з коректним цитуванням джерел (PURE, Honolulu Heart Program, валідація Camry, мета-аналіз 2025), включає розділ обмежень і медичний дисклеймер. Незначні зауваження для пок
+03:42:24 [asyncio] DEBUG: Using selector: EpollSelector
+03:42:24 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:42:24 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:43:30 [pipeline.stages.s5_revise] INFO: Revised article: 767 words
+03:43:30 [pipeline] INFO: === Review cycle 1/3 complete ===
+03:43:30 [asyncio] DEBUG: Using selector: EpollSelector
+03:43:30 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:43:30 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:43:42 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+03:43:42 [pipeline.stages.s4_review] INFO: Feedback: Strong, evidence-based article with well-cited claims, clear explanation of technical terms (BMI, MVIC, C-index, RCT), transparent handling of the non-peer-reviewed ResearchGate preprint, and appropri
+03:43:42 [pipeline] INFO: Article approved after 1 revision(s)
+03:43:42 [asyncio] DEBUG: Using selector: EpollSelector
+03:43:42 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:43:42 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:44:00 [pipeline.stages.s_comic_scene] INFO: Comic scene: MEDIUM shot: Vita Zelenko stands in a bright home living roo | pose=MEDIUM shot, waist-up, environment visible. Vita stands facing three-quarters toward camera, right elbow bent at ninety degrees close to her ribs, right hand firmly squeezing the dynamometer's grip — one clear active hand, left arm relaxed at side. Feet planted, shoulders squared, core engaged. | expression=Determined training face — focused green eyes fixed on the device, brows slightly drawn together, jaw lightly clenched with a hint of an encouraging half-smile at the corner of her mouth. | props=chrome-and-green handheld grip dynamometer being squeezed in her right hand, a second, differently shaped hand dynamometer resting on the wooden side table, a glass bottle of green smoothie on the table
+03:44:00 [asyncio] DEBUG: Using selector: EpollSelector
+03:44:00 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:44:00 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:44:08 [pipeline.stages.s6_generate_tg] INFO: TG caption: 591 chars
+03:44:08 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=dynamometr-syla-hvatu-farmer-carry-dead-hang-protokol-2026
+03:44:08 [asyncio] DEBUG: Using selector: EpollSelector
+03:44:08 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:44:08 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:44:33 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Merged the split-hand pose (one hand squeezing, one hanging) into a single unified two-handed squeez
+03:44:33 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+03:44:33 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:44:33 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+03:44:33 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+03:44:34 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 1 failed to produce image
+03:44:34 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 2/3 (quality=high)
+03:44:34 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:44:34 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+03:44:34 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+03:44:34 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 2 failed to produce image
+03:44:34 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 3/3 (quality=high)
+03:44:34 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:44:34 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+03:44:34 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+03:44:34 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
+03:44:34 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
+03:44:34 [pipeline.stages.s7_save] INFO: Article saved: /home/faion/longlife-faion-net/content/dynamometr-syla-hvatu-farmer-carry-dead-hang-protokol-2026.md
