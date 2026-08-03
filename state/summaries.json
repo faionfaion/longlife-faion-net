@@ -5535,5 +5535,23 @@
       "калорійний дефіцит"
     ],
     "summary": "Свіжий мета-аналіз Vajdi 2024 (14 РКД, пацієнти з діабетом 2 типу) не виявив значущого впливу хрому піколінату на вагу, ІМТ і об'єм талії. Кокранівський огляд 2013 показував лише −1,1 кг при низькій якості доказів. Класичний РКД Anton 2008 продемонстрував падіння споживання їжі на 25%, але втрату ваги лише 0,5 кг — ефект зникає без калорійного дефіциту. ADA 2025 не рекомендує хром для контролю глікемії. Хром піколінат ≠ GLP-1-міметики (семаглутид дає 10–15% втрати ваги). Практичний висновок: не купувати «GLP-1 гумки» з iHerb без читання складу, залишатися в межах 250 мкг/добу за EFSA. Сила доказів: помірна (переважно нульові або клінічно незначущі результати)."
+  },
+  "probiotyky-antybiotyky-saccharomyces-boulardii-cochrane-2025-protokol": {
+    "date": "2026-08-03",
+    "title": "Пробіотики під час антибіотиків: коли Ентерол справді працює за даними Cochrane 2025",
+    "type": "guide",
+    "tags": [
+      "пробіотики",
+      "антибіотики",
+      "мікробіом",
+      "S. boulardii",
+      "Ентерол",
+      "C. difficile",
+      "Cochrane",
+      "травлення",
+      "доказова медицина",
+      "здоровя кишківника"
+    ],
+    "summary": "Cochrane update 2025 (47 RCTs, 15 260 participants) shows probiotics reduce C. difficile-associated diarrhea from 4.0% to 1.5% (RR 0.50), but absolute risk reduction is only 1.6% (NNT=65) and benefit concentrates in patients with baseline CDI risk >5% (elderly, hospitalized, broad-spectrum antibiotics). Strongest strain-specific evidence: S. boulardii CNCM I-745 (Ентерол) and L. rhamnosus GG. AGA 2020 conditionally recommends probiotics for CDI prevention; ACG 2021 recommends against — same evidence, opposite conclusions. Suez 2018 (Cell) showed probiotics may delay microbiome recovery post-antibiotics for up to 5 months, though this doesn't disprove short-term AAD prevention. EMA contraindicates S. boulardii for ICU/immunocompromised patients due to fungemia risk. Practical protocol: start within 24-48h, space 2-3h from antibiotic, continue 1-2 weeks after course, verify strain code on label."
   }
 }
