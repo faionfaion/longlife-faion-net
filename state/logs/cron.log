@@ -37822,3 +37822,92 @@ ModuleNotFoundError: No module named 'opentelemetry'
 03:44:34 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
 03:44:34 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
 03:44:34 [pipeline.stages.s7_save] INFO: Article saved: /home/faion/longlife-faion-net/content/dynamometr-syla-hvatu-farmer-carry-dead-hang-protokol-2026.md
+03:44:34 [pipeline] INFO: Article ready: dynamometr-syla-hvatu-farmer-carry-dead-hang-protokol-2026 (Динамометр за 500 грн: як домашній тест сили хвату)
+03:44:34 [pipeline] INFO: === Article 6/9 ===
+03:44:34 [pipeline] INFO: --- Article: [guide] Психобіотики і CBT-I для інсомнії: чи додає Bifidobacterium  ---
+03:44:34 [asyncio] DEBUG: Using selector: EpollSelector
+03:44:34 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:44:35 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:49:05 [pipeline.stages.s2_research] INFO: Research complete: 18434 chars
+03:49:05 [asyncio] DEBUG: Using selector: EpollSelector
+03:49:05 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:49:05 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:50:58 [pipeline.stages.s3_generate] INFO: Generated: 'Психобіотики для сну і CBT-I: чи додає Bifidobacterium longum 1714 щось до поведінкової терапії' (slug=psychobiotyky-bifidobacterium-longum-1714-cbt-i-insomniya-rct-2026, 1027 words, 9 sources)
+03:50:58 [asyncio] DEBUG: Using selector: EpollSelector
+03:50:58 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:50:58 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:51:19 [pipeline.stages.s4_review] INFO: Review: score=7, approved=False
+03:51:19 [pipeline.stages.s4_review] INFO: Feedback: Strong scientific content with well-cited sources, honest presentation of null results (Patterson 2024), and appropriate emphasis on CBT-I as first-line treatment. However, revisions needed before app
+03:51:19 [asyncio] DEBUG: Using selector: EpollSelector
+03:51:19 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:51:20 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:52:52 [pipeline.stages.s5_revise] INFO: Revised article: 1138 words
+03:52:52 [pipeline] INFO: === Review cycle 1/3 complete ===
+03:52:52 [asyncio] DEBUG: Using selector: EpollSelector
+03:52:52 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:52:52 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:53:07 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+03:53:07 [pipeline.stages.s4_review] INFO: Feedback: Strong, evidence-based article with excellent scientific rigor. Clearly communicates the gap between marketing hype and actual RCT evidence for psychobiotics in sleep. Correctly positions CBT-I as fir
+03:53:07 [pipeline] INFO: Article approved after 1 revision(s)
+03:53:07 [asyncio] DEBUG: Using selector: EpollSelector
+03:53:07 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:53:07 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:53:27 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita is winding down for the night in her softly lit bedroom | pose=MEDIUM shot, waist-up plus part of the bed visible; Vita seated on the edge of the bed with a straight relaxed spine, both hands together carefully holding and tilting a small ceramic teapot to pour into a mug on the nightstand — one clear two-handed action, no pointing, no split gesture. | expression=Soft, calm encouraging look — eyes gently lowered toward the mug, subtle serene smile, relaxed brows, conveying a quiet unhurried bedtime ritual. | props=small unglazed ceramic teapot (no labels), matching ceramic mug on wooden nightstand, small potted lavender sprig on the windowsill
+03:53:27 [asyncio] DEBUG: Using selector: EpollSelector
+03:53:27 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:53:28 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:53:39 [pipeline.stages.s6_generate_tg] INFO: TG caption: 683 chars
+03:53:39 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=psychobiotyky-bifidobacterium-longum-1714-cbt-i-insomniya-rct-2026
+03:53:39 [asyncio] DEBUG: Using selector: EpollSelector
+03:53:39 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:53:39 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:53:53 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Reordered to subject-action-environment-lighting-style, added explicit positive anatomy counts, unif
+03:53:53 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+03:53:53 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:53:53 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+03:53:53 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+03:53:53 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 1 failed to produce image
+03:53:53 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 2/3 (quality=high)
+03:53:53 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:53:54 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+03:53:54 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+03:53:54 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 2 failed to produce image
+03:53:54 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 3/3 (quality=high)
+03:53:54 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:53:54 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+03:53:54 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+03:53:54 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
+03:53:54 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
+03:53:54 [pipeline.stages.s7_save] INFO: Article saved: /home/faion/longlife-faion-net/content/psychobiotyky-bifidobacterium-longum-1714-cbt-i-insomniya-rct-2026.md
