@@ -39341,3 +39341,92 @@ ModuleNotFoundError: No module named 'opentelemetry'
 04:14:58 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
 04:14:58 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
 04:14:58 [pipeline.stages.s7_save] INFO: Article saved: /home/faion/longlife-faion-net/content/nosove-dykhannia-bih-nasal-breathing-rct-2025-vs-mouth.md
+04:14:59 [pipeline] INFO: Article ready: nosove-dykhannia-bih-nasal-breathing-rct-2025-vs-mouth (Дихання через ніс під час бігу: що показав RCT 202)
+04:14:59 [pipeline] INFO: === Article 9/10 ===
+04:14:59 [pipeline] INFO: --- Article: [lifehack] Читання перед сном vs Kindle vs паперова книга: що показала  ---
+04:14:59 [asyncio] DEBUG: Using selector: EpollSelector
+04:14:59 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:14:59 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:18:42 [pipeline.stages.s2_research] INFO: Research complete: 12813 chars
+04:18:42 [asyncio] DEBUG: Using selector: EpollSelector
+04:18:42 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:18:42 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:19:34 [pipeline.stages.s3_generate] INFO: Generated: 'Паперова книга, Kindle чи iPad перед сном: що показала лабораторія Chang і оновлені дані 2024' (slug=chytannya-pered-snom-paper-kindle-ipad-chang-2015-nsf-2024, 321 words, 7 sources)
+04:19:34 [asyncio] DEBUG: Using selector: EpollSelector
+04:19:34 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:19:35 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:19:50 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+04:19:50 [pipeline.stages.s4_review] INFO: Feedback: Solid, evidence-based piece with balanced messaging. Strengths: cites primary sources (PNAS 2015, Grønli 2016, NSF 2024, Finucane 2022, Cajochen 2022) with URLs; explicitly flags Chang study limitatio
+04:19:50 [asyncio] DEBUG: Using selector: EpollSelector
+04:19:50 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:19:50 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:20:30 [pipeline.stages.s5_revise] INFO: Revised article: 432 words
+04:20:30 [pipeline] INFO: === Review cycle 1/3 complete ===
+04:20:30 [asyncio] DEBUG: Using selector: EpollSelector
+04:20:30 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:20:30 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:20:46 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+04:20:46 [pipeline.stages.s4_review] INFO: Feedback: Strong, well-sourced article. Chang 2015 findings are accurately reported (melatonin suppression ~55%, DLMO shift ~1.5h, n=12 crossover). Nuance added via Grønli 2016 and Chinoy 2018 replications is e
+04:20:46 [pipeline] INFO: Article approved after 1 revision(s)
+04:20:46 [asyncio] DEBUG: Using selector: EpollSelector
+04:20:46 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:20:46 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:21:08 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita is curled up in a cozy bedroom late at night, sitting c | pose=MEDIUM shot, Vita sitting cross-legged on the bed, slightly turned toward the viewer, both hands holding the open paperback book at chest height, shoulders relaxed, head tilted gently down toward the pages. Tall athletic build, long wavy blonde hair parted on the left falling loosely over her right shoulder, small green leaf tattoo visible on her right shoulder, black fitness smartwatch with green accents on her left wrist. She is wearing a matching sage-green soft cotton sleep set (tank and shorts), barefoot. | expression=Calm, sleepy-content look — bright green eyes softened and half-lowered toward the book, a gentle relaxed smile, high cheekbones catching the warm lamplight. | props=worn paperback book with plain cloth-textured cover held open in both hands, glowing tablet lying face-up on the nightstand emitting cold blue light, dark powered-off e-reader resting flat beside the tablet, small warm bedside lamp with a linen shade
+04:21:08 [asyncio] DEBUG: Using selector: EpollSelector
+04:21:08 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:21:08 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:21:18 [pipeline.stages.s6_generate_tg] INFO: TG caption: 649 chars
+04:21:18 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=chytannya-pered-snom-paper-kindle-ipad-chang-2015-nsf-2024
+04:21:18 [asyncio] DEBUG: Using selector: EpollSelector
+04:21:18 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:21:19 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:21:35 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Added explicit anatomy counts, unified both hands into one symmetric book-holding action to prevent 
+04:21:35 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+04:21:35 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:21:35 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+04:21:35 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+04:21:35 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 1 failed to produce image
+04:21:35 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 2/3 (quality=high)
+04:21:35 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:21:35 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+04:21:35 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+04:21:35 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 2 failed to produce image
+04:21:35 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 3/3 (quality=high)
+04:21:35 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:21:35 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+04:21:35 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+04:21:35 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
+04:21:35 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
+04:21:35 [pipeline.stages.s7_save] INFO: Article saved: /home/faion/longlife-faion-net/content/chytannya-pered-snom-paper-kindle-ipad-chang-2015-nsf-2024.md
