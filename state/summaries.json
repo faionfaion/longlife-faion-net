@@ -5697,5 +5697,21 @@
       "вечірній ритуал"
     ],
     "summary": "Lifehack article comparing three reading formats before sleep — paper book, e-ink Kindle, and LCD iPad. Chang 2015 PNAS trial (n=12, 4h iPad) showed 55% melatonin suppression and 1.5h DLMO delay, but Grønli 2016 replication with realistic 30-min dose found no macrostructure sleep changes. Finucane 2022 RCT (n=991) confirmed 15–30 min of in-bed reading improves sleep quality (+14% absolute). NSF 2024 consensus (574 papers) identifies three pathways: screen light, arousing content, time displacement. E-ink Kindle sits between paper and LCD by optics but lacks direct RCT evidence. Practical rules: 2700K warm lamp ≤50 lux, Kindle warm-tone/dim, iPad stop 1h before bed, fiction over non-fiction. Evidence: moderate. Cross-references blue-light-glasses and evening-routine articles."
+  },
+  "magnii-glitsynat-son-defitsyt-rawji-2024-abbasi-2012": {
+    "date": "2026-08-04",
+    "title": "Магній гліцинат перед сном: чому огляд Cureus 2024 показав ефект лише при дефіциті",
+    "type": "nutrition",
+    "tags": [
+      "магній",
+      "сон",
+      "безсоння",
+      "гліцинат",
+      "дефіцит магнію",
+      "добавки",
+      "дослідження",
+      "нутрієнти"
+    ],
+    "summary": "Систематичний огляд Rawji 2024 у Cureus (15 досліджень, 8 про сон) показав: магній покращує сон переважно у людей із низьким магнієвим статусом на старті. Класичне RCT Abbasi 2012 з позитивними результатами відбирало саме дефіцитних учасників (сироватковий Mg <0.95 ммоль/л + дієта <75% RDA), причому у формі оксиду 500 мг, а не гліцинату. Свіже RCT Schuster 2025 (Nature and Science of Sleep) з 250 мг бісгліцинату показало граничну значущість p=0.049 і малий ефект (d≈0.2), не міряючи baseline магній. За Costello 2017 сироватковий магній 0.75–0.85 ммоль/л — «сіра зона» субклінічного дефіциту. Практично: перевірити раціон (RDA 310–420 мг), здати аналіз при симптомах, врахувати взаємодії з ІПП і тіазидами. Evidence level: moderate — сигнал є, але прив'язаний до дефіциту."
   }
 }
