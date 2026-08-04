@@ -5553,5 +5553,20 @@
       "здоровя кишківника"
     ],
     "summary": "Cochrane update 2025 (47 RCTs, 15 260 participants) shows probiotics reduce C. difficile-associated diarrhea from 4.0% to 1.5% (RR 0.50), but absolute risk reduction is only 1.6% (NNT=65) and benefit concentrates in patients with baseline CDI risk >5% (elderly, hospitalized, broad-spectrum antibiotics). Strongest strain-specific evidence: S. boulardii CNCM I-745 (Ентерол) and L. rhamnosus GG. AGA 2020 conditionally recommends probiotics for CDI prevention; ACG 2021 recommends against — same evidence, opposite conclusions. Suez 2018 (Cell) showed probiotics may delay microbiome recovery post-antibiotics for up to 5 months, though this doesn't disprove short-term AAD prevention. EMA contraindicates S. boulardii for ICU/immunocompromised patients due to fungemia risk. Practical protocol: start within 24-48h, space 2-3h from antibiotic, continue 1-2 weeks after course, verify strain code on label."
+  },
+  "tyzhneva-norma-krokiv-60-plus-plato-8000-paluch-lancet": {
+    "date": "2026-08-04",
+    "title": "Тижнева норма кроків після 60: чому плато настає на 6000–8000, а не на 10 000",
+    "type": "research",
+    "tags": [
+      "кроки",
+      "довголіття",
+      "фітнес після 60",
+      "смертність",
+      "мета-аналіз",
+      "прогулянки",
+      "здоровя літніх"
+    ],
+    "summary": "Стаття розбирає дозозалежні мета-аналізи кроків і смертності з фокусом на вікову групу 60+. Головна теза: свіжий Ding 2025 (Lancet Public Health, не JAMA IM) показує плато на ~7000 кроках для дорослих загалом, але без вікової стратифікації. Дані по 60+ походять з Paluch 2022 (Lancet Public Health, n=47 471): плато на 6000–8000 кроках, тоді як у молодших — 8000–10 000. Підтверджено Lee 2019 (JAMA IM, жінки 62+, плато ~7500). Контрточки: Banach 2023 не бачить стелі, Del Pozo Cruz 2022 наголошує на каденції. Практичний висновок для 60+: тижневий об'єм 42–56 тисяч кроків замість щоденних 10 000. Обмеження: усі дані спостережні, зворотна причинність. Стаття прямо посилається на попередній матеріал про 7000 кроків як продовження. Сила доказів: strong."
   }
 }
