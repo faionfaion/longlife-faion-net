@@ -5568,5 +5568,21 @@
       "здоровя літніх"
     ],
     "summary": "Стаття розбирає дозозалежні мета-аналізи кроків і смертності з фокусом на вікову групу 60+. Головна теза: свіжий Ding 2025 (Lancet Public Health, не JAMA IM) показує плато на ~7000 кроках для дорослих загалом, але без вікової стратифікації. Дані по 60+ походять з Paluch 2022 (Lancet Public Health, n=47 471): плато на 6000–8000 кроках, тоді як у молодших — 8000–10 000. Підтверджено Lee 2019 (JAMA IM, жінки 62+, плато ~7500). Контрточки: Banach 2023 не бачить стелі, Del Pozo Cruz 2022 наголошує на каденції. Практичний висновок для 60+: тижневий об'єм 42–56 тисяч кроків замість щоденних 10 000. Обмеження: усі дані спостережні, зворотна причинність. Стаття прямо посилається на попередній матеріал про 7000 кроків як продовження. Сила доказів: strong."
+  },
+  "skryninh-rmz-do-50-tyrer-cuzick-mrt-brca-ukraina-2026": {
+    "date": "2026-08-04",
+    "title": "Скринінг раку молочної залози до 50: чому мамографія бачить не всіх і коли просити МРТ",
+    "type": "guide",
+    "tags": [
+      "рак молочної залози",
+      "скринінг",
+      "мамографія",
+      "МРТ",
+      "BRCA",
+      "профілактика",
+      "жіноче здоров'я",
+      "онкологія"
+    ],
+    "summary": "Guide article explaining breast cancer screening for women under 50 with elevated risk. Main finding: new BJC 2026 study (n=1258) shows current NICE criteria miss ~95% of at-risk women under 50 because 73% of young BC cases have no significant family history; BOADICEA multifactorial model captures 8x more future cases. Key evidence: MARIBS Lancet 2005 (MRI sensitivity 77% vs mammography 40% in high-risk women 35-49), DENSE NEJM 2019 RCT (MRI halves interval cancers in dense breasts), USPSTF 2024 (biennial mammo 40-74 Grade B, insufficient evidence for supplemental MRI). Ukrainian context: MOH order 1368/2024 covers mammography 50-69 (40-49 by referral); MRI screening and BRCA testing not covered by NSZU, private cost 4000-8000 UAH and 1500-20000 UAH respectively. Practical takeaway: 3 steps — fill IBIS Tyrer-Cuzick calculator, compile 3-generation family history, discuss numbers with GP. Evidence strength: moderate (single cohort for BJC finding, strong for MARIBS/DENSE). Cross-links to existing NSZU cancer screening checklist article."
   }
 }
