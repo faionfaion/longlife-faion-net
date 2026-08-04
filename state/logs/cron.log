@@ -38781,3 +38781,96 @@ ModuleNotFoundError: No module named 'opentelemetry'
 03:19:52 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
 03:19:52 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
 03:19:52 [pipeline.stages.s7_save] INFO: Article saved: /home/faion/longlife-faion-net/content/skryninh-rmz-do-50-tyrer-cuzick-mrt-brca-ukraina-2026.md
+03:19:53 [pipeline] INFO: Article ready: skryninh-rmz-do-50-tyrer-cuzick-mrt-brca-ukraina-2026 (Скринінг раку молочної залози до 50: чому мамограф)
+03:19:53 [pipeline] INFO: === Article 3/10 ===
+03:19:53 [pipeline] INFO: --- Article: [lifehack] Спека і психіка: чому heatwave anxiety — це не метафора і 4  ---
+03:19:53 [asyncio] DEBUG: Using selector: EpollSelector
+03:19:53 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:19:53 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:23:10 [pipeline.stages.s2_research] INFO: Research complete: 15363 chars
+03:23:10 [asyncio] DEBUG: Using selector: EpollSelector
+03:23:10 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:23:10 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:24:19 [pipeline.stages.s3_generate] INFO: Generated: 'Heatwave anxiety: чому спека вмикає панічні симптоми і 4 доказові техніки саморегуляції' (slug=heatwave-anxiety-panika-okholodzhennia-dykhannia-4-tekhniky-2026, 235 words, 11 sources)
+03:24:19 [asyncio] DEBUG: Using selector: EpollSelector
+03:24:19 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:24:20 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:25:14 [pipeline.stages.s4_review] INFO: Review: score=4, approved=False
+03:25:14 [pipeline.stages.s4_review] INFO: Feedback: Стаття структурно незавершена і потребує суттєвої переробки перед публікацією.
+
+КРИТИЧНІ ПРОБЛЕМИ:
+
+1. ОБІЦЯНКА vs КОНТЕНТ: Заголовок і підзаголовок обіцяють '4 доказові техніки саморегуляції', але в 
+03:25:14 [asyncio] DEBUG: Using selector: EpollSelector
+03:25:14 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:25:14 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:26:32 [pipeline.stages.s5_revise] INFO: Revised article: 668 words
+03:26:32 [pipeline] INFO: === Review cycle 1/3 complete ===
+03:26:32 [asyncio] DEBUG: Using selector: EpollSelector
+03:26:32 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:26:32 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:26:47 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+03:26:47 [pipeline.stages.s4_review] INFO: Feedback: Strong, evidence-based lifehack with well-sourced claims and appropriate nuance. Minor suggestions: (1) The Lancet Planetary Health citation — verify the DOI/PIIS identifier resolves correctly (the +9
+03:26:47 [pipeline] INFO: Article approved after 1 revision(s)
+03:26:47 [asyncio] DEBUG: Using selector: EpollSelector
+03:26:47 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:26:47 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:27:06 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita sits on the edge of a sunlit bed in a small urban apart | pose=MEDIUM shot, waist-up, environment clearly visible. Vita sits upright on the edge of the bed with shoulders relaxed and spine tall; one hand (left) presses a cold glass bottle gently against the side of her neck, the other hand rests loosely, palm-down, on her thigh. Both hands are simple and clearly separated from her face. Long wavy blonde hair parted on the left falls over her right shoulder, small green leaf tattoo visible on her right shoulder, black fitness smartwatch with green accents on her left wrist. | expression=Eyes softly closed, lips slightly parted in a slow controlled exhale, brow smooth and unclenched — a grounded, self-regulating calm. | props=chilled glass water bottle with condensation beads, rotating floor fan, damp folded linen cloth on the bed beside her
+03:27:06 [asyncio] DEBUG: Using selector: EpollSelector
+03:27:06 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:27:06 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:27:19 [pipeline.stages.s6_generate_tg] INFO: TG caption: 718 chars
+03:27:19 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=heatwave-anxiety-panika-okholodzhennia-dykhannia-4-tekhniky-2026
+03:27:19 [asyncio] DEBUG: Using selector: EpollSelector
+03:27:19 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:27:19 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:27:35 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Merged the split-hand pose (one hand on bottle, one on thigh) into both hands cupping the bottle to 
+03:27:35 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+03:27:35 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:27:37 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+03:27:37 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+03:27:37 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 1 failed to produce image
+03:27:37 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 2/3 (quality=high)
+03:27:37 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:27:37 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+03:27:37 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+03:27:37 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 2 failed to produce image
+03:27:37 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 3/3 (quality=high)
+03:27:37 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:27:37 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 400 175
+03:27:37 [pipeline.image_gen] ERROR: OpenAI API error: 400 — 
+03:27:37 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
+03:27:37 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
+03:27:37 [pipeline.stages.s7_save] INFO: Article saved: /home/faion/longlife-faion-net/content/heatwave-anxiety-panika-okholodzhennia-dykhannia-4-tekhniky-2026.md
