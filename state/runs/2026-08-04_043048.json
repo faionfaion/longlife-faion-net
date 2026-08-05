@@ -1,0 +1,392 @@
+{
+  "timestamp": "2026-08-04_043048",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "tyzhneva-norma-krokiv-60-plus-plato-8000-paluch-lancet, skryninh-rmz-do-50-tyrer-cuzick-mrt-brca-ukraina-2026, heatwave-anxiety-panika-okholodzhennia-dykhannia-4-tekhniky-2026, mental-health-apps-lancet-digital-health-2025-calm-headspace-woebot, heat-acclimation-10-14-dniv-plazmovyi-obiem-kyiv-serpen-2026",
+  "author": "LongLife Media",
+  "duration_s": 5264.9,
+  "image_generated": false,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 174.5,
+      "error": null
+    },
+    {
+      "name": "research:Тижнева норма кроків для 60+: ",
+      "status": "ok",
+      "duration_s": 141.6,
+      "error": null
+    },
+    {
+      "name": "generate:Тижнева норма кроків для 60+: ",
+      "status": "ok",
+      "duration_s": 79.0,
+      "error": null
+    },
+    {
+      "name": "review:Тижнева норма кроків для 60+: ",
+      "status": "ok",
+      "duration_s": 82.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Тижнева норма кроків для 60+: ",
+      "status": "ok",
+      "duration_s": 20.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Тижнева норма кроків для 60+: ",
+      "status": "ok",
+      "duration_s": 9.1,
+      "error": null
+    },
+    {
+      "name": "save:Тижнева норма кроків для 60+: ",
+      "status": "ok",
+      "duration_s": 18.1,
+      "error": null
+    },
+    {
+      "name": "research:Скринінг раку молочної залози ",
+      "status": "ok",
+      "duration_s": 191.8,
+      "error": null
+    },
+    {
+      "name": "generate:Скринінг раку молочної залози ",
+      "status": "ok",
+      "duration_s": 95.6,
+      "error": null
+    },
+    {
+      "name": "review:Скринінг раку молочної залози ",
+      "status": "ok",
+      "duration_s": 145.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Скринінг раку молочної залози ",
+      "status": "ok",
+      "duration_s": 21.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Скринінг раку молочної залози ",
+      "status": "ok",
+      "duration_s": 11.9,
+      "error": null
+    },
+    {
+      "name": "save:Скринінг раку молочної залози ",
+      "status": "ok",
+      "duration_s": 17.5,
+      "error": null
+    },
+    {
+      "name": "research:Спека і психіка: чому heatwave",
+      "status": "ok",
+      "duration_s": 197.1,
+      "error": null
+    },
+    {
+      "name": "generate:Спека і психіка: чому heatwave",
+      "status": "ok",
+      "duration_s": 69.6,
+      "error": null
+    },
+    {
+      "name": "review:Спека і психіка: чому heatwave",
+      "status": "ok",
+      "duration_s": 147.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Спека і психіка: чому heatwave",
+      "status": "ok",
+      "duration_s": 19.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Спека і психіка: чому heatwave",
+      "status": "ok",
+      "duration_s": 12.8,
+      "error": null
+    },
+    {
+      "name": "save:Спека і психіка: чому heatwave",
+      "status": "ok",
+      "duration_s": 18.8,
+      "error": null
+    },
+    {
+      "name": "research:Digital mental health apps під",
+      "status": "ok",
+      "duration_s": 265.3,
+      "error": null
+    },
+    {
+      "name": "generate:Digital mental health apps під",
+      "status": "ok",
+      "duration_s": 76.2,
+      "error": null
+    },
+    {
+      "name": "review:Digital mental health apps під",
+      "status": "ok",
+      "duration_s": 97.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Digital mental health apps під",
+      "status": "ok",
+      "duration_s": 18.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Digital mental health apps під",
+      "status": "ok",
+      "duration_s": 11.9,
+      "error": null
+    },
+    {
+      "name": "save:Digital mental health apps під",
+      "status": "ok",
+      "duration_s": 15.1,
+      "error": null
+    },
+    {
+      "name": "research:Тренування у жарку погоду: чом",
+      "status": "ok",
+      "duration_s": 263.3,
+      "error": null
+    },
+    {
+      "name": "generate:Тренування у жарку погоду: чом",
+      "status": "ok",
+      "duration_s": 95.8,
+      "error": null
+    },
+    {
+      "name": "review:Тренування у жарку погоду: чом",
+      "status": "ok",
+      "duration_s": 130.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Тренування у жарку погоду: чом",
+      "status": "ok",
+      "duration_s": 23.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Тренування у жарку погоду: чом",
+      "status": "ok",
+      "duration_s": 11.5,
+      "error": null
+    },
+    {
+      "name": "save:Тренування у жарку погоду: чом",
+      "status": "ok",
+      "duration_s": 18.5,
+      "error": null
+    },
+    {
+      "name": "research:Тайлаколід і холін у яйцях: чо",
+      "status": "ok",
+      "duration_s": 277.9,
+      "error": null
+    },
+    {
+      "name": "generate:Тайлаколід і холін у яйцях: чо",
+      "status": "ok",
+      "duration_s": 88.7,
+      "error": null
+    },
+    {
+      "name": "review:Тайлаколід і холін у яйцях: чо",
+      "status": "ok",
+      "duration_s": 330.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Тайлаколід і холін у яйцях: чо",
+      "status": "ok",
+      "duration_s": 22.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Тайлаколід і холін у яйцях: чо",
+      "status": "ok",
+      "duration_s": 11.0,
+      "error": null
+    },
+    {
+      "name": "save:Тайлаколід і холін у яйцях: чо",
+      "status": "ok",
+      "duration_s": 17.1,
+      "error": null
+    },
+    {
+      "name": "research:Ашваганда для стресу і тестост",
+      "status": "ok",
+      "duration_s": 278.7,
+      "error": null
+    },
+    {
+      "name": "generate:Ашваганда для стресу і тестост",
+      "status": "ok",
+      "duration_s": 78.5,
+      "error": null
+    },
+    {
+      "name": "review:Ашваганда для стресу і тестост",
+      "status": "ok",
+      "duration_s": 193.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ашваганда для стресу і тестост",
+      "status": "ok",
+      "duration_s": 19.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ашваганда для стресу і тестост",
+      "status": "ok",
+      "duration_s": 10.2,
+      "error": null
+    },
+    {
+      "name": "save:Ашваганда для стресу і тестост",
+      "status": "ok",
+      "duration_s": 18.5,
+      "error": null
+    },
+    {
+      "name": "research:Дихання через ніс vs рот під ч",
+      "status": "ok",
+      "duration_s": 240.9,
+      "error": null
+    },
+    {
+      "name": "generate:Дихання через ніс vs рот під ч",
+      "status": "ok",
+      "duration_s": 80.2,
+      "error": null
+    },
+    {
+      "name": "review:Дихання через ніс vs рот під ч",
+      "status": "ok",
+      "duration_s": 103.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Дихання через ніс vs рот під ч",
+      "status": "ok",
+      "duration_s": 15.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Дихання через ніс vs рот під ч",
+      "status": "ok",
+      "duration_s": 9.4,
+      "error": null
+    },
+    {
+      "name": "save:Дихання через ніс vs рот під ч",
+      "status": "ok",
+      "duration_s": 18.0,
+      "error": null
+    },
+    {
+      "name": "research:Читання перед сном vs Kindle v",
+      "status": "ok",
+      "duration_s": 223.4,
+      "error": null
+    },
+    {
+      "name": "generate:Читання перед сном vs Kindle v",
+      "status": "ok",
+      "duration_s": 52.3,
+      "error": null
+    },
+    {
+      "name": "review:Читання перед сном vs Kindle v",
+      "status": "ok",
+      "duration_s": 71.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Читання перед сном vs Kindle v",
+      "status": "ok",
+      "duration_s": 22.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Читання перед сном vs Kindle v",
+      "status": "ok",
+      "duration_s": 10.6,
+      "error": null
+    },
+    {
+      "name": "save:Читання перед сном vs Kindle v",
+      "status": "ok",
+      "duration_s": 17.5,
+      "error": null
+    },
+    {
+      "name": "research:Магній гліцинат перед сном: чо",
+      "status": "ok",
+      "duration_s": 285.0,
+      "error": null
+    },
+    {
+      "name": "generate:Магній гліцинат перед сном: чо",
+      "status": "ok",
+      "duration_s": 82.5,
+      "error": null
+    },
+    {
+      "name": "review:Магній гліцинат перед сном: чо",
+      "status": "ok",
+      "duration_s": 130.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Магній гліцинат перед сном: чо",
+      "status": "ok",
+      "duration_s": 18.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Магній гліцинат перед сном: чо",
+      "status": "ok",
+      "duration_s": 9.8,
+      "error": null
+    },
+    {
+      "name": "save:Магній гліцинат перед сном: чо",
+      "status": "ok",
+      "duration_s": 25.1,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.2,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}

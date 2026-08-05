@@ -1,0 +1,87 @@
+{
+  "articles": [
+    {
+      "topic": "Соціальна ізоляція і смертність: що показав звіт WHO Commission on Social Connection 2025",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Розбір першого глобального звіту WHO Commission on Social Connection (червень 2025): 1 з 6 людей у світі відчуває самотність, 871 000 смертей на рік пов'язані з ізоляцією. Спираємось на мета-аналіз Holt-Lunstad 2015 (PLOS Medicine, HR 1.29 для ізоляції, 1.26 для самотності — еквівалент 15 сигаретам/день), UK Biobank Elovainio 2017. Механізми: хронічний CRP, IL-6, знижена HRV. Український контекст: війна, вимушена міграція, розділені родини. 3 доказові інтервенції: групова CBT (Masi 2011 meta), волонтерство (Okun 2013), Silver Line-подібні лінії",
+      "sources_hint": "WHO Commission on Social Connection report 2025, Holt-Lunstad PLOS Medicine 2015, Masi meta-analysis loneliness interventions, Cacioppo Perspectives Psychol Sci",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Ретатрутид vs семаглутид: що показали фінальні дані TRIUMPH-4 у 2026",
+      "type": "research",
+      "category": "research",
+      "angle": "Оновлення про потрійний агоніст ретатрутид (GLP-1/GIP/глюкагон) — фінальні результати фази 3 TRIUMPH у 2026. Порівняння з STEP (семаглутид −14.9%) і SURMOUNT-1 (тирзепатид −20.9%): ретатрутид у фазі 2 дав до −24.2% ваги за 48 тижнів (Jastreboff NEJM 2023). Побічні GI-ефекти, тахікардія, поки не зареєстрований в Україні. Чому це не 'кінець ожиріння': втрата м'язової маси, rebound після відміни (Wilding STEP-1 extension 2022, 2/3 ваги повертається). Актіонейбл: не купувати сірого ретатрутиду з Telegram, дочекатися реєстрації",
+      "sources_hint": "PubMed: retatrutide TRIUMPH phase 3 2026, Jastreboff NEJM 2023, Eli Lilly press release, STEP-1 extension weight regain, GLP-1 muscle mass loss",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Психоделічна терапія MDMA при ПТСР: чому FDA відхилила Lykos у 2024 і що нового у 2026",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Розбір оновлених даних після відмови FDA у серпні 2024: реаналіз MAPP1/MAPP2 (Mitchell 2023, Nature Medicine), критика ICER щодо функціонального розсліплення, свіжий огляд Lancet Psychiatry 2026 про переоцінку ефект-сайзу після корекції на expectancy bias. Український контекст: MDMA у Списку I, легального доступу немає, ветерани їдуть у Мексику/Нідерланди. Що робити зараз: prolonged exposure і CPT з доказовою базою vs очікування схвалення",
+      "sources_hint": "PubMed: MDMA-assisted therapy PTSD 2026, Lykos Therapeutics FDA CRL, Mitchell Nature Medicine 2023 reanalysis, ICER report 2024, MAPS trial expectancy bias",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Скринінг остеопорозу у чоловіків 65+: чому DEXA не для всіх і коли рахувати FRAX",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Гайд про screening остеопорозу у чоловіків — часто забута група. USPSTF 2025 update: недостатньо доказів для рутинного DEXA-скринінгу у чоловіків (I statement), тоді як Endocrine Society 2019 рекомендує DEXA для чоловіків 70+ або 50-69 з факторами ризику. FRAX-калькулятор як безкоштовний інструмент першого кроку (поріг 10-year hip fracture ≥3% для терапії). Український контекст: наказ МОЗ №1177 покриває DEXA лише за направленням, приватно 900-1800 грн. Червоні прапорці: втрата зросту >4 см, кортикостероїди >3 міс, гіпогонадизм. Крос-лінк на статті про креатин і силові",
+      "sources_hint": "USPSTF osteoporosis screening men 2025, Endocrine Society 2019 CPG male osteoporosis, FRAX calculator WHO, Watts JCEM osteoporosis in men",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Стрибки на скакалці 10 хвилин на день: що показав мета-аналіз 2025 про VO2max, кістки і жир",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Розбір нового мета-аналізу 2025 року про rope skipping як мінімалістичний кардіо-протокол. Дані Trecroci 2015, Ozer 2020 (BMD у підлітків), Sung 2019 (VO2max +9-13% за 12 тижнів). Порівняння з бігом за енерговитратами (~600 ккал/год при 120 стрибків/хв). Ризики для гомілки — Achilles tendinopathy, стрес-переломи у неадаптованих. Практичний протокол 4-тижневого прогресу від 3×1 хв до 10 хв безперервно",
+      "sources_hint": "PubMed: rope skipping meta-analysis 2025, Trecroci jump rope VO2max, Sung 2019 aerobic capacity, Ozer bone mineral density, jump rope injury prevention",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Гриб рейши (Ganoderma lucidum) для імунітету і сну: що показав Cochrane і чому онкологічні claims не підтвердилися",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Розбір доказової бази Ganoderma lucidum (Lingzhi/Reishi). Cochrane 2016 (Jin, 5 RCT, 373 пацієнти з раком) — не знайшов доказів довшого виживання, лише скромне покращення quality of life при поєднанні з хіміотерапією. Zhao 2018 мета-аналіз для сну — слабкі докази. Ризик гепатотоксичності: 2 смертельні випадки при прийомі порошку (Wanmuang 2007, Yuen 2004). Взаємодія з антикоагулянтами (тромбоцити). Ціна 800-2500 грн/міс vs нульові докази у здорових. Практично: не приймати з варфарином/апіксабаном, при захворюваннях печінки — уникати",
+      "sources_hint": "Cochrane Jin 2016 Ganoderma cancer, Zhao 2018 reishi sleep meta-analysis, Wanmuang hepatotoxicity case report, MSKCC Reishi monograph",
+      "evidence_level": "preliminary",
+      "priority": 2
+    },
+    {
+      "topic": "'Дно тижня' у середу: що насправді показують дослідження про тижневі коливання настрою і 4 доказові техніки",
+      "type": "lifehack",
+      "category": "mental-health",
+      "angle": "Чесний розбір міфу і фактів. Stone 2012 (Journal of Positive Psychology, n=340 000 Gallup-Healthways) розвінчав 'Blue Monday': будні дні майже не відрізняються за настроєм, різниця з вихідними ~0.4-0.6 бала. Areni 2008 показав, що середа сприймається як 'найдовший' день через контекст-ефект — далеко і від понеділка, і від п'ятниці. Механізм накопиченої sleep pressure за 3 будні (Van Dongen 2003), денний спад ранкового кортизолу. 4 доказові техніки: (1) 20-хв прогулянка на світлі 10-11 ранку (Wehr 1998), (2) NEAT-паузи VILPA кожні 30 хв (Stamatakis 2022 Nat Med), (3) 90-хв робочі блоки за ультрадіанним циклом (Kleitman), (4) 'temptation bundling' Milkman 2014 для нудних задач",
+      "sources_hint": "Stone 2012 Journal of Positive Psychology day of week mood, Areni 2008 psychological length of day, Van Dongen 2003 Sleep, Stamatakis VILPA Nature Medicine 2022, Milkman temptation bundling",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Ходьба з рюкзаком (rucking) 20 кг: що показує наука про кістки, серце і травми колін",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Rucking (ходьба з навантаженим рюкзаком) — популярний у 2025-2026 через MilVet-соцмережі. Докази: Knapik 2012 (Military Medicine, огляд армійських даних) — 10-20% додаткових ккал vs звичайна ходьба з тим же темпом; Beck 2015 (Bone) показав приріст BMD хребта у жінок з навантаженими ходьбами. Ризики: Reynolds 1999 — 37% військових мали stress-fractures при >25% ваги тіла; коліна і поперек критичні. Практичний протокол: старт 5-8 кг × 30 хв, +2 кг/2 тижні до 15-20% ваги тіла, макс 60 хв. Порівняння з бігом за впливом на суглоби — за Miller 2014 rucking має нижчий impact peak",
+      "sources_hint": "PubMed: rucking load carriage injury rate, Knapik Military Medicine 2012, Beck bone loading, Reynolds stress fracture military, Miller ground reaction force rucking",
+      "evidence_level": "moderate",
+      "priority": 3
+    },
+    {
+      "topic": "Нічні прокидання (WASO) після 45: що показав UK Biobank 2025 про фрагментований сон і серцево-судинну смертність",
+      "type": "research",
+      "category": "sleep",
+      "angle": "Розбір актиграфічних даних UK Biobank (n≈89 000) про Wake After Sleep Onset (WASO) як незалежний маркер серцево-судинного ризику. Full-Silva 2025 (Eur Heart J) показав HR 1.28-1.35 для CV-смертності при WASO >45 хв незалежно від загальної тривалості сну. Механізм: підвищена симпатична активність, порушення нічного blood pressure dipping (Sayk 2010), зростання CRP і IL-6. Диференціація: нормальні мікропробудження (3-5/год) vs патологічна фрагментація. Червоні прапорці для скринінгу апное сну (STOP-BANG, WatchPAT — крос-лінк на статтю про жінок 50+). Що робити: обмеження алкоголю за 3 год до сну (Ebrahim 2013 meta), CBT-I (AASM 2021 strong rec), температура спальні 18-19°C. Крос-лінк на матеріал про сон у спеку",
+      "sources_hint": "UK Biobank actigraphy sleep fragmentation cardiovascular 2025, Full-Silva WASO all-cause mortality, Sayk blood pressure dipping, AASM 2021 CBT-I insomnia guideline, Ebrahim alcohol sleep meta-analysis",
+      "evidence_level": "moderate",
+      "priority": 3
+    }
+  ],
+  "date": "2026-08-05",
+  "created_at": "2026-08-05T03:03:03.838614+00:00"
+}
