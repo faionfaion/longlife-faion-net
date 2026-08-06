@@ -41902,3 +41902,92 @@ ModuleNotFoundError: No module named 'opentelemetry'
 04:14:39 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
 04:14:39 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
 04:14:39 [pipeline.stages.s7_save] INFO: Article saved: /home/faion/longlife-faion-net/content/hrv-biofeedback-dykhannia-6-hv-protokol-4-tyzhni-polar-h10.md
+04:14:40 [pipeline] INFO: Article ready: hrv-biofeedback-dykhannia-6-hv-protokol-4-tyzhni-polar-h10 (HRV-біофідбек через дихання 6/хв: 4-тижневий прото)
+04:14:40 [pipeline] INFO: === Article 9/10 ===
+04:14:40 [pipeline] INFO: --- Article: [fitness] Rear-foot elevated split squat (болгарський випад): чому це  ---
+04:14:40 [asyncio] DEBUG: Using selector: EpollSelector
+04:14:40 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:14:40 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:17:56 [pipeline.stages.s2_research] INFO: Research complete: 11867 chars
+04:17:56 [asyncio] DEBUG: Using selector: EpollSelector
+04:17:56 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:17:56 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:19:26 [pipeline.stages.s3_generate] INFO: Generated: 'Болгарський випад для бігунів 40+: чому одна вправа замінює півзалу — і як не вбити коліно' (slug=bolgarsky-vypad-rfess-biguny-40-plus-emg-asymetriya, 775 words, 6 sources)
+04:19:26 [asyncio] DEBUG: Using selector: EpollSelector
+04:19:26 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:19:26 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:19:40 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+04:19:40 [pipeline.stages.s4_review] INFO: Feedback: Strong article overall. Scientifically accurate with proper citations, clearly communicated evidence strength (explicitly notes 'доказова база помірна'), and appropriate limitations disclosure at the 
+04:19:40 [asyncio] DEBUG: Using selector: EpollSelector
+04:19:40 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:19:40 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:20:54 [pipeline.stages.s5_revise] INFO: Revised article: 904 words
+04:20:54 [pipeline] INFO: === Review cycle 1/3 complete ===
+04:20:54 [asyncio] DEBUG: Using selector: EpollSelector
+04:20:54 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:20:54 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:21:18 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+04:21:18 [pipeline.stages.s4_review] INFO: Feedback: Стаття відповідає стандартам доказової медицини. Усі ключові твердження мають цитовані джерела (Helme 2022, DeForest 2014, Mausehund 2019, Speirs 2016, Nascimento 2018, Bull 2020). Обмеження досліджен
+04:21:18 [pipeline] INFO: Article approved after 1 revision(s)
+04:21:18 [asyncio] DEBUG: Using selector: EpollSelector
+04:21:18 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:21:18 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:21:36 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita performs a Bulgarian split squat in a sunlit neighborho | pose=WIDE full-body shot from a slight low angle: Vita in a deep Bulgarian split squat, right foot planted flat and forward, left foot resting laces-down on the wooden bench 20-30 cm high behind her, torso upright, both hands resting lightly on her front thigh doing the same simple thing (bracing) — front knee bent to roughly 90 degrees, back leg long and trailing | expression=Determined training face — focused green eyes fixed forward on the path, slight jaw clench, mouth softly closed in controlled breathing | props=low wooden park bench (rear-foot elevation surface), emerald green water bottle standing upright on the grass beside the bench, a rolled emerald green yoga mat leaning against the bench
+04:21:36 [asyncio] DEBUG: Using selector: EpollSelector
+04:21:36 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:21:36 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:21:47 [pipeline.stages.s6_generate_tg] INFO: TG caption: 692 chars
+04:21:47 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=bolgarsky-vypad-rfess-biguny-40-plus-emg-asymetriya
+04:21:47 [asyncio] DEBUG: Using selector: EpollSelector
+04:21:47 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:21:47 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:22:03 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Unified both hands into an identical bracing gesture on the front thigh to avoid split-hand artifact
+04:22:03 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+04:22:03 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:22:03 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 429 262
+04:22:03 [pipeline.image_gen] ERROR: OpenAI API error: 429 — 
+04:22:03 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 1 failed to produce image
+04:22:03 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 2/3 (quality=high)
+04:22:03 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:22:03 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 429 262
+04:22:03 [pipeline.image_gen] ERROR: OpenAI API error: 429 — 
+04:22:03 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 2 failed to produce image
+04:22:03 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 3/3 (quality=high)
+04:22:03 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:22:04 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 429 262
+04:22:04 [pipeline.image_gen] ERROR: OpenAI API error: 429 — 
+04:22:04 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
+04:22:04 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
+04:22:04 [pipeline.stages.s7_save] INFO: Article saved: /home/faion/longlife-faion-net/content/bolgarsky-vypad-rfess-biguny-40-plus-emg-asymetriya.md
