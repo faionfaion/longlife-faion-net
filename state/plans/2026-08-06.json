@@ -1,0 +1,96 @@
+{
+  "articles": [
+    {
+      "topic": "Клітковина 40 г/день: що показав мета-аналіз Reynolds 2025 про смертність і чому «5 порцій овочів» — це замало",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Оновлений мета-аналіз Reynolds (продовження класичного Lancet 2019) з новими когортами 2024-2025. Дозозалежна крива: 25 г — базовий поріг, 35-40 г — оптимум для смертності, T2D, CRC. Чому середній українець їсть ~15-18 г (дані ДУ «Інститут громадського здоров'я»), джерела: гречка, овес, бобові, житній хліб замість «5 овочів». Практичний калькулятор до 40 г без БАДів.",
+      "sources_hint": "Reynolds Lancet 2019, Reynolds updates 2024-2025 in Am J Clin Nutr, EFSA fibre reference values, Ukrainian nutrition survey МОЗ 2023",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Ходьба після їжі 10 хвилин vs 30 хвилин: що показав мета-аналіз 2025 про постпрандіальну глюкозу",
+      "type": "research",
+      "category": "research",
+      "angle": "Свіжий мета-аналіз 2025 порівнює дозозалежну криву коротких прогулянок після їжі: 2, 10, 15, 30 хв — і показує, де саме досягається плато для зниження постпрандіальної глюкози у здорових дорослих і пацієнтів з переддіабетом. Розбираємо міф про «обов'язкові 30 хвилин» і порівнюємо з даними Buffey 2022.",
+      "sources_hint": "PubMed: 'postprandial walking meta-analysis 2025', Buffey 2022 Sports Medicine, Reynolds 2016 Diabetologia, Diabetes Care 2024-2025",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Джетлаг після відпустки: що радить BBC-експерт і що показало дослідження світла 2025",
+      "type": "guide",
+      "category": "sleep",
+      "angle": "Прив'язка до свіжого матеріалу BBC про подолання джетлагу після літньої відпустки. Дає доказовий протокол: розрахунок напрямку зсуву (східний важчий за західний за Eastman 2016), timing мелатоніну (0,5 мг за 5 год до цільового bedtime), ранкове світло 10 000 люкс проти сонця, роль першого прийому їжі за Fuller 2008/Longo 2022. Не дублює статтю про 5 днів відновлення сну.",
+      "sources_hint": "BBC Health Aug 2026 jet lag article, Eastman & Burgess 2009 Sleep Med Rev, Longo Cell Metabolism 2022, Sletten PLOS Med 2018 melatonin RCT",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Кава і серцева аритмія: що показало UCSF CRAVE 2025 і чому пацієнтам з фібриляцією передсердь необов'язково відмовлятися",
+      "type": "research",
+      "category": "research",
+      "angle": "Свіжі follow-up дані від CRAVE trial (Marcus JAMA 2023) і продовження 2025: рандомізовані експозиції кави vs abstinence не збільшують епізоди AF, хоча підвищують передчасні шлуночкові скорочення. Мета-аналіз Coffee & Cardiac Arrhythmias 2024. Що це змінює для пацієнтів з пароксизмальною AF в Україні (де кардіологи традиційно рекомендують уникати кофеїну).",
+      "sources_hint": "Marcus NEJM 2016 & JAMA 2023 CRAVE, Bazal 2021 European Journal of Preventive Cardiology, ESC AFib guidelines 2024 caffeine section",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Ходячі центри психічної допомоги у бібліотеках і банках: що показує англійський досвід і що з цього можна взяти Україні",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Розбір моделі walk-in mental health hubs, які NHS відкриває у бібліотеках і банках Англії (BBC серпень 2026). Що каже evidence: Frontline Network evaluation, IAPT stepped-care модель, no-appointment access і зниження бар'єрів звернення. Український контекст: програма «Ти як?», ветеранські простори, лінія 7333. Чому low-threshold точки контакту працюють краще за онлайн-запис.",
+      "sources_hint": "BBC Health Aug 2026, NHS England Mental Health Access press releases, Lancet Psychiatry stepped-care meta-analyses, WHO mhGAP",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "«Холодильник не потрібен»: що обіцяють fridge-free вакцини і що це змінить для країн із перебоями електрики",
+      "type": "research",
+      "category": "prevention",
+      "angle": "BBC серпень 2026: до 50% вакцин у світі викидають через розрив холодового ланцюга. Розбір технологій термостабільних вакцин: MenAfriVac (WHO 2012 CTC), Gates Foundation-funded thermostable measles, silk fibroin matrix (Kluge 2020). Що це може дати Україні під час блекаутів взимку 2026-2027 і чому холодовий ланцюг досі проблема для регіональних центрів вакцинації.",
+      "sources_hint": "Lancet Global Health cold chain reviews 2024-2025, WHO Extended Controlled Temperature Conditions, Gates Foundation vaccine thermostability program, BBC Health Aug 2026",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Кефір проти йогурту для мікробіому: що показало RCT Stanford 2024 і чи виграє домашній кефір промисловому",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Не про ферментовані загалом (це вже було), а вузько про порівняння кефір vs йогурт. Огляд Stanford Sonnenburg 2021/2024 (Cell/Cell Host & Microbe) про ферментовані vs клітковина, дані про діверсність мікрофлори при кефірі, вміст лактобацил проти стрептококу, реальний CFU у промислових йогуртах ('Активія', 'Живинка') vs домашній кефір із закваски. Розвінчання «10 млрд CFU» на етикетках.",
+      "sources_hint": "Wastyk Cell 2021, Bourrie 2016 kefir microbiome, EFSA yogurt claims, Ukrainian dairy standards DSTU",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "HRV-біофідбек через дихання 6/хв: що показав мета-аналіз Lehrer 2024 і чому це працює краще за додатки-«медитації»",
+      "type": "lifehack",
+      "category": "biohacking",
+      "angle": "Практичний лайфхак-протокол: 20 хв × 5 днів × 4 тижні дихання на резонансній частоті (5-7/хв) з приладом Polar H10 + Elite HRV або Apple Watch. Мета-аналіз Lehrer & Vaschillo 2024 (Appl Psychophysiol Biofeedback, 30+ RCT) для тривоги, депресії, спортивних результатів. Порівняння з simple slow breathing без біофідбеку (Laborde 2022). Не дублює cyclic sighing.",
+      "sources_hint": "Lehrer Appl Psychophysiol Biofeedback 2024 meta-analysis, Goessl Psychol Med 2017, Laborde 2022 slow breathing review",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Rear-foot elevated split squat (болгарський випад): чому це базова вправа для бігунів 40+ і як не вбити коліно",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Практичний фітнес-гайд про болгарський випад як unilateral-вправу для корекції асиметрії сили ніг. EMG-дані DeForest 2014, Andersen 2018; порівняння з класичним випадом; протокол прогресії від bodyweight до 20 кг гантелей; типові помилки (переднє коліно за носок, коливання таза); модифікації при пателофеморальному синдромі. Кросслінк на рукінг і norwegian 4x4.",
+      "sources_hint": "DeForest 2014 J Sport Rehab, Speirs 2016 JSCR unilateral vs bilateral, Mausehund 2019 JSCR RFESS, McCurdy 2018 kinematic analysis",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Літня взуття і плоскостопість дорослих: чому в'єтнамки — не універсальне зло, а fisherman's sandals кращі за кросівки не завжди",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Прив'язка до BBC-матеріалу про літнє взуття. Розбір біомеханіки flip-flops (Shroyer 2010 JAPMA — скорочений крок, повільніший ритм; Chard 2013 — вища активація tibialis anterior), fisherman's sandals і мінімалістичного взуття. Коли sandals кращі за кросівки (набряки, післяопераційний період), коли гірші (плантарний фасциїт, діабетична стопа). Український контекст: пляж у Затоці, місто у +34°C.",
+      "sources_hint": "Shroyer JAPMA 2010, Chard J Foot Ankle Res 2013, APMA position on minimalist footwear, IWGDF diabetic foot guidelines 2023",
+      "evidence_level": "moderate",
+      "priority": 3
+    }
+  ],
+  "date": "2026-08-06",
+  "created_at": "2026-08-06T03:03:03.463943+00:00"
+}

@@ -1,0 +1,356 @@
+{
+  "timestamp": "2026-08-05_042030",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "who-commission-social-connection-2025-samotnist-smertnist, retatrutyd-vs-semaglutyd-triumph-phase3-2026, mdma-terapiya-ptsr-fda-vidmova-2024-lykos-mapp2-2026-pe-cpt, osteoporoz-choloviky-65-plus-uspstf-frax-dexa-guide, skakalka-10-khvylyn-vo2max-kistky-4-tyzhni-prohres-2025",
+  "author": "LongLife Media",
+  "duration_s": 4646.7,
+  "image_generated": false,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 237.0,
+      "error": null
+    },
+    {
+      "name": "research:Соціальна ізоляція і смертніст",
+      "status": "ok",
+      "duration_s": 183.9,
+      "error": null
+    },
+    {
+      "name": "generate:Соціальна ізоляція і смертніст",
+      "status": "ok",
+      "duration_s": 88.5,
+      "error": null
+    },
+    {
+      "name": "review:Соціальна ізоляція і смертніст",
+      "status": "ok",
+      "duration_s": 112.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Соціальна ізоляція і смертніст",
+      "status": "ok",
+      "duration_s": 24.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Соціальна ізоляція і смертніст",
+      "status": "ok",
+      "duration_s": 8.6,
+      "error": null
+    },
+    {
+      "name": "save:Соціальна ізоляція і смертніст",
+      "status": "ok",
+      "duration_s": 18.9,
+      "error": null
+    },
+    {
+      "name": "research:Ретатрутид vs семаглутид: що п",
+      "status": "ok",
+      "duration_s": 603.5,
+      "error": null
+    },
+    {
+      "name": "generate:Ретатрутид vs семаглутид: що п",
+      "status": "ok",
+      "duration_s": 69.7,
+      "error": null
+    },
+    {
+      "name": "review:Ретатрутид vs семаглутид: що п",
+      "status": "ok",
+      "duration_s": 96.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ретатрутид vs семаглутид: що п",
+      "status": "ok",
+      "duration_s": 20.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ретатрутид vs семаглутид: що п",
+      "status": "ok",
+      "duration_s": 10.2,
+      "error": null
+    },
+    {
+      "name": "save:Ретатрутид vs семаглутид: що п",
+      "status": "ok",
+      "duration_s": 18.2,
+      "error": null
+    },
+    {
+      "name": "research:Психоделічна терапія MDMA при ",
+      "status": "ok",
+      "duration_s": 222.6,
+      "error": null
+    },
+    {
+      "name": "generate:Психоделічна терапія MDMA при ",
+      "status": "ok",
+      "duration_s": 79.9,
+      "error": null
+    },
+    {
+      "name": "review:Психоделічна терапія MDMA при ",
+      "status": "ok",
+      "duration_s": 128.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Психоделічна терапія MDMA при ",
+      "status": "ok",
+      "duration_s": 22.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Психоделічна терапія MDMA при ",
+      "status": "ok",
+      "duration_s": 12.2,
+      "error": null
+    },
+    {
+      "name": "save:Психоделічна терапія MDMA при ",
+      "status": "ok",
+      "duration_s": 16.3,
+      "error": null
+    },
+    {
+      "name": "research:Скринінг остеопорозу у чоловік",
+      "status": "ok",
+      "duration_s": 213.8,
+      "error": null
+    },
+    {
+      "name": "generate:Скринінг остеопорозу у чоловік",
+      "status": "ok",
+      "duration_s": 130.0,
+      "error": null
+    },
+    {
+      "name": "review:Скринінг остеопорозу у чоловік",
+      "status": "ok",
+      "duration_s": 159.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Скринінг остеопорозу у чоловік",
+      "status": "ok",
+      "duration_s": 17.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Скринінг остеопорозу у чоловік",
+      "status": "ok",
+      "duration_s": 9.9,
+      "error": null
+    },
+    {
+      "name": "save:Скринінг остеопорозу у чоловік",
+      "status": "ok",
+      "duration_s": 16.2,
+      "error": null
+    },
+    {
+      "name": "research:Стрибки на скакалці 10 хвилин ",
+      "status": "ok",
+      "duration_s": 173.5,
+      "error": null
+    },
+    {
+      "name": "generate:Стрибки на скакалці 10 хвилин ",
+      "status": "ok",
+      "duration_s": 77.0,
+      "error": null
+    },
+    {
+      "name": "review:Стрибки на скакалці 10 хвилин ",
+      "status": "ok",
+      "duration_s": 109.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Стрибки на скакалці 10 хвилин ",
+      "status": "ok",
+      "duration_s": 19.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Стрибки на скакалці 10 хвилин ",
+      "status": "ok",
+      "duration_s": 9.5,
+      "error": null
+    },
+    {
+      "name": "save:Стрибки на скакалці 10 хвилин ",
+      "status": "ok",
+      "duration_s": 15.1,
+      "error": null
+    },
+    {
+      "name": "research:Гриб рейши (Ganoderma lucidum)",
+      "status": "ok",
+      "duration_s": 171.8,
+      "error": null
+    },
+    {
+      "name": "generate:Гриб рейши (Ganoderma lucidum)",
+      "status": "ok",
+      "duration_s": 70.1,
+      "error": null
+    },
+    {
+      "name": "review:Гриб рейши (Ganoderma lucidum)",
+      "status": "ok",
+      "duration_s": 95.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Гриб рейши (Ganoderma lucidum)",
+      "status": "ok",
+      "duration_s": 19.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Гриб рейши (Ganoderma lucidum)",
+      "status": "ok",
+      "duration_s": 9.8,
+      "error": null
+    },
+    {
+      "name": "save:Гриб рейши (Ganoderma lucidum)",
+      "status": "ok",
+      "duration_s": 15.5,
+      "error": null
+    },
+    {
+      "name": "research:'Дно тижня' у середу: що наспр",
+      "status": "ok",
+      "duration_s": 280.8,
+      "error": null
+    },
+    {
+      "name": "generate:'Дно тижня' у середу: що наспр",
+      "status": "ok",
+      "duration_s": 52.3,
+      "error": null
+    },
+    {
+      "name": "review:'Дно тижня' у середу: що наспр",
+      "status": "ok",
+      "duration_s": 131.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:'Дно тижня' у середу: що наспр",
+      "status": "ok",
+      "duration_s": 18.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:'Дно тижня' у середу: що наспр",
+      "status": "ok",
+      "duration_s": 11.9,
+      "error": null
+    },
+    {
+      "name": "save:'Дно тижня' у середу: що наспр",
+      "status": "ok",
+      "duration_s": 15.6,
+      "error": null
+    },
+    {
+      "name": "research:Ходьба з рюкзаком (rucking) 20",
+      "status": "ok",
+      "duration_s": 173.8,
+      "error": null
+    },
+    {
+      "name": "generate:Ходьба з рюкзаком (rucking) 20",
+      "status": "ok",
+      "duration_s": 74.2,
+      "error": null
+    },
+    {
+      "name": "review:Ходьба з рюкзаком (rucking) 20",
+      "status": "ok",
+      "duration_s": 100.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ходьба з рюкзаком (rucking) 20",
+      "status": "ok",
+      "duration_s": 19.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ходьба з рюкзаком (rucking) 20",
+      "status": "ok",
+      "duration_s": 9.1,
+      "error": null
+    },
+    {
+      "name": "save:Ходьба з рюкзаком (rucking) 20",
+      "status": "ok",
+      "duration_s": 16.7,
+      "error": null
+    },
+    {
+      "name": "research:Нічні прокидання (WASO) після ",
+      "status": "ok",
+      "duration_s": 189.1,
+      "error": null
+    },
+    {
+      "name": "generate:Нічні прокидання (WASO) після ",
+      "status": "ok",
+      "duration_s": 76.6,
+      "error": null
+    },
+    {
+      "name": "review:Нічні прокидання (WASO) після ",
+      "status": "ok",
+      "duration_s": 118.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Нічні прокидання (WASO) після ",
+      "status": "ok",
+      "duration_s": 20.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Нічні прокидання (WASO) після ",
+      "status": "ok",
+      "duration_s": 10.0,
+      "error": null
+    },
+    {
+      "name": "save:Нічні прокидання (WASO) після ",
+      "status": "ok",
+      "duration_s": 17.2,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.2,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.2,
+      "error": null
+    }
+  ]
+}

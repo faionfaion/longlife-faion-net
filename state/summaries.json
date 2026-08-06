@@ -5858,5 +5858,23 @@
       "апное сну"
     ],
     "summary": "Стаття розбирає міф про те, що WASO >45 хвилин самостійно підвищує серцево-судинну смертність. Найбільший актиграфічний аналіз UK Biobank (Saint-Maurice 2024, n≈88 000) не знайшов такого зв'язку у дорослих 40–69 років. Реальний сигнал (HR 1,35 у чоловіків, 1,60–2,17 у жінок) з'являється лише при вимірюванні arousal burden через ПСГ у старших когортах (Shahrbabaki 2021, EHJ). Механізм: пригнічення повільнохвильового сну послаблює нічний BP dipping (Sayk 2010) та підвищує CRP/IL-6 (Irwin 2016). Практичні рекомендації: обмеження алкоголю за 3 год до сну, CBT-I як перша лінія при хронічному безсонні (AASM 2021 strong rec), скринінг апное через STOP-BANG за наявності червоних прапорців. Рівень доказовості — moderate; головна цінність матеріалу — чесна деконструкція популярної, але слабко підтвердженої тези."
+  },
+  "klitkovyna-40g-reynolds-doza-vidpovid-hrechka-oves-bobovi-2026": {
+    "date": "2026-08-06",
+    "title": "Клітковина 40 г на день: чому «5 порцій овочів» не дотягують і як закрити розрив українськими продуктами",
+    "type": "nutrition",
+    "tags": [
+      "клітковина",
+      "харчування",
+      "довголіття",
+      "смертність",
+      "гречка",
+      "овес",
+      "бобові",
+      "цільні злаки",
+      "мета-аналіз",
+      "Reynolds"
+    ],
+    "summary": "Third article in the fiber series, extending the dose-response beyond 25g. Reynolds 2019 Lancet meta-analysis (185 cohorts, 135M person-years) showed continued benefit above 30g/day for CVD, T2D, CRC and all-cause mortality. Confirmed by Ramezani 2024 (Clinical Nutrition, 64 cohorts, 3.5M participants: 23% lower all-cause mortality in highest intake group) and Veronese 2025 umbrella review (Class I evidence for CVD mortality). Fu 2023 shows cereal fiber has the strongest signal (−18% all-cause mortality per +10g/day). Key insight: 400g fruit/veg (WHO 5-a-day) yields only ~10–12g fiber; reaching 30–40g requires cereal fiber (buckwheat, oats, rye) plus legumes — traditional Ukrainian foods. WHO STEPS Ukraine data: 66.4% of Ukrainians don't hit 5-a-day; legume intake 9g/day vs 75g recommended. Practical calculator using USDA FDC values reaches 43g/day without supplements. Caveats: mostly observational data; 40g is upper end of beneficial range, not minimum; gradual increase needed to avoid GI discomfort; IBS/IBD patients should scale down. Evidence strength: strong."
   }
 }
