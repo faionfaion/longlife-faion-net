@@ -5876,5 +5876,21 @@
       "Reynolds"
     ],
     "summary": "Third article in the fiber series, extending the dose-response beyond 25g. Reynolds 2019 Lancet meta-analysis (185 cohorts, 135M person-years) showed continued benefit above 30g/day for CVD, T2D, CRC and all-cause mortality. Confirmed by Ramezani 2024 (Clinical Nutrition, 64 cohorts, 3.5M participants: 23% lower all-cause mortality in highest intake group) and Veronese 2025 umbrella review (Class I evidence for CVD mortality). Fu 2023 shows cereal fiber has the strongest signal (−18% all-cause mortality per +10g/day). Key insight: 400g fruit/veg (WHO 5-a-day) yields only ~10–12g fiber; reaching 30–40g requires cereal fiber (buckwheat, oats, rye) plus legumes — traditional Ukrainian foods. WHO STEPS Ukraine data: 66.4% of Ukrainians don't hit 5-a-day; legume intake 9g/day vs 75g recommended. Practical calculator using USDA FDC values reaches 43g/day without supplements. Caveats: mostly observational data; 40g is upper end of beneficial range, not minimum; gradual increase needed to avoid GI discomfort; IBS/IBD patients should scale down. Evidence strength: strong."
+  },
+  "khodba-pislya-yizhi-10-vs-30-khvylyn-plato-postprandialna-glukoza-2025": {
+    "date": "2026-08-06",
+    "title": "Плато на 10 хвилинах: чому коротка прогулянка після їжі працює майже так само, як довга — за даними 2025",
+    "type": "research",
+    "tags": [
+      "ходьба після їжі",
+      "постпрандіальна глюкоза",
+      "дозозалежна крива",
+      "мета-аналіз 2025",
+      "переддіабет",
+      "фізична активність",
+      "глікемічний контроль",
+      "дослідження"
+    ],
+    "summary": "Свіжий РКД Hashimoto 2025 (Scientific Reports, n=12) показав, що 10 хвилин ходьби одразу після 75-г глюкозного навантаження знижують 2-годинну AUC глюкози практично так само, як 30 хвилин ходьби із затримкою (15 607 vs 15 732 мг·хв/дл), а пік глюкози достовірно збиває лише короткий негайний варіант. Мета-аналіз Chang 2025 (Frontiers in Nutrition, 17 РКД, 261 учасник) підтверджує нелінійну дозозалежну криву: найбільший ефект на глюкозу iAUC — при ≤30 хв/день сумарно (SMD −1,51), більші об'єми не додають користі. Reynolds 2016 (діабет 2 типу) і DiPietro 2013 (літні з IGT) показують, що дроблення тривалості на 3×10–15 хв після кожного прийому їжі перевершує один довгий блок. Engeroff 2023 додає: кожна хвилина затримки після їжі знімає ~1,5% ефекту. Практичний висновок: 10–15 хв ходьби одразу після основного прийому їжі дають ~90% користі «канонічних» 30 хв. Рівень доказів помірний: малі вибірки, чиста глюкоза замість змішаної їжі, висока гетерогенність. Пацієнтам з діабетом — консультація з лікарем."
   }
 }
