@@ -5957,5 +5957,21 @@
       "Україна"
     ],
     "summary": "Research article on thermostable ('fridge-free') vaccines and their relevance for Ukraine during 2026-2027 winter blackouts. Key evidence: WHO estimates ~50% of vaccines worldwide are wasted due to cold chain breaks; a 2026 WHO Ukraine field study (72,040 hours of temperature monitoring across 9 oblasts) found only 54.8% of transport routes to primary care maintained the cold chain, and only 28% of pre-war providers had backup power. The article reviews three generations of thermostable technology: (1) MenAfriVac Controlled Temperature Chain approved by WHO in 2012 (up to 40°C for 4 days); (2) Stablepharma SPVX02 tetanus-diphtheria vaccine (Phase 1, 2026, stable 24 months at 30°C); (3) silk fibroin polio vaccine platform (Kluge 2020, preclinical, ~3 years at room temperature) and MR-MAP microneedle patch for measles-rubella (Lancet 2024, Gambia RCT, 93% seroconversion). Practical takeaway: don't delay scheduled vaccinations due to blackouts; regional centres need backup power and VVM monitoring; thermostable vaccines are a promising trajectory, not a panacea. Evidence strength: moderate — regulatory framework and MenAfriVac are strong; SPVX02 and silk fibroin remain early-stage."
+  },
+  "kefir-vs-yogurt-mikrobiom-dstu-4417-cfu-etyketky-2026": {
+    "date": "2026-08-06",
+    "title": "Кефір проти йогурту: чому «10 млрд КУО» на етикетці — це ще не мікробіом",
+    "type": "nutrition",
+    "tags": [
+      "харчування",
+      "мікробіом",
+      "кефір",
+      "йогурт",
+      "ферментовані продукти",
+      "пробіотики",
+      "дослідження",
+      "ДСТУ"
+    ],
+    "summary": "Кефір і йогурт часто ставлять в один ряд «ферментованих», але за складом мікрофлори це різні продукти. Йогуртова закваска — 2 види бактерій; кефірне грибкове зерно — 24–61 вид, включно з дріжджами (огляд Bourrie 2016). Корейське RCT 2025 (n=28) показало, що лише кефір збільшує *Bifidobacterium breve*, *Weissella* і бутират-продуцентів *Blautia*. Ірландське RCT Walsh 2023 виявило, що традиційний зерновий кефір змінює мікробіом, а комерційні «пробіотичні» напої — ні. Лабораторний аудит JDS 2021 показав, що 66 % комерційних кефірів завищують CFU щонайменше в 10 разів. EFSA дозволила лише одну заяву для ферментованого молока — покращення травлення лактози при ≥10⁸ КУО/г. ДСТУ 4417:2005 забороняє називати кефіром пастеризовані напої. Практично: шукати позначку «на кефірних грибках», розглянути домашню закваску, 150 мл/день. Рівень доказовості — помірний."
   }
 }
