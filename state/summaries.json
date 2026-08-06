@@ -5941,5 +5941,21 @@
       "stepped care"
     ],
     "summary": "NHS England is opening 159 walk-in mental health centres in libraries and banks (£343m, from Autumn 2026), based on Tower Hamlets 24/7 pilot. Evidence for low-threshold access is moderate: crisis cafés associated with 7.8% fewer admissions (Xu 2024), CNWL service saw 85% avoid hospitalisation, IAPT reliable recovery 48.4%. Caveat: Delgadillo 2022 (JAMA Psychiatry) shows stratified care outperforms stepped care for depression — open doors need smart triage. Ukraine has Lifeline 7333, «Ти як?» programme and veteran spaces but lacks the no-appointment physical layer in familiar community venues (libraries, Ukrposhta, Oschadbank). Practical takeaway: save 7333, use howareu.com map, accompany loved ones to services rather than referring them. Evidence: moderate."
+  },
+  "fridge-free-vakcyny-cold-chain-blackouts-ukraine-2026": {
+    "date": "2026-08-06",
+    "title": "«Холодильник не потрібен»: fridge-free вакцини і що це змінить для країн із блекаутами",
+    "type": "research",
+    "tags": [
+      "вакцини",
+      "холодовий ланцюг",
+      "імунізація",
+      "блекаути",
+      "дослідження",
+      "профілактика",
+      "громадське здоровя",
+      "Україна"
+    ],
+    "summary": "Research article on thermostable ('fridge-free') vaccines and their relevance for Ukraine during 2026-2027 winter blackouts. Key evidence: WHO estimates ~50% of vaccines worldwide are wasted due to cold chain breaks; a 2026 WHO Ukraine field study (72,040 hours of temperature monitoring across 9 oblasts) found only 54.8% of transport routes to primary care maintained the cold chain, and only 28% of pre-war providers had backup power. The article reviews three generations of thermostable technology: (1) MenAfriVac Controlled Temperature Chain approved by WHO in 2012 (up to 40°C for 4 days); (2) Stablepharma SPVX02 tetanus-diphtheria vaccine (Phase 1, 2026, stable 24 months at 30°C); (3) silk fibroin polio vaccine platform (Kluge 2020, preclinical, ~3 years at room temperature) and MR-MAP microneedle patch for measles-rubella (Lancet 2024, Gambia RCT, 93% seroconversion). Practical takeaway: don't delay scheduled vaccinations due to blackouts; regional centres need backup power and VVM monitoring; thermostable vaccines are a promising trajectory, not a panacea. Evidence strength: moderate — regulatory framework and MenAfriVac are strong; SPVX02 and silk fibroin remain early-stage."
   }
 }
