@@ -41546,3 +41546,92 @@ ModuleNotFoundError: No module named 'opentelemetry'
 03:44:19 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
 03:44:19 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
 03:44:19 [pipeline.stages.s7_save] INFO: Article saved: /home/faion/longlife-faion-net/content/kava-fibrylyatsiya-peredserd-decaf-crave-ucsf-2025.md
+03:44:19 [pipeline] INFO: Article ready: kava-fibrylyatsiya-peredserd-decaf-crave-ucsf-2025 (Кава і фібриляція передсердь: DECAF 2025 показав, )
+03:44:19 [pipeline] INFO: === Article 5/10 ===
+03:44:19 [pipeline] INFO: --- Article: [research] Ходячі центри психічної допомоги у бібліотеках і банках: що  ---
+03:44:19 [asyncio] DEBUG: Using selector: EpollSelector
+03:44:19 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:44:20 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:48:16 [pipeline.stages.s2_research] INFO: Research complete: 12951 chars
+03:48:16 [asyncio] DEBUG: Using selector: EpollSelector
+03:48:16 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:48:16 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:49:40 [pipeline.stages.s3_generate] INFO: Generated: 'Психічна допомога у бібліотеці й банку: що обіцяє англійська модель і що з неї варто взяти Україні' (slug=walk-in-mental-health-hubs-nhs-england-2026-ty-yak-ukraina, 565 words, 12 sources)
+03:49:40 [asyncio] DEBUG: Using selector: EpollSelector
+03:49:40 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:49:40 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:50:08 [pipeline.stages.s4_review] INFO: Review: score=8, approved=True
+03:50:08 [pipeline.stages.s4_review] INFO: Feedback: Solid evidence-based policy piece with appropriate caveats and balanced messaging. Minor improvements to consider in a light edit: (1) The Ho et al. meta-analysis is from 2016 — worth flagging the age
+03:50:08 [asyncio] DEBUG: Using selector: EpollSelector
+03:50:08 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:50:08 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:51:14 [pipeline.stages.s5_revise] INFO: Revised article: 715 words
+03:51:14 [pipeline] INFO: === Review cycle 1/3 complete ===
+03:51:14 [asyncio] DEBUG: Using selector: EpollSelector
+03:51:14 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:51:14 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:51:28 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+03:51:28 [pipeline.stages.s4_review] INFO: Feedback: Strong, well-sourced piece with appropriate caveats throughout. Author correctly flags correlation vs causation (Xu et al.), notes press-release vs peer-reviewed distinction (CNWL 85% figure), acknowl
+03:51:28 [pipeline] INFO: Article approved after 1 revision(s)
+03:51:28 [asyncio] DEBUG: Using selector: EpollSelector
+03:51:28 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:51:28 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:51:52 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita walks through the warmly lit reading room of a public l | pose=MEDIUM-WIDE shot, Vita in three-quarter body view walking slowly through the space, weight shifted onto her front foot mid-step, torso turned slightly toward the seated group, both hands cupped around a single ceramic mug held at chest level — both hands doing the same simple thing. | expression=Encouraging look — slight head tilt, soft warm eyes, gentle closed-mouth smile, brows relaxed, conveying quiet reassurance rather than performance. | props=plain ceramic mug of herbal tea held in both hands, small potted fern on a low wooden table, upholstered sage-green armchair in the conversation corner
+03:51:52 [asyncio] DEBUG: Using selector: EpollSelector
+03:51:52 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:51:53 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:52:01 [pipeline.stages.s6_generate_tg] INFO: TG caption: 635 chars
+03:52:01 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=walk-in-mental-health-hubs-nhs-england-2026-ty-yak-ukraina
+03:52:01 [asyncio] DEBUG: Using selector: EpollSelector
+03:52:01 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:52:02 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+03:52:17 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Added explicit positive anatomy counts, unified both hands into one identical symmetric grip on the 
+03:52:17 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+03:52:17 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:52:18 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 429 262
+03:52:18 [pipeline.image_gen] ERROR: OpenAI API error: 429 — 
+03:52:18 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 1 failed to produce image
+03:52:18 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 2/3 (quality=high)
+03:52:18 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:52:18 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 429 262
+03:52:18 [pipeline.image_gen] ERROR: OpenAI API error: 429 — 
+03:52:18 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 2 failed to produce image
+03:52:18 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 3/3 (quality=high)
+03:52:18 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+03:52:18 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 429 262
+03:52:18 [pipeline.image_gen] ERROR: OpenAI API error: 429 — 
+03:52:18 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
+03:52:18 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
+03:52:18 [pipeline.stages.s7_save] INFO: Article saved: /home/faion/longlife-faion-net/content/walk-in-mental-health-hubs-nhs-england-2026-ty-yak-ukraina.md

@@ -5925,5 +5925,21 @@
       "кардіологія"
     ],
     "summary": "Рандомізоване дослідження DECAF (JAMA, листопад 2025, N=200) показало, що пацієнти з персистуючою фібриляцією передсердь після електричної кардіоверсії, які продовжували пити щонайменше чашку кави з кофеїном щодня протягом 6 місяців, мали на 39% нижчий ризик рецидиву AF порівняно з тими, хто повністю відмовився від кофеїну (47% vs 64%; HR 0.61). Це доповнює трайл CRAVE 2023 (NEJM), який на здорових добровольцях не виявив збільшення передсердних екстрасистол від кави, хоча зафіксував ~50% зростання шлуночкових екстрасистол і 36 хв втраченого сну. Спостережні когорти SUN/PREDIMED та UK Biobank показують нейтральний або протективний зв'язок помірного вживання кави з AF. Гайдлайни ESC 2024 і AHA/ACC/HRS 2023 уже не включають каву як фактор ризику AF. Обмеження: DECAF вивчав лише персистуючу форму AF (не пароксизмальну), відкритий дизайн, стеля 400 мг кофеїну/добу. Практичний висновок: пацієнтам з персистуючою AF блокова заборона кави не обґрунтована; при пароксизмальній формі — обговорення з кардіологом. Рівень доказовості: помірний."
+  },
+  "walk-in-mental-health-hubs-nhs-england-2026-ty-yak-ukraina": {
+    "date": "2026-08-06",
+    "title": "Психічна допомога у бібліотеці й банку: що обіцяє англійська модель і що з неї варто взяти Україні",
+    "type": "research",
+    "tags": [
+      "психічне здоров'я",
+      "доступ до допомоги",
+      "NHS",
+      "Ти як",
+      "Lifeline 7333",
+      "дослідження",
+      "Україна",
+      "stepped care"
+    ],
+    "summary": "NHS England is opening 159 walk-in mental health centres in libraries and banks (£343m, from Autumn 2026), based on Tower Hamlets 24/7 pilot. Evidence for low-threshold access is moderate: crisis cafés associated with 7.8% fewer admissions (Xu 2024), CNWL service saw 85% avoid hospitalisation, IAPT reliable recovery 48.4%. Caveat: Delgadillo 2022 (JAMA Psychiatry) shows stratified care outperforms stepped care for depression — open doors need smart triage. Ukraine has Lifeline 7333, «Ти як?» programme and veteran spaces but lacks the no-appointment physical layer in familiar community venues (libraries, Ukrposhta, Oschadbank). Practical takeaway: save 7333, use howareu.com map, accompany loved ones to services rather than referring them. Evidence: moderate."
   }
 }
