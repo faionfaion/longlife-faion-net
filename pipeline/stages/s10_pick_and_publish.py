@@ -27,18 +27,7 @@ def run() -> dict | None:
     now = datetime.now(timezone.utc)
     today_str = now.strftime("%Y-%m-%d")
 
-    # Load today's TG publish state
-    tg_state_file = STATE_DIR / "tg_published" / f"{today_str}.json"
-    tg_published: dict = {}
-    if tg_state_file.exists():
-        tg_published = json.loads(tg_state_file.read_text(encoding="utf-8"))
-
-    already_posted = set()
-    for v in tg_published.values():
-        if isinstance(v, str):
-            already_posted.add(v)
-        elif isinstance(v, dict):
-            already_posted.add(v.get("slug", ""))
+    already_posted = _all_posted_slugs()
 
     # Find today's articles with pre-generated TG captions
     candidate = _find_next_candidate(today_str, already_posted)
@@ -74,6 +63,36 @@ def run() -> dict | None:
 
     logger.error("Failed to publish %s to TG", slug)
     return None
+
+
+def _all_posted_slugs() -> set[str]:
+    """Every slug ever sent to the channel, across all daily state files.
+
+    Dedup used to read only today's file. The picker walks the teaser list newest-first and
+    takes the first entry it has not posted *today*, so every morning it started at the top
+    again and re-sent the same four articles. That ran for 17 days — 68 posts, 4 distinct
+    articles — because image generation had stalled and the newer teasers were all skipped
+    for having no cover, which pinned the walk to the same place in the list every time.
+    """
+    posted: set[str] = set()
+    tg_dir = STATE_DIR / "tg_published"
+    if not tg_dir.exists():
+        return posted
+
+    for state_file in sorted(tg_dir.glob("*.json")):
+        try:
+            data = json.loads(state_file.read_text(encoding="utf-8"))
+        except (OSError, ValueError):
+            # A corrupt day costs us a possible repeat, not the whole publish run.
+            logger.warning("Unreadable TG publish state, ignoring: %s", state_file.name)
+            continue
+        entries = data.values() if isinstance(data, dict) else data
+        for entry in entries:
+            if isinstance(entry, str):
+                posted.add(entry)
+            elif isinstance(entry, dict) and entry.get("slug"):
+                posted.add(entry["slug"])
+    return posted
 
 
 def _find_next_candidate(today_str: str, exclude: set[str]) -> tuple[str, str, str] | None:
