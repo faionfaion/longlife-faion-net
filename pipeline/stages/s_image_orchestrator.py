@@ -73,7 +73,9 @@ def generate_with_qa(
             logger.warning("[image-orchestrator] Attempt %d failed to produce image", attempt)
             continue
 
-        qa_result = s_image_qa.analyze(img_path, scene_context=raw_prompt)
+        qa_result = s_image_qa.analyze(
+            img_path, scene_context=raw_prompt, has_character=reference is not None
+        )
         sev_rank = _severity_rank(qa_result)
 
         # Track best-seen image (prefer cleaner severity)

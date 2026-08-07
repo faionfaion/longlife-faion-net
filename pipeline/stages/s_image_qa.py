@@ -68,12 +68,17 @@ _JSON_SCHEMA_HINT = """{
 }"""
 
 
-def analyze(image_path: Path, scene_context: str = "") -> dict:
+def analyze(image_path: Path, scene_context: str = "", has_character: bool = True) -> dict:
     """Analyze an image for artifacts. Returns {ok, severity, issues, retry_recommended}.
 
     Args:
         image_path: Path to the generated image file.
         scene_context: Optional original scene description for context.
+        has_character: Whether a person is supposed to be in the frame. Still-life covers
+            have nobody in them, and the anatomy questions below then read as a demand for
+            a person: the model counts zero hands and zero heads, the cross-check turns
+            that into a hard fail, and two more renders get burned re-shooting a picture
+            that was correct the first time.
 
     Returns:
         Dict with keys: ok (bool), severity (str), issues (list[str]), retry_recommended (bool).
@@ -84,25 +89,45 @@ def analyze(image_path: Path, scene_context: str = "") -> dict:
 
     context_block = f"\n\nOriginal scene description (for reference):\n{scene_context[:1500]}" if scene_context else ""
 
+    if has_character:
+        first_pass = (
+            f"FIRST, look carefully at the main character and answer these questions by counting what you "
+            f"actually see (fill the `counts` object):\n"
+            f"- How many hands does the character have?\n"
+            f"- How many arms?\n"
+            f"- How many legs?\n"
+            f"- How many heads?\n"
+            f"- How many eyes?\n"
+            f"- How many fingers on the RIGHT hand?\n"
+            f"- How many fingers on the LEFT hand?\n"
+            f"(If a limb is hidden/cropped by the frame, count only what is visible and say so in issues — do "
+            f"not assume.) "
+        )
+        anatomy_rule = (
+            f"A normal human has exactly 2 hands, 2 arms, 2 legs, 1 head, 2 eyes, and 5 fingers per visible "
+            f"hand. Any deviation, OR any readable text present, is a hard fail "
+            f"(severity='high', retry_recommended=true). "
+        )
+    else:
+        first_pass = (
+            f"This cover is a deliberate still life or empty room: there is supposed to be NOBODY in it. "
+            f"Leave the `counts` object empty. If a person or an animal has appeared anyway, that is a hard "
+            f"fail — say so in issues. "
+        )
+        anatomy_rule = (
+            f"Any person or animal in the frame, OR any readable text present, is a hard fail "
+            f"(severity='high', retry_recommended=true). "
+        )
+
     user_prompt = (
         f"Read the image at: {image_path}\n\n"
-        f"FIRST, look carefully at the main character and answer these questions by counting what you "
-        f"actually see (fill the `counts` object):\n"
-        f"- How many hands does the character have?\n"
-        f"- How many arms?\n"
-        f"- How many legs?\n"
-        f"- How many heads?\n"
-        f"- How many eyes?\n"
-        f"- How many fingers on the RIGHT hand?\n"
-        f"- How many fingers on the LEFT hand?\n"
-        f"(If a limb is hidden/cropped by the frame, count only what is visible and say so in issues — do "
-        f"not assume.) Also set `readable_text_present` = true if ANY readable text, numbers, chart, label, "
+        f"{first_pass}"
+        f"Also set `readable_text_present` = true if ANY readable text, numbers, chart, label, "
         f"or screen appears in the image.\n\n"
         f"THEN inspect for any other artifact — distorted faces, merged/duplicated objects, garbled text, "
         f"floating props, warping, composition breaks.{context_block}\n\n"
         f"Return strict JSON matching this shape:\n{_JSON_SCHEMA_HINT}\n\n"
-        f"A normal human has exactly 2 hands, 2 arms, 2 legs, 1 head, 2 eyes, and 5 fingers per visible hand. "
-        f"Any deviation, OR any readable text present, is a hard fail (severity='high', retry_recommended=true). "
+        f"{anatomy_rule}"
         f"If and only if the image is truly clean, set ok=true, severity='none', issues=[], retry_recommended=false."
     )
 
@@ -129,15 +154,17 @@ def analyze(image_path: Path, scene_context: str = "") -> dict:
     ok = bool(result.get("ok", True))
     retry = bool(result.get("retry_recommended", False))
 
-    # Cross-check the explicit anatomy counts — override a too-lenient verdict.
-    expected = {"hands": 2, "arms": 2, "legs": 2, "heads": 1, "eyes": 2,
-                "fingers_right_hand": 5, "fingers_left_hand": 5}
+    # Cross-check the explicit anatomy counts — override a too-lenient verdict. Only when
+    # somebody is meant to be in frame: on a still life every count is legitimately zero.
     counts = result.get("counts") or {}
-    for key, want in expected.items():
-        got = counts.get(key)
-        if isinstance(got, int) and got != want:
-            issues.append(f"Anatomy count off: {key}={got} (expected {want})")
-            ok, retry, severity = False, True, "high"
+    if has_character:
+        expected = {"hands": 2, "arms": 2, "legs": 2, "heads": 1, "eyes": 2,
+                    "fingers_right_hand": 5, "fingers_left_hand": 5}
+        for key, want in expected.items():
+            got = counts.get(key)
+            if isinstance(got, int) and got != want:
+                issues.append(f"Anatomy count off: {key}={got} (expected {want})")
+                ok, retry, severity = False, True, "high"
     if result.get("readable_text_present") is True:
         issues.append("Readable text/labels present in image")
         ok, retry, severity = False, True, "high"

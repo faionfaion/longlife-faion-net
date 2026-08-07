@@ -29,13 +29,17 @@ from pipeline.stages import (
 logger = logging.getLogger("pipeline")
 
 
-def run(dry_run: bool = False) -> list[PipelineContext]:
+def run(dry_run: bool = False, limit: int | None = None) -> list[PipelineContext]:
     """Generate mode: batch all articles for the day.
 
     1. Create editorial plan (8-10 topics)
     2. Collect RSS context
     3. For each topic: research -> generate -> review -> save
     4. Deploy site once at the end
+
+    `limit` stops after N articles. A full plan is seven Opus stages per article across
+    eight or so topics, which is most of an hour and a visible bite out of the daily rate
+    limit — too much to spend proving that a change to one stage works.
     """
     report = RunReport(dry_run=dry_run)
     report.begin()
@@ -54,6 +58,11 @@ def run(dry_run: bool = False) -> list[PipelineContext]:
     written_topics = _load_written_topics(plan)
 
     for i, topic in enumerate(topics, 1):
+        if limit is not None and len(completed) >= limit:
+            logger.info("Reached --limit %d, stopping with %d topics unwritten",
+                        limit, len(topics) - i + 1)
+            break
+
         topic_label = topic.get("topic", "")
         if topic_label in written_topics:
             logger.info("=== Article %d/%d === SKIP (already written): %s", i, len(topics), topic_label[:50])
