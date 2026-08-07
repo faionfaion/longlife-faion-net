@@ -15,3 +15,7 @@ __pycache__/
 *.pyc
 .env
 .DS_Store
+
+# QA retry attempts. The orchestrator keeps the best of three and copies it to
+# <slug>.jpg; the rejects are debugging output, not site assets.
+gatsby/static/images/*_try*.jpg
