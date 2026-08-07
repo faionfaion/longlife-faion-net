@@ -3,92 +3,54 @@ set -euo pipefail
 
 # Deploy longlife.faion.net
 #
-# Two paths, chosen by whether the webroot is on this machine:
+# Generation and publishing live on different machines:
 #
-#   local   — the pipeline already runs on faion-net, so build and rsync in place.
-#             This is the live path.
-#   remote  — push to GitHub, then SSH in and build there. Kept for running a deploy
-#             from a workstation.
+#   nero-prod  runs `generate` — writes articles and covers, commits, and pushes.
+#   faion-net  serves the site and runs `publish`, `digest` and `site`.
 #
-# The pipeline moved onto faion-net in May 2026 but this script kept SSHing to
-# 46.225.58.119 — from faion-net to itself, with no key authorised for the loop-back.
-# Every nightly deploy failed with "Permission denied (publickey)" and the site sat
-# frozen at its April build for over three months while articles kept accumulating.
+# So "deploy" means two different things depending on where it runs:
 #
-# The remote path also runs `git reset --hard origin/$BRANCH`, which on faion-net would
-# throw away the content commits the pipeline makes locally and has never pushed. That is
-# the other reason the local path must not fall through to it.
+#   on the web host      build the site in place and rsync it into the webroot
+#   anywhere else        push the commits and stop; the web host builds on its own cron
+#
+# The second case used to SSH into faion-net and run `git reset --hard origin/main` there.
+# That is why it no longer does: the publish ledger under state/tg_published is tracked,
+# and resetting it to whatever the other machine last pushed would re-send articles the
+# channel has already had. A machine that does not serve the site has no business
+# rewriting the tree of one that does.
+#
+# (Before May 2026 the script always took the SSH path. After the pipeline moved onto
+# faion-net that meant SSHing from the host to itself with no key authorised for the
+# loop-back, so every nightly deploy failed and the site sat frozen on its April build for
+# over three months.)
 
-REPO_URL="git@github.com:faionfaion/longlife-faion-net.git"
-BRANCH="main"
-REMOTE_DIR="/home/faion/longlife-faion-net"
 WEBROOT="/var/www/longlife.faion.net"
 SITE="longlife.faion.net"
-SSH="ssh faion@46.225.58.119 -p 22022"
+BRANCH="master"
 
 cd "$(dirname "$0")/.."
 ROOT="$PWD"
 
 echo "==> Deploying $SITE"
 
-build_and_publish() {
-    local src="$1"
-
-    echo "  Installing deps..."
-    cd "$src/gatsby"
-    npm ci --silent 2>/dev/null || npm install --silent
-
-    echo "  Building..."
-    npx gatsby clean
-    npx gatsby build
-
-    echo "  Publishing to $WEBROOT..."
-    sudo mkdir -p "$WEBROOT"
-    sudo rsync -a --delete "$src/gatsby/public/" "$WEBROOT/"
-
-    sudo nginx -t && sudo systemctl reload nginx
-}
-
-if [ -d "$WEBROOT" ] || [ "$(hostname)" = "faion-net-new" ]; then
-    echo "  Webroot is local — building in place, no SSH."
-    build_and_publish "$ROOT"
-    echo "==> Deployed https://$SITE/"
+if [ ! -d "$WEBROOT" ] && [ "$(hostname)" != "faion-net-new" ]; then
+    echo "  Not the web host — pushing commits, the site builds where it is served."
+    git push origin "HEAD:$BRANCH"
+    echo "==> Pushed."
     exit 0
 fi
 
-echo "  Pushing to GitHub..."
-git push origin "$BRANCH" 2>/dev/null || true
-
-$SSH bash -s -- "$REPO_URL" "$BRANCH" "$REMOTE_DIR" "$WEBROOT" "$SITE" <<'REMOTE'
-set -euo pipefail
-REPO_URL="$1"; BRANCH="$2"; REMOTE_DIR="$3"; WEBROOT="$4"; SITE="$5"
-
-echo "  [remote] Syncing repo..."
-if [ -d "$REMOTE_DIR/.git" ]; then
-    cd "$REMOTE_DIR"
-    git remote set-url origin "$REPO_URL" 2>/dev/null || true
-    git fetch origin "$BRANCH" --quiet
-    git reset --hard "origin/$BRANCH" --quiet
-else
-    git clone --branch "$BRANCH" --single-branch "$REPO_URL" "$REMOTE_DIR" --quiet
-    cd "$REMOTE_DIR"
-fi
-echo "  [remote] At $(git rev-parse --short HEAD)"
-
-echo "  [remote] Installing deps..."
-cd "$REMOTE_DIR/gatsby"
+echo "  Building in place."
+cd "$ROOT/gatsby"
 npm ci --silent 2>/dev/null || npm install --silent
 
-echo "  [remote] Building..."
 npx gatsby clean
 npx gatsby build
 
-echo "  [remote] Deploying to $WEBROOT..."
+echo "  Publishing to $WEBROOT..."
 sudo mkdir -p "$WEBROOT"
-sudo rsync -a --delete "$REMOTE_DIR/gatsby/public/" "$WEBROOT/"
+sudo rsync -a --delete "$ROOT/gatsby/public/" "$WEBROOT/"
 
 sudo nginx -t && sudo systemctl reload nginx
-echo "  [remote] Done."
-REMOTE
 
 echo "==> Deployed https://$SITE/"

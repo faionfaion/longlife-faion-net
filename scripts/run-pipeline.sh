@@ -1,10 +1,17 @@
 #!/bin/bash
-# LongLife pipeline runner — called by cron.
+# LongLife pipeline runner — called by cron on both machines.
 #
-# Cron schedule (from AGENTS.md, UTC):
-#   3 3 * * *          bash ~/workspace/projects/longlife-faion-net/scripts/run-pipeline.sh generate
-#   5 9,12,15,18 * * * bash ~/workspace/projects/longlife-faion-net/scripts/run-pipeline.sh publish
-#   5 20 * * *         bash ~/workspace/projects/longlife-faion-net/scripts/run-pipeline.sh digest
+# The work is split across two hosts, because covers are rendered through the Codex CLI
+# and Codex is only installed and authenticated on nero-prod:
+#
+#   nero-prod (UTC)          faion-net (UTC)
+#   3 3 * * *  generate      5 9,12,15,18 * * *  publish
+#                            43 20 * * *         digest
+#                            30 5 * * *          site
+#
+# nero-prod writes articles and covers, commits and pushes. faion-net pulls, sends to
+# Telegram and rebuilds the site. Only faion-net ever touches the channel or the webroot,
+# which is what keeps the two hosts from posting over each other.
 
 set -euo pipefail
 
@@ -39,9 +46,13 @@ set -a
 [ -f "$HOME/workspace/.env" ] && source "$HOME/workspace/.env"
 set +a
 
-# Activate shared media venv if present (faion-net runtime). On hosts without
-# this venv (e.g. nero-prod), fall through to system python3.
-if [ -f "$HOME/.venv-media/bin/activate" ] && [ -z "${VIRTUAL_ENV:-}" ]; then
+# Activate a venv if one is present. faion-net shares ~/.venv-media across its media
+# pipelines; nero-prod keeps a per-project .venv because generate needs the Claude Agent
+# SDK. Fall through to system python3 on a host with neither.
+if [ -f "$PROJECT_DIR/.venv/bin/activate" ] && [ -z "${VIRTUAL_ENV:-}" ]; then
+    # shellcheck disable=SC1091
+    source "$PROJECT_DIR/.venv/bin/activate"
+elif [ -f "$HOME/.venv-media/bin/activate" ] && [ -z "${VIRTUAL_ENV:-}" ]; then
     # shellcheck disable=SC1091
     source "$HOME/.venv-media/bin/activate"
 fi
@@ -65,8 +76,24 @@ fi
 
 echo "$(date '+%Y-%m-%d %H:%M:%S') Pipeline $MODE started" >> "$LOG_DIR/cron.log"
 
-python3 -m pipeline "$MODE" -v >> "$LOG_DIR/cron.log" 2>&1
-EXIT_CODE=$?
+# `site` is not a pipeline mode — it is the web host rebuilding from whatever the sync
+# above just pulled down. Generation happens on the other machine now, so without this the
+# articles it writes would never reach the site.
+if [ "$MODE" = "site" ]; then
+    bash "$PROJECT_DIR/gatsby/deploy-gh.sh" >> "$LOG_DIR/cron.log" 2>&1
+    EXIT_CODE=$?
+else
+    python3 -m pipeline "$MODE" -v >> "$LOG_DIR/cron.log" 2>&1
+    EXIT_CODE=$?
+
+    # Push what the run produced. The sync at the top only pushes what was already
+    # committed when the run started, which on a generate run is nothing that matters.
+    if [ "$MODE" = "generate" ]; then
+        git push origin HEAD:master >> "$LOG_DIR/cron.log" 2>&1 \
+            || echo "$(date '+%Y-%m-%d %H:%M:%S') push failed — articles are local only" \
+               >> "$LOG_DIR/cron.log"
+    fi
+fi
 
 echo "$(date '+%Y-%m-%d %H:%M:%S') Pipeline $MODE exit: $EXIT_CODE" >> "$LOG_DIR/cron.log"
 echo "---" >> "$LOG_DIR/cron.log"
