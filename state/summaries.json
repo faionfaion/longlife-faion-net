@@ -6137,5 +6137,21 @@
       "довголіття"
     ],
     "summary": "Article for women aged 20-29 explaining that peak bone mass in women peaks around age 24 (Naseri 2025), and 20-40% of adult bone mass depends on modifiable lifestyle (NOF/Weaver 2016). Evidence supports resistance training + impact loading (jumping) for modest BMD gains in premenopausal women (Kelley 2013 meta-analysis; Zhao 2014 jumping meta-analysis). Honest positioning: vitamin K2 (MK-7) has no RCT evidence in this age group — all data is postmenopausal (Knapen 2013); routine vitamin D supplementation not recommended for healthy adults 19-74 (Endocrine Society 2024). Creatine 3-5g/day is safe and supports strength (ISSN 2017) but no direct BMD benefit proven in young women. DEXA not indicated for asymptomatic premenopausal women per USPSTF 2025 unless red flags present. Practical takeaway: compound lifts 2-3x/week + daily jumps, skip K2 marketing, test D before supplementing. Evidence: moderate for training, preliminary for supplements in this age group."
+  },
+  "magniy-taurat-sertse-arytmii-mccarty-1996-tzang-2024-rct": {
+    "date": "2026-08-07",
+    "title": "Магній таурат для серця і аритмій: що реально показують RCT — і чому це не «магній для нервів»",
+    "type": "nutrition",
+    "tags": [
+      "магній",
+      "таурин",
+      "серце",
+      "тиск",
+      "аритмія",
+      "добавки",
+      "дослідження",
+      "кардіологія"
+    ],
+    "summary": "Розбір магнію таурату як «серцевої» форми магнію. Прямих RCT на саму сіль для гіпертензії чи аритмій немає — усі заяви базуються на гіпотезі McCarty 1996 (Medical Hypotheses, не рецензований журнал) та окремих даних по магнію і таурину. Найкращий доказ для таурину — Sun 2016 (Hypertension, n=120, −7 мм рт. ст. SBP при 1,6 г/добу) і мета-аналіз Tzang 2024 (25 RCT, −4 мм рт. ст. SBP). Мета-аналіз магнію AHA 2025 (Xu, 38 RCT) не включає таурат взагалі. Для аритмій — лише case reports, гайдлайни ESC 2024 форму не згадують. Практичний висновок: будь-яка біодоступна форма магнію + таурин з риби еквівалентні преміальному магнію таурату. Продовження серії про форми магнію після бісгліцинату, L-треонату і трансдермального. Evidence level: preliminary."
   }
 }
