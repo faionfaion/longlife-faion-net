@@ -6185,5 +6185,20 @@
       "стрес"
     ],
     "summary": "Головна знахідка: свіжий квазі-РКД Crego 2025 (N=170, Frontiers in Psychology) порівняв MSC (на основі LKM) і MBSR head-to-head. Обидві практики знижують тривогу за HADS краще за контроль, але різниця між ними мінімальна (r=0.137). MSC чітко виграє по self-compassion і зниженню самокритики. Мета-аналіз Zheng 2023 показує: комбіновані LKM+mindfulness програми ефективніші за чисту LKM (d=−0.28 у РКД). Fredrickson 2008 та Zeng 2015 підтверджують ефект LKM на позитивні емоції. Практичний висновок: 10-хвилинний комбінований протокол (mindfulness-налаштування + LKM-фрази до себе/близької/нейтральної/всіх), щоденно 7+ тижнів. Обмеження: quasi-RCT не clean, здорові вибірки, переважно жінки. Сила доказів: moderate."
+  },
+  "lkm-aktyvnyi-kontrol-petrovic-2024-dressel-2026-chastota": {
+    "date": "2026-08-07",
+    "title": "Медитація любові-доброти проти інших практик: що показує свіжий мета-аналіз",
+    "type": "lifehack",
+    "tags": [
+      "медитація",
+      "тривога",
+      "самотність",
+      "психічне здоров'я",
+      "самоспівчуття",
+      "дослідження",
+      "mindfulness"
+    ],
+    "summary": "Corrective follow-up to the already-published LKM vs MBSR piece. Core finding: Petrovic et al. 2024 meta-analysis of 23 RCTs (Clinical Psychology Review) shows loving-kindness interventions beat passive controls on compassion, positive affect and psychological symptoms, but show non-significant effects against active controls; no moderation by duration, format or facilitator. Two newer RCTs replicate the pattern — Dressel 2026 (n=108, LKM vs progressive muscle relaxation, 4 weeks) found equal loneliness reduction and no empathy increase in either arm, refuting the empathy mechanism; Age-Well 2025 (n=137, adults 65+, 18 months) found meditation and foreign-language training equally reduced loneliness vs passive control. Galante 2014 flagged the same active-control caveat twelve years earlier.\n\nPractical takeaway: the type of contemplative practice matters less than doing one consistently — aim for 2–4 sessions/week of ~10 minutes (Yela 2026 cross-sectional, n=60, suggests frequency rather than years of experience correlates with lower anxiety via self-compassion; non-causal). Includes the 10-minute LKM structure. Evidence strength: moderate. All samples non-clinical; carries the caveat that self-practice does not replace therapy for diagnosed anxiety."
   }
 }
