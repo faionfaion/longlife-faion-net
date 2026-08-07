@@ -6104,5 +6104,20 @@
       "Україна"
     ],
     "summary": "Перший систематичний огляд 2026 року (Rodriguez et al., Biological Research for Nursing, 33 дослідження) підсумовує: пасивна експозиція аерозолю електронних сигарет пов'язана з респіраторними, імунологічними і неврологічними ефектами у дітей. Біомаркерне дослідження JAMA Network Open 2024 (Tattan-Birch et al., 1777 дітей 3–11 років) показує 5-кратне підвищення рівня котиніну у дітей із вейпінгових домівок — на 84% менше, ніж від пасивного тютюнового диму, але не нуль. Bayly 2019 (Chest, 11830 підлітків) і Islam 2022 (Thorax, 2097 осіб) підтверджують зв'язок з астмою і бронхітичними симптомами; італійський пілот 2024 (n=54) ефекту не знайшов через малу вибірку. Когнітивна складова базується переважно на тваринних моделях і активному використанні — прямих людських даних щодо пасивного впливу на мозок дітей практично немає. Український контекст: вейпінг серед підлітків подвоївся 2022→2024 (ERS), 18,4% дітей користуються e-cigs (KSE 2025), але про молодших сиблінгів у ризикових домівках ніхто не говорить. Практичні поради: не вейпити у приміщенні і машині з дітьми, обговорювати експозицію з педіатром при астмі. Сила доказів: помірна для респіраторного тракту, попередня — для когніції."
+  },
+  "chrononutrition-pizniy-snidanok-vs-vecherya-insulinorezystentnist-2025": {
+    "date": "2026-08-07",
+    "title": "Пізній сніданок чи пізня вечеря: що шкідливіше для інсуліну при однакових калоріях",
+    "type": "research",
+    "tags": [
+      "хрононутриціологія",
+      "інсулінорезистентність",
+      "переддіабет",
+      "харчування за годинником",
+      "TRE",
+      "мелатонін",
+      "дослідження 2025"
+    ],
+    "summary": "Article explores chrononutrition beyond TRE: when calories and eating window duration are matched, does meal timing (early vs late) affect insulin resistance? Key evidence: Vujović 2022 Cell Metabolism crossover showed identical meals eaten 4h later worsened hunger hormones and energy expenditure. Díaz-Rizzolo 2024 (Nature) found ≥45% calories after 17:00 impaired glucose tolerance in prediabetes independent of BMI/calories. Garaulet 2022 Diabetes Care demonstrated melatonin-carb interaction via MTNR1B genotype. Habe 2025 RCT: early TRE improved fasting glucose only, not HOMA-IR. Wong 2025 meta-analysis (23 RCTs, n=1280) found NO difference between early/late/self-selected 16/8 windows. Takeaway: signal for early > late exists but inconsistent, strongest in prediabetes and MTNR1B carriers; for most people total calories and protein still matter more. Evidence level: moderate. Cross-references two prior TRE articles."
   }
 }
