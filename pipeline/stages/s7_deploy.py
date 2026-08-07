@@ -32,7 +32,9 @@ def run() -> None:
             timeout=600,
         )
         if result.returncode == 0:
-            logger.info("Site deployed to faion-net")
+            # The script decides what deploying means here: build in place on the web
+            # host, push and stop anywhere else. Its own output says which happened.
+            logger.info("Deploy finished: %s", (result.stdout or "").strip().splitlines()[-1:] or "ok")
         else:
             logger.error(
                 "Deploy failed (exit %d): %s",
