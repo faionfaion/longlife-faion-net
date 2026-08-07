@@ -6023,5 +6023,21 @@
       "подіатрія"
     ],
     "summary": "Guide про літнє взуття і біомеханіку стопи. Ключові знахідки: у thong-style в'єтнамках tibialis anterior працює на +31% більше (Price 2014, JFAR), крок коротший (Shroyer 2010, JAPMA), заблокований windlass mechanism великого пальця (Chard 2013). Fisherman's sandals біомеханічно відрізняються від flip-flops (Zhang 2013) і кращі при набряках, у спеку +34°C і після ортопедичних операцій. Гірші — при плантарному фасциїті та критично протипоказані при діабетичній стопі (IWGDF 2023, GRADE-консенсус). Мінімалістичне взуття може збільшувати силу м'язів стопи на 9–57% (Xu SR 2022; Curtis RCT 2021). Практичний висновок: обирати ремінці замість перемички, замінювати в'єтнамки кожні 3–4 місяці, діабетикам — завжди закрите взуття. Evidence: moderate (мікс РКД, спостережних, клінічних керівництв)."
+  },
+  "nhs-heat-action-plan-ukhsa-4-rivni-ukraina-blekaut-cheklist-2026": {
+    "date": "2026-08-07",
+    "title": "NHS готується до спеки як до зими: що з британського heat action plan варто перенести на українські лікарні і домівки",
+    "type": "guide",
+    "tags": [
+      "спека",
+      "блекаут",
+      "профілактика",
+      "серцева недостатність",
+      "літні люди",
+      "ВООЗ",
+      "UKHSA",
+      "система охорони здоров'я"
+    ],
+    "summary": "Guide article on systemic heat preparedness for Ukraine, triggered by UK Health Secretary Yvette Cooper's August 2026 call for NHS to prepare for heatwaves like winter. Explains UKHSA's four-tier heat-health alert system (green/yellow/amber/red), WHO Europe's 8 core HHAP elements (2026 guidance), and honest assessment of cooling centres' weak evidence base (Dearman 2024 systematic review). Anchors to WHO's May 2026 Ukraine risk assessment identifying extreme heat as primary summer public health hazard amid expected 2.4 GW energy deficit. Central deliverable: household checklist for a home with a 75+ or heart-failure patient during compound blackout + heatwave events, covering medication review (diuretics, beta-blockers, SSRIs — CDC guidance), individualised fluid targets (flagging that blanket 2L/day rule is contraindicated in HF), cool-room designation, medication storage <25°C, phone tree, and WHO red-flag emergency signs. Evidence strength: moderate (WHO guidelines + Stone 2023 blackout modelling + Lancet Countdown 2025)."
   }
 }

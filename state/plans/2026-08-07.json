@@ -1,0 +1,96 @@
+{
+  "articles": [
+    {
+      "topic": "NHS готується до спеки як до зими: що з британського heat action plan варто перенести на українські лікарні і домогосподарства",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Не про особисту спеку (це вже було), а про системну підготовку: heat-health alert levels UKHSA, cooling centres, чек-лист для домогосподарства з людиною 75+ або серцевою недостатністю під час блекауту + спеки. Прив'язка до заяви Wes Streeting липень 2026. Не дублює heatwave anxiety (04.08) і heat acclimation (04.08) — це про систему і домогосподарство, не про особисту фізіологію.",
+      "sources_hint": "UKHSA Adverse Weather and Health Plan 2024-2026; NHS England heatwave plan July 2026; Lancet Countdown 2025; WHO Europe HHAP guidance",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "AI-згенеровані віруси у Stanford 2026: що це означає для біобезпеки і чи треба хвилюватись пацієнтам",
+      "type": "research",
+      "category": "research",
+      "angle": "Розбір першого дослідження, де ШІ спроєктував функціональні бактеріофаги (Nature/Science 2026, група Brian Hie), з чесним контекстом: що це bacteriophages, а не патогени людини; який dual-use ризик за WHO Global Framework 2024; чому мораторій на gain-of-function не покриває AI-design; що конкретно змінює це для громадянина (нічого зараз, але контекст для розмови про регуляцію). Не паніка, не хайп.",
+      "sources_hint": "Nature/Science 2026 Stanford Arc Institute Brian Hie AI-designed bacteriophages; WHO 2024 Global guidance framework for responsible use of life sciences; NTI report on AI biosecurity 2025",
+      "evidence_level": "preliminary",
+      "priority": 1
+    },
+    {
+      "topic": "Синдром вихідного дня і алкоголь: чому «п'ятничне вино» ламає сон більше, ніж понеділковий стрес",
+      "type": "lifehack",
+      "category": "sleep",
+      "angle": "П'ятничний timing-хук: як 2–3 бокали ввечері в п'ятницю зсувають REM і CBT у суботу-неділю, збільшуючи weekend rebound. Дані Ebrahim 2013 (мета-аналіз алкоголь-сон), He 2019, Colrain 2018. Практичний timing: cutoff за 4 години до сну, 1 склянка води на 1 порцію, чому «нічний ковпак» — міф. Не дублює п'ятничний shutdown ritual (31.07) — там про кортизол і роботу, тут про алкоголь і архітектуру сну.",
+      "sources_hint": "Ebrahim 2013 Alcohol Clin Exp Res meta-analysis; Colrain 2018 Handbook Clinical Neurology; He 2019 JAMA Netw Open alcohol sleep architecture; NIAAA 2024 alcohol and sleep",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Плавання у відкритій воді для психічного здоров'я: що показав перший RCT 2025 і як стартувати у Дніпрі/Дністрі безпечно",
+      "type": "fitness",
+      "category": "mental-health",
+      "angle": "П'ятничний seasonal hook: об'єднання доказової бази cold water swimming для депресії/тривоги (перший RCT Massey 2024/2025 BMJ Open) з практикою безпеки в українських річках — де вимірюють якість води, як уникнути гіпотермії, коли не можна (аритмії, гіпертензія).",
+      "sources_hint": "BMJ Open 2024 Massey open water swimming depression RCT; van Tulleken 2018 BMJ Case Reports; RNLI cold water shock; Ukraine SES water quality monitoring 2026",
+      "evidence_level": "preliminary",
+      "priority": 2
+    },
+    {
+      "topic": "Пасивне вейпінг у дітей: що показав перший великий когортний огляд 2026 про астму і когніцію",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Свіжий сигнал: secondhand vape aerosol і респіраторні наслідки у дітей 5–12. Розбір Bayly/Merianos 2025-2026 та Tobacco Control 2026. Український контекст: активний вейпінг серед українських підлітків +67% за 2022-2025 (МОЗ), але про пасивний ефект на молодших сиблінгів не говорять.",
+      "sources_hint": "Tobacco Control 2026 secondhand vape exposure children; Merianos Pediatrics 2025; JAMA Network Open 2026 e-cigarette bystander; Ukraine State Statistics tobacco 2025",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Циркадне харчування (chrono-nutrition): що показав мета-аналіз 2025 про час першого і останнього прийому їжі окремо від TRE",
+      "type": "research",
+      "category": "nutrition",
+      "angle": "Не time-restricted eating загалом (це було), і не понеділковий білково-жировий сніданок (03.08), а конкретно chrononutrition: пізній сніданок vs пізня вечеря — що з них шкідливіше для інсулінорезистентності незалежно від калорій і 14-годинного вікна. Свіжі дані Dashti/Garaulet 2025 та мета-аналіз Cell Metabolism.",
+      "sources_hint": "PubMed: chrononutrition meal timing 2025 meta-analysis; Garaulet late eating insulin resistance; Cell Metabolism 2025 first meal timing; Obesity 2025 breakfast skipping cardiometabolic",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Пікова кісткова маса до 30 і що після: чому силові у 20–29 важливіші, ніж думають — і що з креатином для молодих",
+      "type": "fitness",
+      "category": "longevity",
+      "angle": "Peak bone mass window: 90% BMD набирається до 20, останні 10% до 30 (NIH Osteoporosis 2024). Що це означає для 20–29-річних читачок: конкретний протокол load-bearing + добавки vitamin D+K2, чому раннє DEXA не потрібне. Відрізняється від існуючих матеріалів (жінки 40+ 01.08, чоловіки 65+ 05.08).",
+      "sources_hint": "NIH ODS Bone Health 2024; Weaver 2016 Osteoporosis International peak bone mass; Nikander 2010 BMC Medicine osteogenic loading; JBMR 2025 young adult BMD",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Магній таурат для серця і аритмій: що реально показують RCT — і чому це не «магній для нервів»",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Продовження серії про форми магнію (після бісгліцинату 04.08, L-треонату 31.07, трансдермального 01.08). Фокус на taurate: чи є справжні докази для АТ і аритмій, чи це лише таурин + магній окремо. Розбір McCarty 1996 гіпотези, малих RCT з таурином, TAURINE 2025.",
+      "sources_hint": "PubMed: magnesium taurate RCT hypertension; Zhao 2020 taurine blood pressure meta-analysis; Circulation 2024 taurine atrial fibrillation; EFSA magnesium bioavailability review",
+      "evidence_level": "preliminary",
+      "priority": 3
+    },
+    {
+      "topic": "Rapamycin off-label для longevity: що показали PEARL і LIFE-DR у 2025 і чому це поки не для здорових",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Оновлення 2025 по рапаміцину як anti-aging: результати PEARL RCT (Mannick, Aging 2025), LIFE-DR, дозозалежні побічні (afty, дисліпідемія, імуносупресія). Чому Bryan Johnson відмовився від нього. Український контекст: препарат зареєстрований лише як імуносупресант після трансплантації. Продовжує лінію longevity clinics audit (02.08) і NMN/NR reality check (01.08).",
+      "sources_hint": "PEARL trial Mannick 2025 Aging; Kraig 2018 Exp Gerontol; Kaeberlein 2023 rapamycin longevity review; Bryan Johnson blog 2024 rapamycin discontinuation",
+      "evidence_level": "preliminary",
+      "priority": 3
+    },
+    {
+      "topic": "Медитація любові-доброти (loving-kindness) vs mindfulness: що показав head-to-head RCT 2025 для тривоги",
+      "type": "lifehack",
+      "category": "mental-health",
+      "angle": "Не «медитація vs контроль» (це вже було багато разів), а порівняння двох типів практики: LKM vs MBSR — де ефект більший для тривоги, самотності, self-criticism. Fredrickson 2008 позитивні емоції, Zeng 2015 мета-аналіз, свіжий RCT 2025. Практичний 10-хв протокол.",
+      "sources_hint": "PubMed: loving-kindness meditation mindfulness head-to-head RCT 2025; Zeng 2015 Frontiers in Psychology meta-analysis; Galante 2014 J Consult Clin Psychol; Hofmann 2011 Clin Psychol Rev",
+      "evidence_level": "moderate",
+      "priority": 3
+    }
+  ],
+  "date": "2026-08-07",
+  "created_at": "2026-08-07T03:03:03.252946+00:00"
+}

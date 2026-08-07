@@ -1,0 +1,392 @@
+{
+  "timestamp": "2026-08-06_043228",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "klitkovyna-40g-reynolds-doza-vidpovid-hrechka-oves-bobovi-2026, khodba-pislya-yizhi-10-vs-30-khvylyn-plato-postprandialna-glukoza-2025, dzhetlah-pislya-vidpustky-protokol-svitlo-melatonin-yizha-bbc-2026, kava-fibrylyatsiya-peredserd-decaf-crave-ucsf-2025, walk-in-mental-health-hubs-nhs-england-2026-ty-yak-ukraina",
+  "author": "LongLife Media",
+  "duration_s": 5365.4,
+  "image_generated": false,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 195.5,
+      "error": null
+    },
+    {
+      "name": "research:Клітковина 40 г/день: що показ",
+      "status": "ok",
+      "duration_s": 246.5,
+      "error": null
+    },
+    {
+      "name": "generate:Клітковина 40 г/день: що показ",
+      "status": "ok",
+      "duration_s": 78.7,
+      "error": null
+    },
+    {
+      "name": "review:Клітковина 40 г/день: що показ",
+      "status": "ok",
+      "duration_s": 94.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Клітковина 40 г/день: що показ",
+      "status": "ok",
+      "duration_s": 24.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Клітковина 40 г/день: що показ",
+      "status": "ok",
+      "duration_s": 11.6,
+      "error": null
+    },
+    {
+      "name": "save:Клітковина 40 г/день: що показ",
+      "status": "ok",
+      "duration_s": 88.1,
+      "error": null
+    },
+    {
+      "name": "research:Ходьба після їжі 10 хвилин vs ",
+      "status": "ok",
+      "duration_s": 508.0,
+      "error": null
+    },
+    {
+      "name": "generate:Ходьба після їжі 10 хвилин vs ",
+      "status": "ok",
+      "duration_s": 70.4,
+      "error": null
+    },
+    {
+      "name": "review:Ходьба після їжі 10 хвилин vs ",
+      "status": "ok",
+      "duration_s": 90.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ходьба після їжі 10 хвилин vs ",
+      "status": "ok",
+      "duration_s": 19.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ходьба після їжі 10 хвилин vs ",
+      "status": "ok",
+      "duration_s": 10.3,
+      "error": null
+    },
+    {
+      "name": "save:Ходьба після їжі 10 хвилин vs ",
+      "status": "ok",
+      "duration_s": 20.7,
+      "error": null
+    },
+    {
+      "name": "research:Джетлаг після відпустки: що ра",
+      "status": "ok",
+      "duration_s": 284.9,
+      "error": null
+    },
+    {
+      "name": "generate:Джетлаг після відпустки: що ра",
+      "status": "ok",
+      "duration_s": 128.9,
+      "error": null
+    },
+    {
+      "name": "review:Джетлаг після відпустки: що ра",
+      "status": "ok",
+      "duration_s": 144.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Джетлаг після відпустки: що ра",
+      "status": "ok",
+      "duration_s": 24.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Джетлаг після відпустки: що ра",
+      "status": "ok",
+      "duration_s": 9.9,
+      "error": null
+    },
+    {
+      "name": "save:Джетлаг після відпустки: що ра",
+      "status": "ok",
+      "duration_s": 18.1,
+      "error": null
+    },
+    {
+      "name": "research:Кава і серцева аритмія: що пок",
+      "status": "ok",
+      "duration_s": 181.6,
+      "error": null
+    },
+    {
+      "name": "generate:Кава і серцева аритмія: що пок",
+      "status": "ok",
+      "duration_s": 75.7,
+      "error": null
+    },
+    {
+      "name": "review:Кава і серцева аритмія: що пок",
+      "status": "ok",
+      "duration_s": 96.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Кава і серцева аритмія: що пок",
+      "status": "ok",
+      "duration_s": 22.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Кава і серцева аритмія: що пок",
+      "status": "ok",
+      "duration_s": 11.2,
+      "error": null
+    },
+    {
+      "name": "save:Кава і серцева аритмія: що пок",
+      "status": "ok",
+      "duration_s": 18.3,
+      "error": null
+    },
+    {
+      "name": "research:Ходячі центри психічної допомо",
+      "status": "ok",
+      "duration_s": 236.6,
+      "error": null
+    },
+    {
+      "name": "generate:Ходячі центри психічної допомо",
+      "status": "ok",
+      "duration_s": 83.8,
+      "error": null
+    },
+    {
+      "name": "review:Ходячі центри психічної допомо",
+      "status": "ok",
+      "duration_s": 108.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ходячі центри психічної допомо",
+      "status": "ok",
+      "duration_s": 24.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ходячі центри психічної допомо",
+      "status": "ok",
+      "duration_s": 8.9,
+      "error": null
+    },
+    {
+      "name": "save:Ходячі центри психічної допомо",
+      "status": "ok",
+      "duration_s": 17.4,
+      "error": null
+    },
+    {
+      "name": "research:«Холодильник не потрібен»: що ",
+      "status": "ok",
+      "duration_s": 236.9,
+      "error": null
+    },
+    {
+      "name": "generate:«Холодильник не потрібен»: що ",
+      "status": "ok",
+      "duration_s": 86.5,
+      "error": null
+    },
+    {
+      "name": "review:«Холодильник не потрібен»: що ",
+      "status": "ok",
+      "duration_s": 98.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:«Холодильник не потрібен»: що ",
+      "status": "ok",
+      "duration_s": 18.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:«Холодильник не потрібен»: що ",
+      "status": "ok",
+      "duration_s": 15.0,
+      "error": null
+    },
+    {
+      "name": "save:«Холодильник не потрібен»: що ",
+      "status": "ok",
+      "duration_s": 18.9,
+      "error": null
+    },
+    {
+      "name": "research:Кефір проти йогурту для мікроб",
+      "status": "ok",
+      "duration_s": 245.5,
+      "error": null
+    },
+    {
+      "name": "generate:Кефір проти йогурту для мікроб",
+      "status": "ok",
+      "duration_s": 83.4,
+      "error": null
+    },
+    {
+      "name": "review:Кефір проти йогурту для мікроб",
+      "status": "ok",
+      "duration_s": 110.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Кефір проти йогурту для мікроб",
+      "status": "ok",
+      "duration_s": 19.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Кефір проти йогурту для мікроб",
+      "status": "ok",
+      "duration_s": 9.6,
+      "error": null
+    },
+    {
+      "name": "save:Кефір проти йогурту для мікроб",
+      "status": "ok",
+      "duration_s": 17.2,
+      "error": null
+    },
+    {
+      "name": "research:HRV-біофідбек через дихання 6/",
+      "status": "ok",
+      "duration_s": 164.4,
+      "error": null
+    },
+    {
+      "name": "generate:HRV-біофідбек через дихання 6/",
+      "status": "ok",
+      "duration_s": 52.9,
+      "error": null
+    },
+    {
+      "name": "review:HRV-біофідбек через дихання 6/",
+      "status": "ok",
+      "duration_s": 116.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:HRV-біофідбек через дихання 6/",
+      "status": "ok",
+      "duration_s": 19.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:HRV-біофідбек через дихання 6/",
+      "status": "ok",
+      "duration_s": 10.6,
+      "error": null
+    },
+    {
+      "name": "save:HRV-біофідбек через дихання 6/",
+      "status": "ok",
+      "duration_s": 17.3,
+      "error": null
+    },
+    {
+      "name": "research:Rear-foot elevated split squat",
+      "status": "ok",
+      "duration_s": 196.7,
+      "error": null
+    },
+    {
+      "name": "generate:Rear-foot elevated split squat",
+      "status": "ok",
+      "duration_s": 89.5,
+      "error": null
+    },
+    {
+      "name": "review:Rear-foot elevated split squat",
+      "status": "ok",
+      "duration_s": 112.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Rear-foot elevated split squat",
+      "status": "ok",
+      "duration_s": 18.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Rear-foot elevated split squat",
+      "status": "ok",
+      "duration_s": 10.4,
+      "error": null
+    },
+    {
+      "name": "save:Rear-foot elevated split squat",
+      "status": "ok",
+      "duration_s": 17.5,
+      "error": null
+    },
+    {
+      "name": "research:Літня взуття і плоскостопість ",
+      "status": "ok",
+      "duration_s": 280.8,
+      "error": null
+    },
+    {
+      "name": "generate:Літня взуття і плоскостопість ",
+      "status": "ok",
+      "duration_s": 135.4,
+      "error": null
+    },
+    {
+      "name": "review:Літня взуття і плоскостопість ",
+      "status": "ok",
+      "duration_s": 161.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Літня взуття і плоскостопість ",
+      "status": "ok",
+      "duration_s": 19.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Літня взуття і плоскостопість ",
+      "status": "ok",
+      "duration_s": 10.7,
+      "error": null
+    },
+    {
+      "name": "save:Літня взуття і плоскостопість ",
+      "status": "ok",
+      "duration_s": 15.9,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.3,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}
