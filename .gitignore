@@ -1,0 +1,17 @@
+# Build artifacts and dependencies. These were tracked from the start — 62k files, most of
+# the repo's 538 MB — so every deploy left the tree dirty and the nightly sync had to stash
+# its way around a build cache.
+gatsby/node_modules/
+gatsby/.cache/
+gatsby/public/
+node_modules/
+
+# Runtime logs. Append-only and multi-megabyte; the publish ledger under state/teasers and
+# state/tg_published stays tracked, since it is the only record of what went to the channel.
+state/logs/
+
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
