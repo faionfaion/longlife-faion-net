@@ -57,7 +57,9 @@ fi
 # and leaves the tree exactly as it was, so a bad merge can never take the night's run down.
 {
     git fetch origin master
-    git rebase origin/master || git rebase --abort
+    # --autostash: state/logs and state/plans are tracked and rewritten every run, so the
+    # tree is essentially never clean at sync time and a plain rebase would refuse to start.
+    git rebase --autostash origin/master || git rebase --abort
     git push origin HEAD:master || echo "push failed — prod is still ahead of origin"
 } >> "$LOG_DIR/cron.log" 2>&1 || true
 
