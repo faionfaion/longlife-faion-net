@@ -13,6 +13,21 @@ SCRIPTS_DIR = ROOT / "scripts"
 PROMPTS_DIR = ROOT / "pipeline" / "prompts"
 GATSBY_DIR = ROOT / "gatsby"
 IMAGES_DIR = GATSBY_DIR / "static" / "images"
+CHARACTER_DIR = ROOT / "assets" / "character"
+
+# Cover imagery.
+#
+# "codex" drives the Codex CLI, which bills against the ChatGPT subscription. "openai"
+# calls api.openai.com directly and needs credits on the account — that balance ran out on
+# 22 July 2026 and took every cover with it, which is why codex is the default.
+IMAGE_PROVIDER = os.environ.get("LONGLIFE_IMAGE_PROVIDER", "codex")
+
+# Vita's turnaround sheets, handed to the image model to keep her recognisable between
+# covers. Keyed by the `wardrobe` the scene director picks; "none" gets no reference at all.
+CHARACTER_REFERENCES = {
+    "scientist": CHARACTER_DIR / "vita-scientist-turnaround.png",
+    "fitness": CHARACTER_DIR / "vita-fitness-turnaround.jpg",
+}
 
 # Scripts
 SEND_POST = SCRIPTS_DIR / "send_post.py"

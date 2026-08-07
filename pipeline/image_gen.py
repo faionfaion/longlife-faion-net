@@ -13,7 +13,7 @@ from pathlib import Path
 
 import requests
 
-from pipeline.config import IMAGES_DIR
+from pipeline.config import IMAGE_PROVIDER, IMAGES_DIR
 
 logger = logging.getLogger(__name__)
 
@@ -100,28 +100,79 @@ def generate_image(
     slug: str,
     comic_mode: bool = False,
     quality: str = "auto",
+    reference: Path | None = None,
 ) -> Path | None:
-    """Generate an illustration and save to images dir.
+    """Generate a cover image and save it to the images dir.
 
     Args:
-        prompt: Image description (in English). For comic mode, should already
-                include character description from s_comic_scene stage.
+        prompt: Image description (in English). In comic mode it already carries the
+                subject and scene from the s_comic_scene stage.
         slug: Article slug for filename.
-        comic_mode: If True, use comic style prefix instead of wellness style.
-        quality: gpt-image-1 quality — "auto" (~$0.063), "low" (~$0.016), "high" (~$0.25).
+        comic_mode: If True, the prompt is complete; otherwise the wellness style prefix
+                is prepended.
+        quality: gpt-image-1 quality, OpenAI backend only — "auto" (~$0.063), "low"
+                (~$0.016), "high" (~$0.25). Codex has no equivalent knob.
+        reference: Vita's turnaround sheet, when she is in the frame. Codex backend only.
 
     Returns:
         Path to saved image, or None on failure.
     """
+    full_prompt = prompt if comic_mode else f"{_load_style_prefix()}{prompt}"
+
+    if IMAGE_PROVIDER == "codex":
+        return _generate_via_codex(full_prompt, slug, reference)
+    return _generate_via_openai(full_prompt, slug, quality)
+
+
+def _generate_via_codex(
+    full_prompt: str, slug: str, reference: Path | None
+) -> Path | None:
+    """Render through the Codex CLI, which bills against the ChatGPT subscription."""
+    from pipeline import codex_image
+
+    try:
+        raw = codex_image.render(full_prompt, reference=reference)
+    except codex_image.CodexImageError as e:
+        logger.error("Codex image generation failed: %s", e)
+        return None
+
+    out_path = _save_web_jpeg(raw.read_bytes(), slug)
+    raw.unlink(missing_ok=True)
+    return out_path
+
+
+def _save_web_jpeg(img_bytes: bytes, slug: str) -> Path:
+    """Convert whatever the backend produced into the web/Telegram cover.
+
+    JPEG at 1200px wide: Telegram rejects photo previews over 5 MB, and the site never
+    displays a cover larger than this.
+    """
+    IMAGES_DIR.mkdir(parents=True, exist_ok=True)
+    out_path = IMAGES_DIR / f"{slug}.jpg"
+
+    try:
+        import io
+
+        from PIL import Image
+
+        img = Image.open(io.BytesIO(img_bytes)).convert("RGB")
+        if img.width > 1200:
+            ratio = 1200 / img.width
+            img = img.resize((1200, int(img.height * ratio)), Image.LANCZOS)
+        img.save(out_path, "JPEG", quality=85, optimize=True)
+    except ImportError:
+        out_path = IMAGES_DIR / f"{slug}.png"
+        out_path.write_bytes(img_bytes)
+
+    logger.info("Image saved: %s (%d KB)", out_path, out_path.stat().st_size // 1024)
+    return out_path
+
+
+def _generate_via_openai(full_prompt: str, slug: str, quality: str) -> Path | None:
+    """Render through api.openai.com. Needs credits on the account."""
     if not OPENAI_API_KEY:
         logger.warning("No OPENAI_API_KEY — skipping image generation")
         return None
-
-    if comic_mode:
-        # Comic mode: prompt already contains character + scene from s_comic_scene
-        full_prompt = prompt
-    else:
-        full_prompt = f"{_load_style_prefix()}{prompt}"
 
     try:
         resp = requests.post(
@@ -154,27 +205,7 @@ def generate_image(
             logger.error("No image data in response")
             return None
 
-        IMAGES_DIR.mkdir(parents=True, exist_ok=True)
-
-        # Convert to JPEG for smaller file size (TG needs < 5MB for previews)
-        out_path = IMAGES_DIR / f"{slug}.jpg"
-        try:
-            from PIL import Image
-            import io
-            img = Image.open(io.BytesIO(img_bytes))
-            img = img.convert("RGB")
-            # Resize if too large (max 1200px wide for web)
-            if img.width > 1200:
-                ratio = 1200 / img.width
-                img = img.resize((1200, int(img.height * ratio)), Image.LANCZOS)
-            img.save(out_path, "JPEG", quality=85, optimize=True)
-        except ImportError:
-            # Fallback: save as PNG if Pillow not installed
-            out_path = IMAGES_DIR / f"{slug}.png"
-            out_path.write_bytes(img_bytes)
-
-        logger.info("Image saved: %s (%d KB, quality=%s)", out_path, out_path.stat().st_size // 1024, quality)
-        return out_path
+        return _save_web_jpeg(img_bytes, slug)
 
     except requests.exceptions.HTTPError as e:
         logger.error("OpenAI API error: %s — %s", e.response.status_code,
