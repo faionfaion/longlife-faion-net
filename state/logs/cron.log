@@ -43048,3 +43048,92 @@ ModuleNotFoundError: No module named 'opentelemetry'
 03:59:48 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
 03:59:48 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
 03:59:48 [pipeline.stages.s7_save] INFO: Article saved: /home/faion/longlife-faion-net/content/chrononutrition-pizniy-snidanok-vs-vecherya-insulinorezystentnist-2025.md
+03:59:49 [pipeline] INFO: Article ready: chrononutrition-pizniy-snidanok-vs-vecherya-insulinorezystentnist-2025 (Пізній сніданок чи пізня вечеря: що шкідливіше для)
+03:59:49 [pipeline] INFO: === Article 7/10 ===
+03:59:49 [pipeline] INFO: --- Article: [fitness] Пікова кісткова маса до 30 і що після: чому силові у 20–29 в ---
+03:59:49 [asyncio] DEBUG: Using selector: EpollSelector
+03:59:49 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+03:59:49 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:03:09 [pipeline.stages.s2_research] INFO: Research complete: 15136 chars
+04:03:09 [asyncio] DEBUG: Using selector: EpollSelector
+04:03:09 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:03:09 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:04:26 [pipeline.stages.s3_generate] INFO: Generated: 'Пікова кісткова маса до 30: чому силові у 20–29 важать більше, ніж думають — і що з креатином і K2' (slug=pikova-kistkova-masa-20-29-sylovi-vitamin-d-k2-kreatyn-molodi-zhinky, 557 words, 10 sources)
+04:04:26 [asyncio] DEBUG: Using selector: EpollSelector
+04:04:26 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:04:26 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:04:40 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+04:04:40 [pipeline.stages.s4_review] INFO: Feedback: Strong, evidence-based article with well-cited sources, appropriate nuance, and clear practical takeaways. Minor suggestions: (1) Consider adding a brief note on adequate calcium (~1000 mg/day) and pr
+04:04:40 [asyncio] DEBUG: Using selector: EpollSelector
+04:04:40 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:04:40 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:05:54 [pipeline.stages.s5_revise] INFO: Revised article: 839 words
+04:05:54 [pipeline] INFO: === Review cycle 1/3 complete ===
+04:05:54 [asyncio] DEBUG: Using selector: EpollSelector
+04:05:54 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:05:55 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:06:10 [pipeline.stages.s4_review] INFO: Review: score=9, approved=True
+04:06:10 [pipeline.stages.s4_review] INFO: Feedback: Strong, evidence-based article with well-cited claims, appropriate nuance, and clear safety caveats. Sources are real and correctly interpreted (Weaver NOF 2016, Kelley 2013, Zhao 2014, Endocrine Soci
+04:06:10 [pipeline] INFO: Article approved after 1 revision(s)
+04:06:10 [asyncio] DEBUG: Using selector: EpollSelector
+04:06:10 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:06:10 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:06:33 [pipeline.stages.s_comic_scene] INFO: Comic scene: Vita, a tall athletic woman in her late 20s with long wavy b | pose=MEDIUM-WIDE framing, waist-up-plus-thighs visible; Vita in a mid-deadlift hip hinge, torso angled forward at about 30 degrees, both hands gripping a loaded barbell symmetrically just outside her knees, shoulders packed, chest proud, hair falling forward over her left shoulder. One clear action, both hands doing the same thing. | expression=determined training face — jaw softly set, brows lightly drawn, green eyes focused straight ahead, lips slightly parted with a controlled exhale | props=loaded olympic barbell with chrome bumper plates and green collars, chalk bowl on the corner of the platform, emerald green lifting belt cinched around her waist
+04:06:33 [asyncio] DEBUG: Using selector: EpollSelector
+04:06:33 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:06:33 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:06:41 [pipeline.stages.s6_generate_tg] INFO: TG caption: 601 chars
+04:06:41 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Starting for slug=pikova-kistkova-masa-20-29-sylovi-vitamin-d-k2-kreatyn-molodi-zhinky
+04:06:41 [asyncio] DEBUG: Using selector: EpollSelector
+04:06:41 [claude_agent_sdk._internal.transport.subprocess_cli] INFO: Using bundled Claude Code CLI: /home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_bundled/claude
+04:06:41 [claude_agent_sdk._internal.transport.subprocess_cli] DEBUG: OTEL trace context injection failed
+Traceback (most recent call last):
+  File "/home/faion/.venv-media/lib/python3.12/site-packages/claude_agent_sdk/_internal/transport/subprocess_cli.py", line 442, in connect
+    from opentelemetry import propagate
+ModuleNotFoundError: No module named 'opentelemetry'
+04:06:57 [pipeline.stages.s_image_prompt_editor] INFO: Prompt optimized: Reordered subject→anatomy→action→environment→style, stated explicit limb/finger counts, unified both
+04:06:57 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 1/3 (quality=auto)
+04:06:57 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:06:58 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 429 262
+04:06:58 [pipeline.image_gen] ERROR: OpenAI API error: 429 — 
+04:06:58 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 1 failed to produce image
+04:06:58 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 2/3 (quality=high)
+04:06:58 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:06:58 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 429 262
+04:06:58 [pipeline.image_gen] ERROR: OpenAI API error: 429 — 
+04:06:58 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 2 failed to produce image
+04:06:58 [pipeline.stages.s_image_orchestrator] INFO: [image-orchestrator] Attempt 3/3 (quality=high)
+04:06:58 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+04:06:59 [urllib3.connectionpool] DEBUG: https://api.openai.com:443 "POST /v1/images/generations HTTP/1.1" 429 262
+04:06:59 [pipeline.image_gen] ERROR: OpenAI API error: 429 — 
+04:06:59 [pipeline.stages.s_image_orchestrator] WARNING: [image-orchestrator] Attempt 3 failed to produce image
+04:06:59 [pipeline.stages.s_image_orchestrator] ERROR: [image-orchestrator] No image produced after 3 attempts
+04:06:59 [pipeline.stages.s7_save] INFO: Article saved: /home/faion/longlife-faion-net/content/pikova-kistkova-masa-20-29-sylovi-vitamin-d-k2-kreatyn-molodi-zhinky.md
