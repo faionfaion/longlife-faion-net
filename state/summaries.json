@@ -6070,5 +6070,23 @@
       "здорові звички"
     ],
     "summary": "Lifehack article explaining why 2–3 drinks on Friday evening damage sleep architecture across the entire weekend. Key evidence: Gardiner 2024 meta-analysis (REM disruption from 0.5 g/kg, ~2 drinks); McCullar 2024 RCT in Sleep journal (three consecutive nights of pre-sleep alcohol — body does NOT adapt, REM deficit persists); Colrain 2014 (GABA-to-glutamate rebound explains second-half fragmentation); Danel 2001 (43% flattening of core body temperature amplitude). Debunks the 'nightcap' myth — sleep onset reduction only appears at 5+ drinks. Practical takeaways: 4-hour cutoff before sleep, honest note that the 1:1 water rule (Verster 2024) doesn't prevent hangovers but slows pace, max 2 drinks, cool bedroom. Cross-links to prior alcohol-sleep-rem-disruption-hrv-guide and bedroom temperature article. Evidence strength: strong (RCT + meta-analysis backbone)."
+  },
+  "plavannya-vidkryta-voda-depresiya-outside-rct-2025-bezpeka-dnipro-dnister": {
+    "date": "2026-08-07",
+    "title": "Плавання у відкритій воді для психічного здоров'я: що показав перший RCT 2025 і як стартувати у Дніпрі безпечно",
+    "type": "fitness",
+    "tags": [
+      "плавання",
+      "холодна вода",
+      "депресія",
+      "тривога",
+      "психічне здоров'я",
+      "відкрита вода",
+      "Дніпро",
+      "безпека",
+      "дослідження",
+      "RCT"
+    ],
+    "summary": "Стаття розбирає перший рандомізований контрольований експеримент OUTSIDE (Massey et al., 2025, Journal of Contextual Behavioral Science) щодо плавання у відкритій воді як інтервенції при легкій-помірній депресії. Це feasibility RCT на 87 учасниках: 8-тижнева програма плавання показала зменшення симптомів депресії та тривоги і менше звернень по додаткову терапію порівняно з usual care. Дизайн пілотний, не засліплений, не дозволяє відокремити ефект холоду від природи, руху і соціального контакту; повне OUTSIDE 2 (n=480) триває, результати ~2027–2028. Стаття поєднує доказову базу з фізіологією холодного шоку (RNLI: вода <15 °C, гасп-рефлекс, тиск +30–50 мм рт. ст.), автономним конфліктом (Shattock & Tipton 2012) і габітуацією за 5–6 сесій. Українська частина: щотижневий контроль якості води МОЗ/ЦКПХ, ситуація на пляжах Дніпра (20,5% проб перевищують норму по E. coli), забруднення після Каховки. Практика: перевірка води, підготовка через холодний душ, повільний вхід, протокол Float to Live, buddy system. Протипоказання: аритмії, гіпертензія, епілепсія, астма, вагітність, алкоголь. Рівень доказовості — preliminary."
   }
 }
