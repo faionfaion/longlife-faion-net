@@ -6039,5 +6039,21 @@
       "система охорони здоров'я"
     ],
     "summary": "Guide article on systemic heat preparedness for Ukraine, triggered by UK Health Secretary Yvette Cooper's August 2026 call for NHS to prepare for heatwaves like winter. Explains UKHSA's four-tier heat-health alert system (green/yellow/amber/red), WHO Europe's 8 core HHAP elements (2026 guidance), and honest assessment of cooling centres' weak evidence base (Dearman 2024 systematic review). Anchors to WHO's May 2026 Ukraine risk assessment identifying extreme heat as primary summer public health hazard amid expected 2.4 GW energy deficit. Central deliverable: household checklist for a home with a 75+ or heart-failure patient during compound blackout + heatwave events, covering medication review (diuretics, beta-blockers, SSRIs — CDC guidance), individualised fluid targets (flagging that blanket 2L/day rule is contraindicated in HF), cool-room designation, medication storage <25°C, phone tree, and WHO red-flag emergency signs. Evidence strength: moderate (WHO guidelines + Stone 2023 blackout modelling + Lancet Countdown 2025)."
+  },
+  "ai-bakteriofahy-stanford-evo-2-biobezpeka-2026": {
+    "date": "2026-08-07",
+    "title": "AI-згенеровані бактеріофаги у Stanford 2026: що це насправді означає для біобезпеки і чи треба хвилюватись",
+    "type": "research",
+    "tags": [
+      "штучний інтелект",
+      "біобезпека",
+      "дослідження",
+      "антибіотикорезистентність",
+      "бактеріофаги",
+      "генетика",
+      "регуляція",
+      "ВООЗ"
+    ],
+    "summary": "У серпні 2026 команда Braian Hie (Stanford + Arc Institute) опублікувала в Science дослідження, де мовні моделі геномів Evo 1 та Evo 2 згенерували 302 варіанти бактеріофагів, з яких 16 виявились функціональними (5,3% успіху). Це не патогени людини — фаги інфікують лише E. coli, а еукаріотичні віруси виключили з тренувальних даних. Позитив: перспектива персоналізованої фагової терапії для антибіотикорезистентних інфекцій. Ризик: самі автори визнають, що модель можна ре-налаштувати під людські віруси; Esvelt et al. у Frontiers in Microbiology (2026) і NTI закликають до function-aware DNA synthesis screening та managed access. Ключова прогалина: WHO Global Guidance Framework 2022 і US EO травня 2025 не покривають AI-driven design геномів. Для пацієнта в Україні зараз — жодних прямих наслідків; це контекст для розмови про регуляцію біо-ШІ. Evidence strength: STRONG для наукового факту, MODERATE/EMERGING для dual-use ризику."
   }
 }
