@@ -30,6 +30,7 @@ def generate_with_qa(
     raw_prompt: str,
     slug: str,
     comic_mode: bool = False,
+    reference: Path | None = None,
 ) -> Path | None:
     """Generate an image with QA-driven retry and prompt refinement.
 
@@ -37,6 +38,8 @@ def generate_with_qa(
         raw_prompt: Scene prompt as built by s_comic_scene or similar.
         slug: Article slug for filename.
         comic_mode: Whether the prompt already includes style (comic style).
+        reference: Vita's turnaround sheet, when she is in the frame. Passed through on
+            every attempt — the retries revise the wording, not who is in the picture.
 
     Returns:
         Path to final saved image, or None if generation failed entirely.
@@ -63,6 +66,7 @@ def generate_with_qa(
             slug=f"{slug}_try{attempt}" if attempt > 1 else slug,
             comic_mode=comic_mode,
             quality=quality,
+            reference=reference,
         )
 
         if img_path is None or not img_path.exists():

@@ -30,7 +30,12 @@ def run(ctx: PipelineContext) -> None:
     if ctx.image_prompt and not ctx.image_path:
         from pipeline.stages.s_image_orchestrator import generate_with_qa
         comic_mode = bool(ctx.comic_scene)
-        ctx.image_path = generate_with_qa(ctx.image_prompt, ctx.slug, comic_mode=comic_mode)
+        ctx.image_path = generate_with_qa(
+            ctx.image_prompt,
+            ctx.slug,
+            comic_mode=comic_mode,
+            reference=ctx.image_reference,
+        )
 
     # 1. Write markdown article
     CONTENT_DIR.mkdir(parents=True, exist_ok=True)

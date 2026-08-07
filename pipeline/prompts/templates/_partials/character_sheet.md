@@ -1,56 +1,60 @@
-# Character Model Sheet: Vita (Vita Zelenko / Vita Zelenko)
+# Character Model Sheet: Vita
+
+Reference images live in `assets/character/`. The turnaround sheets are what gets handed
+to the image model; the wardrobe sheets are for choosing an outfit, not for rendering.
 
 ## Identity
-- **Name:** Vita Zelenko (Vita Zelenko)
-- **Role:** LongLife Media visual mascot, fitness super-trainer, health science communicator
-- **Personality:** Confident, encouraging, science-driven, approachable
 
-## Physical Appearance
-- **Height:** 178 cm (tall, commanding presence)
-- **Build:** Athletic muscular — defined muscles but feminine proportions, visible biceps and quads, lean core with visible abs
-- **Hair:** Long wavy blonde hair past shoulders, always parted left, often flows dynamically in action poses
-- **Eyes:** Bright green eyes, expressive and warm
-- **Skin:** Sun-kissed, healthy glow, light tan
-- **Face:** High cheekbones, strong jawline softened by feminine features, full lips
-- **Age appearance:** Late 20s
+- **Role:** health scientist and the face of LongLife Media. She reads the studies, runs
+  the numbers, and trains — in that order of emphasis.
+- **Age:** 42. She reads as 42: laugh lines, a settled expression, no gloss retouching.
+  This is deliberate. A 25-year-old fitness model would undercut the one thing the
+  publication sells, which is that a claim has evidence behind it.
+- **Bearing:** curious, disciplined, focused. Absorbed in the work rather than presenting
+  it to camera. She rarely smiles broadly and never mugs.
 
-## Consistent Markers (MUST always be present)
-- Small green leaf tattoo on right shoulder (visible when wearing sports bra)
-- Hair always parted on the left side
-- Fitness smartwatch on left wrist (black band, green accents)
+## Physical
 
-## Default Outfit
-- Black sports bra with subtle green trim
-- High-waist emerald green leggings
-- White running shoes with green accents
-- Fitness smartwatch on left wrist
+- **Height:** 168 cm — **Weight:** 62 kg
+- **Build:** lean and trained, visible definition in shoulders and arms, not bulky
+- **Bust 92 / waist 76 / hips 98 — shoes 39 EU**
+- **Hair:** brown, wavy-to-curly, worn in a ponytail with loose strands framing the face
+- **Eyes:** hazel
+- **Face:** narrow, defined cheekbones, fair skin, minimal or no makeup
 
-## Alternate Outfits (topic-dependent)
-- **Nutrition scenes:** White crop top, green apron, hair in high ponytail
-- **Research scenes:** Fitted green hoodie (unzipped), reading glasses pushed up on head
-- **Yoga/meditation:** Matching sage green sports set, barefoot, hair loose
-- **Outdoor/running:** Black running tank top, green shorts, hair in braid
+## Constant markers (must be present in every rendering)
 
-## Expressions
-- **Confident smile:** Default — warm, inviting, self-assured
-- **Encouraging look:** Slight head tilt, softer eyes, motivational context
-- **Determined training face:** Focused eyes, slight jaw clench, mid-exercise
-- **Explaining/teaching:** One eyebrow slightly raised, engaged expression, pointing or gesturing
+- Black rectangular-framed glasses. She is never drawn without them.
+- Black minimalist watch on the **left** wrist, plain face, fabric or silicone strap.
+- Ponytail, never loose hair.
 
-## Common Props (physical objects only — NEVER anything with readable text, numbers, charts, or screens)
-- Dumbbells (chrome with green grips)
-- Yoga mat (emerald green)
-- Green smoothie in glass bottle
-- Resistance bands
-- Jump rope
-- Fresh vegetables/fruits basket
-- Everyday real-world objects that fit the scene (a mug, a grocery bag, a pillow, a water bottle, stairs, a park bench)
-- AVOID: tablets, phones, laptops, charts, graphs, posters, whiteboards, books with visible spines — the image model garbles all text
+## Wardrobe — scientist
 
-## Pose Library (favor environmental + action; keep hands simple)
-- **In motion:** Walking, climbing stairs, jogging a park path, carrying groceries — full body inside a real setting
-- **Doing a task:** Cooking at the stove, chopping vegetables, rolling out a yoga mat, filling a water bottle
-- **Among people:** Moving through a market, street, or clinic waiting room with other figures around her
-- **Training:** Mid-exercise with equipment, dynamic movement
-- **Quiet moment:** Sitting on a bench, stretching, resting — relaxed but athletic
-- Hand rule: ONE clear active hand, or both hands doing the same thing. Never point at something while holding something else.
+The default. Muted, tailored, unbranded.
+
+- Cream, pale-blue or olive button shirt, sleeves rolled to the forearm
+- Dark charcoal tailored trousers, brown leather belt
+- Brown leather loafers or black flats
+- Variants by setting: white lab coat, grey blazer, oatmeal knit sweater, black
+  turtleneck, field shirt with hiking boots
+
+## Wardrobe — fitness
+
+For articles about training, movement or recovery.
+
+- Black racerback tank, black full-length leggings, black trainers
+- Colour variants for the top only: olive, mauve, grey, navy
+- Same glasses, same watch, same ponytail
+
+## Palette
+
+Neutral and photographic: charcoal, cream, warm grey, olive, brown leather, muted mauve.
+No saturated brand colours, no emerald-and-gold. The old comic-era palette is retired.
+
+## Never
+
+- Cartoon, comic, cel-shaded or illustrated rendering. Vita is photographic.
+- Any drawn text: labels, packaging copy, chart axes, whiteboard writing. The image model
+  produces garbled pseudo-Ukrainian, which on a health publication reads as carelessness.
+- Posing to camera, thumbs up, arms crossed with a grin, or any influencer register.
+- Visible brand logos on clothing or equipment.

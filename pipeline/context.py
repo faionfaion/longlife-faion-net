@@ -49,6 +49,9 @@ class PipelineContext:
     # Image
     image_prompt: str = ""
     image_path: Path | None = None
+    # Vita's turnaround sheet, set only when she is actually in the cover. Left None for
+    # still-life covers: handed a character reference, the model puts her in regardless.
+    image_reference: Path | None = None
 
     # Publish
     article_url: str = ""

@@ -1,35 +1,40 @@
 {
   "type": "object",
   "properties": {
+    "wardrobe": {
+      "type": "string",
+      "enum": ["scientist", "fitness", "none"],
+      "description": "Which reference sheet to render from. 'none' means no people in frame — a still life or empty room carrying the topic, used for roughly one article in four so the same face does not appear on every cover."
+    },
     "scene_description": {
       "type": "string",
-      "description": "What Vita is doing in this panel, related to the article topic (2-3 sentences)"
+      "description": "What is happening in the photograph, tied to the article topic (2-3 sentences)"
     },
     "background": {
       "type": "string",
-      "description": "Background setting: gym, kitchen, lab, park, etc. Include key environmental details"
+      "description": "Setting: lab bench, office desk, library, clinic corridor, park path, home kitchen. Include the environmental details that make it a real room rather than a backdrop"
     },
     "pose": {
       "type": "string",
-      "description": "Vita's body pose and action (e.g. 'power stance with hands on hips', 'mid-squat holding dumbbells')"
+      "description": "Shot type (WIDE / MEDIUM / CLOSE) plus the one clear action and how the hands are occupied. Empty when wardrobe is 'none'"
     },
     "expression": {
       "type": "string",
-      "description": "Vita's facial expression (e.g. 'confident smile', 'determined training face', 'encouraging look')"
+      "description": "Facial expression — absorbed, considering, checking, listening. Never posing to camera. Empty when wardrobe is 'none'"
     },
     "props": {
       "type": "array",
       "items": {"type": "string"},
-      "description": "Props Vita is holding or that appear in the scene, relevant to article topic"
+      "description": "1-3 physical objects relevant to the topic, none carrying readable text, numbers, labels or screens"
     },
     "text_bubble": {
       "type": "string",
-      "description": "Short quote from the article in Ukrainian (1 sentence max, key takeaway)"
+      "description": "The key takeaway in one Ukrainian sentence. Used downstream as caption text only — nothing in the image carries text"
     },
     "color_notes": {
       "type": "string",
-      "description": "Color palette notes for this specific scene (dominant colors, mood lighting, accents)"
+      "description": "How the neutral palette leans for this scene: cool and clinical, warm and domestic, grey and overcast"
     }
   },
-  "required": ["scene_description", "background", "pose", "expression", "props", "text_bubble", "color_notes"]
+  "required": ["wardrobe", "scene_description", "background", "pose", "expression", "props", "text_bubble", "color_notes"]
 }
