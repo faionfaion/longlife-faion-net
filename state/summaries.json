@@ -6055,5 +6055,20 @@
       "ВООЗ"
     ],
     "summary": "У серпні 2026 команда Braian Hie (Stanford + Arc Institute) опублікувала в Science дослідження, де мовні моделі геномів Evo 1 та Evo 2 згенерували 302 варіанти бактеріофагів, з яких 16 виявились функціональними (5,3% успіху). Це не патогени людини — фаги інфікують лише E. coli, а еукаріотичні віруси виключили з тренувальних даних. Позитив: перспектива персоналізованої фагової терапії для антибіотикорезистентних інфекцій. Ризик: самі автори визнають, що модель можна ре-налаштувати під людські віруси; Esvelt et al. у Frontiers in Microbiology (2026) і NTI закликають до function-aware DNA synthesis screening та managed access. Ключова прогалина: WHO Global Guidance Framework 2022 і US EO травня 2025 не покривають AI-driven design геномів. Для пацієнта в Україні зараз — жодних прямих наслідків; це контекст для розмови про регуляцію біо-ШІ. Evidence strength: STRONG для наукового факту, MODERATE/EMERGING для dual-use ризику."
+  },
+  "pyatnychne-vyno-son-vyhidnyh-rem-cbt-weekend-rebound-4-hodyny": {
+    "date": "2026-08-07",
+    "title": "П'ятничне вино і сон вихідних: чому 2–3 бокали ламають REM на суботу і неділю",
+    "type": "lifehack",
+    "tags": [
+      "сон",
+      "алкоголь",
+      "REM-сон",
+      "циркадні ритми",
+      "вихідні",
+      "дослідження",
+      "здорові звички"
+    ],
+    "summary": "Lifehack article explaining why 2–3 drinks on Friday evening damage sleep architecture across the entire weekend. Key evidence: Gardiner 2024 meta-analysis (REM disruption from 0.5 g/kg, ~2 drinks); McCullar 2024 RCT in Sleep journal (three consecutive nights of pre-sleep alcohol — body does NOT adapt, REM deficit persists); Colrain 2014 (GABA-to-glutamate rebound explains second-half fragmentation); Danel 2001 (43% flattening of core body temperature amplitude). Debunks the 'nightcap' myth — sleep onset reduction only appears at 5+ drinks. Practical takeaways: 4-hour cutoff before sleep, honest note that the 1:1 water rule (Verster 2024) doesn't prevent hangovers but slows pace, max 2 drinks, cool bedroom. Cross-links to prior alcohol-sleep-rem-disruption-hrv-guide and bedroom temperature article. Evidence strength: strong (RCT + meta-analysis backbone)."
   }
 }
