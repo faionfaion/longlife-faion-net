@@ -46,8 +46,20 @@ if [ -f "$HOME/.venv-media/bin/activate" ] && [ -z "${VIRTUAL_ENV:-}" ]; then
     source "$HOME/.venv-media/bin/activate"
 fi
 
-# Pull latest changes (prompt/schema updates)
-git pull --ff-only origin master >> "$LOG_DIR/cron.log" 2>&1 || true
+# Sync with GitHub, both directions.
+#
+# The pipeline commits every article locally and nothing ever pushed them, so prod drifted
+# 138 commits ahead of origin. That made `git pull --ff-only` fail on every run — silently,
+# behind `|| true` — and code changes pushed to GitHub never reached the machine actually
+# running the pipeline. It also left the 400-odd articles existing on one disk only.
+#
+# Rebase puts local content commits on top of whatever came from GitHub; a conflict aborts
+# and leaves the tree exactly as it was, so a bad merge can never take the night's run down.
+{
+    git fetch origin master
+    git rebase origin/master || git rebase --abort
+    git push origin HEAD:master || echo "push failed — prod is still ahead of origin"
+} >> "$LOG_DIR/cron.log" 2>&1 || true
 
 echo "$(date '+%Y-%m-%d %H:%M:%S') Pipeline $MODE started" >> "$LOG_DIR/cron.log"
 
