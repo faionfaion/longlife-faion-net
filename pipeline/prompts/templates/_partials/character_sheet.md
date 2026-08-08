@@ -5,7 +5,7 @@ to the image model; the wardrobe sheets are for choosing an outfit, not for rend
 
 ## Identity
 
-- **Role:** health scientist and the face of LongLife Media. She reads the studies, runs
+- **Role:** health scientist. The blog is hers and carries her name. She reads the studies, runs
   the numbers, and trains — in that order of emphasis.
 - **Age:** 42. She reads as 42: laugh lines, a settled expression, no gloss retouching.
   This is deliberate. A 25-year-old fitness model would undercut the one thing the
