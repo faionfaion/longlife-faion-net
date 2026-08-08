@@ -1,29 +1,37 @@
-/* LongLife v1 — Montserrat, clean header, health/wellness theme */
+/* LongLife v2 — editorial broadsheet.
+ *
+ * The covers moved to muted documentary photography (charcoal, cream, olive, clay); the
+ * site chrome was still emerald-and-mint Montserrat, the exact supplement-advert look the
+ * blog argues against. This palette and type bring the page in line with the covers: cream
+ * paper, near-black ink, one restrained clay accent, a literary serif for reading and a
+ * clean grotesque for the small print. No green, no rounded marketing cards. */
 
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,500;0,600;0,700;1,400&family=IBM+Plex+Sans:wght@400;500;600&display=swap');
 
 :root {
-  --color-bg: #f8fdf8;
-  --color-text: #1a2e1a;
-  --color-text-secondary: #6b8070;
-  --color-accent: #059669;
-  --color-accent-light: #34d399;
-  --color-accent-bg: #ecfdf5;
-  --color-link: #047857;
-  --color-link-hover: #065f46;
-  --color-border: #d1e7dd;
-  --color-card-bg: #ffffff;
-  --color-tag-bg: #ecfdf5;
-  --color-header-bg: #ffffff;
-  --color-footer-bg: #1a2e1a;
+  --color-bg: #f6f2ea;            /* warm paper */
+  --color-text: #1c1a17;          /* ink */
+  --color-text-secondary: #6f6759;
+  --color-muted: #6f6759;
+  --color-accent: #9a4726;        /* muted clay/terracotta */
+  --color-accent-light: #b8683f;
+  --color-accent-bg: #efe7d9;
+  --color-link: #9a4726;
+  --color-link-hover: #6f3016;
+  --color-border: #ded6c6;        /* warm hairline */
+  --color-card-bg: #fffdf8;
+  --color-tag-bg: #ece4d5;
+  --color-header-bg: #f6f2ea;
+  --color-footer-bg: #201d18;     /* deep charcoal, not green */
   --color-footer-text: rgba(255,255,255,0.7);
-  --font-body: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  --font-heading: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  --max-width: 780px;
-  --radius: 12px;
-  --shadow-sm: 0 1px 2px rgba(0,0,0,0.05);
-  --shadow-md: 0 4px 6px -1px rgba(0,0,0,0.1), 0 2px 4px -2px rgba(0,0,0,0.1);
-  --shadow-lg: 0 10px 15px -3px rgba(0,0,0,0.1), 0 4px 6px -4px rgba(0,0,0,0.1);
+  --font-body: "Spectral", Georgia, "Times New Roman", serif;
+  --font-heading: "Spectral", Georgia, serif;
+  --font-meta: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --max-width: 720px;
+  --radius: 4px;
+  --shadow-sm: 0 1px 2px rgba(28,26,23,0.05);
+  --shadow-md: 0 4px 14px -6px rgba(28,26,23,0.18);
+  --shadow-lg: 0 14px 30px -12px rgba(28,26,23,0.22);
 }
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -32,9 +40,10 @@ body {
   font-family: var(--font-body);
   color: var(--color-text);
   background: var(--color-bg);
-  line-height: 1.75;
-  font-size: 16px;
+  line-height: 1.72;
+  font-size: 18px;
   -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
 }
 
 .container {
@@ -636,3 +645,93 @@ body {
 .sub-err { color: #b00020; }
 .sub-fine { font-size: 13px; color: var(--color-muted, #6b7280); margin: .6rem 0; }
 .sub-manage h2 { margin-top: 1.8rem; }
+
+/* ============================================================
+   v2 editorial refinements (appended: equal specificity, wins by order)
+   Small print in the grotesque, set as spaced labels; headings and reading
+   stay in the serif. The look is a health-section broadsheet, not an app.
+   ============================================================ */
+
+/* The masthead name reads as a masthead: serif, tight. */
+.logo-text {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+/* Everything that is a label or a control moves to the grotesque. */
+.logo-tagline, .site-nav, .site-nav a,
+.date-header, .type-badge, .tag, .article-tags,
+.article-meta, .byline, .reading-time,
+.article-top, .article-top time,
+.footer-brand, .footer-desc, .footer-tg, .footer-links, .footer-copyright,
+.hero-section .subtitle, .badge,
+.sub-fine, .sub-kinds legend, .sub-form button, .sub-inline button,
+.article-nav {
+  font-family: var(--font-meta);
+}
+
+/* Editorial small-caps labels: dates, section kind, byline. */
+.date-header, .type-badge, .article-top time, .byline {
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  font-size: 12px;
+}
+.date-header {
+  color: var(--color-text);
+  border-bottom: 1px solid var(--color-text);
+  padding-bottom: 6px;
+}
+
+/* Headlines: serif, large, tight - the broadsheet voice. */
+.article-full h1 {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: clamp(30px, 5vw, 44px);
+  line-height: 1.12;
+  letter-spacing: -0.015em;
+  margin: 10px 0 6px;
+}
+.article-title { font-family: var(--font-heading); }
+.article-card h3 a, .article-card h3 { font-family: var(--font-heading); font-size: 21px; line-height: 1.25; }
+.article-body h2 { font-family: var(--font-heading); font-weight: 600; font-size: 26px; letter-spacing: -0.01em; margin-top: 34px; }
+.article-body h3 { font-family: var(--font-heading); font-weight: 600; }
+
+/* Links: clay, underlined the way print references its own words. */
+.article-body a { color: var(--color-link); text-decoration: underline; text-underline-offset: 2px; text-decoration-thickness: 1px; }
+.article-body a:hover { color: var(--color-link-hover); }
+
+/* Cards without the app-y white box: hairline separators on paper. */
+.article-card { background: transparent; border: 0; border-top: 1px solid var(--color-border); border-radius: 0; box-shadow: none; }
+.article-card:hover { border-color: var(--color-text); }
+
+/* A thin clay masthead rule under the header. */
+.site-header { border-bottom: 1px solid var(--color-text); }
+
+/* Staggered fade-in for the day's list - one calm page-load gesture. */
+@media (prefers-reduced-motion: no-preference) {
+  .date-group { animation: rise 0.5s ease both; }
+  .date-group:nth-child(2) { animation-delay: 0.05s; }
+  .date-group:nth-child(3) { animation-delay: 0.1s; }
+  @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+}
+
+/* Type badges: one muted ink label, not a box of wellness pastels. */
+.type-badge {
+  background: transparent;
+  color: var(--color-text-secondary);
+  border: 1px solid var(--color-border);
+  border-radius: 3px;
+  font-weight: 600;
+}
+.type-news, .type-weather, .type-material, .type-digest,
+.type-utility, .type-immigration, .type-guide {
+  background: transparent;
+  color: var(--color-text-secondary);
+}
+/* The clay accent earns one appearance up top: the material/digest kinds. */
+.type-material, .type-digest { color: var(--color-accent); border-color: var(--color-accent); }
+
+/* Tags: quiet on paper, clay on hover. */
+.tag { background: var(--color-tag-bg); color: var(--color-text-secondary); border-radius: 3px; }
+.tag:hover { background: var(--color-accent); color: #fff; }
