@@ -11,7 +11,7 @@ const Layout = ({ children }) => (
         <Link to="/" className="site-logo">
           <span className="logo-text">Віта Зеленко</span>
           <span className="logo-tagline">
-            про здоров’я — з поглядом на дослідження
+            про здоров’я, з поглядом на дослідження
           </span>
         </Link>
         <nav className="site-nav">
@@ -33,7 +33,7 @@ const Layout = ({ children }) => (
         <p className="footer-desc">
           Я науковиця в галузі здоров’я. Читаю дослідження й пишу тут про те,
           <br />
-          що з них насправді випливає — і де я сама ще не певна.
+          що з них насправді випливає, і де я сама ще не певна.
         </p>
         <a
           href="https://t.me/long_life_media"
@@ -45,6 +45,8 @@ const Layout = ({ children }) => (
         </a>
         <div className="footer-links">
           <Link to="/pro-mene/">Про мене</Link>
+          <Link to="/umovy-vykorystannya/">Умови використання</Link>
+          <a href="/rss.xml">RSS</a>
           <a href="/sitemap-index.xml">Sitemap</a>
         </div>
         <p className="footer-copyright">

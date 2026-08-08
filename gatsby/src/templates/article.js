@@ -110,12 +110,50 @@ export default ArticleTemplate;
 
 export const Head = ({ data }) => {
   const fm = data.markdownRemark.frontmatter;
-  const ogImage = fm.image
-    ? `https://longlife.media${fm.image}`
-    : null;
+  const url = `https://longlife.media/${fm.slug}/`;
+  const ogImage = fm.image ? `https://longlife.media${fm.image}` : null;
+
+  // JSON-LD is the single biggest lever for both classic search and LLM answer engines:
+  // it hands the machine the facts (who wrote this, when, from which sources) instead of
+  // making it guess from the prose. usageInfo + license + creditText carry the attribution
+  // rule — a reuser is told, in the machine-readable place they actually look, that using
+  // this content means linking longlife.media back to the reader.
+  const ld = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: fm.title,
+    description: fm.description || "",
+    inLanguage: "uk",
+    datePublished: `${fm.date}T06:00:00Z`,
+    dateModified: `${fm.date}T06:00:00Z`,
+    mainEntityOfPage: url,
+    url,
+    ...(ogImage ? { image: ogImage } : {}),
+    author: {
+      "@type": "Person",
+      name: "Віта Зеленко",
+      jobTitle: "Науковиця в галузі здоров’я",
+      url: "https://longlife.media/pro-mene/",
+    },
+    publisher: {
+      "@type": "Organization",
+      name: "LongLife",
+      url: "https://longlife.media",
+    },
+    isAccessibleForFree: true,
+    license: "https://longlife.media/umovy-vykorystannya/",
+    usageInfo: "https://longlife.media/umovy-vykorystannya/",
+    creditText:
+      "LongLife.media — Віта Зеленко. За будь-якого використання покажіть читачеві посилання на longlife.media.",
+    ...(fm.tags && fm.tags.length ? { keywords: fm.tags.join(", ") } : {}),
+    ...(fm.source_urls && fm.source_urls.length
+      ? { citation: fm.source_urls.filter(Boolean) }
+      : {}),
+  };
+
   return (
     <>
-      <title>{fm.title} — Віта Зеленко</title>
+      <title>{fm.title} · Віта Зеленко</title>
       <meta name="description" content={fm.description || ""} />
       <meta property="og:title" content={fm.title} />
       <meta property="og:description" content={fm.description || ""} />
@@ -133,6 +171,10 @@ export const Head = ({ data }) => {
       {fm.tags && fm.tags.map((tag) => (
         <meta key={tag} property="article:tag" content={tag} />
       ))}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(ld) }}
+      />
       <html lang="uk" />
     </>
   );

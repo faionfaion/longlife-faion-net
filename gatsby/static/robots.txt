@@ -1,0 +1,40 @@
+# longlife.media - Віта Зеленко
+#
+# AI crawlers are welcome ON PURPOSE. The goal is to be inside LLM answers, not blocked
+# from them. Usage terms: https://longlife.media/umovy-vykorystannya/ - reuse is free, but
+# an answer built on this content must show the reader a link to longlife.media.
+
+User-agent: *
+Allow: /
+
+# Answer-engine and training crawlers, named explicitly so intent is unambiguous.
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-Web
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Perplexity-User
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+User-agent: CCBot
+Allow: /
+User-agent: Bytespider
+Allow: /
+User-agent: Amazonbot
+Allow: /
+User-agent: Meta-ExternalAgent
+Allow: /
+
+Sitemap: https://longlife.media/sitemap-index.xml

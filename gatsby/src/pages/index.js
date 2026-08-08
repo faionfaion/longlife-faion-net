@@ -27,8 +27,8 @@ const IndexPage = ({ data }) => {
       <div className="hero-section">
         <p className="subtitle">
           Я Віта. Читаю дослідження про здоров’я і пишу тут про те, що з них
-          насправді випливає — і де я сама ще не певна. Один допис на день,
-          у п’ятницю огляд тижня, у неділю — тиждень однією історією.
+          насправді випливає, і де я сама ще не певна. Один допис на день,
+          у п’ятницю огляд тижня, у неділю тиждень однією історією.
         </p>
       </div>
 
@@ -95,13 +95,37 @@ export default IndexPage;
 
 export const Head = () => (
   <>
-    <title>Віта Зеленко — про здоров’я з поглядом на дослідження</title>
+    <title>Віта Зеленко · про здоров’я з поглядом на дослідження</title>
     <meta name="description" content="Науковиця в галузі здоров’я читає дослідження і пише, що з них насправді випливає. Один допис на день, українською." />
-    <meta property="og:title" content="Віта Зеленко — про здоров’я з поглядом на дослідження" />
+    <meta property="og:title" content="Віта Зеленко · про здоров’я з поглядом на дослідження" />
     <meta property="og:description" content="Науковиця в галузі здоров’я читає дослідження і пише, що з них насправді випливає. Один допис на день, українською." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://longlife.media" />
     <meta property="og:site_name" content="Віта Зеленко" />
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{
+        __html: JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "Blog",
+          name: "LongLife — Віта Зеленко",
+          url: "https://longlife.media",
+          inLanguage: "uk",
+          description:
+            "Науковиця в галузі здоров’я читає дослідження і пояснює простою мовою, що з них насправді випливає, і викриває псевдонауку.",
+          author: {
+            "@type": "Person",
+            name: "Віта Зеленко",
+            jobTitle: "Науковиця в галузі здоров’я",
+            url: "https://longlife.media/pro-mene/",
+          },
+          license: "https://longlife.media/umovy-vykorystannya/",
+          usageInfo: "https://longlife.media/umovy-vykorystannya/",
+          creditText:
+            "LongLife.media — Віта Зеленко. За будь-якого використання покажіть читачеві посилання на longlife.media.",
+        }),
+      }}
+    />
     <html lang="uk" />
   </>
 );
