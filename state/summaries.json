@@ -6390,5 +6390,21 @@
       "м'язова маса"
     ],
     "summary": "Umbrella explainer on the GLP-1 class: mechanism in plain language (incretin hormone acting on hypothalamic appetite neurons, gastric emptying, glucose-dependent insulin), the arc from diabetes drug to weight-loss phenomenon, and the actual evidence. Key trials: STEP 1 (NEJM 2021, RCT, n=1961, 68 weeks, −14.9% vs −2.4%), STEP 5 (Nature Medicine 2022, n=304, 104 weeks, −15.2%), SELECT (NEJM 2023, n=17604, MACE 6.5% vs 8.0%, secondary-prevention population only). Discontinuation is the core of the piece: STEP 1 extension showed two-thirds regained in a year; a 2026 eClinicalMedicine nonlinear meta-regression (6 RCTs, n=3236) quantifies a 23-week regain half-life and a 75.3% plateau. Real-world persistence data (JAMA Network Open 2025) show 46.5–64.8% quit within a year.\n\nAlso covers the contradictory 2026 muscle-mass meta-analyses (IJO: lean mass +1.81% proportionally but −1.74 kg absolute, semaglutide −5.44 kg; vs a network meta-analysis finding semaglutide/tirzepatide worst at lean preservation), side effects (GI events ~82%, EMA/WHO 2025 NAION signal at up to 1 in 10,000, contested JAMA 2023 GI-harms cohort), the resolved shortage, compounding ban, FDA counterfeit seizures and 5–20x dosing overdoses, WHO's first-ever obesity pharmacotherapy guideline (Dec 2025, conditional, moderate certainty) and EML listing (Sept 2025), plus Ukrainian registration/access. Position: effective and evidence-backed, but chronic treatment rather than a course; harm lives in the gap between the chronic-care framing and the seasonal-shortcut culture. Evidence strength: strong for efficacy, moderate for regain and muscle questions, weak/observational for GI harms and market picture."
+  },
+  "krasa-v-media-standarty-tila-retush-zakony-body-neutrality": {
+    "date": "2026-08-08",
+    "title": "Краса в медіа: як індустрія зробила стандарт тіла і чому закони про маркування ретуші його не лагодять",
+    "type": "material",
+    "tags": [
+      "образ тіла",
+      "розлади харчової поведінки",
+      "соцмережі",
+      "підлітки",
+      "психічне здоровя",
+      "медіа",
+      "дослідження",
+      "профілактика"
+    ],
+    "summary": "Матеріал про історію та науку медійних стандартів тіла. Ключові докази: Becker 2002 (Фіджі, EAT-26 >20 зріс з 12.7% до 29.2%, самоіндуковане блювання 0% → 11.3%, але дві незалежні вибірки по ~63 особи, конфаундинг з модернізацією); Becker 2011 (n=523, непрямий вплив через мережу ровесників сильніший за особисте споживання); мета-аналіз Adolescent Research Review 2026 (45 досліджень, 33 086 підлітків, r≈0.18); Hausenblas 2013 (загальний d=0.03, у групі ризику d=0.34); Thai 2023 RCT (n=220, обмеження соцмереж до 1 год/день на 3 тижні покращило самооцінку зовнішності й ваги).\n\nЦентральна теза: закони про маркування ретуші (Ізраїль 2012, Франція 2017, Норвегія 2021) суперечать мета-аналізу Danthinne 2020 (18 досліджень), який показав, що позначки не захищають образ тіла і можуть посилювати порівняння; ай-трекінг підтверджує механізм. Натомість найсильніші докази має дисонансна профілактика (56 випробувань, 7 808 учасників, d=0.39; OR=1.78 для запобігання дебюту розладу) і очні психосоціальні втручання (Zhao 2025, 48 RCT, d=−0.45…−1.14). Бодінейтральність має лише гострий ефект (Ladwig 2024) без жодного RCT із подальшим спостереженням. Український контекст: SCOFF-позитивність 29.5% серед підлітків (JAMA Pediatrics 2024) з чітким застереженням скринінг ≠ діагноз. Загальний рівень доказів: помірний."
   }
 }
