@@ -1,151 +1,194 @@
-"""Stage 11: Evening digest — compile today's best articles into one TG post.
+"""Stage 11: the Sunday digest — the past week written as one long post.
 
-Used in 'digest' mode (20:00).
-Reads all articles published today, generates a digest caption with links.
+It used to be a short evening list of links sent straight to Telegram. It is now a piece
+in its own right: a week of news and a week of my own posts woven into one read, published
+to the site like anything else, which is what makes Sunday's channel post a post rather
+than an index.
+
+Because it comes out of the same generation schema as a normal article, it goes through
+the same cover, teaser, save and deploy stages, and the daily publish picks it up without
+knowing it is any different.
 """
 
 from __future__ import annotations
 
 import json
 import logging
-from datetime import datetime, timezone
-from pathlib import Path
-
+from datetime import datetime, timedelta, timezone
 from pipeline.config import (
-    CONTENT_DIR, IMAGES_DIR, MODEL_TG, SITE_BASE_URL,
-    SOUND_ON_END, SOUND_ON_START, STATE_DIR,
-    TG_BOT_TOKEN, TG_CHANNEL_ID,
+    CONTENT_DIR, CONTENT_TYPES, MODEL_GENERATE, SITE_BASE_URL, STATE_DIR,
 )
+from pipeline.context import PipelineContext
 from pipeline.prompts.builder import build_digest_prompt
 from pipeline.schemas import load_schema
 from pipeline.sdk import structured_query
-from pipeline.telegram import add_reaction, send_photo
 
 logger = logging.getLogger(__name__)
 
+WEEK_DAYS = 7
+MIN_POSTS_FOR_DIGEST = 2
+
+# Three or four paragraphs per post is the whole point of the format, so the digest can
+# only carry so many before it stops being a read and becomes an index again. The backlog
+# left by the old eight-a-night regime means a week can currently hold seventy-five posts;
+# once the cadence settles at one a day this cap will never be reached.
+MAX_POSTS_IN_DIGEST = 8
+
 
 def run() -> dict | None:
-    """Generate and publish evening digest to TG. Returns info dict or None."""
+    """Write and publish the week's digest. Returns info dict or None if skipped."""
     now = datetime.now(timezone.utc)
     today_str = now.strftime("%Y-%m-%d")
 
-    # Collect today's articles
-    articles = _collect_today_articles(today_str)
-    if len(articles) < 3:
-        logger.info("Only %d articles today, skipping digest", len(articles))
+    posts = _collect_week_posts(now)
+    if len(posts) < MIN_POSTS_FOR_DIGEST:
+        logger.info(
+            "Only %d post(s) this week, not enough to write a digest about", len(posts)
+        )
         return None
 
-    # Generate digest via LLM
-    caption = _generate_digest(articles, today_str)
+    news = _collect_week_news()
 
-    # Find a representative image (use the newest article's image)
-    image_path = None
-    for slug, _, _ in articles:
-        img = _find_image(slug)
-        if img:
-            image_path = img
-            break
+    ctx = PipelineContext()
+    ctx.slot_type = "digest"
+    ctx.posted_slugs = [slug for slug, _, _ in posts]
 
-    if not image_path:
-        logger.warning("No image found for digest")
-        return None
+    _write_digest(ctx, posts, news, today_str)
+    _illustrate_and_save(ctx)
 
-    # Determine silent mode
-    kyiv_hour = (now.hour + 3) % 24  # UTC+3 for Kyiv
-    silent = not (SOUND_ON_START <= kyiv_hour < SOUND_ON_END)
-
-    # Publish
-    msg_id = send_photo(
-        chat_id=TG_CHANNEL_ID,
-        image_path=image_path,
-        caption=caption,
-        bot_token=TG_BOT_TOKEN,
-        silent=silent,
+    logger.info(
+        "Weekly digest: %s (%d words, over %d posts and %d news items)",
+        ctx.slug, len(ctx.article_text.split()), len(posts), len(news),
     )
-
-    if msg_id:
-        add_reaction(TG_CHANNEL_ID, msg_id, "\U0001f525", TG_BOT_TOKEN)
-        logger.info("Digest published: msg %d (%d articles)", msg_id, len(articles))
-        return {"type": "digest", "msg_id": msg_id, "article_count": len(articles)}
-
-    logger.error("Failed to publish digest")
-    return None
-
-
-def _collect_today_articles(today_str: str) -> list[tuple[str, str, str]]:
-    """Return (slug, title, body_preview) for today's articles."""
-    articles = []
-    for md in sorted(CONTENT_DIR.glob("*.md"), key=lambda p: p.stat().st_mtime, reverse=True):
-        text = md.read_text(encoding="utf-8")
-        if f'date: "{today_str}"' not in text:
-            continue
-        slug = md.stem
-        title = ""
-        for line in text.split("\n"):
-            if line.startswith("title:"):
-                title = line.split('"')[1] if '"' in line else line.split(": ", 1)[1]
-                break
-        # Get first 300 chars of body
-        lines = text.split("\n")
-        in_fm = False
-        body_start = 0
-        for i, line in enumerate(lines):
-            if line.strip() == "---":
-                if in_fm:
-                    body_start = i + 1
-                    break
-                in_fm = True
-        body = "\n".join(lines[body_start:])[:300]
-        articles.append((slug, title, body))
-    return articles
+    return {
+        "type": "digest",
+        "slug": ctx.slug,
+        "url": f"{SITE_BASE_URL}/{ctx.slug}/",
+        "post_count": len(posts),
+        "news_count": len(news),
+    }
 
 
-def _find_image(slug: str) -> str | None:
-    for ext in (".jpg", ".jpeg", ".png"):
-        p = IMAGES_DIR / f"{slug}{ext}"
-        if p.exists():
-            return str(p)
-    return None
-
-
-def _generate_digest(articles: list[tuple[str, str, str]], today_str: str) -> str:
-    articles_text = "\n".join(
-        f"- slug: {slug}\n  title: {title}\n  preview: {body[:150]}"
-        for slug, title, body in articles
+def _write_digest(
+    ctx: PipelineContext,
+    posts: list[tuple[str, str, str]],
+    news: list[dict],
+    today_str: str,
+) -> None:
+    posts_text = "\n\n".join(
+        f"slug: {slug}\ntitle: {title}\nwhat it said: {summary}"
+        for slug, title, summary in posts
     )
+    news_text = "\n".join(
+        f"- {item.get('title', '')} ({item.get('source', '')}) {item.get('link', '')}"
+        for item in news[:40]
+    ) or "(the feeds were quiet this week)"
 
-    system, prompt = build_digest_prompt(articles_text, today_str)
+    system, prompt = build_digest_prompt(
+        posts_text=posts_text,
+        news_text=news_text,
+        today_str=today_str,
+        type_cfg=CONTENT_TYPES["digest"],
+    )
 
     result = structured_query(
         prompt=prompt,
         system_prompt=system,
-        schema=load_schema("digest"),
-        model=MODEL_TG,
+        schema=load_schema("generation"),
+        model=MODEL_GENERATE,
     )
 
-    intro = result["intro"]
-    items = result.get("items", [])
-    outro = result.get("outro", "")
+    ctx.title = result["title"]
+    ctx.slug = result["slug"]
+    ctx.article_text = result["article"]
+    ctx.description = result.get("description", "")
+    ctx.tags = result.get("tags", [])
+    ctx.hashtags = result.get("hashtags", "")
+    ctx.source_urls = result.get("source_urls", [])
+    ctx.source_names = result.get("source_names", [])
+    ctx.summary = result.get("summary", "")
 
-    # Build digest caption
-    item_lines = []
-    for item in items[:10]:
-        emoji = item.get("emoji", "\u2022")
-        title = item["title"]
-        slug = item["slug"]
-        url = f"{SITE_BASE_URL}/{slug}/"
-        item_lines.append(f'{emoji} <a href="{url}">{title}</a>')
 
-    parts = [
-        "<b>\U0001f4f0 Дайджест дня</b>",
-        "",
-        intro,
-        "",
-        "\n\n".join(item_lines),
-        "",
-        outro,
-        "",
-        '<a href="https://t.me/long_life_media">\U0001f33f LongLife Media</a>',
-    ]
+def _illustrate_and_save(ctx: PipelineContext) -> None:
+    """Same cover, teaser, save and deploy path as any other post."""
+    from pipeline.stages import s6_generate_tg, s7_deploy, s7_save, s_comic_scene
 
-    return "\n".join(parts)
+    s_comic_scene.run(ctx)
+    s6_generate_tg.run(ctx)
+    s7_save.run(ctx)
+    s7_deploy.run()
+
+
+def _collect_week_posts(now: datetime) -> list[tuple[str, str, str]]:
+    """Return (slug, title, summary) for posts published in the last week, oldest first.
+
+    Summary rather than a body preview: the digest is meant to reflect on the week, and
+    the first 300 characters of an article are its opening hook, which tells the model
+    what the piece sounded like but not what it found.
+    """
+    cutoff = (now - timedelta(days=WEEK_DAYS)).strftime("%Y-%m-%d")
+    summaries = _load_summaries()
+
+    posts: list[tuple[str, str, str]] = []
+    for md in sorted(CONTENT_DIR.glob("*.md")):
+        text = md.read_text(encoding="utf-8", errors="replace")
+        date = _frontmatter_value(text, "date")
+        if not date or date < cutoff:
+            continue
+        slug = md.stem
+        entry = summaries.get(slug, {})
+        posts.append((
+            slug,
+            entry.get("title") or _frontmatter_value(text, "title") or slug,
+            entry.get("summary") or _frontmatter_value(text, "description") or "",
+        ))
+
+    posts.sort(key=lambda p: p[0])
+    if len(posts) > MAX_POSTS_IN_DIGEST:
+        logger.warning(
+            "%d posts this week — writing the digest about the last %d and leaving %d out",
+            len(posts), MAX_POSTS_IN_DIGEST, len(posts) - MAX_POSTS_IN_DIGEST,
+        )
+        posts = posts[-MAX_POSTS_IN_DIGEST:]
+    return posts
+
+
+def _collect_week_news() -> list[dict]:
+    """Headlines currently in the feeds.
+
+    The feeds carry roughly the last week for health publishers, but they are a snapshot
+    rather than an archive: an item that appeared and rolled off on Tuesday will not be
+    here on Sunday. Good enough to give the digest the week's shape, not a record of it.
+    """
+    from pipeline.feeds import fetch_rss_headlines
+
+    try:
+        return fetch_rss_headlines()
+    except Exception:
+        logger.warning("Could not read the feeds for the digest", exc_info=True)
+        return []
+
+
+def _load_summaries() -> dict:
+    """The per-article summaries the save stage accumulates in state/."""
+    path = STATE_DIR / "summaries.json"
+    if not path.exists():
+        return {}
+    try:
+        return json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        logger.warning("Could not read %s", path, exc_info=True)
+        return {}
+
+
+def _frontmatter_value(text: str, key: str) -> str:
+    """Read one key out of the leading frontmatter block, ignoring the body."""
+    lines = text.split("\n")
+    if not lines or lines[0].strip() != "---":
+        return ""
+    for line in lines[1:]:
+        if line.strip() == "---":
+            return ""
+        if line.startswith(f"{key}:"):
+            return line.split(":", 1)[1].strip().strip('"')
+    return ""

@@ -144,10 +144,17 @@ def build_comic_scene_prompt(ctx: PipelineContext) -> tuple[str, str]:
     )
 
 
-def build_digest_prompt(articles_text: str, today_str: str) -> tuple[str, str]:
-    """Build s11 digest prompt."""
+def build_digest_prompt(
+    posts_text: str,
+    news_text: str,
+    today_str: str,
+    type_cfg: dict,
+) -> tuple[str, str]:
+    """Build the weekly digest prompt."""
     return render(
         "s11_digest.xml.j2",
-        articles_text=articles_text,
+        posts_text=posts_text,
+        news_text=news_text,
         today_str=today_str,
+        type_cfg=type_cfg,
     )

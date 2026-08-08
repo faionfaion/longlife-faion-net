@@ -1,4 +1,9 @@
-"""Digest mode: compile day's articles into an evening digest and send to TG."""
+"""Digest mode: write the week as one long post and put it on the site.
+
+Runs Sunday morning. The result is a normal article as far as everything downstream is
+concerned, so the day's publish sends it to the channel like any other post — which is why
+Sunday needs no separate slot and the blog still puts out exactly one thing a day.
+"""
 
 from __future__ import annotations
 
@@ -10,16 +15,14 @@ logger = logging.getLogger("pipeline")
 
 
 def run() -> dict | None:
-    """Compile today's published articles into a digest and send to TG.
-
-    Returns a dict with 'msg_id' and 'article_count' on success,
-    or None if there are not enough articles for a digest.
-    """
-    logger.info("=== Digest mode ===")
+    """Write and publish the week's digest, or None if the week was too thin."""
+    logger.info("=== Weekly digest ===")
     result = s11_digest.run()
     if result:
-        logger.info("Digest published (msg %d, %d articles)",
-                     result["msg_id"], result["article_count"])
+        logger.info(
+            "Digest written: %s (%d posts, %d news items) — %s",
+            result["slug"], result["post_count"], result["news_count"], result["url"],
+        )
     else:
-        logger.info("Digest skipped (not enough articles)")
+        logger.info("Digest skipped (not enough posts this week)")
     return result
