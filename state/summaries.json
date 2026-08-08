@@ -6265,5 +6265,22 @@
       "психотерапія"
     ],
     "summary": "Guide explaining the terminology gap around 'porn addiction': ICD-11 includes compulsive sexual behaviour disorder (6C72) but places it under impulse control disorders, not addictions, while DSM-5/DSM-5-TR contains no such diagnosis after the APA rejected hypersexual disorder in 2013. Covers the five ICD-11 symptom domains, the ≥6-month and distress/impairment thresholds, and the explicit exclusion clause that distress arising solely from moral disapproval is insufficient for diagnosis. Screening tools BPS (5 items, cut-off ≥4, validated across 5 samples) and CSBD-19 (N=9,325, cut-off ≥50) are presented with a hard screen≠diagnosis disclaimer and a note that no validated Ukrainian version exists. Prevalence from International Sex Survey (N=82,243, 42 countries): ~4.8% at high risk, range 1.6–16.7%, self-selected sample caveat.\n\nKey angle: moral incongruence decouples self-perceived addiction from actual consumption (Grubbs 2019 meta-analysis; Grubbs 2020, N=2,519 US-representative-matched, religiousness moderates). Treatment evidence: 2025 meta-analysis (20 studies, 2,021 participants) shows large effects for CBT/ACT vs controls on problematic use, frequency and sexual compulsivity, small for craving, moderate for comorbid depression — but high risk of bias and only 4 RCTs in the entire field (2023 systematic review, 28 studies, 500 participants). Counterweight: Prause & Binnie 2024 preregistered survey links NoFap/reboot forum involvement with worse depression, anxiety and suicidal ideation. Practical takeaway: assess displacement of function rather than shame, keep a 7-day log, seek CBT/ACT rather than abstinence forums. Ukrainian resources: 7333, 103, howareu.com. Evidence strength: moderate (classification facts strong, treatment moderate/thin)."
+  },
+  "neat-termohenez-kompensatsiia-ruhu-plato-schudnennia": {
+    "date": "2026-08-08",
+    "title": "Термогенез без вправ (NEAT): чому ті, хто худне, непомітно менше рухаються",
+    "type": "fitness",
+    "tags": [
+      "NEAT",
+      "схуднення",
+      "фітнес",
+      "енергобаланс",
+      "метаболізм",
+      "дослідження",
+      "активність",
+      "плато у схудненні",
+      "сидячий спосіб життя"
+    ],
+    "summary": "Пояснювальний матеріал про NEAT (термогенез без вправ) і компенсаторне зниження побутової активності при дефіциті калорій та тренуваннях. Основні дані: Levine 1999 (Science, n=16, перегодовування — 2/3 приросту витрат через NEAT), Levine 2005 (n=20, повні учасники сидять на ~2 год довше, модельні 350 ккал/добу), Levine 2004 (розкид NEAT до 2000 ккал/добу, переважно професійний), Careau 2021 (Current Biology, n=1754, DLW — середня компенсація 28%, до ~50% при високій жировій масі), Riou 2019 (РКД, n=21 — компенсація 96% через зниження неструктурованої активності при незмінному споживанні їжі), Martin 2011 CALERIE (обмеження калорій знижує витрати на активність, акселерометри це не ловлять), Flanagan 2024 (iScience — компенсація поведінкова, а не через сповільнення метаболізму спокою).\n\nПрактика: 5 важелів NEAT з чесними ефектами — стояча робота (лише ~9 ккал/год за мета-аналізом Saeidifard 2018), дзвінки на ходу, сходи/VILPA (Stamatakis 2022, Nature Medicine — мортальний, не калорійний ефект), побутова активність, погодинні паузи (рекомендації ВООЗ 2020). Головний висновок для читача: не зараховувати «спалене на тренуванні» як бонус до їжі — доходить у середньому ~72%. Рівень доказовості загалом помірний: феномен компенсації підтверджено великими даними DLW, механістичні РКД мають малі вибірки. Крос-лінки на матеріали про норму кроків, weekend warrior і снеки руху."
   }
 }
