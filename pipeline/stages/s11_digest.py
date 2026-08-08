@@ -21,6 +21,7 @@ from pipeline.config import (
 from pipeline.context import PipelineContext
 from pipeline.prompts.builder import build_digest_prompt
 from pipeline.schemas import load_schema
+from pipeline.stages.s3_generate import strip_leading_metadata
 from pipeline.sdk import structured_query
 
 logger = logging.getLogger(__name__)
@@ -100,7 +101,7 @@ def _write_digest(
 
     ctx.title = result["title"]
     ctx.slug = result["slug"]
-    ctx.article_text = result["article"]
+    ctx.article_text = strip_leading_metadata(result["article"])
     ctx.description = result.get("description", "")
     ctx.tags = result.get("tags", [])
     ctx.hashtags = result.get("hashtags", "")

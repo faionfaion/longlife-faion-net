@@ -43,11 +43,6 @@ tg_post: |
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
-Title: Рухливість кульшових суглобів: чому тугі стегна — часта причина болю в попереку, колінах і поганої постави
-Type: fitness
-Category: mobility, hip-health, low-back-pain, stretching
-Tags: #mobility #hip-health #low-back-pain #stretching #physiotherapy #flexibility #joint-health
-
 Привіт! Якщо в тебе болить поперек — проблема може ховатися на 30 сантиметрів нижче, у кульшових суглобах. Як ми писали у [статті про йогу при болі в попереку](https://longlife.faion.net/yoga-chronic-low-back-pain-cochrane-acp-guideline/), поза голуба — одна з доказових поз для спини. Сьогодні пояснюємо *чому* саме: через розкриття кульшових суглобів — тих великих кулястих з'єднань між тазом і стегновою кісткою.
 
 ## Компенсаторний каскад: як стегна «ламають» поперек 🔬

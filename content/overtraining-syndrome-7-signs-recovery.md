@@ -44,10 +44,6 @@ tg_post: |
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
-Type: fitness
-Category: відновлення
-Tags: перетренованість, відновлення, HRV, deload, спортивна медицина, тренування, сон, імунітет
-
 Привіт! Ми багато писали про [ексцентричний тренінг](https://longlife.faion.net/eccentric-training-opuskannia-vahy-syla-zakhyst-vid-travm/), [калістеніку](https://longlife.faion.net/calisthenics-vs-weights-syla-bez-sportzalu/), [функціональні тренування](https://longlife.faion.net/functional-training-vs-gym/) та [силові для жінок](https://longlife.faion.net/strength-training-women-myths-science/). Сьогодні — зворотний бік монети: що відбувається, коли тренувань забагато, а відпочинку замало. 💪
 
 ## Перенавантаження чи перетренованість — у чому різниця?

@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import logging
+import re
 
 from pipeline.config import (
     CONTENT_DIR, CONTENT_TYPES, MODEL_GENERATE, SITE_BASE_URL,
@@ -34,7 +35,7 @@ def run(ctx: PipelineContext) -> None:
 
     ctx.title = result["title"]
     ctx.slug = result["slug"]
-    ctx.article_text = result["article"]
+    ctx.article_text = strip_leading_metadata(result["article"])
     ctx.description = result.get("description", "")
     ctx.tags = result.get("tags", [])
     ctx.hashtags = result.get("hashtags", "")
@@ -49,6 +50,36 @@ def run(ctx: PipelineContext) -> None:
         len(ctx.article_text.split()),
         len(ctx.source_urls),
     )
+
+
+_META_LINE = re.compile(
+    r"^\s*(Category|Tags|Title|Type|Hashtags|Slug|Description|Author|Evidence[ _]level)\s*:",
+    re.IGNORECASE,
+)
+
+
+def strip_leading_metadata(body: str) -> str:
+    """Drop metadata lines the model sometimes prefixes to the article body.
+
+    The prompt says the `article` field is the body and nothing else, and most of the time
+    that holds — but often enough the model opens with "Category: ..." and "Tags: ...",
+    which then render as the first two lines of the published page. Those values already
+    have their own JSON fields and their own place in the frontmatter, so anything matching
+    here is a duplicate rather than content.
+
+    Only strips from the top, and stops at the first real line: a "Type:" further down is
+    part of the article.
+    """
+    lines = body.lstrip().split("\n")
+    start = 0
+    for line in lines:
+        if not line.strip() or _META_LINE.match(line):
+            start += 1
+            continue
+        break
+    if start:
+        logger.info("Stripped %d metadata line(s) leaked into the body", start)
+    return "\n".join(lines[start:]).lstrip()
 
 
 def _format_existing_articles(slugs: list[str]) -> str:

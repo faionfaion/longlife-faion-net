@@ -42,11 +42,6 @@ tg_post: |
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
-Title: Втома від співчуття: 5 кроків для тих, хто допомагає іншим і забуває про себе
-Type: lifehack
-Category: mental-health
-Tags: mental-health, compassion-fatigue, burnout, volunteering, self-care
-
 Привіт! За даними [CAF World Giving Index 2024](https://www.cafonline.org/about-us/publications/2024-publications/caf-world-giving-index-2024), 37% українців волонтерять, а 78% допомагають незнайомим — це один із найвищих показників у світі. А за дослідженням Frolova & Silver у [PLOS Mental Health (2024)](https://journals.plos.org/mentalhealth/article?id=10.1371/journal.pmen.0000056), у 2022–2023 роках найбільше запитів на психологічну допомогу надходило саме від волонтерів та соціальних працівників. Ми — нація, яка тримає одне одного. Але хто тримає тих, хто тримає інших?
 
 ## 🧠 Втома від співчуття — не те саме, що вигорання
