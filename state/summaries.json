@@ -6247,5 +6247,23 @@
       "грибок"
     ],
     "summary": "Сезонний практичний матеріал про догляд за стопами влітку з трьома опорами. Перша: систематичний огляд Parker 2017 (JFAR, 22 дослідження, 12 інгредієнтів) показує, що сечовина має найбільше даних серед емолієнтів, але якість літератури (15 «середніх», 7 «поганих», 0 «добрих») не дозволяє визнати її кращою; подвійно сліпе РКД Parker 2018 (n=34, 28 днів) не знайшло значущої переваги 25% сечовини над дешевим сорболеном. Практичний висновок — регулярність важливіша за ціну засобу; протокол AAD (короткий душ, крем на вологу шкіру, вазелін під шкарпетки, рідкий пластир, не між пальцями).\n\nДруга опора: профілактика мікозу стоп у басейні/на пляжі (AAD, StatPearls; 16% поширеності серед грецьких плавців, Journal of Fungi) — той самий шльопанець шкідливий при тріщинах і корисний у душовій. Третя: медичний блок за IWGDF 2023 та ADA 2026 — надлишкова мозоль у людини з діабетом є передвиразковим ураженням, її видалення знижує пік підошовного тиску на 26–32% (Young 1992; Pitei 1999), а безболісність нейропатичної виразки є ключовим тривожним сигналом. Крос-лінки на матеріали про літнє взуття (06.08) і про молодший вік дебюту T2D. Загальна сила доказів — помірна; біомеханічний блок свідомо скорочено через свіжу публікацію 06.08."
+  },
+  "pornozalezhnist-csbd-mkh-11-6c72-dsm5-skryninh-kpt-act": {
+    "date": "2026-08-08",
+    "title": "«Порнозалежність»: чому в МКХ-11 є діагноз 6C72, а в DSM-5 його немає",
+    "type": "guide",
+    "tags": [
+      "психічне здоров'я",
+      "компульсивна поведінка",
+      "МКХ-11",
+      "DSM-5",
+      "скринінг",
+      "КПТ",
+      "ACT",
+      "залежність",
+      "дослідження",
+      "психотерапія"
+    ],
+    "summary": "Guide explaining the terminology gap around 'porn addiction': ICD-11 includes compulsive sexual behaviour disorder (6C72) but places it under impulse control disorders, not addictions, while DSM-5/DSM-5-TR contains no such diagnosis after the APA rejected hypersexual disorder in 2013. Covers the five ICD-11 symptom domains, the ≥6-month and distress/impairment thresholds, and the explicit exclusion clause that distress arising solely from moral disapproval is insufficient for diagnosis. Screening tools BPS (5 items, cut-off ≥4, validated across 5 samples) and CSBD-19 (N=9,325, cut-off ≥50) are presented with a hard screen≠diagnosis disclaimer and a note that no validated Ukrainian version exists. Prevalence from International Sex Survey (N=82,243, 42 countries): ~4.8% at high risk, range 1.6–16.7%, self-selected sample caveat.\n\nKey angle: moral incongruence decouples self-perceived addiction from actual consumption (Grubbs 2019 meta-analysis; Grubbs 2020, N=2,519 US-representative-matched, religiousness moderates). Treatment evidence: 2025 meta-analysis (20 studies, 2,021 participants) shows large effects for CBT/ACT vs controls on problematic use, frequency and sexual compulsivity, small for craving, moderate for comorbid depression — but high risk of bias and only 4 RCTs in the entire field (2023 systematic review, 28 studies, 500 participants). Counterweight: Prause & Binnie 2024 preregistered survey links NoFap/reboot forum involvement with worse depression, anxiety and suicidal ideation. Practical takeaway: assess displacement of function rather than shame, keep a 7-day log, seek CBT/ACT rather than abstinence forums. Ukrainian resources: 7333, 103, howareu.com. Evidence strength: moderate (classification facts strong, treatment moderate/thin)."
   }
 }
