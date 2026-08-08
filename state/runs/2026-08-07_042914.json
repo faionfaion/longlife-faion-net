@@ -1,0 +1,392 @@
+{
+  "timestamp": "2026-08-07_042914",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "nhs-heat-action-plan-ukhsa-4-rivni-ukraina-blekaut-cheklist-2026, ai-bakteriofahy-stanford-evo-2-biobezpeka-2026, pyatnychne-vyno-son-vyhidnyh-rem-cbt-weekend-rebound-4-hodyny, plavannya-vidkryta-voda-depresiya-outside-rct-2025-bezpeka-dnipro-dnister, pasyvnyi-veiping-dity-5-12-astma-kohnitsiya-rodriguez-2026",
+  "author": "LongLife Media",
+  "duration_s": 5170.9,
+  "image_generated": false,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 172.9,
+      "error": null
+    },
+    {
+      "name": "research:NHS готується до спеки як до з",
+      "status": "ok",
+      "duration_s": 233.1,
+      "error": null
+    },
+    {
+      "name": "generate:NHS готується до спеки як до з",
+      "status": "ok",
+      "duration_s": 152.8,
+      "error": null
+    },
+    {
+      "name": "review:NHS готується до спеки як до з",
+      "status": "ok",
+      "duration_s": 173.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:NHS готується до спеки як до з",
+      "status": "ok",
+      "duration_s": 24.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:NHS готується до спеки як до з",
+      "status": "ok",
+      "duration_s": 10.1,
+      "error": null
+    },
+    {
+      "name": "save:NHS готується до спеки як до з",
+      "status": "ok",
+      "duration_s": 18.3,
+      "error": null
+    },
+    {
+      "name": "research:AI-згенеровані віруси у Stanfo",
+      "status": "ok",
+      "duration_s": 210.4,
+      "error": null
+    },
+    {
+      "name": "generate:AI-згенеровані віруси у Stanfo",
+      "status": "ok",
+      "duration_s": 72.9,
+      "error": null
+    },
+    {
+      "name": "review:AI-згенеровані віруси у Stanfo",
+      "status": "ok",
+      "duration_s": 104.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:AI-згенеровані віруси у Stanfo",
+      "status": "ok",
+      "duration_s": 19.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:AI-згенеровані віруси у Stanfo",
+      "status": "ok",
+      "duration_s": 10.6,
+      "error": null
+    },
+    {
+      "name": "save:AI-згенеровані віруси у Stanfo",
+      "status": "ok",
+      "duration_s": 22.2,
+      "error": null
+    },
+    {
+      "name": "research:Синдром вихідного дня і алкого",
+      "status": "ok",
+      "duration_s": 260.2,
+      "error": null
+    },
+    {
+      "name": "generate:Синдром вихідного дня і алкого",
+      "status": "ok",
+      "duration_s": 63.2,
+      "error": null
+    },
+    {
+      "name": "review:Синдром вихідного дня і алкого",
+      "status": "ok",
+      "duration_s": 125.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Синдром вихідного дня і алкого",
+      "status": "ok",
+      "duration_s": 24.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Синдром вихідного дня і алкого",
+      "status": "ok",
+      "duration_s": 10.4,
+      "error": null
+    },
+    {
+      "name": "save:Синдром вихідного дня і алкого",
+      "status": "ok",
+      "duration_s": 17.7,
+      "error": null
+    },
+    {
+      "name": "research:Плавання у відкритій воді для ",
+      "status": "ok",
+      "duration_s": 227.3,
+      "error": null
+    },
+    {
+      "name": "generate:Плавання у відкритій воді для ",
+      "status": "ok",
+      "duration_s": 101.1,
+      "error": null
+    },
+    {
+      "name": "review:Плавання у відкритій воді для ",
+      "status": "ok",
+      "duration_s": 113.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Плавання у відкритій воді для ",
+      "status": "ok",
+      "duration_s": 25.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Плавання у відкритій воді для ",
+      "status": "ok",
+      "duration_s": 9.1,
+      "error": null
+    },
+    {
+      "name": "save:Плавання у відкритій воді для ",
+      "status": "ok",
+      "duration_s": 18.7,
+      "error": null
+    },
+    {
+      "name": "research:Пасивне вейпінг у дітей: що по",
+      "status": "ok",
+      "duration_s": 229.5,
+      "error": null
+    },
+    {
+      "name": "generate:Пасивне вейпінг у дітей: що по",
+      "status": "ok",
+      "duration_s": 78.5,
+      "error": null
+    },
+    {
+      "name": "review:Пасивне вейпінг у дітей: що по",
+      "status": "ok",
+      "duration_s": 105.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Пасивне вейпінг у дітей: що по",
+      "status": "ok",
+      "duration_s": 21.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Пасивне вейпінг у дітей: що по",
+      "status": "ok",
+      "duration_s": 11.6,
+      "error": null
+    },
+    {
+      "name": "save:Пасивне вейпінг у дітей: що по",
+      "status": "ok",
+      "duration_s": 16.8,
+      "error": null
+    },
+    {
+      "name": "research:Циркадне харчування (chrono-nu",
+      "status": "ok",
+      "duration_s": 499.4,
+      "error": null
+    },
+    {
+      "name": "generate:Циркадне харчування (chrono-nu",
+      "status": "ok",
+      "duration_s": 69.8,
+      "error": null
+    },
+    {
+      "name": "review:Циркадне харчування (chrono-nu",
+      "status": "ok",
+      "duration_s": 102.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Циркадне харчування (chrono-nu",
+      "status": "ok",
+      "duration_s": 20.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Циркадне харчування (chrono-nu",
+      "status": "ok",
+      "duration_s": 10.0,
+      "error": null
+    },
+    {
+      "name": "save:Циркадне харчування (chrono-nu",
+      "status": "ok",
+      "duration_s": 16.3,
+      "error": null
+    },
+    {
+      "name": "research:Пікова кісткова маса до 30 і щ",
+      "status": "ok",
+      "duration_s": 200.0,
+      "error": null
+    },
+    {
+      "name": "generate:Пікова кісткова маса до 30 і щ",
+      "status": "ok",
+      "duration_s": 77.0,
+      "error": null
+    },
+    {
+      "name": "review:Пікова кісткова маса до 30 і щ",
+      "status": "ok",
+      "duration_s": 103.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Пікова кісткова маса до 30 і щ",
+      "status": "ok",
+      "duration_s": 22.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Пікова кісткова маса до 30 і щ",
+      "status": "ok",
+      "duration_s": 7.9,
+      "error": null
+    },
+    {
+      "name": "save:Пікова кісткова маса до 30 і щ",
+      "status": "ok",
+      "duration_s": 18.5,
+      "error": null
+    },
+    {
+      "name": "research:Магній таурат для серця і арит",
+      "status": "ok",
+      "duration_s": 249.8,
+      "error": null
+    },
+    {
+      "name": "generate:Магній таурат для серця і арит",
+      "status": "ok",
+      "duration_s": 79.7,
+      "error": null
+    },
+    {
+      "name": "review:Магній таурат для серця і арит",
+      "status": "ok",
+      "duration_s": 102.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Магній таурат для серця і арит",
+      "status": "ok",
+      "duration_s": 18.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Магній таурат для серця і арит",
+      "status": "ok",
+      "duration_s": 8.9,
+      "error": null
+    },
+    {
+      "name": "save:Магній таурат для серця і арит",
+      "status": "ok",
+      "duration_s": 16.5,
+      "error": null
+    },
+    {
+      "name": "research:Rapamycin off-label для longev",
+      "status": "ok",
+      "duration_s": 248.0,
+      "error": null
+    },
+    {
+      "name": "generate:Rapamycin off-label для longev",
+      "status": "ok",
+      "duration_s": 81.9,
+      "error": null
+    },
+    {
+      "name": "review:Rapamycin off-label для longev",
+      "status": "ok",
+      "duration_s": 102.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Rapamycin off-label для longev",
+      "status": "ok",
+      "duration_s": 17.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Rapamycin off-label для longev",
+      "status": "ok",
+      "duration_s": 9.0,
+      "error": null
+    },
+    {
+      "name": "save:Rapamycin off-label для longev",
+      "status": "ok",
+      "duration_s": 16.7,
+      "error": null
+    },
+    {
+      "name": "research:Медитація любові-доброти (lovi",
+      "status": "ok",
+      "duration_s": 219.7,
+      "error": null
+    },
+    {
+      "name": "generate:Медитація любові-доброти (lovi",
+      "status": "ok",
+      "duration_s": 49.9,
+      "error": null
+    },
+    {
+      "name": "review:Медитація любові-доброти (lovi",
+      "status": "ok",
+      "duration_s": 60.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Медитація любові-доброти (lovi",
+      "status": "ok",
+      "duration_s": 25.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Медитація любові-доброти (lovi",
+      "status": "ok",
+      "duration_s": 10.2,
+      "error": null
+    },
+    {
+      "name": "save:Медитація любові-доброти (lovi",
+      "status": "ok",
+      "duration_s": 16.1,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 0.3,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.1,
+      "error": null
+    }
+  ]
+}
