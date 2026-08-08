@@ -1,0 +1,68 @@
+{
+  "timestamp": "2026-08-08_104849",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "tyzhden-doslidzhen-snu-serpen-2026-obyektyvnyi-son-vs-samozvit",
+  "author": "Віта Зеленко",
+  "duration_s": 1287.1,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    },
+    {
+      "name": "research:Тиждень у дослідженнях сну: що",
+      "status": "ok",
+      "duration_s": 569.8,
+      "error": null
+    },
+    {
+      "name": "generate:Тиждень у дослідженнях сну: що",
+      "status": "ok",
+      "duration_s": 155.6,
+      "error": null
+    },
+    {
+      "name": "review:Тиждень у дослідженнях сну: що",
+      "status": "ok",
+      "duration_s": 327.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Тиждень у дослідженнях сну: що",
+      "status": "ok",
+      "duration_s": 20.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Тиждень у дослідженнях сну: що",
+      "status": "ok",
+      "duration_s": 12.6,
+      "error": null
+    },
+    {
+      "name": "save:Тиждень у дослідженнях сну: що",
+      "status": "ok",
+      "duration_s": 197.4,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 1.8,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}
