@@ -1,6 +1,20 @@
 const path = require("path");
 const fs = require("fs");
 
+// Declare source_descriptions explicitly. Gatsby infers the schema from existing files, and
+// until a post carries this new field it does not exist in the schema, so the article query
+// that selects it fails the whole build with a GraphQL validation error. Defining the type
+// makes the field always queryable (null where absent) regardless of what the content holds.
+exports.createSchemaCustomization = ({ actions }) => {
+  actions.createTypes(`
+    type MarkdownRemarkFrontmatter {
+      source_descriptions: [String]
+      source_urls: [String]
+      source_names: [String]
+    }
+  `);
+};
+
 // Generate /llms.txt at build time. The convention is a plain-markdown index an LLM can
 // read to find what a site holds without crawling every page — so it is only useful if it
 // lists the actual posts, which is why it is generated rather than hand-kept. The
