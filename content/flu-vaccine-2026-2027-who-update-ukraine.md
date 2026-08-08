@@ -112,17 +112,3 @@ tg_post: |
 Грип - не просто «застуда на тиждень». За [даними ВООЗ](https://www.who.int/teams/global-influenza-programme), щороку у світі фіксують до 1 мільярда випадків грипу та 290 000–650 000 смертей від респіраторних ускладнень. Вакцинація - не гарантія, що ти не захворієш, але вагомий шанс не потрапити до лікарні. ⏳
 
 ---
-
-## Джерела
-
-1. WHO - [Recommendations for influenza vaccine composition, 2026–2027 Northern Hemisphere](https://www.who.int/news/item/27-02-2026-recommendations-for-influenza-vaccine-composition-for-the-2026-2027-northern-hemisphere-season)
-2. Nature, npj Vaccines - [B/Yamagata lineage extinction](https://www.nature.com/articles/s41541-024-01010-y)
-3. CDC - [How Flu Viruses Can Change](https://www.cdc.gov/flu/php/viruses/change.html)
-4. Yegorov та ін., 2026, Clinical Microbiology and Infection - [Meta-analysis of influenza vaccine effectiveness (165 studies)](https://pubmed.ncbi.nlm.nih.gov/41093140/)
-5. CDC MMWR - [Influenza Vaccine Effectiveness, 2024–2025](https://www.cdc.gov/mmwr/volumes/74/wr/mm7406a2.htm)
-6. Presa та ін., 2025, European Respiratory Review - [Vaccine effectiveness in patients with chronic conditions](https://pmc.ncbi.nlm.nih.gov/articles/PMC11707602/)
-7. Demicheli та ін., 2018, Cochrane Database - [Vaccines for preventing influenza in healthy adults](https://pmc.ncbi.nlm.nih.gov/articles/PMC6491184/)
-8. WHO Europe - [Seasonal influenza vaccination in pharmacies in Ukraine](https://www.who.int/europe/news-room/08-11-2024-seasonal-influenza-vaccination-starts-in-pharmacies-in-ukraine)
-9. ECDC - [EU/EEA National Seasonal Influenza Vaccination Survey](https://www.ecdc.europa.eu/en/publications-data/survey-report-national-seasonal-influenza-vaccination-recommendations-and)
-10. Interfax-Ukraine - [Sanofi скоротив постачання Vaxigrip Tetra](https://en.interfax.com.ua/news/general/1118260.html)
-11. WHO - [Global Influenza Programme](https://www.who.int/teams/global-influenza-programme)

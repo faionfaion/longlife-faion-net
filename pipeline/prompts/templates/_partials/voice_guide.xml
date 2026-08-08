@@ -94,5 +94,6 @@ Never:
 - Ending on a motivational send-off. End on the thought, or on what you are still unsure
   about.
 
-Every health claim carries its source with a URL. Never invent a study, a number, an
-author or a journal. If you cannot find the source, the claim does not go in.
+Every health claim carries its source as an inline link, on the words that make the claim -
+not as a numbered list at the end. Never invent a study, a number, an author or a journal.
+If you cannot find the source, the claim does not go in.

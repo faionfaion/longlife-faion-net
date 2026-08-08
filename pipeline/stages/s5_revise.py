@@ -37,10 +37,10 @@ def run(ctx: PipelineContext) -> None:
     # The revise output needs the same cleanup as generation: it re-introduces the em-dash
     # and sometimes prepends "Type:/Category:" metadata, and without stripping them here the
     # polish step quietly undoes what s3_generate cleaned.
-    from pipeline.stages.s3_generate import normalize_dashes, strip_leading_metadata
+    from pipeline.stages.s3_generate import normalize_dashes, strip_leading_metadata, strip_sources_section
 
     if result.get("article"):
-        ctx.article_text = normalize_dashes(strip_leading_metadata(result["article"]))
+        ctx.article_text = normalize_dashes(strip_sources_section(strip_leading_metadata(result["article"])))
     if result.get("title"):
         ctx.title = normalize_dashes(result["title"])
     if result.get("description"):

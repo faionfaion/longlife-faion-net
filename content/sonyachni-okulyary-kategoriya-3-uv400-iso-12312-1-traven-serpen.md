@@ -133,21 +133,3 @@ tg_post: |
 4. **Для дитини купи окуляри з 6 місяців**, якщо плануєш тривалі прогулянки на сонці. Шукай м'яку оправу, полікарбонатні лінзи, UV400. Темрява скла менш важлива, ніж UV-маркування.
 
 Якщо в тебе вже є симптоми - постійне почервоніння, відчуття «піщинки», нечіткий зір - це привід записатися до офтальмолога, а не лікуватися самостійно. Окуляри - це профілактика, не лікування. ⏳
-
-## Джерела
-
-1. [Roberts JE, 2011 - Ultraviolet radiation as a risk factor for cataract and macular degeneration, *Eye & Contact Lens*](https://pubmed.ncbi.nlm.nih.gov/21617534/)
-2. [Yam JCS & Kwok AKH, 2014 - Ultraviolet light and ocular diseases, *International Ophthalmology*](https://pubmed.ncbi.nlm.nih.gov/23722672/)
-3. [American Academy of Ophthalmology - Photokeratitis (snow blindness)](https://www.aao.org/eye-health/diseases/photokeratitis-snow-blindness)
-4. [Liu et al., 2018 - Geographical prevalence and risk factors for pterygium, PMC meta-analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5968422/)
-5. [WHO, 2006 - Global burden of disease from solar ultraviolet radiation](https://www.who.int/publications/i/item/9241594403)
-6. [ISO 12312-1:2022 - Eye and face protection: sunglasses for general use](https://www.iso.org/standard/77321.html)
-7. [Bono P. et al., 2024 - Modelling UV exposure through tinted lenses, *Scientific Reports* (Nature)](https://www.nature.com/articles/s41598-023-50831-9)
-8. [American Academy of Ophthalmology - Sunglasses: protection from UV](https://www.aao.org/eye-health/glasses-contacts/sunglasses-3)
-9. [Canadian Association of Optometrists - Children's eyes and risks associated with sun exposure](https://opto.ca/eye-health-library/childrens-eyes-and-risks-associated-sun-exposure)
-10. [American Optometric Association - UV protection](https://www.aoa.org/healthy-eyes/caring-for-your-eyes/uv-protection)
-
----
-
-**Category:** eye-health
-**Tags:** #UV #окуляри #офтальмологія #профілактика #літо #UV400 #дитячіочі

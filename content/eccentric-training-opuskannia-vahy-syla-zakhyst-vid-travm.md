@@ -101,14 +101,3 @@ tg_post: |
 Ексцентричний тренінг - це не заміна звичних вправ, а спосіб отримати більше від кожного повторення. Повільне опускання, менше навантаження на серце, більше сили - здається, непогана угода 💪
 
 ---
-
-## Джерела
-
-1. Roig M, et al. The effects of eccentric versus concentric resistance training on muscle strength and mass: a systematic review and meta-analysis. *British Journal of Sports Medicine*. 2009;43(8):556-568. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18981046/)
-2. Douglas J, et al. Eccentric exercise: physiological characteristics and acute responses. *Sports Medicine*. 2017;47(4):663-675. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27647157/)
-3. Peñailillo L, et al. Metabolic and muscle damage profiles of concentric, eccentric, and concentric/eccentric cycling. *Journal of Applied Physiology*. 2017;122(4):933-941. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28663378/)
-4. Schoenfeld BJ, et al. Hypertrophic effects of concentric vs. eccentric muscle actions: a systematic review and meta-analysis. *Journal of Strength and Conditioning Research*. 2017;31(9):2599-2608. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28486337/)
-5. da Silva JJ, et al. Eccentric versus concentric resistance training for muscle hypertrophy: a systematic review and meta-analysis. *Journal of Sport and Health Science*. 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39652733/)
-6. Andrews AW, et al. Serial sarcomere number adaptations following eccentric exercise training. *Journal of Strength and Conditioning Research*. 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39461588/)
-7. van Dyk N, et al. Including the Nordic hamstring exercise in injury prevention programmes halves the rate of hamstring injuries: a systematic review and meta-analysis. *British Journal of Sports Medicine*. 2019;53(21):1362-1370. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30808663/)
-8. Impellizzeri FM, et al. A critical appraisal of the Nordic hamstring exercise injury prevention meta-analysis. *Journal of Clinical Epidemiology*. 2021;140:123-130. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34520846/)

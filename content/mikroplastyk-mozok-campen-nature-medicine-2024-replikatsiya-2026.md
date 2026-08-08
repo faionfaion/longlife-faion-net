@@ -94,16 +94,3 @@ tg_post: |
 ---
 
 **Теги:** #мікропластик #здоров'я_мозку #доказова_медицина #екологія_здоров'я #деменція
-
-## Sources
-- [Nihart, Campen et al. - Nature Medicine, 2025](https://www.nature.com/articles/s41591-024-03453-1)
-- [Fazel Monikh et al. (критика) - Nature Medicine, 2025](https://www.nature.com/articles/s41591-025-04045-3)
-- [Rauert et al. - Environmental Science & Technology](https://pubs.acs.org/doi/10.1021/acs.est.4c12599)
-- [The Transmitter - журналістське розслідування](https://www.thetransmitter.org/publishing/spoonful-of-plastics-in-your-brain-paper-has-duplicated-images/)
-- [Китайська репліка 2026 (прес-реліз) - MedicalXpress](https://medicalxpress.com/news/2026-04-microplastics-human-brain-sample-healthy.html)
-- [CNN Health - «ложка пластику»](https://www.cnn.com/2025/02/03/health/plastics-inside-human-brain-wellness)
-- [Health Policy Watch - коментар Дітера Фішера](https://healthpolicy-watch.news/microplastics-in-the-brain/)
-- [Frontiers in Neurology - огляд механізмів, 2025](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2025.1581109/full)
-- [Hussain et al. - Environmental Science & Technology Letters, 2023 (нагрів пластику)](https://pubs.acs.org/doi/10.1021/acs.estlett.3c00010)
-- [Cherniak et al. - Science of the Total Environment, 2022 (ефективність фільтрів)](https://www.sciencedirect.com/science/article/pii/S0048969722034192)
-- [LongLife Media - мікропластик у судинах](https://longlife.media/microplastics-blood-arteries-nejm-cardiovascular-risk/)

@@ -113,23 +113,3 @@ tg_post: |
 3. **Якщо лікар призначив залізо - спитай про схему «через день».** Одна ранкова доза натще з вітаміном C, без кави й молочного поряд. Контроль аналізів через 2–3 місяці.
 
 Втома буває про сон, про щитоподібну залозу, про дефіцит B12 - а буває просто про порожній «залізний бак». Хороша новина: цей варіант легко перевірити одним аналізом. Перед змінами в раціоні чи прийомом добавок порадься з лікарем - самопризначення тут зайве.
-
-## Джерела
-
-1. ВООЗ (2020). WHO guideline on use of ferritin concentrations to assess iron status in individuals and populations. - [who.int](https://www.who.int/publications/i/item/9789240000124)
-2. Таблиця порогів феритину з поправкою на запалення (WHO / NCBI Bookshelf, NBK569877). - [ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK569877/table/fm-ch2.tab1/)
-3. Vaucher P, et al. Effect of iron supplementation on fatigue in nonanemic menstruating women with low ferritin: a randomized controlled trial. *CMAJ.* 2012. PMID 22777991. - [pubmed.ncbi.nlm.nih.gov/22777991](https://pubmed.ncbi.nlm.nih.gov/22777991/)
-4. Verdon F, et al. Iron supplementation for unexplained fatigue in non-anaemic women: double blind randomised placebo controlled trial. *BMJ.* 2003. PMID 12763985. - [pubmed.ncbi.nlm.nih.gov/12763985](https://pubmed.ncbi.nlm.nih.gov/12763985/)
-5. Krayenbuehl PA, et al. Intravenous iron for the treatment of fatigue in nonanemic, premenopausal women with low serum ferritin concentration. *Blood.* 2011. PMID 21705493. - [pubmed.ncbi.nlm.nih.gov/21705493](https://pubmed.ncbi.nlm.nih.gov/21705493/)
-6. Allen RP, et al. (IRLSSG). Evidence-based and consensus clinical practice guidelines for the iron treatment of restless legs syndrome/Willis-Ekbom disease. *Sleep Medicine.* 2018. PMID 29425576. - [pubmed.ncbi.nlm.nih.gov/29425576](https://pubmed.ncbi.nlm.nih.gov/29425576/)
-7. Систематичний огляд: дефіцит заліза без анемії та витривалість у спортсменок. 2024. PMID 39536912. - [pubmed.ncbi.nlm.nih.gov/39536912](https://pubmed.ncbi.nlm.nih.gov/39536912/)
-8. Moretti D, et al. Oral iron supplements increase hepcidin and decrease iron absorption from daily or twice-daily doses in iron-depleted young women. *Blood.* 2015. PMID 26289639. - [pubmed.ncbi.nlm.nih.gov/26289639](https://pubmed.ncbi.nlm.nih.gov/26289639/)
-9. Stoffel NU, et al. Iron absorption from oral iron supplements given on consecutive versus alternate days and as single morning doses versus twice-daily split dosing. *Lancet Haematology.* 2017. PMID 29032957. - [pubmed.ncbi.nlm.nih.gov/29032957](https://pubmed.ncbi.nlm.nih.gov/29032957/)
-10. Stoffel NU, et al. Iron absorption from supplements is greater with alternate day than with consecutive day dosing in iron-deficient anemic women. *Haematologica.* 2020. PMID 31413088. - [pubmed.ncbi.nlm.nih.gov/31413088](https://pubmed.ncbi.nlm.nih.gov/31413088/)
-11. Мета-аналіз (11 РКД, 1014 учасників): щоденний vs прийом через день і відновлення гемоглобіну. 2025. PMID 40841680. - [pubmed.ncbi.nlm.nih.gov/40841680](https://pubmed.ncbi.nlm.nih.gov/40841680/)
-
----
-
-**Категорія:** Жіноче здоров'я / Нутриціологія
-
-**Теги:** залізо, феритин, латентний дефіцит, втома, жіноче здоров'я

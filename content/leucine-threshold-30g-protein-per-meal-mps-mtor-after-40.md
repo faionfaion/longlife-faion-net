@@ -99,14 +99,3 @@ tg_post: |
 3. **Якщо тобі 60+**: орієнтуйся на 0,40 г/кг за прийом (за Moore et al.) - для людини 70–80 кг це ~30 г білка, для важчих - до 40 г. Мета-аналіз Morton et al. (2018, British Journal of Sports Medicine, [49 РКД](https://pubmed.ncbi.nlm.nih.gov/28698222/)) підтверджує: 1,6 г/кг білка на день - оптимальна загальна доза, але розподіл має значення.
 
 Перед суттєвими змінами в раціоні - особливо якщо маєш хронічні захворювання нирок - проконсультуйся з лікарем.
-
-## Джерела
-
-1. Zaromskyte J. et al. (2021). Evaluating the Leucine Trigger Hypothesis to Explain the Post-prandial Regulation of Muscle Protein Synthesis in Young and Older Adults: A Systematic Review. *Frontiers in Nutrition*. [PMID: 34307436](https://pubmed.ncbi.nlm.nih.gov/34307436/)
-2. Devries M.C. et al. (2018). Supplemental Protein in Support of Muscle Mass and Health: Advantage Whey. *The Journal of Nutrition*. [PMID: 29901760](https://pubmed.ncbi.nlm.nih.gov/29901760/)
-3. Mamerow M.M. et al. (2014). Dietary Protein Distribution Positively Influences 24-h Muscle Protein Synthesis in Healthy Adults. *The Journal of Nutrition*. [PMID: 24477298](https://pubmed.ncbi.nlm.nih.gov/24477298/)
-4. Wall B.T. et al. (2015). Aging Is Accompanied by a Blunted Muscle Protein Synthetic Response to Protein Ingestion. *PLoS ONE*. [PMID: 26536130](https://pubmed.ncbi.nlm.nih.gov/26536130/)
-5. Moore D.R. et al. (2015). Protein Ingestion to Stimulate Myofibrillar Protein Synthesis Requires Greater Relative Protein Intakes in Healthy Older Versus Younger Men. *The Journals of Gerontology*. [PMID: 25056502](https://pubmed.ncbi.nlm.nih.gov/25056502/)
-6. van Vliet S., Burd N.A. & van Loon L.J.C. (2015). The Skeletal Muscle Anabolic Response to Plant- versus Animal-Based Protein Consumption. *The Journal of Nutrition*. [PMID: 26224750](https://pubmed.ncbi.nlm.nih.gov/26224750/)
-7. Schoenfeld B.J. & Aragon A.A. (2018). How much protein can the body use in a single meal for muscle-building? *Journal of the International Society of Sports Nutrition*. [DOI: 10.1186/s12970-018-0215-1](https://jissn.biomedcentral.com/articles/10.1186/s12970-018-0215-1)
-8. Morton R.W. et al. (2018). A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults. *British Journal of Sports Medicine*. [PMID: 28698222](https://pubmed.ncbi.nlm.nih.gov/28698222/)

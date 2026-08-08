@@ -104,16 +104,3 @@ tg_post: |
 Сенолітики - захоплива ідея з потужною біологією. Але між «працює на мишах» і «продовжує життя людям» - прірва, яку ще належить подолати.
 
 ---
-
-## Джерела
-
-1. Xu M et al. Senolytics improve physical function and increase lifespan in old age. *Nature Medicine*, 2018. [PMID 29988130](https://pubmed.ncbi.nlm.nih.gov/29988130/)
-2. Yousefzadeh MJ et al. Fisetin is a senotherapeutic that extends health and lifespan. *EBioMedicine*, 2018. [PMID 30279143](https://pubmed.ncbi.nlm.nih.gov/30279143/)
-3. Hickson LJ et al. Senolytics decrease senescent cells in humans: Preliminary report from a clinical trial of Dasatinib plus Quercetin in individuals with diabetic kidney disease. *EBioMedicine*, 2019. [PMID 31542391](https://pubmed.ncbi.nlm.nih.gov/31542391/)
-4. Farr JN et al. Senolytic therapy in postmenopausal osteoporosis. *Nature Medicine*, 2024. [PMID 38956196](https://pubmed.ncbi.nlm.nih.gov/38956196/)
-5. Gonzales MM et al. Senolytic therapy in mild Alzheimer's disease: a phase 1 feasibility trial. *EBioMedicine*, 2025. [Повний текст](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(25)00056-8/fulltext)
-6. UBX1325 Phase 2 results in diabetic macular edema. [PMID 40261111](https://pubmed.ncbi.nlm.nih.gov/40261111/)
-7. Li et al. Quercetin bioavailability review. *Food Chemistry*, 2025. [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0308814625008817)
-8. D+Q and epigenetic aging clocks. *Aging (Albany NY)*, 2024. [aging-us.com/article/205581](https://www.aging-us.com/article/205581/text)
-9. Senolytic effects on chromatin in young and senescent cells - review. *Biomolecules*, 2025. [PMC12190739](https://pmc.ncbi.nlm.nih.gov/articles/PMC12190739/)
-10. Harrison DE et al. Rapamycin fed late in life extends lifespan in genetically heterogeneous mice. *Nature*, 2009. [PMID 19587680](https://pubmed.ncbi.nlm.nih.gov/19587680/)

@@ -105,19 +105,3 @@ MDMA залишається у Списку I - легальної терапі�
 ---
 
 *Матеріал має інформаційний характер і не замінює консультації лікаря. Якщо ви переживаєте симптоми ПТСР, зверніться до кваліфікованого психіатра або психотерапевта.*
-
-## Sources
-- [Psychiatric Times - FDA releases Complete Response Letter on MDMA-AT](https://www.psychiatrictimes.com/view/fda-releases-complete-response-letter-on-declining-mdma-assisted-therapy-for-ptsd)
-- [MAPS - Public release of the FDA CRL (Sept 2025)](https://maps.org/2025/09/04/fda-public-release-of-crl/)
-- [Nature Medicine - Mitchell et al., MAPP2 Phase 3 trial (2023)](https://www.nature.com/articles/s41591-023-02565-4)
-- [PubMed 37709999 - MAPP2 trial abstract](https://pubmed.ncbi.nlm.nih.gov/37709999/)
-- [ICER Final Report - MDMA-AT for PTSD (2024)](https://icer.org/assessment/ptsd-2024/)
-- [HCPLive - FDA CRL details safety concerns of MDMA-AT](https://www.hcplive.com/view/fda-releases-crl-detailing-safety-concerns-mdma-assisted-therapy-ptsd)
-- [Fierce Biotech - Lykos accepts FDA view, plans fresh trial](https://www.fiercebiotech.com/biotech/lykos-accepts-fdas-view-reviving-mdma-treatnents-fortunes-requires-fresh-trial)
-- [PubMed 41825162 - Fares-Otero et al., systematic review (Eur Neuropsychopharmacol 2026)](https://pubmed.ncbi.nlm.nih.gov/41825162/)
-- [medRxiv - Living systematic review preprint (March 2026)](https://www.medrxiv.org/content/10.64898/2026.03.27.26349536v1.full)
-- [Annals of Internal Medicine - VA/DoD 2023 PTSD guidelines](https://www.acpjournals.org/doi/10.7326/M23-2757)
-- [CMS Law - Ukrainian Health Ministry on psychedelic-assisted therapy](https://cms.law/en/ukr/legal-updates/ukrainian-health-ministry-supports-use-of-psychedelic-assisted-therapy)
-- [Drug Science - Ukraine psychedelic research update](https://www.drugscience.org.uk/ukraine-psychedelic-research)
-- [LongLife - Псилоцибін і MDMA 2026: огляд](https://longlife.media/psylocybin-mdma-ptsr-depresiya-fda-vidmova-2026-vyprobuvannia/)
-

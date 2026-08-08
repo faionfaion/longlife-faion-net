@@ -219,38 +219,3 @@ Dove запустила «Real Beauty» у 2004 році, і культурни�
 Це не самолікування і не заміна консультації: якщо йдеться про блювання, обмеження їжі чи нав'язливі думки про зовнішність, це до лікаря, а не до застосунку.
 
 Чого я досі не знаю: чи тримається ефект бодінейтральності довше за півгодини після експерименту. Ніхто цього не перевіряв із подальшим спостереженням. Мене це дратує, бо саме цю ідею зараз найгучніше продають як рішення, і продають її ті самі платформи, чия економіка тримається на тому, щоб ти дивилася на чужі тіла ще трохи довше.
-
-## Джерела
-
-1. Becker et al., British Journal of Psychiatry, 2002 (Фіджі, 1995 і 1998) - https://pubmed.ncbi.nlm.nih.gov/12042229/
-2. Becker, Culture, Medicine and Psychiatry, 2004 (переосмислення фіджійських даних) - https://link.springer.com/article/10.1007/s11013-004-1067-5
-3. Garner et al., Psychological Reports, 1980 (Playboy і «Міс Америка», 1959–1978) - https://pubmed.ncbi.nlm.nih.gov/7454902/
-4. Body Image (продовження аналізу ідеалу до 2014 року) - https://www.sciencedirect.com/science/article/abs/pii/S1740144516303187
-5. Body Image (огляд 1979–1999) - https://www.sciencedirect.com/science/article/abs/pii/S1740144506000611
-6. Lancet Child & Adolescent Health, 2025 (м'язова дисморфія в підлітків і молодих чоловіків) - https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(25)00283-4/abstract
-7. Body Image, 2025 («м'язовий» контент у соцмережах) - https://www.sciencedirect.com/science/article/pii/S1740144525000543
-8. Kleemans et al., Media Psychology, 2018 (n=144, відретушовані селфі) - https://www.tandfonline.com/doi/full/10.1080/15213269.2016.1257392
-9. Adolescent Research Review, 2026 (мета-аналіз: 45 досліджень, 33 086 підлітків) - https://link.springer.com/article/10.1007/s40894-026-00285-7
-10. Hausenblas et al., Clinical Psychology Review, 2013 (мета-аналіз експериментів, d = 0.03 / d = 0.34) - https://pubmed.ncbi.nlm.nih.gov/23232051/
-11. Ferguson, Psychology of Popular Media Culture, 2013 (мета-аналітичний огляд тонкого ідеалу) - https://psycnet.apa.org/doi/10.1037/a0030766
-12. Внутрішні документи Meta, передані до Конгресу США, 2021 - https://www.congress.gov/117/meeting/house/114054/documents/HHRG-117-IF02-20210922-SD003.pdf
-13. Meta Newsroom, офіційна відповідь, вересень 2021 - https://about.fb.com/news/2021/09/research-teen-well-being-and-instagram/
-14. Becker et al., British Journal of Psychiatry, 2011 (523 підлітки, непрямий вплив медіа) - https://pubmed.ncbi.nlm.nih.gov/21200076/
-15. BBC News, 2012 (закон Ізраїлю про моделей і маркування ретуші) - https://www.bbc.com/news/world-middle-east-17450275
-16. France 24, 2017 (французький декрет «photographie retouchée») - https://www.france24.com/en/20170930-france-fashion-photoshop-law-models-skinny
-17. BBC News, 2021 (норвезька поправка до Закону про маркетинг) - https://www.bbc.co.uk/news/newsbeat-57721080
-18. Dantinne, Georgianni & Rodgers, International Journal of Eating Disorders, 2020 (мета-аналіз позначок про ретуш) - https://onlinelibrary.wiley.com/doi/abs/10.1002/eat.23242
-19. Body Image (ай-трекінг: підписи спрямовують увагу на «змінені» частини тіла) - https://www.sciencedirect.com/science/article/abs/pii/S1740144515001047
-20. Slater & Tiggemann, Journal of Social and Clinical Psychology, 2012 (ранній захисний ефект попереджувальних підписів) - https://guilfordjournals.com/doi/10.1521/jscp.2012.31.2.105
-21. TechCrunch, листопад 2024 (TikTok обмежує косметичні фільтри для тих, кому до 18) - https://techcrunch.com/2024/11/27/tiktok-will-restrict-some-beauty-filters-for-people-under-18
-22. UBC Open Case Studies (розбір кампанії Dove «Real Beauty») - https://cases.open.ubc.ca/doves-real-beauty-campaign-body-positive-promotion-or-genderwashing/
-23. Ludwig et al., Body Image, вересень 2024 (382 жінки: fitspiration / бодіпозитив / бодінейтральність) - https://pubmed.ncbi.nlm.nih.gov/38850713/
-24. Brown & Tiggemann, Body Image, 2020 (бодіпозитивні підписи до дописів селебриті) - https://www.sciencedirect.com/science/article/abs/pii/S1740144519304930
-25. Body Image (ефект лише для моделей середнього розміру) - https://www.sciencedirect.com/science/article/abs/pii/S1740144521000978
-26. Thai et al., APA, лютий 2023 (RCT обмеження соцмереж, 220 учасників 17–25 років) - https://www.apa.org/pubs/journals/releases/ppm-ppm0000460.pdf
-27. Clinical Psychology Review (мета-аналіз дисонансних програм: 56 випробувань, d = 0.39) - https://www.sciencedirect.com/science/article/abs/pii/S0272735818300886
-28. Clinical Psychology Review (мета-аналіз запобігання появі розладу, ВШ 1.78) - https://www.sciencedirect.com/science/article/abs/pii/S0272735821000891
-29. Body Image, 2025 (мета-аналіз 48 РКД психосоціальних втручань) - https://pubmed.ncbi.nlm.nih.gov/39756142/
-30. JMIR, 2026 (огляд втручань, доставлених через соцмережі) - https://www.jmir.org/2026/1/e80141
-31. JAMA Pediatrics, 2024 (8 096 українських підлітків, SCOFF) - https://jamanetwork.com/journals/jamapediatrics/fullarticle/2816152
-32. Maternal & Child Nutrition, 2024 (батьки 4 854 дітей 5–17 років, харчова поведінка під час війни) - https://pubmed.ncbi.nlm.nih.gov/39238282/

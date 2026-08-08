@@ -129,24 +129,3 @@ tg_post: |
 5. **Запиши на огляд стоматолога** - не для «лікування бруксизму», а щоб оцінити стан емалі й обговорити захисну капу після того, як виключите апное.
 
 Бруксизм - це не вирок щелепі й не «генетика». Це сигнал, який варто прочитати уважно. Сон - той рівень здоров'я, де маленькі правильні кроки дають великий ефект упродовж років.
-
-## Джерела
-
-1. Lobbezoo F. et al. International consensus on the assessment of bruxism. *J Oral Rehabil*, 2018. https://pmc.ncbi.nlm.nih.gov/articles/PMC6287494/
-2. Manfredini D. et al. Epidemiology of bruxism in adults: a systematic review. *J Orofac Pain*, 2013. https://pubmed.ncbi.nlm.nih.gov/23630682/
-3. Hosoya H. et al. Relationship between sleep bruxism and obstructive sleep apnea. *Sleep Breath*, 2014. https://pubmed.ncbi.nlm.nih.gov/24526386/
-4. Smardz J. et al. Sleep bruxism and OSA - meta-analysis, 2024. https://pubmed.ncbi.nlm.nih.gov/39182463/
-5. Scoping review: GERD and sleep bruxism, 2024. https://pmc.ncbi.nlm.nih.gov/articles/PMC13098553/
-6. Polmann H. et al. Stress and bruxism: meta-analysis. *J Oral Rehabil*, 2021. https://pubmed.ncbi.nlm.nih.gov/33377534/
-7. Bertazzo-Silveira E. et al. Association between sleep bruxism and alcohol, caffeine, tobacco, and drug abuse. *JADA*, 2016. https://pubmed.ncbi.nlm.nih.gov/27522154/
-8. Macedo C.R. et al. Occlusal splints for treating sleep bruxism. Cochrane Review, 2007. https://pubmed.ncbi.nlm.nih.gov/17943862/
-9. Narrative review: maxillary occlusal splints and AHI, 2024. https://pmc.ncbi.nlm.nih.gov/articles/PMC12000643/
-10. Câmara-Souza M.B. et al. Botulinum toxin for sleep bruxism: systematic review of RCTs, 2024. https://pmc.ncbi.nlm.nih.gov/articles/PMC11203296/
-
----
-
-**Категорія:** Сон / Стоматологія / Психічне здоров'я
-
-**Теги:** #бруксизм #апное #сон #ГЕРХ #стрес #здоровийсон #стоматологія
-
-*Матеріал має інформаційний характер і не замінює консультацію лікаря. Якщо є симптоми порушень сну, дихання чи болю - звернися до сімейного лікаря, стоматолога або сомнолога.*

@@ -155,14 +155,3 @@ HCV - це РНК-вірус, який передається через кро�
 Гепатит C - той рідкісний випадок, коли медицина останнього десятиліття зробила справжній стрибок: із хронічної хвороби на все життя він перетворився на стан, який лікують за 12 тижнів. Але це працює лише для тих, хто знає про діагноз. Тест - найдешевший крок у цьому ланцюжку.
 
 Ця стаття має інформаційний характер і не замінює консультацію з лікарем. Рішення про тестування і схему лікування ухвалює лікар на основі твоєї історії та аналізів.
-
-## Джерела
-- WHO Global Hepatitis Report 2026 (пресреліз 28.04.2026): [who.int](https://www.who.int/news/item/28-04-2026-efforts-to-eliminate-hepatitis-delivers-gains-but-more-action-needed-to-meet-2030-targets)
-- WHO Hepatitis C Fact Sheet: [who.int/news-room/fact-sheets/detail/hepatitis-c](https://www.who.int/news-room/fact-sheets/detail/hepatitis-c)
-- Серосурвей в Україні (Eurosurveillance, липень 2025) - анонс: [eurekalert.org](https://www.eurekalert.org/news-releases/1092075)
-- Центр громадського здоров'я МОЗ України, дані по HCV/HBV: [phc.org.ua](https://phc.org.ua/en/diseases-and-information/infectious-diseases/hepatitis-c-and-b)
-- CDC MMWR Recommendations and Reports, 2020 (універсальне тестування дорослих): [cdc.gov/mmwr/volumes/69/rr/rr6902a1.htm](https://www.cdc.gov/mmwr/volumes/69/rr/rr6902a1.htm)
-- AASLD-IDSA HCV Guidance: [hcvguidelines.org](https://www.hcvguidelines.org/)
-- ЦГЗ про програму безкоштовного лікування HCV: [phc.org.ua/news](https://phc.org.ua/news/preparati-dlya-bezkoshtovnogo-likuvannya-virusnogo-gepatitu-c-vzhe-v-ukraini)
-- Пресреліз КМУ про партію 19 300 курсів (грудень 2024): [kmu.gov.ua](https://www.kmu.gov.ua/news/moz-u-regioni-pochali-rozvoziti-najbilshu-partiyu-bezoplatnih-likiv-dlya-paciyentiv-iz-virusnim-gepatitom-s)
-- Накази МОЗ України №50 і №51 від 15.01.2021 - доступні в реєстрі нормативних актів МОЗ: [moz.gov.ua](https://moz.gov.ua/)

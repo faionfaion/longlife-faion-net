@@ -164,16 +164,3 @@ tg_post: |
 4. **Відстежуй місце укусу та самопочуття щонайменше 30 днів**. Якщо з'явилась червона пляма, що збільшується, або будь-який із симптомів зі списку вище - до лікаря без зволікань.
 
 Кліщі - це не привід відмовлятись від прогулянок у парку чи поїздок на природу. Але пінцет у кишені та знання алгоритму дій - твій реальний захист цього сезону.
-
-## Джерела
-
-1. Epidemiology of Lyme borreliosis in Ukraine, 2000–2023. PubMed, PMID 40101003. [https://pubmed.ncbi.nlm.nih.gov/40101003/](https://pubmed.ncbi.nlm.nih.gov/40101003/)
-2. Rogovskyy et al. (2020). *Journal of Travel Medicine*. PMID 32577753. [https://pubmed.ncbi.nlm.nih.gov/32577753/](https://pubmed.ncbi.nlm.nih.gov/32577753/)
-3. Tick-borne encephalitis in Ukraine. PMC7359923. [https://pmc.ncbi.nlm.nih.gov/articles/PMC7359923/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7359923/)
-4. CDC - What to do after a tick bite. [https://www.cdc.gov/ticks/after-a-tick-bite/index.html](https://www.cdc.gov/ticks/after-a-tick-bite/index.html)
-5. NICE NG95 - Lyme disease: diagnosis and management. [https://www.nice.org.uk/guidance/ng95](https://www.nice.org.uk/guidance/ng95)
-6. IDSA/AAN/ACR 2020 (Lantos et al. 2021). *Clinical Infectious Diseases*, 72(1), e1–e48. PMID 33251700. [https://pubmed.ncbi.nlm.nih.gov/33251700/](https://pubmed.ncbi.nlm.nih.gov/33251700/)
-7. Nadelman et al. (2001). Prophylaxis with single-dose doxycycline for the prevention of Lyme disease. *NEJM*. PMID 11450675. [https://pubmed.ncbi.nlm.nih.gov/11450675/](https://pubmed.ncbi.nlm.nih.gov/11450675/)
-8. Stanek et al. (2012). Lyme borreliosis. *The Lancet*. PMID 21903253. [https://pubmed.ncbi.nlm.nih.gov/21903253/](https://pubmed.ncbi.nlm.nih.gov/21903253/)
-9. Pfizer & Valneva press release, March 2026 - VLA15 vaccine candidate. [https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-valneva-announce-lyme-disease-vaccine-candidate](https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-valneva-announce-lyme-disease-vaccine-candidate)
-10. ClinicalTrials.gov - VALOR trial, NCT05477524. [https://clinicaltrials.gov/study/NCT05477524](https://clinicaltrials.gov/study/NCT05477524)

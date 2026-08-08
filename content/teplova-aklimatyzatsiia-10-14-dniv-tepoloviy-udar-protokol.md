@@ -172,17 +172,3 @@ tg_post: |
 Літо - це не іспит, який тіло має скласти раптово. Це маршрут, до якого можна підготуватися. ⏳
 
 ---
-
-## Джерела
-
-1. Périard JD, Racinais S, Sawka MN. Adaptations and mechanisms of human heat acclimation: Applications for competitive athletes and sports. *Scandinavian Journal of Medicine & Science in Sports*, 2015. https://pubmed.ncbi.nlm.nih.gov/25943654/
-2. Tyler CJ, Reeve T, Hodges GJ, Cheung SS. The Effects of Heat Adaptation on Physiology, Perception and Exercise Performance in the Heat: A Meta-Analysis. *Sports Medicine*, 2016. https://pubmed.ncbi.nlm.nih.gov/27106556/
-3. Bouchama A, Knochel JP. Heat Stroke. *New England Journal of Medicine*, 2002. https://pubmed.ncbi.nlm.nih.gov/12075060/
-4. Casa DJ et al. National Athletic Trainers' Association Position Statement: Exertional Heat Illnesses. *Journal of Athletic Training*, 2015. https://pubmed.ncbi.nlm.nih.gov/26381473/
-5. CDC. About Extreme Heat. https://www.cdc.gov/heat-health/about/index.html
-6. CDC. Heat and Older Adults (Aged 65+). https://www.cdc.gov/heat-health/risk-factors/heat-and-older-adults-aged-65.html
-7. CDC. Heat and People with Cardiovascular Disease - Clinical Overview. https://www.cdc.gov/heat-health/hcp/clinical-overview/heat-and-people-with-cardiovascular-disease.html
-8. CDC. Heat and Medications - Guidance for Clinicians. https://www.cdc.gov/heat-health/hcp/clinical-guidance/heat-and-medications-guidance-for-clinicians.html
-9. WHO. Climate change, heat and health (fact sheet). https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health
-10. WHO Europe. How summer heat impacts health and how to #KeepCool, 2025. https://www.who.int/europe/news/item/23-06-2025-how-summer-heat-impacts-health-and-how-to--keepcool
-11. LongLife. Коли вода стає небезпечною: гіпонатріємія в спеку. https://longlife.media/nadmir-vody-hiponatriemiya-speka-skilky-pyty-bezpechno/

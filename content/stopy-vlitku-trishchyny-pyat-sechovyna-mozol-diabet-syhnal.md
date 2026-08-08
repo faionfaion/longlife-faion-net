@@ -88,17 +88,3 @@ tg_post: |
 4. Безболісна мозоль, тріщина з крововиливом або ранка, що не гоїться, - привід записатися до лікаря цього тижня.
 
 В Україні подологія не є окремою регульованою спеціальністю, тому маршрут зазвичай такий: ендокринолог + ортопед-травматолог, за потреби - судинний хірург. Цей текст не замінює консультації лікаря. 🌿
-
-## Джерела
-- Parker J. et al. Interventions for treating heel fissures. *Journal of Foot and Ankle Research*, 2017 - систематичний огляд, 22 дослідження.
-- Parker J. et al. Rандомізоване подвійно сліпе дослідження 25% сечовини проти емолієнта. *JAPMA*, 2019 (PMID 30742522), n=34, 28 днів.
-- Shroyer J.F., Weimar W.H. Comparative analysis of human gait while wearing thong-style flip-flops versus sneakers. *JAPMA*, 2010.
-- American Academy of Dermatology (AAD) - рекомендації з догляду за сухою шкірою й тріщинами п'ят; профілактика мікозу стоп у спільних вологих зонах.
-- StatPearls - Tinea Pedis (дерматофіти, шляхи передачі).
-- *Journal of Fungi*, 2021 - опитувальне дослідження поширеності мікозу стоп серед грецьких спортивних плавців (самозвітні дані).
-- IWGDF Guidelines on the prevention and management of diabetes-related foot disease, 2023.
-- Young M.J. et al., 1992; Pitei D.L. et al., 1999 - малі інтервенційні дослідження впливу видалення мозолі на пік підошовного тиску.
-- Armstrong D.G., Boulton A.J.M., Bus S.A. Diabetic Foot Ulcers and Their Recurrence. *NEJM*, 2017.
-- American Diabetes Association. *Standards of Care in Diabetes - 2026*, розділ 12 (Retinopathy, Neuropathy, and Foot Care).
-
-**Теги:** #стопи #діабет #мікозстоп #тріщинипят #догляд

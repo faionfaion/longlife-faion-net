@@ -94,15 +94,3 @@ tg_post: |
 3. **Вплітай баланс у побут.** Стій на одній нозі, поки чистиш зуби; ходи по прямій лінії. Тримайся за опору, якщо є ризик падіння (Cochrane, 2019).
 
 Якщо твій результат нижче 0,8 м/с або ходьба помітно сповільнилася за останній рік - це привід не панікувати, а обговорити з лікарем. Причини бувають дуже різні: від суглобів і ліків до анемії чи неврології. 💪
-
-## Джерела
-
-1. Studenski S. et al. Gait speed and survival in older adults. [JAMA, 2011](https://pubmed.ncbi.nlm.nih.gov/21205966/)
-2. Cooper R., Kuh D., Hardy R. Objectively measured physical capability levels and mortality: systematic review and meta-analysis. [BMJ, 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2938886/)
-3. Gait speed cut-points and mobility outcomes. [J Am Geriatr Soc, 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC5992037/)
-4. Middleton A., Fritz S.L., Lusardi M. Walking speed: the functional vital sign. [J Aging Phys Act, 2015](https://pubmed.ncbi.nlm.nih.gov/24812254/)
-5. Sherrington C. et al. Exercise for preventing falls in older people living in the community. [Cochrane Database Syst Rev, 2019](https://pubmed.ncbi.nlm.nih.gov/30703272/)
-6. WHO guidelines on physical activity and sedentary behaviour. [WHO, 2020](https://pubmed.ncbi.nlm.nih.gov/33239350/)
-
-#швидкістьходи #саркопенія #профілактикападінь #здоровя65плюс #функціональнітести
-

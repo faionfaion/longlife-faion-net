@@ -221,38 +221,3 @@ Zucker і Prendergast у *Biology of Sex Differences* (2020) проаналіз�
 Чого я не знаю. Я не знаю, чи новий манекен реально змінить конструкцію автівок, чи залишиться сертифікаційною процедурою. Не знаю, наскільки залишковий розрив у травмах ніг є фізіологією, а наскільки геометрією посадки. Не знаю, чи дійде жіноча броня далі за перші дві тисячі комплектів. І мене найбільше непокоїть та цифра з *Communications Medicine*: 44% робіт, які повідомляють результати окремо для жінок і чоловіків. Дані, які не розділили за статтю, не можна розділити заднім числом. Це не помилка, яку виправляють пізніше, це інформація, якої вже не буде.
 
 Цей текст не замінює консультації лікаря. Він про те, чому іноді варто ставити лікарю на одне питання більше.
-
-## Джерела
-
-1. StateWatch та ArmWomenNow. Fit to Defend: аналіз забезпечення стандартним бойовим комплектом військовослужбовиць ЗСУ, 14.01.2026 - https://statewatch.org.ua/en/publications/fit-to-defend-analysis-of-standard-combat-kit-provision-for-servicewomen-in-the-armed-forces-of-ukraine-2/
-2. Bose D., Seguí-Gómez M., Crandall J. *American Journal of Public Health*, 2011 - https://pubmed.ncbi.nlm.nih.gov/22021321/
-3. Forman J. et al. *Traffic Injury Prevention*, 2019 (NASS-CDS 1998-2015) - https://pubmed.ncbi.nlm.nih.gov/31283362/
-4. Abrams M., Bass C. *PLOS ONE*, 2024 (FARS 1975-2020, метод подвійних пар) - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297211
-5. Yahoo Autos, коментар технічного директора Euro NCAP Річарда Шрама, 07.03.2026 - https://autos.yahoo.com/policy-and-environment/articles/women-second-class-citizens-comes-100000356.html
-6. IIHS: Brumbelow M., Jermakian J. *Traffic Injury Prevention*, 2022 - вибір автомобіля й тип аварії пояснюють більшу частину розриву - https://www.iihs.org/news/detail/vehicle-choice-crash-differences-help-explain-greater-injury-risks-for-women
-7. NHTSA. Report to Congress: Progress on THOR-05F, WorldSID-05F and Female Crash Safety Research, 2026 - https://www.nhtsa.gov/document/report-congress-progress-thor-05f-worldsid-05f-and-female-crash-safety-research
-8. IIHS. Improving safety for women requires more than a female crash test dummy - https://www.iihs.org/news/detail/improving-safety-for-women-requires-more-than-a-female-crash-test-dummy
-9. Espelien A. et al. *Injury Epidemiology*, 2025 (ремінь безпеки і травми у вагітних) - https://pmc.ncbi.nlm.nih.gov/articles/PMC12487210/
-10. *International Journal of Environmental Research and Public Health*, 2022 (скінченно-елементна модель вагітної пасажирки) - https://www.mdpi.com/1660-4601/19/21/13905
-11. Coltman C. et al. *Applied Ergonomics*, 2020 (посадка бронежилета у 147 військовослужбовиць Австралії) - https://pubmed.ncbi.nlm.nih.gov/32755739/
-12. Coltman C. et al. *Frontiers in Sports and Active Living*, 2022 (розмірні ряди бронежилетів) - https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2022.821210/full
-13. «Українська правда», 08.12.2025: перші жіночі модульні бронежилети - https://www.pravda.com.ua/eng/news/2025/12/08/8010924/
-14. Kyiv Independent: сертифікація першого бронежилета для військовослужбовиць - https://kyivindependent.com/defense-ministry-certifies-first-body-armour-vest-for-female-soldiers/
-15. *EMJ Microbiology & Infectious Diseases*, 2021: статеві відмінності у припасуванні масок N95 - https://www.emjreviews.com/microbiology-infectious-diseases/article/the-ppe-pandemic-sex-related-discrepancies-of-n95-mask-fit/
-16. Zucker I., Prendergast B. *Biology of Sex Differences*, 2020 - https://pmc.ncbi.nlm.nih.gov/articles/PMC7275616/
-17. FDA. Questions and Answers: Risk of next-morning impairment after use of insomnia drugs (зниження дози золпідему для жінок, 2013) - https://www.fda.gov/drugs/drug-safety-and-availability/questions-and-answers-risk-next-morning-impairment-after-use-insomnia-drugs-fda-requires-lower
-18. Zhao H., DiMarco M., Richardson S. et al. *Social Studies of Science*, 2023 (критичний розбір історії золпідему) - https://journals.sagepub.com/doi/full/10.1177/03063127231168371
-19. NIH Revitalization Act 1993, довідка NCBI Bookshelf - https://www.ncbi.nlm.nih.gov/books/NBK236531/
-20. Rivera A. et al. *JAMA Network Open*, 2025 (участь жінок у 1 079 серцево-судинних випробуваннях) - https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2838114
-21. Beery A., Zucker I. *Neuroscience & Biobehavioral Reviews*, 2011 (чоловічий перекіс у доклінічних дослідженнях) - https://scholarworks.smith.edu/nsc_facpubs/12/
-22. Shah A. et al. *BMJ*, 2015 (статеві пороги високочутливого тропоніну) - https://pmc.ncbi.nlm.nih.gov/articles/PMC4301191/
-23. Пізніший аналіз впровадження статевих порогів тропоніну - https://pmc.ncbi.nlm.nih.gov/articles/PMC6876271/
-24. Ferry A. et al. *Journal of the American Heart Association*, 2019 (характер болю у жінок і чоловіків) - https://www.ahajournals.org/doi/10.1161/JAHA.119.012307
-25. Редакційна стаття *JAHA*, 2020: час відправити терміни «типовий / атиповий» на пенсію - https://www.ahajournals.org/doi/10.1161/JAHA.119.015539
-26. VIRGO (*Circulation*, 2018), виклад Йельської школи громадського здоров'я - https://ysph.yale.edu/ycas/news-article/younger-women-oftentimes-misinterpret-deadly-heart-attack-symptoms
-27. Giordano N. et al. *Nursing Open*, 2025 (систематичний огляд передвісників коронарного синдрому у жінок) - https://pmc.ncbi.nlm.nih.gov/articles/PMC12012308/
-28. Woitowich N. et al. *Communications Medicine*, 2026 (звітність за статтю у 574 статтях, профінансованих NIH) - https://www.nature.com/articles/s43856-026-01547-0
-29. STAT, 27.04.2026: політика SABV і гранти NIH - https://www.statnews.com/2026/04/27/nih-research-guidelines-sabv-sex-as-biological-variable/
-30. Undark, 30.03.2026: Джеффрі Могіл і критика бінарного підходу до статі - https://undark.org/2026/03/30/sex-biological-variable/
-31. Longlife Media: [кофеїн і вагітність](https://longlife.media/kofein-vahitnist-james-2020-bmj-ebm-net-bezpechnoho-rivnia/) · [апное сну у жінок і STOP-BANG](https://longlife.media/apnoe-snu-zhinky-50-plus-stop-bang-watchpat-skryninh/)
-

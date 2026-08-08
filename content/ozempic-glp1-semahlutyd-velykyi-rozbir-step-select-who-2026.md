@@ -207,31 +207,3 @@ Ozempic зареєстрований в Україні з 2022 року, Wegovy 
 7. **Домовитися про план виходу заздалегідь** - з підтримувальною дозою, поведінковою частиною і регулярним переглядом, як рекомендує ВООЗ.
 
 Моя роль тут скромна: щоб ти зайшов у розмову з лікарем, знаючи, що препарат доведено ефективний, доведено тимчасовий у своїй дії, і що найважливіше рішення в ньому - не «почати», а «як довго».
-
-## Джерела
-
-1. Gallup, 2026. GLP-1 usage reaches new high - https://news.gallup.com/poll/712157/glp-usage-reaches-new-high.aspx
-2. Gallup. U.S. obesity rate declining - https://news.gallup.com/poll/696599/obesity-rate-declining.aspx
-3. The American Journal of Medicine, 2025. Оглядова стаття про механізми GLP-1 - https://www.amjmed.com/article/S0002-9343(25)00059-2/fulltext
-4. Wilding et al., New England Journal of Medicine, 2021 (STEP 1) - https://pubmed.ncbi.nlm.nih.gov/33567185/
-5. Garvey et al., Nature Medicine, 2022 (STEP 5) - https://pubmed.ncbi.nlm.nih.gov/36216945/
-6. Lincoff et al., New England Journal of Medicine, 2023 (SELECT) - https://pubmed.ncbi.nlm.nih.gov/37952131/
-7. Wilding et al., Diabetes, Obesity and Metabolism, 2022 (продовження STEP 1 після відміни) - https://pubmed.ncbi.nlm.nih.gov/35441470/
-8. eClinicalMedicine (The Lancet), 2026. Систематичний огляд і нелінійна мета-регресія повернення ваги - https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(26)00043-X/fulltext
-9. JAMA Network Open, 2025 (когортний аналіз припинення терапії), повний текст на PMC - https://pmc.ncbi.nlm.nih.gov/articles/PMC12948759/
-10. Truveta Research. Stopping and restarting GLP-1 therapy - https://www.truveta.com/blog/research/stopping-restarting-glp1-jama/
-11. International Journal of Obesity, червень 2026. Мета-аналіз знежиреної маси (7 РКД, 821 учасник) - https://pubmed.ncbi.nlm.nih.gov/42321502/
-12. Diabetes, Obesity and Metabolism, 2024. Мережевий мета-аналіз складу тіла - https://pubmed.ncbi.nlm.nih.gov/39719170/
-13. European Medicines Agency, PRAC, червень 2025. NAION як дуже рідкісний побічний ефект семаглутиду - https://www.ema.europa.eu/en/news/prac-concludes-eye-condition-naion-very-rare-side-effect-semaglutide-medicines-ozempic-rybelsus-wegovy
-14. World Health Organization, 27.06.2025. Глобальне повідомлення щодо семаглутиду і NAION - https://www.who.int/news/item/27-06-2025-27-06-2025-semaglutide-medicines-naion
-15. Healio, 2023. Огляд результатів ретроспективного когортного аналізу в JAMA (панкреатит, гастропарез, кишкова непрохідність) - https://www.healio.com/news/gastroenterology/20231005/new-data-links-glp1-agonists-for-weight-loss-with-higher-risk-for-pancreatitis-gi-events
-16. U.S. Food and Drug Administration. Політика щодо компаундингу після стабілізації постачання GLP-1 - https://www.fda.gov/drugs/drug-alerts-and-statements/fda-clarifies-policies-compounders-national-glp-1-supply-begins-stabilize
-17. U.S. Food and Drug Administration. Занепокоєння щодо незатверджених GLP-1 препаратів для схуднення (передозування з флаконів) - https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss
-18. U.S. Food and Drug Administration. Попередження про підроблений Ozempic у ланцюгу постачання США - https://www.fda.gov/drugs/drug-alerts-and-statements/fda-warns-consumers-not-use-counterfeit-ozempic-semaglutide-found-us-drug-supply-chain
-19. Настанова ВООЗ щодо медикаментозного лікування ожиріння у дорослих, грудень 2025 - https://pubmed.ncbi.nlm.nih.gov/41324410/ (повний текст: https://files.magicapp.org/guideline/5f0963f2-daa8-4d20-b0fc-eab3bcf69c48/published_guideline_10802-1_0.pdf)
-20. WHO Expert Committee, 2025. Внесення GLP-1 до Переліку основних лікарських засобів за показанням «ожиріння» - https://cdn.who.int/media/docs/default-source/2025-eml-expert-committee/addition-of-new-medicines/a.14_glp-1-obesity.pdf
-21. KFF Health Tracking Poll, 2025. Доступність GLP-1 препаратів - https://www.kff.org/public-opinion/poll-1-in-8-adults-say-they-are-currently-taking-a-glp-1-drug-for-weight-loss-diabetes-or-another-condition-even-as-half-say-the-drugs-are-difficult-to-afford/
-22. Державний реєстр лікарських засобів України - https://likicontrol.com.ua/
-23. LB.ua, червень 2026. Ozempic офіційно виходить на український ринок - https://lb.ua/health/2026/06/03/742658_ozempik_ofitsiyno_vihodit.html
-24. РБК-Україна. Індійські генерики семаглутиду - https://www.rbc.ua/rus/news/ozempic-kopiyki-indiyski-generiki-nezabarom-1775708378.html
-25. Мої попередні матеріали: [SELECT і серцеві пацієнти](https://longlife.media/glp-1-semaglutide-heart-disease-select-trial/), [SELECT-LIFE після відміни](https://longlife.media/glp1-serce-select-life-semahlutyd-necukrovi-patsiyenty-2026/), [семаглутид і м'язова маса](https://longlife.media/semaglutyd-m%D1%8Fzova-masa-step1-sylovi-trenuvannya-bilok/), [берберин - не «природний Оземпік»](https://longlife.media/berberyn-ne-pryrodnyi-ozempic-meta-analizy-tsukor-lipidy-vaha/)

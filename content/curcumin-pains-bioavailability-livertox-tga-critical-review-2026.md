@@ -101,13 +101,3 @@ tg_post: |
 - **Маєш хвороби печінки чи приймаєш кілька препаратів - обговори добавки з лікарем перед стартом.** Це не перестраховка, а здоровий глузд.
 
 Куркумін - не «отрута» і не «панацея». Це проста хімічна речовина, навколо якої вибудувалася величезна індустрія на сумнівних доказах. Спеція на кухні - так. Капсули по 1000 мг із «нано-доставкою» - питання, на яке поки що немає переконливої позитивної відповіді. 🌿
-
-## Джерела
-- Nelson KM et al. The Essential Medicinal Chemistry of Curcumin. *J Med Chem*, 2017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28074653/)
-- Kroon PA et al. Pharmacokinetic comparison of curcumin formulations. *iScience*, 2025. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12144411/)
-- Xu Y et al. Umbrella review of curcumin meta-analyses. *Frontiers in Pharmacology*, 2025. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12176752/)
-- Halegoua-DeMarzio D et al. Liver injury associated with turmeric/curcumin. DILIN, 2023. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9892270/)
-- LiverTox: Clinical and Research Information on Drug-Induced Liver Injury - Turmeric. NIDDK/NIH, оновлення червень 2025. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK548561/)
-- TGA Australia. Medicines containing turmeric or curcumin - risk of liver injury, 2023. [TGA](https://www.tga.gov.au/safety/safety-monitoring-and-information/safety-alerts/medicines-containing-turmeric-or-curcumin-risk-liver-injury)
-- Lee J & Kim H. Bioavailability and safety considerations of curcumin formulations. *Nutrients*, 2024. [MDPI](https://www.mdpi.com/journal/nutrients)
-

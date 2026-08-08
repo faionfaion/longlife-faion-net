@@ -119,22 +119,3 @@ tg_post: |
 Дані Matthias і Hanson здебільшого з країн з низьким і середнім доходом і старші за десять років; сучасні системи дистанційного моніторингу могли змінити картину, і українських свіжих вимірів я не знайшла. Якби з'явилося дослідження температурних логів ЦПМСД за 2024–2026 роки, я б переписала цей абзац першим.
 
 І ще: одна перша фаза на 60 людях нічого не вирішує. Питання не в тому, чи SPVX02 працює, а в тому, чи хтось профінансує третю фазу для вакцини, яку купуватимуть найбідніші системи охорони здоров'я.
-
-## Джерела
-
-1. **eClinicalMedicine (Lancet Discovery Science), перша фаза SPVX02** - https://doi.org/10.1016/j.eclinm.2026.104116
-2. **Science Media Centre, коментарі незалежних експертів до випробування SPVX02** - https://www.sciencemediacentre.org/expert-reaction-to-phase-1-trial-of-spvx02-a-fridge-free-tetanus-diphtheria-vaccine-safety-tolerability-and-immunogenicity-compared-to-two-established-tetanus-diphtheria/
-3. **Matthias et al., «Freezing temperatures in the vaccine cold chain», Vaccine, 2007 (35 досліджень)** - https://pubmed.ncbi.nlm.nih.gov/17382434/
-4. **Hanson et al., огляд замерзання у холодовому ланцюгу, Vaccine, 2017** - https://www.sciencedirect.com/science/article/pii/S0264410X16309471
-5. **Kartoglu et al., валідація shake test, Bulletin of the WHO, 2010** - https://pubmed.ncbi.nlm.nih.gov/20680128/
-6. **PAHO/ВООЗ, як виконувати shake test** - https://www.paho.org/en/documents/how-perform-shake-test-ja2010-04
-7. **ВООЗ, concept note про перегляд показників втрат вакцин (5–50%)** - https://www.who.int/docs/default-source/immunization/tools/revising-wastage-concept-note.pdf
-8. **Duke Global Health Innovation Center, Launch & Scale Faster: «Looking into vaccine wastage»** - https://launchandscalefaster.org/looking%20into%20vaccine%20wastage
-9. **UNEP, оптимізація холодових ланцюгів і втрати COVID-вакцин** - https://www.unep.org/news-and-stories/story/why-optimized-cold-chains-could-save-billion-covid-vaccines
-10. **World Economic Forum, «The biggest hurdle to universal vaccination might just be a fridge»** - https://www.weforum.org/stories/2018/07/the-biggest-hurdle-to-universal-vaccination-might-just-be-a-fridge/
-11. **CDC Pink Book, розділ 5: зберігання та поводження з вакцинами** - https://www.cdc.gov/pinkbook/hcp/table-of-contents/chapter-5-vaccine-storage-and-handling.html
-12. **CDC, вказівки щодо температурних відхилень (temperature excursion)** - https://www.cdc.gov/vaccines/hcp/admin/storage/downloads/temperature-excursion-508.pdf
-13. **Наказ МОЗ від 02.10.2024 № 1682, Порядок зберігання й транспортування вакцин (PDF)** - https://moz.gov.ua/storage/uploads/b9963177-8cb1-4c47-b6a2-a8c38db806ad/%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA-01.08.pdf
-14. **«Аптека online», розбір наказу № 1682** - https://www.apteka.ua/article/707954
-15. **OHCHR / UN HRMMU, удари по енергетичній інфраструктурі України (1 грудня 2025 - 31 травня 2026)** - https://ukraine.ohchr.org/en/Attacks-against-Ukraine-s-energy-infrastructure-and-update-on-the-human-rights-situation-in-Ukraine-1-December-2025-31-May-2026
-

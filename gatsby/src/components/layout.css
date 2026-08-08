@@ -342,6 +342,21 @@ body {
   margin-bottom: 16px;
 }
 
+/* Inline illustrations inside a material. Without this they render raw: full-bleed to the
+   screen edge, no rounding, no spacing - out of step with the padded text column and the
+   rounded hero. Constrain to the column, round the corners, give them air. */
+.article-body img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: var(--radius);
+  margin: 28px auto;
+}
+
+.article-body p:has(> img) {
+  margin-bottom: 0;
+}
+
 .article-body h2 {
   font-family: var(--font-heading);
   font-size: 22px;

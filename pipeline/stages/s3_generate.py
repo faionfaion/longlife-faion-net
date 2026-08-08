@@ -35,7 +35,7 @@ def run(ctx: PipelineContext) -> None:
 
     ctx.title = normalize_dashes(result["title"])
     ctx.slug = result["slug"]
-    ctx.article_text = normalize_dashes(strip_leading_metadata(result["article"]))
+    ctx.article_text = normalize_dashes(strip_sources_section(strip_leading_metadata(result["article"])))
     ctx.description = normalize_dashes(result.get("description", ""))
     ctx.tags = result.get("tags", [])
     ctx.hashtags = result.get("hashtags", "")
@@ -74,6 +74,28 @@ def normalize_dashes(text: str) -> str:
     text = re.sub(r"(?m)^\s*-\s+", "- ", text)        # a line that now starts " - " → "- "
     text = re.sub(r"[ \t]{2,}", " ", text)            # collapse the doubled spaces that leaves
     return text
+
+
+_SOURCES_HEADING = re.compile(
+    r"(?im)^\s{0,3}#{1,3}\s*(джерела|джерело|sources|посилання|література|references)\s*:?\s*$"
+)
+
+
+def strip_sources_section(body: str) -> str:
+    """Drop a trailing "## Джерела" list.
+
+    Every claim already carries its source as an inline link, so a separate reference list
+    at the end repeats every citation a second time. The heading must match exactly - a real
+    section like "## Джерела B12 у їжі" (sources of B12 in food) is content, not a citation
+    list, so the pattern anchors on the bare word at end of line and leaves it alone. The
+    structured source_urls/source_names in the frontmatter stay; only the visible duplicate
+    goes.
+    """
+    m = _SOURCES_HEADING.search(body)
+    if not m:
+        return body
+    # A citation list runs to the end of the article, so cut from the heading onward.
+    return body[: m.start()].rstrip() + "\n"
 
 
 def strip_leading_metadata(body: str) -> str:

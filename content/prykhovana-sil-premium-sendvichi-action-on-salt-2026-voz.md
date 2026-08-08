@@ -89,18 +89,3 @@ tg_post: |
 Хоча результати обнадійливі, жоден сендвіч не зруйнує здоров'я за один день - і жоден салат його не врятує. Працює сума виборів за тиждень. ⏳
 
 ---
-
-## Джерела
-
-1. [BBC News - Salt levels in shop-bought sandwiches](https://www.bbc.com/news/articles/c4g4l54g2ppo)
-2. [Action on Salt - Salt Awareness Week 2026 Survey](https://www.actiononsalt.org.uk/awareness/salt-awareness-week-2026/salt-awareness-week-survey/)
-3. [McDonald's UK - Nutrition Calculator (Cheeseburger)](https://www.mcdonalds.com/gb/en-gb/good-to-know/nutrition-calculator.html)
-4. [WHO - Sodium Reduction Fact Sheet](https://www.who.int/news-room/fact-sheets/detail/sodium-reduction)
-5. [WHO - Global Report on Sodium Intake Reduction (2023)](https://www.who.int/publications/i/item/9789240069985)
-6. [BMJ 2020;368:m315 - Huang, He et al., мета-аналіз 133 РКД](https://doi.org/10.1136/bmj.m315)
-7. [Lancet 2018 - PURE study (Mente et al.)](https://pubmed.ncbi.nlm.nih.gov/30129465/)
-8. [PMC - Критика методології Кавасакі в PURE](https://pmc.ncbi.nlm.nih.gov/articles/PMC6240978/)
-9. [WHO STEPS Survey - Ukraine 2019](https://www.who.int/publications/i/item/9789289054652)
-10. [WHO GINA - Ukraine nutrition policies (node 6091)](https://extranet.who.int/nutrition/gina/en/node/6091)
-11. [WHO Guideline on Lower-Sodium Salt Substitutes (2025)](https://www.who.int/news-room/events/detail/2025/01/27/default-calendar/launch-of-the-who-guideline-on-the-use-of-lower-sodium-salt-substitutes)
-12. [LongLife Media - Калій, електроліт тиску: натрій-калієвий баланс](https://longlife.media/kaliy-elektrolit-tysk-natriy-kaliyevyy-balans-who-bmj-nejm/)

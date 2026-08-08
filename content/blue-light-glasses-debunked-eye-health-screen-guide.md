@@ -155,17 +155,3 @@ tg_post: |
 **5. Не витрачай гроші на окуляри з блакитним фільтром.** Кокранівський огляд 17 РКД не знайшов доказів їх ефективності для зорового комфорту. Якщо хочеш краще спати - просто вимикай екрани за пару годин до сну.
 
 Твої очі витримують неймовірне навантаження щодня. Подбай про них не маркетинговими гаджетами, а простими діями з доказовою базою. 🌿
-
-## Джерела
-
-1. Singh S, et al. Blue‐light filtering spectacle lenses for visual performance, sleep, and macular health in adults. *Cochrane Database Syst Rev.* 2023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37593770/)
-2. American Academy of Ophthalmology (AAO). Should You Be Worried About Blue Light? [AAO](https://www.aao.org/eye-health/tips-prevention/should-you-be-worried-about-blue-light)
-3. Sheppard AL, Wolffsohn JS. Digital eye strain: prevalence, measurement and amelioration. *BMJ Open Ophthalmol.* 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29963645/) | [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6020759/)
-4. American Optometric Association (AOA). Computer Vision Syndrome. [AOA](https://www.aoa.org/healthy-eyes/eye-and-vision-conditions/computer-vision-syndrome)
-5. Downie LE, et al. An evidence-based analysis of the '20-20-20 rule' for digital eye strain. *Ophthalmic Physiol Opt.* 2024;44(1):15–22. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37782254/)
-6. Singh S, et al. Interventions for Digital Eye Strain: A Systematic Review and Meta-analysis. *Ophthalmology.* 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35597519/)
-7. Asbell PA, et al. n–3 Fatty Acid Supplementation for the Treatment of Dry Eye Disease (DREAM Study). *N Engl J Med.* 2018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29847666/)
-8. Holden BA, et al. Global Prevalence of Myopia and High Myopia and Temporal Trends from 2000 through 2050. *Ophthalmology.* 2016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26875007/)
-9. Foreman J, et al. Association between digital smart device use and myopia: a systematic review and meta-analysis. *Lancet Digital Health.* 2021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34625399/)
-10. He M, et al. Effect of Time Spent Outdoors at School on the Development of Myopia Among Children in China: A Randomized Clinical Trial. *JAMA.* 2015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26372583/)
-11. Kido A, et al. Outdoor time and myopia prevention in children and adolescents. *Cochrane Database Syst Rev.* 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38864362/)

@@ -95,17 +95,3 @@ Pacing (дозоване управління енергією) - це утри�
 - **Йди до лікаря з роздруківкою [NICE NG206](https://www.nice.org.uk/guidance/ng206) і [CDC](https://www.cdc.gov/me-cfs/management/index.html).** В Україні протоколу немає - міжнародні гайдлайни допомагають говорити однією мовою.
 
 Результати обнадійливі, але прямих великих RCT з pacing ще немає - консенсус спирається на гайдлайни й фізіологію, а не на фінальні дані. Це не привід чекати: безпечніший інструмент, який ми маємо зараз, - саме дозоване управління енергією. ⏳
-
-## Джерела
-- [Vernon et al., 2025 - RECOVER-Adult, Journal of General Internal Medicine (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11968624/)
-- [NIH RECOVER - новини про зростання випадків ME/CFS після COVID-19](https://recovercovid.org/news/nih-funded-study-finds-cases-mecfs-increase-following-covid-19)
-- [CDC - ME/CFS Management](https://www.cdc.gov/me-cfs/management/index.html)
-- [Wilshire et al., 2018 - реаналіз PACE, BMC Psychology (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5863477/)
-- [NICE NG206 - гайдлайн з ME/CFS (2021)](https://www.nice.org.uk/guidance/ng206/chapter/recommendations)
-- [Систематичний огляд 2025, Journal of Bodywork and Movement Therapies (Elsevier)](https://www.sciencedirect.com/science/article/pii/S1360859225002025)
-- [Workwell Foundation - CPET-протокол в ACSM Guidelines](https://workwellfoundation.org/workwell-foundations-cpet-protocol-featured-in-acsm-guidelines/)
-- [Workwell Foundation - pacing з пульсометром](https://workwellfoundation.org/pacing-with-a-heart-rate-monitor-to-minimize-post-exertional-malaise-pem-in-me-cfs-and-long-covid/)
-- [RECOVER-ENERGIZE - ClinicalTrials.gov NCT06404047](https://clinicaltrials.gov/study/NCT06404047)
-- [RECOVER-VITAL - проміжні результати щодо Paxlovid](https://recovercovid.org/news/recover-vital-paxlovid-results)
-- [МОЗ України - Наказ №771 про реабілітацію після COVID-19](https://www.dec.gov.ua/wp-content/uploads/2021/04/2021_771_covid19_rehabilit.pdf)
-
