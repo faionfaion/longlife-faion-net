@@ -62,8 +62,18 @@ echo "  Building in place."
 cd "$ROOT/gatsby"
 npm ci --silent 2>/dev/null || npm install --silent
 
-npx gatsby clean
-npx gatsby build
+# Gatsby 5 intermittently dies with a "query result" race on this many pages; a clean
+# rebuild clears it. Retry once so a transient flake does not leave the nightly deploy
+# reporting success while the site stays on yesterday's build.
+build() { npx gatsby clean && npx gatsby build; }
+build || { echo "  build failed, retrying once after clean..."; build; }
+
+# The build must have produced a homepage, or there is nothing safe to publish. Bail
+# rather than rsync --delete an empty/partial public over the live site.
+if [ ! -s "$ROOT/gatsby/public/index.html" ]; then
+    echo "  ERROR: build produced no index.html, refusing to publish" >&2
+    exit 1
+fi
 
 echo "  Publishing to $WEBROOT..."
 sudo mkdir -p "$WEBROOT"
