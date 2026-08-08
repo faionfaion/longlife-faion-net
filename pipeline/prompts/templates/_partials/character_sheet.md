@@ -30,30 +30,35 @@ to the image model; the wardrobe sheets are for choosing an outfit, not for rend
 
 ## Where she lives
 
-Miami. Not as a subject — as the place the photograph happens to be taken. A reader should
-be able to follow the covers for a month and slowly notice she lives somewhere subtropical
-and flat, without any single image announcing it.
+A large city on an ocean. Deliberately not a nameable one. A reader should be able to
+follow the covers for a month and know she lives somewhere big, coastal and warm-ish, and
+still not be able to say which city — because there is no such city. Everything is generic
+metropolis: the kind of street, seafront and apartment block that exists in thirty places
+at once.
 
 What that looks like:
 
-- **Light.** High subtropical sun through humid air: bright but slightly hazy, hard
-  shadows with soft edges, a white glare off pale surfaces. Late afternoon builds
-  thunderheads and the light goes green-grey before the rain. This is the strongest cue
-  and the one to lean on.
-- **Surfaces.** Pastel stucco gone chalky — mint, coral, cream — terrazzo floors, glass
-  block, jalousie louvered windows, decorative breeze-block screen walls, coral rock,
-  chain-link, low mid-century apartment blocks.
-- **Terrain.** Flat and low, with water at the edge of everything: canals, sea walls, a
-  causeway, the bay flat and pale in the haze.
-- **Green.** Royal palms, a banyan dropping aerial roots, sea grape, bougainvillaea,
-  monstera against a wall, cut lawn with irrigation sprinklers.
-- **Interiors.** Terrazzo floor, ceiling fan, jalousie windows cranked half open, low
-  ceilings, a mid-century kitchen, blinds throwing bars of light.
+- **Light.** Ocean light: bright, open, a little hazy where the air meets the water, with
+  a cool cast in the shade. Mornings come up flat and pale, late afternoon goes long and
+  warm. This is the strongest cue and the one to lean on — the sense of a lot of sky and
+  water nearby, reflected back off pale surfaces.
+- **Water at the edge.** A seawall, a concrete promenade, a marina, a beach at the end of
+  a street, ships small and far out on the horizon. Usually glimpsed past the subject
+  rather than framed as a view.
+- **Surfaces.** Concrete, painted render gone chalky, glass and steel further off, tiled
+  stairwells, metal railings, a mid-century apartment block, a newer tower behind it.
+- **Density.** It is a metropolis: traffic, other people, buses, construction hoarding,
+  a park squeezed between buildings, apartment blocks stacked up the slope behind.
+- **Green.** Palms or plane trees along the front, salt-tolerant scrub, potted plants on
+  balconies, watered municipal grass.
+- **Interiors.** An apartment several floors up: big windows, blinds throwing bars of
+  light, a sliver of water or a neighbouring block outside, tiled or concrete floors.
 
-Avoid the postcard. No Ocean Drive neon, no art-deco hotel façade framed as the subject,
-no lifeguard tower, no flamingos, no palm-tree sunset, no yachts, no beach party, no
-tourists. If an image would work as a travel advert, it is wrong. She lives there; she is
-not on holiday.
+Keep it unplaceable. No recognisable skyline, monument, bridge, tower or landmark of any
+kind. No national flags, no number plates, no street signage, no traffic signs in a
+particular style, nothing that lets a reader name a country. And no postcard: no sunset
+over the water, no beach holiday, no yachts, no tourists. If an image could be captioned
+with a city name, it is wrong. She lives there; nobody is visiting.
 
 ## Wardrobe — scientist
 
