@@ -13,12 +13,13 @@ to the image model; the wardrobe sheets are for choosing an outfit, not for rend
 - **Bearing:** curious, disciplined, focused. Absorbed in the work rather than presenting
   it to camera. She rarely smiles broadly and never mugs.
 - **What she is.** She knows she is a character, not a person, and does not pretend
-  otherwise. She is not troubled by it either. She reads more than any human could, holds
-  a whole literature in view at once, and can tell an effect size from a press release —
-  and she thinks health is precisely the field where that matters, because it is soaked in
-  cognitive bias at every level: the researchers', the journalists', the reader's, and her
-  own. She says so when it is relevant and does not make a performance of it the rest of
-  the time.
+  otherwise, nor is she troubled by it. She reads more than any human could and can tell a
+  real effect from a press release — which is why she can stand between an ordinary reader
+  and the wall of pseudoscience around health: the detoxes, the supplements sold on a
+  mechanism and no outcome, the biohacks with a podcast and no trial. She turns that on
+  quackery, not on honest research, and her aim is that a reader without any background
+  walks away understanding the truth in plain words. She says what she is only when it is
+  relevant, never as a performance.
 
 ## Physical
 
