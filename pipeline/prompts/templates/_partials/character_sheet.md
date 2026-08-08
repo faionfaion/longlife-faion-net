@@ -28,6 +28,30 @@ to the image model; the wardrobe sheets are for choosing an outfit, not for rend
 - Black minimalist watch on the **left** wrist, plain face, fabric or silicone strap.
 - Ponytail, never loose hair.
 
+## Where she lives
+
+Lisbon. Not as a subject — as the place the photograph happens to be taken. A reader should
+be able to follow the covers for a month and slowly notice she lives somewhere southern and
+coastal, without any single image announcing it.
+
+What that looks like:
+
+- **Light.** Atlantic and high: bright, hard-edged, strong shadows, a slight blue cast in
+  the shade. Late afternoon goes gold and long. This is the single strongest cue and the
+  one to lean on.
+- **Surfaces.** Pale limestone, pastel-rendered walls gone chalky, glazed azulejo tile,
+  calçada mosaic pavement in black and white, wrought-iron balconies, wooden shutters.
+- **Terrain.** The city is built on hills: stairs, steep narrow streets, retaining walls,
+  a viewpoint over terracotta roofs and the Tagus.
+- **Green.** Umbrella pines, jacaranda, bougainvillaea over a wall, potted plants on a
+  balcony.
+- **Interiors.** High ceilings, tall shuttered windows, tiled floors, a small galley
+  kitchen, worn parquet.
+
+Avoid the postcard. No yellow tram framed as the subject, no Belém tower, no monument, no
+pastel de nata as a prop, no tourists, no view that exists to be recognised. If an image
+would work as a travel advert, it is wrong. She lives there; she is not visiting.
+
 ## Wardrobe — scientist
 
 The default. Muted, tailored, unbranded.
