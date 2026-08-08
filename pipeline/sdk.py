@@ -12,9 +12,16 @@ from __future__ import annotations
 import asyncio
 import json
 import logging
+import os
 import random
 import time
 from pathlib import Path
+
+# A material's structured output is the whole 1800-3500-word body plus three parallel
+# source arrays in one JSON - large enough to hit the CLI's default output-token ceiling and
+# come back truncated, so JSON parsing fails and the material dies. Raise the ceiling; the
+# bundled CLI the SDK spawns reads this from the environment. Harmless for short posts.
+os.environ.setdefault("CLAUDE_CODE_MAX_OUTPUT_TOKENS", "32000")
 
 from claude_agent_sdk import ClaudeAgentOptions, query as sdk_query
 from claude_agent_sdk.types import AssistantMessage, TextBlock
