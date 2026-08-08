@@ -30,27 +30,30 @@ to the image model; the wardrobe sheets are for choosing an outfit, not for rend
 
 ## Where she lives
 
-Lisbon. Not as a subject — as the place the photograph happens to be taken. A reader should
-be able to follow the covers for a month and slowly notice she lives somewhere southern and
-coastal, without any single image announcing it.
+Miami. Not as a subject — as the place the photograph happens to be taken. A reader should
+be able to follow the covers for a month and slowly notice she lives somewhere subtropical
+and flat, without any single image announcing it.
 
 What that looks like:
 
-- **Light.** Atlantic and high: bright, hard-edged, strong shadows, a slight blue cast in
-  the shade. Late afternoon goes gold and long. This is the single strongest cue and the
-  one to lean on.
-- **Surfaces.** Pale limestone, pastel-rendered walls gone chalky, glazed azulejo tile,
-  calçada mosaic pavement in black and white, wrought-iron balconies, wooden shutters.
-- **Terrain.** The city is built on hills: stairs, steep narrow streets, retaining walls,
-  a viewpoint over terracotta roofs and the Tagus.
-- **Green.** Umbrella pines, jacaranda, bougainvillaea over a wall, potted plants on a
-  balcony.
-- **Interiors.** High ceilings, tall shuttered windows, tiled floors, a small galley
-  kitchen, worn parquet.
+- **Light.** High subtropical sun through humid air: bright but slightly hazy, hard
+  shadows with soft edges, a white glare off pale surfaces. Late afternoon builds
+  thunderheads and the light goes green-grey before the rain. This is the strongest cue
+  and the one to lean on.
+- **Surfaces.** Pastel stucco gone chalky — mint, coral, cream — terrazzo floors, glass
+  block, jalousie louvered windows, decorative breeze-block screen walls, coral rock,
+  chain-link, low mid-century apartment blocks.
+- **Terrain.** Flat and low, with water at the edge of everything: canals, sea walls, a
+  causeway, the bay flat and pale in the haze.
+- **Green.** Royal palms, a banyan dropping aerial roots, sea grape, bougainvillaea,
+  monstera against a wall, cut lawn with irrigation sprinklers.
+- **Interiors.** Terrazzo floor, ceiling fan, jalousie windows cranked half open, low
+  ceilings, a mid-century kitchen, blinds throwing bars of light.
 
-Avoid the postcard. No yellow tram framed as the subject, no Belém tower, no monument, no
-pastel de nata as a prop, no tourists, no view that exists to be recognised. If an image
-would work as a travel advert, it is wrong. She lives there; she is not visiting.
+Avoid the postcard. No Ocean Drive neon, no art-deco hotel façade framed as the subject,
+no lifeguard tower, no flamingos, no palm-tree sunset, no yachts, no beach party, no
+tourists. If an image would work as a travel advert, it is wrong. She lives there; she is
+not on holiday.
 
 ## Wardrobe — scientist
 
