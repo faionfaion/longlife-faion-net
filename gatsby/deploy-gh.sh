@@ -31,6 +31,24 @@ BRANCH="master"
 cd "$(dirname "$0")/.."
 ROOT="$PWD"
 
+# Purge the Cloudflare cache after a deploy. Without this the freshly built pages sit
+# behind stale CDN copies: article URLs are new so they resolve, but the homepage, the tag
+# lists, the sitemap and rss keep serving the previous build, so a new post is invisible on
+# the front page until the TTL expires. Creds live outside the repo in /srv/longlife.
+purge_cdn() {
+    local env="/srv/longlife/cloudflare.env"
+    [ -f "$env" ] || { echo "  (no cloudflare.env; skipping CDN purge)"; return 0; }
+    # shellcheck disable=SC1090
+    . "$env"
+    echo "  Purging Cloudflare cache..."
+    curl -s -X POST \
+        -H "X-Auth-Email: $CF_EMAIL" -H "X-Auth-Key: $CF_API_KEY" \
+        -H "Content-Type: application/json" \
+        --data '{"purge_everything":true}' \
+        "https://api.cloudflare.com/client/v4/zones/$CF_ZONE/purge_cache" >/dev/null \
+        && echo "  Cache purged." || echo "  CDN purge failed (non-fatal)."
+}
+
 echo "==> Deploying $SITE"
 
 if [ ! -d "$WEBROOT" ] && [ "$(hostname)" != "faion-net-new" ]; then
@@ -52,5 +70,6 @@ sudo mkdir -p "$WEBROOT"
 sudo rsync -a --delete "$ROOT/gatsby/public/" "$WEBROOT/"
 
 sudo nginx -t && sudo systemctl reload nginx
+purge_cdn
 
 echo "==> Deployed https://$SITE/"
