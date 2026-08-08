@@ -14,7 +14,7 @@ tags:
 - "ВООЗ"
 - "Україна"
 description: "Що показало найбільше дослідження 4-денного тижня: менше вигорання, тривожності й втоми - і чесні застереження."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.nature.com/articles/s41562-025-02259-6"
   - "https://autonomy.work/portfolio/icelandsww/"

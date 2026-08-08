@@ -19,7 +19,7 @@ exports.onPostBuild = async ({ graphql }) => {
 
   const posts = result.data.allMarkdownRemark.nodes;
   const lines = [
-    "# LongLife - Віта Зеленко",
+    "# LongLife - Віта",
     "",
     "> Науковиця в галузі здоров’я читає дослідження і пояснює простою мовою, що з них " +
       "насправді випливає. Один допис на день, українською. Головна робота блогу - " +
@@ -78,7 +78,7 @@ exports.onPostBuild = async ({ graphql }) => {
     '<?xml version="1.0" encoding="UTF-8"?>',
     '<rss version="2.0">',
     "  <channel>",
-    "    <title>LongLife - Віта Зеленко</title>",
+    "    <title>LongLife - Віта</title>",
     "    <link>https://longlife.media</link>",
     "    <description>Доказово про здоров’я, простою мовою. Один допис на день.</description>",
     "    <language>uk</language>",

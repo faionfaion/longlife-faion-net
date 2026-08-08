@@ -16,7 +16,7 @@ tags:
 - "сон"
 - "депресія"
 description: "Що наука каже про вплив креатину на пам'ять, увагу та мозок - огляд досліджень, безпека, дозування."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/39070254/"
   - "https://pubmed.ncbi.nlm.nih.gov/29704637/"

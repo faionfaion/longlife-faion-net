@@ -14,7 +14,7 @@ tags:
 - "tapering"
 - "ментальне здоров'я під час війни"
 description: "Мета-аналіз Lancet Psychiatry 2024: синдром відміни антидепресантів - і чому це не залежність."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(24)00133-0/fulltext"
   - "https://discovery.ucl.ac.uk/id/eprint/10212953/"

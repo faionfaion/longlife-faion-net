@@ -13,7 +13,7 @@ tags:
 - "біобезпека"
 - "Україна"
 description: "ШІ спроєктував життєздатні фаги. Що це означає для лікування стійких інфекцій - і чого ще бракує."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.science.org/doi/10.1126/science.aec2657"
   - "https://pubmed.ncbi.nlm.nih.gov/42561074/"

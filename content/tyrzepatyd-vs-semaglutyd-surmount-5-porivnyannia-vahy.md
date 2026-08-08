@@ -13,7 +13,7 @@ tags:
 - "семаглутид"
 - "ліки"
 description: "SURMOUNT-5: тирзепатид vs семаглутид - що це означає для ваги й серця."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://www.nejm.org/doi/full/10.1056/NEJMoa2416394"
 - "https://pubmed.ncbi.nlm.nih.gov/41124642/"

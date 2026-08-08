@@ -10,7 +10,7 @@ tags:
 - "Дослідження"
 - "Соціальне здоров'я"
 description: "Наукові дані про вплив соціальних зв'язків на тривалість життя та здоров'я"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pubmed.ncbi.nlm.nih.gov/20668659/"
 - "https://www.hsph.harvard.edu/news/press-releases/strong-social-ties-longevity/"

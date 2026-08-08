@@ -10,7 +10,7 @@ tags:
 - "Кардіо"
 - "Тренування"
 description: "Порівняння HIIT та стабільного кардіо: ефективність, ризики та рекомендації за даними 2026"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pubmed.ncbi.nlm.nih.gov/38456123/"
 - "https://bjsm.bmj.com/content/57/18/1137"

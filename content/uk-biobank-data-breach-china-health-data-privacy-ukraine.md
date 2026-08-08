@@ -15,7 +15,7 @@ tags:
 - "приватність"
 - "медичні дані"
 description: "Витік даних UK Biobank, ризики реідентифікації генетичних даних і що це означає для України з її 5 млрд медичних записів."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.bbc.com/news/articles/cpvxgl3n138o"
   - "https://www.theregister.com/2026/04/23/500k_biobank_volunteers_data_listed/"

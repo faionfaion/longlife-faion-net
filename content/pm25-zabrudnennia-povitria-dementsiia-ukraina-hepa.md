@@ -14,7 +14,7 @@ tags:
 - "Україна"
 - "дослідження"
 description: "PM2.5 і ризик деменції: що кажуть дані, наскільки міцні докази і що робити в Україні."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/40716448/"
   - "https://pubmed.ncbi.nlm.nih.gov/37019461/"

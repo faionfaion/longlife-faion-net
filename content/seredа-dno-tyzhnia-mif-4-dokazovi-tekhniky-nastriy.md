@@ -14,7 +14,7 @@ tags:
 - "робочий тиждень"
 - "VILPA"
 description: "Чому середа відчувається як «дно тижня» - та 4 науково обґрунтовані техніки, щоб її пережити з енергією."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.tandfonline.com/doi/abs/10.1080/17439760.2012.691980"
   - "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0134555"

@@ -15,7 +15,7 @@ tags:
 - "мета-аналіз"
 - "біохакінг"
 description: "Систематичні огляди NMN і NR: клінічні докази, конфлікти інтересів та безкоштовні альтернативи для підвищення NAD+."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC10361580/"
   - "https://pubmed.ncbi.nlm.nih.gov/29992272/"

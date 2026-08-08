@@ -16,7 +16,7 @@ tags:
 - "скринінг"
 - "метаболічне здоров'я"
 description: "Чому струнка людина може мати MASLD: генетика, вісцеральний жир, фруктоза і як перевіритися через FIB-4."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/32413340/"
   - "https://www.journal-of-hepatology.eu/article/S0168-8278(23)00418-X/fulltext"

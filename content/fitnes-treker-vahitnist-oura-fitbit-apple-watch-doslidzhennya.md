@@ -15,7 +15,7 @@ tags:
 - "дослідження"
 - "жіноче здоровʼя"
 description: "Що бачить трекер під час ранньої вагітності - і коли варто вірити йому, а коли тесту й лікарю."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000034"
   - "https://www.nature.com/articles/s41746-024-01183-9"

@@ -16,7 +16,7 @@ tags:
 - "схуднення"
 - "дослідження"
 description: "Sub-аналіз STEP-1: скільки м'язів втрачається на GLP-1 і як білок + силові допомагають їх зберегти."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC8089287/"
   - "https://www.nejm.org/doi/full/10.1056/NEJMoa2032183"

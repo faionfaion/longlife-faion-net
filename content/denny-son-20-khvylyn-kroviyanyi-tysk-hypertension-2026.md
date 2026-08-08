@@ -15,7 +15,7 @@ tags:
 - "UK Biobank"
 - "лайфхак"
 description: "Що кажуть дослідження про денний сон, тиск і серце - і як зробити сієсту безпечною."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.122.19120"
   - "https://pubmed.ncbi.nlm.nih.gov/35876003/"

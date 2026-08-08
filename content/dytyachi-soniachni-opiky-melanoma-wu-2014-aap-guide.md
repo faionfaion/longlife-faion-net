@@ -15,7 +15,7 @@ tags:
 - "педіатрія"
 - "дослідження"
 description: "Чому дитячі сонячні опіки критично впливають на ризик меланоми - дані Wu 2014 і рекомендації AAP."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/24876226/"
   - "https://pubmed.ncbi.nlm.nih.gov/18652979/"

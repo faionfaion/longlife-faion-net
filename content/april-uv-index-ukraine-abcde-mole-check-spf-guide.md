@@ -16,7 +16,7 @@ tags:
 - "ABCDE"
 - "фототип"
 description: "UV-індекс у квітні в Києві сягає 5–6. Як перевірити родимки за ABCDE, обрати SPF та захистити шкіру - гід із джерелами."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.who.int/news-room/questions-and-answers/item/radiation-the-ultraviolet-(uv)-index"
   - "https://pubmed.ncbi.nlm.nih.gov/21135266/"

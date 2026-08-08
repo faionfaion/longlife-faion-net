@@ -13,7 +13,7 @@ tags:
 - "ВООЗ"
 - "GBD"
 description: "HALE у Британії впав на 2 роки за десятиліття. В Україні - ще гірше. Що це за показник і що можна змінити."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.bbc.com/news/articles/c20q07w3gl9o"
   - "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)00757-8/fulltext"

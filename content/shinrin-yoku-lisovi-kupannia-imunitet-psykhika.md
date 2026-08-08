@@ -13,7 +13,7 @@ tags:
 - "кортизол"
 - "лісові купання"
 description: "Наукові докази лісових купань: зниження кортизолу, зміцнення імунітету та покроковий протокол 2-годинної прогулянки."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/19568839/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC2793346/"

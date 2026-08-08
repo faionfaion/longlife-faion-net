@@ -14,7 +14,7 @@ tags:
 - "харчування"
 - "безпека"
 description: "Міф про 8 склянок, гіпонатріємія та скільки безпечно пити в спеку й на тренуванні - за наукою."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://doi.org/10.1152/ajpregu.00365.2002"
 - "https://www.efsa.europa.eu/en/efsajournal/pub/1459"

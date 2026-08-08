@@ -13,7 +13,7 @@ tags:
 - "спортивна медицина"
 - "HSR"
 description: "Скільки повторень справді потрібно при ахіловому тендинозі: доказовий розбір Альфредсона, HSR і JOSPT 2024."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://journals.sagepub.com/doi/10.1177/03635465980260030301"
   - "https://www.jospt.org/doi/10.2519/jospt.2014.4720"

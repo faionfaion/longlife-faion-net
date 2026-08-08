@@ -13,7 +13,7 @@ tags:
 - "Nordic hamstring curls"
 - "м'язова сила"
 description: "Наука про ексцентричне навантаження: більше сили з меншими зусиллями, захист від травм та 4 вправи для дому."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/18981046/"
   - "https://pubmed.ncbi.nlm.nih.gov/27647157/"

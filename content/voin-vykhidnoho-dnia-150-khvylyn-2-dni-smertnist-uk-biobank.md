@@ -14,7 +14,7 @@ tags:
 - "UK Biobank"
 - "ВООЗ"
 description: "Чи можна набрати тижневу норму руху за вихідні? Розбираємо докази, межі й безпечні поради."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC11803568/"
   - "https://pubmed.ncbi.nlm.nih.gov/37462704/"

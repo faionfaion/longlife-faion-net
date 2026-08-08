@@ -15,7 +15,7 @@ tags:
 - "дослідження"
 - "Україна"
 description: "Аудит 546 сендвічів: «преміум»-варіант від Gail's містить 6,88 г солі - більше денної норми ВООЗ."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.bbc.com/news/articles/c4g4l54g2ppo"
   - "https://www.actiononsalt.org.uk/awareness/salt-awareness-week-2026/salt-awareness-week-survey/"

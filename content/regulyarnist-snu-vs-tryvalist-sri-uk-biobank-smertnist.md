@@ -13,7 +13,7 @@ tags:
 - "дослідження"
 - "довголіття"
 description: "UK Biobank: регулярність сну прогнозує смертність краще за тривалість. Що це означає і що робити."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://academic.oup.com/sleep/article/47/1/zsad253/7280269"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC10782501/"

@@ -13,7 +13,7 @@ tags:
 - "здоровя"
 - "гайд"
 description: "Чому бруксизм - це сигнал про апное, ГЕРХ чи стрес, а не «неправильний прикус». Доказовий гайд."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC6287494/"
   - "https://onlinelibrary.wiley.com/doi/10.1111/joor.12663"

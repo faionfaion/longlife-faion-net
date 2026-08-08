@@ -15,7 +15,7 @@ tags:
 - "мінерали"
 - "вітаміни"
 description: "Яку форму магнію обрати? Гліцинат, цитрат, треонат чи оксид - розбираємо біодоступність, дослідження і практичні поради."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC5637834/"
   - "https://pubmed.ncbi.nlm.nih.gov/28445426/"

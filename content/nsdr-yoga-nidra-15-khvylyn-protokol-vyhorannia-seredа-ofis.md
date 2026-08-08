@@ -16,7 +16,7 @@ tags:
 - "перерва"
 - "дослідження"
 description: "15-хвилинний протокол NSDR (non-sleep deep rest) проти середової втоми: що каже наука і як практикувати."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/11958969/"
   - "https://onlinelibrary.wiley.com/doi/10.1002/smi.70049"

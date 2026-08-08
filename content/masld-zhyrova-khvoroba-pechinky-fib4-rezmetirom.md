@@ -14,7 +14,7 @@ tags:
 - "вісцеральний жир"
 - "FIB-4"
 description: "MASLD - нова назва жирової хвороби печінки: ~30% дорослих, FIB-4 і що реально працює."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.journal-of-hepatology.eu/article/S0168-8278(23)00418-X/fulltext"
   - "https://pubmed.ncbi.nlm.nih.gov/37364790/"

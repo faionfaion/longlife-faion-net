@@ -13,7 +13,7 @@ tags:
 - "шкіра"
 - "доказова медицина"
 description: "GHK-Cu під мікроскопом: сильна ін-вітро, слабка клініка. Що варте грошей, а що ні."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.mdpi.com/1422-0067/19/7/1987"
   - "https://onlinelibrary.wiley.com/doi/10.1155/2015/648108"

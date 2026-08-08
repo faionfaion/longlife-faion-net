@@ -14,7 +14,7 @@ tags:
 - "трансдермальні продукти"
 - "нутриціологія"
 description: "Магнієве масло і Epsom-ванни за 500–2000 грн: пряме RCT Kass 2017 і огляд Nutrients показують, що магній через шкіру майже не всмоктується."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174817"
   - "https://www.mdpi.com/2072-6643/9/8/813"

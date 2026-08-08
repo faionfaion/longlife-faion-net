@@ -14,7 +14,7 @@ tags:
 - "силові тренування"
 - "літні люди"
 description: "Що показують дослідження 2021–2026 про креатин для м'язів, кісток і мозку після 50 років."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12793482/"
   - "https://pubmed.ncbi.nlm.nih.gov/35688360/"

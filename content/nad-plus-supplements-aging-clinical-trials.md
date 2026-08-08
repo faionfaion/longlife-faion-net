@@ -10,7 +10,7 @@ tags:
 - "Добавки"
 - "Дослідження"
 description: "Огляд клінічних досліджень NAD+ добавок: NMN, NR та їхній вплив на процеси старіння"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://www.nature.com/articles/s41392-024-01991-3"
 - "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(24)00369-2"

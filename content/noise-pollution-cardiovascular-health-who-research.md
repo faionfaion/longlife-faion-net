@@ -14,7 +14,7 @@ tags:
 - "профілактика"
 - "діти"
 description: "Транспортний шум - другий за величиною екологічний ризик у Європі. Розбираємо науку та прості кроки захисту."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/33790462/"
   - "https://www.who.int/europe/publications/i/item/9789289053563"

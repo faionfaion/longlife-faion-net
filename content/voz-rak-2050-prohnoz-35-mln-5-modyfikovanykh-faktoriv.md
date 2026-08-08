@@ -17,7 +17,7 @@ tags:
 - "онкологія"
 - "дослідження"
 description: "Розбір звіту ВООЗ 2026: чому прогноз 35 млн випадків до 2050 - не вирок, і 5 факторів ризику, які ти контролюєш"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.who.int/news/item/08-07-2026-who-calls-for-urgent-action-as-new-cancer-cases-are-projected-to-nearly-double-by-2050"
   - "https://pubmed.ncbi.nlm.nih.gov/38572751/"

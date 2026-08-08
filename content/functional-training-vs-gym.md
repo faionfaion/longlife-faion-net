@@ -10,7 +10,7 @@ tags:
 - "Тренування"
 - "Рухливість"
 description: "Чому функціональний тренінг ефективніший за класичні вправи на тренажерах"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pubmed.ncbi.nlm.nih.gov/36847892/"
 - "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10137792/"

@@ -14,7 +14,7 @@ tags:
 - "дослідження"
 - "ДСТУ"
 description: "Чому справжній кефір на грибках відрізняється від йогурту й «кефірних напоїв» - розбір досліджень і етикеток."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC4854945/"
   - "https://pubmed.ncbi.nlm.nih.gov/40469719/"

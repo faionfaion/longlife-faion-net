@@ -13,7 +13,7 @@ tags:
 - "осмисленість"
 - "дослідження"
 description: "Що кажуть RCT і мета-аналізи про Headspace і Calm: реальний, але скромний ефект на стрес і тривогу."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/38214614/"
   - "https://pubmed.ncbi.nlm.nih.gov/33049431/"

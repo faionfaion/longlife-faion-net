@@ -13,7 +13,7 @@ tags:
 - "блукаючий нерв"
 - "воєнний стрес"
 description: "Cyclic sighing зі Стенфорду: подвійний вдих носом + довгий видих ротом. Як і чому це працює - за даними дослідження."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00474-8"
   - "https://pubmed.ncbi.nlm.nih.gov/36630953/"

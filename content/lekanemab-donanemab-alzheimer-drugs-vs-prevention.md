@@ -15,7 +15,7 @@ tags:
 - "дослідження"
 - "Lancet Commission"
 description: "Леканемаб і донанемаб: що показали дослідження, скільки коштує лікування і які 14 факторів ризику деменції можна змінити вже сьогодні."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/36449413/"
   - "https://pubmed.ncbi.nlm.nih.gov/37459141/"

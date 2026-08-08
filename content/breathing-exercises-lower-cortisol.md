@@ -10,7 +10,7 @@ tags:
 - "Кортизол"
 - "Лайфхак"
 description: "Три науково обґрунтовані дихальні техніки для швидкого зниження стресу"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00474-8"
 - "https://pubmed.ncbi.nlm.nih.gov/36630953/"

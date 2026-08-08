@@ -10,7 +10,7 @@ tags:
 - "Україна"
 - "Добавки"
 description: "Масштаб дефіциту вітаміну D в Україні та як його подолати"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pubmed.ncbi.nlm.nih.gov/37215843/"
 - "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10224345/"

@@ -14,7 +14,7 @@ tags:
 - "серце"
 - "тренування вдома"
 description: "Wall sit знижує тиск спокою на ~8 мм рт. ст. - розбираємо мета-аналіз BJSM 2023 і протокол 4×2 хв."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/37491419/"
   - "https://pubmed.ncbi.nlm.nih.gov/26467494/"

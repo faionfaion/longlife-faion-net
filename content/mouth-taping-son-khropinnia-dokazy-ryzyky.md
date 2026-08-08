@@ -13,7 +13,7 @@ tags:
 - "STOP-BANG"
 - "дихання"
 description: "Розбираємо науку за трендом заклеювання рота уві сні: переваги носового дихання, ризики та коли це небезпечно."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/36141367/"
   - "https://pubmed.ncbi.nlm.nih.gov/40397877/"

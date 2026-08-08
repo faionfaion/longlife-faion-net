@@ -14,7 +14,7 @@ tags:
 - "Harvard Study"
 - "соціальні зв'язки"
 description: "Як спільні трапези впливають на настрій, депресію та довголіття - огляд науки і практичні кроки."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.jneb.org/article/S1499-4046(13)00579-4/fulltext"
   - "https://jamanetwork.com/journals/jamapediatrics/fullarticle/1900477"

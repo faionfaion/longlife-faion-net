@@ -14,7 +14,7 @@ tags:
 - "дослідження"
 - "стрес"
 description: "LKM чи mindfulness при тривозі: що показав head-to-head 2025 і як поєднати їх у 10-хв протоколі"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1597264/full"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC4630307/"

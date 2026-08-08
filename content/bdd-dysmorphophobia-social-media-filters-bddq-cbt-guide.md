@@ -16,7 +16,7 @@ tags:
 - "DSM-5"
 - "скринінг"
 description: "Що таке BDD за DSM-5, як працює BDDQ-скринінг і що каже доказова база про КПТ, SSRI та фільтри."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/27498379/"
   - "https://www.sciencedirect.com/science/article/abs/pii/S0165178116317267"

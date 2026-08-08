@@ -14,7 +14,7 @@ tags:
 - "VO2max"
 - "травми"
 description: "Що робить рюкзак 20 кг із серцем, кістками й колінами - розбір досліджень і безпечна прогресія."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.sciencedirect.com/science/article/pii/S0003687021000429"
   - "https://pubmed.ncbi.nlm.nih.gov/33285331/"

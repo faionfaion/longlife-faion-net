@@ -15,7 +15,7 @@ tags:
 - "постпрандіальна глюкоза"
 - "sedentary behaviour"
 description: "Що каже наука про мікропрогулянки після їжі: мета-аналізи, реальні цифри та практичні поради."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/35147898/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC9325803/"

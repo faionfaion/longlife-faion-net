@@ -257,7 +257,7 @@ export default SubscribePage;
 
 export const Head = () => (
   <>
-    <title>Підписка · Віта Зеленко</title>
+    <title>Підписка · Віта</title>
     <meta
       name="description"
       content="Підпишись на LongLife: тижневий дайджест або кожен допис. Доказово про здоровʼя, простою мовою."

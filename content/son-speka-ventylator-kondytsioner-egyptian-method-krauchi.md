@@ -14,7 +14,7 @@ tags:
 - "гігієна сну"
 - "клімат"
 description: "Як спати в спеку: DPG-охолодження зап'ясть, єгипетський метод, вентилятор vs кондиціонер - з наукою."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.cell.com/one-earth/fulltext/S2590-3322(22)00209-3"
   - "https://www.nature.com/articles/43366"

@@ -14,7 +14,7 @@ tags:
 - "тренування"
 - "дослідження"
 description: "Розбір Zone 2: фізіологія, дані San Millán, модель Seiler 80/20 і як виміряти зону без лактометра."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/28623613/"
   - "https://pubmed.ncbi.nlm.nih.gov/29934848/"

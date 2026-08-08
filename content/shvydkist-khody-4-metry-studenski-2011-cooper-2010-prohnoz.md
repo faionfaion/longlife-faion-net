@@ -14,7 +14,7 @@ tags:
 - "дослідження"
 - "мобільність"
 description: "Тест на 4 метри: що показали 34 485 людей, які цифри орієнтир і чому маркер - не мішень."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/21205966/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC2938886/"

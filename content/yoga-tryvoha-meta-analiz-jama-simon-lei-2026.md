@@ -14,7 +14,7 @@ tags:
 - "пранаяма"
 - "мета-аналіз"
 description: "Йога і тривога: докази 2025–2026, чому КПТ лідирує при ГТР і як безпечно почати практику."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2769486"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC7788465/"

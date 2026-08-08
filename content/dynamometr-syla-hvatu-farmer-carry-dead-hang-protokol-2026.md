@@ -14,7 +14,7 @@ tags:
 - "ізометрія"
 - "біомаркери"
 description: "Ручний динамометр за 500 грн прогнозує ризик смертності краще, ніж BMI. Як тестуватися і тренуватися вдома."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/25982160/"
   - "https://jamanetwork.com/journals/jama/fullarticle/188748"

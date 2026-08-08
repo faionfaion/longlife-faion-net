@@ -10,7 +10,7 @@ tags:
 - "Вигорання"
 - "Мікро-перерви"
 description: "Як адаптувати техніку Помодоро для фізичного та ментального здоров'я - конкретний протокол"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pubmed.ncbi.nlm.nih.gov/27747244/"
 - "https://pubmed.ncbi.nlm.nih.gov/31844174/"

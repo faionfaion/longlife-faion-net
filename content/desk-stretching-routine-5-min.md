@@ -10,7 +10,7 @@ tags:
 - "Офіс"
 - "Лайфхаки"
 description: "Проста 5-хвилинна розтяжка для тих, хто працює за комп'ютером: знімає біль у шиї та спині"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pubmed.ncbi.nlm.nih.gov/35781234/"
 - "https://www.who.int/news-room/fact-sheets/detail/physical-activity"

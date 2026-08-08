@@ -13,7 +13,7 @@ tags:
 - "профілактика"
 - "ВООЗ"
 description: "Дефіцит клітковини в раціоні українців: науково обґрунтований план збільшення за два тижні"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/30638909/"
   - "https://pubmed.ncbi.nlm.nih.gov/38011755/"

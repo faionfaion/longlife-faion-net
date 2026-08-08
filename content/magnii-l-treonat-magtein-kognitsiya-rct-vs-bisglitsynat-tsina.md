@@ -17,7 +17,7 @@ tags:
 - "EFSA"
 - "маркетинг здоров'я"
 description: "Розбір доказової бази магнію L-треонату: RCT, конфлікти інтересів, EFSA та математика гаманця."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.sciencedirect.com/science/article/pii/S0896627309010447"
   - "https://pubmed.ncbi.nlm.nih.gov/26519439/"

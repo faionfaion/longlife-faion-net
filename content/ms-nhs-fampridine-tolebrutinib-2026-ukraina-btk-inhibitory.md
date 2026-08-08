@@ -16,7 +16,7 @@ tags:
 - "дослідження"
 - "доказова медицина"
 description: "Fampyra на NHS, толебрутиніб у HERCULES і що це означає для 25 тисяч українців з РС"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.england.nhs.uk/publication/clinical-commissioning-policy-prolonged-released-pr-fampridine-as-a-treatment-of-adults-with-multiple-sclerosis-and-associated-walking-impairment/"
   - "https://mstrust.org.uk/news/nhs-england-recommends-fampridine"

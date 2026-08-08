@@ -13,7 +13,7 @@ tags:
 - "профілактика"
 - "травми"
 description: "Наука про weekend warrior: чому обсяг MVPA важливіший за розподіл - і як заходити у вихідні тренування безпечно."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2794038"
   - "https://jamanetwork.com/journals/jama/fullarticle/2807286"

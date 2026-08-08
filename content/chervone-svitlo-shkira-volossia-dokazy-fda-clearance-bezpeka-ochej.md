@@ -14,7 +14,7 @@ tags:
 - "дослідження"
 - "безпека очей"
 description: "Докази червоного світла для шкіри й волосся: де наука, а де маркетинг."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC5215870/"
   - "https://pubmed.ncbi.nlm.nih.gov/24286286/"

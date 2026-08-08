@@ -14,7 +14,7 @@ tags:
 - "дошкільнята"
 - "ARFID"
 description: "6 доказових технік для батьків перебірливих дітей 2–7 років: метод Саттер, повторна експозиція, family-style та інше."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.sciencedirect.com/science/article/pii/S1499404620307168"
   - "https://www.ellynsatterinstitute.org/satter-feeding-dynamics-model/"

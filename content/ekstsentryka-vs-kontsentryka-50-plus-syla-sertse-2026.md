@@ -14,7 +14,7 @@ tags:
 - "здоров'я серця"
 - "дослідження"
 description: "Як повільне опускання ваги дає силу після 50 з меншим навантаженням на серце - розбір досліджень."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://academic.oup.com/ageing/article/35/3/291/40432"
   - "https://www.sciencedirect.com/science/article/pii/S156816372500279X"

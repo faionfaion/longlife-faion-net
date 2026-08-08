@@ -13,7 +13,7 @@ tags:
 - "біохакінг"
 - "DunedinPACE"
 description: "Епігенетичні годинники: чому один тест за 300$ не варто довіряти і що працює замість нього"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/24138928/"
   - "https://www.aging-us.com/article/101684/text"

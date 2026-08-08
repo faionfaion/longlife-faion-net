@@ -12,7 +12,7 @@ tags:
 - "поведінкова наука"
 - "планування"
 description: "Як ефект свіжого старту і if-then плани допомагають почати нову звичку з понеділка - без перевантаження."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubsonline.informs.org/doi/10.1287/mnsc.2014.1901"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC4839284/"

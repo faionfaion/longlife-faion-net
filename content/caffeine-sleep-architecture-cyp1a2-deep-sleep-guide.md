@@ -14,7 +14,7 @@ tags:
 - "хронобіологія"
 - "аденозин"
 description: "Як кофеїн блокує глибокий сон, чому ви цього не помічаєте і коли пити останню каву - дані мета-аналізів"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC3805807/"
   - "https://pubmed.ncbi.nlm.nih.gov/36870101/"

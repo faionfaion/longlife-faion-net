@@ -14,7 +14,7 @@ tags:
 - "ВООЗ"
 - "етикетки"
 description: "Прихована сіль у «здорових» сендвічах: скільки натрію ми їмо й як це безпечно зменшити."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.bbc.com/news/articles/c4g4l54g2ppo"
   - "https://www.actiononsalt.org.uk/salthealth/recommendations-on-salt/"

@@ -13,7 +13,7 @@ tags:
 - "біохакінг"
 - "носове дихання"
 description: "Що каже наука 2026 про носове дихання у бігунів: економія, але не магія для VO2max."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://journals.aiac.org.au/index.php/IJKSS/article/view/4400"
   - "https://journals.aiac.org.au/index.php/IJKSS/article/view/3079"

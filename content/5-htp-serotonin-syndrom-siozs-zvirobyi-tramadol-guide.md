@@ -16,7 +16,7 @@ tags:
 - "безпека ліків"
 - "триптофан"
 description: "Серотоніновий синдром від 5-HTP, звіробою і трамадолу на тлі СІОЗС: докази, ризики, червоні прапорці."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.nejm.org/doi/full/10.1056/NEJMra041867"
   - "https://academic.oup.com/qjmed/article/96/9/635/1522590"

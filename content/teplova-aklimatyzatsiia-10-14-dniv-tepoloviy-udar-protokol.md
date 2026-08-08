@@ -14,7 +14,7 @@ tags:
 - "літні люди"
 - "фітнес у спеку"
 description: "10–14-денний протокол теплової адаптації, червоні прапорці теплового удару і правило «cool first, transport second»."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/25943654/"
   - "https://onlinelibrary.wiley.com/doi/full/10.1111/sms.12408"

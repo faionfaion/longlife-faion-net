@@ -15,7 +15,7 @@ tags:
 - "дослідження"
 - "профілактика"
 description: "Як ПТСР впливає на серце: дані мета-аналізів, механізми та що робити вже сьогодні."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC3815706/"
   - "https://pubmed.ncbi.nlm.nih.gov/38797508/"

@@ -14,7 +14,7 @@ tags:
 - "префронтальна кора"
 - "дослідження"
 description: "Перші 30 хвилин після пробудження когнітивно гірші за безсонну ніч (JAMA 2006). Чому понеділок підсилює інерцію та що реально допомагає."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://jamanetwork.com/journals/jama/fullarticle/202171"
   - "https://pubmed.ncbi.nlm.nih.gov/12531174/"

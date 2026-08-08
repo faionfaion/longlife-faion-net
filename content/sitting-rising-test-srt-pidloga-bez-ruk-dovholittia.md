@@ -14,7 +14,7 @@ tags:
 - "смертність"
 - "дослідження"
 description: "Тест «сядь-встань»: що бал від 0 до 10 може сказати про здоров'я і чому це маркер, а не вирок."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://doi.org/10.1093/eurjpc/zwaf325"
   - "https://pubmed.ncbi.nlm.nih.gov/23242910/"

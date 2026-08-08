@@ -14,7 +14,7 @@ tags:
 - "Україна"
 - "stepped care"
 description: "NHS відкриває walk-in центри психічного здоров'я у бібліотеках і банках. Що з цього варто Україні."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.gov.uk/government/news/major-expansion-of-community-mental-health-support-across-england"
   - "https://www.england.nhs.uk/2025/07/first-nhs-round-the-clock-mental-health-unit-opens-under-10-year-health-plan/"

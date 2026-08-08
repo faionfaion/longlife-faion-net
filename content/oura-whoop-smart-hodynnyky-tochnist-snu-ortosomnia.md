@@ -15,7 +15,7 @@ tags:
 - "біохакінг"
 - "дослідження"
 description: "Наскільки точні трекери сну Oura та Whoop і що таке ортосомнія - розбір за наукою."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://academic.oup.com/sleep/article/44/5/zsaa291/6055610"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC8957400/"

@@ -10,7 +10,7 @@ tags:
 - "Гайд"
 - "Бюджет"
 description: "Повний список обладнання для ефективних домашніх тренувань у межах 5000 гривень"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://www.acsm.org/education-resources/trending-topics-resources/resource-library/home-workout"
 - "https://pubmed.ncbi.nlm.nih.gov/30531700/"

@@ -13,7 +13,7 @@ tags:
 - "рослинна дієта"
 - "здоров'я жінок"
 description: "Чому дефіцит йоду повертається, як це загрожує здоров'ю та що можна зробити вже сьогодні"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/23706508/"
   - "https://pubmed.ncbi.nlm.nih.gov/25591468/"

@@ -14,7 +14,7 @@ tags:
 - "Україна"
 - "волонтерство"
 description: "Мета-аналіз AHA 2019: у власників собак на 24% нижча смертність. Розбираємо докази, механізми й обмеження."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.ahajournals.org/doi/10.1161/circoutcomes.119.005554"
   - "https://pubmed.ncbi.nlm.nih.gov/31592726/"

@@ -13,7 +13,7 @@ tags:
 - "Україна"
 - "дослідження"
 description: "ВООЗ оновила склад вакцини проти грипу: нові штами, тривалентна формула. Що це означає для України та як підготуватися."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.who.int/news/item/27-02-2026-recommendations-for-influenza-vaccine-composition-for-the-2026-2027-northern-hemisphere-season"
   - "https://pubmed.ncbi.nlm.nih.gov/41093140/"

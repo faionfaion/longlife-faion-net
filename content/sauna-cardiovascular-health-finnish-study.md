@@ -10,7 +10,7 @@ tags:
 - "Сауна"
 - "Довголіття"
 description: "Фінське дослідження KIHD показало: регулярна сауна знижує ризик серцевих захворювань на 50%"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pubmed.ncbi.nlm.nih.gov/25705824/"
 - "https://pubmed.ncbi.nlm.nih.gov/29502031/"

@@ -14,7 +14,7 @@ tags:
 - "Браян Джонсон"
 - "Україна"
 description: "PEARL не підтвердив головну гіпотезу, Джонсон припинив прийом: що знаємо про рапаміцин і довголіття у 2025"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12074816/"
   - "https://pubmed.ncbi.nlm.nih.gov/40188830/"

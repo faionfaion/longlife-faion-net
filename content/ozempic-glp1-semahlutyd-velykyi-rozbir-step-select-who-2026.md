@@ -16,7 +16,7 @@ tags:
 - "серце"
 - "м'язова маса"
 description: "Що показують дослідження GLP-1, що буває після відміни і що спитати в лікаря до старту."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/33567185/"
   - "https://pubmed.ncbi.nlm.nih.gov/36216945/"

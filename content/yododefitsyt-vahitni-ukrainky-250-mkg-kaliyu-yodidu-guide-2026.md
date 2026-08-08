@@ -15,7 +15,7 @@ tags:
 - "Україна"
 - "дослідження"
 description: "Йод у вагітності: U-крива IQ, регіональні дані по Україні, коли 150 мкг, а коли 250 мкг калію йодиду"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://academic.oup.com/jcem/article/104/12/5957/5421020"
   - "https://pubmed.ncbi.nlm.nih.gov/29030199/"

@@ -13,7 +13,7 @@ tags:
 - "спальня"
 - "здоровий сон"
 description: "Чому 18–19 °C у спальні покращують сон і як тепла ванна допомагає швидше заснути - з опорою на дослідження."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pmc.ncbi.nlm.nih.gov/articles/PMC3427038/"
 - "https://www.nature.com/articles/43366"

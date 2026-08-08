@@ -14,7 +14,7 @@ tags:
 - "силове тренування"
 - "ВООЗ"
 description: "Рукінг - ходьба з обтяженим рюкзаком, що поєднує кардіо та силове навантаження. Наука, безпека, стартовий протокол."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC8919998/"
   - "https://pubmed.ncbi.nlm.nih.gov/16679992/"

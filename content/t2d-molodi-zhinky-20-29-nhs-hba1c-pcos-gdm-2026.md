@@ -14,7 +14,7 @@ tags:
 - "вісцеральний жир"
 - "дослідження"
 description: "Молодий T2D у жінок: СПКЯ, гестаційний діабет, талія, HbA1c - що перевірити вже в 25."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(26)00176-6/fulltext"
   - "https://www.imperial.ac.uk/news/articles/2026/more-young-adults-developing-type-2-diabetes/"

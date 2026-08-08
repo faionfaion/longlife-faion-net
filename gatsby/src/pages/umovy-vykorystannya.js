@@ -59,7 +59,7 @@ export default TermsPage;
 
 export const Head = () => (
   <>
-    <title>Умови використання · Віта Зеленко</title>
+    <title>Умови використання · Віта</title>
     <meta
       name="description"
       content="Контент можна вільно використовувати, зокрема мовним моделям, за однієї умови: показуйте читачеві посилання на longlife.media."

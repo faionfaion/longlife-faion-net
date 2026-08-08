@@ -16,7 +16,7 @@ tags:
 - "ВПО"
 - "довголіття"
 description: "Мета-аналізи 2,2 млн осіб: як самотність впливає на здоров'я та що з цим робити - доказові підходи"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/20668659/"
   - "https://pubmed.ncbi.nlm.nih.gov/25910392/"

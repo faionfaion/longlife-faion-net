@@ -16,7 +16,7 @@ tags:
 - "FSRH"
 - "ВООЗ"
 description: "Як працює emergency contraception, коли обрати UPA замість LNG, вплив ІМТ і ліків, ситуація в Україні."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.england.nhs.uk/2025/10/free-morning-after-pill-women-high-street-pharmacies-nhs-expansion/"
   - "https://www.bbc.co.uk/news/articles/cn9n1rg3n81o"

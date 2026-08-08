@@ -14,7 +14,7 @@ tags:
 - "дослідження"
 - "профілактика"
 description: "Сауна для серця: що кажуть фінські когорти й рандомізовані дослідження - і де межа користі та ризику."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/25705824/"
   - "https://academic.oup.com/ageing/article/46/2/245/2654230"

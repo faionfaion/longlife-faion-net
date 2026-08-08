@@ -10,7 +10,7 @@ tags:
 - "Ферментація"
 - "Мікробіом"
 description: "Як зробити кефір, квашені овочі та комбучу вдома - покрокові рецепти з науковим обґрунтуванням"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pubmed.ncbi.nlm.nih.gov/34209552/"
 - "https://pubmed.ncbi.nlm.nih.gov/33882628/"

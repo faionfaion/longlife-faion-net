@@ -13,7 +13,7 @@ tags:
 - "дослідження"
 - "вечірній ритуал"
 description: "Chang 2015, Grønli 2016 і консенсус NSF 2024: як формат книги - папір, Kindle чи iPad - впливає на мелатонін і сон. Практичні правила освітлення."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.pnas.org/doi/10.1073/pnas.1418490112"
   - "https://pubmed.ncbi.nlm.nih.gov/27448477/"

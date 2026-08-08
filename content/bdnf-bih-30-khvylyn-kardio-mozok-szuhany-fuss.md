@@ -14,7 +14,7 @@ tags:
 - "психічне здоров'я"
 - "дослідження"
 description: "Що кажуть мета-аналізи про BDNF, ейфорію бігуна та реальний протокол 3×30 хв на тиждень."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/25455510/"
   - "https://pubmed.ncbi.nlm.nih.gov/28493624/"

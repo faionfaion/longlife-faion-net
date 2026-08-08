@@ -13,7 +13,7 @@ tags:
 - "прогулянки"
 - "здоровя літніх"
 description: "Скільки кроків реально потрібно людям 60+: розбір мета-аналізів Ding 2025, Paluch 2022 і Lee 2019."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(25)00164-1/fulltext"
   - "https://pubmed.ncbi.nlm.nih.gov/40713949/"

@@ -14,7 +14,7 @@ tags:
 - "профілактика"
 - "подорожі"
 description: "Тиждень після оголошення PHEIC: оксфордська вакцина-кандидат, оновлення ВООЗ і CDC, що це означає для України."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern"
   - "https://www.who.int/news/item/22-05-2026-first-meeting-of-the-ihr-emergency-committee-regarding-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-and-uganda-2026-temporary-recommendations"

@@ -10,7 +10,7 @@ tags:
 - "Довголіття"
 - "Метаболізм"
 description: "Мета-аналіз 2026: інтервальне голодування подовжує життя через аутофагію та зниження запалення"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pubmed.ncbi.nlm.nih.gov/39284561/"
 - "https://www.nejm.org/doi/full/10.1056/NEJMra1905136"

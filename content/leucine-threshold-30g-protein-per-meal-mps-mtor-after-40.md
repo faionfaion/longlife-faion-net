@@ -14,7 +14,7 @@ tags:
 - "старіння"
 - "рослинний білок"
 description: "Лейціновий поріг, розподіл білка протягом дня та практичні рекомендації для збереження м'язів після 40."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/25056502/"
   - "https://jissn.biomedcentral.com/articles/10.1186/s12970-018-0215-1"

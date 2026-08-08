@@ -11,7 +11,7 @@ tags:
 - "відпочинок між підходами"
 - "дослідження"
 description: "Чому паузи 2–3 хв між підходами дають більше сили й м'язів, ніж 60 секунд: що каже наука."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/26605807/"
   - "https://link.springer.com/article/10.1007/s40279-017-0788-x"

@@ -14,7 +14,7 @@ tags:
 - "переломи"
 - "гайдлайни"
 description: "USPSTF vs BHOF, FRAX українською, червоні прапорці і що робити чоловікам після 50 вже сьогодні."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/osteoporosis-screening"
   - "https://jamanetwork.com/journals/jama/fullarticle/2829238"

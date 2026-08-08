@@ -14,7 +14,7 @@ tags:
 - "вісь кишківник-мозок"
 - "дослідження"
 description: "Чи знижують пробіотики тривогу й депресію? Розбираємо РКД, мета-аналізи та силу доказів."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/23759244/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC6584030/"

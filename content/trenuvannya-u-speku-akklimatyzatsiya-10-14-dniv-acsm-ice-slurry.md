@@ -14,7 +14,7 @@ tags:
 - "гідратація"
 - "дослідження"
 description: "Як за 10-14 днів адаптувати тіло до спеки: 5 правил, ice slurry, WBGT і безпечні межі навантаження."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://journals.lww.com/acsm-csmr/fulltext/2021/09000/acsm_expert_consensus_statement_on_exertional_heat.10.aspx"
   - "https://bjsm.bmj.com/content/49/18/1164"

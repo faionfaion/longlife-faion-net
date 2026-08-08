@@ -15,7 +15,7 @@ tags:
 - "усвідомленість"
 - "ПТСР"
 description: "Як «слух тіла» пов'язаний із тривогою: три виміри інтероцепції, дані RCT і практичні кроки."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/29884281/"
   - "https://pubmed.ncbi.nlm.nih.gov/38873633/"

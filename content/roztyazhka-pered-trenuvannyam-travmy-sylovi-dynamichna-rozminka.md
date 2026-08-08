@@ -12,7 +12,7 @@ tags:
 - "розминка"
 - "дослідження"
 description: "Чому розтяжка не захищає від травм і що працює натомість: силові та динамічна розминка."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/24100287/"
   - "https://pubmed.ncbi.nlm.nih.gov/30131332/"

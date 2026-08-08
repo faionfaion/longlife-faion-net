@@ -13,7 +13,7 @@ tags:
 - "ВООЗ"
 - "дієтична кола"
 description: "IARC vs JECFA про аспартам: що означає група 2B і скільки Coke Zero реально безпечно."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.iarc.who.int/news-events/iarc-monographs-evaluation-of-the-carcinogenicity-of-aspartame-methyleugenol-and-isoeugenol/"
   - "https://monographs.iarc.who.int/wp-content/uploads/2023/07/Summary_of_findings_Aspartame.pdf"

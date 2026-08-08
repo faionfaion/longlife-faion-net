@@ -15,7 +15,7 @@ tags:
 - "клінічні дослідження"
 - "біохакінг"
 description: "Сенолітики D+Q: огляд досліджень 2024–2026, дані на мишах та людях, ризики і поради"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/29988130/"
   - "https://pubmed.ncbi.nlm.nih.gov/30279143/"

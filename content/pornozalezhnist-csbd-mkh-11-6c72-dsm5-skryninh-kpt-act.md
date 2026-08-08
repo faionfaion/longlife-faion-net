@@ -16,7 +16,7 @@ tags:
 - "дослідження"
 - "психотерапія"
 description: "МКХ-11 має код 6C72, DSM-5 - ні. Що це означає, як працює скринінг і що має докази з лікування."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/29352554/"
   - "https://www.semanticscholar.org/paper/9228244aa8ad6bede45236f3ad21758a306abd64"

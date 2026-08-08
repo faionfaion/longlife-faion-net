@@ -13,7 +13,7 @@ tags:
 - "когнітивна терапія"
 - "дослідження"
 description: "Sunday Scaries: чому з'являється недільна тривога і 4 техніки з доказовою базою, які реально допомагають."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.nature.com/articles/nrn3524"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC4276319/"

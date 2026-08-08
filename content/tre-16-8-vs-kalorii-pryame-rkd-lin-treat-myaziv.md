@@ -16,7 +16,7 @@ tags:
 - "дослідження"
 - "Cochrane"
 description: "Три прямі РКД: TRE 16:8 не виграє у підрахунку калорій. Що з м'язами і як робити це безпечно."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC11192144/"
   - "https://www.acpjournals.org/doi/10.7326/M23-0052"

@@ -14,7 +14,7 @@ tags:
 - "громадське здоровʼя"
 - "тестування"
 description: "Звіт ECDC 2026: рекорди гонореї й сифілісу в Європі, знижена чутливість до цефтриаксону та doxy-PEP"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.ecdc.europa.eu/en/news-events/bacterial-stis-reach-record-highs-europe-congenital-syphilis-cases-nearly-double"
   - "https://www.ecdc.europa.eu/en/news-events/rising-stis-europe-report-finds-critical-gaps-testing-and-prevention-policies"

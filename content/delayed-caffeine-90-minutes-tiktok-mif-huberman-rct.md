@@ -14,7 +14,7 @@ tags:
 - "кава"
 - "CYP1A2"
 description: "Розбираємо віральне правило «чекай 90 хв перед кавою»: що кажуть RCT, кортизол і метаболізм кофеїну."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC10930107/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC3805807/"

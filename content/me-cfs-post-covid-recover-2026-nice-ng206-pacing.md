@@ -15,7 +15,7 @@ tags:
 - "реабілітація"
 - "дослідження"
 description: "Чому GET більше не рекомендують при ME/CFS після COVID і як працює pacing - розбір RECOVER-Adult, NICE NG206 та CDC."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC11968624/"
   - "https://link.springer.com/article/10.1007/s11606-024-09290-9"

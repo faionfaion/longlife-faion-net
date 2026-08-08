@@ -14,7 +14,7 @@ tags:
 - "мета-аналіз"
 - "риб'ячий жир"
 description: "Три різні продукти під назвою «омега-3» - три різні докази. Розбираємо мета-аналізи чесно і без перебільшень."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.cochrane.org/evidence/CD003177_omega-3-intake-cardiovascular-disease"
   - "https://www.nejm.org/doi/full/10.1056/NEJMoa1812792"

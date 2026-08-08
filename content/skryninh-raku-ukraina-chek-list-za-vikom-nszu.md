@@ -16,7 +16,7 @@ tags:
 - "здоровя чоловіків"
 - "дослідження"
 description: "Чек-лист онкоскринінгу за віком: що рятує життя, що покриває НСЗУ, а на що не варто витрачати гроші."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/breast-cancer-screening"
   - "https://pubmed.ncbi.nlm.nih.gov/38687503/"

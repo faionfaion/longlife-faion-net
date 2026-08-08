@@ -13,7 +13,7 @@ tags:
 - "апное"
 - "дослідження"
 description: "Протокол power nap: чому 10–20 хв бадьорять, що таке «кавовий сон» і коли довга дрімота - сигнал."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/16796222/"
   - "https://pubmed.ncbi.nlm.nih.gov/9401427/"

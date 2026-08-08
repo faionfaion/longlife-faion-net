@@ -10,7 +10,7 @@ tags:
 - "Суглоби"
 - "Низький вплив"
 description: "Чому плавання - найкращий вибір при проблемах із суглобами та як почати плавати правильно"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pubmed.ncbi.nlm.nih.gov/26378942/"
 - "https://pubmed.ncbi.nlm.nih.gov/27428731/"

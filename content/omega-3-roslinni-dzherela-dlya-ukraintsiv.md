@@ -10,7 +10,7 @@ tags:
 - "Рослинна їжа"
 - "Добавки"
 description: "Рослинні джерела омега-3 жирних кислот, доступні в Україні: від насіння до водоростей"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pubmed.ncbi.nlm.nih.gov/36635239/"
 - "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10058071/"

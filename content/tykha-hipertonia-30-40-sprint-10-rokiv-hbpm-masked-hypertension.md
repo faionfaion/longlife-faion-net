@@ -15,7 +15,7 @@ tags:
 - "HBPM"
 - "ABPM"
 description: "Чому у 30–40 років важливо стежити за тиском вдома: дані IDHOCO, SPRINT і ESC 2024 простою мовою."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.nejm.org/doi/full/10.1056/NEJMoa1901281"
   - "https://jamanetwork.com/journals/jamacardiology/fullarticle/2797064"

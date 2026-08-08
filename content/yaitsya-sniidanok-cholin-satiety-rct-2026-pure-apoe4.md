@@ -14,7 +14,7 @@ tags:
 - "дослідження"
 - "харчування"
 description: "Розбираємо вірусний лайфхак про 3 яйця на сніданок: тилакоїди, холін, PURE, Zhao 2022 і U-крива."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12612008/"
   - "https://pubmed.ncbi.nlm.nih.gov/36237122/"

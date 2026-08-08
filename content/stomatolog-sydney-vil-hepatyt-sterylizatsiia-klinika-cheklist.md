@@ -14,7 +14,7 @@ tags:
 - "автоклав"
 - "безпека пацієнта"
 description: "Як перевірити стерилізацію в стоматології: автоклав класу B, спор-тести і 7 запитань лікарю."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.health.nsw.gov.au/news/Pages/20260513_00.aspx"
   - "https://www.bbc.com/news/articles/cvgzegw72jlo"

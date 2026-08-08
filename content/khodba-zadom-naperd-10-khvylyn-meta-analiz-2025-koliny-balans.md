@@ -14,7 +14,7 @@ tags:
 - "довголіття"
 - "дослідження"
 description: "Мета-аналіз 2025: retro-walking знижує біль у колінах, тренує баланс і спалює на 40% більше калорій за хвилину."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/40924430/"
   - "https://www.tandfonline.com/doi/full/10.1080/09593985.2025.2550532"

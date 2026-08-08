@@ -15,7 +15,7 @@ tags:
 - "вітамін D"
 - "переломи"
 description: "Кому потрібна DEXA і як порахувати ризик перелому за FRAX - гайд про діагностику «тихого» остеопорозу."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/osteoporosis-screening"
   - "https://jamanetwork.com/journals/jama/fullarticle/2829238"

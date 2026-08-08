@@ -16,7 +16,7 @@ tags:
 - "педіатрія"
 - "дослідження"
 description: "SCALE Kids про ліраглутид у дітей 6–11: результати, ризики, off-label статус в Україні."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.nejm.org/doi/abs/10.1056/NEJMoa2407379"
   - "https://pubmed.ncbi.nlm.nih.gov/39258838/"

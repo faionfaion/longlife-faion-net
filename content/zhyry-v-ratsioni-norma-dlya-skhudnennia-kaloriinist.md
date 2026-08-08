@@ -14,7 +14,7 @@ tags:
 - "порції"
 - "дієта"
 description: "Як непомітний надлишок жиру заважає схудненню, які жири справді корисні та як визначити свою добову норму."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/26278052/"
   - "https://pubmed.ncbi.nlm.nih.gov/26527511/"

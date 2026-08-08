@@ -16,7 +16,7 @@ tags:
 - "фітнес"
 - "довголіття"
 description: "Пік кісткової маси припадає на ~24 роки. Що робити у 20–29, щоб додати щільність: силові, стрибки, реальність про креатин і K2."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC4791473/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12560013/"

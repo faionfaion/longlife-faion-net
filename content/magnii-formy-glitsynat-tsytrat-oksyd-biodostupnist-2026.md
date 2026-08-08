@@ -16,7 +16,7 @@ tags:
 - "EFSA"
 - "нутриціологія"
 description: "Розбираємо свіжі дослідження 2025 року про форми магнію - під сон, тривогу, закрепи та памʼять."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC5652077/"
   - "https://pubmed.ncbi.nlm.nih.gov/28445426/"

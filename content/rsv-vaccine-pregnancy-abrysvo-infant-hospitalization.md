@@ -14,7 +14,7 @@ tags:
 - "бронхіоліт"
 - "ВООЗ"
 description: "Вакцина Abrysvo для вагітних знижує госпіталізацію немовлят із RSV на 80%. Розбираємо докази, безпеку та ситуацію в Україні."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/37018474/"
   - "https://www.gov.uk/government/news/rsv-maternal-vaccine-cuts-baby-hospital-admissions-by-up-to-85"

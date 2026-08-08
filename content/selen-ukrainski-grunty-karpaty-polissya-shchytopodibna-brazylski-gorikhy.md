@@ -15,7 +15,7 @@ tags:
 - "вагітність"
 - "веганство"
 description: "Український ґрунт бідний на селен, але добавки потрібні не всім. Розбираємо, кому вони справді корисні."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(11)61452-9/abstract"
   - "https://jamanetwork.com/journals/jama/fullarticle/183163"

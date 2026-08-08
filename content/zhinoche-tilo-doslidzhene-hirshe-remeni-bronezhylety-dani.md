@@ -14,7 +14,7 @@ tags:
 - "доказова медицина"
 - "ЗІЗ"
 description: "Чому медицина й техніка калібровані на чоловіче тіло - і що з цього справді доведено"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://statewatch.org.ua/en/publications/fit-to-defend-analysis-of-standard-combat-kit-provision-for-servicewomen-in-the-armed-forces-of-ukraine-2/"
   - "https://pubmed.ncbi.nlm.nih.gov/22021321/"

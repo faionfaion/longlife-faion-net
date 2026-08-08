@@ -1,5 +1,5 @@
 ---
-title: "Холодний душ: що показав мета-аналіз PLOS ONE 2025 і як почати безпечно - гід від Віти Зеленко"
+title: "Холодний душ: що показав мета-аналіз PLOS ONE 2025 і як почати безпечно - гід від Віти "
 slug: "kholodnyi-dush-2-khvylyny-meta-analiz-plos-one-2025-dofamin-imunitet"
 date: "2026-07-22"
 type: "research"
@@ -16,7 +16,7 @@ tags:
 - "аритмії"
 - "гіпертонія"
 description: "Розбір мета-аналізу 2025 про холодовий душ: стрес, запалення, дофамін, протокол Сьоберг і безпечний старт."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317615"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC11778651/"

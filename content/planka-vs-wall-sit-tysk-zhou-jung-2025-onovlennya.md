@@ -14,7 +14,7 @@ tags:
 - "дослідження"
 - "серцево-судинне здоров'я"
 description: "Свіжі дані 2025 про ізометрику та тиск: wall-sit, планка, безпечний протокол і чому важлива поступовість."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/37491419/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12357484/"

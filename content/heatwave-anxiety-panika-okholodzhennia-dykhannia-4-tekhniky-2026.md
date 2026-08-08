@@ -13,7 +13,7 @@ tags:
 - "саморегуляція"
 - "дослідження"
 description: "Чому спека провокує панічні симптоми і 4 доказові техніки, як заспокоїти тіло тут і зараз."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.bbc.co.uk/news/articles/cgk4xrznxn5o"
   - "https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(23)00104-3/fulltext"

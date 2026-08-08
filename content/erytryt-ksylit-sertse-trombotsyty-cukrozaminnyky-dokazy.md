@@ -14,7 +14,7 @@ tags:
 - "харчування"
 - "дослідження"
 description: "Чи шкодять серцю еритрит і ксиліт? Розбираємо ризики й чому це не привід повертатися до цукру."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/36849732/"
   - "https://academic.oup.com/eurheartj/article-abstract/45/27/2439/7683453"

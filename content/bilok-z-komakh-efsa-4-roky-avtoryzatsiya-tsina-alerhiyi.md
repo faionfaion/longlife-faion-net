@@ -13,7 +13,7 @@ tags:
 - "алергія"
 - "дослідження"
 description: "4 роки комах на полицях ЄС: білок, залізо, алергії, ціна - спокійний розбір даних без хайпу."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2021.6343"
   - "https://www.efsa.europa.eu/en/efsajournal/pub/6667"

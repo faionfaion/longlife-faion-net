@@ -14,7 +14,7 @@ tags:
 - "дослідження"
 - "відновлення"
 description: "DOMS не дорівнює росту м'язів: розбираємо дослідження і пояснюємо, на що орієнтуватись замість болю."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC5023708/"
   - "https://link.springer.com/article/10.1007/s00421-017-3792-9"

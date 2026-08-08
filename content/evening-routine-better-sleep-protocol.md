@@ -10,7 +10,7 @@ tags:
 - "Здоров'я"
 - "Стрес"
 description: "Покроковий 60-хвилинний протокол підготовки до сну, побудований на науці про циркадні ритми"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pubmed.ncbi.nlm.nih.gov/31672180/"
 - "https://pubmed.ncbi.nlm.nih.gov/30311830/"

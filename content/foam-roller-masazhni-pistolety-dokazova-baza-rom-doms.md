@@ -13,7 +13,7 @@ tags:
 - "DOMS"
 - "дослідження"
 description: "Фоум-ролер і пістолет: що каже наука про гнучкість, DOMS і відновлення - без маркетингових міфів."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/31628662/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC9474417/"

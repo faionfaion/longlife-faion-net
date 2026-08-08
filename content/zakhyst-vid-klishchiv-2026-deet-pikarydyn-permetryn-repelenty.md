@@ -16,7 +16,7 @@ tags:
 - "літо"
 - "безпека"
 description: "Доказовий гід 2026: які репеленти реально захищають від кліщів, а на чому не варто витрачати гроші."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.cdc.gov/ticks/prevention/index.html"
   - "https://pubmed.ncbi.nlm.nih.gov/12097535/"

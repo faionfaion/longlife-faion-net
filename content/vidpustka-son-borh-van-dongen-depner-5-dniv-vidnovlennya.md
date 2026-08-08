@@ -14,7 +14,7 @@ tags:
 - "мелатонін"
 - "ранкове світло"
 description: "Чому короткі вихідні не рятують від недосипу і як спланувати відпустку, щоб реально відновити сон і циркадний ритм."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://academic.oup.com/sleep/article-abstract/26/2/117/2709164"
   - "https://www.med.upenn.edu/uep/assets/user-content/documents/Van_Dongen_Dinges_Sleep_26_3_2003.pdf"

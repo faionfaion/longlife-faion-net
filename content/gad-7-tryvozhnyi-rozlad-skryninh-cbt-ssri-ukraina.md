@@ -16,7 +16,7 @@ tags:
 - "самодопомога"
 - "NICE"
 description: "GAD-7, критерії DSM-5, КПТ і СІЗЗС: як відрізнити тривожний розлад і куди звертатися в Україні."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/16717171/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC5992015/"

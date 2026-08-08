@@ -14,7 +14,7 @@ tags:
 - "дослідження"
 - "психічне здоровя"
 description: "Що кажуть RCT 2023–2025 про taVNS для депресії, тривоги, сну - і чому вушні кліпси з TikTok це не воно."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC8040977/"
   - "https://www.sciencedirect.com/science/article/pii/S0165032723006857"

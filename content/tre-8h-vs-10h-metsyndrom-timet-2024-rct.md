@@ -16,7 +16,7 @@ tags:
 - "циркадний ритм"
 - "інсулін"
 description: "TIMET 2024: 10-годинне вікно + середземноморський стиль дали скромний ефект. Прямого 8 vs 10 RCT досі немає."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/39348690/"
   - "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2771095"

@@ -16,7 +16,7 @@ tags:
 - "ВООЗ"
 - "профілактика"
 description: "Moderna розпочала фазу 3 випробувань мРНК-вакцини проти H5N1. Що це означає для України та кожного з нас."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.bbc.com/news/articles/cy41z0yj8mjo"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12793179/"

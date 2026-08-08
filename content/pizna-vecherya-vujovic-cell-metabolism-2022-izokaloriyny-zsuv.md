@@ -13,7 +13,7 @@ tags:
 - "вечеря"
 - "time-restricted eating"
 description: "Як зсув їжі на 4 години пізніше змінює гормони голоду, витрати енергії та обмін жиру - розбір РКД."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/36198293/"
   - "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(22)00397-7"

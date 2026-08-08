@@ -15,7 +15,7 @@ tags:
 - "витривалість"
 - "серцево-судинне здоров'я"
 description: "Як виміряти VO₂max вдома трьома тестами і покращити його на 10–15% за 12 тижнів - з посиланнями на дослідження."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2707428"
   - "https://pubmed.ncbi.nlm.nih.gov/17548726/"

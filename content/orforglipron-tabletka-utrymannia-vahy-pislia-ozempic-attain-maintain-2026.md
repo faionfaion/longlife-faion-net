@@ -16,7 +16,7 @@ tags:
 - "Ozempic"
 - "Foundayo"
 description: "Орфорглипрон у фазі 3b ATTAIN-MAINTAIN: чи допомагає таблетка утримати вагу після Ozempic і Mounjaro."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.nature.com/articles/s41591-026-04386-7"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC9542252/"

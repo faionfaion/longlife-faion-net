@@ -14,7 +14,7 @@ tags:
 - "стоматологія"
 - "дослідження"
 description: "Що ефективніше для гігієни міжзубних просторів після 50 - щіточки, нитка чи іригатор. Доказова база 2019–2026."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC6953268/"
   - "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012018.pub2/full"

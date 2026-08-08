@@ -16,7 +16,7 @@ tags:
 - "щитоподібна залоза"
 - "FDA"
 description: "Розбір TikTok-стеку для волосся: що каже наука про кремній, біотин і колаген - і де реальні ризики."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/17960402/"
   - "https://pubmed.ncbi.nlm.nih.gov/15724232/"

@@ -16,7 +16,7 @@ tags:
 - "запалення"
 - "дослідження"
 description: "Що показало стенфордське РКД: ферментовані продукти vs пробіотики в капсулах для мікробіому й запалення."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/34256014/"
   - "https://www.cell.com/cell/fulltext/S0092-8674(21)00754-6"

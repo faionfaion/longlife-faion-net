@@ -10,7 +10,7 @@ tags:
 - "Здоров'я"
 - "Відновлення"
 description: "Нові дослідження сну: якість може бути важливішою за кількість годин"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pubmed.ncbi.nlm.nih.gov/39125478/"
 - "https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(23)00172-5/fulltext"

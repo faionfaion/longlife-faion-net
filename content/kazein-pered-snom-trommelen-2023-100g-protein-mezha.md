@@ -15,7 +15,7 @@ tags:
 - "після 40"
 - "спортивне харчування"
 description: "Ізотопний RCT Trommelen 2023 переглянув межу 30 г білка: що це означає для тренувань і сну після 40."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC10772463/"
   - "https://pubmed.ncbi.nlm.nih.gov/22293105/"

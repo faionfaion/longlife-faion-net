@@ -16,7 +16,7 @@ tags:
 - "ЦГЗ"
 - "скринінг"
 description: "Як перевіритися на гепатит C безкоштовно в Україні: алгоритм, групи ризику, лікування за 12 тижнів."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.who.int/news/item/28-04-2026-efforts-to-eliminate-hepatitis-delivers-gains-but-more-action-needed-to-meet-2030-targets"
   - "https://www.who.int/teams/global-hiv-hepatitis-and-stis-programmes/hepatitis/reports/global-hepatitis-report-2026"

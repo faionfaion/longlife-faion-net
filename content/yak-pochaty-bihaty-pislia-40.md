@@ -10,7 +10,7 @@ tags:
 - "Здоров'я після 40"
 - "Тренування"
 description: "Покроковий план для початківців-бігунів після 40: від ходьби до перших 5 км без травм"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://www.acsm.org/education-resources/trending-topics-resources/physical-activity-guidelines"
 - "https://bjsm.bmj.com/content/54/15/898"

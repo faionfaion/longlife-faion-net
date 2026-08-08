@@ -13,7 +13,7 @@ tags:
 - "кава"
 - "жіноче здоров'я"
 description: "Огляд BMJ 2020, дані Chen і Gleason, метаболізм CYP1A2 та як безпечно знизити каву перед вагітністю."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/32843532/"
   - "https://pubmed.ncbi.nlm.nih.gov/26329421/"

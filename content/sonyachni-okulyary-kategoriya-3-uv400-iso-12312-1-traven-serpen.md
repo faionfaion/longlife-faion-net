@@ -14,7 +14,7 @@ tags:
 - "літо"
 - "діти"
 description: "UV400, категорія 3, wraparound: як обрати окуляри, що реально захищають очі влітку в Україні."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/21617534/"
   - "https://pubmed.ncbi.nlm.nih.gov/23722672/"

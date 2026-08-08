@@ -14,7 +14,7 @@ tags:
 - "серце"
 - "дослідження"
 description: "Як розпізнати обструктивне апное сну за 2 хвилини: STOP-BANG, ризики для серця і мозку та що працює."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/31300334/"
   - "https://pubmed.ncbi.nlm.nih.gov/40957495/"

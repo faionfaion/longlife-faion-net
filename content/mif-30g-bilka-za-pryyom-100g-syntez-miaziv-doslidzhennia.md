@@ -12,7 +12,7 @@ tags:
 - "дослідження"
 - "інтервальне голодування"
 description: "Дослідження зі 100 г білка за раз спростувало міф про «стелю засвоєння». Головне - добова норма."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/38118410/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC10772463/"

@@ -14,7 +14,7 @@ tags:
 - "здорове харчування"
 - "довголіття"
 description: "Зонтичний огляд про UPF: де докази сильні, а де ні, і чому не вся ультраоброблена їжа однаково шкідлива."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.bmj.com/content/384/bmj-2023-077310"
   - "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(19)30248-7"

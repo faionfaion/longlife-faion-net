@@ -14,7 +14,7 @@ tags:
 - "RCT"
 - "доказова медицина"
 description: "Новий сліпий RCT 2026 року не показав переваги мікродоз псилоцибіну над плацебо при депресії."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.researchsquare.com/article/rs-8319478/v1"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12926881/"

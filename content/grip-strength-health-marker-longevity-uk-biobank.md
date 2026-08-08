@@ -13,7 +13,7 @@ tags:
 - "саркопенія"
 - "UK Biobank"
 description: "Сила хвату передбачає ризики смерті краще за тиск. Норми за віком, наука, 3 вправи для покращення."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/29739772/"
   - "https://pubmed.ncbi.nlm.nih.gov/25982160/"

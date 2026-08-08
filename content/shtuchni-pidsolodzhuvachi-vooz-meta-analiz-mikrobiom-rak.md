@@ -14,7 +14,7 @@ tags:
 - "етикетки"
 - "цукор"
 description: "ВООЗ не рекомендує некалорійні підсолоджувачі для схуднення. Розбираємо дослідження, ризики та практичні поради."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.who.int/news/item/15-05-2023-who-advises-not-to-use-non-sugar-sweeteners-for-weight-control-in-newly-released-guideline"
   - "https://pubmed.ncbi.nlm.nih.gov/28716847/"

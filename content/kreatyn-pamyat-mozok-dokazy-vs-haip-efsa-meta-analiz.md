@@ -14,7 +14,7 @@ tags:
 - "недосип"
 - "вегетаріанство"
 description: "Критичний доказовий розбір: що дослідження справді кажуть про креатин, пам'ять, втому і мозок."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pmc.ncbi.nlm.nih.gov/articles/PMC9999677/"
 - "https://pubmed.ncbi.nlm.nih.gov/36644917/"

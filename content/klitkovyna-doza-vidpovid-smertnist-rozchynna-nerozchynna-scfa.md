@@ -13,7 +13,7 @@ tags:
 - "мікробіом"
 - "холестерин"
 description: "Що мета-аналізи ВООЗ кажуть про 25–29 г клітковини для серця й кишечника та чому добавка не замінить їжу."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/30638909/"
   - "https://www.thelancet.com/article/S0140-6736(18)31809-9/fulltext"

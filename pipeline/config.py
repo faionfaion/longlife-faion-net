@@ -135,8 +135,8 @@ CONTENT_TYPES = {
 }
 
 # Author
-AUTHOR_NAME = "\u0412\u0456\u0442\u0430 \u0417\u0435\u043b\u0435\u043d\u043a\u043e"
-AUTHOR_NAME_EN = "Vita Zelenko"
+AUTHOR_NAME = "Віта"
+AUTHOR_NAME_EN = "Vita"
 
 # Topic hashtags
 TOPIC_TAGS = {

@@ -13,7 +13,7 @@ tags:
 - "реабілітація"
 - "червоні прапорці"
 description: "Чому при болі в попереку МРТ і постільний режим зазвичай шкодять, а рух - перша лінія за гайдлайнами."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/29573872/"
   - "https://www.thelancet.com/article/S0140-6736(18)30489-6/fulltext"

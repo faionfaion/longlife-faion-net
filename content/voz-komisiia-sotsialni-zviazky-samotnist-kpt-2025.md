@@ -13,7 +13,7 @@ tags:
 - "дослідження"
 - "Україна"
 description: "Доповідь Комісії ВООЗ про самотність: чому «спілкуйся більше» не працює і що показує наука про КПТ."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.who.int/news/item/30-06-2025-social-connection-linked-to-improved-heath-and-reduced-risk-of-early-death"
   - "https://www.who.int/publications/i/item/9789240112360"

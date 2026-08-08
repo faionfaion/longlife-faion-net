@@ -13,7 +13,7 @@ tags:
 - "дослідження"
 - "здорові звички"
 description: "Чому вечір п'ятниці з вином робить вихідні розбитими: наука про REM, температуру тіла і як мінімізувати шкоду."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/39631226/"
   - "https://academic.oup.com/sleep/article/47/4/zsae003/7515846"

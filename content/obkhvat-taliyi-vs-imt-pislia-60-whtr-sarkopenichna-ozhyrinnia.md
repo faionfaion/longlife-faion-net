@@ -16,7 +16,7 @@ tags:
 - "вісцеральний жир"
 - "здоров'я 60+"
 description: "Чому сантиметрова стрічка після 60 інформативніша за ваги - свіжі дані UK Biobank, JACC і PLOS ONE."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC11196863/"
   - "https://www.acc.org/Latest-in-Cardiology/Journal-Scans/2026/06/29/15/38/Novel-Sarcopenic-Obesity-Index"

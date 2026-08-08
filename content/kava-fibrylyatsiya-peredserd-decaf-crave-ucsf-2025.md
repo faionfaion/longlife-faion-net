@@ -15,7 +15,7 @@ tags:
 - "CRAVE"
 - "кардіологія"
 description: "DECAF 2025: щоденна кава знизила рецидив AF на 39% протягом 6 місяців після кардіоверсії. Розбираємо докази."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://jamanetwork.com/journals/jama/fullarticle/2841253"
   - "https://www.acc.org/latest-in-cardiology/clinical-trials/2025/12/17/18/59/decaf"

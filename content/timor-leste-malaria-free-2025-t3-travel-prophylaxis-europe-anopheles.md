@@ -16,7 +16,7 @@ tags:
 - "Європа"
 - "клімат"
 description: "Як Тимор-Лешті перервав передачу малярії, чому вона повертається до Європи і що взяти в тропіки"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.who.int/news/item/24-07-2025-timor-leste-certified-malaria-free-by-who"
   - "https://www.ncbi.nlm.nih.gov/books/NBK620970/"

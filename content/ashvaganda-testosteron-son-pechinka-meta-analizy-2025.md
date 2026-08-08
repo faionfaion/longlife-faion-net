@@ -16,7 +16,7 @@ tags:
 - "дослідження"
 - "біохакінг"
 description: "Мета-аналізи про ашваганду: стрес, тестостерон, сон і сигнали безпеки для печінки - без TikTok-міфів."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/25405876/"
   - "https://pubmed.ncbi.nlm.nih.gov/30854916/"

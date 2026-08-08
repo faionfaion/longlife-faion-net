@@ -16,7 +16,7 @@ tags:
 - "біохакінг"
 - "печінка"
 description: "Чесний огляд мета-аналізів 2022–2025: що працює, що ні, і кому адаптогени протипоказані."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/36017529/"
   - "https://onlinelibrary.wiley.com/doi/10.1002/ptr.7598"

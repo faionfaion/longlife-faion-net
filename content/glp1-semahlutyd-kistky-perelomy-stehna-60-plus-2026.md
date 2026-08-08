@@ -16,7 +16,7 @@ tags:
 - "60+"
 - "дослідження 2026"
 description: "Дві когорти 2026 дали протилежні результати про GLP-1 і переломи. Розбираємо, чому - і що робити 60+."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2852068"
   - "https://academic.oup.com/jcem/article-abstract/111/7/1949/8471581"

@@ -15,7 +15,7 @@ tags:
 - "дослідження"
 - "довголіття"
 description: "Оновлені рекомендації ВООЗ 2026: 14 факторів ризику деменції, PAF 45% і що робити вже сьогодні."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.who.int/news/item/15-07-2026-new-who-guidelines--up-to-45--of-dementia-risk-could-be-prevented-or-delayed"
   - "https://www.paho.org/en/news/16-7-2026-new-who-guidelines-45-dementia-risk-could-be-prevented-or-delayed"

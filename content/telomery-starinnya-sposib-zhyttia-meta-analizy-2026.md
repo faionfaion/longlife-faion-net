@@ -14,7 +14,7 @@ tags:
 - "біомаркери"
 - "мета-аналіз"
 description: "Чи можна «подовжити» теломери способом життя? Що насправді показують мета-аналізи - без хайпу."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/30254001/"
   - "https://pubmed.ncbi.nlm.nih.gov/15574496/"

@@ -16,7 +16,7 @@ tags:
 - "Lancet"
 - "МОЗ України"
 description: "Слух і мозок після 45: ACHIEVE, дані на 573 тис. людей, критерії FDA, програма МОЗ і чек-лист дій."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)01406-X/abstract"
   - "https://pubmed.ncbi.nlm.nih.gov/37478886/"

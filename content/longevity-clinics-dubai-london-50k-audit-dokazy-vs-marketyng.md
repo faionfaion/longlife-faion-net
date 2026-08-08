@@ -15,7 +15,7 @@ tags:
 - "сенолітики"
 - "плазмаферез"
 description: "Розбір протоколів longevity-клінік: MRI, Galleri, плазмаферез, сенолітики - що працює, а що маркетинг."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)01700-2/abstract"
   - "https://grail.com/press-releases/grail-pathfinder-2-results-show-galleri-multi-cancer-early-detection-blood-test-increased-cancer-detection-more-than-seven-fold-when-added-to-uspstf-a-and-b-recommended-screenings/"

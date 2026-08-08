@@ -14,7 +14,7 @@ tags:
 - "інфекції"
 - "Україна"
 description: "Що таке антибіотикорезистентність, як Україна потрапила на передову цієї проблеми та що може зробити кожен"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/35065702/"
   - "https://pubmed.ncbi.nlm.nih.gov/39299261/"

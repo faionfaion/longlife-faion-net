@@ -14,7 +14,7 @@ tags:
 - "реабілітація"
 - "Україна"
 description: "Огляд доказової бази тривалої COVID: що працює, що ні, і що робити вже зараз."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.who.int/publications/i/item/WHO-2019-nCoV-Post_COVID-19_condition-Clinical_case_definition-2021.1"
   - "https://www.nature.com/articles/s41579-022-00846-2"

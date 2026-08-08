@@ -16,7 +16,7 @@ tags:
 - "доказова медицина"
 - "здоровя кишківника"
 description: "Cochrane 2025: пробіотики знижують ризик C. difficile на 60%, але NNT=65. Кому реально варто пити Ентерол, як не купитися на маркетинг і чому час прийому критичний."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/40931979/"
   - "https://www.cochrane.org/evidence/CD006095"

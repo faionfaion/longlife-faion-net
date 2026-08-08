@@ -14,7 +14,7 @@ tags:
 - "pH"
 - "домашні пробіотики"
 description: "Як безпечно ферментувати вдома: pH, температура, сіль, ризики ботулізму і пліснявих токсинів."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://ift.onlinelibrary.wiley.com/doi/10.1111/1750-3841.14068"
   - "https://ift.onlinelibrary.wiley.com/doi/10.1111/1750-3841.16029"

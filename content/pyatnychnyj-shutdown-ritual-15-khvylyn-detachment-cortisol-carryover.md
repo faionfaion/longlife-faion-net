@@ -14,7 +14,7 @@ tags:
 - "вихідні"
 - "продуктивність"
 description: "15-хвилинний п'ятничний ритуал закриття тижня: як знизити кортизол і уникнути Sunday scaries."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://onlinelibrary.wiley.com/doi/abs/10.1002/job.1924"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC5233687/"

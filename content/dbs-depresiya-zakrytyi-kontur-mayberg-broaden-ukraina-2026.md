@@ -15,7 +15,7 @@ tags:
 - "ТМС"
 - "Україна"
 description: "DBS при резистентній депресії у 2026: дані 2023–2025, чому чекаємо TRANSCEND і що доступно в Україні"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.nature.com/articles/s41586-023-06541-3"
   - "https://www.nature.com/articles/s41591-021-01480-w"

@@ -13,7 +13,7 @@ tags:
 - "очищення мозку"
 - "дослідження"
 description: "Як глімфатична система очищує мозок від токсинів під час сну і що робити для кращого очищення"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/22896675/"
   - "https://pubmed.ncbi.nlm.nih.gov/24136970/"

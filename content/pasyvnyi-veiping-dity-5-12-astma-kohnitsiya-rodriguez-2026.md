@@ -14,7 +14,7 @@ tags:
 - "респіраторне здоров'я"
 - "Україна"
 description: "Систематичний огляд 2026: пасивний вейпінг, астма і мозок у дітей 5–12 років."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/40631933/"
   - "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2821086"

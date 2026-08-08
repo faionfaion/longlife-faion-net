@@ -12,7 +12,7 @@ tags:
 - "медичні технології"
 - "охорона здоров'я"
 description: "ChatGPT допоміг знайти рідкісний діагноз, але дослідження показують складну картину. Розбираємо докази, ризики та практичні поради."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.bbc.com/news/articles/cx24njzzkgjo"
   - "https://pubmed.ncbi.nlm.nih.gov/40279517/"

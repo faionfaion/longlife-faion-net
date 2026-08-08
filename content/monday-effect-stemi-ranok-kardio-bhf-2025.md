@@ -14,7 +14,7 @@ tags:
 - "дослідження"
 - "кардіологія"
 description: "Що кажуть кардіологічні реєстри про понеділковий ранок - і як безпечно планувати тренування тижня."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.bhf.org.uk/informationsupport/heart-matters-magazine/news/behind-the-headlines/heart-attack-monday"
   - "https://www.rcsi.com/dublin/news-and-events/news/news-article/2023/06/deadly-heart-attacks-are-more-common-on-a-monday"

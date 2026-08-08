@@ -14,7 +14,7 @@ tags:
 - "діагностика"
 - "інфекційні хвороби"
 description: "ВООЗ прекваліфікувала перші ліки від малярії для немовлят і нові тести - що це змінює і чому важливо для України"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.who.int/news/item/24-04-2026-who-prequalifies-first-ever-malaria-treatment-for-newborns-and-infants-adds-new-diagnostic-tests"
   - "https://www.novartis.com/news/media-releases/novartis-malaria-treatment-coartem-baby-receives-who-prequalification-paving-way-greater-access-newborns-and-young-infants"

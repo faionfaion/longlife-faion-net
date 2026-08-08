@@ -14,7 +14,7 @@ tags:
 - "глікемічний контроль"
 - "дослідження"
 description: "Нові дані 2025: 10-хв ходьба після їжі дає ~90% ефекту 30-хв. Де плато дозозалежної кривої глюкози."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.nature.com/articles/s41598-025-07312-y"
   - "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1708301/full"

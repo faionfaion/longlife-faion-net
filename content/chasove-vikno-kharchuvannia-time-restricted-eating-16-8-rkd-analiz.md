@@ -17,7 +17,7 @@ tags:
 - "біохакінг"
 - "харчування"
 description: "Аналіз 10+ РКД та мета-аналізів щодо time-restricted eating: вага, метаболізм, циркадні ритми, практичні рекомендації."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/35443107/"
   - "https://pubmed.ncbi.nlm.nih.gov/29754952/"

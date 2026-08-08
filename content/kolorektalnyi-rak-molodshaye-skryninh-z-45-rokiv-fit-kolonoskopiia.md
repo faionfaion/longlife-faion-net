@@ -14,7 +14,7 @@ tags:
 - "здоров'я кишківника"
 - "Україна"
 description: "Чому скринінг колоректального раку радять із 45 років: FIT, колоноскопія, симптоми й реалії України."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/colorectal-cancer-screening"
   - "https://jamanetwork.com/journals/jama/fullarticle/2779985"

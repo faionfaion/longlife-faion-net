@@ -14,7 +14,7 @@ tags:
 - "преддіабет"
 - "доказова медицина"
 description: "Свіжі дані 2025 про CGM для здорових: що показують дослідження і кому сенсор глюкози справді потрібен."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://academic.oup.com/jcem/article/104/10/4356/5479355"
   - "https://pubmed.ncbi.nlm.nih.gov/19885137/"

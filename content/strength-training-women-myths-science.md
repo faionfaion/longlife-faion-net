@@ -10,7 +10,7 @@ tags:
 - "Жіноче здоров'я"
 - "Програма тренувань"
 description: "Чому жінкам необхідні силові тренування, які міфи заважають і з чого почати"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pubmed.ncbi.nlm.nih.gov/35771653/"
 - "https://pubmed.ncbi.nlm.nih.gov/28819603/"

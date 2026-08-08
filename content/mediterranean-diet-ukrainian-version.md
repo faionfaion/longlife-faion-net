@@ -10,7 +10,7 @@ tags:
 - "Українська кухня"
 - "Здорове харчування"
 description: "Як адаптувати середземноморську дієту до українських продуктів та традицій"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pubmed.ncbi.nlm.nih.gov/38157856/"
 - "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"

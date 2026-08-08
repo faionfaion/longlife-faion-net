@@ -10,7 +10,7 @@ tags:
 - "Рецепти"
 - "Здоров'я"
 description: "Повний гід з протизапального харчування: продукти, рецепти, тижневе меню"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pubmed.ncbi.nlm.nih.gov/37167250/"
 - "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10252686/"

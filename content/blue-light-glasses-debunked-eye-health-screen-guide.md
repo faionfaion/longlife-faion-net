@@ -13,7 +13,7 @@ tags:
 - "ергономіка"
 - "Cochrane"
 description: "Що каже наука про окуляри з блакитним фільтром, моргання, правило 20-20-20 та профілактику міопії"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/37593770/"
   - "https://www.aao.org/eye-health/tips-prevention/should-you-be-worried-about-blue-light"

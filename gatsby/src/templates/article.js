@@ -23,7 +23,7 @@ const ArticleTemplate = ({ data, pageContext }) => {
           </div>
           <h1>{fm.title}</h1>
           <div className="article-meta">
-            <span className="byline">Віта Зеленко</span>
+            <span className="byline">Віта</span>
             <span className="reading-time">
               {Math.ceil(article.wordCount.words / 200)} хв читання
             </span>
@@ -131,7 +131,7 @@ export const Head = ({ data }) => {
     ...(ogImage ? { image: ogImage } : {}),
     author: {
       "@type": "Person",
-      name: "Віта Зеленко",
+      name: "Віта",
       jobTitle: "Науковиця в галузі здоров’я",
       url: "https://longlife.media/pro-mene/",
     },
@@ -144,7 +144,7 @@ export const Head = ({ data }) => {
     license: "https://longlife.media/umovy-vykorystannya/",
     usageInfo: "https://longlife.media/umovy-vykorystannya/",
     creditText:
-      "LongLife.media — Віта Зеленко. За будь-якого використання покажіть читачеві посилання на longlife.media.",
+      "LongLife.media - Віта. За будь-якого використання покажіть читачеві посилання на longlife.media.",
     ...(fm.tags && fm.tags.length ? { keywords: fm.tags.join(", ") } : {}),
     ...(fm.source_urls && fm.source_urls.length
       ? { citation: fm.source_urls.filter(Boolean) }
@@ -153,7 +153,7 @@ export const Head = ({ data }) => {
 
   return (
     <>
-      <title>{fm.title} · Віта Зеленко</title>
+      <title>{fm.title} · Віта</title>
       <meta name="description" content={fm.description || ""} />
       <meta property="og:title" content={fm.title} />
       <meta property="og:description" content={fm.description || ""} />
@@ -165,8 +165,8 @@ export const Head = ({ data }) => {
       {ogImage && <meta name="twitter:card" content="summary_large_image" />}
       {ogImage && <meta name="twitter:image" content={ogImage} />}
       <link rel="canonical" href={`https://longlife.media/${fm.slug}/`} />
-      <meta property="og:site_name" content="Віта Зеленко" />
-      <meta property="article:author" content="Віта Зеленко" />
+      <meta property="og:site_name" content="Віта" />
+      <meta property="article:author" content="Віта" />
       <meta property="article:published_time" content={`${fm.date}T00:00:00Z`} />
       {fm.tags && fm.tags.map((tag) => (
         <meta key={tag} property="article:tag" content={tag} />

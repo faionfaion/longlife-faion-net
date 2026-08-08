@@ -15,7 +15,7 @@ tags:
 - "сови"
 - "інсулінорезистентність"
 description: "UK Biobank 2024: ризик діабету й ІХС дає не хронотип, а misalignment між внутрішнім годинником і графіком сну."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/39629060/"
   - "https://www.medrxiv.org/content/10.1101/2024.06.28.24309628v1"

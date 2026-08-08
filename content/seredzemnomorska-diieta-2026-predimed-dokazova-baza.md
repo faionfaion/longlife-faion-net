@@ -14,7 +14,7 @@ tags:
 - "дослідження"
 - "профілактика"
 description: "Що показує PREDIMED, у чому різниця відносного й абсолютного ризику та як це застосувати."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.nejm.org/doi/full/10.1056/NEJMoa1800389"
   - "https://www.nejm.org/doi/full/10.1056/NEJMc1806491"

@@ -14,7 +14,7 @@ tags:
 - "інфаркт"
 - "ожиріння"
 description: "Дослідження SELECT: семаглутид знижує серцево-судинний ризик на 20%. Кому підходить, механізми дії, доступність в Україні"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.nejm.org/doi/full/10.1056/NEJMoa2307563"
   - "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01498-3/fulltext"

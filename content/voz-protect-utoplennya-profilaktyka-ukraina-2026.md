@@ -14,7 +14,7 @@ tags:
 - "літо"
 - "Україна"
 description: "ВООЗ представила PROTECT - сім стратегій проти утоплень. В Україні тонуть удвічі більше, ніж у ЄС. Що робити батькам біля води - практичний чек-лист."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.who.int/news/item/23-07-2026-who-launches-seven-strategies-to-prevent-drowning"
   - "https://www.who.int/publications/b/78723"

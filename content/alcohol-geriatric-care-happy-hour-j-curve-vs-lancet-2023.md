@@ -13,7 +13,7 @@ tags:
 - "ВООЗ"
 - "якість життя"
 description: "Закон про «щасливу годину» в будинках престарілих: що каже наука про келих вина у 75+ - J-крива, дані Lancet 2023 і ризики падінь."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.cbsnews.com/minnesota/news/grandparents-happy-hour-bill/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC3237714/"

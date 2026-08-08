@@ -14,7 +14,7 @@ tags:
 - "скринінг"
 - "дослідження"
 description: "Діагнози діабету 2 типу у жінок до 40 зросли на 47% за 6 років. Розбираємо, чому в групі ризику 20–29 і які маркери перевірити до 30."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.diabetes.org.uk/about-us/news-and-views/type-2-diabetes-rises-twice-fast-younger-women-compared-older-women"
   - "https://pubmed.ncbi.nlm.nih.gov/40570862/"

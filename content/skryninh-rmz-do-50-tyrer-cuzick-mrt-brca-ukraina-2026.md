@@ -14,7 +14,7 @@ tags:
 - "жіноче здоров'я"
 - "онкологія"
 description: "Чому мамо у молодих пропускає пухлини, як оцінити свій ризик за Tyrer-Cuzick і коли говорити з лікарем про МРТ."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.nature.com/articles/s41416-025-03329-2"
   - "https://www.bbc.co.uk/news/articles/ckgv652r625o"

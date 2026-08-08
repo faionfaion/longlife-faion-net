@@ -14,7 +14,7 @@ tags:
 - "швидкість"
 - "велошолом"
 description: "ВООЗ 2026: смертність на дорогах −21% у світі, але росте в Україні. Швидкість, ЧМТ і зв'язок із деменцією."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.who.int/news/item/20-07-2026-road-deaths-fall-by-21--globally-but-stronger-action-is-needed-to-save-lives"
   - "https://opendatabot.ua/en/analytics/dtp-2024-8"

@@ -14,7 +14,7 @@ tags:
 - "Україна"
 - "дозування"
 description: "Мета-аналіз 2025: щоденний вітамін D знижує ризик ГРВІ на 8%. Чому болюс-режим не працює і які дози розумні."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.thelancet.com/journals/landia/article/PIIS2213-8587(24)00348-6/fulltext"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12056739/"

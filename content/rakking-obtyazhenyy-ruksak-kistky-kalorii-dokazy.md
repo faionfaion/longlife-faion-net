@@ -14,7 +14,7 @@ tags:
 - "силові тренування"
 - "дослідження"
 description: "Ракінг спалює більше калорій - це доведено. А чи зміцнює кістки? Розбираємо докази чесно."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://journals.lww.com/acsm-msse/fulltext/2024/06000/metabolic_costs_of_walking_with_weighted_vests.19.aspx"
   - "https://pubmed.ncbi.nlm.nih.gov/40540267/"

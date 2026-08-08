@@ -14,7 +14,7 @@ tags:
 - "сон"
 - "дослідження"
 description: "Ранкова кава пов'язана з нижчою смертністю, ніж кава весь день: розбираємо дослідження та його обмеження."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC11843000/"
   - "https://academic.oup.com/eurheartj/article/46/8/749/7928425"

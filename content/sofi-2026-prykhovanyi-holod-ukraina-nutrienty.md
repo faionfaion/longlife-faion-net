@@ -16,7 +16,7 @@ tags:
 - "ВПО"
 - "SOFI 2026"
 description: "SOFI 2026: глобальний голод знижується, але прихований - зростає. Що це означає для України"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.who.int/news/item/21-07-2026-un-report--global-hunger-levels-ease-for-third-consecutive-year-as-regional-disparities-persist"
   - "https://www.who.int/publications/m/item/the-state-of-food-security-and-nutrition-in-the-world-2026"

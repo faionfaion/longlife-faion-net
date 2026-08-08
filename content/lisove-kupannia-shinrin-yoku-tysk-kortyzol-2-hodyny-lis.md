@@ -15,7 +15,7 @@ tags:
 - "стрес"
 - "дослідження"
 description: "Чому 2 години в лісі знижують тиск і кортизол сильніше за міський парк - доказова база і практика."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/28814305/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC5559777/"

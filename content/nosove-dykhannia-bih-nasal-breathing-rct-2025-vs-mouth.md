@@ -13,7 +13,7 @@ tags:
 - "дослідження"
 - "фітнес"
 description: "RCT 2025 про носове дихання на бігу: що працює, що ні, і чому нижчий пульс - не завжди перемога."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://journals.aiac.org.au/index.php/IJKSS/article/view/4400"
   - "https://journals.aiac.org.au/index.php/IJKSS/article/view/3079"

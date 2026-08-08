@@ -16,7 +16,7 @@ tags:
 - "профілактика"
 - "дослідження"
 description: "Спалах Ебола Bundibugyo 2026: чому ВООЗ оголосила PHEIC і що робити українцям"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern"
   - "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON602"

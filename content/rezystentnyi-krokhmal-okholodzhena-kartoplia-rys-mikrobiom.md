@@ -13,7 +13,7 @@ tags:
 - "кишечник"
 - "глюкоза"
 description: "Як охолодження змінює крохмаль у картоплі, рисі та макаронах - і що це дає здоров'ю кишечника."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC3823506/"
   - "https://pubmed.ncbi.nlm.nih.gov/32959735/"

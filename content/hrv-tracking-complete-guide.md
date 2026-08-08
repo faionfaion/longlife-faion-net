@@ -10,7 +10,7 @@ tags:
 - "Гаджети"
 - "Здоров'я серця"
 description: "Як вимірювати HRV, що означають показники та як використовувати дані"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://www.frontiersin.org/articles/10.3389/fphys.2023.1248474/full"
 - "https://pubmed.ncbi.nlm.nih.gov/37578539/"

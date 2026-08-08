@@ -13,7 +13,7 @@ tags:
 - "дослідження"
 - "профілактика"
 description: "KIHD показала користь від 4–7 сеансів. А що з режимом «тільки на вихідних»? Розбираємо чесно."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/25705824/"
   - "https://pubmed.ncbi.nlm.nih.gov/30486813/"

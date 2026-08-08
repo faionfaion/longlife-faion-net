@@ -13,7 +13,7 @@ tags:
 - "жіноче здоров'я"
 - "чоловіче здоров'я"
 description: "Що показують дослідження про фертильність, AMH-тести, чоловічий вік і заморожування яйцеклітин - без паніки."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/birthsummarytablesenglandandwales/2024"
   - "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/conceptionandfertilityrates/articles/howisthefertilityratechanginginenglandandwales/2024-10-28"

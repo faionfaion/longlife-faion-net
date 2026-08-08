@@ -13,7 +13,7 @@ tags:
 - "профілактика"
 - "ліки"
 description: "TIME, BedMed і мета-аналізи 2025: чи справді має значення час прийому ліків від тиску."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)01786-X/fulltext"
   - "https://jamanetwork.com/journals/jama/fullarticle/2833860"

@@ -13,7 +13,7 @@ tags:
 - "дослідження"
 - "імунітет"
 description: "Метод Пеннебейкера: що каже наука про письмо як інструмент для обробки травматичного досвіду"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/3372832/"
   - "https://pubmed.ncbi.nlm.nih.gov/17073523/"

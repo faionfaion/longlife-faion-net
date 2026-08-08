@@ -15,7 +15,7 @@ tags:
 - "дослідження"
 - "довголіття"
 description: "Locus coeruleus як ранній маркер Альцгеймера: докази LC-МРТ, обмеження і що робити вже сьогодні."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.nature.com/articles/s43587-024-00626-y"
   - "https://pubmed.ncbi.nlm.nih.gov/38664576/"

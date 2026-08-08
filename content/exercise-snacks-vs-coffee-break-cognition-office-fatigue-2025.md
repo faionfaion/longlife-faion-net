@@ -14,7 +14,7 @@ tags:
 - "VO2max"
 - "рухові паузи"
 description: "Чому 3 хвилини руху біля стола можуть підтримати увагу не гірше за каву - і як вписати це в робочий день."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12197268/"
   - "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1767939/full"

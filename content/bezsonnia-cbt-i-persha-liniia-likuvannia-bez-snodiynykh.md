@@ -13,7 +13,7 @@ tags:
 - "психічне здоровя"
 - "дослідження"
 description: "CBT-I - перша лінія при хронічному безсонні, а не снодійне: докази, 5 компонентів і практичні кроки."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.acpjournals.org/doi/10.7326/M14-2841"
   - "https://www.acpjournals.org/doi/10.7326/M15-2175"

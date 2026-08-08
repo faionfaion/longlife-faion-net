@@ -16,7 +16,7 @@ tags:
 - "довголіття"
 - "здоров'я кісток"
 description: "Як зберегти кістки після 35: силові вправи, кальцій, вітамін D, FRAX і DEXA - науковий гайд з профілактики остеопорозу"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/32399891/"
   - "https://pubmed.ncbi.nlm.nih.gov/30861219/"

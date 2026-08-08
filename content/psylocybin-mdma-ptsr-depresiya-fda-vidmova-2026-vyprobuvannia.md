@@ -14,7 +14,7 @@ tags:
 - "FDA"
 - "дослідження"
 description: "Псилоцибін і MDMA проти депресії та ПТСР: що кажуть випробування і чому FDA поки обережна."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.nejm.org/doi/full/10.1056/NEJMoa2032994"
   - "https://pubmed.ncbi.nlm.nih.gov/36322843/"

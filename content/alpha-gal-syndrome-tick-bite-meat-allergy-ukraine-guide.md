@@ -14,7 +14,7 @@ tags:
 - "дослідження"
 - "Україна"
 description: "Alpha-gal синдром: як укус Ixodes ricinus запускає алергію на червоне м'ясо і що це значить для України."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.cdc.gov/mmwr/volumes/75/wr/mm7525a1.htm"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12166669/"

@@ -9,7 +9,7 @@ const Layout = ({ children }) => (
     <header className="site-header">
       <div className="container">
         <Link to="/" className="site-logo">
-          <span className="logo-text">Віта Зеленко</span>
+          <span className="logo-text">Віта</span>
           <span className="logo-tagline">
             про здоров’я, з поглядом на дослідження
           </span>
@@ -30,7 +30,7 @@ const Layout = ({ children }) => (
     <main className="container">{children}</main>
     <footer className="site-footer">
       <div className="container">
-        <p className="footer-brand">Віта Зеленко</p>
+        <p className="footer-brand">Віта</p>
         <p className="footer-desc">
           Я науковиця в галузі здоров’я. Читаю дослідження й пишу тут про те,
           <br />
@@ -52,7 +52,7 @@ const Layout = ({ children }) => (
           <a href="/sitemap-index.xml">Sitemap</a>
         </div>
         <p className="footer-copyright">
-          &copy; {new Date().getFullYear()} Віта Зеленко
+          &copy; {new Date().getFullYear()} Віта
         </p>
       </div>
     </footer>

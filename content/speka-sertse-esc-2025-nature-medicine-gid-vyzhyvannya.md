@@ -14,7 +14,7 @@ tags:
 - "ССЗ"
 - "тепловий удар"
 description: "Як допомогти серцю пережити спеку: дані ESC 2025, гідратація, ліки, охолодження спальні та червоні прапорці."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://academic.oup.com/eurheartj/article-abstract/46/30/2950/8155633"
   - "https://www.nature.com/articles/s41591-025-03954-7"

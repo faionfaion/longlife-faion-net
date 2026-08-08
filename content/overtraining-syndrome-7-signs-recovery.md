@@ -14,7 +14,7 @@ tags:
 - "фітнес"
 - "гормони"
 description: "7 науково обґрунтованих ознак перетренованості та практичні поради з відновлення для активних людей."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/23247672/"
   - "https://pubmed.ncbi.nlm.nih.gov/31297238/"

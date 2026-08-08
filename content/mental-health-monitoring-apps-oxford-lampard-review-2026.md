@@ -14,7 +14,7 @@ tags:
 - "CBT"
 - "Україна"
 description: "Огляд доказової бази mental health застосунків: чому 95% з 10 000 не мають RCT і що з цим робити."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.bbc.co.uk/news/articles/c7vgd11d60do"
   - "https://htworld.co.uk/news/digital-health/no-strong-independent-evidence-for-mental-health-monitoring-tech-inquiry-hears/"

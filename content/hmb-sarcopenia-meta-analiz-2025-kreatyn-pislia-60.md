@@ -16,7 +16,7 @@ tags:
 - "мета-аналіз"
 - "білок"
 description: "HMB після 60: мета-аналіз 2025, огляд Phillips і коли добавка справді працює."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12003145/"
   - "https://pubmed.ncbi.nlm.nih.gov/35818771/"

@@ -15,7 +15,7 @@ tags:
 - "плантарний фасциїт"
 - "подіатрія"
 description: "Що каже біомеханіка про flip-flops, fisherman's sandals і мінімалістичне взуття - без страшилок, з дослідженнями."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.bbc.co.uk/news/articles/cnvney840l9o"
   - "https://pubmed.ncbi.nlm.nih.gov/20660875/"

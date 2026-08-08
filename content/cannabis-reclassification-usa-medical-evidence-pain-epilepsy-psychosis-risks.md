@@ -15,7 +15,7 @@ tags:
 - "рекласифікація"
 - "Україна"
 description: "Що каже доказова медицина про канабіс: ефективність, обмеження та ризики за даними систематичних оглядів"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.pbs.org/newshour/politics/trump-reclassifies-state-licensed-medical-marijuana-as-less-dangerous-drug"
   - "https://www.bbc.com/news/articles/cdxd0xxp0jko"

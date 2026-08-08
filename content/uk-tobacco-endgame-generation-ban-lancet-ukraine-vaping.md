@@ -16,7 +16,7 @@ tags:
 - "Україна"
 - "молодь"
 description: "Британія заборонила продаж тютюну поколінню 2009+. Розбираємо науку, критику, урок Нової Зеландії та ситуацію в Україні."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.bbc.com/news/articles/cn08jy6w0l5o"
   - "https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(24)00185-3/fulltext"

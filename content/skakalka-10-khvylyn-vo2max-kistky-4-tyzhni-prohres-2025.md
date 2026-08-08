@@ -14,7 +14,7 @@ tags:
 - "травми"
 - "дослідження"
 description: "Що показали дослідження 2025 про VO2max, кістки і як безпечно почати стрибати на скакалці."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.nature.com/articles/s41430-025-01575-4"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12287092/"

@@ -13,7 +13,7 @@ tags:
 - "енергетики"
 - "біомаркери"
 description: "Чому таурин назвали молекулою довголіття у 2023 і чому це спростували у 2025."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.science.org/doi/10.1126/science.abn9257"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC10630957/"

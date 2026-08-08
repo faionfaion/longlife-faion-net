@@ -14,7 +14,7 @@ tags:
 - "ходьба"
 - "симптоматична терапія"
 description: "NHS відкриває доступ до фампридину для 5000 пацієнтів з РС: розбираємо докази, обмеження та український контекст."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.england.nhs.uk/2026/07/thousands-ms-life-changing-drug-nhs-help-walk-more-freely/"
   - "https://www.bbc.co.uk/news/articles/cgmkygjk9g2o"

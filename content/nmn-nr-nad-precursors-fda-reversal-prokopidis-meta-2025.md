@@ -16,7 +16,7 @@ tags:
 - "м'язи"
 - "біохакінг"
 description: "NMN і NR у 2025: новий мета-аналіз, рішення FDA та що це означає для тебе"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC8550608/"
   - "https://www.science.org/doi/10.1126/science.abj1696"

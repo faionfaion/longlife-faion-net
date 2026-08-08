@@ -15,7 +15,7 @@ tags:
 - "VO2max"
 - "дослідження"
 description: "Що каже свіжа наука 2025 року про зону 2, HIIT і мітохондрії - і як це застосувати без лактометра."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://link.springer.com/article/10.1007/s40279-025-02261-y"
   - "https://pubmed.ncbi.nlm.nih.gov/40560504/"

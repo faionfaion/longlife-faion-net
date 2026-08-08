@@ -14,7 +14,7 @@ tags:
 - "УФ"
 - "мінеральні фільтри"
 description: "SPF 30 vs 50, оксибензон і що показав систематичний огляд JAAD 2024 про безпеку фільтрів."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.jaad.org/article/S0190-9622(24)00786-2/abstract"
   - "https://pubmed.ncbi.nlm.nih.gov/38777185/"

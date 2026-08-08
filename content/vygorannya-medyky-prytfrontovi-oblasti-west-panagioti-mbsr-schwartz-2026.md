@@ -14,7 +14,7 @@ tags:
 - "дослідження"
 - "Україна"
 description: "Мета-аналізи та українські дані: організаційні інтервенції vs MBSR у боротьбі з вигоранням медиків."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)31279-X/abstract"
   - "https://pubmed.ncbi.nlm.nih.gov/27692469/"

@@ -16,7 +16,7 @@ tags:
 - "фізична активність"
 - "профілактика"
 description: "Gibbons 2023: HIIT підняв BDNF утричі проти 15% від 90 хв кардіо. Розбір з обмеженнями та контекстом для 60+."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP283582"
   - "https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP287154"

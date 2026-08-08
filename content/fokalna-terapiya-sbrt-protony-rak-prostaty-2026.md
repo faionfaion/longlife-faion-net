@@ -14,7 +14,7 @@ tags:
 - "онкологія"
 - "дослідження"
 description: "Свіжі дані 2026 про фокальну терапію, SBRT і протони при раку простати - без хайпу."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.imperial.nhs.uk/about-us/news/new-study-shows-focal-therapy-treats-prostate-cancer"
   - "https://www.sciencemediacentre.org/expert-reaction-to-study-looking-at-focal-therapy-using-a-heat-based-treatment-high-intensity-focused-ultrasound-hifu-or-a-freezing-based-treatment-cryotherapy-for-prostate-cancer/"

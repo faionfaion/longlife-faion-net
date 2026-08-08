@@ -16,7 +16,7 @@ tags:
 - "дерматологія"
 - "літо"
 description: "UV-індекс 6–7 у травневому Києві: чому SPF 30+ broad spectrum обов'язковий і скільки крему наносити насправді."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://onlinelibrary.wiley.com/doi/10.1111/phpp.12099"
   - "https://pubmed.ncbi.nlm.nih.gov/24313722/"

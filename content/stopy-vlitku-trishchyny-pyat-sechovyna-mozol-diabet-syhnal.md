@@ -14,7 +14,7 @@ tags:
 - "дослідження"
 - "грибок"
 description: "Що каже доказова база про тріщини на п'ятах, мікоз стоп у басейні та догляд за стопами при діабеті."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pmc.ncbi.nlm.nih.gov/articles/PMC5297015/"
 - "https://pubmed.ncbi.nlm.nih.gov/30742522/"

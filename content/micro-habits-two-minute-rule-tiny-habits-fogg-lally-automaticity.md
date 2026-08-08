@@ -13,7 +13,7 @@ tags:
 - "поведінкова наука"
 - "здоров'я"
 description: "Як мікрозвички по 2 хвилини формують здорові автоматизми - з доказовою базою та покроковим планом дій"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://doi.org/10.1002/ejsp.674"
   - "https://behaviordesign.stanford.edu/"

@@ -15,7 +15,7 @@ tags:
 - "робота"
 - "воєнний час"
 description: "20-хвилинний недільний ритуал на основі досліджень: як знизити тривогу перед понеділком."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.kickresume.com/en/press/sunday-scaries-survey/"
   - "https://www.apa.org/pubs/reports/work-in-america/2024/2024-work-in-america-report.pdf"

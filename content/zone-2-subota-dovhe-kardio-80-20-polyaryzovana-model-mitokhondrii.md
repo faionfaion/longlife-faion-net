@@ -14,7 +14,7 @@ tags:
 - "vo2max"
 - "дослідження"
 description: "Довге повільне кардіо в Zone 2 як «80» полярізованої моделі: що каже наука і як спланувати суботню сесію."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/20861519/"
   - "https://pubmed.ncbi.nlm.nih.gov/28623613/"

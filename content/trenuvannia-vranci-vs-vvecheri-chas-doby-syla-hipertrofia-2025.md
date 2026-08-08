@@ -15,7 +15,7 @@ tags:
 - "схуднення"
 - "циркадні ритми"
 description: "Що каже наука про найкращий час для тренувань - сила, м'язи, схуднення та реальний графік життя."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.nature.com/articles/s41598-020-66342-w"
   - "https://pubmed.ncbi.nlm.nih.gov/27863207/"

@@ -13,7 +13,7 @@ tags:
 - "дослідження"
 - "біохакінг"
 description: "Нові дані WHOOP: чому келих вина сильніше б'є по сну жінок і що з цим робити ввечері у п'ятницю."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001284"
   - "https://www.nejm.org/doi/full/10.1056/NEJM199001113220205"

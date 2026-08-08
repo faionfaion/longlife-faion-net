@@ -16,7 +16,7 @@ tags:
 - "дослідження"
 - "RCT"
 description: "Перший RCT 2025 року щодо плавання у відкритій воді для депресії: що показало дослідження OUTSIDE і як безпечно стартувати у Дніпрі та Дністрі."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/30131418/"
   - "https://www.sciencedirect.com/science/article/abs/pii/S1755296625000547"

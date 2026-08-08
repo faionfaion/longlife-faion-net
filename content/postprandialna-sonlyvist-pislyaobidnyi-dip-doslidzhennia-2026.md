@@ -13,7 +13,7 @@ tags:
 - "глюкоза"
 - "дослідження"
 description: "Чому після обіду тягне в сон і 5 доказових способів повернути бадьорість без зайвої кави."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/8877121/"
   - "https://www.sciencedirect.com/science/article/abs/pii/S0031938411005555"

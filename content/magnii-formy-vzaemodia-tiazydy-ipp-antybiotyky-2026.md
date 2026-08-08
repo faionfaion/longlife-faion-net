@@ -16,7 +16,7 @@ tags:
 - "запори"
 - "дослідження"
 description: "Магній і ліки від тиску, ІПП, антибіотики: взаємодії, дефіцити, форми і що обговорити з лікарем."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/30095199/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC9539870/"

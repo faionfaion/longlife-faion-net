@@ -16,7 +16,7 @@ tags:
 - "креатин"
 - "мітохондрії"
 description: "NMN і NR піднімають NAD+, але клінічні ефекти в людей значно скромніші за мишачі. Огляд RCT і мета-аналізів."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.science.org/doi/10.1126/science.abe9985"
   - "https://www.science.org/doi/10.1126/science.abj1696"

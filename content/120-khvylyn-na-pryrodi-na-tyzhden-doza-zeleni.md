@@ -13,7 +13,7 @@ tags:
 - "добробут"
 - "шінрін-йоку"
 description: "Дослідження на 20 000 людей: 120 хв на природі на тиждень пов'язані з кращим самопочуттям."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.nature.com/articles/s41598-019-44097-3"
   - "https://pubmed.ncbi.nlm.nih.gov/31197192/"

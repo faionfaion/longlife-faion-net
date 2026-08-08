@@ -16,7 +16,7 @@ tags:
 - "дослідження"
 - "профілактика"
 description: "ВООЗ підтвердила: Австралія стала 30-ю країною, що елімінувала трахому. Що це за хвороба, як працює стратегія SAFE та чому Україні варто звернути увагу."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.who.int/news/item/29-04-2026-australia-becomes-the-30th-country-to-eliminate-trachoma-as-a-public-health-problem"
   - "https://www.who.int/news/item/14-05-2026-tunisia-validated-by-who-as-having-eliminated-trachoma-as-a-public-health-problem"

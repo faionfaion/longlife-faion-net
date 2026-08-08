@@ -14,7 +14,7 @@ tags:
 - "харчування"
 - "постпрандіальна глікемія"
 description: "Чому 10 хвилин ходьби одразу після їжі працюють краще за 30 хвилин через годину - і що каже наука 2025 року"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1708301/full"
   - "https://www.nature.com/articles/s41598-025-07312-y"

@@ -15,7 +15,7 @@ tags:
 - "CPAP"
 - "дослідження"
 description: "Чому STOP-BANG недооцінює апное у жінок після 50 і як допомагає домашній тест WatchPAT."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://err.ersjournals.com/content/28/154/190030"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC7644815/"

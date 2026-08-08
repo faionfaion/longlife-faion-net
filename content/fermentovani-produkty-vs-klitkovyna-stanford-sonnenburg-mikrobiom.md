@@ -16,7 +16,7 @@ tags:
 - "харчування"
 - "Stanford"
 description: "Stanford РКД: ферментовані продукти vs клітковина - що швидше змінює мікробіом і як це застосувати."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.cell.com/cell/fulltext/S0092-8674(21)00754-6"
   - "https://med.stanford.edu/news/all-news/2021/07/fermented-food-diet-increases-microbiome-diversity-lowers-inflammation.html"

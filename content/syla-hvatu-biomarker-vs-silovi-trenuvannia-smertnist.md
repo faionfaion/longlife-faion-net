@@ -13,7 +13,7 @@ tags:
 - "фітнес"
 - "біомаркери"
 description: "Сила хвату передбачає ризик смерті - але працює рух, а не магічне число на динамометрі."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/25982160/"
   - "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9386423/"

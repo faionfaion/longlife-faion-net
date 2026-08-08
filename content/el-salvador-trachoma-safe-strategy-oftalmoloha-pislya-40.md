@@ -15,7 +15,7 @@ tags:
 - "діти"
 - "після 40"
 description: "ВООЗ підтвердила ліквідацію трахоми в Ель-Сальвадорі. Розбираємо стратегію SAFE і переносимо логіку на українські очні проблеми: коли йти до офтальмолога після 40."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.who.int/news/item/13-07-2026-el-salvador-validated-by-who-as-having-eliminated-trachoma-as-a-public-health-problem"
   - "https://www.paho.org/en/news/13-7-2026-salvador-validated-who-having-eliminated-trachoma-public-health-problem"

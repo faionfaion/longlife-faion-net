@@ -10,7 +10,7 @@ tags:
 - "Ранкові звички"
 - "Продуктивність"
 description: "П'ять доказових ранкових звичок для стабільної енергії протягом дня"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pubmed.ncbi.nlm.nih.gov/36243950/"
 - "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(22)00397-7"

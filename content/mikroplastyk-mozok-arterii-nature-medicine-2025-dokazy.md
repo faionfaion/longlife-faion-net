@@ -13,7 +13,7 @@ tags:
 - "екологія"
 - "токсини"
 description: "Що дослідження 2024–2026 справді довели про мікропластик у мозку й артеріях - і як зменшити вплив."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.nature.com/articles/s41591-024-03453-1"
   - "https://www.sciencemediacentre.org/expert-reaction-to-a-study-in-nature-medicine-looking-at-the-accumulation-of-microplastics-in-the-brains-of-dead-subjects/"

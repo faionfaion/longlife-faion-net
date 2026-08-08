@@ -14,7 +14,7 @@ tags:
 - "дослідження"
 - "приватність даних"
 description: "Огляд Lancet 2025: після корекції на bias ефект mental health апок скромний. Що з цим робити."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(25)00105-0/fulltext"
   - "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(25)00060-3/fulltext"

@@ -12,7 +12,7 @@ tags:
 - "імунітет"
 - "громадське здоров'я"
 description: "Перша за десятиліття смерть від дифтерії в Австралії: чому дорослим потрібен бустер АДП-М."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.bbc.com/news/articles/c759q6y26w3o"
   - "https://www.upi.com/Top_News/World-News/2026/05/26/australia-diphtheria-outbreak-death/6251779829145/"

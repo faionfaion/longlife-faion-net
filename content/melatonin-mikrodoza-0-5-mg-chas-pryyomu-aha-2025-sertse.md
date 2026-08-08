@@ -13,7 +13,7 @@ tags:
 - "дослідження"
 - "безсоння"
 description: "Чому мікродоза мелатоніну 0,3–0,5 мг краща за мегадози, коли її пити і що сказали на AHA 2025."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC2928909/"
   - "https://academic.oup.com/jcem/article/86/10/4727/2849013"

@@ -14,7 +14,7 @@ tags:
 - "дослідження"
 - "імунітет"
 description: "Рапаміцин подовжує життя мишам, але чи працює він у людей? Огляд доказів, ризиків і поточних досліджень."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/19587680/"
   - "https://pubmed.ncbi.nlm.nih.gov/24341993/"

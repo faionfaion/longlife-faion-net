@@ -10,7 +10,7 @@ tags:
 - "Силові тренування"
 - "Домашні тренування"
 description: "Порівняння калістеніки та тренувань із залізом: переваги, недоліки та як обрати свій підхід"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pubmed.ncbi.nlm.nih.gov/28404894/"
 - "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9407836/"

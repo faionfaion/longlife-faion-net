@@ -16,7 +16,7 @@ tags:
 - "Ельбрус"
 - "Кіліманджаро"
 description: "Гірська хвороба у Карпатах і високогір'ї: гайдлайни WMS 2024, шкала Lake Louise, ацетазоламід, HAPE/HACE, діти."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://journals.sagepub.com/doi/10.1016/j.wem.2023.05.013"
   - "https://pubmed.ncbi.nlm.nih.gov/29583031/"

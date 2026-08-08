@@ -16,7 +16,7 @@ tags:
 - "Prolonged Exposure"
 - "CPT"
 description: "Чому FDA відмовила MDMA-терапії ПТСР, що каже мета-аналіз 2026 і які доказові альтернативи доступні в Україні."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/37709999/"
   - "https://www.nature.com/articles/s41591-023-02565-4"

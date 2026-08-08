@@ -14,7 +14,7 @@ tags:
 - "профілактика травм"
 - "асиметрія сили"
 description: "Болгарський випад для бігунів 40+: сила без навантаження на хребет, протокол прогресії та як берегти коліно."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/32796420/"
   - "https://digitalcommons.wku.edu/ijes/vol7/iss4/6/"

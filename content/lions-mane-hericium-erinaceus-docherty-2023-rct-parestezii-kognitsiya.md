@@ -16,7 +16,7 @@ tags:
 - "дослідження"
 - "мозок"
 description: "Розбір доказів по Lion's Mane: RCT 2023, скромні ефекти, ціна vs креатин і омега-3, сигнали про парестезії."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC10675414/"
   - "https://pubmed.ncbi.nlm.nih.gov/18844328/"

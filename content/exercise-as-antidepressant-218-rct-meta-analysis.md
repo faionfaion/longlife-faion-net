@@ -16,7 +16,7 @@ tags:
 - "ходьба"
 - "силові тренування"
 description: "Мережевий мета-аналіз 218 РКД: ходьба, біг, силові та йога зменшують депресію на рівні антидепресантів або краще."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/38355154/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC9685718/"

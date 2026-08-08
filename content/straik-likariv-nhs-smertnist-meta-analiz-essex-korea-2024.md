@@ -16,7 +16,7 @@ tags:
 - "Корея"
 - "черги"
 description: "Що кажуть мета-аналізи про смертність під час страйків лікарів і чому корейський кейс 2024 - окремий випадок."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/18849101/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC9643090/"

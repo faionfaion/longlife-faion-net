@@ -14,7 +14,7 @@ tags:
 - "дослідження"
 - "біохакінг"
 description: "Крива фазової відповіді на світло: чому ранкове сонце після польоту на схід іноді гальмує адаптацію."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC6684967/"
   - "https://pubmed.ncbi.nlm.nih.gov/30529430/"

@@ -14,7 +14,7 @@ tags:
 - "мета-аналіз"
 - "сон"
 description: "Мета-аналізи про музику і стрес: що справді знижує кортизол, а що ні - і як зібрати корисний плейлист."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/31167611/"
   - "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0270031"

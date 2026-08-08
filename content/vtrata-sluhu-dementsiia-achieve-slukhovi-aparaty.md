@@ -13,7 +13,7 @@ tags:
 - "когнітивне здоров'я"
 - "дослідження"
 description: "Втрата слуху - ключовий фактор ризику деменції. Чи рятують слухові апарати - розбір РКД ACHIEVE."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)01406-X/abstract"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC11714249/"

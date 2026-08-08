@@ -13,7 +13,7 @@ tags:
 - "довголіття"
 - "нейронауки"
 description: "Розбираємо гучне дослідження про пластик у мозку, критику методології та свіжу репліку 2026 року."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.nature.com/articles/s41591-024-03453-1"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12003191/"

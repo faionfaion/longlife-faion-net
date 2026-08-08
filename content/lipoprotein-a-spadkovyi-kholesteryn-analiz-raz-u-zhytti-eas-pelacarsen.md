@@ -12,7 +12,7 @@ tags:
 - "генетика"
 - "дослідження"
 description: "Lp(a) - спадковий холестерин, якого не показує звичайна ліпідограма. Чому варто виміряти раз у житті."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://academic.oup.com/eurheartj/article/43/39/3925/6670882"
   - "https://eas-society.org/wp-content/uploads/2022/11/2019_dyslipidaemias_guidelin.pdf"

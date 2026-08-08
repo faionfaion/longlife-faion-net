@@ -14,7 +14,7 @@ tags:
 - "харчування"
 - "епілепсія"
 description: "Що кажуть свіжі дослідження 2024–2025 про BHB, нейрозапалення й кето для мозку - чесно й без хайпу."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC11724017/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC4352123/"

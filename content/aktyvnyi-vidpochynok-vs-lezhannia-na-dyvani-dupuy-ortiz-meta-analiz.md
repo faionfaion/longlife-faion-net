@@ -14,7 +14,7 @@ tags:
 - "м'язи"
 - "запалення"
 description: "Мета-аналізи Dupuy (99 досліджень) і Ortiz (26 досліджень) показують: 20–30 хвилин легкого руху у вихідний знижують DOMS і запалення краще за повний спокій."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC5932411/"
   - "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2018.00403/full"

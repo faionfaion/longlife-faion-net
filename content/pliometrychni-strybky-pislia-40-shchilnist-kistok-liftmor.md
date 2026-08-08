@@ -15,7 +15,7 @@ tags:
 - "після 40"
 - "дослідження"
 description: "Як короткі стрибкові сесії стимулюють кістки після 40 - наука, безпечна прогресія та межі методу."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/28975661/"
   - "https://onlinelibrary.wiley.com/doi/abs/10.1002/jbmr.3284"

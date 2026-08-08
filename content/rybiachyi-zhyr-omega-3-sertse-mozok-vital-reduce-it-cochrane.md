@@ -14,7 +14,7 @@ tags:
 - "профілактика"
 - "мозок"
 description: "Чи захищає риб'ячий жир серце і мозок? Розбір VITAL, ASCEND, Cochrane, REDUCE-IT і STRENGTH."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.nejm.org/doi/full/10.1056/NEJMoa1811403"
   - "https://www.nejm.org/doi/full/10.1056/NEJMoa1804989"

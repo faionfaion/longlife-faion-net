@@ -11,7 +11,7 @@ tags:
 - "Рецепти"
 - "Здорове харчування"
 description: "Як приготувати 5 днів здорової їжі за 2 години у неділю: українські рецепти та план"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pubmed.ncbi.nlm.nih.gov/28323543/"
 - "https://www.hsph.harvard.edu/nutritionsource/meal-prep/"

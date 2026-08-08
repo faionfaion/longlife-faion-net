@@ -14,7 +14,7 @@ tags:
 - "циркадний ритм"
 - "дослідження"
 description: "AASM, CDC і JAMA про мелатонін у дітей: коли виправданий, чому гумки з iHerb - ризик, і що працює замість них."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.cdc.gov/mmwr/volumes/71/wr/mm7122a1.htm"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC10932581/"

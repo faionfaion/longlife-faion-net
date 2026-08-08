@@ -15,7 +15,7 @@ tags:
 - "UK Biobank"
 - "довголіття"
 description: "Два великі дослідження UK Biobank показують: стабільний час сну асоціюється з нижчим ризиком смерті сильніше, ніж тривалість сну."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/37738616/"
   - "https://pubmed.ncbi.nlm.nih.gov/37995126/"

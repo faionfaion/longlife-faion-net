@@ -16,7 +16,7 @@ tags:
 - "IARC"
 - "харчова безпека"
 description: "HBM4EU про гліфозат у сечі: hazard vs risk, миття, органіка, Dirty Dozen - практичні поради для України."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pmc.ncbi.nlm.nih.gov/articles/PMC9612135/"
 - "https://pmc.ncbi.nlm.nih.gov/articles/PMC9415901/"

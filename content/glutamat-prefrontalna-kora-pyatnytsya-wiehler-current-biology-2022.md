@@ -14,7 +14,7 @@ tags:
 - "психічне здоров'я"
 - "дослідження"
 description: "Що нейронаука каже про розумову втому в кінці тижня - і які звички справді допомагають мозку відновитись."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.cell.com/current-biology/fulltext/S0960-9822(22)01111-3"
   - "https://pubmed.ncbi.nlm.nih.gov/35987205/"

@@ -16,7 +16,7 @@ tags:
 - "довголіття"
 - "дослідження"
 description: "Мета-аналіз 2026: креатин +0,37 кг м'язів і +7,5 кг у жимі ніг у жінок 40+. Дози, кістки, мозок, нирки."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/42141930/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12086928/"

@@ -16,7 +16,7 @@ tags:
 - "Львів"
 - "міське середовище"
 description: "White 2019: 120 хв/тиждень на природі - поріг для кращого здоров'я. Розбір цифр, обмежень і як застосувати в Україні."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.nature.com/articles/s41598-019-44097-3"
   - "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2688343"

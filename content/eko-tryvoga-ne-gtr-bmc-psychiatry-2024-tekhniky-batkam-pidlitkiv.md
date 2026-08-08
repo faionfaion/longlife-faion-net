@@ -14,7 +14,7 @@ tags:
 - "дослідження"
 - "батьківство"
 description: "Що каже наука про еко-тривогу підлітків і 3 доказові техніки підтримки для батьків."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(21)00278-3/fulltext"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC11577747/"

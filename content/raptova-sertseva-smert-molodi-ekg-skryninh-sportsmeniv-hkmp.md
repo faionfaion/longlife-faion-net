@@ -13,7 +13,7 @@ tags:
 - "профілактика"
 - "синкопе"
 description: "Чому молоді атлети раптово помирають і чи рятує ЕКГ-скринінг - розбір доказів"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.c-r-y.org.uk/"
   - "https://www.nejm.org/doi/10.1056/NEJMra1710575"

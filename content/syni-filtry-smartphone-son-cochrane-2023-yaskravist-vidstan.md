@@ -14,7 +14,7 @@ tags:
 - "гігієна сну"
 - "екрани"
 description: "Кокранівський огляд 2023 не підтвердив ефекту окулярів із блакитним фільтром. Що дійсно допомагає спати."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013244.pub2/full"
   - "https://pubmed.ncbi.nlm.nih.gov/37593770/"

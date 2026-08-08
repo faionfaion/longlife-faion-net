@@ -14,7 +14,7 @@ tags:
 - "GLP-1"
 - "дослідження"
 description: "Берберин - не «природний Ozempic»: що мета-аналізи кажуть про цукор, ліпіди й вагу."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/25498346/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC3478874/"

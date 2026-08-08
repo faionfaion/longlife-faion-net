@@ -13,7 +13,7 @@ tags:
 - "дефіцит вітамінів"
 - "рослинний раціон"
 description: "Мета-аналіз 2024: як веганам уникнути дефіциту B12 - форми, дози, аналізи, чесні цифри."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/39373282/"
   - "https://onlinelibrary.wiley.com/doi/10.1111/nbu.12712"

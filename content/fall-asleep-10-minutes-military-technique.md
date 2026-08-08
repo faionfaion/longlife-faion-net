@@ -10,7 +10,7 @@ tags:
 - "Стрес"
 - "Релаксація"
 description: "Військова техніка швидкого засинання за 10 хвилин з науковим обґрунтуванням"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pubmed.ncbi.nlm.nih.gov/36323649/"
 - "https://www.sleepfoundation.org/sleep-hygiene/military-sleep-method"

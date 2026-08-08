@@ -16,7 +16,7 @@ tags:
 - "ukhsa"
 - "дослідження"
 description: "Лондонський випадок Еболи Bundibugyo: як працює 21-денний моніторинг і ризик для України."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.gov.uk/government/news/precautionary-medical-evacuation-following-a-potential-healthcare-related-exposure-to-ebola"
   - "https://www.who.int/news/item/02-07-2026-who-adds-first-diagnostic-test-for-ebola-bundibugyo-virus-to-its-emergency-use-listing"

@@ -14,7 +14,7 @@ tags:
 - "здоровя легень"
 - "інфекційні хвороби"
 description: "ВООЗ оновила рекомендації щодо діагностики ТБ: NPOC-NAAT, мазки з язика, пулінг. Що це означає для України."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.who.int/news/item/09-03-2026-who-recommends-near-point-of-care-tests--tongue-swabs--and-sputum-pooling-for-tb-diagnosis"
   - "https://www.who.int/news/item/24-03-2026-who-recommends-new-diagnostic-tools-to-help-end-tb"

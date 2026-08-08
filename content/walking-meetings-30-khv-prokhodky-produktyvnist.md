@@ -10,7 +10,7 @@ tags:
 - "Робота"
 - "Здоров'я"
 description: "Чому зустрічі на ходу підвищують креативність на 60% і як впровадити їх у робочий день"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pubmed.ncbi.nlm.nih.gov/24749966/"
 - "https://hbr.org/2023/07/the-surprising-benefits-of-walking-meetings"

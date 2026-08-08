@@ -14,7 +14,7 @@ tags:
 - "сім'я"
 - "екранний час"
 description: "Розбираємо нове дослідження ABCD у JAMA Network Open: малий, але стійкий зв'язок соцмереж і депресії у підлітків."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834349"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12096259/"

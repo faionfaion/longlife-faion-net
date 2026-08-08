@@ -10,7 +10,7 @@ tags:
 - "Холодова терапія"
 - "Метаболізм"
 description: "Огляд досліджень 2026 року про холодову терапію та бурий жир"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://www.nature.com/articles/s41586-024-07420-5"
 - "https://pubmed.ncbi.nlm.nih.gov/37820586/"

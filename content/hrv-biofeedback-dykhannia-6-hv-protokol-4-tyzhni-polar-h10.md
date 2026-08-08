@@ -15,7 +15,7 @@ tags:
 - "резонансна частота"
 - "дослідження"
 description: "HRV-біофідбек через дихання 6/хв: 4-тижневий протокол за Lehrer, порівняння Polar H10 vs Apple Watch і чесний нюанс від Laborde 2022."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/32385728/"
   - "https://doi.org/10.1007/s10484-020-09466-z"

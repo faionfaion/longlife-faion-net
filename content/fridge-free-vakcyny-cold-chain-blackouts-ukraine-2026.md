@@ -14,7 +14,7 @@ tags:
 - "громадське здоровя"
 - "Україна"
 description: "Термостабільні вакцини, український холодовий ланцюг і що робити батькам взимку 2026-2027."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC13088377/"
   - "https://www.medrxiv.org/content/10.64898/2026.03.09.26347956v1"

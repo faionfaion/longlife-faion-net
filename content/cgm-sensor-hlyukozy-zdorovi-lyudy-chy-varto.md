@@ -13,7 +13,7 @@ tags:
 - "дослідження"
 - "преддіабет"
 description: "Розбираємо, чи має сенс безперервний моніторинг глюкози для людей без діабету - що каже наука."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/39716288/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC11668089/"

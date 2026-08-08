@@ -16,7 +16,7 @@ tags:
 - "профілактика"
 - "старіння"
 description: "Саркопенія - офіційна хвороба з подвоєним ризиком смерті. Як перевірити себе, що кажуть дослідження та що робити вже сьогодні."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://academic.oup.com/ageing/article/48/1/16/5126243"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC5114626/"

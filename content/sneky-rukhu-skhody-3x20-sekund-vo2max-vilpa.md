@@ -14,7 +14,7 @@ tags:
 - "серце"
 - "довголіття"
 description: "Снеки руху: що дослідження кажуть про сходові спринти по 20 с, VO₂max і витривалість"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/34669625/"
   - "https://pubmed.ncbi.nlm.nih.gov/30649897/"

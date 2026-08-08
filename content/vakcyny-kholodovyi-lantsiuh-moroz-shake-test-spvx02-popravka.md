@@ -13,7 +13,7 @@ tags:
 - "Україна"
 - "імунізація"
 description: "Цифра «50% вакцин у смітник» - оцінка 2005 року. А головний ризик - не спека, а замерзання."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://doi.org/10.1016/j.eclinm.2026.104116"
   - "https://www.sciencemediacentre.org/expert-reaction-to-phase-1-trial-of-spvx02-a-fridge-free-tetanus-diphtheria-vaccine-safety-tolerability-and-immunogenicity-compared-to-two-established-tetanus-diphtheria/"

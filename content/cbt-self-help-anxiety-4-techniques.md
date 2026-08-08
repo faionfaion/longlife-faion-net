@@ -12,7 +12,7 @@ tags:
 - "самодопомога"
 - "доказова медицина"
 description: "4 доказові техніки КПТ для самостійної роботи з тривожністю - покрокові інструкції з джерелами"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.nice.org.uk/guidance/cg113/chapter/Recommendations"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC3584580/"

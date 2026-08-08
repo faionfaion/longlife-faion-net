@@ -14,7 +14,7 @@ tags:
 - "онкологія"
 - "МОЗ"
 description: "Gardasil 9 у календарі-2026 лише для дівчат: доказова база, ціни й що робити батькам синів."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://ascopubs.org/doi/10.1200/JCO.2011.36.4596"
   - "https://www.cdc.gov/mmwr/volumes/68/wr/mm6832a3.htm"

@@ -15,7 +15,7 @@ tags:
 - "JAMA"
 - "мета-аналіз"
 description: "Мета-аналіз Zhao 2023 спростував захисний ефект помірного алкоголю. Що це значить для п'ятничного вечора."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC10066463/"
   - "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10170333/"

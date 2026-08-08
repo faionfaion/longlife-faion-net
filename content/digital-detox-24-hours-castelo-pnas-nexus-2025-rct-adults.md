@@ -16,7 +16,7 @@ tags:
 - "FOMO"
 - "сон"
 description: "Що показало найбільше RCT 2025 року про блокування мобільного інтернету - і чи варто пробувати 24-годинний детокс."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://academic.oup.com/pnasnexus/article/4/2/pgaf017/8016017"
   - "https://pubmed.ncbi.nlm.nih.gov/39985031/"

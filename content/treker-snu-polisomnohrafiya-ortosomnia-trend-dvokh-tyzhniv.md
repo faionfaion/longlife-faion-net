@@ -14,7 +14,7 @@ tags:
 - "дослідження"
 - "гаджети"
 description: "Що валідаційні дослідження кажуть про точність трекерів сну - і як читати їхні цифри без тривоги."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://academic.oup.com/sleep/article/44/5/zsaa291/6055610"
   - "https://pubmed.ncbi.nlm.nih.gov/33378539/"

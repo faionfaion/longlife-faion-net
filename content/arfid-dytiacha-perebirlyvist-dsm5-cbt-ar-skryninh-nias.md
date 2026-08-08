@@ -14,7 +14,7 @@ tags:
 - "cbt"
 - "батьківство"
 description: "Як відрізнити ARFID від звичайної вибагливості: ознаки, скринінг NIAS і доказове лікування для батьків."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.ncbi.nlm.nih.gov/books/NBK603710/"
   - "https://jeatdisord.biomedcentral.com/articles/10.1186/s40337-017-0149-z"

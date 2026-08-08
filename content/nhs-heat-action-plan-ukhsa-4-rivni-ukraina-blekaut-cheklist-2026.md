@@ -13,8 +13,8 @@ tags:
 - "ВООЗ"
 - "UKHSA"
 - "система охорони здоров'я"
-description: "Як підготуватися до спеки і блекауту: план ВООЗ, чек-лист для родини і критичні застереження від Віти Зеленко."
-author: "Віта Зеленко"
+description: "Як підготуватися до спеки і блекауту: план ВООЗ, чек-лист для родини і критичні застереження від Віти ."
+author: "Віта"
 source_urls:
   - "https://www.who.int/europe/publications/i/item/9789289062930"
   - "https://www.who.int/europe/news/item/16-07-2026-planning-for-a-warmer-world"

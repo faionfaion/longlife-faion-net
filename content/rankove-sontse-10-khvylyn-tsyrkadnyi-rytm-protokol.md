@@ -13,7 +13,7 @@ tags:
 - "дослідження"
 - "біохакінг"
 description: "10 хвилин ранкового світла зсувають циркадний ритм: практичний протокол на основі досліджень Khalsa, Wright і мета-аналізу 2023 року."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://physoc.onlinelibrary.wiley.com/doi/10.1113/jphysiol.2003.040477"
   - "https://pubmed.ncbi.nlm.nih.gov/12717008/"

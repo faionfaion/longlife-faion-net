@@ -10,7 +10,7 @@ tags:
 - "Лайфхак"
 - "Стресостійкість"
 description: "30-денний протокол переходу до холодного душу: від теплого до крижаного без стресу"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pubmed.ncbi.nlm.nih.gov/27631616/"
 - "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5025014/"

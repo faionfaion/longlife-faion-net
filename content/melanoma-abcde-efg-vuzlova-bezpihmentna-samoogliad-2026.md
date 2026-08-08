@@ -14,7 +14,7 @@ tags:
 - "самоогляд"
 - "онкологія"
 description: "ABCDE, EFG і «гидке каченя»: як правильно перевіряти родимки на меланому."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://news.cancerresearchuk.org/2026/05/22/skin-cancer-cases-hit-record-high-in-the-uk/"
   - "https://www.cancerresearchuk.org/health-professional/cancer-statistics/statistics-by-cancer-type/melanoma-skin-cancer/incidence"

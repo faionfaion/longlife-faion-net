@@ -13,7 +13,7 @@ tags:
 - "стрес"
 - "мозок"
 description: "Що показують нові реєстри про сплеск діагнозів СДУГ у дорослих і як діяти в українських реаліях."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2850079"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12882648/"

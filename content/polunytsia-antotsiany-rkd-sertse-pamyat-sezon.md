@@ -16,7 +16,7 @@ tags:
 - "дослідження"
 - "РКД"
 description: "Що насправді кажуть РКД про полуницю: серце, тиск, пам'ять і пестициди - без хайпу."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC4018947/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC2929388/"

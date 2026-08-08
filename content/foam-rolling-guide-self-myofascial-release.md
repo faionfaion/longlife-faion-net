@@ -10,7 +10,7 @@ tags:
 - "Гайд"
 - "Мобільність"
 description: "Покрокова інструкція з фоам-ролінгу: техніка, зони, помилки та програма для початківців"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pubmed.ncbi.nlm.nih.gov/31624903/"
 - "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7039386/"

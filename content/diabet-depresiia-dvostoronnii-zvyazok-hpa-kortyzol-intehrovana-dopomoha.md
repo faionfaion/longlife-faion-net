@@ -15,7 +15,7 @@ tags:
 - "HPA-вісь"
 - "діабетичний дистрес"
 description: "Депресія підвищує ризик діабету на 60%, а 36% діабетиків мають дистрес. Що каже наука і як діяти."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/19033418/"
   - "https://pubmed.ncbi.nlm.nih.gov/20711716/"

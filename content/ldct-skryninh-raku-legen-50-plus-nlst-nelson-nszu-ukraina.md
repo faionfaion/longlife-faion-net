@@ -14,7 +14,7 @@ tags:
 - "профілактика"
 - "дослідження"
 description: "LDCT-скринінг раку легень: критерії USPSTF, дані NLST і NELSON, ціни в Україні, ризики"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.nejm.org/doi/full/10.1056/NEJMoa1102873"
   - "https://www.nejm.org/doi/full/10.1056/NEJMoa1911793"

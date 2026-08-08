@@ -14,7 +14,7 @@ tags:
 - "регуляція"
 - "ВООЗ"
 description: "Stanford навчив ШІ проєктувати бактеріофаги. Розбираємо, чому це не про людські віруси - і чому регулятори все одно нервують."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.science.org/doi/10.1126/science.aec2657"
   - "https://www.nature.com/articles/s41586-026-10176-5"

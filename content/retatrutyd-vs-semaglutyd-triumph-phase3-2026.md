@@ -13,7 +13,7 @@ tags:
 - "метаболізм"
 - "фармакологія"
 description: "Фінальні дані TRIUMPH: −25% ваги на ретатрутиді, обмеження, безпека і чому Telegram - не варіант."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/37366315/"
   - "https://www.nejm.org/doi/full/10.1056/NEJMoa2301972"

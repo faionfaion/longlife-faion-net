@@ -15,7 +15,7 @@ tags:
 - "добавки"
 - "профілактика"
 description: "Втома при нормальному гемоглобіні? Перевір феритин і дізнайся, чому залізо часто краще пити через день."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.who.int/publications/i/item/9789240000124"
   - "https://www.ncbi.nlm.nih.gov/books/NBK569877/table/fm-ch2.tab1/"

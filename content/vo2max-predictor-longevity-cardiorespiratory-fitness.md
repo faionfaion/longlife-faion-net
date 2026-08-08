@@ -14,7 +14,7 @@ tags:
 - "серцево-судинне здоров'я"
 - "тест Купера"
 description: "Огляд досліджень: як VO2max пов'язаний із ризиком передчасної смерті та як його виміряти без лабораторії."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/38599681/"
   - "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2707428"

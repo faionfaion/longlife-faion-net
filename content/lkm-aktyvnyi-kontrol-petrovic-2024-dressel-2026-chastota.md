@@ -13,7 +13,7 @@ tags:
 - "дослідження"
 - "mindfulness"
 description: "Чи справді LKM краща за інші практики? Розбираємо мета-аналіз 23 РКД і два свіжих дослідження."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/38652973/"
   - "https://pubmed.ncbi.nlm.nih.gov/41849424/"

@@ -14,7 +14,7 @@ tags:
 - "клітинне здоров'я"
 - "метаболізм"
 description: "Чи справді 16:8 «вмикає» аутофагію? Розбір першого функціонального RCT 2025 року в людських тканинах."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/40345145/"
   - "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12406713/"

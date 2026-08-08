@@ -14,7 +14,7 @@ tags:
 - "дослідження"
 - "біохакінг"
 description: "Мета-аналізи 2024–2025 про CWI після силової: коли холод шкодить гіпертрофії, а коли справді допомагає."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/25998525/"
   - "https://pubmed.ncbi.nlm.nih.gov/31513450/"

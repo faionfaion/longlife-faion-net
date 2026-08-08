@@ -14,7 +14,7 @@ tags:
 - "дослідження"
 - "громадське здоров'я"
 description: "Спалах Andes-хантавірусу на круїзі: що каже ВООЗ і чому панікувати в Україні не варто."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON599"
   - "https://www.cdc.gov/han/php/notices/han00528.html"

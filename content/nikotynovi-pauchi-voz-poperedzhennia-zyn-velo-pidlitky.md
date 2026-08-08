@@ -14,7 +14,7 @@ tags:
 - "дослідження"
 - "Україна"
 description: "ВООЗ попереджає про нікотинові паучі: що показують дослідження про серце, мозок і залежність у підлітків."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.who.int/news/item/15-05-2026-who-warns-nicotine-pouch-brands-targeting-youth-as-sales-surge"
   - "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2024.1392027/full"

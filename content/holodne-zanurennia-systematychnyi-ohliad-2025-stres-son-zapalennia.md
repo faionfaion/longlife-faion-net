@@ -14,7 +14,7 @@ tags:
 - "метод Віма Хофа"
 - "дослідження"
 description: "Огляд 2025: холодне занурення - короткий сплеск бадьорості, а не ліки для імунітету, сну чи запалення."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317615"
   - "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0161749"

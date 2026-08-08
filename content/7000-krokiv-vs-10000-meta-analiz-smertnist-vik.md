@@ -13,7 +13,7 @@ tags:
 - "мета-аналіз"
 - "дослідження"
 description: "Мета-аналізи показують: близько 7000 кроків дають більшу частину користі для здоров'я."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(25)00164-1/fulltext"
   - "https://pubmed.ncbi.nlm.nih.gov/35247352/"

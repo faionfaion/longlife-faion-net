@@ -14,7 +14,7 @@ tags:
 - "Африка"
 - "дослідження"
 description: "Три штами Ебола, ERVEBO, Sabin і Oxford: що робити українцю з квитком у Кампалу в серпні 2026."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.sabin.org/resources/sabin-vaccine-institute-completes-enrollment-in-all-phase-2-clinical-trials-for-cad3-marburg-vaccine-and-cad3-sudan-ebolavirus-vaccine/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC10837320/"

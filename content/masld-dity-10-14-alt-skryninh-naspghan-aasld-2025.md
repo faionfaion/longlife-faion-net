@@ -16,7 +16,7 @@ tags:
 - "скринінг"
 - "дослідження"
 description: "Чому підліткам з ІМТ ≥85 перцентиля варто здавати ALT - і чого поки не передбачає український профогляд."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/26512983/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12751582/"

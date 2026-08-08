@@ -11,7 +11,7 @@ tags:
 - "Тренування"
 - "Фітнес"
 description: "Чому мобільність суглобів визначає якість життя після 50 і як її тренувати щодня"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pubmed.ncbi.nlm.nih.gov/35891405/"
 - "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9209691/"

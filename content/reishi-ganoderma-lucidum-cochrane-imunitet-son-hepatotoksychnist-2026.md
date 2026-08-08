@@ -14,7 +14,7 @@ tags:
 - "печінка"
 - "онкологія"
 description: "Що каже Cochrane, LiverTox і MSKCC про рейши: імунітет, сон, рак, гепатотоксичність і взаємодія з ліками."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007731.pub3/full"
   - "https://www.ncbi.nlm.nih.gov/books/NBK609014/"

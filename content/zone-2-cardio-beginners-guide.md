@@ -10,7 +10,7 @@ tags:
 - "Тренування"
 - "Здоров'я серця"
 description: "Що таке Zone 2 кардіо, чому його рекомендують лікарі та як правильно тренуватися"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pubmed.ncbi.nlm.nih.gov/35146365/"
 - "https://www.acsm.org/education-resources/trending-topics-resources/physical-activity-guidelines"

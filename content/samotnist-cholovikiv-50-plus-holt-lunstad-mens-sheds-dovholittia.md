@@ -13,7 +13,7 @@ tags:
 - "дослідження"
 - "профілактика"
 description: "Мета-аналіз 148 досліджень, дані UK Biobank 2025 і чому чоловіки після 50 у зоні особливого ризику. Плюс практичний протокол Men's Sheds і Данбара."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316"
   - "https://pubmed.ncbi.nlm.nih.gov/25910392/"

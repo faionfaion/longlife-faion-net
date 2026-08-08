@@ -10,7 +10,7 @@ tags:
 - "Стрес"
 - "Щоденні звички"
 description: "Як щоденник вдячності змінює мозок і знижує стрес: наука, протокол та практичні поради"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pubmed.ncbi.nlm.nih.gov/26746580/"
 - "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8361606/"

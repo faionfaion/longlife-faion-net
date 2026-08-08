@@ -15,8 +15,8 @@ tags:
 - "профілактика"
 - "здоров'я дітей"
 - "catch-up"
-description: "Календар МОЗ-2026, дані WHO-UNICEF та практичні кроки catch-up після переміщення - розбір від Віти Зеленко."
-author: "Віта Зеленко"
+description: "Календар МОЗ-2026, дані WHO-UNICEF та практичні кроки catch-up після переміщення - розбір від Віти ."
+author: "Віта"
 source_urls:
   - "https://www.who.int/news/item/15-07-2026-global-childhood-immunization-coverage-inches-forward-despite-conflict-and-hesitancy---unicef--who"
   - "https://www.unicef.org/eca/press-releases/childhood-immunization-continues-recover-across-europe-and-central-asia-gaps-remain"

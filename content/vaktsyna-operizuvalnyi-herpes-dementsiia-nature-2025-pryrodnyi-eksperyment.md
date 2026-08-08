@@ -13,7 +13,7 @@ tags:
 - "дослідження"
 - "довголіття"
 description: "Природний експеримент 2025 у Nature: вакцина від герпесу і нижчий ризик деменції."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.nature.com/articles/s41586-025-08800-x"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12058522/"

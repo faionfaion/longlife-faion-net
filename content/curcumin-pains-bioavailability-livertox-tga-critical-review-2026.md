@@ -16,7 +16,7 @@ tags:
 - "піперин"
 - "РКД"
 description: "Куркумін: 20 000 публікацій, слабкі РКД і реальні випадки ураження печінки - що варто знати перед прийомом."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/28074653/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12176752/"

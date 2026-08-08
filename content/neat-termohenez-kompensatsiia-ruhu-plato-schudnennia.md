@@ -15,7 +15,7 @@ tags:
 - "плато у схудненні"
 - "сидячий спосіб життя"
 description: "Чому при дефіциті калорій ми непомітно менше рухаємось - і як утримати NEAT"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.science.org/doi/10.1126/science.283.5399.212"
   - "https://pubmed.ncbi.nlm.nih.gov/15681386/"

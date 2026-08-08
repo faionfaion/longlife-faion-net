@@ -13,7 +13,7 @@ tags:
 - "предіабет"
 - "метаболічне здоров'я"
 description: "Чи варто здоровим носити глюкозний монітор? Докази 2024–2025 про точність CGM."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC11747189/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12107490/"

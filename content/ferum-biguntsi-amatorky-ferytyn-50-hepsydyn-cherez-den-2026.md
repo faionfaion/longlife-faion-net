@@ -14,7 +14,7 @@ tags:
 - "гепсидин"
 - "витривалість"
 description: "Чому бігункам важливий феритин ≥50, схема «через день» і які аналізи здати до першої десятки."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/31055680/"
   - "https://pubmed.ncbi.nlm.nih.gov/39536912/"

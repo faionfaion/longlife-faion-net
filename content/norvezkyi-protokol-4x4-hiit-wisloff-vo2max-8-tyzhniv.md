@@ -14,7 +14,7 @@ tags:
 - "серце"
 - "інтервальне тренування"
 description: "Норвезький 4×4 HIIT: як за 8 тижнів підняти VO2max на 10–15% і безпечно інтегрувати з Zone 2."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/17548726/"
   - "https://pubmed.ncbi.nlm.nih.gov/24144531/"

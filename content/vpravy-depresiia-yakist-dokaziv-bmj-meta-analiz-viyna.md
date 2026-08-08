@@ -13,7 +13,7 @@ tags:
 - "війна"
 - "ментальне здоровя"
 description: "Мета-аналіз 218 досліджень про вправи проти депресії: ефект реальний, але оцінка доказів - «низька достовірність»."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/38355154/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC10870815/"

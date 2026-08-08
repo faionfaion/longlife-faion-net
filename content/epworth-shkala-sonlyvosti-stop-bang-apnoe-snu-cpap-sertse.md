@@ -14,7 +14,7 @@ tags:
 - "серце"
 - "дослідження"
 description: "Чому STOP-BANG варто доповнити шкалою Епворта і що свіжі дані кажуть про CPAP та серце."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pubmed.ncbi.nlm.nih.gov/1798888/"
 - "https://pubmed.ncbi.nlm.nih.gov/36267990/"

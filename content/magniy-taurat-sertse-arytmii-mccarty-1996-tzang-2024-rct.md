@@ -14,7 +14,7 @@ tags:
 - "дослідження"
 - "кардіологія"
 description: "Магній таурат називають «серцевою» формою, але прямих RCT немає. Розбираємо McCarty 1996, Sun 2016, Tzang 2024 і чому маркетинг випереджає докази."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/8692051/"
   - "https://www.ahajournals.org/doi/10.1161/hypertensionaha.115.06624"

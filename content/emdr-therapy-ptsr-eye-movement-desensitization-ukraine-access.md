@@ -14,7 +14,7 @@ tags:
 - "Україна"
 - "дослідження"
 description: "EMDR - доказова терапія ПТСР нарівні з КПТ. Як працює, що кажуть мета-аналізи, де знайти терапевта в Україні."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.who.int/news/item/06-08-2013-who-releases-guidance-on-mental-health-care-after-trauma"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC7144187/"

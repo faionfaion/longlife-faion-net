@@ -14,7 +14,7 @@ tags:
 - "HPA-вісь"
 - "ПТСР"
 description: "CAR - це нормальний ранковий підйом кортизолу, а при вигоранні він, навпаки, знижений. Чому слинові тести не працюють."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/18854200/"
   - "https://journals.lww.com/nohe/fulltext/2000/02070/the_cortisol_awakening_response___normal_values.9.aspx"

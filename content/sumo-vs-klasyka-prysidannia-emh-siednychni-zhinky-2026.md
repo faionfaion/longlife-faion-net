@@ -13,7 +13,7 @@ tags:
 - "ЕМГ"
 - "дослідження"
 description: "ЕМГ-дослідження про сумо vs класичний присід для сідниць і аддукторів у жінок"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7831128/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC8440835/"

@@ -16,7 +16,7 @@ tags:
 - "VILPA"
 - "exercise snacking"
 description: "90-хвилинний доказовий протокол активного відпочинку на суботу: ходьба, мобільність, circuit, розтяжка, сауна."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.who.int/publications/i/item/9789240015128"
   - "https://pubmed.ncbi.nlm.nih.gov/29934848/"

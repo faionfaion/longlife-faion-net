@@ -10,7 +10,7 @@ tags:
 - "Продуктивність"
 - "Сон"
 description: "Наука про кофеїн: оптимальна доза, час прийому, індивідуальна чутливість та вплив на сон"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pubmed.ncbi.nlm.nih.gov/27612937/"
 - "https://pubmed.ncbi.nlm.nih.gov/30137774/"

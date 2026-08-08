@@ -16,7 +16,7 @@ tags:
 - "антибіотики"
 - "бісептол"
 description: "Як відрізнити циклоспоріаз від діареї мандрівника, чому бісептол - перша лінія і що робити після Мексики, Туреччини чи Єгипту."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.gov.uk/government/news/sharp-rise-in-cyclospora-infections-linked-to-mexico-travel"
   - "https://ukhsa.blog.gov.uk/2026/07/30/cyclospora-what-it-is-and-how-can-you-protect-yourself-when-travelling/"

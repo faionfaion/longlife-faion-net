@@ -15,7 +15,7 @@ tags:
 - "ЄС"
 - "дослідження"
 description: "WHA79 у Женеві: п'ять рішень ВООЗ, що вплинуть на українських пацієнтів і лікарів у 2026 році."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.who.int/news/item/18-05-2026-world-health-assembly-opens-in-geneva--switzerland"
   - "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-79th-world-health-assembly-high-level-welcome---18-may-2026"

@@ -14,7 +14,7 @@ tags:
 - "деменція"
 - "діабет"
 description: "Що кажуть дослідження 2014–2025 років про метформін, TAME та довголіття - без сенсацій."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/25041462/"
   - "https://pubmed.ncbi.nlm.nih.gov/28802803/"

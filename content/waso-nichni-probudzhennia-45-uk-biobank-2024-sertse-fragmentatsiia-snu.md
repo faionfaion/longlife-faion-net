@@ -14,7 +14,7 @@ tags:
 - "після 45"
 - "апное сну"
 description: "UK Biobank 2024: актиграфічний WASO не пов'язаний зі смертністю. Але arousal burden на ЕЕГ - так. Розбираємо різницю."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://academic.oup.com/sleep/article/47/3/zsad312/7464079"
   - "https://academic.oup.com/eurheartj/article/42/21/2088/6239256"

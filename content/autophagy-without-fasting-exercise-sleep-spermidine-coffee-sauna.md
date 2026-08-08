@@ -15,7 +15,7 @@ tags:
 - "клітинне здоров'я"
 - "дослідження"
 description: "Вправи, сон, спермідин, кава, сауна - як активувати аутофагію без голодування. Огляд доказів."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/30633901/"
   - "https://pubmed.ncbi.nlm.nih.gov/22258505/"

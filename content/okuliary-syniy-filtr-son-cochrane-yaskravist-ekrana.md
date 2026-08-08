@@ -14,7 +14,7 @@ tags:
 - "біохакінг"
 - "дослідження"
 description: "Чи покращують окуляри з фільтром синього світла сон? Огляд доказів Cochrane і мета-аналізу 2025."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/37593770/"
   - "https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2025.1699303/full"

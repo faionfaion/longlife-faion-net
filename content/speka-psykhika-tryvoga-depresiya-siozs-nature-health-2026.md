@@ -16,7 +16,7 @@ tags:
 - "паніка"
 - "сон"
 description: "Nature Health 2026, Lancet і JAMA Psychiatry: як хвилі спеки підвищують ризик депресії, тривоги, панічних атак - і що робити тим, хто на СІОЗС."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.nature.com/articles/s44360-026-00166-2"
   - "https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(23)00104-3/fulltext"

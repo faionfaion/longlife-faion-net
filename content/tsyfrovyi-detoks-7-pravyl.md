@@ -10,7 +10,7 @@ tags:
 - "Продуктивність"
 - "Сон"
 description: "7 простих правил, які допоможуть зменшити шкоду від екранів без радикальних обмежень"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep"
 - "https://pubmed.ncbi.nlm.nih.gov/36764403/"

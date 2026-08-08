@@ -14,7 +14,7 @@ tags:
 - "мета-аналіз"
 - "дослідження"
 description: "Мета-аналіз 136 265 учасників: відчуття мети пов'язане з 17% нижчим ризиком смерті. Механізми, застереження, поради."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/26630073/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC6632139/"

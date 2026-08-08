@@ -12,7 +12,7 @@ tags:
 - "біохак"
 - "дослідження"
 description: "Обважнені ковдри для сну і тривоги: що кажуть дослідження - робочий біохак чи дорогий плацебо?"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/32536366/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC11539645/"

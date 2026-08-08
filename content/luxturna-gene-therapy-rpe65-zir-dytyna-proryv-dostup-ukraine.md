@@ -14,7 +14,7 @@ tags:
 - "доступ до ліків"
 - "Україна"
 description: "Як генна терапія Luxturna повернула зір дитині, що кажуть дослідження, скільки це коштує і чому це важливо для України."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.bbc.com/news/articles/ce35x8759zzo"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC5726391/"

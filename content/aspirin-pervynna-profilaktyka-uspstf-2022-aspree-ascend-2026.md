@@ -14,7 +14,7 @@ tags:
 - "дослідження"
 - "довголіття"
 description: "Чому USPSTF з 2022 не радить аспірин здоровим 60+ для первинної профілактики - і що робити замість нього."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/aspirin-to-prevent-cardiovascular-disease-preventive-medication"
   - "https://jamanetwork.com/journals/jama/fullarticle/2791399"

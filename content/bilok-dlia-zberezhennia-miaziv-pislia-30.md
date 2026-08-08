@@ -11,7 +11,7 @@ tags:
 - "Дослідження"
 - "М'язи"
 description: "Скільки білка потрібно вживати після 30, щоб зберегти м'язову масу: дані досліджень 2024-2025"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://pubmed.ncbi.nlm.nih.gov/37145023/"
 - "https://www.issn.net/protein-recommendations/"

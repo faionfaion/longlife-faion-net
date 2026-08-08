@@ -13,7 +13,7 @@ tags:
 - "мелатонін"
 - "дослідження 2025"
 description: "Хрононутриціологія 2024–2025: чи справді раннє вікно харчування краще для інсуліну за пізнє?"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.nature.com/articles/s41387-024-00347-6"
   - "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(22)00397-7"

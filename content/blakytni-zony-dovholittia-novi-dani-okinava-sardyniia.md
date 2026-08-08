@@ -10,7 +10,7 @@ tags:
 - "Blue Zones"
 - "Харчування"
 description: "Що нового дізналися вчені про секрети довгожителів Окінави та Сардинії у 2025-2026 роках"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://www.bluezones.com/exploration/"
 - "https://pubmed.ncbi.nlm.nih.gov/36243226/"

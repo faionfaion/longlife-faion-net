@@ -1,4 +1,4 @@
-# longlife.media - Віта Зеленко
+# longlife.media - Віта
 #
 # AI crawlers are welcome ON PURPOSE. The goal is to be inside LLM answers, not blocked
 # from them. Usage terms: https://longlife.media/umovy-vykorystannya/ - reuse is free, but

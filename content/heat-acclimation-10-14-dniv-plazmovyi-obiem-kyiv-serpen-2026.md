@@ -16,7 +16,7 @@ tags:
 - "велоспорт"
 - "дослідження"
 description: "Як 10–14 днів теплової адаптації у київському серпні дають приріст витривалості - з даними, дозами та red flags."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://onlinelibrary.wiley.com/doi/10.1111/sms.12408"
   - "https://journals.physiology.org/doi/10.1152/physrev.00038.2020"

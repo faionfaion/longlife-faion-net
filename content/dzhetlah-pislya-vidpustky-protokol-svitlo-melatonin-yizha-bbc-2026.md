@@ -14,7 +14,7 @@ tags:
 - "дослідження"
 - "BBC"
 description: "Як пересунути внутрішній годинник назад на київський час: світло, мелатонін, час сніданку - з посиланнями на дослідження."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.bbc.co.uk/news/articles/cvgj846q2veo"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC2829880/"

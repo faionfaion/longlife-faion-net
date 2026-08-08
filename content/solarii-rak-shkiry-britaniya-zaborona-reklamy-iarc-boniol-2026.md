@@ -14,7 +14,7 @@ tags:
 - "IARC"
 - "ВООЗ"
 description: "Британські депутати пропонують заборонити рекламу соляріїв. Що каже наука про UV-лампи й ризик меланоми."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.bbc.com/news/articles/c142g8567xko"
   - "https://professionalbeauty.co.uk/appg-uv-safety-report-sunscreen-vat-sunbed-regulation"

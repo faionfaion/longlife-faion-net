@@ -16,7 +16,7 @@ tags:
 - "інфекційні хвороби"
 - "вакцина VLA15"
 description: "Покроковий алгоритм при укусі кліща: видалення, антибіотик за NICE/IDSA, симптоми борреліозу, вакцина VLA15"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/33251700/"
   - "https://academic.oup.com/cid/article/72/1/e1/6010652"

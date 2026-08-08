@@ -16,7 +16,7 @@ tags:
 - "мета-аналіз"
 - "біохакінг"
 description: "Свіжі мета-аналізи 2025–2026, ризики для печінки та щитоподібної, і чому курси до 3 місяців - розумно."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/38140274/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC10647917/"

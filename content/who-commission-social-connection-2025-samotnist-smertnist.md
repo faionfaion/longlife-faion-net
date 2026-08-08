@@ -14,7 +14,7 @@ tags:
 - "дослідження"
 - "мета-аналіз"
 description: "Звіт ВООЗ 2025: 871 000 смертей на рік, український контекст війни, три інтервенції з доказами."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://who.int/news/item/30-06-2025-social-connection-linked-to-improved-heath-and-reduced-risk-of-early-death"
   - "https://www.who.int/groups/commission-on-social-connection"

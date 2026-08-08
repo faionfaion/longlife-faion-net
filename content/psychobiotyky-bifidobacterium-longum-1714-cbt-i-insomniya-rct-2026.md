@@ -16,7 +16,7 @@ tags:
 - "психічне здоров'я"
 - "доказова медицина"
 description: "Мета-аналізи 2025–2026 vs CBT-I: чи справді B. longum 1714 допомагає спати."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC10866977/"
   - "https://www.nature.com/articles/tp2016191"

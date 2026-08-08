@@ -14,7 +14,7 @@ tags:
 - "мета-аналіз"
 - "фітнес"
 description: "BFR із легкими вагами: що кажуть мета-аналізи про гіпертрофію, силу, безпеку та кому метод реально потрібен."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/29043659/"
   - "https://pubmed.ncbi.nlm.nih.gov/28259850/"

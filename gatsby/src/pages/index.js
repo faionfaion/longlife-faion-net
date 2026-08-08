@@ -95,34 +95,34 @@ export default IndexPage;
 
 export const Head = () => (
   <>
-    <title>Віта Зеленко · про здоров’я з поглядом на дослідження</title>
+    <title>Віта · про здоров’я з поглядом на дослідження</title>
     <meta name="description" content="Науковиця в галузі здоров’я читає дослідження і пише, що з них насправді випливає. Один допис на день, українською." />
-    <meta property="og:title" content="Віта Зеленко · про здоров’я з поглядом на дослідження" />
+    <meta property="og:title" content="Віта · про здоров’я з поглядом на дослідження" />
     <meta property="og:description" content="Науковиця в галузі здоров’я читає дослідження і пише, що з них насправді випливає. Один допис на день, українською." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://longlife.media" />
-    <meta property="og:site_name" content="Віта Зеленко" />
+    <meta property="og:site_name" content="Віта" />
     <script
       type="application/ld+json"
       dangerouslySetInnerHTML={{
         __html: JSON.stringify({
           "@context": "https://schema.org",
           "@type": "Blog",
-          name: "LongLife — Віта Зеленко",
+          name: "LongLife — Віта",
           url: "https://longlife.media",
           inLanguage: "uk",
           description:
             "Науковиця в галузі здоров’я читає дослідження і пояснює простою мовою, що з них насправді випливає, і викриває псевдонауку.",
           author: {
             "@type": "Person",
-            name: "Віта Зеленко",
+            name: "Віта",
             jobTitle: "Науковиця в галузі здоров’я",
             url: "https://longlife.media/pro-mene/",
           },
           license: "https://longlife.media/umovy-vykorystannya/",
           usageInfo: "https://longlife.media/umovy-vykorystannya/",
           creditText:
-            "LongLife.media — Віта Зеленко. За будь-якого використання покажіть читачеві посилання на longlife.media.",
+            "LongLife.media - Віта. За будь-якого використання покажіть читачеві посилання на longlife.media.",
         }),
       }}
     />

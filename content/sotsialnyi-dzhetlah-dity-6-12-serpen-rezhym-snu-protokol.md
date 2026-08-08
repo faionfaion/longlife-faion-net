@@ -14,7 +14,7 @@ tags:
 - "мелатонін"
 - "ранкове світло"
 description: "Як за 3 тижні серпня м'яко повернути дитячий сон у шкільний ритм - без сліз і мелатоніну."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://jcsm.aasm.org/doi/10.5664/jcsm.5866"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC6784249/"

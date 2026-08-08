@@ -16,7 +16,7 @@ tags:
 - "EFSA"
 - "iHerb"
 description: "Що насправді показують мета-аналізи про стек L-теанін+кофеїн - і чому зелений чай не дасть клінічної дози."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/18641209/"
   - "https://academic.oup.com/nutritionreviews/article/83/10/1873/8123998"

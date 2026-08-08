@@ -10,7 +10,7 @@ tags:
 - "Діагностика"
 - "Профілактика"
 description: "Повний гід з інтерпретації загального та біохімічного аналізу крові - без медичного жаргону"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://www.ncbi.nlm.nih.gov/books/NBK2263/"
 - "https://pubmed.ncbi.nlm.nih.gov/29083830/"

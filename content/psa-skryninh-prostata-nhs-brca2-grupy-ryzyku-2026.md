@@ -15,7 +15,7 @@ tags:
 - "MRI"
 - "чоловіче здоров'я"
 description: "NHS рекомендує PSA-скринінг лише для чоловіків з BRCA2: розбір ERSPC, CAP, PRECISION і що це означає для українців без національної програми."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://view-health-screening-recommendations.service.gov.uk/prostate-cancer/"
   - "https://news.cancerresearchuk.org/2026/05/28/uk-nsc-recommends-prostate-cancer-screening-for-men-with-a-brca2-gene-change-and-family-history-of-cancer/"

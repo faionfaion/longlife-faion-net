@@ -14,7 +14,7 @@ tags:
 - "жайворонки"
 - "сови"
 description: "Коли краще тренуватись із залізом: ранок чи вечір? Що каже наука про хронотипи, силу й гіпертрофію."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/27863207/"
   - "https://pubmed.ncbi.nlm.nih.gov/22531613/"

@@ -14,7 +14,7 @@ tags:
 - "вітамін С"
 - "дослідження"
 description: "Що кажуть мета-аналізи про колаген для шкіри, суглобів і сухожиль - без хайпу і маркетингу."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://longlife.media/kolagen-dobavky-dokazy-shkira-suglobyvolossia/"
   - "https://pubmed.ncbi.nlm.nih.gov/30368550/"

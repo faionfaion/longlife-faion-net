@@ -10,7 +10,7 @@ tags:
 - "Харчування"
 - "Пробіотики"
 description: "Як мікробіом кишечника впливає на мозок і які продукти його підтримують"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://www.nature.com/articles/s41564-023-01463-0"
 - "https://pubmed.ncbi.nlm.nih.gov/36477049/"

@@ -10,7 +10,7 @@ tags:
 - "Доказова медицина"
 - "Нутриціологія"
 description: "Розбираємо популярні суперфуди: що підтверджено наукою, а що - лише маркетинг"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://www.hsph.harvard.edu/nutritionsource/superfoods/"
 - "https://pubmed.ncbi.nlm.nih.gov/35321811/"

@@ -16,7 +16,7 @@ tags:
 - "біологічний вік"
 - "харчові добавки"
 description: "DO-HEALTH 2025: 1 г омега-3 на день сповільнив біологічний вік у 70+ на ~3 місяці. Кому це справді потрібно."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.nature.com/articles/s43587-024-00793-y"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC11922767/"

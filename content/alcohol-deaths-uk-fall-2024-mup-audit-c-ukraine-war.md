@@ -16,7 +16,7 @@ tags:
 - "сімейна медицина"
 - "політика охорони здоров'я"
 description: "Британія вперше з пандемії знизила алкогольні смерті. Розбираємо, що спрацювало - і чому в Україні інший тренд."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.ons.gov.uk/releases/alcoholspecificdeathsintheukregisteredin2024"
   - "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)00497-X/fulltext"

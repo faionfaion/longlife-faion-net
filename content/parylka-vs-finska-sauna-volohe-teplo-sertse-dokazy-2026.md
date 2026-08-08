@@ -14,7 +14,7 @@ tags:
 - "гіпертонія"
 - "лазня"
 description: "Чи має українська парилка ті самі серцево-судинні бонуси, що й суха фінська сауна? Розбираємо докази."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC9314810/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC4042662/"

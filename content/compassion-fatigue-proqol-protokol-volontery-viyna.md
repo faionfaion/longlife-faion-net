@@ -14,7 +14,7 @@ tags:
 - "стрес"
 - "війна"
 description: "Як розпізнати втому від співчуття та відновитися: ProQOL-тест, межі допомоги, mindfulness - 5 науково обґрунтованих кроків."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://journals.plos.org/mentalhealth/article?id=10.1371/journal.pmen.0000056"
   - "https://psycnet.apa.org/record/1995-97891-001"

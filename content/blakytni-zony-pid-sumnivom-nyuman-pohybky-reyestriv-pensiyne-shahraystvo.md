@@ -13,7 +13,7 @@ tags:
 - "харчування"
 - "критичне мислення"
 description: "Чому довгожителів пов'язують із похибками реєстрів - і які звички довголіття справді працюють."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.biorxiv.org/content/10.1101/704080v1"
   - "https://www.ucl.ac.uk/ioe/news/2024/sep/ucl-demographers-work-debunking-blue-zone-regions-exceptional-lifespans-wins-ig-nobel-prize"

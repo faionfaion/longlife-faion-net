@@ -15,7 +15,7 @@ tags:
 - "харчування"
 - "калорійний дефіцит"
 description: "Мета-аналіз 2024 показав нульовий ефект хром піколінату на вагу. Чому «жувальні GLP-1» - це не GLP-1."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.cochrane.org/evidence/CD010063_chromium-picolinate-supplementation-overweight-or-obese-people"
   - "https://pubmed.ncbi.nlm.nih.gov/37952433/"

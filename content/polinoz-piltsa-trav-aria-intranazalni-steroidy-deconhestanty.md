@@ -14,7 +14,7 @@ tags:
 - "профілактика"
 - "здоров'я"
 description: "Як відрізнити поліноз від застуди й COVID і що працює проти пилку трав за ARIA."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/33024481/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC8250633/"

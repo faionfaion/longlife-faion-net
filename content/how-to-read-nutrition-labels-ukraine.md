@@ -10,7 +10,7 @@ tags:
 - "Здорове харчування"
 - "Гайд"
 description: "Покроковий гайд: як розуміти склад та харчову цінність на українських продуктах"
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
 - "https://zakon.rada.gov.ua/laws/show/2639-19"
 - "https://www.who.int/news-room/fact-sheets/detail/food-labelling"

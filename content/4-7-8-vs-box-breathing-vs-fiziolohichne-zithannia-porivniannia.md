@@ -15,7 +15,7 @@ tags:
 - "дослідження"
 - "психічне здоров'я"
 description: "Head-to-head порівняння трьох дихальних технік: що каже наука, а що - маркетинг соцмереж."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00474-8"
   - "https://pubmed.ncbi.nlm.nih.gov/36630953/"

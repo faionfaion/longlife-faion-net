@@ -14,7 +14,7 @@ tags:
 - "неврологія"
 - "дослідження"
 description: "Чому при СНН у жінок 40+ спершу перевіряють феритин, а не призначають таблетки: розбір гайдлайнів AASM 2024."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://jcsm.aasm.org/doi/abs/10.5664/jcsm.11390"
   - "https://aasm.org/summary-of-new-clinical-practice-guideline-for-rls-and-plmd/"

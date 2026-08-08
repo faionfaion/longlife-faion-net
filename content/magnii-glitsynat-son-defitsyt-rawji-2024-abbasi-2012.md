@@ -14,7 +14,7 @@ tags:
 - "дослідження"
 - "нутрієнти"
 description: "Огляд Rawji 2024: магній допомагає сну переважно при дефіциті. Дози, взаємодії, ризики гіпермагніємії."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/38817505/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC3703169/"

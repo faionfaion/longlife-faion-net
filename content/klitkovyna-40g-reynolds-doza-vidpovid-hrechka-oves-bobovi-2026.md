@@ -16,7 +16,7 @@ tags:
 - "мета-аналіз"
 - "Reynolds"
 description: "Дозозалежна крива клітковини вище 30 г: чому 5 порцій овочів замало і як закрити розрив українськими продуктами."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.thelancet.com/article/S0140-6736(18)31809-9/fulltext"
   - "https://pubmed.ncbi.nlm.nih.gov/30638909/"

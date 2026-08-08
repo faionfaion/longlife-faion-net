@@ -12,7 +12,7 @@ tags:
 - "КПТ"
 - "дослідження"
 description: "Щоденник вдячності: що показують п'ять мета-аналізів і як зробити практику дієвішою."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.pnas.org/doi/10.1073/pnas.2425193122"
   - "https://link.springer.com/article/10.1007/s10902-020-00236-6"

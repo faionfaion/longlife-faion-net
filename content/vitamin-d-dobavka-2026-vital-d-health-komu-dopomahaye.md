@@ -13,7 +13,7 @@ tags:
 - "кістки"
 - "довголіття"
 description: "Що показують найбільші РКД про вітамін D і кому добавка справді потрібна."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.nejm.org/doi/full/10.1056/NEJMoa1809944"
   - "https://www.nejm.org/doi/full/10.1056/NEJMoa2202106"

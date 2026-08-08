@@ -15,7 +15,7 @@ tags:
 - "дослідження"
 - "Україна"
 description: "SELECT-LIFE: ефект семаглутиду зникає після відміни. Розбір ризиків, доступності в Україні та практичних кроків."
-author: "Віта Зеленко"
+author: "Віта"
 source_urls:
   - "https://www.nejm.org/doi/full/10.1056/NEJMoa2307563"
   - "https://sciencehub.novonordisk.com/content/dam/sciencehub/global/en/congresses-and-scientific-publications/congresses/aha2025/lingvay/sliders/Lingvay_AHA25_SELECT-LIFE_poster_slides_Final.pdf"
