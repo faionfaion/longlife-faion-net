@@ -1,0 +1,308 @@
+{
+  "timestamp": "2026-08-08_055656",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "shi-dyzain-bakteriofahiv-science-2026-phagoburn-rct-dokazy, dzhetlah-prc-svitlo-tmin-skhid-zakhid-protokol, stopy-vlitku-trishchyny-pyat-sechovyna-mozol-diabet-syhnal, pornozalezhnist-csbd-mkh-11-6c72-dsm5-skryninh-kpt-act, neat-termohenez-kompensatsiia-ruhu-plato-schudnennia",
+  "author": "LongLife Media",
+  "duration_s": 10433.3,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 265.6,
+      "error": null
+    },
+    {
+      "name": "research:ШІ проектує нові віруси: що на",
+      "status": "ok",
+      "duration_s": 169.1,
+      "error": null
+    },
+    {
+      "name": "generate:ШІ проектує нові віруси: що на",
+      "status": "ok",
+      "duration_s": 117.5,
+      "error": null
+    },
+    {
+      "name": "review:ШІ проектує нові віруси: що на",
+      "status": "ok",
+      "duration_s": 240.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:ШІ проектує нові віруси: що на",
+      "status": "ok",
+      "duration_s": 26.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:ШІ проектує нові віруси: що на",
+      "status": "ok",
+      "duration_s": 14.6,
+      "error": null
+    },
+    {
+      "name": "save:ШІ проектує нові віруси: що на",
+      "status": "ok",
+      "duration_s": 188.6,
+      "error": null
+    },
+    {
+      "name": "research:Вакцини без холодильника: як т",
+      "status": "ok",
+      "duration_s": 853.6,
+      "error": null
+    },
+    {
+      "name": "generate:Вакцини без холодильника: як т",
+      "status": "ok",
+      "duration_s": 119.1,
+      "error": null
+    },
+    {
+      "name": "review:Вакцини без холодильника: як т",
+      "status": "failed",
+      "duration_s": 337.8,
+      "error": "Claude Code returned an error result: Reached maximum number of turns (1)"
+    },
+    {
+      "name": "research:Джетлаг у серпні: чому світло,",
+      "status": "ok",
+      "duration_s": 209.8,
+      "error": null
+    },
+    {
+      "name": "generate:Джетлаг у серпні: чому світло,",
+      "status": "ok",
+      "duration_s": 144.4,
+      "error": null
+    },
+    {
+      "name": "review:Джетлаг у серпні: чому світло,",
+      "status": "ok",
+      "duration_s": 319.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Джетлаг у серпні: чому світло,",
+      "status": "ok",
+      "duration_s": 30.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Джетлаг у серпні: чому світло,",
+      "status": "ok",
+      "duration_s": 13.2,
+      "error": null
+    },
+    {
+      "name": "save:Джетлаг у серпні: чому світло,",
+      "status": "ok",
+      "duration_s": 521.5,
+      "error": null
+    },
+    {
+      "name": "research:Стопи влітку: чому шльопанці з",
+      "status": "ok",
+      "duration_s": 931.0,
+      "error": null
+    },
+    {
+      "name": "generate:Стопи влітку: чому шльопанці з",
+      "status": "ok",
+      "duration_s": 103.9,
+      "error": null
+    },
+    {
+      "name": "review:Стопи влітку: чому шльопанці з",
+      "status": "ok",
+      "duration_s": 268.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Стопи влітку: чому шльопанці з",
+      "status": "ok",
+      "duration_s": 31.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Стопи влітку: чому шльопанці з",
+      "status": "ok",
+      "duration_s": 16.3,
+      "error": null
+    },
+    {
+      "name": "save:Стопи влітку: чому шльопанці з",
+      "status": "ok",
+      "duration_s": 390.7,
+      "error": null
+    },
+    {
+      "name": "research:Порнозалежність чи компульсивн",
+      "status": "ok",
+      "duration_s": 609.6,
+      "error": null
+    },
+    {
+      "name": "generate:Порнозалежність чи компульсивн",
+      "status": "ok",
+      "duration_s": 171.0,
+      "error": null
+    },
+    {
+      "name": "review:Порнозалежність чи компульсивн",
+      "status": "ok",
+      "duration_s": 300.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Порнозалежність чи компульсивн",
+      "status": "ok",
+      "duration_s": 36.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Порнозалежність чи компульсивн",
+      "status": "ok",
+      "duration_s": 12.0,
+      "error": null
+    },
+    {
+      "name": "save:Порнозалежність чи компульсивн",
+      "status": "ok",
+      "duration_s": 183.7,
+      "error": null
+    },
+    {
+      "name": "research:Термогенез без вправ (NEAT): ч",
+      "status": "ok",
+      "duration_s": 481.1,
+      "error": null
+    },
+    {
+      "name": "generate:Термогенез без вправ (NEAT): ч",
+      "status": "ok",
+      "duration_s": 96.9,
+      "error": null
+    },
+    {
+      "name": "review:Термогенез без вправ (NEAT): ч",
+      "status": "ok",
+      "duration_s": 245.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Термогенез без вправ (NEAT): ч",
+      "status": "ok",
+      "duration_s": 20.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Термогенез без вправ (NEAT): ч",
+      "status": "ok",
+      "duration_s": 16.0,
+      "error": null
+    },
+    {
+      "name": "save:Термогенез без вправ (NEAT): ч",
+      "status": "ok",
+      "duration_s": 419.3,
+      "error": null
+    },
+    {
+      "name": "research:Молочна vs рослинна альтернати",
+      "status": "failed",
+      "duration_s": 936.2,
+      "error": "agent_query timed out after 300s"
+    },
+    {
+      "name": "research:Трекер сну бреше? Що показують",
+      "status": "ok",
+      "duration_s": 266.4,
+      "error": null
+    },
+    {
+      "name": "generate:Трекер сну бреше? Що показують",
+      "status": "ok",
+      "duration_s": 60.4,
+      "error": null
+    },
+    {
+      "name": "review:Трекер сну бреше? Що показують",
+      "status": "ok",
+      "duration_s": 193.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Трекер сну бреше? Що показують",
+      "status": "ok",
+      "duration_s": 21.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Трекер сну бреше? Що показують",
+      "status": "ok",
+      "duration_s": 12.9,
+      "error": null
+    },
+    {
+      "name": "save:Трекер сну бреше? Що показують",
+      "status": "ok",
+      "duration_s": 194.2,
+      "error": null
+    },
+    {
+      "name": "research:Тест на біологічний вік за 30 ",
+      "status": "ok",
+      "duration_s": 253.1,
+      "error": null
+    },
+    {
+      "name": "generate:Тест на біологічний вік за 30 ",
+      "status": "ok",
+      "duration_s": 110.7,
+      "error": null
+    },
+    {
+      "name": "review:Тест на біологічний вік за 30 ",
+      "status": "ok",
+      "duration_s": 243.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Тест на біологічний вік за 30 ",
+      "status": "ok",
+      "duration_s": 24.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Тест на біологічний вік за 30 ",
+      "status": "ok",
+      "duration_s": 13.4,
+      "error": null
+    },
+    {
+      "name": "save:Тест на біологічний вік за 30 ",
+      "status": "ok",
+      "duration_s": 192.0,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.7,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}

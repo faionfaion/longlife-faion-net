@@ -6314,5 +6314,18 @@
       "мобільність"
     ],
     "summary": "Article covers gait speed as a prognostic marker of mortality — new material for the corpus (Studenski 2011 JAMA and Cooper 2010 BMJ appeared nowhere previously). Core evidence: pooled analysis of 9 cohorts, 34 485 adults 65+, HR 0,88 per 0,1 m/s increment (~12% lower mortality); at age 75 predicted 10-year survival ranged 19–87% (men) and 35–91% (women). Cooper 2010 BMJ meta-analysis provides the comparative spine: walking speed HR 2,87 > chair rise 1,96 > grip 1,67, with standing balance non-poolable and not consistently significant — which explicitly qualifies our earlier 10-second one-leg-stand article. Operational cutoffs from Miller 2018 (≥1,0 m/s low risk, 0,6–1,0 context-dependent, ≤0,6 concern; EWGSOP2 ≤0,8 with weak standalone sensitivity 54%/specificity 74%).\n\nHonest framing: observational data only, no RCT links improving test score to lower mortality; prognostic value below age 60 unestablished for gait speed, chair rise and balance (only grip strength holds there). Practical takeaway: measure a 4-m course at usual pace as a baseline, train leg strength and balance per WHO 2020 (functional balance + strength ≥3 days/week), see a doctor if speed is under 0,8 m/s or has visibly declined. Includes mandatory disambiguation from the 7000-steps article (walking cadence ≠ 4-m usual gait speed test) and cross-links to the SRT, balance-test and male-osteoporosis pieces rather than retelling them. Deliberately avoids the 'біологічний вік' framing (already occupied by two epigenetic-clock articles and scientifically inaccurate here). Evidence: MODERATE for the prognostic association, absent for causality."
+  },
+  "nove-oblychchia-tsoho-blohu": {
+    "date": "2026-08-08",
+    "title": "Нове обличчя цього блогу",
+    "type": "post",
+    "tags": [
+      "блог",
+      "наукова журналістика",
+      "упередження",
+      "доказовість",
+      "редакційна політика"
+    ],
+    "summary": "Мета-допис про сам блог: пояснення зміни візуальної ідентичності з мальованого персонажа (молода тренерка, комікс-стиль) на фотографічний портрет 42-річної науковиці. Причина — стара графіка використовувала візуальну мову реклами добавок і суперечила головному принципу блогу («покажи дослідження»).\n\nДопис прямо називає авторку персонажем, а не людиною, і пояснює, чому це перевага для теми здоров'я: здатність охопити всю літературу з питання, читати первинні статті замість анотацій, помічати спільних авторів і спонсорів, відрізняти розмір ефекту від заголовка. Окремо перелічено рівні упередженості в галузі (фінансування, публікаційний зсув, відбір заголовків, бажання читача) і власні нахили авторки. Незмінні правила: джерело до кожного твердження, явна невпевненість, публічні виправлення. Оголошено ритм: щоденний допис, п'ятниця — тижнева добірка на одну тему, неділя — довгий підсумок тижня. Фактичних медичних тверджень немає, тому джерела не наводяться."
   }
 }
