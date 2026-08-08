@@ -16,22 +16,16 @@ description: "HALE у Британії впав на 2 роки за десят�
 author: "Віта Зеленко"
 source_urls:
   - "https://www.bbc.com/news/articles/c20q07w3gl9o"
+  - "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)00757-8/fulltext"
   - "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/gho-ghe-hale-healthy-life-expectancy-at-birth"
-  - "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24"
   - "https://www.healthdata.org/research-analysis/health-by-location/profiles/ukraine"
-- "https://www.bbc.com/news/articles/c20q07w3gl9o"
-- "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)00757-8/fulltext"
-- "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/gho-ghe-hale-healthy-life-expectancy-at-birth"
-- "https://www.healthdata.org/research-analysis/health-by-location/profiles/ukraine"
+  - "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24"
 source_names:
-  - "повідомляє"
-  - "методом Саллівана"
+  - "BBC News"
+  - "The Lancet - GBD 2021"
+  - "WHO Global Health Observatory"
+  - "IHME - Institute for Health Metrics and Evaluation"
   - "Global Burden of Disease 2021"
-  - "IHME"
-- "BBC News"
-- "The Lancet - GBD 2021"
-- "WHO Global Health Observatory"
-- "IHME - Institute for Health Metrics and Evaluation"
 image: "/images/hale-healthy-life-expectancy-ukraine-uk-gbd-2021-who.jpg"
 tg_post: |
  <b>Британці втратили 2 роки здорового життя за десятиліття - а в України цифри ще гірші</b>

@@ -20,19 +20,11 @@ source_urls:
   - "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0161749"
   - "https://www.tandfonline.com/doi/full/10.1080/22423982.2022.2111789"
   - "https://pubmed.ncbi.nlm.nih.gov/22547634/"
-- "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317615"
-- "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0161749"
-- "https://www.tandfonline.com/doi/full/10.1080/22423982.2022.2111789"
-- "https://pubmed.ncbi.nlm.nih.gov/22547634/"
 source_names:
-  - "один із перших великих систематичних оглядів саме холодного занурення"
-  - "окремого РКД Буйзе 2016 року"
-  - "огляд Еспеланд 2022 року"
-  - "«автономним конфліктом»"
-- "Cain et al., 2025, PLOS ONE (систематичний огляд + мета-аналіз РКД)"
-- "Buijze et al., 2016, PLOS ONE (РКД)"
-- "Espeland et al., 2022, International Journal of Circumpolar Health (наративний огляд)"
-- "Shattock & Tipton, 2012, The Journal of Physiology (механістичний огляд)"
+  - "Cain et al., 2025, PLOS ONE (систематичний огляд + мета-аналіз РКД)"
+  - "Buijze et al., 2016, PLOS ONE (РКД)"
+  - "Espeland et al., 2022, International Journal of Circumpolar Health (наративний огляд)"
+  - "Shattock & Tipton, 2012, The Journal of Physiology (механістичний огляд)"
 image: "/images/holodne-zanurennia-systematychnyi-ohliad-2025-stres-son-zapalennia.jpg"
 tg_post: |
  <b>Систематичний огляд PLOS ONE 2025: крижані ванни не знімають запалення - вони його підвищують</b>
