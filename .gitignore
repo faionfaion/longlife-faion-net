@@ -25,3 +25,5 @@ gatsby/static/images/*_try*.jpg
 /publish_demo.py
 /one_cover.py
 /welcome.py
+
+/materials_run.py
