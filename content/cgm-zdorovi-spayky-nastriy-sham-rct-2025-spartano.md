@@ -16,6 +16,16 @@ tags:
 description: "Свіжі дані 2025 про CGM для здорових: що показують дослідження і кому сенсор глюкози справді потрібен."
 author: "Віта Зеленко"
 source_urls:
+  - "https://academic.oup.com/jcem/article/104/10/4356/5479355"
+  - "https://pubmed.ncbi.nlm.nih.gov/19885137/"
+  - "https://pmc.ncbi.nlm.nih.gov/articles/PMC11822776/"
+  - "https://diabetesjournals.org/care/article/49/Supplement_1/S150/163922/"
+  - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12617953/"
+  - "https://pmc.ncbi.nlm.nih.gov/articles/PMC11668089/"
+  - "https://pubmed.ncbi.nlm.nih.gov/38925143/"
+  - "https://journals.sagepub.com/doi/10.1177/19322968221110830"
+  - "https://link.springer.com/article/10.1007/s00125-024-06168-7"
+  - "https://dom-pubs.onlinelibrary.wiley.com/doi/10.1111/dom.70254"
 - "https://academic.oup.com/jcem/article/104/10/4356/5479355"
 - "https://pubmed.ncbi.nlm.nih.gov/19885137/"
 - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12617953/"
@@ -27,6 +37,16 @@ source_urls:
 - "https://www.thecardiologyadvisor.com/news/cgm-does-not-affect-pregnancy-outcomes-in-gestational-diabetes/"
 - "https://dom-pubs.onlinelibrary.wiley.com/doi/10.1111/dom.70254"
 source_names:
+  - "JCEM 2019"
+  - "JDST 2007"
+  - "Spartano 2025, JDST"
+  - "ADA 2026"
+  - "PLOS Digital Health 2025"
+  - "IJBNPA 2024"
+  - "Diabetic Medicine 2024"
+  - "JDST 2023"
+  - "DipGluMo RCT, Diabetologia 2024, DOI: 10.1007/s00125-024-06168-7"
+  - "Steady Sugar RCT"
 - "Journal of Clinical Endocrinology & Metabolism (Shah 2019)"
 - "Journal of Diabetes Science and Technology (Freckmann 2007)"
 - "PLOS Digital Health (CGM-HYPE 2025)"
@@ -54,21 +74,21 @@ tg_post: |
 
 ## Що вважати «нормальним» спайком?
 
-Почнемо з базового питання: який рівень цукру у здорових людей взагалі нормальний? Класичне дослідження Shah та колег у *Journal of Clinical Endocrinology & Metabolism* (2019, n=153, вік 7–80) показало, що здорові люди проводять **96% часу в діапазоні 3.9–7.8 ммоль/л**. Середній рівень - 5.4–5.5 ммоль/л ([JCEM 2019](https://academic.oup.com/jcem/article/104/10/4356/5479355)).
+Почнемо з базового питання: який рівень цукру у здорових людей взагалі нормальний? Класичне дослідження Shah та колег у *Journal of Clinical Endocrinology & Metabolism* (2019, n=153, вік 7–80) показало, що здорові люди проводять **96% часу в діапазоні 3.9–7.8 ммоль/л**. Середній рівень - 5.4–5.5 ммоль/л (JCEM 2019).
 
-Ще раніше Freckmann та команда (*Journal of Diabetes Science and Technology*, 2007) описали типові піки після їжі у 24 здорових молодих людей: сніданок - до 7.4 ммоль/л, обід - 6.6, вечеря - 6.8 ммоль/л ([JDST 2007](https://pubmed.ncbi.nlm.nih.gov/19885137/)).
+Ще раніше Freckmann та команда (*Journal of Diabetes Science and Technology*, 2007) описали типові піки після їжі у 24 здорових молодих людей: сніданок - до 7.4 ммоль/л, обід - 6.6, вечеря - 6.8 ммоль/л (JDST 2007).
 
 Тобто помірне підвищення після банана чи вівсянки - це фізіологічна норма, а не «метаболічна катастрофа», якою її часто малюють у сторіз.
 
 ## Свіжий консенсус 2025: жодних валідованих метрик для здорових
 
-У 2025 році 20+ провідних CGM-експертів (Freckmann, Battelino, Edelman, Peters, Shah) опублікували Delphi-консенсус у *JDST*. Головна теза: **наразі немає валідованих CGM-метрик для оцінки метаболічного ризику у людей без діабету** ([Spartano 2025, JDST](https://pmc.ncbi.nlm.nih.gov/articles/PMC11822776/)).
+У 2025 році 20+ провідних CGM-експертів (Freckmann, Battelino, Edelman, Peters, Shah) опублікували Delphi-консенсус у *JDST*. Головна теза: **наразі немає валідованих CGM-метрик для оцінки метаболічного ризику у людей без діабету** (Spartano 2025, JDST).
 
-Паралельно ADA у *Standards of Care 2026* розширила рекомендацію CGM для дорослих з діабетом 2 типу навіть без інсуліну (попередні оновлення щодо CGM при Т2Д на пероральних препаратах з'являлися ще у Standards 2024) - але **не для wellness-використання у здорових** ([ADA 2026](https://diabetesjournals.org/care/article/49/Supplement_1/S150/163922/)).
+Паралельно ADA у *Standards of Care 2026* розширила рекомендацію CGM для дорослих з діабетом 2 типу навіть без інсуліну (попередні оновлення щодо CGM при Т2Д на пероральних препаратах з'являлися ще у Standards 2024) - але **не для wellness-використання у здорових** (ADA 2026).
 
 ## Стрес теж «підіймає цукор» - і це нормально
 
-Експлораторне дослідження CGM-HYPE (*PLOS Digital Health*, листопад 2025, n=10 здорових молодих людей) перевіряло 9 стандартизованих викликів: їжа, аеробний біг, анаеробний спринт і Trier Social Stress Test - стандартизований психологічний стрес-тест ([PLOS Digital Health 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12617953/)).
+Експлораторне дослідження CGM-HYPE (*PLOS Digital Health*, листопад 2025, n=10 здорових молодих людей) перевіряло 9 стандартизованих викликів: їжа, аеробний біг, анаеробний спринт і Trier Social Stress Test - стандартизований психологічний стрес-тест (PLOS Digital Health 2025).
 
 Цікаві знахідки: анаеробне навантаження давало **більший спайк, ніж аеробне** (парадокс для тих, хто думає «побігаю - цукор впаде»). А психологічний стрес підіймав глюкозу у цілком здорових людей.
 
@@ -76,15 +96,15 @@ tg_post: |
 
 ## Що з мета-аналізами?
 
-Найбільший систематичний огляд Richardson та колег у *IJBNPA* (2024, 25 РКД, ~3000 учасників) знайшов у не-діабетиків зниження ваги лише на **-0.7 кг, p=0.066** - статистично не значуще ([IJBNPA 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11668089/)).
+Найбільший систематичний огляд Richardson та колег у *IJBNPA* (2024, 25 РКД, ~3000 учасників) знайшов у не-діабетиків зниження ваги лише на **-0.7 кг, p=0.066** - статистично не значуще (IJBNPA 2024).
 
-Критичний огляд UCL у *Diabetic Medicine* (Oganesova 2024) прямо називає комерційні обіцянки виробників для здорових «оманливими» ([Diabetic Medicine 2024](https://pubmed.ncbi.nlm.nih.gov/38925143/)).
+Критичний огляд UCL у *Diabetic Medicine* (Oganesova 2024) прямо називає комерційні обіцянки виробників для здорових «оманливими» (Diabetic Medicine 2024).
 
 ## Кому CGM справді допомагає
 
-За рамкою Klonoff та колег (*JDST* 2023), чіткі показання - це діабет 1 і 2 типу, преддіабет (HbA1c 5.7–6.4%), стероїд-індукована гіперглікемія ([JDST 2023](https://journals.sagepub.com/doi/10.1177/19322968221110830)).
+За рамкою Klonoff та колег (*JDST* 2023), чіткі показання - це діабет 1 і 2 типу, преддіабет (HbA1c 5.7–6.4%), стероїд-індукована гіперглікемія (JDST 2023).
 
-Щодо гестаційного цукрового діабету (ГЦД - форма діабету, що вперше виявляється під час вагітності) картина неоднозначна: швейцарський RCT DipGluMo (n=302) **не показав** переваги CGM над самомоніторингом ([DipGluMo RCT, Diabetologia 2024, DOI: 10.1007/s00125-024-06168-7](https://link.springer.com/article/10.1007/s00125-024-06168-7)), тоді як Steady Sugar виявив покращення у деяких показниках ([Steady Sugar RCT](https://dom-pubs.onlinelibrary.wiley.com/doi/10.1111/dom.70254)).
+Щодо гестаційного цукрового діабету (ГЦД - форма діабету, що вперше виявляється під час вагітності) картина неоднозначна: швейцарський RCT DipGluMo (n=302) **не показав** переваги CGM над самомоніторингом (DipGluMo RCT, Diabetologia 2024, DOI: 10.1007/s00125-024-06168-7), тоді як Steady Sugar виявив покращення у деяких показниках (Steady Sugar RCT).
 
 ## Що можна зробити вже сьогодні 🥗
 

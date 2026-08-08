@@ -16,6 +16,18 @@ tags:
 description: "Три штами Ебола, ERVEBO, Sabin і Oxford: що робити українцю з квитком у Кампалу в серпні 2026."
 author: "Віта Зеленко"
 source_urls:
+  - "https://www.bbc.co.uk/news/articles/c8jn007gmpzo"
+  - "https://www.gov.uk/government/news/precautionary-medical-evacuation-following-a-potential-healthcare-related-exposure-to-ebola"
+  - "https://www.sabin.org/resources/sabin-vaccine-institute-completes-enrollment-in-all-phase-2-clinical-trials-for-cad3-marburg-vaccine-and-cad3-sudan-ebolavirus-vaccine/"
+  - "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10257645/"
+  - "https://www.drugs.com/pro/ervebo.html"
+  - "https://www.merck.com/news/u-s-fda-approves-mercks-ervebo-ebola-zaire-vaccine-live-for-use-in-children-12-months-of-age-and-older/"
+  - "https://www.cdc.gov/ebola/media/pdfs/2024/08/Protocol-7298_v4.1_06.20.2024_clean_v2.pdf"
+  - "https://pmc.ncbi.nlm.nih.gov/articles/PMC10837320/"
+  - "https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON556"
+  - "https://www.nejm.org/doi/full/10.1056/NEJMc2508159"
+  - "https://wwwnc.cdc.gov/travel/notices/level3/ebola-democratic-republic-of-the-congo"
+  - "https://www.ncbi.nlm.nih.gov/books/NBK620896/"
 - "https://www.sabin.org/resources/sabin-vaccine-institute-completes-enrollment-in-all-phase-2-clinical-trials-for-cad3-marburg-vaccine-and-cad3-sudan-ebolavirus-vaccine/"
 - "https://pmc.ncbi.nlm.nih.gov/articles/PMC10837320/"
 - "https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON556"
@@ -32,6 +44,18 @@ source_urls:
 - "https://www.bbc.co.uk/news/articles/c8jn007gmpzo"
 - "https://www.bbc.co.uk/news/articles/cdewk5r308jo"
 source_names:
+  - "BBC, 25.07.2026"
+  - "офіційна заява уряду Великої Британії"
+  - "прес-реліз Sabin"
+  - "Marzi et al., PMC"
+  - "ERVEBO prescribing information"
+  - "FDA/Merck approval"
+  - "CDC IND Protocol 7298"
+  - "Kariuki et al., відкритий доступ через PMC"
+  - "WHO DON556"
+  - "NEJM correspondence"
+  - "офіційна нотифікація"
+  - "Yellow Book 2026, NCBI"
 - "Sabin Vaccine Institute"
 - "The Lancet Infectious Diseases (Kariuki et al., 2023)"
 - "WHO Disease Outbreak News DON556"
@@ -64,11 +88,11 @@ tg_post: |
 
 ## Що сталося у липні–серпні 2026
 
-25 липня 2026 року 37-річний волонтер на ім'я Ед Хант став **першою у світі людиною**, яка отримала експериментальну вакцину проти вірусу Bundibugyo. Вакцину ChAdOx1-Bundibugyo розробили в Oxford Vaccine Group і виготовили за 8 тижнів після оголошення PHEIC (Public Health Emergency of International Concern - надзвичайна ситуація у сфері громадського здоров'я міжнародного значення) у травні. Serum Institute of India вже виготовив 600 000 доз «про запас» ([BBC, 25.07.2026](https://www.bbc.co.uk/news/articles/c8jn007gmpzo)).
+25 липня 2026 року 37-річний волонтер на ім'я Ед Хант став **першою у світі людиною**, яка отримала експериментальну вакцину проти вірусу Bundibugyo. Вакцину ChAdOx1-Bundibugyo розробили в Oxford Vaccine Group і виготовили за 8 тижнів після оголошення PHEIC (Public Health Emergency of International Concern - надзвичайна ситуація у сфері громадського здоров'я міжнародного значення) у травні. Serum Institute of India вже виготовив 600 000 доз «про запас» (BBC, 25.07.2026).
 
-Паралельно UKHSA продовжує моніторити гуманітарного працівника, якого евакуювали з ДРК 21 липня після можливого контакту з пацієнтом ([офіційна заява уряду Великої Британії](https://www.gov.uk/government/news/precautionary-medical-evacuation-following-a-potential-healthcare-related-exposure-to-ebola)). Симптомів немає, але 21 день інкубації доводять до кінця - так працює протокол HCID (high-consequence infectious diseases - інфекції з високими наслідками).
+Паралельно UKHSA продовжує моніторити гуманітарного працівника, якого евакуювали з ДРК 21 липня після можливого контакту з пацієнтом (офіційна заява уряду Великої Британії). Симптомів немає, але 21 день інкубації доводять до кінця - так працює протокол HCID (high-consequence infectious diseases - інфекції з високими наслідками).
 
-А 10 березня 2026 року Sabin Vaccine Institute завершив набір у **Фазу 2** клінічних випробувань вакцини cAd3-Sudan - це принципово інша вакцина, і це принципово інший штам ([прес-реліз Sabin](https://www.sabin.org/resources/sabin-vaccine-institute-completes-enrollment-in-all-phase-2-clinical-trials-for-cad3-marburg-vaccine-and-cad3-sudan-ebolavirus-vaccine/)). Понад 2 800 учасників у Кенії, Уганді та США, серйозних проблем безпеки поки не зафіксовано, дані про імуногенність очікуються цього року.
+А 10 березня 2026 року Sabin Vaccine Institute завершив набір у **Фазу 2** клінічних випробувань вакцини cAd3-Sudan - це принципово інша вакцина, і це принципово інший штам (прес-реліз Sabin). Понад 2 800 учасників у Кенії, Уганді та США, серйозних проблем безпеки поки не зафіксовано, дані про імуногенність очікуються цього року.
 
 ## Три штами Ебола - і чому це не «одна хвороба»
 
@@ -80,25 +104,25 @@ tg_post: |
 | Sudan (SUDV) | 41–70% | НІ | Sabin cAd3-Sudan - Фаза 2 завершена |
 | Bundibugyo (BDBV) | 25–51% | НІ | Oxford ChAdOx-BDBV - Фаза 1, старт 25.07.2026 |
 
-Глікопротеїни (це такі «шипи» на поверхні вірусу, до яких приліплюються антитіла) у Zaire і Sudan збігаються приблизно на **55–70%** залежно від методу порівняння послідовностей ([Marzi et al., PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10257645/)). Тобто антигенно це різні віруси - імунітет проти одного погано працює проти іншого.
+Глікопротеїни (це такі «шипи» на поверхні вірусу, до яких приліплюються антитіла) у Zaire і Sudan збігаються приблизно на **55–70%** залежно від методу порівняння послідовностей (Marzi et al., PMC). Тобто антигенно це різні віруси - імунітет проти одного погано працює проти іншого.
 
-Преклінічне дослідження на морських свинках показало: вакцина ERVEBO дає лише **часткове і непослідовне** перехресне захищення проти Sudan. У людей, вакцинованих ERVEBO, іноді з'являються перехресні антитіла, але вони погано нейтралізують SUDV. Тому інструкція FDA прямо пише: «не захищає від інших видів Ebolavirus чи Marburgvirus» ([ERVEBO prescribing information](https://www.drugs.com/pro/ervebo.html)).
+Преклінічне дослідження на морських свинках показало: вакцина ERVEBO дає лише **часткове і непослідовне** перехресне захищення проти Sudan. У людей, вакцинованих ERVEBO, іноді з'являються перехресні антитіла, але вони погано нейтралізують SUDV. Тому інструкція FDA прямо пише: «не захищає від інших видів Ebolavirus чи Marburgvirus» (ERVEBO prescribing information).
 
 ## ERVEBO: коли працює, а коли ні
 
-ERVEBO - це **жива атенуйована рекомбінантна вакцина** (тобто містить ослаблений живий вірус-носій) на основі вірусу везикулярного стоматиту, у якому «підмінили» глікопротеїн на такий, як у штаму Zaire (Kikwit-1995). Одна доза 1 мл внутрішньом'язово ([FDA/Merck approval](https://www.merck.com/news/u-s-fda-approves-mercks-ervebo-ebola-zaire-vaccine-live-for-use-in-children-12-months-of-age-and-older/)).
+ERVEBO - це **жива атенуйована рекомбінантна вакцина** (тобто містить ослаблений живий вірус-носій) на основі вірусу везикулярного стоматиту, у якому «підмінили» глікопротеїн на такий, як у штаму Zaire (Kikwit-1995). Одна доза 1 мл внутрішньом'язово (FDA/Merck approval).
 
-Оскільки це жива вакцина, є **стандартні протипоказання**: імуносупресія (наприклад, ВІЛ з низьким CD4, хіміотерапія, високі дози системних стероїдів), відома тяжка алергія на компоненти. Дані щодо вагітності та годування груддю обмежені, тому інструкція FDA рекомендує зважувати ризик/користь індивідуально ([ERVEBO prescribing information](https://www.drugs.com/pro/ervebo.html)). Обговори це з лікарем ще до візиту в клініку подорожньої медицини.
+Оскільки це жива вакцина, є **стандартні протипоказання**: імуносупресія (наприклад, ВІЛ з низьким CD4, хіміотерапія, високі дози системних стероїдів), відома тяжка алергія на компоненти. Дані щодо вагітності та годування груддю обмежені, тому інструкція FDA рекомендує зважувати ризик/користь індивідуально (ERVEBO prescribing information). Обговори це з лікарем ще до візиту в клініку подорожньої медицини.
 
-Її ефективність показало кільцеве дослідження «Ebola Ça Suffit!» у Гвінеї 2015 року: 3 537 контактів і контактів контактів отримали вакцину навколо підтверджених випадків Zaire - точкова оцінка ефективності становила 100% (95% ДІ 68,9–100). CDC використовує її за протоколом IND 7298 для ring-вакцинації довкола підтверджених випадків Zaire ([CDC IND Protocol 7298](https://www.cdc.gov/ebola/media/pdfs/2024/08/Protocol-7298_v4.1_06.20.2024_clean_v2.pdf)).
+Її ефективність показало кільцеве дослідження «Ebola Ça Suffit!» у Гвінеї 2015 року: 3 537 контактів і контактів контактів отримали вакцину навколо підтверджених випадків Zaire - точкова оцінка ефективності становила 100% (95% ДІ 68,9–100). CDC використовує її за протоколом IND 7298 для ring-вакцинації довкола підтверджених випадків Zaire (CDC IND Protocol 7298).
 
 Але поточний спалах у ДРК - це **Bundibugyo**. ERVEBO проти нього не працює. І це не «журналістський скептицизм» - це прямо написано на етикетці.
 
 ## Sabin Sudan: чому це важливо навіть без PHEIC
 
-Вакцина cAd3-Sudan від Sabin/NIAID використовує вектор на основі шимпанзячого аденовірусу 3 - та сама платформа, що і для вакцини проти Марбурга. У Фазі 1, опублікованій у **The Lancet Infectious Diseases** у 2023 році, дослідники з Makerere University Walter Reed Project у Кампалі показали: одна доза безпечна для здорових угандійців і викликає стійкі анти-Sudan-GP антитіла, які тримаються щонайменше 48 тижнів ([Kariuki et al., відкритий доступ через PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10837320/)).
+Вакцина cAd3-Sudan від Sabin/NIAID використовує вектор на основі шимпанзячого аденовірусу 3 - та сама платформа, що і для вакцини проти Марбурга. У Фазі 1, опублікованій у **The Lancet Infectious Diseases** у 2023 році, дослідники з Makerere University Walter Reed Project у Кампалі показали: одна доза безпечна для здорових угандійців і викликає стійкі анти-Sudan-GP антитіла, які тримаються щонайменше 48 тижнів (Kariuki et al., відкритий доступ через PMC).
 
-Чому це важливо? У січні 2025 року в Уганді почався **6-й спалах Sudan-Ебола**: 14 випадків (12 підтверджених ПЛР), 4 смерті, летальність близько 29% ([WHO DON556](https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON556); [NEJM correspondence](https://www.nejm.org/doi/full/10.1056/NEJMc2508159)). Спалах загасили за 3 місяці, але ліцензованої вакцини проти SUDV немає - і Уганда це щоразу проходить «на живу».
+Чому це важливо? У січні 2025 року в Уганді почався **6-й спалах Sudan-Ебола**: 14 випадків (12 підтверджених ПЛР), 4 смерті, летальність близько 29% (WHO DON556; NEJM correspondence). Спалах загасили за 3 місяці, але ліцензованої вакцини проти SUDV немає - і Уганда це щоразу проходить «на живу».
 
 Sabin вже планує Фазу 3, але це складна річ: перевірити реальну ефективність можна лише під час активного спалаху, як з ERVEBO у Гвінеї. Тобто дата - «коли буде спалах».
 
@@ -106,7 +130,7 @@ Sabin вже планує Фазу 3, але це складна річ: пер�
 
 ## CDC про подорожі: DRC - рівень 3
 
-CDC тримає **Level 3 Travel Health Notice** («Reconsider Nonessential Travel») для провінцій Haut-Uélé, Ituri, Nord-Kivu та Tshopo в ДРК ([офіційна нотифікація](https://wwwnc.cdc.gov/travel/notices/level3/ebola-democratic-republic-of-the-congo)). Тобто: якщо поїздка не критично необхідна - переглянь плани.
+CDC тримає **Level 3 Travel Health Notice** («Reconsider Nonessential Travel») для провінцій Haut-Uélé, Ituri, Nord-Kivu та Tshopo в ДРК (офіційна нотифікація). Тобто: якщо поїздка не критично необхідна - переглянь плани.
 
 Що радять уникати:
 - контакту з людьми, які мають симптоми;
@@ -115,7 +139,7 @@ CDC тримає **Level 3 Travel Health Notice** («Reconsider Nonessential Tra
 - контакту з тілами померлих (ритуали омивання - окремий фактор ризику);
 - контакту з кажанами і приматами.
 
-Симптоми, за якими потрібно стежити 21 день після повернення: гарячка, головний біль, м'язовий біль, слабкість, діарея, блювота, біль у животі, будь-які незрозумілі синці чи кровоточивість. Yellow Book 2026 присвячує окремий розділ пост-подорожньому обстеженню на «special pathogen infections» - і рекомендує ранню консультацію з інфекціоністом ([Yellow Book 2026, NCBI](https://www.ncbi.nlm.nih.gov/books/NBK620896/)).
+Симптоми, за якими потрібно стежити 21 день після повернення: гарячка, головний біль, м'язовий біль, слабкість, діарея, блювота, біль у животі, будь-які незрозумілі синці чи кровоточивість. Yellow Book 2026 присвячує окремий розділ пост-подорожньому обстеженню на «special pathogen infections» - і рекомендує ранню консультацію з інфекціоністом (Yellow Book 2026, NCBI).
 
 ## Український контекст: вакцини немає
 

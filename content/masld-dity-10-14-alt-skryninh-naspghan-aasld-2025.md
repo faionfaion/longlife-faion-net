@@ -18,6 +18,18 @@ tags:
 description: "Чому підліткам з ІМТ ≥85 перцентиля варто здавати ALT - і чого поки не передбачає український профогляд."
 author: "Віта Зеленко"
 source_urls:
+  - "https://pubmed.ncbi.nlm.nih.gov/26512983/"
+  - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12751582/"
+  - "https://www.gastrojournal.org/article/S0016-5085(16"
+  - "https://www.cghjournal.org/article/S1542-3565(17"
+  - "https://onlinelibrary.wiley.com/doi/full/10.1002/jpn3.12156"
+  - "https://pubmed.ncbi.nlm.nih.gov/40262118/"
+  - "https://naspghan.org/files/NASPGHAN_NAFLDClinical_Practice_Guideline.pdf"
+  - "https://www.guidelinecentral.com/guideline/4556185/"
+  - "https://pubmed.ncbi.nlm.nih.gov/20117112/"
+  - "https://www.rsna.org/news/2024/march/fatty-liver-disease-in-children"
+  - "https://moz.gov.ua/article/ministry-mandates/nakaz-moz-ukraini-vid-25072023--1351-pro-organizaciju-medichnih-ogljadiv-ditej-ta-inshih-osib-dlja-zarahuvannja-ih-do-zakladiv-osviti-ditjachih-zakladiv-ozdorovlennja-ta-vidpochinku"
+  - "https://moz.gov.ua/uk/decrees/nakaz-moz-ukrayini-vid-03-12-2024-2003-pro-zatverdzhennya-poryadkiv-ta-periodichnosti-provedennya-profilaktichnih-medichnih-oglyadiv-pevnih-kategorij-ditej"
 - "https://pubmed.ncbi.nlm.nih.gov/26512983/"
 - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12751582/"
 - "https://pubmed.ncbi.nlm.nih.gov/40262118/"
@@ -30,6 +42,18 @@ source_urls:
 - "https://moz.gov.ua/article/ministry-mandates/nakaz-moz-ukraini-vid-25072023--1351-pro-organizaciju-medichnih-ogljadiv-ditej-ta-inshih-osib-dlja-zarahuvannja-ih-do-zakladiv-osviti-ditjachih-zakladiv-ozdorovlennja-ta-vidpochinku"
 - "https://moz.gov.ua/uk/decrees/nakaz-moz-ukrayini-vid-03-12-2024-2003-pro-zatverdzhennya-poryadkiv-ta-periodichnosti-provedennya-profilaktichnih-medichnih-oglyadiv-pevnih-kategorij-ditej"
 source_names:
+  - "PLOS ONE, 2015"
+  - "Wu et al., 2025"
+  - "Africa et al., Gastroenterology 2016"
+  - "CGH 2017"
+  - "спільному документі JPGN"
+  - "Schwimmer et al., Hepatology, 2025"
+  - "NASPGHAN 2017"
+  - "AASLD 2025 Practice Statement"
+  - "SAFETY (Schwimmer et al., Gastroenterology 2010)"
+  - "RSNA 2024"
+  - "наказ МОЗ №1351 (2023)"
+  - "№2003 (2024)"
 - "Anderson et al., PLOS ONE 2015 (meta-analysis)"
 - "Wu et al., Diabetology & Metabolic Syndrome 2025 (NHANES 2017–2023)"
 - "Schwimmer et al., Hepatology 2025 (LIVERS cohort)"
@@ -58,35 +82,35 @@ tg_post: |
 
 ## Скільки дітей це стосується
 
-Мета-аналіз Anderson та колег ([PLOS ONE, 2015](https://pubmed.ncbi.nlm.nih.gov/26512983/)) оцінив загальну поширеність стеатозу печінки у дітей 1–19 років у 7,6%. Але серед підлітків з ожирінням цифра стрибає до **34,2%** - тобто приблизно кожна третя дитина в педіатричних вибірках з ожирінням має жирову печінку (важливо: це узагальнена оцінка з різних досліджень ожиріння, а не статистика конкретно українських клінік).
+Мета-аналіз Anderson та колег (PLOS ONE, 2015) оцінив загальну поширеність стеатозу печінки у дітей 1–19 років у 7,6%. Але серед підлітків з ожирінням цифра стрибає до **34,2%** - тобто приблизно кожна третя дитина в педіатричних вибірках з ожирінням має жирову печінку (важливо: це узагальнена оцінка з різних досліджень ожиріння, а не статистика конкретно українських клінік).
 
-Свіжіше свідчення - репрезентативний зріз США NHANES 2017–2023 ([Wu et al., 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12751582/)). Серед 2588 підлітків 12–19 років MASLD виявили у 21% за даними FibroScan (апарат, який оцінює жорсткість і жирність печінки без біопсії, використовуючи параметр CAP - controlled attenuation parameter). Серед підлітків з ожирінням - **65,5%**, а ознаки фіброзу (початок рубцювання) - уже в 11,9% з них. Варто пам'ятати: FibroScan CAP - це сурогатний метод, а не золотий стандарт (біопсія печінки), тож абсолютні цифри поширеності можуть трохи відрізнятися залежно від порогових значень і техніки вимірювання.
+Свіжіше свідчення - репрезентативний зріз США NHANES 2017–2023 (Wu et al., 2025). Серед 2588 підлітків 12–19 років MASLD виявили у 21% за даними FibroScan (апарат, який оцінює жорсткість і жирність печінки без біопсії, використовуючи параметр CAP - controlled attenuation parameter). Серед підлітків з ожирінням - **65,5%**, а ознаки фіброзу (початок рубцювання) - уже в 11,9% з них. Варто пам'ятати: FibroScan CAP - це сурогатний метод, а не золотий стандарт (біопсія печінки), тож абсолютні цифри поширеності можуть трохи відрізнятися залежно від порогових значень і техніки вимірювання.
 
 ## Дитяча печінка - не просто «маленька доросла»
 
 Ось чому це не «дорослі проблеми у мініатюрі». У дорослих запалення і фіброз починаються навколо центральної вени (zone 3). У дітей - часто навколо портальних трактів (zone 1), з портальним запаленням. Це так званий **type 2 NASH** - «педіатричний фенотип».
 
-За біопсійними даними ([Africa et al., Gastroenterology 2016](https://www.gastrojournal.org/article/S0016-5085(16)00355-3/fulltext); [CGH 2017](https://www.cghjournal.org/article/S1542-3565(17)30261-6/fulltext)), type 2 патерн трапляється приблизно у 21% дитячих випадків проти ~9% у дорослих. І саме zone 1 стеатоз у дітей асоціюється з прогресуючим фіброзом. У 2024 році мультитовариство педіатричних гепатологів окремо підкреслило це у [спільному документі JPGN](https://onlinelibrary.wiley.com/doi/full/10.1002/jpn3.12156).
+За біопсійними даними (Africa et al., Gastroenterology 201600355-3/fulltext); CGH 201730261-6/fulltext)), type 2 патерн трапляється приблизно у 21% дитячих випадків проти ~9% у дорослих. І саме zone 1 стеатоз у дітей асоціюється з прогресуючим фіброзом. У 2024 році мультитовариство педіатричних гепатологів окремо підкреслило це у спільному документі JPGN.
 
 ## Що показав великий реєстр 2025
 
-Найбільша на сьогодні педіатрична когорта - LIVERS з Rady Children's Hospital у Сан-Дієго ([Schwimmer et al., Hepatology, 2025](https://pubmed.ncbi.nlm.nih.gov/40262118/)). 1096 дітей, у середньому 8,5 року спостереження.
+Найбільша на сьогодні педіатрична когорта - LIVERS з Rady Children's Hospital у Сан-Дієго (Schwimmer et al., Hepatology, 2025). 1096 дітей, у середньому 8,5 року спостереження.
 
 Цифри стримані, але тверезі: цироз розвинувся у **4,7%**, приблизно половина смертей у когорті була пов'язана з печінкою. Позапечінкові супутники - дисліпідемія, артеріальна гіпертензія, апное сну, цукровий діабет 2 типу. Обмеження очевидне: це один третинний центр, туди потрапляють важчі випадки, тож на всю популяцію переносити напряму не варто.
 
 ## Що радять гайдлайни
 
-[NASPGHAN 2017](https://naspghan.org/files/NASPGHAN_NAFLDClinical_Practice_Guideline.pdf) і свіжий [AASLD 2025 Practice Statement](https://www.guidelinecentral.com/guideline/4556185/) сходяться в головному:
+NASPGHAN 2017 і свіжий AASLD 2025 Practice Statement сходяться в головному:
 - скринінг з 9–10 років для дітей з ІМТ ≥85 перцентиля;
 - **основний тест - ALT** (аланінамінотрансфераза, фермент печінки в крові), а не УЗД;
-- біологічні верхні межі норми - 22 U/L для дівчат і 26 U/L для хлопців. Це не стандартні «референсні значення» більшості лабораторій (там пороги часто вищі - 35–40 U/L), а біологічні пороги з дослідження [SAFETY (Schwimmer et al., Gastroenterology 2010)](https://pubmed.ncbi.nlm.nih.gov/20117112/), розраховані на здорових дітей без ожиріння. Саме тому в лабораторному бланку ALT може бути «в нормі», але вже перевищувати педіатричний поріг - і саме ці 22/26 U/L використовують NASPGHAN та AASLD;
-- УЗД як універсальний скринінг **не рекомендоване** - воно пропускає легкий стеатоз і має слабку чутливість у дітей з важким ожирінням ([RSNA 2024](https://www.rsna.org/news/2024/march/fatty-liver-disease-in-children)).
+- біологічні верхні межі норми - 22 U/L для дівчат і 26 U/L для хлопців. Це не стандартні «референсні значення» більшості лабораторій (там пороги часто вищі - 35–40 U/L), а біологічні пороги з дослідження SAFETY (Schwimmer et al., Gastroenterology 2010), розраховані на здорових дітей без ожиріння. Саме тому в лабораторному бланку ALT може бути «в нормі», але вже перевищувати педіатричний поріг - і саме ці 22/26 U/L використовують NASPGHAN та AASLD;
+- УЗД як універсальний скринінг **не рекомендоване** - воно пропускає легкий стеатоз і має слабку чутливість у дітей з важким ожирінням (RSNA 2024).
 
 Тобто коректніша формула - «ALT для всіх з ІМТ ≥85 перцентиля, УЗД - вибірково, коли ALT підвищене».
 
 ## Український контекст
 
-Профогляди школярів регламентують [наказ МОЗ №1351 (2023)](https://moz.gov.ua/article/ministry-mandates/nakaz-moz-ukraini-vid-25072023--1351-pro-organizaciju-medichnih-ogljadiv-ditej-ta-inshih-osib-dlja-zarahuvannja-ih-do-zakladiv-osviti-ditjachih-zakladiv-ozdorovlennja-ta-vidpochinku) і [№2003 (2024)](https://moz.gov.ua/uk/decrees/nakaz-moz-ukrayini-vid-03-12-2024-2003-pro-zatverdzhennya-poryadkiv-ta-periodichnosti-provedennya-profilaktichnih-medichnih-oglyadiv-pevnih-kategorij-ditej). Огляд педіатром, антропометрія, група з фізвиховання - так. ALT або УЗД печінки для дітей з ІМТ ≥85 перцентиля як обов'язковий елемент профогляду поки не передбачені.
+Профогляди школярів регламентують наказ МОЗ №1351 (2023) і №2003 (2024). Огляд педіатром, антропометрія, група з фізвиховання - так. ALT або УЗД печінки для дітей з ІМТ ≥85 перцентиля як обов'язковий елемент профогляду поки не передбачені.
 
 Про дитяче ожиріння і те, як воно стає корінням MASLD, ми окремо писали в [матеріалі про SCALE Kids і наказ МОЗ №1732](https://longlife.media/ozhyrinnia-dity-6-11-glp1-scale-kids-aap-ukraina-2026/). А про те, що стеатоз буває і в струнких (генетика PNPLA3, фруктоза), - у [статті про lean MASLD](https://longlife.media/lean-masld-strunki-liudy-fib-4-pnpla3-fruktoza-skryninh/).
 

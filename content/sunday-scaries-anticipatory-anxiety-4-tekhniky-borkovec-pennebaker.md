@@ -15,6 +15,14 @@ tags:
 description: "Sunday Scaries: чому з'являється недільна тривога і 4 техніки з доказовою базою, які реально допомагають."
 author: "Віта Зеленко"
 source_urls:
+  - "https://www.linkedin.com/pulse/sunday-scaries-real-heres-what-do-george-anders/"
+  - "https://www.sleepfoundation.org/sleep-news/one-third-of-adults-lose-sleep-to-sunday-scaries"
+  - "https://www.nature.com/articles/nrn3524"
+  - "https://pubmed.ncbi.nlm.nih.gov/6615390/"
+  - "https://link.springer.com/article/10.1007/s41811-023-00193-x"
+  - "https://pubmed.ncbi.nlm.nih.gov/17184887/"
+  - "https://pubmed.ncbi.nlm.nih.gov/27101340/"
+  - "https://bpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/c/602/files/2019/08/Frattaroli-psych-bulletin-2006.pdf"
 - "https://www.nature.com/articles/nrn3524"
 - "https://pmc.ncbi.nlm.nih.gov/articles/PMC4276319/"
 - "https://pubmed.ncbi.nlm.nih.gov/6615390/"
@@ -27,6 +35,14 @@ source_urls:
 - "https://www.sleepfoundation.org/sleep-news/one-third-of-adults-lose-sleep-to-sunday-scaries"
 - "https://www.apa.org/pubs/reports/stress-in-america/2025"
 source_names:
+  - "LinkedIn News"
+  - "Sleep Foundation"
+  - "Nature Reviews Neuroscience"
+  - "PubMed"
+  - "Springer / Journal of Cognitive Therapy"
+  - "PubMed"
+  - "PubMed"
+  - "Psychological Bulletin PDF"
 - "Nature Reviews Neuroscience (Grupe & Nitschke, 2013)"
 - "Behaviour Research and Therapy (Borkovec, 1983)"
 - "International Journal of Cognitive Behavioral Therapy (2024 meta-analysis)"
@@ -49,19 +65,19 @@ tg_post: |
 
 Привіт! 🧠 Якщо в неділю ввечері ти раптом відчуваєш важкість у грудях і думку «о ні, завтра понеділок» - ти не сам(а). Це явище називають Sunday Scaries, або антиципаційна тривога - реакція мозку на очікувану, але ще не близьку загрозу.
 
-За самозвітними опитуваннями (LinkedIn Workforce Confidence Index 2018–2024, працівники США; Sleep Foundation 2022, дорослі американці), від 66% до 78% працівників регулярно стикаються з недільною тривогою. У звіті LinkedIn (2024) серед покоління Z цифра сягає 94% ([LinkedIn News](https://www.linkedin.com/pulse/sunday-scaries-real-heres-what-do-george-anders/)). Це опитування з самозвітами, а не РКД, тож цифри слід читати як тренд, а не точну поширеність. Окремо Sleep Foundation повідомляє: близько третини дорослих гірше засинають саме в неділю ([Sleep Foundation](https://www.sleepfoundation.org/sleep-news/one-third-of-adults-lose-sleep-to-sunday-scaries)).
+За самозвітними опитуваннями (LinkedIn Workforce Confidence Index 2018–2024, працівники США; Sleep Foundation 2022, дорослі американці), від 66% до 78% працівників регулярно стикаються з недільною тривогою. У звіті LinkedIn (2024) серед покоління Z цифра сягає 94% (LinkedIn News). Це опитування з самозвітами, а не РКД, тож цифри слід читати як тренд, а не точну поширеність. Окремо Sleep Foundation повідомляє: близько третини дорослих гірше засинають саме в неділю (Sleep Foundation).
 
-Чому це біологія, а не «слабкість»? У великому огляді в *Nature Reviews Neuroscience* (Grupe & Nitschke, 2013) описана модель UAMA (Uncertainty and Anticipation Model of Anxiety - модель тривоги, пов'язаної з невизначеністю та очікуванням): при невизначеній майбутній загрозі активуються мигдалина та BNST - структура, яка довго «тримає» тривогу без конкретного стимулу ([Nature Reviews Neuroscience](https://www.nature.com/articles/nrn3524)). Недільний вечір - ідеальний тригер для цього контуру.
+Чому це біологія, а не «слабкість»? У великому огляді в *Nature Reviews Neuroscience* (Grupe & Nitschke, 2013) описана модель UAMA (Uncertainty and Anticipation Model of Anxiety - модель тривоги, пов'язаної з невизначеністю та очікуванням): при невизначеній майбутній загрозі активуються мигдалина та BNST - структура, яка довго «тримає» тривогу без конкретного стимулу (Nature Reviews Neuroscience). Недільний вечір - ідеальний тригер для цього контуру.
 
 Що реально працює (а не «просто розслабся»):
 
-**1. «Вікно тривоги».** Borkovec та колеги (1983) у *Behaviour Research and Therapy* запропонували виділити 30 хв у день для тривожних думок - інші моменти їх «відкладаємо» ([PubMed](https://pubmed.ncbi.nlm.nih.gov/6615390/)). Мета-аналіз 2024 року (McGowan та ін., 7 РКД, n=999) підтвердив помірний ефект саме на **частоту хвилювання** (не на клінічну тривогу як діагноз) ([Springer / Journal of Cognitive Therapy](https://link.springer.com/article/10.1007/s41811-023-00193-x)).
+**1. «Вікно тривоги».** Borkovec та колеги (1983) у *Behaviour Research and Therapy* запропонували виділити 30 хв у день для тривожних думок - інші моменти їх «відкладаємо». Мета-аналіз 2024 року (McGowan та ін., 7 РКД, n=999) підтвердив помірний ефект саме на **частоту хвилювання** (не на клінічну тривогу як діагноз) (Springer / Journal of Cognitive Therapy).
 
-**2. Активна субота, а не «лежання у телефоні».** Мета-аналіз Cuijpers та ін. (2007) показав, що поведінкова активація - планування приємних справ - не поступається когнітивній терапії при депресії ([PubMed](https://pubmed.ncbi.nlm.nih.gov/17184887/)). Пасивне очікування понеділка лише підсилює уникнення.
+**2. Активна субота, а не «лежання у телефоні».** Мета-аналіз Cuijpers та ін. (2007) показав, що поведінкова активація - планування приємних справ - не поступається когнітивній терапії при депресії. Пасивне очікування понеділка лише підсилює уникнення.
 
-**3. Плануй понеділок у п'ятницю.** Щоденникове дослідження Syrek та ін. (2017, *Journal of Occupational Health Psychology*, n=59 - це невелика щоденникова вибірка, тож узагальнення обмежене) показало: незавершені п'ятничні задачі → руминація → поганий сон у неділю. А ось «problem-solving pondering» - записати 3 пріоритети понеділка ще в п'ятницю - дає протилежний, корисний ефект ([PubMed](https://pubmed.ncbi.nlm.nih.gov/27101340/)).
+**3. Плануй понеділок у п'ятницю.** Щоденникове дослідження Syrek та ін. (2017, *Journal of Occupational Health Psychology*, n=59 - це невелика щоденникова вибірка, тож узагальнення обмежене) показало: незавершені п'ятничні задачі → руминація → поганий сон у неділю. А ось «problem-solving pondering» - записати 3 пріоритети понеділка ще в п'ятницю - дає протилежний, корисний ефект.
 
-**4. 15 хв експресивного письма.** Протокол Pennebaker; мета-аналіз Frattaroli (2006, 146 досліджень) показав **малий**, але стабільний ефект за умови ≥15 хв і ≥3 сесій ([Psychological Bulletin PDF](https://bpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/c/602/files/2019/08/Frattaroli-psych-bulletin-2006.pdf)). Деталі методу - у [нашій статті про експресивне письмо](https://longlife.media/expressive-writing-pennebaker-trauma-immune-mental-health/).
+**4. 15 хв експресивного письма.** Протокол Pennebaker; мета-аналіз Frattaroli (2006, 146 досліджень) показав **малий**, але стабільний ефект за умови ≥15 хв і ≥3 сесій (Psychological Bulletin PDF). Деталі методу - у [нашій статті про експресивне письмо](https://longlife.media/expressive-writing-pennebaker-trauma-immune-mental-health/).
 
 Sunday Scaries - не діагноз із DSM, а робоча назва для антиципаційної тривоги. Якщо вона переростає у щотижневі панічні стани - це привід поговорити з психотерапевтом.
 

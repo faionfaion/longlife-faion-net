@@ -16,6 +16,11 @@ tags:
 description: "Мета-аналіз 2025: щоденний вітамін D знижує ризик ГРВІ на 8%. Чому болюс-режим не працює і які дози розумні."
 author: "Віта Зеленко"
 source_urls:
+  - "https://www.thelancet.com/journals/landia/article/PIIS2213-8587(24"
+  - "https://pubmed.ncbi.nlm.nih.gov/33444565/"
+  - "https://jamanetwork.com/journals/jama/fullarticle/185854"
+  - "https://pmc.ncbi.nlm.nih.gov/articles/PMC11525160/"
+  - "https://link.springer.com/article/10.1186/s12937-024-00990-w"
 - "https://www.thelancet.com/journals/landia/article/PIIS2213-8587(24)00348-6/fulltext"
 - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12056739/"
 - "https://www.endocrine.org/clinical-practice-guidelines/vitamin-d-for-prevention-of-disease"
@@ -28,6 +33,11 @@ source_urls:
 - "https://longlife.media/vitamin-d-dobavka-2026-vital-d-health-komu-dopomahaye/"
 - "https://longlife.media/vitamin-d-deficiency-ukraine/"
 source_names:
+  - "Lancet, 2025"
+  - "Lancet Diabetes Endocrinol, 2021"
+  - "JAMA, 2010"
+  - "Global Epidemiology, 2024"
+  - "Nutrition Journal, 2024"
 - "The Lancet Diabetes & Endocrinology (Jolliffe/Martineau, 2025)"
 - "PMC - Jolliffe 2025 full text"
 - "Endocrine Society Clinical Practice Guideline 2024 (Demay/Pittas)"
@@ -52,7 +62,7 @@ tg_post: |
 
 Привіт! Є свіжі новини з лабораторій - і вони змінюють те, як ми думаємо про вітамін D і застуди. 🔬
 
-У лютому 2025 року команда Джолліффа й Мартіно опублікувала в *The Lancet Diabetes & Endocrinology* оновлений систематичний огляд з мета-аналізом стратифікованих даних. Це продовження їхньої великої роботи 2021 року, до якої додали ще 6 нових досліджень - включно з піданалізом VITAL на 15 804 учасниках ([Lancet, 2025](https://www.thelancet.com/journals/landia/article/PIIS2213-8587(24)00348-6/fulltext)).
+У лютому 2025 року команда Джолліффа й Мартіно опублікувала в *The Lancet Diabetes & Endocrinology* оновлений систематичний огляд з мета-аналізом стратифікованих даних. Це продовження їхньої великої роботи 2021 року, до якої додали ще 6 нових досліджень - включно з піданалізом VITAL на 15 804 учасниках (Lancet, 202500348-6/fulltext)).
 
 Головний висновок: щоденний або щотижневий прийом вітаміну D знижує ризик гострої респіраторної інфекції (ГРВІ) приблизно на 8% (OR 0.92; 95% ДІ 0.86–0.99). Ефект скромний, але статистично стабільний.
 
@@ -60,13 +70,13 @@ tg_post: |
 
 Автори чітко показали: якщо приймати вітамін D у **болюс-режимі** - тобто разовими великими дозами раз на місяць або раз на рік (замість щоденного прийому невеликими порціями) - захисний ефект **зникає повністю**. І тут не має значення, чи це 60 000 МО щомісяця, чи 100 000+ МО разово: сам режим «рідко, але багато» не спрацьовує.
 
-Це підтверджує й австралійське дослідження D-Health на 21 315 людях: 60 000 МО раз на місяць протягом 5 років - жодного зниження ризику ГРВІ ([Lancet Diabetes Endocrinol, 2021](https://pubmed.ncbi.nlm.nih.gov/33444565/)). А історичне дослідження Sanders у *JAMA* (2010) показало, що 500 000 МО раз на рік у жінок 70+ навпаки збільшувало кількість падінь і переломів ([JAMA, 2010](https://jamanetwork.com/journals/jama/fullarticle/185854)). Як ми вже писали в матеріалі про [те, кому справді допомагає вітамін D](https://longlife.media/vitamin-d-dobavka-2026-vital-d-health-komu-dopomahaye/), мегадози - не безпечна стратегія.
+Це підтверджує й австралійське дослідження D-Health на 21 315 людях: 60 000 МО раз на місяць протягом 5 років - жодного зниження ризику ГРВІ (Lancet Diabetes Endocrinol, 2021). А історичне дослідження Sanders у *JAMA* (2010) показало, що 500 000 МО раз на рік у жінок 70+ навпаки збільшувало кількість падінь і переломів (JAMA, 2010). Як ми вже писали в матеріалі про [те, кому справді допомагає вітамін D](https://longlife.media/vitamin-d-dobavka-2026-vital-d-health-komu-dopomahaye/), мегадози - не безпечна стратегія.
 
 ## Український контекст: дефіцит + сезонність
 
-У мультицентровому дослідженні 11 462 українців (Shatylo та ін., 2024) близько 63% людей не досягають оптимального рівня 25(OH)D ([Global Epidemiology, 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11525160/)). А в закарпатських даних Поворознюка взимку 51,7% дорослих мають рівень 25(OH)D <75 нмоль/л).
+У мультицентровому дослідженні 11 462 українців (Shatylo та ін., 2024) близько 63% людей не досягають оптимального рівня 25(OH)D (Global Epidemiology, 2024). А в закарпатських даних Поворознюка взимку 51,7% дорослих мають рівень 25(OH)D <75 нмоль/л).
 
-Мета-аналіз Wang та ін. 2024 року (43 РКД, 49 320 учасників) додатково показав J-подібну криву: найкраща захисна доза - 400–1200 МО/день щоденно ([Nutrition Journal, 2024](https://link.springer.com/article/10.1186/s12937-024-00990-w)).
+Мета-аналіз Wang та ін. 2024 року (43 РКД, 49 320 учасників) додатково показав J-подібну криву: найкраща захисна доза - 400–1200 МО/день щоденно (Nutrition Journal, 2024).
 
 ## Обмеження
 

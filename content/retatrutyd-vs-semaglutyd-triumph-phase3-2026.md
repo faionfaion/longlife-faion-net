@@ -15,6 +15,12 @@ tags:
 description: "Фінальні дані TRIUMPH: −25% ваги на ретатрутиді, обмеження, безпека і чому Telegram - не варіант."
 author: "Віта Зеленко"
 source_urls:
+  - "https://www.prnewswire.com/news-releases/lillys-triple-agonist-retatrutide-delivered-powerful-weight-loss-in-pivotal-phase-3-obesity-trial-302778859.html"
+  - "https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-delivered-weight-loss-average"
+  - "https://www.prnewswire.com/news-releases/lillys-triple-agonist-retatrutide-successful-in-two-additional-phase-3-obesity-trials-delivering-significant-improvements-in-weight-and-a1c-302832674.html"
+  - "https://pubmed.ncbi.nlm.nih.gov/37366315/"
+  - "https://pubmed.ncbi.nlm.nih.gov/35441470/"
+  - "https://www.biopharmadive.com/news/lilly-retatrutide-fda-application-obesity-drug-results/825987/"
 - "https://pubmed.ncbi.nlm.nih.gov/37366315/"
 - "https://www.nejm.org/doi/full/10.1056/NEJMoa2301972"
 - "https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-delivered-weight-loss-average"
@@ -25,6 +31,12 @@ source_urls:
 - "https://www.biopharmadive.com/news/lilly-retatrutide-fda-application-obesity-drug-results/825987/"
 - "https://www.ajmc.com/view/retatrutide-achieves-up-to-30-3-average-weight-loss-in-phase-3-triumph-1-trial"
 source_names:
+  - "прес-реліз Lilly, 2026"
+  - "Lilly Investor, 2025"
+  - "прес-реліз Lilly, липень 2026"
+  - "Jastreboff et al., NEJM 2023"
+  - "Wilding et al., DOM 2022"
+  - "BioPharma Dive"
 - "New England Journal of Medicine (Jastreboff 2023)"
 - "NEJM full text - Retatrutide Phase 2"
 - "Eli Lilly Investor - TRIUMPH-4 press release"
@@ -51,11 +63,11 @@ tg_post: |
 
 ## Що показали TRIUMPH-1, 2, 3 і 4
 
-У головному дослідженні **TRIUMPH-1** (n=2 339, 80 тижнів) на дозі 12 мг ретатрутид дав **−25% ваги** проти −3.9% у плацебо ([прес-реліз Lilly, 2026](https://www.prnewswire.com/news-releases/lillys-triple-agonist-retatrutide-delivered-powerful-weight-loss-in-pivotal-phase-3-obesity-trial-302778859.html)). Важливо: −25% - це оцінка за treatment-regimen estimand (усі рандомізовані учасники, з урахуванням перерв і відмін), тоді як efficacy estimand (тільки ті, хто дотримувався терапії) в окремих аналізах AJMC сягає −30.3%. У продовженні до 104 тижнів - близько 30% на найвищій дозі.
+У головному дослідженні **TRIUMPH-1** (n=2 339, 80 тижнів) на дозі 12 мг ретатрутид дав **−25% ваги** проти −3.9% у плацебо (прес-реліз Lilly, 2026). Важливо: −25% - це оцінка за treatment-regimen estimand (усі рандомізовані учасники, з урахуванням перерв і відмін), тоді як efficacy estimand (тільки ті, хто дотримувався терапії) в окремих аналізах AJMC сягає −30.3%. У продовженні до 104 тижнів - близько 30% на найвищій дозі.
 
-У **TRIUMPH-4** (ожиріння + остеоартрит коліна, n=445, 68 тижнів) середня втрата на 12 мг сягнула **−28.7%** плюс зменшення болю за шкалою WOMAC на 75.8% ([Lilly Investor, 2025](https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-delivered-weight-loss-average)). Уточнення: 75.8% - це **відносне** зменшення від базового рівня болю, і в дослідженнях остеоартриту плацебо-групи традиційно теж показують суттєве покращення (ефект плацебо в OA-болю відомий), тож абсолютна різниця між групами менша за цю цифру.
+У **TRIUMPH-4** (ожиріння + остеоартрит коліна, n=445, 68 тижнів) середня втрата на 12 мг сягнула **−28.7%** плюс зменшення болю за шкалою WOMAC на 75.8% (Lilly Investor, 2025). Уточнення: 75.8% - це **відносне** зменшення від базового рівня болю, і в дослідженнях остеоартриту плацебо-групи традиційно теж показують суттєве покращення (ефект плацебо в OA-болю відомий), тож абсолютна різниця між групами менша за цю цифру.
 
-У **TRIUMPH-2** (діабет 2 типу) - −20.8% ваги і зниження HbA1c (глікованого гемоглобіну, маркера середнього рівня глюкози за 2–3 місяці) на 1.6%. У **TRIUMPH-3** (тяжке ожиріння + серцево-судинні захворювання) - −22.6% ([прес-реліз Lilly, липень 2026](https://www.prnewswire.com/news-releases/lillys-triple-agonist-retatrutide-successful-in-two-additional-phase-3-obesity-trials-delivering-significant-improvements-in-weight-and-a1c-302832674.html)).
+У **TRIUMPH-2** (діабет 2 типу) - −20.8% ваги і зниження HbA1c (глікованого гемоглобіну, маркера середнього рівня глюкози за 2–3 місяці) на 1.6%. У **TRIUMPH-3** (тяжке ожиріння + серцево-судинні захворювання) - −22.6% (прес-реліз Lilly, липень 2026).
 
 ## Як це порівняти з семаглутидом і тирзепатидом
 
@@ -69,11 +81,11 @@ tg_post: |
 
 *Примітка до таблиці: STEP-1, SURMOUNT-1 і TRIUMPH-1 використовували різні статистичні estimand-и (treatment-regimen vs efficacy), різну тривалість і різні популяції. Цифри не є прямо порівнюваними - це лише орієнтир, а не заміна head-to-head трайлу.*
 
-Базова фаза 2 ретатрутиду в NEJM показала подібні −24.2% за 48 тижнів ([Jastreboff et al., NEJM 2023](https://pubmed.ncbi.nlm.nih.gov/37366315/)). Порівняння тирзепатид vs семаглутид ми вже розбирали у [SURMOUNT-5](https://longlife.media/tyrzepatyd-vs-semaglutyd-surmount-5-porivnyannia-vahy/).
+Базова фаза 2 ретатрутиду в NEJM показала подібні −24.2% за 48 тижнів (Jastreboff et al., NEJM 2023). Порівняння тирзепатид vs семаглутид ми вже розбирали у [SURMOUNT-5](https://longlife.media/tyrzepatyd-vs-semaglutyd-surmount-5-porivnyannia-vahy/).
 
 ## Чому це не «кінець ожиріння»
 
-**По-перше, rebound після відміни.** Продовження STEP-1 показало: через рік після припинення семаглутиду люди повертають **дві третини втраченої ваги**, а кардіометаболічні маркери - до базових ([Wilding et al., DOM 2022](https://pubmed.ncbi.nlm.nih.gov/35441470/)). Для ретатрутиду extension-дані після відміни ще не опубліковані, але механізм спільний для всього класу.
+**По-перше, rebound після відміни.** Продовження STEP-1 показало: через рік після припинення семаглутиду люди повертають **дві третини втраченої ваги**, а кардіометаболічні маркери - до базових (Wilding et al., DOM 2022). Для ретатрутиду extension-дані після відміни ще не опубліковані, але механізм спільний для всього класу.
 
 **По-друге, м'язова маса.** На GLP-1-препаратах до 25–40% втраченої маси припадає на м'язи - про це ми писали [окремо](https://longlife.media/semaglutyd-mязова-masa-step1-sylovi-trenuvannya-bilok/). При більшому калорійному дефіциті ризик щонайменше не менший.
 
@@ -83,7 +95,7 @@ tg_post: |
 
 ## Про сірий ринок і Telegram
 
-Ретатрутид **не зареєстрований в Україні** і навіть у США - заявку до FDA Lilly планує подати у першому кварталі 2027 ([BioPharma Dive](https://www.biopharmadive.com/news/lilly-retatrutide-fda-application-obesity-drug-results/825987/)). Все, що продають у Telegram під цією назвою, - фактично невідомий порошок без контролю дози, стерильності й ідентичності діючої речовини.
+Ретатрутид **не зареєстрований в Україні** і навіть у США - заявку до FDA Lilly планує подати у першому кварталі 2027 (BioPharma Dive). Все, що продають у Telegram під цією назвою, - фактично невідомий порошок без контролю дози, стерильності й ідентичності діючої речовини.
 
 ## Що можна зробити вже сьогодні
 - **Не купувати «ретатрутид» у Telegram чи на Prom** - ризик підробки перевищує будь-яку потенційну вигоду.

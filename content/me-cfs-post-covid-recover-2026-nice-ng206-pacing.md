@@ -17,6 +17,18 @@ tags:
 description: "Чому GET більше не рекомендують при ME/CFS після COVID і як працює pacing - розбір RECOVER-Adult, NICE NG206 та CDC."
 author: "Віта Зеленко"
 source_urls:
+  - "https://pmc.ncbi.nlm.nih.gov/articles/PMC11968624/"
+  - "https://recovercovid.org/news/nih-funded-study-finds-cases-mecfs-increase-following-covid-19"
+  - "https://www.cdc.gov/me-cfs/management/index.html"
+  - "https://pmc.ncbi.nlm.nih.gov/articles/PMC5863477/"
+  - "https://www.nice.org.uk/guidance/ng206/chapter/recommendations"
+  - "https://www.sciencedirect.com/science/article/pii/S1360859225002025"
+  - "https://workwellfoundation.org/workwell-foundations-cpet-protocol-featured-in-acsm-guidelines/"
+  - "https://workwellfoundation.org/pacing-with-a-heart-rate-monitor-to-minimize-post-exertional-malaise-pem-in-me-cfs-and-long-covid/"
+  - "https://clinicaltrials.gov/study/NCT06404047"
+  - "https://recovercovid.org/news/recover-vital-paxlovid-results"
+  - "https://www.dec.gov.ua/wp-content/uploads/2021/04/2021_771_covid19_rehabilit.pdf"
+  - "https://www.nice.org.uk/guidance/ng206"
 - "https://pmc.ncbi.nlm.nih.gov/articles/PMC11968624/"
 - "https://link.springer.com/article/10.1007/s11606-024-09290-9"
 - "https://recovercovid.org/news/nih-funded-study-finds-cases-mecfs-increase-following-covid-19"
@@ -34,6 +46,18 @@ source_urls:
 - "https://www.cdc.gov/me-cfs/pdfs/toolkit/Managing-PEM_508.pdf"
 - "https://www.dec.gov.ua/wp-content/uploads/2021/04/2021_771_covid19_rehabilit.pdf"
 source_names:
+  - "Vernon et al., 2025"
+  - "NIH RECOVER"
+  - "CDC"
+  - "Wilshire et al., BMC Psychology"
+  - "NG206"
+  - "Elsevier, 2025"
+  - "ACSM Guidelines"
+  - "Workwell Foundation"
+  - "RECOVER-ENERGIZE"
+  - "не показав значущого ефекту на PEM"
+  - "Наказ №771"
+  - "NICE NG206"
 - "Journal of General Internal Medicine (Vernon et al., 2025)"
 - "NIH RECOVER Initiative"
 - "NICE Guideline NG206 (2021)"
@@ -62,36 +86,36 @@ tg_post: |
 
 ## Що показало RECOVER-Adult у 2025
 
-Проспективне обсерваційне дослідження NIH RECOVER-Adult (11 785 інфікованих SARS-CoV-2 і 1 439 контролів) опублікували в *Journal of General Internal Medicine* у січні 2025 року. За клінічними критеріями IOM 2015, **4,5%** інфікованих відповідали ознакам ME/CFS проти 0,6% серед неінфікованих - hazard ratio 4,93 ([Vernon et al., 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC11968624/)).
+Проспективне обсерваційне дослідження NIH RECOVER-Adult (11 785 інфікованих SARS-CoV-2 і 1 439 контролів) опублікували в *Journal of General Internal Medicine* у січні 2025 року. За клінічними критеріями IOM 2015, **4,5%** інфікованих відповідали ознакам ME/CFS проти 0,6% серед неінфікованих - hazard ratio 4,93 (Vernon et al., 2025).
 
 Важливий нюанс: це обсерваційне дослідження, тож hazard ratio 4,93 показує **сильну асоціацію**, а не доведений причинно-наслідковий зв'язок для кожного окремого випадку. Тобто COVID-19 суттєво підвищує ризик розвитку ME/CFS на популяційному рівні, але для конкретного пацієнта потрібен клінічний огляд і диференційна діагностика.
 
-Заходячи глибше: **88,7%** пацієнтів із пост-COVID ME/CFS одночасно відповідали критеріям long COVID, а нові випадки ME/CFS зросли приблизно в 15 разів порівняно з допандемічним рівнем ([NIH RECOVER](https://recovercovid.org/news/nih-funded-study-finds-cases-mecfs-increase-following-covid-19)).
+Заходячи глибше: **88,7%** пацієнтів із пост-COVID ME/CFS одночасно відповідали критеріям long COVID, а нові випадки ME/CFS зросли приблизно в 15 разів порівняно з допандемічним рівнем (NIH RECOVER).
 
-Ключовий симптом - post-exertional malaise (PEM, післянавантажувальне погіршення), тобто загострення симптомів через 12–48 годин після мінімального фізичного, когнітивного чи емоційного навантаження ([CDC](https://www.cdc.gov/me-cfs/management/index.html)). Саме PEM ламає стандартні реабілітаційні протоколи.
+Ключовий симптом - post-exertional malaise (PEM, післянавантажувальне погіршення), тобто загострення симптомів через 12–48 годин після мінімального фізичного, когнітивного чи емоційного навантаження (CDC). Саме PEM ламає стандартні реабілітаційні протоколи.
 
 ## Чому GET більше не рекомендують
 
-Протягом років основою терапії була graded exercise therapy (GET, поступова терапія навантаженням) - методика повільного нарощування фізичної активності. Її підтримував гучний британський trial PACE (Lancet, 2011). Але у 2018 році незалежний реаналіз ([Wilshire et al., BMC Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC5863477/)) показав: за початково запланованими критеріями «одужання» становило лише 4% на CBT і 3% на GET проти 7% контролю - статистично незначуще.
+Протягом років основою терапії була graded exercise therapy (GET, поступова терапія навантаженням) - методика повільного нарощування фізичної активності. Її підтримував гучний британський trial PACE (Lancet, 2011). Але у 2018 році незалежний реаналіз (Wilshire et al., BMC Psychology) показав: за початково запланованими критеріями «одужання» становило лише 4% на CBT і 3% на GET проти 7% контролю - статистично незначуще.
 
-У 2021 році NICE випустила оновлений гайдлайн [NG206](https://www.nice.org.uk/guidance/ng206/chapter/recommendations), у якому прямо написано: не пропонувати жодних програм, що базуються на фіксованому інкрементальному збільшенні активності, включно з GET. CDC зняв GET/CBT з рекомендацій ще у 2017-му. Систематичний огляд 2025 року в *Journal of Bodywork and Movement Therapies* підтвердив: у pacing кращий safety profile, ніж у GET ([Elsevier, 2025](https://www.sciencedirect.com/science/article/pii/S1360859225002025)).
+У 2021 році NICE випустила оновлений гайдлайн NG206, у якому прямо написано: не пропонувати жодних програм, що базуються на фіксованому інкрементальному збільшенні активності, включно з GET. CDC зняв GET/CBT з рекомендацій ще у 2017-му. Систематичний огляд 2025 року в *Journal of Bodywork and Movement Therapies* підтвердив: у pacing кращий safety profile, ніж у GET (Elsevier, 2025).
 
 ## Pacing: як це працює на практиці
 
-Pacing (дозоване управління енергією) - це утримання активності в межах «енергетичного конверта», а не «через силу». Клініцисти Workwell Foundation (їхній 2-денний CPET-протокол, cardiopulmonary exercise testing, офіційно включено в [ACSM Guidelines](https://workwellfoundation.org/workwell-foundations-cpet-protocol-featured-in-acsm-guidelines/)) пропонують простий домашній орієнтир: тримати пульс нижче індивідуального анаеробного порогу, який можна грубо оцінити як **пульс спокою вранці + 15 ударів** ([Workwell Foundation](https://workwellfoundation.org/pacing-with-a-heart-rate-monitor-to-minimize-post-exertional-malaise-pem-in-me-cfs-and-long-covid/)).
+Pacing (дозоване управління енергією) - це утримання активності в межах «енергетичного конверта», а не «через силу». Клініцисти Workwell Foundation (їхній 2-денний CPET-протокол, cardiopulmonary exercise testing, офіційно включено в ACSM Guidelines) пропонують простий домашній орієнтир: тримати пульс нижче індивідуального анаеробного порогу, який можна грубо оцінити як **пульс спокою вранці + 15 ударів** (Workwell Foundation).
 
 ⚠️ Це саме **груба оцінка**, а не точний показник. Індивідуальний анаеробний поріг помітно варіює залежно від віку, тренованості, ліків і супутніх станів. Оптимально - підтвердити свій особистий поріг у клініциста або через 2-денний CPET-тест. Формула «+15 bpm» - стартова точка для самоспостереження, не медичне призначення.
 
-Паралельно NIH запустила [RECOVER-ENERGIZE](https://clinicaltrials.gov/study/NCT06404047) - першу платформену RCT, де structured pacing перевіряють як окрему інтервенцію для PEM-позитивних пацієнтів. Результати очікуються близько 2027 року. А ось RECOVER-VITAL (подовжений курс Paxlovid) за проміжними даними [не показав значущого ефекту на PEM](https://recovercovid.org/news/recover-vital-paxlovid-results); фінальний звіт очікується у 2026 році. Тобто pacing поки що - єдина інтервенція з клінічним консенсусом.
+Паралельно NIH запустила RECOVER-ENERGIZE - першу платформену RCT, де structured pacing перевіряють як окрему інтервенцію для PEM-позитивних пацієнтів. Результати очікуються близько 2027 року. А ось RECOVER-VITAL (подовжений курс Paxlovid) за проміжними даними не показав значущого ефекту на PEM; фінальний звіт очікується у 2026 році. Тобто pacing поки що - єдина інтервенція з клінічним консенсусом.
 
 ## Український контекст
 
-МОЗ України має [Наказ №771](https://www.dec.gov.ua/wp-content/uploads/2021/04/2021_771_covid19_rehabilit.pdf) про реабілітацію після COVID-19, але окремого протоколу для ME/CFS немає. Ризик такий: сімейний лікар чи реабілітолог, слідуючи звичному алгоритму «поступово збільшуй навантаження», може спровокувати у PEM-позитивного пацієнта «краш» - саме той сценарій, від якого NICE відмовилася ще у 2021-му.
+МОЗ України має Наказ №771 про реабілітацію після COVID-19, але окремого протоколу для ME/CFS немає. Ризик такий: сімейний лікар чи реабілітолог, слідуючи звичному алгоритму «поступово збільшуй навантаження», може спровокувати у PEM-позитивного пацієнта «краш» - саме той сценарій, від якого NICE відмовилася ще у 2021-му.
 
 ## Що можна зробити вже сьогодні 🌿
-- **Спостерігай за PEM.** Якщо після навантаження стабільно на другий день гірше - це маркер, а не «слабкість». Веди щоденник активності й симптомів ([CDC](https://www.cdc.gov/me-cfs/management/index.html)).
-- **Знай свій пульс спокою.** Виміряй уранці 7 днів поспіль, порахуй середнє. Це база для орієнтовної оцінки безпечного порогу активності - але пам'ятай, що це наближення, а не діагностична межа ([Workwell Foundation](https://workwellfoundation.org/pacing-with-a-heart-rate-monitor-to-minimize-post-exertional-malaise-pem-in-me-cfs-and-long-covid/)).
+- **Спостерігай за PEM.** Якщо після навантаження стабільно на другий день гірше - це маркер, а не «слабкість». Веди щоденник активності й симптомів (CDC).
+- **Знай свій пульс спокою.** Виміряй уранці 7 днів поспіль, порахуй середнє. Це база для орієнтовної оцінки безпечного порогу активності - але пам'ятай, що це наближення, а не діагностична межа (Workwell Foundation).
 - **Проконсультуйся з лікарем перед змінами.** Особливо якщо ти приймаєш кардіологічні препарати, які впливають на пульс - тоді HR-орієнтоване pacing потрібно адаптувати індивідуально.
-- **Йди до лікаря з роздруківкою [NICE NG206](https://www.nice.org.uk/guidance/ng206) і [CDC](https://www.cdc.gov/me-cfs/management/index.html).** В Україні протоколу немає - міжнародні гайдлайни допомагають говорити однією мовою.
+- **Йди до лікаря з роздруківкою NICE NG206 і CDC.** В Україні протоколу немає - міжнародні гайдлайни допомагають говорити однією мовою.
 
 Результати обнадійливі, але прямих великих RCT з pacing ще немає - консенсус спирається на гайдлайни й фізіологію, а не на фінальні дані. Це не привід чекати: безпечніший інструмент, який ми маємо зараз, - саме дозоване управління енергією. ⏳

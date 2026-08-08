@@ -49,10 +49,22 @@ const ArticleTemplate = ({ data, pageContext }) => {
           </div>
         )}
 
-        {/* No rendered "Джерела" list. Every claim is cited inline in the body, and a
-            template footer built from frontmatter source_urls just repeated all of them a
-            second time. The structured source_urls/source_names stay in the frontmatter and
-            feed the JSON-LD `citation` below - machine-readable, not shown twice to a reader. */}
+        {fm.source_urls && fm.source_urls.length > 0 && (
+          <footer className="sources">
+            <h3>Джерела</h3>
+            <ul>
+              {fm.source_urls.map((url, i) => (
+                <li key={i}>
+                  <a href={url} target="_blank" rel="noopener noreferrer">
+                    {fm.source_names && fm.source_names[i]
+                      ? fm.source_names[i]
+                      : (() => { try { return new URL(url).hostname; } catch { return url; } })()}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </footer>
+        )}
 
         <nav className="article-nav">
           {prev && (

@@ -18,7 +18,35 @@ tags:
 description: "Календар МОЗ-2026, дані WHO-UNICEF та практичні кроки catch-up після переміщення - розбір від Віти Зеленко."
 author: "Віта Зеленко"
 source_urls:
-- "https://www.who.int/news/item/15-07-2026-global-childhood-immunization-coverage-inches-forward-despite-conflict-and-hesitancy---unicef--who"
+  - "https://www.unicef.org/eca/press-releases/childhood-immunization-continues-recover-across-europe-and-central-asia-gaps-remain"
+  - "https://www.who.int/news/item/15-07-2026-global-childhood-immunization-coverage-inches-forward-despite-conflict-and-hesitancy---unicef--who"
+  - "https://phc.org.ua/en/diseases-and-information/immunization"
+  - "https://unn.ua/en/news/in-2025-about-2000-cases-of-measles-were-registered-in-ukraine-with-a-localized-outbreak-mainly-recorded-in-the-western-regions-ministry-of-health"
+  - "https://www.who.int/europe/news/item/11-02-2026-measles-cases-dropped-in-europe-and-central-asia-in-2025-compared-to-the-previous-year--but-the-risk-of-outbreaks-remains---unicef-and-who"
+  - "https://www.cdc.gov/measles/vaccines/index.html"
+  - "https://www.who.int/news-room/fact-sheets/detail/measles"
+  - "https://www.ecdc.europa.eu/en/news-events/community-spread-drives-ongoing-measles-transmission-europe"
+  - "https://vaccine.org.ua/2025/12/22/onovlenyj-kalendar-shheplen/"
+  - "https://health-ua.com/pediatrics/vakcinaciia/81989-onovlenii-kalendar-shheplen-shho-zminilosia-dlia-likaria-praktika"
+  - "https://www.cdc.gov/immigrant-refugee-health/hcp/domestic-guidance/immunizations.html"
+  - "https://www.rch.org.au/immigranthealth/clinical/catchup_immunisation_in_refugees/"
+  - "https://www.nejm.org/doi/full/10.1056/NEJMra2504516"
+- "https://www.who.int/news/item/15-07-2026-global-childhood-immunization-coverage-inches-forward-despite-conflict-and-hesitancy
+source_names:
+  - "UNICEF ECA, липень 2026"
+  - "WHO, 15.07.2026"
+  - "ЦГЗ України"
+  - "МОЗ через УНН"
+  - "WHO Europe, 11.02.2026"
+  - "CDC"
+  - "WHO"
+  - "ECDC"
+  - "vaccine.org.ua"
+  - "health-ua.com"
+  - "CDC catch-up для мігрантів і біженців"
+  - "RCH Melbourne"
+  - "NEJM, 2025"
+---unicef--who"
 - "https://www.unicef.org/eca/press-releases/childhood-immunization-continues-recover-across-europe-and-central-asia-gaps-remain"
 - "https://www.who.int/europe/news/item/11-02-2026-measles-cases-dropped-in-europe-and-central-asia-in-2025-compared-to-the-previous-year--but-the-risk-of-outbreaks-remains---unicef-and-who"
 - "https://www.ecdc.europa.eu/en/news-events/community-spread-drives-ongoing-measles-transmission-europe"
@@ -54,7 +82,7 @@ tg_post: |
  <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
-Привіт! Є свіжі новини з лабораторій ВООЗ та ЮНІСЕФ - 15 липня 2026 року вони опублікували щорічну оцінку глобального охоплення дитячими щепленнями. Головна цифра для нас: Україна серед позитивних рухів регіону - DTP3 (третя доза вакцини від дифтерії, правця та кашлюку) зросла більш ніж на 2 відсоткові пункти у 2025 році ([UNICEF ECA, липень 2026](https://www.unicef.org/eca/press-releases/childhood-immunization-continues-recover-across-europe-and-central-asia-gaps-remain)).
+Привіт! Є свіжі новини з лабораторій ВООЗ та ЮНІСЕФ - 15 липня 2026 року вони опублікували щорічну оцінку глобального охоплення дитячими щепленнями. Головна цифра для нас: Україна серед позитивних рухів регіону - DTP3 (третя доза вакцини від дифтерії, правця та кашлюку) зросла більш ніж на 2 відсоткові пункти у 2025 році (UNICEF ECA, липень 2026).
 
 Звучить оптимістично. Але якщо копнути глибше - картина складніша. І саме зараз, коли календар МОЗ оновився з 1 січня 2026 року, а тисячі дітей повернулися з переміщення з дірами у щепленнях, батькам варто розібратися по-справжньому. 🔬
 
@@ -62,7 +90,7 @@ tg_post: |
 
 ## Що показав звіт WHO-UNICEF за 2025 рік
 
-Глобальне охоплення DTP3 склало 85%, першої дози кору (MCV1) - 84%, другої дози (MCV2) - лише 77% ([WHO, 15.07.2026](https://www.who.int/news/item/15-07-2026-global-childhood-immunization-coverage-inches-forward-despite-conflict-and-hesitancy---unicef--who)). Це на 1 п.п. вище за 2024 рік - але все ще нижче за 2019-й, до пандемії.
+Глобальне охоплення DTP3 склало 85%, першої дози кору (MCV1) - 84%, другої дози (MCV2) - лише 77% (WHO, 15.07.2026). Це на 1 п.п. вище за 2024 рік - але все ще нижче за 2019-й, до пандемії.
 
 Поріг колективного імунітету від кору - 95%. Світ його не досягає. У 2025 році 57 країн повідомили про великі спалахи кору.
 
@@ -72,23 +100,23 @@ tg_post: |
 
 Східна Європа й Центральна Азія: DTP3 = 87% (було 86%). Все ще нижче базового 2019 року (92%).
 
-Україна, за даними МОЗ, у 2025 році досягла охоплення понад 90% для більшості планових антигенів - рекордний рівень за роки повномасштабної війни ([ЦГЗ України](https://phc.org.ua/en/diseases-and-information/immunization)). Але національне середнє маскує регіональні провали. За словами МОЗ, локалізований спалах кору у 2025 році зосередився у **Чернівецькій, Закарпатській та Івано-Франківській** областях - приблизно 2 000 випадків за рік ([МОЗ через УНН](https://unn.ua/en/news/in-2025-about-2000-cases-of-measles-were-registered-in-ukraine-with-a-localized-outbreak-mainly-recorded-in-the-western-regions-ministry-of-health)).
+Україна, за даними МОЗ, у 2025 році досягла охоплення понад 90% для більшості планових антигенів - рекордний рівень за роки повномасштабної війни (ЦГЗ України). Але національне середнє маскує регіональні провали. За словами МОЗ, локалізований спалах кору у 2025 році зосередився у **Чернівецькій, Закарпатській та Івано-Франківській** областях - приблизно 2 000 випадків за рік (МОЗ через УНН).
 
 Для контексту: сусідня Румунія за той самий період - близько 10 000 випадків. Кордон - не бар'єр для вірусу, який передається повітряно-крапельним шляхом.
 
 ## Чому кір повернувся до Європи у 2024–2025
 
-У 2024 році Європейський регіон ВООЗ зареєстрував 127 412 випадків кору - 25-річний максимум. У 2025-му - 33 998 випадків, падіння на ~75% ([WHO Europe, 11.02.2026](https://www.who.int/europe/news/item/11-02-2026-measles-cases-dropped-in-europe-and-central-asia-in-2025-compared-to-the-previous-year--but-the-risk-of-outbreaks-remains---unicef-and-who)).
+У 2024 році Європейський регіон ВООЗ зареєстрував 127 412 випадків кору - 25-річний максимум. У 2025-му - 33 998 випадків, падіння на ~75% (WHO Europe, 11.02.2026).
 
 Але це не привід розслаблятися. ВООЗ прямо каже: падіння частково пояснюється «вигоранням» пулу вразливих людей після мега-спалаху 2024 року, а не сталим покращенням охоплення. Кількість країн з ендемічною передачею зросла з 12 до 19.
 
-Кір - це не «просто дитяча хвороба». Один інфікований заражає до 18 інших серед невакцинованих (для порівняння: грип - 1–2). Дві дози MMR (вакцина від кору, паротиту та краснухи) дають до 97% пожиттєвого захисту, за даними [CDC](https://www.cdc.gov/measles/vaccines/index.html) та [WHO](https://www.who.int/news-room/fact-sheets/detail/measles).
+Кір - це не «просто дитяча хвороба». Один інфікований заражає до 18 інших серед невакцинованих (для порівняння: грип - 1–2). Дві дози MMR (вакцина від кору, паротиту та краснухи) дають до 97% пожиттєвого захисту, за даними CDC та WHO.
 
-Дані ECDC по 30 країнах ЄС/ЄЕЗ за 2025 рік: 7 655 підтверджених випадків, 8 смертей (Франція 4, Румунія 3, Нідерланди 1). Діти до 5 років - 40% усіх заражень (3 072 випадки). Приблизно 80% хворих були невакциновані ([ECDC](https://www.ecdc.europa.eu/en/news-events/community-spread-drives-ongoing-measles-transmission-europe)).
+Дані ECDC по 30 країнах ЄС/ЄЕЗ за 2025 рік: 7 655 підтверджених випадків, 8 смертей (Франція 4, Румунія 3, Нідерланди 1). Діти до 5 років - 40% усіх заражень (3 072 випадки). Приблизно 80% хворих були невакциновані (ECDC).
 
 ## Що змінилося в календарі МОЗ з 1 січня 2026 року
 
-Оновлений національний календар щеплень вступив у силу 1 січня 2026 року. Ключові зміни ([vaccine.org.ua](https://vaccine.org.ua/2025/12/22/onovlenyj-kalendar-shheplen/), [health-ua.com](https://health-ua.com/pediatrics/vakcinaciia/81989-onovlenii-kalendar-shheplen-shho-zminilosia-dlia-likaria-praktika)):
+Оновлений національний календар щеплень вступив у силу 1 січня 2026 року. Ключові зміни (vaccine.org.ua, health-ua.com):
 
 1. **HPV додано** - дівчатам 12–13 років (до 13 років 11 місяців 29 днів), одна доза 9-валентної вакцини (проти вірусу папіломи людини, який спричиняє рак шийки матки), безкоштовно за держкоштом. Це вирівнює Україну з європейськими стандартами.
 2. **Уніфікована схема DTaP/HepB/Hib/поліо**: 2 – 4 – 6 – 18 місяців. Дозволено комбіновані вакцини (6-в-1) - менше уколів і візитів.
@@ -98,13 +126,13 @@ tg_post: |
 
 ## Кроки catch-up для дітей після переміщення
 
-Якщо дитина пропустила щеплення через евакуацію, переїзди, тимчасове проживання за кордоном - це нормальна ситуація, і її вирішують за міжнародним протоколом. Ось спрощена дорожня карта на основі рекомендацій ВООЗ і CDC ([CDC catch-up для мігрантів і біженців](https://www.cdc.gov/immigrant-refugee-health/hcp/domestic-guidance/immunizations.html)):
+Якщо дитина пропустила щеплення через евакуацію, переїзди, тимчасове проживання за кордоном - це нормальна ситуація, і її вирішують за міжнародним протоколом. Ось спрощена дорожня карта на основі рекомендацій ВООЗ і CDC (CDC catch-up для мігрантів і біженців):
 
 **Крок 1. Знайди документи.** Витяг з медичної карти, довідки з поліклінік (у т.ч. закордонних), відмітки в паспорті здоров'я дитини. Все, що можна - забери.
 
 **Крок 2. Прийди до сімейного лікаря або педіатра.** Він внесе дані до системи eHealth і складе індивідуальний план догону. Всі щеплення з календаря МОЗ - безкоштовні.
 
-**Крок 3. Якщо документів немає - дитина вважається невакцинованою.** Це стандартний підхід у Мельбурні, США та більшості країн ЄС ([RCH Melbourne](https://www.rch.org.au/immigranthealth/clinical/catchup_immunisation_in_refugees/)). Не бійся «повторити зайве» - це безпечно.
+**Крок 3. Якщо документів немає - дитина вважається невакцинованою.** Це стандартний підхід у Мельбурні, США та більшості країн ЄС (RCH Melbourne). Не бійся «повторити зайве» - це безпечно.
 
 **Крок 4. Серії НЕ треба починати заново.** Якщо у дитини є, наприклад, дві дози DTaP замість трьох - просто продовжуй з мінімальним інтервалом (4 тижні між дозами 1–2 і 2–3, 6 місяців перед четвертою). Це важливий момент, який часто плутають.
 
@@ -122,7 +150,7 @@ tg_post: |
 
 Якщо дитина була в контакті з підтвердженим випадком кору й у неї з'явилися температура >38 °C, кашель, нежить, кон'юнктивіт (запалені червоні очі) або характерний висип - телефонуй до лікаря того ж дня. Не веди дитину до поліклініки без попередження: кір передається у повітрі, ти можеш заразити інших у черзі.
 
-Ускладнення кору за оглядом NEJM 2025 включають пневмонію, отит, енцефаліт і рідкісний, але фатальний підгострий склерозуючий паненцефаліт (SSPE) через роки після перенесеної інфекції ([NEJM, 2025](https://www.nejm.org/doi/full/10.1056/NEJMra2504516)).
+Ускладнення кору за оглядом NEJM 2025 включають пневмонію, отит, енцефаліт і рідкісний, але фатальний підгострий склерозуючий паненцефаліт (SSPE) через роки після перенесеної інфекції (NEJM, 2025).
 
 ## Обмеження даних, про які варто знати
 

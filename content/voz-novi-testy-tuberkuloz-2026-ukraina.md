@@ -16,6 +16,16 @@ tags:
 description: "ВООЗ оновила рекомендації щодо діагностики ТБ: NPOC-NAAT, мазки з язика, пулінг. Що це означає для України."
 author: "Віта Зеленко"
 source_urls:
+  - "https://www.who.int/news/item/09-03-2026-who-recommends-near-point-of-care-tests--tongue-swabs--and-sputum-pooling-for-tb-diagnosis"
+  - "https://www.who.int/teams/global-programme-on-tuberculosis-and-lung-health/diagnosis-treatment/npoc-tongue-swabs-and-sputum-pooling-for-tb"
+  - "https://www.who.int/publications/i/item/9789240089488"
+  - "https://pubmed.ncbi.nlm.nih.gov/40122135/"
+  - "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(23"
+  - "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1278716/full"
+  - "https://www.who.int/teams/global-programme-on-tuberculosis-and-lung-health/tb-reports/global-tuberculosis-report-2025/tb-disease-burden/1-3-drug-resistant-tb"
+  - "https://www.nature.com/articles/s41598-025-01723-7"
+  - "https://wwwnc.cdc.gov/eid/article/31/3/24-1675_article"
+  - "https://www.who.int/news/item/05-12-2024-who-announces-first-prequalification-of-a-tuberculosis-diagnostic-test"
 - "https://www.who.int/news/item/09-03-2026-who-recommends-near-point-of-care-tests--tongue-swabs--and-sputum-pooling-for-tb-diagnosis"
 - "https://www.who.int/news/item/24-03-2026-who-recommends-new-diagnostic-tools-to-help-end-tb"
 - "https://www.who.int/teams/global-programme-on-tuberculosis-and-lung-health/diagnosis-treatment/npoc-tongue-swabs-and-sputum-pooling-for-tb"
@@ -29,6 +39,16 @@ source_urls:
 - "https://www.nature.com/articles/s41598-025-01723-7"
 - "https://wwwnc.cdc.gov/eid/article/31/3/24-1675_article"
 source_names:
+  - "WHO, 2026"
+  - "WHO programme page"
+  - "WHO guidelines, 2024"
+  - "Inbaraj et al., 2025"
+  - "Church et al., 2024"
+  - "Frontiers, 2024"
+  - "WHO, 2025"
+  - "Nature, 2025"
+  - "Emerging Infectious Diseases, 2025"
+  - "WHO, 2024"
 - "WHO News Release (9 Mar 2026)"
 - "WHO News Release (24 Mar 2026)"
 - "WHO Global Programme on TB - NPOC, tongue swabs, sputum pooling"
@@ -52,22 +72,22 @@ tg_post: |
  <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
-Привіт! Є новини з лабораторій - і цього разу дуже практичні. 9 березня 2026 року ВООЗ оновила рекомендації щодо діагностики туберкульозу, а 24 березня, на Всесвітній день боротьби з ТБ, закликала країни якнайшвидше впроваджувати нові інструменти ([WHO, 2026](https://www.who.int/news/item/09-03-2026-who-recommends-near-point-of-care-tests--tongue-swabs--and-sputum-pooling-for-tb-diagnosis)).
+Привіт! Є новини з лабораторій - і цього разу дуже практичні. 9 березня 2026 року ВООЗ оновила рекомендації щодо діагностики туберкульозу, а 24 березня, на Всесвітній день боротьби з ТБ, закликала країни якнайшвидше впроваджувати нові інструменти (WHO, 2026).
 
 Для України, де тягар мультирезистентного ТБ (MDR/RR-TB - мульти- та рифампіцин-резистентний туберкульоз, тобто форми хвороби, стійкі щонайменше до рифампіцину, а часто й до ізоніазиду) залишається одним із найвищих у Європейському регіоні, це напряму стосується мільйонів людей. Розберемо спокійно й по пунктах.
 
 ## Що саме рекомендувала ВООЗ
 
-Нових класів тестів три ([WHO programme page](https://www.who.int/teams/global-programme-on-tuberculosis-and-lung-health/diagnosis-treatment/npoc-tongue-swabs-and-sputum-pooling-for-tb)):
-- **NPOC-NAAT** - молекулярні тести «майже біля пацієнта» (near point-of-care). Це портативні прилади на батарейках, які дають результат менш ніж за годину. За оцінками ВООЗ і виробників платформ на кшталт Truenat, вартість одного тесту суттєво нижча порівняно зі стаціонарними картриджними системами ([WHO programme page](https://www.who.int/teams/global-programme-on-tuberculosis-and-lung-health/diagnosis-treatment/npoc-tongue-swabs-and-sputum-pooling-for-tb)).
+Нових класів тестів три (WHO programme page):
+- **NPOC-NAAT** - молекулярні тести «майже біля пацієнта» (near point-of-care). Це портативні прилади на батарейках, які дають результат менш ніж за годину. За оцінками ВООЗ і виробників платформ на кшталт Truenat, вартість одного тесту суттєво нижча порівняно зі стаціонарними картриджними системами (WHO programme page).
 - **Мазки з язика (tongue swabs)** - альтернатива мокротинню для дорослих і підлітків, які не можуть її відкашляти.
 - **Пулінг мокротиння** - одночасне тестування зразків кількох пацієнтів, щоб лабораторії працювали швидше.
 
-Раніше «золотим стандартом» ВООЗ був Xpert MTB/RIF Ultra - картриджна система, яка теж молекулярна, але потребує стаціонарної лабораторії ([WHO guidelines, 2024](https://www.who.int/publications/i/item/9789240089488)).
+Раніше «золотим стандартом» ВООЗ був Xpert MTB/RIF Ultra - картриджна система, яка теж молекулярна, але потребує стаціонарної лабораторії (WHO guidelines, 2024).
 
 ## Чим нові тести кращі за Xpert
 
-Ключова перевага - децентралізація. Новий Cochrane-огляд 2025 року (10 досліджень, близько 7120 учасників) оцінив платформу Truenat - один із головних представників NPOC-NAAT ([Inbaraj et al., 2025](https://pubmed.ncbi.nlm.nih.gov/40122135/)).
+Ключова перевага - децентралізація. Новий Cochrane-огляд 2025 року (10 досліджень, близько 7120 учасників) оцінив платформу Truenat - один із головних представників NPOC-NAAT (Inbaraj et al., 2025).
 
 Чутливість Truenat MTB Plus - 90,6%, специфічність - 95,7% (високий рівень доказовості). У прямому порівнянні з Xpert Ultra Truenat трохи поступається за чутливістю (81% проти 94%), але виграє у мобільності, ціні та автономності.
 
@@ -75,21 +95,21 @@ tg_post: |
 
 ## Чому мазки з язика - важлива новина
 
-Не всі можуть здати мокротиння: літні люди, пацієнти з ВІЛ, дуже ослаблені, частина дітей. Систематичний огляд у The Lancet Global Health (16 робіт, 3083 учасники) показав чутливість мазків із язика у дорослих від 36% до 91% залежно від платформи ([Church et al., 2024](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(23)00469-2/fulltext)).
+Не всі можуть здати мокротиння: літні люди, пацієнти з ВІЛ, дуже ослаблені, частина дітей. Систематичний огляд у The Lancet Global Health (16 робіт, 3083 учасники) показав чутливість мазків із язика у дорослих від 36% до 91% залежно від платформи (Church et al., 202400469-2/fulltext)).
 
-Мета-аналіз у Frontiers in Medicine (2024) підтвердив: мазки саме з язика (чутливість 0,75) працюють краще за мазки зі щоки (0,52), а специфічність тримається на рівні 0,95 ([Frontiers, 2024](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1278716/full)).
+Мета-аналіз у Frontiers in Medicine (2024) підтвердив: мазки саме з язика (чутливість 0,75) працюють краще за мазки зі щоки (0,52), а специфічність тримається на рівні 0,95 (Frontiers, 2024).
 
 Важливий нюанс: у дітей чутливість поки що значно нижча (5–42%), тож для педіатрії мазки з язика - не універсальне рішення.
 
 ## Чому це критично для України
 
-За даними WHO Global TB Report 2025, Україна - серед 30 країн світу з найвищим тягарем MDR/RR-TB. Оціночний тягар - близько 9 651 випадку мультирезистентного ТБ у 2024 році (це модельна оцінка ВООЗ, а не лише офіційно зареєстровані випадки - фактична нотифікація зазвичай нижча через недовиявлення) ([WHO, 2025](https://www.who.int/teams/global-programme-on-tuberculosis-and-lung-health/tb-reports/global-tuberculosis-report-2025/tb-disease-burden/1-3-drug-resistant-tb)).
+За даними WHO Global TB Report 2025, Україна - серед 30 країн світу з найвищим тягарем MDR/RR-TB. Оціночний тягар - близько 9 651 випадку мультирезистентного ТБ у 2024 році (це модельна оцінка ВООЗ, а не лише офіційно зареєстровані випадки - фактична нотифікація зазвичай нижча через недовиявлення) (WHO, 2025).
 
-Аналіз у Scientific Reports (2025) показує, що війна і пандемія вплинули на епідемію: у Центральній Україні захворюваність зросла з 36,55 до 62,75 на 100 000 населення у 2022–2023 роках. Серед нових випадків 29% - мультирезистентні ([Nature, 2025](https://www.nature.com/articles/s41598-025-01723-7)).
+Аналіз у Scientific Reports (2025) показує, що війна і пандемія вплинули на епідемію: у Центральній Україні захворюваність зросла з 36,55 до 62,75 на 100 000 населення у 2022–2023 роках. Серед нових випадків 29% - мультирезистентні (Nature, 2025).
 
-Окреме дослідження CDC зафіксувало у Харкові до 30% резистентності до фторхінолонів серед пацієнтів з MDR-TB ([Emerging Infectious Diseases, 2025](https://wwwnc.cdc.gov/eid/article/31/3/24-1675_article)). Важливий контекст: йдеться про підгрупу пацієнтів, у яких уже підтверджено мультирезистентний ТБ, - це не показник для загальної популяції і не означає, що у кожного третього харків'янина резистентна форма. Але у таких умовах швидка й децентралізована діагностика для груп ризику - не розкіш, а необхідність.
+Окреме дослідження CDC зафіксувало у Харкові до 30% резистентності до фторхінолонів серед пацієнтів з MDR-TB (Emerging Infectious Diseases, 2025). Важливий контекст: йдеться про підгрупу пацієнтів, у яких уже підтверджено мультирезистентний ТБ, - це не показник для загальної популяції і не означає, що у кожного третього харків'янина резистентна форма. Але у таких умовах швидка й децентралізована діагностика для груп ризику - не розкіш, а необхідність.
 
-Коли саме нові тести з'являться в українських лабораторіях - поки не відомо. МОЗ і ЦГЗ офіційних термінів не оголошували. Наразі стандартом залишається Xpert MTB/RIF Ultra, який, до речі, у грудні 2024 року отримав перший в історії ВООЗ статус прекваліфікації для ТБ-діагностики ([WHO, 2024](https://www.who.int/news/item/05-12-2024-who-announces-first-prequalification-of-a-tuberculosis-diagnostic-test)).
+Коли саме нові тести з'являться в українських лабораторіях - поки не відомо. МОЗ і ЦГЗ офіційних термінів не оголошували. Наразі стандартом залишається Xpert MTB/RIF Ultra, який, до речі, у грудні 2024 року отримав перший в історії ВООЗ статус прекваліфікації для ТБ-діагностики (WHO, 2024).
 
 ## Кому варто перевіритися
 

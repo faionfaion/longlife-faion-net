@@ -16,6 +16,14 @@ tags:
 description: "Псилоцибін і MDMA проти депресії та ПТСР: що кажуть випробування і чому FDA поки обережна."
 author: "Віта Зеленко"
 source_urls:
+  - "https://www.who.int/europe/news/item/24-02-2025-three-years-of-war-rising-demand-for-mental-health-support-trauma-care-and-rehabilitation"
+  - "https://pubmed.ncbi.nlm.nih.gov/36322843/"
+  - "https://ir.compasspathways.com/News--Events-/news/news-details/2025/Compass-Pathways-Successfully-Achieves-Primary-Endpoint-in-First-Phase-3-Trial-Evaluating-COMP360-Psilocybin-for-Treatment-Resistant-Depression/default.aspx"
+  - "https://www.nejm.org/doi/full/10.1056/NEJMoa2032994"
+  - "https://www.nature.com/articles/s41591-023-02565-4"
+  - "https://www.psychiatrictimes.com/view/fda-releases-complete-response-letter-on-declining-mdma-assisted-therapy-for-ptsd"
+  - "https://www.ajmc.com/view/reassessing-antidepressant-efficacy-a-meta-analysis-of-control-group-outcomes-in-ssri-psilocybin-and-esketamine-trials"
+  - "https://www.tga.gov.au/news/media-releases/change-classification-psilocybin-and-mdma-enable-prescribing-authorised-psychiatrists"
 - "https://www.nejm.org/doi/full/10.1056/NEJMoa2032994"
 - "https://pubmed.ncbi.nlm.nih.gov/36322843/"
 - "https://ir.compasspathways.com/News--Events-/news/news-details/2025/Compass-Pathways-Successfully-Achieves-Primary-Endpoint-in-First-Phase-3-Trial-Evaluating-COMP360-Psilocybin-for-Treatment-Resistant-Depression/default.aspx"
@@ -25,6 +33,14 @@ source_urls:
 - "https://www.tga.gov.au/news/media-releases/change-classification-psilocybin-and-mdma-enable-prescribing-authorised-psychiatrists"
 - "https://www.who.int/europe/news/item/24-02-2025-three-years-of-war-rising-demand-for-mental-health-support-trauma-care-and-rehabilitation"
 source_names:
+  - "ВООЗ (лютий 2025)"
+  - "NEJM (Goodwin, 2022, N=233)"
+  - "перше позитивне випробування фази 3"
+  - "NEJM (Carhart-Harris, 2021, N=59)"
+  - "Nature Medicine (2023, N=104)"
+  - "FDA відмовила компанії Lykos"
+  - "Аналіз AJMC"
+  - "регулятор Австралії"
 - "New England Journal of Medicine (Carhart-Harris et al., 2021)"
 - "New England Journal of Medicine (Goodwin et al., 2022)"
 - "COMPASS Pathways - Phase 3 COMP005 (2025)"
@@ -44,7 +60,7 @@ tg_post: |
  <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
-Привіт! Сьогодні розберемо тему, яку в новинах часто подають надто гучно: чи справді психоделіки лікують депресію і ПТСР. Для України це болюче питання - за оцінкою [ВООЗ (лютий 2025)](https://www.who.int/europe/news/item/24-02-2025-three-years-of-war-rising-demand-for-mental-health-support-trauma-care-and-rehabilitation), приблизно кожен четвертий стикається з підвищеним ризиком розладів психічного здоров'я загалом (а не саме ПТСР).
+Привіт! Сьогодні розберемо тему, яку в новинах часто подають надто гучно: чи справді психоделіки лікують депресію і ПТСР. Для України це болюче питання - за оцінкою ВООЗ (лютий 2025), приблизно кожен четвертий стикається з підвищеним ризиком розладів психічного здоров'я загалом (а не саме ПТСР).
 
 Тож почнемо з головного й чесного: станом на травень 2026 року жоден психоделік не схвалений FDA для лікування депресії чи ПТСР. 🔬
 
@@ -52,21 +68,21 @@ tg_post: |
 
 ## Псилоцибін: де докази
 
-Найсильніші дані - у псилоцибіну при стійкій до лікування депресії (це коли щонайменше два різні антидепресанти не дали ефекту). Рандомізоване контрольоване дослідження фази 2b у журналі [NEJM (Goodwin, 2022, N=233)](https://pubmed.ncbi.nlm.nih.gov/36322843/) показало: одна доза 25 мг знижувала бали депресії за шкалою MADRS (що вищий бал - то тяжча депресія) сильніше за контроль - різниця −6,6 бала на 3-му тижні (p<0,001). Близько 30% досягли ремісії. Але є нюанс: до 12-го тижня ця перевага стабільно не втрималася.
+Найсильніші дані - у псилоцибіну при стійкій до лікування депресії (це коли щонайменше два різні антидепресанти не дали ефекту). Рандомізоване контрольоване дослідження фази 2b у журналі NEJM (Goodwin, 2022, N=233) показало: одна доза 25 мг знижувала бали депресії за шкалою MADRS (що вищий бал - то тяжча депресія) сильніше за контроль - різниця −6,6 бала на 3-му тижні (p<0,001). Близько 30% досягли ремісії. Але є нюанс: до 12-го тижня ця перевага стабільно не втрималася.
 
-У 2025 році компанія COMPASS оголосила про [перше позитивне випробування фази 3](https://ir.compasspathways.com/News--Events-/news/news-details/2025/Compass-Pathways-Successfully-Achieves-Primary-Endpoint-in-First-Phase-3-Trial-Evaluating-COMP360-Psilocybin-for-Treatment-Resistant-Depression/default.aspx) (COMP005): різниця з плацебо −3,6 бала MADRS (p<0,001). Результати другого ключового дослідження цієї ж програми (COMP006) станом на травень 2026 року ще очікуються - тож говорити про «два позитивні випробування» поки зарано. Звучить обнадійливо - але й наявні дані поки лише в пресрелізах, без рецензованих публікацій. І ефект помітно менший, ніж у попередній фазі. Тож докази помірні й зростають, але не остаточні.
+У 2025 році компанія COMPASS оголосила про перше позитивне випробування фази 3 (COMP005): різниця з плацебо −3,6 бала MADRS (p<0,001). Результати другого ключового дослідження цієї ж програми (COMP006) станом на травень 2026 року ще очікуються - тож говорити про «два позитивні випробування» поки зарано. Звучить обнадійливо - але й наявні дані поки лише в пресрелізах, без рецензованих публікацій. І ефект помітно менший, ніж у попередній фазі. Тож докази помірні й зростають, але не остаточні.
 
-Цікаве пряме порівняння: у дослідженні [NEJM (Carhart-Harris, 2021, N=59)](https://www.nejm.org/doi/full/10.1056/NEJMoa2032994) псилоцибін зіставили зі звичайним антидепресантом есциталопрамом. За первинною точкою значущої різниці між ними не виявили.
+Цікаве пряме порівняння: у дослідженні NEJM (Carhart-Harris, 2021, N=59) псилоцибін зіставили зі звичайним антидепресантом есциталопрамом. За первинною точкою значущої різниці між ними не виявили.
 
 ## MDMA і відмова FDA
 
-Тепер головна новина останніх двох років. Випробування фази 3 MAPP2 у [Nature Medicine (2023, N=104)](https://www.nature.com/articles/s41591-023-02565-4) показало, що MDMA-терапія знижувала тяжкість ПТСР сильніше за плацебо з психотерапією: −23,7 проти −14,8 бала за шкалою CAPS-5 (що вищий бал - то тяжчий ПТСР). На папері - переконливо.
+Тепер головна новина останніх двох років. Випробування фази 3 MAPP2 у Nature Medicine (2023, N=104) показало, що MDMA-терапія знижувала тяжкість ПТСР сильніше за плацебо з психотерапією: −23,7 проти −14,8 бала за шкалою CAPS-5 (що вищий бал - то тяжчий ПТСР). На папері - переконливо.
 
-Та в серпні 2024 [FDA відмовила компанії Lykos](https://www.psychiatrictimes.com/view/fda-releases-complete-response-letter-on-declining-mdma-assisted-therapy-for-ptsd) і зажадала ще одного дослідження. Чому? Серед причин - «функціональне розсліплення»: через явний психоактивний ефект і пацієнти, і терапевти здогадувалися, хто отримав MDMA, а це завищує оцінку користі. Додалися питання серцево-судинних ризиків, неможливості відокремити ефект речовини від ефекту психотерапії та етичні зауваження до випробувань.
+Та в серпні 2024 FDA відмовила компанії Lykos і зажадала ще одного дослідження. Чому? Серед причин - «функціональне розсліплення»: через явний психоактивний ефект і пацієнти, і терапевти здогадувалися, хто отримав MDMA, а це завищує оцінку користі. Додалися питання серцево-судинних ризиків, неможливості відокремити ефект речовини від ефекту психотерапії та етичні зауваження до випробувань.
 
-Ця проблема стосується й псилоцибіну. [Аналіз AJMC](https://www.ajmc.com/view/reassessing-antidepressant-efficacy-a-meta-analysis-of-control-group-outcomes-in-ssri-psilocybin-and-esketamine-trials) показав, що в плацебо-групах досліджень псилоцибіну відповідь незвично низька (~19% проти ~33% у звичайних антидепресантів) - частково через ті самі очікування й розсліплення.
+Ця проблема стосується й псилоцибіну. Аналіз AJMC показав, що в плацебо-групах досліджень псилоцибіну відповідь незвично низька (~19% проти ~33% у звичайних антидепресантів) - частково через ті самі очікування й розсліплення.
 
-Світ навіть розділився: з липня 2023 [регулятор Австралії](https://www.tga.gov.au/news/media-releases/change-classification-psilocybin-and-mdma-enable-prescribing-authorised-psychiatrists) дозволив авторизованим психіатрам призначати ці речовини під суворим контролем. FDA - обережніша. Один масив даних, протилежні висновки.
+Світ навіть розділився: з липня 2023 регулятор Австралії дозволив авторизованим психіатрам призначати ці речовини під суворим контролем. FDA - обережніша. Один масив даних, протилежні висновки.
 
 ## Важливо: це не самолікування
 

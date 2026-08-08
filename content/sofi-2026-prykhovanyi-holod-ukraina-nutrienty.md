@@ -18,6 +18,16 @@ tags:
 description: "SOFI 2026: глобальний голод знижується, але прихований - зростає. Що це означає для України"
 author: "Віта Зеленко"
 source_urls:
+  - "https://www.who.int/news/item/21-07-2026-un-report--global-hunger-levels-ease-for-third-consecutive-year-as-regional-disparities-persist"
+  - "https://www.fao.org/newsroom/detail/sofi-2026--hunger-not-inevitable--fao-says-as-global-hunger-report-shows-progress/en"
+  - "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(24"
+  - "https://hsph.harvard.edu/news/billions-worldwide-consume-inadequate-levels-of-micronutrients-critical-to-human-health/"
+  - "https://www.wfp.org/news/three-years-war-ukraine-one-third-population-frontlines-regions-struggle-find-enough-eat"
+  - "https://www.wfp.org/publications/wfp-ukraine-overview-may-2025"
+  - "https://amnu.gov.ua/harchuvannya-lyudyny-sogodennya-ta-majbutnye/"
+  - "https://www.tandfonline.com/doi/full/10.1080/03066150.2025.2519635"
+  - "https://pmc.ncbi.nlm.nih.gov/articles/PMC11377338/"
+  - "https://www.fda.gov/food/consumers/advice-about-eating-fish"
 - "https://www.who.int/news/item/21-07-2026-un-report--global-hunger-levels-ease-for-third-consecutive-year-as-regional-disparities-persist"
 - "https://www.who.int/publications/m/item/the-state-of-food-security-and-nutrition-in-the-world-2026"
 - "https://www.fao.org/newsroom/detail/sofi-2026--hunger-not-inevitable--fao-says-as-global-hunger-report-shows-progress/en"
@@ -30,6 +40,16 @@ source_urls:
 - "https://pmc.ncbi.nlm.nih.gov/articles/PMC11377338/"
 - "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1622945/full"
 source_names:
+  - "WHO, 21.07.2026"
+  - "FAO newsroom"
+  - "Lancet Global Health, 2024"
+  - "Harvard T.H. Chan summary"
+  - "WFP, 2025"
+  - "WFP Ukraine Overview, May 2025"
+  - "НАМН"
+  - "Taylor & Francis, 2025"
+  - "Pulse crops review, PMC 2024"
+  - "FDA advice on fish, 2024"
 - "WHO - SOFI 2026 news release"
 - "WHO - SOFI 2026 publication"
 - "FAO Newsroom - SOFI 2026"
@@ -54,7 +74,7 @@ tg_post: |
 
 Привіт! Є новини з великих ООНівських лабораторій - і вони, на диво, обнадійливі. 🌿 Новий звіт FAO, ВООЗ, UNICEF, WFP та IFAD «The State of Food Security and Nutrition in the World 2026» (SOFI) показує: глобальний голод знижується третій рік поспіль.
 
-За оцінкою ООН, у 2025 році близько 7,8% людства (приблизно 645 млн людей) недоотримували калорій - це на ~43 млн менше, ніж на піку 2022 року. Важлива ремарка: це модельовані оцінки FAO з довірчими інтервалами, а не точний облік - реальна цифра може бути дещо вищою або нижчою ([WHO, 21.07.2026](https://www.who.int/news/item/21-07-2026-un-report--global-hunger-levels-ease-for-third-consecutive-year-as-regional-disparities-persist)). Африка вперше з 2017-го розвернула тренд, Південна Азія і Латинська Америка тягнуть глобальний показник донизу ([FAO newsroom](https://www.fao.org/newsroom/detail/sofi-2026--hunger-not-inevitable--fao-says-as-global-hunger-report-shows-progress/en)).
+За оцінкою ООН, у 2025 році близько 7,8% людства (приблизно 645 млн людей) недоотримували калорій - це на ~43 млн менше, ніж на піку 2022 року. Важлива ремарка: це модельовані оцінки FAO з довірчими інтервалами, а не точний облік - реальна цифра може бути дещо вищою або нижчою (WHO, 21.07.2026). Африка вперше з 2017-го розвернула тренд, Південна Азія і Латинська Америка тягнуть глобальний показник донизу (FAO newsroom).
 
 Але є два великі «але». І одне з них - про нас.
 
@@ -62,19 +82,19 @@ tg_post: |
 
 Індикатор PoU (prevalence of undernourishment, тобто поширеність недоїдання за калоріями) - це показник, яким SOFI міряє енергетичний дефіцит. Простими словами: він відповідає на питання «чи достатньо людина з’їдає калорій», але не бачить, чи вистачає їй заліза, йоду, вітаміну B12 і фолату (це форма вітаміну B9, критична для кровотворення і розвитку плода). А тут картина сумніша.
 
-Моделювання Passarelli та колег у The Lancet Global Health (2024) охопило 185 країн і 15 мікронутрієнтів. Результат: 68% людства не отримує з їжі достатньо йоду, 66% - кальцію, 65% - заліза, 54% - фолату ([Lancet Global Health, 2024](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(24)00276-6/fulltext); [Harvard T.H. Chan summary](https://hsph.harvard.edu/news/billions-worldwide-consume-inadequate-levels-of-micronutrients-critical-to-human-health/)). Це модельовані оцінки, без урахування фортифікації (додавання мікроелементів до продуктів на виробництві, як-от йодована сіль) та харчових добавок, тож у країнах із широкою фортифікацією ситуація може бути кращою - але патерн стійкий.
+Моделювання Passarelli та колег у The Lancet Global Health (2024) охопило 185 країн і 15 мікронутрієнтів. Результат: 68% людства не отримує з їжі достатньо йоду, 66% - кальцію, 65% - заліза, 54% - фолату (Lancet Global Health, 202400276-6/fulltext); Harvard T.H. Chan summary). Це модельовані оцінки, без урахування фортифікації (додавання мікроелементів до продуктів на виробництві, як-от йодована сіль) та харчових добавок, тож у країнах із широкою фортифікацією ситуація може бути кращою - але патерн стійкий.
 
 Чому так? Здорова дієта коштує дорого: за SOFI 2026, це $4,28 PPP (у перерахунку на паритет купівельної спроможності) на людину на день, і 2,69 млрд людей не можуть її дозволити. «Nutritious foods often remain costly because expenses accumulate across storage, processing, transport and retail stages», - пояснює FAO.
 
 ## Україна на європейській мапі - окремий випадок
 
-У регіоні «Північна Америка + Європа» помірна чи сильна харчова невпевненість - 8,7%. У шести прифронтових областях України - **кожна третя людина** ([WFP, 2025](https://www.wfp.org/news/three-years-war-ukraine-one-third-population-frontlines-regions-struggle-find-enough-eat)). Загалом близько 5 млн українців зазнають харчової невпевненості, а 72% отримувачів допомоги WFP звітують, що скорочують порції, обирають менш поживну їжу або позичають гроші ([WFP Ukraine Overview, May 2025](https://www.wfp.org/publications/wfp-ukraine-overview-may-2025)).
+У регіоні «Північна Америка + Європа» помірна чи сильна харчова невпевненість - 8,7%. У шести прифронтових областях України - **кожна третя людина** (WFP, 2025). Загалом близько 5 млн українців зазнають харчової невпевненості, а 72% отримувачів допомоги WFP звітують, що скорочують порції, обирають менш поживну їжу або позичають гроші (WFP Ukraine Overview, May 2025).
 
-За оглядовим матеріалом фахівців НАМН України (це позиційна публікація-огляд, а не первинне епідеміологічне дослідження), у населення країни спостерігається «прихований голод» через дефіцити йоду, заліза, кальцію, селену та вітамінів А, Е, С ([НАМН](https://amnu.gov.ua/harchuvannya-lyudyny-sogodennya-ta-majbutnye/)). Найвразливіші - ВПО (внутрішньо переміщені особи), вагітні, діти шкільного віку та літні люди у прифронтових зонах. Якісне дослідження харчових систем ВПО (Journal of Peasant Studies, 2025) показало: cash-трансфери (грошова допомога замість продуктових наборів) та можливість вирощувати самим дають різноманітніший раціон, ніж стандартні пайки ([Taylor & Francis, 2025](https://www.tandfonline.com/doi/full/10.1080/03066150.2025.2519635)).
+За оглядовим матеріалом фахівців НАМН України (це позиційна публікація-огляд, а не первинне епідеміологічне дослідження), у населення країни спостерігається «прихований голод» через дефіцити йоду, заліза, кальцію, селену та вітамінів А, Е, С (НАМН). Найвразливіші - ВПО (внутрішньо переміщені особи), вагітні, діти шкільного віку та літні люди у прифронтових зонах. Якісне дослідження харчових систем ВПО (Journal of Peasant Studies, 2025) показало: cash-трансфери (грошова допомога замість продуктових наборів) та можливість вирощувати самим дають різноманітніший раціон, ніж стандартні пайки (Taylor & Francis, 2025).
 
 ## 10 доступних нутрієнтно-щільних продуктів (за обмеженого бюджету) 🥗
 
-Огляд у PMC (2024) називає бобові одними з найкращих продуктів за співвідношенням «поживність / ціна» ([Pulse crops review, PMC 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11377338/)). Ось базова десятка, яка закриває більшість дефіцитів:
+Огляд у PMC (2024) називає бобові одними з найкращих продуктів за співвідношенням «поживність / ціна» (Pulse crops review, PMC 2024). Ось базова десятка, яка закриває більшість дефіцитів:
 
 1. **Бобові** (квасоля, сочевиця, нут, горох) - білок, залізо, фолат, клітковина.
 2. **Яйця** - вітамін B12, холін, повноцінний білок.
@@ -84,7 +104,7 @@ tg_post: |
 6. **Капуста** (у т.ч. квашена) - вітаміни С і К, пробіотики.
 7. **Морква** - β-каротин (попередник вітаміну А).
 8. **Йодована сіль** - базова профілактика йододефіциту за рекомендацією ВООЗ.
-9. **Дрібна жирна риба** (кілька, шпроти, оселедець) - omega-3, вітамін D, кальцій із кістками. За рекомендаціями FDA/EFSA, вагітним, годуючим і дітям молодшого віку варто орієнтуватися на дрібну рибу з низьким вмістом ртуті - саме кілька, шпроти й оселедець сюди підходять, а от великих хижих риб (тунець, королівська макрель, меч-риба) краще уникати ([FDA advice on fish, 2024](https://www.fda.gov/food/consumers/advice-about-eating-fish)).
+9. **Дрібна жирна риба** (кілька, шпроти, оселедець) - omega-3, вітамін D, кальцій із кістками. За рекомендаціями FDA/EFSA, вагітним, годуючим і дітям молодшого віку варто орієнтуватися на дрібну рибу з низьким вмістом ртуті - саме кілька, шпроти й оселедець сюди підходять, а от великих хижих риб (тунець, королівська макрель, меч-риба) краще уникати (FDA advice on fish, 2024).
 10. **Соняшникове насіння** - вітамін Е, магній, селен.
 
 Як ми вже писали, [йододефіцит повертається навіть у розвинених країнах](https://longlife.media/iodine-deficiency-returns-salt-plant-milk-thyroid/), [дефіцит B12 маскується під втому та депресію](https://longlife.media/vitamin-b12-defitsyt-vtoma-depresiya-diagnostyka-likuvannia/), а [низький феритин можливий без анемії](https://longlife.media/zalizodefitsyt-bez-anemii-feritin-vtoma-zalizo-cherez-den/) - усі три сюжети напряму про «прихований голод».

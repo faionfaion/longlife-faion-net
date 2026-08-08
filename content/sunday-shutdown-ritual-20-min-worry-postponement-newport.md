@@ -17,6 +17,17 @@ tags:
 description: "20-хвилинний недільний ритуал на основі досліджень: як знизити тривогу перед понеділком."
 author: "Віта Зеленко"
 source_urls:
+  - "https://www.kickresume.com/en/press/sunday-scaries-survey/"
+  - "https://www.apa.org/pubs/reports/work-in-america/2024/2024-work-in-america-report.pdf"
+  - "https://doi.org/10.2466/09.14.17.PR0.108.1.274-280"
+  - "https://calnewport.com/deep-work-rules-for-focused-success-in-a-distracted-world/"
+  - "https://www.sciencedirect.com/science/article/abs/pii/0005796783902066"
+  - "https://pubmed.ncbi.nlm.nih.gov/22977265/"
+  - "https://pmc.ncbi.nlm.nih.gov/articles/PMC11303915/"
+  - "https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf"
+  - "https://users.wfu.edu/masicaej/MasicampoBaumeister2011JPSP.pdf"
+  - "https://link.springer.com/article/10.1007/s41811-023-00193-x"
+  - "https://www.tandfonline.com/doi/full/10.1080/08870446.2025.2590072"
 - "https://www.kickresume.com/en/press/sunday-scaries-survey/"
 - "https://www.apa.org/pubs/reports/work-in-america/2024/2024-work-in-america-report.pdf"
 - "https://doi.org/10.2466/09.14.17.PR0.108.1.274-280"
@@ -29,6 +40,17 @@ source_urls:
 - "https://users.wfu.edu/masicaej/MasicampoBaumeister2011JPSP.pdf"
 - "https://calnewport.com/deep-work-rules-for-focused-success-in-a-distracted-world/"
 source_names:
+  - "огляд"
+  - "APA"
+  - "DOI"
+  - "Newport"
+  - "оригінал"
+  - "PubMed"
+  - "PMC"
+  - "PDF"
+  - "PDF"
+  - "Springer"
+  - "Tandfonline"
 - "LinkedIn Sunday Scaries Survey (Kickresume)"
 - "APA Work in America 2024"
 - "Devereux et al., Psychological Reports 2011"
@@ -55,25 +77,25 @@ tg_post: |
 
 **Sunday scaries - це не вигадка**
 
-За опитуванням LinkedIn серед 3000 працівників, до 80% відчувають тривогу в неділю ввечері ([огляд](https://www.kickresume.com/en/press/sunday-scaries-survey/)). Важливо: це маркетингове опитування із самообраною вибіркою (люди самі вирішували, чи брати участь), а не рецензоване наукове дослідження - тож цифру варто читати як індикатор поширеності явища, а не як точну статистику. Звіт APA «Work in America» 2024 підтверджує масштаб проблеми ширше: 77% дорослих у США повідомили про робочий стрес за останній місяць ([APA](https://www.apa.org/pubs/reports/work-in-america/2024/2024-work-in-america-report.pdf)).
+За опитуванням LinkedIn серед 3000 працівників, до 80% відчувають тривогу в неділю ввечері (огляд). Важливо: це маркетингове опитування із самообраною вибіркою (люди самі вирішували, чи брати участь), а не рецензоване наукове дослідження - тож цифру варто читати як індикатор поширеності явища, а не як точну статистику. Звіт APA «Work in America» 2024 підтверджує масштаб проблеми ширше: 77% дорослих у США повідомили про робочий стрес за останній місяць (APA).
 
-Це не лише в голові. Спостережне дослідження Devereux et al. у Psychological Reports (2011) зафіксувало вищий ранковий кортизол - гормон стресу - у понеділок порівняно з неділею, особливо перед навантаженим тижнем ([DOI](https://doi.org/10.2466/09.14.17.PR0.108.1.274-280)). Уточнення: це спостережне дослідження, тож воно показує зв'язок між днем тижня і рівнем кортизолу, але не доводить, що саме понеділок є причиною - на гормональний фон впливають і сон, і очікування навантаження, і безліч інших чинників.
+Це не лише в голові. Спостережне дослідження Devereux et al. у Psychological Reports (2011) зафіксувало вищий ранковий кортизол - гормон стресу - у понеділок порівняно з неділею, особливо перед навантаженим тижнем. Уточнення: це спостережне дослідження, тож воно показує зв'язок між днем тижня і рівнем кортизолу, але не доводить, що саме понеділок є причиною - на гормональний фон впливають і сон, і очікування навантаження, і безліч інших чинників.
 
 **Що таке shutdown ritual**
 
-Професор Джорджтауну Кел Ньюпорт у книзі «Deep Work» описує ритуал завершення: 20 хвилин переглянути всі відкриті задачі, для кожної записати конкретний план і сказати вголос «тиждень завершено» ([Newport](https://calnewport.com/deep-work-rules-for-focused-success-in-a-distracted-world/)).
+Професор Джорджтауну Кел Ньюпорт у книзі «Deep Work» описує ритуал завершення: 20 хвилин переглянути всі відкриті задачі, для кожної записати конкретний план і сказати вголос «тиждень завершено» (Newport).
 
 Мала ремарка про терміни, щоб далі було зрозуміло: **РКД** - це рандомізоване контрольоване дослідження, золотий стандарт у медицині, де учасників випадково розподіляють між експериментальною і контрольною групами. **Cohen's d** - це міра «розміру ефекту»: приблизно d=0.2 вважається малим ефектом, d=0.5 - середнім, d=0.8 - великим.
 
 Механіка ритуалу спирається на дві техніки з доказовою базою:
 
-**1. Worry postponement (відкладення тривоги).** Техніку описав Borkovec (1983) - ідея в тому, щоб переносити тривожні думки у фіксоване «вікно» протягом дня ([оригінал](https://www.sciencedirect.com/science/article/abs/pii/0005796783902066)). РКД McGowan & Behar (2013) показало покращення тривоги і сну ([PubMed](https://pubmed.ncbi.nlm.nih.gov/22977265/)). Свіжіше РКД Krzikalla (2024) дало d=0.82 (великий ефект за шкалою Коена) для людей із генералізованою тривогою ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11303915/)).
+**1. Worry postponement (відкладення тривоги).** Техніку описав Borkovec (1983) - ідея в тому, щоб переносити тривожні думки у фіксоване «вікно» протягом дня (оригінал). РКД McGowan & Behar (2013) показало покращення тривоги і сну. Свіжіше РКД Krzikalla (2024) дало d=0.82 (великий ефект за шкалою Коена) для людей із генералізованою тривогою (PMC).
 
-**2. Implementation intentions (плани-наміри).** Мета-аналіз Gollwitzer & Sheeran на 94 тестах: конкретні «якщо-то» плани дають ефект d=0.65 - це середньо-великий ефект ([PDF](https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf)). Masicampo & Baumeister (2011) показали: запис плану прибирає нав'язливі думки про незавершене ([PDF](https://users.wfu.edu/masicaej/MasicampoBaumeister2011JPSP.pdf)).
+**2. Implementation intentions (плани-наміри).** Мета-аналіз Gollwitzer & Sheeran на 94 тестах: конкретні «якщо-то» плани дають ефект d=0.65 - це середньо-великий ефект (PDF). Masicampo & Baumeister (2011) показали: запис плану прибирає нав'язливі думки про незавершене (PDF).
 
 **Чесно про обмеження**
 
-Мета-аналіз Klar & Barke (2023) на 7 РКД (n=999) знайшов лише невеликий ефект worry postponement на щоденну тривогу (d=0.31 - малий ефект) ([Springer](https://link.springer.com/article/10.1007/s41811-023-00193-x)). РКД McCarrick (2025) не підтвердило покращення сну ([Tandfonline](https://www.tandfonline.com/doi/full/10.1080/08870446.2025.2590072)). Сам «бандл Ньюпорта» окремо не тестували - докази є лише для окремих компонентів.
+Мета-аналіз Klar & Barke (2023) на 7 РКД (n=999) знайшов лише невеликий ефект worry postponement на щоденну тривогу (d=0.31 - малий ефект) (Springer). РКД McCarrick (2025) не підтвердило покращення сну (Tandfonline). Сам «бандл Ньюпорта» окремо не тестували - докази є лише для окремих компонентів.
 
 **Коли звернутися по професійну допомогу**
 

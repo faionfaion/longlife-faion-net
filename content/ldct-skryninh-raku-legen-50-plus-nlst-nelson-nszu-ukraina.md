@@ -16,6 +16,20 @@ tags:
 description: "LDCT-скринінг раку легень: критерії USPSTF, дані NLST і NELSON, ціни в Україні, ризики"
 author: "Віта Зеленко"
 source_urls:
+  - "https://gco.iarc.who.int/media/globocan/factsheets/populations/804-ukraine-fact-sheet.pdf"
+  - "https://umj.com.ua/uk/publikatsia-257711-suchasni-mozhlivosti-skriningu-raku-legeni-z-vikoristannyam-nizkodozovoyi-komp-yuternoyi-tomografiyi"
+  - "https://www.nejm.org/doi/full/10.1056/NEJMoa1102873"
+  - "https://www.nejm.org/doi/full/10.1056/NEJMoa1911793"
+  - "https://ascopost.com/issues/february-25-2020/effect-of-volume-based-ct-screening-on-lung-cancer-mortality-in-high-risk-patients/"
+  - "https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(21"
+  - "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/lung-cancer-screening"
+  - "https://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?proposed=N&NCAId=304"
+  - "https://moz.gov.ua/uk/decrees/nakaz-moz-ukrayini-vid-05-08-2024-1368-pro-zabezpechennya-skriningu-i-rannoyi-diagnostiki-okremih-vidiv-raku-ta-monitoringu-stanu-zdorov-ya-paciyentiv-z-grup-riziku"
+  - "https://nszu.gov.ua/en/news/iak-zrobiti-kt-abo-mrt-bezoplatno-za-programoiu-medi-3"
+  - "https://guidelines.moz.gov.ua/documents/3032"
+  - "https://lifescan.ua/kt-legen-nizkodozove/"
+  - "https://omegamc.ua/ua/kt-legkikh-s-nizkoj-dozoj.html"
+  - "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1785197"
 - "https://www.nejm.org/doi/full/10.1056/NEJMoa1102873"
 - "https://www.nejm.org/doi/full/10.1056/NEJMoa1911793"
 - "https://ascopost.com/issues/february-25-2020/effect-of-volume-based-ct-screening-on-lung-cancer-mortality-in-high-risk-patients/"
@@ -31,6 +45,20 @@ source_urls:
 - "https://omegamc.ua/ua/kt-legkikh-s-nizkoj-dozoj.html"
 - "https://longlife.media/skryninh-raku-ukraina-chek-list-za-vikom-nszu/"
 source_names:
+  - "Globocan Ukraine factsheet"
+  - "UMJ огляд LDCT-скринінгу"
+  - "Aberle et al., NEJM 2011"
+  - "de Koning et al., NEJM 2020"
+  - "резюме ASCO Post"
+  - "Field et al., 2021"
+  - "USPSTF 2021"
+  - "CMS: Screening for Lung Cancer with LDCT"
+  - "Наказ МОЗ №1368"
+  - "НСЗУ: як зробити КТ безоплатно"
+  - "Настанова МОЗ 00131"
+  - "lifescan.ua"
+  - "omegamc.ua"
+  - "Patz 2014"
 - "NLST - Aberle et al., NEJM 2011"
 - "NELSON - de Koning et al., NEJM 2020"
 - "ASCO Post - NELSON summary"
@@ -62,15 +90,15 @@ tg_post: |
 
 ## Чому рак легень - окрема історія в Україні
 
-За даними Globocan/IARC 2022, рак легень залишається онкозахворюванням №1 серед українських чоловіків: віково-стандартизований показник захворюваності (ASR, age-standardized incidence rate) - близько 40,5 випадків на 100 000 населення, і за останні 10 років ця цифра практично не знижується ([Globocan Ukraine factsheet](https://gco.iarc.who.int/media/globocan/factsheets/populations/804-ukraine-fact-sheet.pdf)). ASR - це показник, приведений до стандартної вікової структури, тож його можна коректно порівнювати між країнами і роками.
+За даними Globocan/IARC 2022, рак легень залишається онкозахворюванням №1 серед українських чоловіків: віково-стандартизований показник захворюваності (ASR, age-standardized incidence rate) - близько 40,5 випадків на 100 000 населення, і за останні 10 років ця цифра практично не знижується (Globocan Ukraine factsheet). ASR - це показник, приведений до стандартної вікової структури, тож його можна коректно порівнювати між країнами і роками.
 
-Проблема не тільки в кількості випадків, а в тому, коли їх знаходять. За оглядом Українського медичного часопису та НУОЗ ім. Шупика, у Європі 60–75% випадків раку легень діагностують уже на III–IV стадії ([UMJ огляд LDCT-скринінгу](https://umj.com.ua/uk/publikatsia-257711-suchasni-mozhlivosti-skriningu-raku-legeni-z-vikoristannyam-nizkodozovoyi-komp-yuternoyi-tomografiyi)). На цих стадіях п'ятирічне виживання різко падає - і в цьому головна проблема, яку скринінг намагається розв'язати.
+Проблема не тільки в кількості випадків, а в тому, коли їх знаходять. За оглядом Українського медичного часопису та НУОЗ ім. Шупика, у Європі 60–75% випадків раку легень діагностують уже на III–IV стадії (UMJ огляд LDCT-скринінгу). На цих стадіях п'ятирічне виживання різко падає - і в цьому головна проблема, яку скринінг намагається розв'язати.
 
 Як ми вже писали в [загальному чек-листі онкоскринінгу за віком](https://longlife.media/skryninh-raku-ukraina-chek-list-za-vikom-nszu/), для раку легень існує єдиний доведений скринінговий метод - і це не флюорографія.
 
 ## Чому звичайний рентген не працює
 
-Це не думка автора, а прямий результат рандомізованого дослідження NLST (National Lung Screening Trial), опублікованого у The New England Journal of Medicine у 2011 році. Понад 53 тисячі курців і колишніх курців розділили на дві групи: одні щороку робили LDCT, інші - стандартний рентген грудної клітки в одній проекції ([Aberle et al., NEJM 2011](https://www.nejm.org/doi/full/10.1056/NEJMoa1102873)).
+Це не думка автора, а прямий результат рандомізованого дослідження NLST (National Lung Screening Trial), опублікованого у The New England Journal of Medicine у 2011 році. Понад 53 тисячі курців і колишніх курців розділили на дві групи: одні щороку робили LDCT, інші - стандартний рентген грудної клітки в одній проекції (Aberle et al., NEJM 2011).
 
 Результат: у групі LDCT смертність від раку легень була **на 20% нижчою**, а загальна смертність - на 6,7% нижчою. Дослідження зупинили достроково, бо ефект був занадто чітким. Рентген у ролі скринінгу - не працює.
 
@@ -86,7 +114,7 @@ LDCT (low-dose CT, низькодозова комп'ютерна томогра
 
 ## Європейське підтвердження: дослідження NELSON
 
-Якщо NLST залишало питання «а що якщо порівняти не з рентгеном, а взагалі без скринінгу?», відповідь дало голландсько-бельгійське дослідження NELSON (NEJM 2020). У ньому 15 789 учасників 50–74 років (важкі курці або ті, хто кинув менше 10 років тому) розподілили на LDCT-скринінг у контрольні точки або на групу без скринінгу зовсім ([de Koning et al., NEJM 2020](https://www.nejm.org/doi/full/10.1056/NEJMoa1911793); [резюме ASCO Post](https://ascopost.com/issues/february-25-2020/effect-of-volume-based-ct-screening-on-lung-cancer-mortality-in-high-risk-patients/)).
+Якщо NLST залишало питання «а що якщо порівняти не з рентгеном, а взагалі без скринінгу?», відповідь дало голландсько-бельгійське дослідження NELSON (NEJM 2020). У ньому 15 789 учасників 50–74 років (важкі курці або ті, хто кинув менше 10 років тому) розподілили на LDCT-скринінг у контрольні точки або на групу без скринінгу зовсім (de Koning et al., NEJM 2020; резюме ASCO Post).
 
 Результати за 10 років:
 - Чоловіки: **–24% смертності** від раку легень (rate ratio 0,76; 95% ДІ 0,61–0,94)
@@ -96,13 +124,13 @@ LDCT (low-dose CT, низькодозова комп'ютерна томогра
 
 ## Мета-аналіз 9 досліджень
 
-Щоб переконатися, що ефект не залежить від однієї-двох країн, у 2021 році у Lancet Regional Health – Europe вийшов мета-аналіз 9 рандомізованих досліджень (плюс окремі дані британського UKLS). Загальне зниження смертності від раку легень - **16% (RR 0,84; 95% ДІ 0,76–0,92)** ([Field et al., 2021](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(21)00156-3/fulltext)).
+Щоб переконатися, що ефект не залежить від однієї-двох країн, у 2021 році у Lancet Regional Health – Europe вийшов мета-аналіз 9 рандомізованих досліджень (плюс окремі дані британського UKLS). Загальне зниження смертності від раку легень - **16% (RR 0,84; 95% ДІ 0,76–0,92)** (Field et al., 202100156-3/fulltext)).
 
 Тобто ефект відтворюється у різних популяціях. Це рідкість у скринінгових дослідженнях.
 
 ## Кому показано: критерії USPSTF 2021
 
-Американська цільова група з профілактичних послуг (USPSTF) у 2021 році оновила критерії - розширила їх, щоб охопити більше жінок і людей із меншим стажем куріння ([USPSTF 2021](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/lung-cancer-screening)). Grade B - щорічний LDCT рекомендовано, якщо виконуються **всі три умови**:
+Американська цільова група з профілактичних послуг (USPSTF) у 2021 році оновила критерії - розширила їх, щоб охопити більше жінок і людей із меншим стажем куріння (USPSTF 2021). Grade B - щорічний LDCT рекомендовано, якщо виконуються **всі три умови**:
 
 1. Вік **50–80 років**
 2. Стаж куріння **≥20 pack-year**
@@ -117,21 +145,21 @@ LDCT (low-dose CT, низькодозова комп'ютерна томогра
 
 ### Спільне рішення з лікарем - обов'язковий крок
 
-І USPSTF, і американські Centers for Medicare & Medicaid Services (CMS) окремо наголошують: перед першим LDCT має відбутися **shared decision-making visit** - розмова з лікарем про переваги, обмеження та ризики скринінгу ([CMS: Screening for Lung Cancer with LDCT](https://www.cms.gov/medicare-coverage-database/view/ncacal-decision-memo.aspx?proposed=N&NCAId=304)). Це не формальність: рішення робити LDCT має бути свідомим, з розумінням фальш-позитивів, гіпердіагностики і того, що робити у разі знахідки.
+І USPSTF, і американські Centers for Medicare & Medicaid Services (CMS) окремо наголошують: перед першим LDCT має відбутися **shared decision-making visit** - розмова з лікарем про переваги, обмеження та ризики скринінгу (CMS: Screening for Lung Cancer with LDCT). Це не формальність: рішення робити LDCT має бути свідомим, з розумінням фальш-позитивів, гіпердіагностики і того, що робити у разі знахідки.
 
 ## Українська реальність: що покриває НСЗУ
 
-Тут доведеться бути чесними. Наказ МОЗ №1368 від 05.08.2024, який визначає скринінги, покриває **рак молочної залози, шийки матки і колоректальний** - але **не рак легень** ([Наказ МОЗ №1368](https://moz.gov.ua/uk/decrees/nakaz-moz-ukrayini-vid-05-08-2024-1368-pro-zabezpechennya-skriningu-i-rannoyi-diagnostiki-okremih-vidiv-raku-ta-monitoringu-stanu-zdorov-ya-paciyentiv-z-grup-riziku)).
+Тут доведеться бути чесними. Наказ МОЗ №1368 від 05.08.2024, який визначає скринінги, покриває **рак молочної залози, шийки матки і колоректальний** - але **не рак легень** (Наказ МОЗ №1368).
 
-КТ загалом у Програмі медичних гарантій НСЗУ є - але **лише за клінічним показанням через електронне направлення сімейного лікаря** (наприклад, тривалий кашель, підозра на пневмонію, попередній туберкульоз). Це не скринінгова, а діагностична КТ ([НСЗУ: як зробити КТ безоплатно](https://nszu.gov.ua/en/news/iak-zrobiti-kt-abo-mrt-bezoplatno-za-programoiu-medi-3)).
+КТ загалом у Програмі медичних гарантій НСЗУ є - але **лише за клінічним показанням через електронне направлення сімейного лікаря** (наприклад, тривалий кашель, підозра на пневмонію, попередній туберкульоз). Це не скринінгова, а діагностична КТ (НСЗУ: як зробити КТ безоплатно).
 
-**Практичний висновок:** якщо ти безсимптомний, підпадаєш під критерії USPSTF і хочеш зробити саме скринінговий LDCT - держава це поки не покриває. Національна настанова МОЗ згадує LDCT для пацієнтів високого ризику, які підходять для радикального лікування ([Настанова МОЗ 00131](https://guidelines.moz.gov.ua/documents/3032)), але окремої програми немає.
+**Практичний висновок:** якщо ти безсимптомний, підпадаєш під критерії USPSTF і хочеш зробити саме скринінговий LDCT - держава це поки не покриває. Національна настанова МОЗ згадує LDCT для пацієнтів високого ризику, які підходять для радикального лікування (Настанова МОЗ 00131), але окремої програми немає.
 
 ## Як зробити LDCT у приватній клініці
 
 Ціни на низькодозову КТ у Києві на момент публікації:
-- Lifescan - від 1 900 грн, доза знижена у 2–5 разів порівняно зі стандартною КТ ([lifescan.ua](https://lifescan.ua/kt-legen-nizkodozove/))
-- Omega-Kyiv - 1 800 грн ([omegamc.ua](https://omegamc.ua/ua/kt-legkikh-s-nizkoj-dozoj.html))
+- Lifescan - від 1 900 грн, доза знижена у 2–5 разів порівняно зі стандартною КТ (lifescan.ua)
+- Omega-Kyiv - 1 800 грн (omegamc.ua)
 
 Орієнтовний діапазон по країні - 1 500–3 500 грн. Ціни змінюються, тож перевіряй перед записом.
 
@@ -141,7 +169,7 @@ LDCT (low-dose CT, низькодозова комп'ютерна томогра
 
 Скринінг - не безкоштовний обід. Ось що варто знати чесно:
 
-**Гіпердіагностика.** Це коли знаходять пухлину, яка ніколи б не проявила себе клінічно за життя людини. За аналізом Patz et al. у JAMA Internal Medicine 2014, серед виявлених у NLST раків до 18,5% могли бути гіпердіагнозом ([Patz 2014](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1785197)). Пізніше моделювання USPSTF з довшим періодом спостереження дало нижчу цифру - близько 6%. Реальність - десь між цими значеннями.
+**Гіпердіагностика.** Це коли знаходять пухлину, яка ніколи б не проявила себе клінічно за життя людини. За аналізом Patz et al. у JAMA Internal Medicine 2014, серед виявлених у NLST раків до 18,5% могли бути гіпердіагнозом (Patz 2014). Пізніше моделювання USPSTF з довшим періодом спостереження дало нижчу цифру - близько 6%. Реальність - десь між цими значеннями.
 
 **Радіація.** ~1–2 мЗв за одне LDCT - приблизно як половина природного річного фону. Ризик малий, але не нульовий: за оцінкою USPSTF, на 1 000 обстежених припадає близько 0,11 додаткових летальних випадків раку через радіацію протягом життя.
 

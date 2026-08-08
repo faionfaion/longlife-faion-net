@@ -35,12 +35,16 @@ def run(ctx: PipelineContext) -> None:
 
     ctx.title = normalize_dashes(result["title"])
     ctx.slug = result["slug"]
-    ctx.article_text = normalize_dashes(strip_sources_section(strip_leading_metadata(result["article"])))
+    body = normalize_dashes(strip_sources_section(strip_leading_metadata(result["article"])))
+    body, urls, names = delink_sources(
+        body, result.get("source_urls", []), result.get("source_names", [])
+    )
+    ctx.article_text = body
     ctx.description = normalize_dashes(result.get("description", ""))
     ctx.tags = result.get("tags", [])
     ctx.hashtags = result.get("hashtags", "")
-    ctx.source_urls = result.get("source_urls", [])
-    ctx.source_names = result.get("source_names", [])
+    ctx.source_urls = urls
+    ctx.source_names = names
     ctx.image_prompt = result.get("image_prompt", "")
     ctx.summary = result.get("summary", "")
 
@@ -96,6 +100,39 @@ def strip_sources_section(body: str) -> str:
         return body
     # A citation list runs to the end of the article, so cut from the heading onward.
     return body[: m.start()].rstrip() + "\n"
+
+
+_MD_LINK = re.compile(r"(?<!\!)\[([^\]]+)\]\((https?://[^)\s]+)\)")
+
+
+def delink_sources(body: str, urls: list, names: list) -> tuple[str, list, list]:
+    """Move source links out of the prose and into the consolidated list.
+
+    The blog shows sources as one clean "Джерела" block built from the frontmatter, so the
+    body should read as plain prose: a study is named in words, not turned into a link on
+    every mention. This harvests every external link into source_urls/source_names (so the
+    block is complete) and then unlinks it in the body, keeping just the words. Internal
+    cross-links to longlife.media stay as links - those are navigation between posts, not
+    citations. Images (![...]) are untouched.
+    """
+    urls = list(urls or [])
+    names = list(names or [])
+
+    def repl(m: "re.Match") -> str:
+        text, url = m.group(1), m.group(2)
+        if "longlife.media" in url:
+            return m.group(0)  # internal cross-reference: keep the link
+        if url not in urls:
+            urls.append(url)
+            names.append(text)
+        return text  # citation: drop the link, keep the words
+
+    body = _MD_LINK.sub(repl, body)
+    # De-linking a "[PubMed](url)" leaves the bare label "(PubMed)" sitting in the prose.
+    # Those are pure link-labels, never Ukrainian content words, so drop the parenthetical.
+    # A real journal named in the sentence (The Lancet, JAMA) is untouched.
+    body = re.sub(r"[ \t]*\((?:PubMed|DOI|doi|PMID|NCBI|посилання|тут)\)", "", body)
+    return body, urls, names
 
 
 def strip_leading_metadata(body: str) -> str:

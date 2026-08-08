@@ -18,6 +18,11 @@ tags:
 description: "Три прямі РКД: TRE 16:8 не виграє у підрахунку калорій. Що з м'язами і як робити це безпечно."
 author: "Віта Зеленко"
 source_urls:
+  - "https://pmc.ncbi.nlm.nih.gov/articles/PMC11192144/"
+  - "https://pubmed.ncbi.nlm.nih.gov/35443107/"
+  - "https://pmc.ncbi.nlm.nih.gov/articles/PMC7522780/"
+  - "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013496.pub2/full"
+  - "https://www.tctmd.com/news/intermittent-fasting-study-sparks-debate-over-increases-cv-mortality"
 - "https://pmc.ncbi.nlm.nih.gov/articles/PMC11192144/"
 - "https://www.acpjournals.org/doi/10.7326/M23-0052"
 - "https://pubmed.ncbi.nlm.nih.gov/35443107/"
@@ -27,6 +32,11 @@ source_urls:
 - "https://www.tctmd.com/news/intermittent-fasting-study-sparks-debate-over-increases-cv-mortality"
 - "https://newsroom.heart.org/news/8-hour-time-restricted-eating-linked-to-a-91-higher-risk-of-cardiovascular-death"
 source_names:
+  - "Lin S. et al., Ann Intern Med, 2023"
+  - "Liu D. et al., NEJM, 2022"
+  - "Lowe D.A. et al., JAMA Intern Med, 2020"
+  - "Allaf M. et al., Cochrane Database, 2021"
+  - "Критичний аналіз - TCTMD"
 - "Lin S. et al., Annals of Internal Medicine, 2023"
 - "Annals of Internal Medicine (landing)"
 - "Liu D. et al., New England Journal of Medicine, 2022"
@@ -56,7 +66,7 @@ tg_post: |
 
 Результат: TRE-група втратила 4,61 кг, CR-група - 5,42 кг. Різниця між ними - лише 0,81 кг, p = 0,68 (статистично незначуща). Обидві групи перемогли контроль, але TRE не виграло у звичайного дефіциту.
 
-📎 [Lin S. et al., Ann Intern Med, 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC11192144/)
+📎 Lin S. et al., Ann Intern Med, 2023
 
 ## Liu 2022 NEJM: те саме на більшій вибірці
 
@@ -64,7 +74,7 @@ tg_post: |
 
 TRE (8:00–16:00) + калорійний дефіцит дав −8,0 кг, чистий калорійний дефіцит - −6,3 кг. Різниця 1,8 кг, p = 0,11. Артеріальний тиск, ліпіди, окружність талії - без переваги TRE. Тобто коли калорії зрівняні - «магія» вікна зникає.
 
-📎 [Liu D. et al., NEJM, 2022](https://pubmed.ncbi.nlm.nih.gov/35443107/)
+📎 Liu D. et al., NEJM, 2022
 
 ## TREAT Lowe 2020: сигнал про м'язи, який варто прочитати уважно 💪
 
@@ -74,19 +84,19 @@ TRE (8:00–16:00) + калорійний дефіцит дав −8,0 кг, ч�
 
 Важливе застереження: саме цифру «65% lean mass» згодом критикували в літературі - DXA при невеликій абсолютній втраті ваги має обмежену точність і може переоцінювати втрату знежиреної маси. Тож сприймай це як сигнал, а не як фінальний вирок. Принципова теза від цього не змінюється: TRE без контролю білка і силових - погана ідея для збереження м'язів.
 
-📎 [Lowe D.A. et al., JAMA Intern Med, 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7522780/)
+📎 Lowe D.A. et al., JAMA Intern Med, 2020
 
 ## Cochrane: формальний вердикт
 
 Систематичний огляд Cochrane 2021 року (Allaf et al.) проаналізував 26 РКД інтервального голодування. Висновок: «немає значущої переваги інтервального обмеження енергії над безперервним обмеженням». Якість доказів за шкалою GRADE - низька або дуже низька, всі 26 досліджень з високим ризиком зміщення.
 
-📎 [Allaf M. et al., Cochrane Database, 2021](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013496.pub2/full)
+📎 Allaf M. et al., Cochrane Database, 2021
 
 ## А «91% підвищений ризик серцевих смертей»?
 
 У 2024 році на конференції AHA EPI/Lifestyle команда Victor Zhong (Шанхайський університет Цзяотун) представила тези про асоціацію <8-годинного вікна з вищою серцево-судинною смертністю. Це абстракт, який не пройшов рецензування. 35 науковців підписали лист проти прес-релізу AHA: дієтичний опитувальник лише за 2 дні екстраполювали на 8 років поведінки, у короткій групі було лише 31 серцево-судинна смерть.
 
-📎 [Критичний аналіз - TCTMD](https://www.tctmd.com/news/intermittent-fasting-study-sparks-debate-over-increases-cv-mortality)
+📎 Критичний аналіз - TCTMD
 
 ## Що це означає на практиці?
 

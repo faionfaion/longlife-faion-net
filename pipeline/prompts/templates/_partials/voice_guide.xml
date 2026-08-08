@@ -94,6 +94,7 @@ Never:
 - Ending on a motivational send-off. End on the thought, or on what you are still unsure
   about.
 
-Every health claim carries its source as an inline link, on the words that make the claim -
-not as a numbered list at the end. Never invent a study, a number, an author or a journal.
-If you cannot find the source, the claim does not go in.
+Every health claim carries a source. Name it in the prose - journal, author, year - and put
+its URL in the source_urls field, which the page renders as one "Джерела" list at the end.
+Do not put source links inline in the text. Never invent a study, a number, an author or a
+journal. If you cannot find the source, the claim does not go in.

@@ -15,6 +15,12 @@ tags:
 description: "Чому мікродоза мелатоніну 0,3–0,5 мг краща за мегадози, коли її пити і що сказали на AHA 2025."
 author: "Віта Зеленко"
 source_urls:
+  - "https://pmc.ncbi.nlm.nih.gov/articles/PMC2928909/"
+  - "https://academic.oup.com/jcem/article/86/10/4727/2849013"
+  - "https://jcsm.aasm.org/doi/10.5664/jcsm.6462"
+  - "https://newsroom.heart.org/news/long-term-use-of-melatonin-supplements-to-support-sleep-may-have-negative-health-effects"
+  - "https://www.ahajournals.org/doi/10.1161/circ.152.suppl_1.4371606"
+  - "https://www.sciencemediacentre.org/expert-reaction-to-conference-abstract-on-association-between-long-term-melatonin-supplementation-and-incidence-of-heart-failure-in-patients-with-insomnia/"
 - "https://pmc.ncbi.nlm.nih.gov/articles/PMC2928909/"
 - "https://academic.oup.com/jcem/article/86/10/4727/2849013"
 - "https://jcsm.aasm.org/doi/10.5664/jcsm.6462"
@@ -23,6 +29,12 @@ source_urls:
 - "https://www.sciencemediacentre.org/expert-reaction-to-conference-abstract-on-association-between-long-term-melatonin-supplementation-and-incidence-of-heart-failure-in-patients-with-insomnia/"
 - "https://jcsm.aasm.org/doi/10.5664/jcsm.6470"
 source_names:
+  - "JCEM, 2010"
+  - "JCEM, 2001"
+  - "JCSM, 2017"
+  - "AHA Newsroom"
+  - "Circulation, 2025, Abstract 4371606"
+  - "SMC"
 - "The Journal of Clinical Endocrinology & Metabolism (Burgess et al., 2010)"
 - "The Journal of Clinical Endocrinology & Metabolism (Zhdanova et al., 2001)"
 - "Journal of Clinical Sleep Medicine (Erland & Saxena, 2017)"
@@ -45,21 +57,21 @@ tg_post: |
 
 Спершу про головне непорозуміння. Мелатонін - це гормон, який мозок сам виробляє ввечері, коли темніє. Він не «вимикає» тебе, як снодійне, а підказує тілу: час готуватися до ночі. Тобто це сигнал часу (хронобіотик - речовина, що налаштовує наш внутрішній годинник), а не пігулка для відключення.
 
-Звідси й парадокс дозування. Рандомізоване перехресне дослідження Burgess ([JCEM, 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2928909/)) показало: 0,5 мг зсуває внутрішній годинник так само ефективно, як 3 мг - головне випити вчасно.
+Звідси й парадокс дозування. Рандомізоване перехресне дослідження Burgess (JCEM, 2010) показало: 0,5 мг зсуває внутрішній годинник так само ефективно, як 3 мг - головне випити вчасно.
 
 І ось тут важливо не плутати дві різні цілі, бо «вчасно» для кожної з них означає різне.
 - **Зсунути циркадний ритм** (внутрішній годинник) на раніше. Тут час прийому визначає так звана крива фазової відповіді (PRC, phase response curve - графік того, як реакція організму залежить від моменту прийому). Щоб посунути ритм на раніше, мелатонін діє найсильніше, коли випити його завчасно, за кілька годин до звичного сну. Саме про цей сценарій і йдеться у дослідженні Burgess.
 - **Просто швидше засинати** ввечері. Тут зручне вікно - приблизно за 1,5–2 години до сну.
 
-А подвійно сліпе дослідження Zhdanova ([JCEM, 2001](https://academic.oup.com/jcem/article/86/10/4727/2849013)) у людей після 50 виявило, що фізіологічна доза 0,3 мг відновлювала сон не гірше за 3 мг - але без ранкової млявості.
+А подвійно сліпе дослідження Zhdanova (JCEM, 2001) у людей після 50 виявило, що фізіологічна доза 0,3 мг відновлювала сон не гірше за 3 мг - але без ранкової млявості.
 
 Виходить, аптечні «мегадози» 5–10 мг - це у 15–30 разів більше за нічний пік організму. Це радше про сонливість зранку, ніж про кращий сон.
 
-Окрема проблема - самі добавки. Аналіз 31 продукту ([JCSM, 2017](https://jcsm.aasm.org/doi/10.5664/jcsm.6462)) знайшов реальний вміст мелатоніну від −83% до +478% від етикетки, а в окремих партіях гумок різниця сягала 465%. Тобто ти не знаєш, скільки приймаєш насправді.
+Окрема проблема - самі добавки. Аналіз 31 продукту (JCSM, 2017) знайшов реальний вміст мелатоніну від −83% до +478% від етикетки, а в окремих партіях гумок різниця сягала 465%. Тобто ти не знаєш, скільки приймаєш насправді.
 
-А тепер новий тривожний сигнал. На AHA Scientific Sessions у листопаді 2025 представили спостережний аналіз 130 828 людей із безсонням (новинний реліз - [AHA Newsroom](https://newsroom.heart.org/news/long-term-use-of-melatonin-supplements-to-support-sleep-may-have-negative-health-effects); первинне джерело - [Circulation, 2025, Abstract 4371606](https://www.ahajournals.org/doi/10.1161/circ.152.suppl_1.4371606)): тривалий прийом мелатоніну пов'язали з вищою частотою серцевої недостатності - 4,6% проти 2,7%.
+А тепер новий тривожний сигнал. На AHA Scientific Sessions у листопаді 2025 представили спостережний аналіз 130 828 людей із безсонням (новинний реліз - AHA Newsroom; первинне джерело - Circulation, 2025, Abstract 4371606): тривалий прийом мелатоніну пов'язали з вищою частотою серцевої недостатності - 4,6% проти 2,7%.
 
-Тут варто видихнути. Це спостереження, а не рандомізоване дослідження, і поки без рецензування. Воно показує зв'язок, а не причину: люди з важчим безсонням могли й частіше пити мелатонін, і водночас мати вищий серцевий ризик. Експерт зі сну Карлос Егеа наголошує - потрібне проспективне дослідження ([SMC](https://www.sciencemediacentre.org/expert-reaction-to-conference-abstract-on-association-between-long-term-melatonin-supplementation-and-incidence-of-heart-failure-in-patients-with-insomnia/)).
+Тут варто видихнути. Це спостереження, а не рандомізоване дослідження, і поки без рецензування. Воно показує зв'язок, а не причину: люди з важчим безсонням могли й частіше пити мелатонін, і водночас мати вищий серцевий ризик. Експерт зі сну Карлос Егеа наголошує - потрібне проспективне дослідження (SMC).
 
 **Що можна зробити вже сьогодні:**
 - Почни не з таблетки, а зі світла й режиму: яскраве світло вранці, приглушене ввечері. Про те, як кофеїн краде сон, ми вже [писали](https://longlife.media/caffeine-sleep-architecture-cyp1a2-deep-sleep-guide/).
