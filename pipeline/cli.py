@@ -21,6 +21,9 @@ def cli() -> None:
                         help="Pipeline mode (default: generate)")
     parser.add_argument("--dry-run", action="store_true",
                         help="Run without deploy/publish")
+    parser.add_argument("--kind", choices=["post", "roundup", "digest"], default=None,
+                        help="generate: override what kind of post today is, instead of "
+                             "letting the weekday decide")
     parser.add_argument("--limit", type=int, default=None, metavar="N",
                         help="generate: stop after N articles instead of working "
                              "through the whole editorial plan")
@@ -47,7 +50,7 @@ def cli() -> None:
     try:
         if args.mode == "generate":
             from pipeline.modes.generate import run as run_generate
-            completed = run_generate(dry_run=args.dry_run, limit=args.limit)
+            completed = run_generate(dry_run=args.dry_run, limit=args.limit, kind=args.kind)
             logger.info("Batch complete: %d articles", len(completed))
             sys.exit(0)
         elif args.mode == "publish":

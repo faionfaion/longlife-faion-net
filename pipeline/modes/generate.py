@@ -36,7 +36,11 @@ from pipeline.stages import (
 logger = logging.getLogger("pipeline")
 
 
-def run(dry_run: bool = False, limit: int | None = None) -> list[PipelineContext]:
+def run(
+    dry_run: bool = False,
+    limit: int | None = None,
+    kind: str | None = None,
+) -> list[PipelineContext]:
     """Generate mode: write the day's post.
 
     1. Create editorial plan (a shortlist to choose today's subject from)
@@ -49,8 +53,8 @@ def run(dry_run: bool = False, limit: int | None = None) -> list[PipelineContext
     count, which is mostly useful for proving out a change to one stage without spending a
     full run on it.
     """
-    weekday = datetime.now(timezone.utc).weekday()
-    kind = post_kind_for(weekday)
+    if kind is None:
+        kind = post_kind_for(datetime.now(timezone.utc).weekday())
 
     if kind == "digest":
         logger.info("Sunday: the week's digest is written by the digest mode, not here")
