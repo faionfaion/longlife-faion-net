@@ -6282,5 +6282,21 @@
       "сидячий спосіб життя"
     ],
     "summary": "Пояснювальний матеріал про NEAT (термогенез без вправ) і компенсаторне зниження побутової активності при дефіциті калорій та тренуваннях. Основні дані: Levine 1999 (Science, n=16, перегодовування — 2/3 приросту витрат через NEAT), Levine 2005 (n=20, повні учасники сидять на ~2 год довше, модельні 350 ккал/добу), Levine 2004 (розкид NEAT до 2000 ккал/добу, переважно професійний), Careau 2021 (Current Biology, n=1754, DLW — середня компенсація 28%, до ~50% при високій жировій масі), Riou 2019 (РКД, n=21 — компенсація 96% через зниження неструктурованої активності при незмінному споживанні їжі), Martin 2011 CALERIE (обмеження калорій знижує витрати на активність, акселерометри це не ловлять), Flanagan 2024 (iScience — компенсація поведінкова, а не через сповільнення метаболізму спокою).\n\nПрактика: 5 важелів NEAT з чесними ефектами — стояча робота (лише ~9 ккал/год за мета-аналізом Saeidifard 2018), дзвінки на ходу, сходи/VILPA (Stamatakis 2022, Nature Medicine — мортальний, не калорійний ефект), побутова активність, погодинні паузи (рекомендації ВООЗ 2020). Головний висновок для читача: не зараховувати «спалене на тренуванні» як бонус до їжі — доходить у середньому ~72%. Рівень доказовості загалом помірний: феномен компенсації підтверджено великими даними DLW, механістичні РКД мають малі вибірки. Крос-лінки на матеріали про норму кроків, weekend warrior і снеки руху."
+  },
+  "treker-snu-polisomnohrafiya-ortosomnia-trend-dvokh-tyzhniv": {
+    "date": "2026-08-08",
+    "title": "Трекер сну бреше? Що показують валідаційні дослідження проти полісомнографії",
+    "type": "lifehack",
+    "tags": [
+      "сон",
+      "трекери сну",
+      "ортосомнія",
+      "полісомнографія",
+      "безсоння",
+      "апное сну",
+      "дослідження",
+      "гаджети"
+    ],
+    "summary": "Lifehack on trusting sleep-tracker numbers. Core claim: wearables estimate sleep/wake reasonably (sensitivity ≥0.93) but detect wake poorly (specificity 0.18–0.54, Chinoy 2021 SLEEP, n=34 vs PSG), which causes model-specific errors — Garmin devices overestimated TST by 44–47 min and erased ~50 min WASO. A 2025 PLoS One clinical validation (n=98: healthy, OSA, insomnia) found systematic flattering (+28.5 min TST, −37 min WASO) with worst accuracy in the insomnia group. Orthosomnia gets causal support from Gavriloff 2018 (randomised sham-feedback, n=63 insomnia): a fake bad score worsened daytime alertness and fatigue; Draganich 2014 converges in healthy adults.\n\nPractical takeaway: use 2-week trends rather than nightly scores; track wake-time regularity and resting-HR trend instead of deep-sleep minutes; route snoring/apnea symptoms to STOP-BANG screening, since AASM 2018 states consumer devices cannot diagnose sleep disorders. Evidence moderate overall — clinical-population bias rests on a single centre, orthosomnia data are preliminary (case series + one survey + new Bergen scale), and newer devices (Sensors 2024, Oura kappa 0.65) stage sleep better than older ones. Cross-linked to the May 2026 tracker-accuracy article, WASO (05.08), CBT-I, sleep-regularity SRI and apnea screening pieces."
   }
 }
