@@ -18,11 +18,12 @@ def run(ctx: PipelineContext) -> None:
 
     system, prompt = build_research_prompt(ctx, headlines_text, focus_text)
 
-    # A material or digest researches a whole theme across history and statistics, which is
-    # a lot of web search; 300s was enough for a news post but timed out on the big pieces
-    # (the beauty-standards and sex-research-gap materials both died here). Give the long
-    # forms room; keep the short ones tight so a stuck news search fails fast.
-    timeout = 900 if ctx.slot_type in ("material", "digest", "roundup") else 420
+    # Research gets a generous ceiling: it is the one stage that legitimately runs long
+    # (a material sweeps a whole theme across history and statistics, dozens of web
+    # fetches), and cutting it short is how the beauty-standards and sex-research-gap
+    # materials died. This is a ceiling, not the expected time - a news search still
+    # finishes in minutes; the high limit only means we never give up on real work early.
+    timeout = 3600
 
     ctx.research_text = agent_query(
         prompt=prompt,
