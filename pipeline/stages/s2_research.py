@@ -18,12 +18,18 @@ def run(ctx: PipelineContext) -> None:
 
     system, prompt = build_research_prompt(ctx, headlines_text, focus_text)
 
+    # A material or digest researches a whole theme across history and statistics, which is
+    # a lot of web search; 300s was enough for a news post but timed out on the big pieces
+    # (the beauty-standards and sex-research-gap materials both died here). Give the long
+    # forms room; keep the short ones tight so a stuck news search fails fast.
+    timeout = 900 if ctx.slot_type in ("material", "digest", "roundup") else 420
+
     ctx.research_text = agent_query(
         prompt=prompt,
         system_prompt=system,
         model=MODEL_RESEARCH,
         allowed_tools=["WebSearch", "WebFetch", "Read", "Glob"],
-        timeout=300,
+        timeout=timeout,
     )
 
     logger.info("Research complete: %d chars", len(ctx.research_text))
