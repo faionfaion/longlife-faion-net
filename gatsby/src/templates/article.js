@@ -52,17 +52,22 @@ const ArticleTemplate = ({ data, pageContext }) => {
         {fm.source_urls && fm.source_urls.length > 0 && (
           <footer className="sources">
             <h3>Джерела</h3>
-            <ul>
-              {fm.source_urls.map((url, i) => (
-                <li key={i}>
-                  <a href={url} target="_blank" rel="noopener noreferrer">
-                    {fm.source_names && fm.source_names[i]
-                      ? fm.source_names[i]
-                      : (() => { try { return new URL(url).hostname; } catch { return url; } })()}
-                  </a>
-                </li>
-              ))}
-            </ul>
+            {/* Numbered to match the [n] markers in the text; each entry is the source
+                (linked) plus a one-line description of what it is. */}
+            <ol className="sources-list">
+              {fm.source_urls.map((url, i) => {
+                const name =
+                  (fm.source_names && fm.source_names[i]) ||
+                  (() => { try { return new URL(url).hostname; } catch { return url; } })();
+                const desc = fm.source_descriptions && fm.source_descriptions[i];
+                return (
+                  <li key={i} id={`dzherelo-${i + 1}`}>
+                    <a href={url} target="_blank" rel="noopener noreferrer">{name}</a>
+                    {desc ? <span className="source-desc"> — {desc}</span> : null}
+                  </li>
+                );
+              })}
+            </ol>
           </footer>
         )}
 
@@ -100,6 +105,7 @@ export const query = graphql`
         tags
         source_urls
         source_names
+        source_descriptions
         image
       }
     }

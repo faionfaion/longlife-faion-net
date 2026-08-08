@@ -31,6 +31,7 @@ class PipelineContext:
     hashtags: str = ""
     source_urls: list[str] = field(default_factory=list)
     source_names: list[str] = field(default_factory=list)
+    source_descriptions: list[str] = field(default_factory=list)
 
     # Summary (for editorial dedup)
     summary: str = ""

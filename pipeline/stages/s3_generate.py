@@ -45,6 +45,7 @@ def run(ctx: PipelineContext) -> None:
     ctx.hashtags = result.get("hashtags", "")
     ctx.source_urls = urls
     ctx.source_names = names
+    ctx.source_descriptions = result.get("source_descriptions", [])
     ctx.image_prompt = result.get("image_prompt", "")
     ctx.summary = result.get("summary", "")
 

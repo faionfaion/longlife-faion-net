@@ -72,12 +72,16 @@ Not five unrelated news items in a list — one theme, and the week's findings i
 - Word count: {{ type_cfg.min_words }}-{{ type_cfg.max_words }} words
 - Language: Ukrainian
 - MUST include source URLs for every health claim
-- Cite each study IN PROSE by name - journal, author, year - WITHOUT a markdown link
-  ("мета-аналіз у The Lancet (2024) показав..."). Put every source's real URL in the
-  source_urls field (and a short label in source_names); the page renders them as one
-  "Джерела" list at the end. Do NOT put source links inline in the text, and do NOT add
-  your own "## Джерела" section - both create duplicates. Links to YOUR OWN earlier posts
-  (longlife.media/...) are the exception: those stay as inline markdown links.
+- CITE WITH NUMBERS. In the body, mark each source with a bracketed number at the point of
+  the claim, in order of first appearance: "мета-аналіз у The Lancet показав X [1]". Reuse
+  the same number if you cite the same source again. Do NOT use markdown links for sources
+  and do NOT add your own "## Джерела" section - the page builds the numbered list itself.
+- Provide THREE PARALLEL ARRAYS in that exact [n] order: source_urls (the URL), source_names
+  (short label: author/journal/year, e.g. "Matthias et al., Vaccine, 2007"), and
+  source_descriptions (one plain line - what it is and what it found). Array item i is
+  citation number i+1. Keep all three the same length.
+- Links to YOUR OWN earlier posts (longlife.media/...) are the exception: those stay as
+  inline markdown links, and are NOT numbered sources.
 - Slug: latin lowercase with hyphens, descriptive, SEO-friendly
 - Tags: Ukrainian topic tags relevant to the article
 - Category: one of: nutrition, fitness, mental-health, sleep, longevity, biohacking, research, prevention

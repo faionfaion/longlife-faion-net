@@ -53,6 +53,7 @@ def run(ctx: PipelineContext) -> None:
         "author": AUTHOR_NAME,
         "source_urls": ctx.source_urls,
         "source_names": ctx.source_names,
+        "source_descriptions": ctx.source_descriptions,
         "image": f"/images/{ctx.slug}.jpg" if ctx.image_path else "",
         "tg_post": ctx.tg_post,
     }
