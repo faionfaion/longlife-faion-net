@@ -6342,5 +6342,21 @@
       "імунізація"
     ],
     "summary": "Follow-up and self-correction to the 06.08 fridge-free vaccine post. Establishes that the widely quoted \"up to 50% of vaccines wasted\" figure traces to a ~2005 WHO estimate bundling open-vial wastage, expiry and stock management — not a measurement of cold-chain failure; WHO's 5–50% indicative rates are planning assumptions, and Duke's Launch & Scale data show measured COVID-19 wastage far below 50%. Covers the newly peer-reviewed SPVX02 Phase 1 RCT (eClinicalMedicine, 5 Aug 2026, DOI 10.1016/j.eclinm.2026.104116): 60 healthy UK adults, 20 per arm, 100% reaching protective tetanus/diphtheria antitoxin by day 28, no vaccine-related SAEs, plus SMC expert caveats (small arms, 28-day follow-up, ~95% white participants, lab-only stability data, 30 °C ceiling possibly too low).\n\nMain reframe: freezing, not heat, is the dominant cold-chain failure mode (Matthias 2007 systematic review — 14–35% of fridges/shipments exposed to freezing, 75–100% in full-chain studies; Hanson 2017 confirms it persists), and freeze damage to aluminium-adjuvanted vaccines (DTP, Td, HepB, HPV) is irreversible. Practical payload: the WHO-validated shake test (Kartoglu 2010, 475 vials, 100% sensitivity/specificity, staff procedure only), CDC excursion protocol including the rule that an administered compromised dose generally must be repeated, and Ukraine's наказ МОЗ № 1682 (remote temperature monitoring, 3-hour incident notification, thermocontainers holding 2–8 °C for ≥24 h at +43 °C, but no generator mandate). Evidence strength: preliminary for the vaccine technology, moderate-to-strong for the freeze-damage and shake-test literature."
+  },
+  "tyzhden-doslidzhen-snu-serpen-2026-obyektyvnyi-son-vs-samozvit": {
+    "date": "2026-08-08",
+    "title": "Тиждень у дослідженнях сну: три суперечки, і всі три — про вимірювання",
+    "type": "roundup",
+    "tags": [
+      "сон",
+      "безсоння",
+      "мелатонін",
+      "дослідження",
+      "полісомнографія",
+      "регулярність сну",
+      "огляд тижня",
+      "доказова медицина"
+    ],
+    "summary": "Roundup of sleep research published 1–8 August 2026, organised around one theme: objective vs self-reported sleep measurement. Lede is Dai/Vgontzas (SLEEP, 6 Aug) on the Wisconsin Sleep Cohort — insomnia plus PSG-confirmed short sleep (80% persistence after six irregular months. Third: Juginovic & Rodman (JAMA Netw Open, 3 Aug), 684 propensity-matched children — melatonin users had lower REM% (16.7 vs 19.0, g=−0.22), no other architectural differences; cross-sectional with no dose data. Supporting texture: ACT vs CBT-I meta-analysis (CBT-I better on remission, RR 0.81), a null shift-worker RCT (n=66), an exercise meta-analysis with I²=91.5% and a prediction interval crossing null, and warm-water immersion improving objective but not subjective sleep. Practical takeaway is deliberately non-actionable: nothing changes behaviourally, only how headlines about sleep duration should be weighted (device vs questionnaire). Evidence moderate — no large multicentre RCTs, mostly registries and devices; Human Sleep Project (119,234 PSGs) flagged as the week's infrastructure item."
   }
 }
