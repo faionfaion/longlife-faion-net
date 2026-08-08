@@ -52,6 +52,8 @@ class PipelineContext:
     # Vita's turnaround sheet, set only when she is actually in the cover. Left None for
     # still-life covers: handed a character reference, the model puts her in regardless.
     image_reference: Path | None = None
+    # Her expression sheet, set only when the shot is close enough for a face to read.
+    expression_reference: Path | None = None
 
     # Publish
     article_url: str = ""

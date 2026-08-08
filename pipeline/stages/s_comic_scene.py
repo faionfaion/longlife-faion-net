@@ -11,7 +11,7 @@ import logging
 
 from pathlib import Path
 
-from pipeline.config import CHARACTER_REFERENCES, MODEL_IMAGE
+from pipeline.config import CHARACTER_REFERENCES, EXPRESSION_REFERENCE, MODEL_IMAGE
 from pipeline.context import PipelineContext
 from pipeline.prompts.builder import build_comic_scene_prompt
 from pipeline.schemas import load_schema
@@ -30,14 +30,16 @@ _CHARACTER_PHYSICAL = (
     "minimalist watch on the left wrist, both always present."
 )
 
+# The base each wardrobe always keeps. The specific look on top comes from the scene
+# director's `outfit`, so the covers are not all the same shirt: pinning one outfit here
+# reintroduced, one level down, exactly the sameness we removed by retiring the mascot.
 _WARDROBE_LINES = {
     "scientist": (
-        "Wearing a cream or pale-blue button shirt with the sleeves rolled to the "
-        "forearm, dark charcoal tailored trousers, brown leather belt, brown loafers."
+        "Dressed for work, muted and unbranded: dark charcoal tailored trousers, brown "
+        "leather belt, brown loafers or black flats."
     ),
     "fitness": (
-        "Wearing a plain black racerback tank, black full-length leggings and black "
-        "trainers, no visible logos."
+        "Dressed to train: black full-length leggings, black trainers, no visible logos."
     ),
 }
 
@@ -66,41 +68,66 @@ def run(ctx: PipelineContext) -> None:
     wardrobe = result.get("wardrobe", "scientist")
     ctx.image_prompt = _build_comic_image_prompt(result)
     ctx.image_reference = CHARACTER_REFERENCES.get(wardrobe)
+    ctx.expression_reference = (
+        EXPRESSION_REFERENCE
+        if ctx.image_reference and _face_reads(result.get("pose", ""))
+        else None
+    )
 
     logger.info(
-        "Cover scene: wardrobe=%s | %s | pose=%s | props=%s",
+        "Cover scene: wardrobe=%s | outfit=%s | expr=%s%s | %s",
         wardrobe,
+        result.get("outfit", "") or "-",
+        result.get("expression", "") or "-",
+        " (+sheet)" if ctx.expression_reference else "",
         result.get("scene_description", "")[:60],
-        result.get("pose", ""),
-        ", ".join(result.get("props", [])),
     )
 
 
+def _face_reads(pose: str) -> bool:
+    """Whether the face is big enough in frame for an expression to be worth steering.
+
+    On a WIDE shot she is a third of the frame at most and the expression sheet buys
+    nothing, while adding a second reference the model can drift towards.
+    """
+    return "WIDE" not in pose.upper()
+
+
 def _build_comic_image_prompt(scene: dict) -> str:
-    """Combine style, wardrobe and scene into a full image generation prompt."""
+    """Combine scene, wardrobe and style into a full image generation prompt.
+
+    Ordering is deliberate: what the picture *is* comes first, how it should look comes
+    last. The style partial is a long paragraph of constraints, and leading with it buries
+    the actual subject several sentences deep.
+
+    Blocks are newline-separated rather than run together. It costs nothing at render time
+    and makes the prompt readable in a log when a cover comes out wrong.
+    """
     wardrobe = scene.get("wardrobe", "scientist")
+    still_life = wardrobe == "none"
 
-    if wardrobe == "none":
-        style_file = _PARTIALS / "image_style.txt"
-        subject = ""
-    else:
-        style_file = _PARTIALS / "comic_style.txt"
-        subject = f"Subject: {_CHARACTER_PHYSICAL} {_WARDROBE_LINES[wardrobe]}"
-
+    style_file = _PARTIALS / ("image_style.txt" if still_life else "comic_style.txt")
     style = style_file.read_text(encoding="utf-8").strip() if style_file.exists() else ""
 
-    parts = [
-        style,
-        subject,
-        f"Scene: {scene.get('scene_description', '')}",
-        f"Framing: {scene.get('pose', '')}",
-        f"Expression: {scene.get('expression', '')}",
+    blocks: list[str] = [f"Scene: {scene.get('scene_description', '')}"]
+
+    if not still_life:
+        outfit = (scene.get("outfit") or "").strip()
+        subject = f"{_CHARACTER_PHYSICAL} {_WARDROBE_LINES[wardrobe]}"
+        if outfit:
+            subject = f"{subject} For this shot: {outfit}."
+        blocks.append(f"Subject: {subject}")
+        blocks.append(f"Framing: {scene.get('pose', '')}")
+        blocks.append(f"Expression: {scene.get('expression', '')}")
+
+    blocks += [
         f"Setting: {scene.get('background', '')}",
         f"Objects in frame: {', '.join(scene.get('props', []))}",
         f"Grade: {scene.get('color_notes', '')}",
+        f"Style: {style}",
         "Nothing in the frame carries text, lettering, labels or logos.",
     ]
 
-    # Empty fields still render as a bare label ("Expression: "), which reads to the image
-    # model as an instruction it has to satisfy. Still-life covers leave several blank.
-    return " ".join(p for p in parts if p and not p.endswith(": "))
+    # A field the director left empty still renders as a bare label ("Expression: "), which
+    # reads to the image model as an instruction it is expected to satisfy somehow.
+    return "\n".join(b for b in blocks if b and not b.endswith(": "))

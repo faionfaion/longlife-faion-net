@@ -29,6 +29,11 @@ CHARACTER_REFERENCES = {
     "fitness": CHARACTER_DIR / "vita-fitness-turnaround.jpg",
 }
 
+# Her face in twelve moods, handed over as a second reference when the shot is close
+# enough for the expression to read. Without it every cover lands in the same absorbed
+# register, because that is what the turnaround sheets show her doing.
+EXPRESSION_REFERENCE = CHARACTER_DIR / "vita-expressions.png"
+
 # Scripts
 SEND_POST = SCRIPTS_DIR / "send_post.py"
 DEPLOY_SH = GATSBY_DIR / "deploy-gh.sh"

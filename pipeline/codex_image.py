@@ -40,6 +40,7 @@ def _scratch() -> Path:
 def render(
     prompt: str,
     reference: Path | None = None,
+    expression_reference: Path | None = None,
     aspect: str = "landscape, roughly 3:2",
 ) -> Path:
     """Render one image and return the path to the raw PNG Codex wrote.
@@ -48,11 +49,17 @@ def render(
     Covers that are a still life or an empty room must not get it: handed a character
     reference, the model tends to put the character in anyway.
 
+    `expression_reference` is the sheet of her face in twelve moods, passed only when the
+    face is big enough in frame to read. It is a bare-shouldered head study, so the
+    instruction below is explicit that it governs the face and nothing else — otherwise
+    the model borrows the framing and the missing shirt along with the expression.
+
     Raises CodexImageError if nothing usable landed on disk. Callers convert and resize;
     this function's only job is to get pixels out of Codex.
     """
-    if reference is not None and not reference.exists():
-        raise CodexImageError(f"reference image missing: {reference}")
+    for ref in (reference, expression_reference):
+        if ref is not None and not ref.exists():
+            raise CodexImageError(f"reference image missing: {ref}")
 
     target = _scratch() / f"{int(time.time() * 1000)}_{random.randint(1000, 9999)}.png"
     if target.exists():
@@ -62,9 +69,17 @@ def render(
         opening = (
             f"Use the image at {reference} as a character reference. It is a model sheet "
             f"of one woman shown from several angles. Generate a NEW photograph of that "
-            f"same woman — same face, same age, same hair, same glasses, same watch — in "
-            f"this scene:"
+            f"same woman — same face, same age, same hair, same glasses, same watch."
         )
+        if expression_reference is not None:
+            opening += (
+                f" The image at {expression_reference} is a second reference showing the "
+                f"SAME woman's range of facial expressions. Use it ONLY to get the "
+                f"expression right. Take nothing else from it — not the framing, not the "
+                f"plain studio backdrop, and above all not the clothing: it is a "
+                f"bare-shouldered head study, and she is fully dressed as described below."
+            )
+        opening += " The scene:"
     else:
         opening = (
             "Generate a photograph of the following scene. There must be no people and no "

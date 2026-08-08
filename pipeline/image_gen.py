@@ -1,7 +1,11 @@
-"""Image generation: comic-style illustrations via OpenAI gpt-image-1.
+"""Cover image generation.
 
-Generates character-consistent comic panels featuring Vita — the LongLife Media mascot.
-Falls back to generic wellness illustration style when no comic scene is provided.
+Two backends, chosen by config.IMAGE_PROVIDER: the Codex CLI (default, bills against the
+ChatGPT subscription) and api.openai.com (needs credits, which ran out on 22 July 2026).
+Both hand off to the same JPEG conversion, so the site and Telegram see one shape of file
+whichever produced it.
+
+The prompt arrives fully built from s_comic_scene; this module does not compose it.
 """
 
 from __future__ import annotations
@@ -33,66 +37,21 @@ OPENAI_API_KEY = _load_openai_key()
 
 _PARTIALS_DIR = Path(__file__).resolve().parent / "prompts" / "templates" / "_partials"
 _STYLE_FILE = _PARTIALS_DIR / "image_style.txt"
-_COMIC_STYLE_FILE = _PARTIALS_DIR / "comic_style.txt"
-_CHARACTER_SHEET_FILE = _PARTIALS_DIR / "character_sheet.md"
 
-# Default style for health/wellness illustrations (fallback)
+# Only reached when a caller passes a bare scene with comic_mode=False. The normal path
+# arrives with the style already folded in by s_comic_scene.
 _DEFAULT_STYLE = (
-    "Clean, modern health and wellness illustration style. "
-    "Soft natural colors (greens, blues, warm earth tones). "
-    "Minimalist flat design with gentle gradients. "
-    "Positive, calming mood. No text overlays. "
-    "Professional medical/health publication quality. "
-)
-
-# Character physical description for prompt consistency
-_CHARACTER_PHYSICAL = (
-    "Tall athletic muscular woman (178cm), long wavy blonde hair past shoulders "
-    "parted on the left, bright green eyes, defined muscles but feminine build, "
-    "sun-kissed skin. Small green leaf tattoo on right shoulder. "
-    "Black fitness smartwatch on left wrist."
+    "Editorial photograph for a health publication, no people in frame. Natural light, "
+    "muted neutral grade, shallow depth of field. No illustration, no 3D render. No text, "
+    "lettering or logos anywhere in frame. "
 )
 
 
 def _load_style_prefix() -> str:
-    """Load image style prefix from editable file, or use default."""
+    """Load the still-life style prefix from its editable partial."""
     if _STYLE_FILE.exists():
         return _STYLE_FILE.read_text(encoding="utf-8").strip() + " "
     return _DEFAULT_STYLE
-
-
-def _load_comic_style() -> str:
-    """Load comic art style from file."""
-    if _COMIC_STYLE_FILE.exists():
-        return _COMIC_STYLE_FILE.read_text(encoding="utf-8").strip()
-    return "Clean-line comic art panel, bold black outlines, cel-shading, vibrant colors."
-
-
-def _load_character_sheet() -> str:
-    """Load character model sheet for reference."""
-    if _CHARACTER_SHEET_FILE.exists():
-        return _CHARACTER_SHEET_FILE.read_text(encoding="utf-8").strip()
-    return ""
-
-
-def build_comic_prompt(scene_prompt: str) -> str:
-    """Build a full image prompt with character consistency enforced.
-
-    Prepends comic style + character physical description to ensure
-    the generated image matches Vita's model sheet.
-
-    Args:
-        scene_prompt: Scene description from s_comic_scene stage.
-
-    Returns:
-        Full prompt with style + character + scene.
-    """
-    comic_style = _load_comic_style()
-    return (
-        f"{comic_style} Single panel composition. "
-        f"Character: {_CHARACTER_PHYSICAL} "
-        f"{scene_prompt}"
-    )
 
 
 def generate_image(
@@ -101,6 +60,7 @@ def generate_image(
     comic_mode: bool = False,
     quality: str = "auto",
     reference: Path | None = None,
+    expression_reference: Path | None = None,
 ) -> Path | None:
     """Generate a cover image and save it to the images dir.
 
@@ -113,6 +73,7 @@ def generate_image(
         quality: gpt-image-1 quality, OpenAI backend only — "auto" (~$0.063), "low"
                 (~$0.016), "high" (~$0.25). Codex has no equivalent knob.
         reference: Vita's turnaround sheet, when she is in the frame. Codex backend only.
+        expression_reference: her expression sheet, when the face reads. Codex backend only.
 
     Returns:
         Path to saved image, or None on failure.
@@ -120,18 +81,25 @@ def generate_image(
     full_prompt = prompt if comic_mode else f"{_load_style_prefix()}{prompt}"
 
     if IMAGE_PROVIDER == "codex":
-        return _generate_via_codex(full_prompt, slug, reference)
+        return _generate_via_codex(full_prompt, slug, reference, expression_reference)
     return _generate_via_openai(full_prompt, slug, quality)
 
 
 def _generate_via_codex(
-    full_prompt: str, slug: str, reference: Path | None
+    full_prompt: str,
+    slug: str,
+    reference: Path | None,
+    expression_reference: Path | None = None,
 ) -> Path | None:
     """Render through the Codex CLI, which bills against the ChatGPT subscription."""
     from pipeline import codex_image
 
     try:
-        raw = codex_image.render(full_prompt, reference=reference)
+        raw = codex_image.render(
+            full_prompt,
+            reference=reference,
+            expression_reference=expression_reference,
+        )
     except codex_image.CodexImageError as e:
         logger.error("Codex image generation failed: %s", e)
         return None

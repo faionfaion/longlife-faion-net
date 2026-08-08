@@ -35,6 +35,7 @@ def run(ctx: PipelineContext) -> None:
             ctx.slug,
             comic_mode=comic_mode,
             reference=ctx.image_reference,
+            expression_reference=ctx.expression_reference,
         )
 
     # 1. Write markdown article
