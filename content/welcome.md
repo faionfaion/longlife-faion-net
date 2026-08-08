@@ -9,8 +9,6 @@ tags:
 - "Початок"
 description: "Ваш гід до здорового та довгого життя"
 author: "Віта Зеленко"
-source_urls: []
-source_names: []
 image: ""
 source_urls:
   - "https://t.me/long_life_media"
