@@ -49,7 +49,7 @@ tg_post: |
   
   У дослідженні MAPP2 (Nature Medicine, 2023) MDMA-асистована терапія знизила симптоми ПТСР майже вдвічі сильніше за плацебо з психотерапією (Cohen's d=0,7, p&lt;0,001). Проблема — функціональне розсліплення: пацієнти легко вгадують, що отримали активну речовину, і це ставить під сумнів чистоту результатів. Для українських ветеранів є ще один нюанс — вибірка була переважно цивільною і американською.
   
-  <a href="https://longlife.faion.net/mdma-terapiya-ptsr-fda-vidmova-2024-lykos-mapp2-2026-pe-cpt/">Читати повністю →</a>
+  <a href="https://longlife.media/mdma-terapiya-ptsr-fda-vidmova-2024-lykos-mapp2-2026-pe-cpt/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -58,7 +58,7 @@ tg_post: |
 
 У серпні 2024 року FDA відмовила компанії Lykos Therapeutics у схваленні MDMA-асистованої терапії для посттравматичного стресового розладу (ПТСР) — стану, який після повномасштабної війни зачепив тисячі українців. Публічний текст Complete Response Letter з'явився лише 4 вересня 2025 року ([Psychiatric Times](https://www.psychiatrictimes.com/view/fda-releases-complete-response-letter-on-declining-mdma-assisted-therapy-for-ptsd); [MAPS](https://maps.org/2025/09/04/fda-public-release-of-crl/)).
 
-Як ми вже писали в [огляді про псилоцибін і MDMA 2026 року](https://longlife.faion.net/psylocybin-mdma-ptsr-depresiya-fda-vidmova-2026-vyprobuvannia/), поле психоделічної психіатрії буксує. Спробуємо зрозуміти чому — і що реально доступно українцям сьогодні.
+Як ми вже писали в [огляді про псилоцибін і MDMA 2026 року](https://longlife.media/psylocybin-mdma-ptsr-depresiya-fda-vidmova-2026-vyprobuvannia/), поле психоделічної психіатрії буксує. Спробуємо зрозуміти чому — і що реально доступно українцям сьогодні.
 
 ## Що показало ключове дослідження MAPP2
 
@@ -121,4 +121,4 @@ MDMA залишається у Списку I — легальної терап�
 - [Annals of Internal Medicine — VA/DoD 2023 PTSD guidelines](https://www.acpjournals.org/doi/10.7326/M23-2757)
 - [CMS Law — Ukrainian Health Ministry on psychedelic-assisted therapy](https://cms.law/en/ukr/legal-updates/ukrainian-health-ministry-supports-use-of-psychedelic-assisted-therapy)
 - [Drug Science — Ukraine psychedelic research update](https://www.drugscience.org.uk/ukraine-psychedelic-research)
-- [LongLife — Псилоцибін і MDMA 2026: огляд](https://longlife.faion.net/psylocybin-mdma-ptsr-depresiya-fda-vidmova-2026-vyprobuvannia/)
+- [LongLife — Псилоцибін і MDMA 2026: огляд](https://longlife.media/psylocybin-mdma-ptsr-depresiya-fda-vidmova-2026-vyprobuvannia/)

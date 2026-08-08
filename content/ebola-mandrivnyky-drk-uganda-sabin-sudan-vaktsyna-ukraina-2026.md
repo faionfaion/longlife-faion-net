@@ -53,14 +53,14 @@ tg_post: |
   
   Оксфордську ChAdOx1-Bundibugyo зробили за 8 тижнів після оголошення PHEIC, а Serum Institute вже наготував 600 000 доз про запас. Паралельно Sabin завершив набір у Фазу 2 вакцини cAd3-Sudan — це інший штам, тож жодна з них поки не зареєстрована, і протокол HCID із 21-денним моніторингом залишається головним захистом для тих, хто летить у Кампалу чи Кіншасу.
   
-  <a href="https://longlife.faion.net/ebola-mandrivnyky-drk-uganda-sabin-sudan-vaktsyna-ukraina-2026/">Читати повністю →</a>
+  <a href="https://longlife.media/ebola-mandrivnyky-drk-uganda-sabin-sudan-vaktsyna-ukraina-2026/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
 Привіт! Є новини з лабораторій — і вони пояснюють, чому Лондон продовжує моніторити гуманітарних працівників, а Оксфорд і Sabin паралельно розганяють дві різні вакцини. Спойлер: одна не проти того штаму, що зараз лютує в ДРК. І це важливо для кожного, хто планує рейс через Аддис-Абебу чи Найробі.
 
-Якщо ти вже читав/-ла наші попередні тексти про [PHEIC і Bundibugyo](https://longlife.faion.net/ebola-bundibugyo-pheic-2026-drc-uganda-ukraina/), [оксфордську ChAdOx-вакцину](https://longlife.faion.net/ebola-bundibugyo-pheic-oxford-vaccine-ihr-update-2026/) та [21-денний моніторинг у Лондоні](https://longlife.faion.net/ebola-london-monitoring-humanitarian-workers-ukraina-2026/) — цей матеріал добудовує пазл. Сьогодні розберемо, що змінилося за останні тижні і як з цим жити, якщо в тебе квиток у Кампалу. 🔬
+Якщо ти вже читав/-ла наші попередні тексти про [PHEIC і Bundibugyo](https://longlife.media/ebola-bundibugyo-pheic-2026-drc-uganda-ukraina/), [оксфордську ChAdOx-вакцину](https://longlife.media/ebola-bundibugyo-pheic-oxford-vaccine-ihr-update-2026/) та [21-денний моніторинг у Лондоні](https://longlife.media/ebola-london-monitoring-humanitarian-workers-ukraina-2026/) — цей матеріал добудовує пазл. Сьогодні розберемо, що змінилося за останні тижні і як з цим жити, якщо в тебе квиток у Кампалу. 🔬
 
 ## Що сталося у липні–серпні 2026
 

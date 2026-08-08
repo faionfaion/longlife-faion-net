@@ -32,7 +32,7 @@ tg_post: |
   
   Щоб заснути, тіло має охолодитися зсередини — а спека гальмує цей спад і скорочує глибокий та REM-сон (Journal of Physiological Anthropology, 2012). Тепла ванна 40–42,5 °C за 1–2 години до сну прискорює засинання в середньому на ~9 хвилин, бо кров приливає до кінцівок і тіло швидше «зливає» жар (Sleep Medicine Reviews, 2019). Орієнтир для здорових дорослих під ковдрою — 18–19 °C (поріг ВООЗ — мінімум 18 °C), але літнім і тим, хто мерзне, краще 20–22 °C.
   
-  <a href="https://longlife.faion.net/temperatura-spalni-18-19-stupeniv-termorehulyatsiya-yakist-snu/">Читати повністю →</a>
+  <a href="https://longlife.media/temperatura-spalni-18-19-stupeniv-termorehulyatsiya-yakist-snu/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -49,7 +49,7 @@ tg_post: |
 
 А спекотне українське літо без кондиціонера? Вологе тепло — найгірший сценарій, бо піт не випаровується. Допоможе рух повітря (вентилятор, протяг), легша постіль із дихаючих тканин і охолодження стоп.
 
-Раніше ми писали, як кофеїн ([посилання](https://longlife.faion.net/caffeine-sleep-architecture-cyp1a2-deep-sleep-guide/)) та алкоголь ([посилання](https://longlife.faion.net/alcohol-sleep-rem-disruption-hrv-guide/)) крадуть глибокий і REM-сон. Температура працює на тій самій сцені.
+Раніше ми писали, як кофеїн ([посилання](https://longlife.media/caffeine-sleep-architecture-cyp1a2-deep-sleep-guide/)) та алкоголь ([посилання](https://longlife.media/alcohol-sleep-rem-disruption-hrv-guide/)) крадуть глибокий і REM-сон. Температура працює на тій самій сцені.
 
 **Що можна зробити вже сьогодні:**
 - Постав термометр і спробуй 18–19 °C (20–22 °C, якщо мерзнеш або старший вік).

@@ -111,7 +111,7 @@ export default ArticleTemplate;
 export const Head = ({ data }) => {
   const fm = data.markdownRemark.frontmatter;
   const ogImage = fm.image
-    ? `https://longlife.faion.net${fm.image}`
+    ? `https://longlife.media${fm.image}`
     : null;
   return (
     <>
@@ -120,13 +120,13 @@ export const Head = ({ data }) => {
       <meta property="og:title" content={fm.title} />
       <meta property="og:description" content={fm.description || ""} />
       <meta property="og:type" content="article" />
-      <meta property="og:url" content={`https://longlife.faion.net/${fm.slug}/`} />
+      <meta property="og:url" content={`https://longlife.media/${fm.slug}/`} />
       {ogImage && <meta property="og:image" content={ogImage} />}
       {ogImage && <meta property="og:image:width" content="1200" />}
       {ogImage && <meta property="og:image:height" content="800" />}
       {ogImage && <meta name="twitter:card" content="summary_large_image" />}
       {ogImage && <meta name="twitter:image" content={ogImage} />}
-      <link rel="canonical" href={`https://longlife.faion.net/${fm.slug}/`} />
+      <link rel="canonical" href={`https://longlife.media/${fm.slug}/`} />
       <meta property="og:site_name" content="Віта Зеленко" />
       <meta property="article:author" content="Віта Зеленко" />
       <meta property="article:published_time" content={`${fm.date}T00:00:00Z`} />

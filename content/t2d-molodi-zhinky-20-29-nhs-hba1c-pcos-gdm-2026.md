@@ -25,8 +25,8 @@ source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/40490026/"
   - "https://diabetesatlas.org/resources/idf-diabetes-atlas-2025/"
   - "https://diabetesjournals.org/care/article/47/Supplement_1/S20/153954/"
-  - "https://longlife.faion.net/lean-masld-strunki-liudy-fib-4-pnpla3-fruktoza-skryninh/"
-  - "https://longlife.faion.net/obkhvat-taliyi-vs-imt-pislia-60-whtr-sarkopenichna-ozhyrinnia/"
+  - "https://longlife.media/lean-masld-strunki-liudy-fib-4-pnpla3-fruktoza-skryninh/"
+  - "https://longlife.media/obkhvat-taliyi-vs-imt-pislia-60-whtr-sarkopenichna-ozhyrinnia/"
 source_names:
   - "Lancet Regional Health – Europe (Misra et al., 2026)"
   - "Imperial College London Press Release"
@@ -45,7 +45,7 @@ tg_post: |
   
   Аналіз Imperial College у Lancet Regional Health – Europe показує: середній ІМТ на момент діагнозу у молодих білих жінок наближається до 40 кг/м² (третій клас ожиріння). Два жіночі прискорювачі, які часто пропускають, — СПКЯ (підвищує ризик T2D приблизно втричі, OR 2,87) і гестаційний діабет. Якщо є хоча б один із цих маркерів — варто перевірити глюкозу натще, HbA1c та інсулін уже зараз.
   
-  <a href="https://longlife.faion.net/t2d-molodi-zhinky-20-29-nhs-hba1c-pcos-gdm-2026/">Читати повністю →</a>
+  <a href="https://longlife.media/t2d-molodi-zhinky-20-29-nhs-hba1c-pcos-gdm-2026/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -68,7 +68,7 @@ tg_post: |
 
 ## Нормальний ІМТ — не броня
 
-Як ми вже писали в матеріалі про [худу форму MASLD](https://longlife.faion.net/lean-masld-strunki-liudy-fib-4-pnpla3-fruktoza-skryninh/), близько 19% пацієнтів із жировою хворобою печінки мають ІМТ &lt;25 кг/м². Та сама логіка працює і для T2D: вісцеральний жир може накопичуватися при формально «нормальній» вазі. Тому обхват талії — часто чутливіший маркер, ніж ІМТ. За критеріями ВООЗ поріг для жінок — &gt;80 см, за жорсткішими критеріями ATP III — &gt;88 см. Якщо талія перевищує 80 см — це вже привід поговорити з лікарем, навіть коли ІМТ у нормі.
+Як ми вже писали в матеріалі про [худу форму MASLD](https://longlife.media/lean-masld-strunki-liudy-fib-4-pnpla3-fruktoza-skryninh/), близько 19% пацієнтів із жировою хворобою печінки мають ІМТ &lt;25 кг/м². Та сама логіка працює і для T2D: вісцеральний жир може накопичуватися при формально «нормальній» вазі. Тому обхват талії — часто чутливіший маркер, ніж ІМТ. За критеріями ВООЗ поріг для жінок — &gt;80 см, за жорсткішими критеріями ATP III — &gt;88 см. Якщо талія перевищує 80 см — це вже привід поговорити з лікарем, навіть коли ІМТ у нормі.
 
 ## Ультра-оброблена їжа: сигнал, але не вирок 🥗
 

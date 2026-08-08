@@ -37,7 +37,7 @@ tg_post: |
   
   Огляд 13 РКД у Physiotherapy Theory and Practice показав великий ефект на біль і побутові обмеження при остеоартрозі коліна (Hedges' g ≈ –1,0) — але лише як доповнення до стандартної фізіотерапії. Механіка проста: під час кроку з носка на п'яту навантаження на медіальний відділ коліна (EKAM) падає на 33,3%, розвантажуючи «болючу» зону суглоба.
   
-  <a href="https://longlife.faion.net/khodba-zadom-naperd-10-khvylyn-meta-analiz-2025-koliny-balans/">Читати повністю →</a>
+  <a href="https://longlife.media/khodba-zadom-naperd-10-khvylyn-meta-analiz-2025-koliny-balans/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -66,7 +66,7 @@ tg_post: |
 
 Ефект скромніший, ніж хотілося б, і самі автори називають доказову базу «попередньою». Але для літніх людей навіть невелике покращення балансу зменшує ризик падінь — а це зараз одна з головних тем геріатрії.
 
-Якщо ти пам'ятаєш нашу статтю про [10-секундний тест стояння на одній нозі](https://longlife.faion.net/balance-test-10-seconds-one-leg-stand-mortality-fall-prevention/) — retro-walking може бути одним із доступних способів тренувати той самий баланс без залу.
+Якщо ти пам'ятаєш нашу статтю про [10-секундний тест стояння на одній нозі](https://longlife.media/balance-test-10-seconds-one-leg-stand-mortality-fall-prevention/) — retro-walking може бути одним із доступних способів тренувати той самий баланс без залу.
 
 ## Плюс — вища метаболічна вартість кроку
 

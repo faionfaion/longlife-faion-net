@@ -24,8 +24,8 @@ source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC10198889/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC6989626/"
   - "https://cet.org/wp-content/uploads/2017/11/Morningness-Eveningness-Self-assessment-from-cet.org_.pdf"
-  - "https://longlife.faion.net/chronotypes-genetics-daily-schedule-optimization/"
-  - "https://longlife.faion.net/sleep-regularity-sri-mortality-social-jetlag-guide/"
+  - "https://longlife.media/chronotypes-genetics-daily-schedule-optimization/"
+  - "https://longlife.media/sleep-regularity-sri-mortality-social-jetlag-guide/"
 source_names:
   - "Küüsmaa et al., Applied Physiology, Nutrition, and Metabolism, 2016"
   - "Chtourou & Souissi, Journal of Strength and Conditioning Research, 2012"
@@ -41,7 +41,7 @@ tg_post: |
   
   Огляд у Journal of Strength and Conditioning Research підтвердив: анаеробний пік припадає на 16:00–19:00 завдяки вищій температурі тіла, тестостерону й нервовій провідності. А 24-тижневе дослідження Küüsmaa (2016) показало цікавіше: усі групи наростили м'язи на 12–20%, але після 13-го тижня вечірні почали випереджати ранкові за гіпертрофією стегна.
   
-  <a href="https://longlife.faion.net/tsyrkadni-geny-sylovi-zhayvoronky-sovy-vechirnie-trenuvannia/">Читати повністю →</a>
+  <a href="https://longlife.media/tsyrkadni-geny-sylovi-zhayvoronky-sovy-vechirnie-trenuvannia/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -78,11 +78,11 @@ tg_post: |
 
 Систематичний огляд Vitale & Weydahl у *Sports Medicine* (2017) додає: ранкові типи навіть суб'єктивно відчувають менше зусилля у ранкових тренуваннях, ніж «сови» ([PubMed](https://pubmed.ncbi.nlm.nih.gov/28493061/)).
 
-Як ми вже писали про [хронотипи й генетику добового ритму](https://longlife.faion.net/chronotypes-genetics-daily-schedule-optimization/), години гена *PER2* та *BMAL1* — це не уподобання, а біологія.
+Як ми вже писали про [хронотипи й генетику добового ритму](https://longlife.media/chronotypes-genetics-daily-schedule-optimization/), години гена *PER2* та *BMAL1* — це не уподобання, а біологія.
 
 ## Вечірні тренування і сон
 
-Логічне питання: чи не зруйнує важка тяга о 21:00 нічний сон? Мета-аналіз Stutz et al. (2019) показав: інтенсивні навантаження не погіршують сон, якщо завершити їх щонайменше за годину до ліжка ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6989626/)). Для безпеки краще тримати запас 2–3 години — це особливо важливо для регулярності сну, про яку ми писали в [гайді про SRI](https://longlife.faion.net/sleep-regularity-sri-mortality-social-jetlag-guide/).
+Логічне питання: чи не зруйнує важка тяга о 21:00 нічний сон? Мета-аналіз Stutz et al. (2019) показав: інтенсивні навантаження не погіршують сон, якщо завершити їх щонайменше за годину до ліжка ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6989626/)). Для безпеки краще тримати запас 2–3 години — це особливо важливо для регулярності сну, про яку ми писали в [гайді про SRI](https://longlife.media/sleep-regularity-sri-mortality-social-jetlag-guide/).
 
 ## Що можна зробити вже сьогодні
 

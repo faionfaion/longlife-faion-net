@@ -39,7 +39,7 @@ tg_post: |
   
   У приміщенні — лише 200–500 люкс, а надворі навіть у похмурий ранок — близько 10 000 люкс, які активують клітини сітківки ipRGC і запускають головний годинник мозку. Класичний експеримент Leproult (JCEM, 2001) показав: яскраве світло вранці підіймає кортизол більш ніж на 50% за 30 хвилин — і цей ефект не повторюється опівдні.
   
-  <a href="https://longlife.faion.net/rankove-sontse-10-khvylyn-tsyrkadnyi-rytm-biohack/">Читати повністю →</a>
+  <a href="https://longlife.media/rankove-sontse-10-khvylyn-tsyrkadnyi-rytm-biohack/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -56,7 +56,7 @@ tg_post: |
 
 А чи це працює довгостроково? У когорті UK Biobank на 86 000 людей з об'єктивною актиграфією більше денного світла було пов'язане з нижчим ризиком депресії й кращим сном (Nature Mental Health, Burns та ін., 2023: [джерело](https://www.nature.com/articles/s44220-023-00135-8)). Це спостережні дані — причинність до кінця не доведена, але напрям стабільний.
 
-Нагадаємо, що ранкове світло — це не заміна регулярному графіку сну, а його підсилювач (детальніше — у [нашому матеріалі про SRI](https://longlife.faion.net/sleep-regularity-sri-mortality-social-jetlag-guide/)).
+Нагадаємо, що ранкове світло — це не заміна регулярному графіку сну, а його підсилювач (детальніше — у [нашому матеріалі про SRI](https://longlife.media/sleep-regularity-sri-mortality-social-jetlag-guide/)).
 
 **Кому потрібна обережність ⚠️**
 

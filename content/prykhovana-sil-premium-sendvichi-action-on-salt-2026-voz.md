@@ -29,7 +29,7 @@ source_urls:
   - "https://www.who.int/publications/i/item/9789240069985"
   - "https://www.who.int/news-room/events/detail/2025/01/27/default-calendar/launch-of-the-who-guideline-on-the-use-of-lower-sodium-salt-substitutes"
   - "https://extranet.who.int/nutrition/gina/en/node/6091"
-  - "https://longlife.faion.net/kaliy-elektrolit-tysk-natriy-kaliyevyy-balans-who-bmj-nejm/"
+  - "https://longlife.media/kaliy-elektrolit-tysk-natriy-kaliyevyy-balans-who-bmj-nejm/"
 source_names:
   - "BBC News"
   - "Action on Salt (Queen Mary University of London)"
@@ -49,7 +49,7 @@ tg_post: |
   
   Британська Action on Salt виявила, що Smoked Chicken Caesar Club від Gail's має 6,88 г солі — більше за денну норму ВООЗ (5 г). Загалом 44% сендвічів отримали б «червоне» маркування, причому кав'ярні солять щедріше за супермаркети — слово «крафтовий» на упаковці не рятує. ВООЗ пов'язує надлишок натрію з 1,7 млн смертей щороку, тож читай етикетку навіть на «здоровому» ланчі.
   
-  <a href="https://longlife.faion.net/prykhovana-sil-premium-sendvichi-action-on-salt-2026-voz/">Читати повністю →</a>
+  <a href="https://longlife.media/prykhovana-sil-premium-sendvichi-action-on-salt-2026-voz/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -78,7 +78,7 @@ tg_post: |
 
 Публічного аудиту українських мереж на кшталт Action on Salt поки немає. Але фізика однакова: великий «преміум»-сендвіч із курячим філе, беконом і соусом легко дає 2,5–4 г солі за один прийом їжі.
 
-Як ми вже писали у [статті про калій](https://longlife.faion.net/kaliy-elektrolit-tysk-natriy-kaliyevyy-balans-who-bmj-nejm/), для тиску важливий не лише натрій, а й співвідношення Na/K. Сьогоднішня історія — про інший бік медалі: **промисловий натрій, який ти не клав сам**.
+Як ми вже писали у [статті про калій](https://longlife.media/kaliy-elektrolit-tysk-natriy-kaliyevyy-balans-who-bmj-nejm/), для тиску важливий не лише натрій, а й співвідношення Na/K. Сьогоднішня історія — про інший бік медалі: **промисловий натрій, який ти не клав сам**.
 
 ## Що можна зробити вже сьогодні
 
@@ -103,4 +103,4 @@ tg_post: |
 9. [WHO STEPS Survey — Ukraine 2019](https://www.who.int/publications/i/item/9789289054652)
 10. [WHO GINA — Ukraine nutrition policies (node 6091)](https://extranet.who.int/nutrition/gina/en/node/6091)
 11. [WHO Guideline on Lower-Sodium Salt Substitutes (2025)](https://www.who.int/news-room/events/detail/2025/01/27/default-calendar/launch-of-the-who-guideline-on-the-use-of-lower-sodium-salt-substitutes)
-12. [LongLife Media — Калій, електроліт тиску: натрій-калієвий баланс](https://longlife.faion.net/kaliy-elektrolit-tysk-natriy-kaliyevyy-balans-who-bmj-nejm/)
+12. [LongLife Media — Калій, електроліт тиску: натрій-калієвий баланс](https://longlife.media/kaliy-elektrolit-tysk-natriy-kaliyevyy-balans-who-bmj-nejm/)

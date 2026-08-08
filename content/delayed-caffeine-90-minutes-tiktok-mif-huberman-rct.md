@@ -37,7 +37,7 @@ tg_post: |
   
   Критичний огляд у Journal of the International Society of Sports Nutrition (2024) прямо констатує: фундаментальної основи відкладати ранковий кофеїн немає, а в регулярних кавоманів реакція кортизолу на каву взагалі притуплена. Пік cortisol awakening response минає вже за 30–45 хвилин після пробудження, тож до 90-ї хвилини «рятувати» нема чого — на сон реально впливають доза й час до сну: 400 мг кофеїну за 6 годин до сну скорочують сон на ~41 хвилину (Drake et al., 2013).
   
-  <a href="https://longlife.faion.net/delayed-caffeine-90-minutes-tiktok-mif-huberman-rct/">Читати повністю →</a>
+  <a href="https://longlife.media/delayed-caffeine-90-minutes-tiktok-mif-huberman-rct/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -52,7 +52,7 @@ tg_post: |
 
 Що реально впливає на сон і ефект кофеїну — це **доза** і **час до сну**. RCT Drake et al. 2013: 400 мг кофеїну за 6 годин до сну скоротили загальний час сну на ~41 хвилину ([JCSM](https://pmc.ncbi.nlm.nih.gov/articles/PMC3805807/)). Варто враховувати обмеження дослідження: маленька вибірка (n=12), здорові дорослі без розладів сну, одна фіксована доза — тому результати дають напрямок, а не універсальну норму. Систематичний огляд Clark & Landolt 2017 додає: індивідуальна чутливість залежить від генів CYP1A2 (швидкість метаболізму кофеїну) та ADORA2A (чутливість аденозинових рецепторів) ([Sleep Medicine Reviews](https://pubmed.ncbi.nlm.nih.gov/26899133/)).
 
-Раніше ми показали, чому доза і час до сну — головні предиктори впливу кофеїну ([кофеїн і архітектура сну](https://longlife.faion.net/caffeine-sleep-architecture-cyp1a2-deep-sleep-guide/)). А вчора пояснили гіпотезу, чому каву декому комфортно пити в перші хвилини після пробудження для боротьби із сонною інерцією ([сонна інерція в понеділок](https://longlife.faion.net/sonna-inertsiia-ponedilok-prefrontalna-kora-social-jetlag-kontrzakhody/)) — нагадаю, що цей конкретний тайминг наразі гіпотеза, а не RCT-висновок.
+Раніше ми показали, чому доза і час до сну — головні предиктори впливу кофеїну ([кофеїн і архітектура сну](https://longlife.media/caffeine-sleep-architecture-cyp1a2-deep-sleep-guide/)). А вчора пояснили гіпотезу, чому каву декому комфортно пити в перші хвилини після пробудження для боротьби із сонною інерцією ([сонна інерція в понеділок](https://longlife.media/sonna-inertsiia-ponedilok-prefrontalna-kora-social-jetlag-kontrzakhody/)) — нагадаю, що цей конкретний тайминг наразі гіпотеза, а не RCT-висновок.
 
 **Що можна зробити вже сьогодні:** 😴
 

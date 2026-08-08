@@ -22,7 +22,7 @@ source_urls:
   - "https://www.ahajournals.org/doi/10.1161/CIR.0000000000000749"
   - "https://www.nejm.org/doi/full/10.1056/NEJM199312023292301"
   - "https://www.jospt.org/doi/10.2519/jospt.2014.5164"
-  - "https://longlife.faion.net/monday-effect-stemi-ranok-kardio-bhf-2025/"
+  - "https://longlife.media/monday-effect-stemi-ranok-kardio-bhf-2025/"
 source_names:
   - "JAMA Internal Medicine 2022 (dos Santos)"
   - "JAMA 2023 (Khurshid, UK Biobank accelerometer)"
@@ -38,7 +38,7 @@ tg_post: |
   
   У JAMA Internal Medicine 2022 порівняли «weekend warriors» (усі 150 хв MVPA за 1–2 дні) з тими, хто розкидав тренування на тиждень — різниця у смертності виявилась статистично незначущою (HR 1,08). Ще точніші дані з акселерометрами UK Biobank (89 573 учасники) підтверджують: обсяг активності важливіший за розподіл, тож субота і неділя цілком рятують тиждень.
   
-  <a href="https://longlife.faion.net/weekend-warrior-150-khvylyn-vykhidni-vs-tyzhden-jama-2022/">Читати повністю →</a>
+  <a href="https://longlife.media/weekend-warrior-150-khvylyn-vykhidni-vs-tyzhden-jama-2022/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---

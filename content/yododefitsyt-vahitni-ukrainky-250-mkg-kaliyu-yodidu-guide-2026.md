@@ -28,8 +28,8 @@ source_urls:
   - "https://academic.oup.com/edrv/article/45/6/858/7693016"
   - "https://www.unicef.org/ukraine/en/media/42431/file/Ukraine_Iodine_Survey_Report.pdf"
   - "https://www.who.int/europe/news/item/28-06-2024-people-in-the-who-european-region-at-greater-risk-of-iodine-deficiency-due-to-changing-diets"
-  - "https://longlife.faion.net/iodine-deficiency-returns-salt-plant-milk-thyroid/"
-  - "https://longlife.faion.net/selen-ukrainski-grunty-karpaty-polissya-shchytopodibna-brazylski-gorikhy/"
+  - "https://longlife.media/iodine-deficiency-returns-salt-plant-milk-thyroid/"
+  - "https://longlife.media/selen-ukrainski-grunty-karpaty-polissya-shchytopodibna-brazylski-gorikhy/"
 source_names:
   - "Levie et al., J Clin Endocrinol Metab (2019)"
   - "Gowachirapant et al., Lancet Diabetes & Endocrinology (2017)"
@@ -50,7 +50,7 @@ tg_post: |
   
   У Тернополі медіанна йодурія у вагітних першого триместру склала лише 82 мкг/л при нормі ВООЗ ≥150 мкг/л, а збільшення щитоподібної залози виявили у третини обстежених жінок. І дефіцит, і надлишок йоду однаково шкодять формуванню мозку плода — це та сама U-подібна крива, тож дозу має підбирати лікар з урахуванням регіону й аналізів.
   
-  <a href="https://longlife.faion.net/yododefitsyt-vahitni-ukrainky-250-mkg-kaliyu-yodidu-guide-2026/">Читати повністю →</a>
+  <a href="https://longlife.media/yododefitsyt-vahitni-ukrainky-250-mkg-kaliyu-yodidu-guide-2026/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -69,7 +69,7 @@ tg_post: |
 
 Національне обстеження UNICEF 2021 року — перше за майже 20 років — підтвердило: йодний статус жінок репродуктивного віку в Україні неадекватний, а покриття йодованою сіллю значно нижче цільових 90% ВООЗ ([UNICEF Ukraine, 2021](https://www.unicef.org/ukraine/en/media/42431/file/Ukraine_Iodine_Survey_Report.pdf)).
 
-Ми вже писали, чому дефіцит йоду повертається навіть у розвинених країнах — через відмову від молочки, перехід на нефортифіковане рослинне молоко і зменшення споживання морської риби ([раніше в LongLife](https://longlife.faion.net/iodine-deficiency-returns-salt-plant-milk-thyroid/)).
+Ми вже писали, чому дефіцит йоду повертається навіть у розвинених країнах — через відмову від молочки, перехід на нефортифіковане рослинне молоко і зменшення споживання морської риби ([раніше в LongLife](https://longlife.media/iodine-deficiency-returns-salt-plant-milk-thyroid/)).
 
 ## IQ дитини і йод матері: що показала мета-аналітика
 
@@ -95,7 +95,7 @@ ATA (American Thyroid Association) у гайдлайні 2017 року реко�
 
 Невелика серія Thumma & Maraka на 20 вагітних з Хашимото показала, що профілактичні 100–150 мкг/добу переносилися без погіршення тиреоїдного статусу, а рівень анти-ТПО навіть знизився у більшості учасниць ([Clinical Thyroidology, 2021](https://pubmed.ncbi.nlm.nih.gov/33759148/)). Це попередні дані з малої серії — вони обнадійливі, але не є підставою самостійно призначати собі йод при Хашимото. Клінічне рішення — за ендокринологом, під контролем ТТГ, вільного Т4 і антитіл.
 
-Важливий партнер йоду — селен. Він активує дейодинази — ферменти, які перетворюють гормони щитоподібної залози на активну форму. Без селену йод «не приземляється». Про український дефіцит селену, особливо в Карпатах — [окрема стаття](https://longlife.faion.net/selen-ukrainski-grunty-karpaty-polissya-shchytopodibna-brazylski-gorikhy/). 🧠
+Важливий партнер йоду — селен. Він активує дейодинази — ферменти, які перетворюють гормони щитоподібної залози на активну форму. Без селену йод «не приземляється». Про український дефіцит селену, особливо в Карпатах — [окрема стаття](https://longlife.media/selen-ukrainski-grunty-karpaty-polissya-shchytopodibna-brazylski-gorikhy/). 🧠
 
 ## Про безпечну верхню межу
 

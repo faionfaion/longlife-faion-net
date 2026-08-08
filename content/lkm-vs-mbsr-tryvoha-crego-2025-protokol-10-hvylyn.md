@@ -37,14 +37,14 @@ tg_post: |
   
   У квазі-РКД зі 170 учасниками порівняли MBSR і MSC (на основі loving-kindness) протягом 8 тижнів: обидві практики знизили тривогу за шкалою HADS краще за контроль, різниця між ними мінімальна. Але MSC чітко виграла по self-compassion і зменшенню самокритики, а мета-аналіз 2023 показав: комбінація LKM + mindfulness працює ще краще, ніж чиста медитація любові-доброти.
   
-  <a href="https://longlife.faion.net/lkm-vs-mbsr-tryvoha-crego-2025-protokol-10-hvylyn/">Читати повністю →</a>
+  <a href="https://longlife.media/lkm-vs-mbsr-tryvoha-crego-2025-protokol-10-hvylyn/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
 Привіт! 🧠 Якщо ти вже пробував(-ла) mindfulness — просто спостерігати за диханням і думками без осуду — і думаєш, чи є щось «інше», у мене є цікаве порівняння. Свіжий head-to-head 2025 року протестував два підходи між собою: класичний MBSR (mindfulness-based stress reduction) і MSC (Mindful Self-Compassion) / LKM (loving-kindness meditation, медитація любові-доброти) — метод, де ти активно генеруєш теплі побажання собі й іншим.
 
-Як ми вже писали про [медитаційні застосунки Headspace і Calm](https://longlife.faion.net/medytatsiyni-zastosunky-headspace-calm-rct-stres-tryvoga/), mindfulness загалом знижує тривогу. Але сьогодні йдемо глибше — порівнюємо два *типи* самої практики.
+Як ми вже писали про [медитаційні застосунки Headspace і Calm](https://longlife.media/medytatsiyni-zastosunky-headspace-calm-rct-stres-tryvoga/), mindfulness загалом знижує тривогу. Але сьогодні йдемо глибше — порівнюємо два *типи* самої практики.
 
 **Що показав квазі-РКД (квазі-рандомізоване контрольоване дослідження) 2025.** Команда Crego опублікувала у Frontiers in Psychology дослідження зі 170 учасниками: MSC (побудований на LKM), MBSR і waitlist-контроль, 8 тижнів + рік супровідної практики ([Crego et al., 2025](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1597264/full)). За шкалою тривоги HADS обидві практики працювали краще за контроль. Різниця між MSC і MBSR — мінімальна (r=0.137, малий ефект — практично обидві практики порівнянні для зниження тривоги). Але MSC чітко виграла по self-compassion (самоспівчуттю) і зменшенню самокритики.
 

@@ -39,7 +39,7 @@ tg_post: |
   
   Справжня taVNS працює тільки на cymba concha — заглибленні у верхній частині вушної раковини, з частотою 25 Гц і сесіями по 30–60 хв. Мета-аналіз у Journal of Affective Disorders (2023) на 12 RCT і 838 учасниках показав значуще зниження балів депресії за шкалою Гамільтона — але лише для сертифікованих приладів, а не кліпс на мочку вуха.
   
-  <a href="https://longlife.faion.net/tvns-vushna-stymulyatsiya-bludyuchoho-nerva-rct-2025-tryvoha/">Читати повністю →</a>
+  <a href="https://longlife.media/tvns-vushna-stymulyatsiya-bludyuchoho-nerva-rct-2025-tryvoha/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -76,7 +76,7 @@ tg_post: |
 
 Інше дослідження 2025 року у *Translational Psychiatry* на 110 учасниках знайшло цікавий патерн: taVNS краще працює у людей із **низьким** базовим HRV — тобто у тих, чия парасимпатика «просіла» ([Schiweck et al., 2025](https://pubmed.ncbi.nlm.nih.gov/41353184/)).
 
-Як ми вже писали у [статті про HRV-біофідбек](https://longlife.faion.net/hrv-biofeedback-vs-medytatsiya-kortyzol-tryvoha-meta-analizy/), дихання 6 разів на хвилину впливає на той самий нерв — тільки зсередини і без електродів.
+Як ми вже писали у [статті про HRV-біофідбек](https://longlife.media/hrv-biofeedback-vs-medytatsiya-kortyzol-tryvoha-meta-analizy/), дихання 6 разів на хвилину впливає на той самий нерв — тільки зсередини і без електродів.
 
 ## Безпека і різниця між приладами
 

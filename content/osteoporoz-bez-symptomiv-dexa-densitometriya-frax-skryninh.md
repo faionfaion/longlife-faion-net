@@ -44,7 +44,7 @@ tg_post: |
   
   Кістки тихо втрачають щільність, тож побачити ризик можна лише за допомогою діагностики. DEXA — золотий стандарт: сканування з мінімальною дозою рентгену, яке вимірює щільність стегна і хребта. Оновлені рекомендації USPSTF (JAMA, 2025) радять скринінг жінкам від 65 років, а також у постменопаузі молодше 65, якщо безкоштовний калькулятор FRAX показує підвищений ризик.
   
-  <a href="https://longlife.faion.net/osteoporoz-bez-symptomiv-dexa-densitometriya-frax-skryninh/">Читати повністю →</a>
+  <a href="https://longlife.media/osteoporoz-bez-symptomiv-dexa-densitometriya-frax-skryninh/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -57,7 +57,7 @@ tg_post: |
 
 Гарна новина: є прості інструменти, які показують ризик задовго до перелому. Сьогодні — про два з них: денситометрію (DEXA) і безкоштовний онлайн-калькулятор FRAX. 🦴
 
-Нагадаю, що ми вже писали про те, [як будувати щільність кісток силовими та харчуванням](https://longlife.faion.net/osteoporoz-pislia-35-kistkova-shchilnist-frax-dexa-sylovyi-trening/), і про [плiометричні стрибки після 40](https://longlife.faion.net/pliometrychni-strybky-pislia-40-shchilnist-kistok-liftmor/). Ті статті — про профілактику. Ця — про діагностику: як дізнатися, у якій ти зоні ризику, перш ніж щось трапиться.
+Нагадаю, що ми вже писали про те, [як будувати щільність кісток силовими та харчуванням](https://longlife.media/osteoporoz-pislia-35-kistkova-shchilnist-frax-dexa-sylovyi-trening/), і про [плiометричні стрибки після 40](https://longlife.media/pliometrychni-strybky-pislia-40-shchilnist-kistok-liftmor/). Ті статті — про профілактику. Ця — про діагностику: як дізнатися, у якій ти зоні ризику, перш ніж щось трапиться.
 
 ## Що таке DEXA і кому її варто робити
 
@@ -102,7 +102,7 @@ FRAX — це безкоштовний онлайн-калькулятор ві�
 - **T-критерій −2,5 і нижче**;
 - остеопенія (T від −1,0 до −2,5) **плюс** FRAX-ризик перелому стегна **≥3%** або великого остеопоротичного перелому **≥20%** ([BHOF, 2022](https://link.springer.com/article/10.1007/s00198-021-05900-y)). Для України розраховані власні порогові значення для початку лікування ([Поворознюк та ін., *Journal of Osteoporosis*, 2021](https://www.hindawi.com/journals/jos/2021/2043479/)).
 
-А якщо щільність у нормі чи на рівні легкої остеопенії з низьким FRAX — на перший план виходять навантаження, білок, вітамін D і профілактика падінь. Саме тут стають у пригоді [силові вправи](https://longlife.faion.net/osteoporoz-pislia-35-kistkova-shchilnist-frax-dexa-sylovyi-trening/) і [плiометричні стрибки](https://longlife.faion.net/pliometrychni-strybky-pislia-40-shchilnist-kistok-liftmor/). Рішення завжди індивідуальне й ухвалюється з лікарем.
+А якщо щільність у нормі чи на рівні легкої остеопенії з низьким FRAX — на перший план виходять навантаження, білок, вітамін D і профілактика падінь. Саме тут стають у пригоді [силові вправи](https://longlife.media/osteoporoz-pislia-35-kistkova-shchilnist-frax-dexa-sylovyi-trening/) і [плiометричні стрибки](https://longlife.media/pliometrychni-strybky-pislia-40-shchilnist-kistok-liftmor/). Рішення завжди індивідуальне й ухвалюється з лікарем.
 
 ## А скринінг узагалі працює?
 

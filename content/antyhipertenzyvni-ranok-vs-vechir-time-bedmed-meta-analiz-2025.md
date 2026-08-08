@@ -40,7 +40,7 @@ tg_post: |
   
   Британський TIME trial у The Lancet на 21 104 пацієнтах і канадський BedMed у JAMA (2025) показали: жодної різниці між ранковим і вечірнім прийомом за ризиком інфаркту, інсульту чи серцево-судинної смерті (HR ≈ 0,95). Гучні результати іспанського Hygia про -45% подій ввечері не підтвердилися — головне не коли, а стабільно щодня в один час.
   
-  <a href="https://longlife.faion.net/antyhipertenzyvni-ranok-vs-vechir-time-bedmed-meta-analiz-2025/">Читати повністю →</a>
+  <a href="https://longlife.media/antyhipertenzyvni-ranok-vs-vechir-time-bedmed-meta-analiz-2025/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -79,7 +79,7 @@ tg_post: |
 
 [ESH 2023](https://journals.lww.com/jhypertension/fulltext/2023/12000/2023_esh_guidelines_for_the_management_of_arterial.2.aspx) — Європейське товариство гіпертензії — рекомендує приймати препарати «у зручний час, зазвичай вранці», бо це покращує прихильність. Вечірній прийом лишається опцією для тих, у кого добовий моніторинг тиску (ABPM) показав високий нічний тиск.
 
-Про те, як правильно міряти тиск удома і виявити «приховану» гіпертензію, ми вже [писали окремо](https://longlife.faion.net/tykha-hipertonia-30-40-sprint-10-rokiv-hbpm-masked-hypertension/).
+Про те, як правильно міряти тиск удома і виявити «приховану» гіпертензію, ми вже [писали окремо](https://longlife.media/tykha-hipertonia-30-40-sprint-10-rokiv-hbpm-masked-hypertension/).
 
 ## Що можна зробити вже сьогодні
 

@@ -49,7 +49,7 @@ tg_post: |
   
   Огляд у Nature Reviews Microbiology описує понад 200 симптомів і кілька механізмів: персистенція вірусу, мікротромби, дисфункція мітохондрій та реактивація вірусу Епштейна-Барр. Найчастіші прояви — втома, задишка і «туман у голові», а близько 50% пацієнтів із long COVID відповідають критеріям міалгічного енцефаломієліту (ME/CFS). За контрольованими даними, надлишковий ризик постковіду — 6–10% серед інфікованих.
   
-  <a href="https://longlife.faion.net/long-covid-5-rokiv-recover-metformin-ldn-likuvannia/">Читати повністю →</a>
+  <a href="https://longlife.media/long-covid-5-rokiv-recover-metformin-ldn-likuvannia/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---

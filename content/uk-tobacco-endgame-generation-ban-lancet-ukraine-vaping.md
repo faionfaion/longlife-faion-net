@@ -53,7 +53,7 @@ tg_post: |
   
   З 2027 року кожен, хто народився після 1 січня 2009-го, ніколи не зможе легально купити сигарети у Великій Британії — щороку віковий поріг зростатиме. Моделювання у The Lancet Public Health оцінює: якщо впровадити це у 185 країнах, можна запобігти 1,2 мільйона смертей від раку легень до 2095 року, причому 65% врятованих — у країнах із низьким доходом. Закон карає продавців, а не курців — стратегія tobacco endgame поступово прибирає тютюн із суспільства, не криміналізуючи залежних.
   
-  <a href="https://longlife.faion.net/uk-tobacco-endgame-generation-ban-lancet-ukraine-vaping/">Читати повністю →</a>
+  <a href="https://longlife.media/uk-tobacco-endgame-generation-ban-lancet-ukraine-vaping/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---

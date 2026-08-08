@@ -43,7 +43,7 @@ tg_post: |
   
   Японське дослідження Mori 2009 (n=30, літні люди з м'яким когнітивним зниженням) показало покращення когнітивних тестів на 3 г сушеного їжатця на добу — але ефект зникав через 4 тижні після припинення прийому. Гучний наратив про «ріст нових нейронів» тримається на клітинних і мишачих роботах з NGF, а не на людському мозку — і на форумах уже фіксують дивний побічний сигнал: поколювання в кінцівках та емоційне притуплення.
   
-  <a href="https://longlife.faion.net/lions-mane-hericium-erinaceus-docherty-2023-rct-parestezii-kognitsiya/">Читати повністю →</a>
+  <a href="https://longlife.media/lions-mane-hericium-erinaceus-docherty-2023-rct-parestezii-kognitsiya/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -74,11 +74,11 @@ Cognitive Vitality від Alzheimer's Drug Discovery Foundation переглян
 
 ## Математика гаманця
 
-Місячний курс якісного екстракту Lion's Mane — приблизно $25–45. Для порівняння: креатин моногідрат, який має Cochrane-огляд по когніції, коштує $3–6 на місяць. Риб'ячий жир з EPA/DHA — $10–20. Як і у випадку з [магнієм L-треонатом](https://longlife.faion.net/magnii-l-treonat-magtein-kognitsiya-rct-vs-bisglitsynat-tsina/), про який ми писали днями, маркетинг випереджає докази у 5–10 разів за ціною.
+Місячний курс якісного екстракту Lion's Mane — приблизно $25–45. Для порівняння: креатин моногідрат, який має Cochrane-огляд по когніції, коштує $3–6 на місяць. Риб'ячий жир з EPA/DHA — $10–20. Як і у випадку з [магнієм L-треонатом](https://longlife.media/magnii-l-treonat-magtein-kognitsiya-rct-vs-bisglitsynat-tsina/), про який ми писали днями, маркетинг випереджає докази у 5–10 разів за ціною.
 
 ## Що можна зробити вже сьогодні
 
 - Перш ніж пробувати, порадься з лікарем, якщо ти на SSRI (антидепресантах), антикоагулянтах (кроворозріджувачах) або маєш алергію на гриби — Lion's Mane потенційно взаємодіє з цими препаратами, а перехресна алергія на грибні білки описана в літературі.
-- Якщо протипоказань немає і цікаво — спробуй 4-тижневий курс і чесно оціни суб'єктивний ефект; для когніції з сильнішою доказовою базою спершу подумай про [креатин](https://longlife.faion.net/kreatyn-zhinky-perymenopauza-meta-analiz-2026-kistky-syla-kohnitsiya/) чи [омега-3](https://longlife.faion.net/omega-3-biolohichnyi-vik-do-health-2025-epigenetychni-hodynnyky/).
+- Якщо протипоказань немає і цікаво — спробуй 4-тижневий курс і чесно оціни суб'єктивний ефект; для когніції з сильнішою доказовою базою спершу подумай про [креатин](https://longlife.media/kreatyn-zhinky-perymenopauza-meta-analiz-2026-kistky-syla-kohnitsiya/) чи [омега-3](https://longlife.media/omega-3-biolohichnyi-vik-do-health-2025-epigenetychni-hodynnyky/).
 - Якщо з'явилися поколювання, оніміння або дивна емоційна сплощеність — припини прийом і поговори з лікарем.
-- Пам'ятай базу: сон, [VO2max](https://longlife.faion.net/vo2max-predictor-longevity-cardiorespiratory-fitness/) і рух дають для мозку більше, ніж будь-яка модна капсула. 🌿
+- Пам'ятай базу: сон, [VO2max](https://longlife.media/vo2max-predictor-longevity-cardiorespiratory-fitness/) і рух дають для мозку більше, ніж будь-яка модна капсула. 🌿

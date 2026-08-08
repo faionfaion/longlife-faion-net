@@ -26,7 +26,7 @@ source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/39209795/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC8145533/"
   - "https://pubmed.ncbi.nlm.nih.gov/17443590/"
-  - "https://longlife.faion.net/klishchovyy-sezon-ukus-klishcha-antibiotyk-nice-idsa-algorytm/"
+  - "https://longlife.media/klishchovyy-sezon-ukus-klishcha-antibiotyk-nice-idsa-algorytm/"
 source_names:
   - "CDC — Preventing Tick Bites (2025)"
   - "Fradin & Day, New England Journal of Medicine (2002)"
@@ -43,14 +43,14 @@ tg_post: |
   
   CDC і EPA визнають лише 5 діючих речовин для шкіри: DEET, пікаридин, IR3535, OLE/PMD та 2-ундеканон — плюс перметрин 0,5% для обробки одягу. Класичне дослідження у New England Journal of Medicine показало: спрей із 23,8% DEET захищає від укусів у середньому понад 5 годин, тоді як «натуральні» браслети з ефірними оліями доказів ефективності не мають.
   
-  <a href="https://longlife.faion.net/zakhyst-vid-klishchiv-2026-deet-pikarydyn-permetryn-repelenty/">Читати повністю →</a>
+  <a href="https://longlife.media/zakhyst-vid-klishchiv-2026-deet-pikarydyn-permetryn-repelenty/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
 Привіт! Сезон кліщів 2026 офіційно стартував — у більшості регіонів України вже стабільно тепло, перші пікніки відбулися, а в аптеках полиці ламаються від «революційних» репелентів. 🌿
 
-У квітні ми детально розбирали, [що робити, якщо кліщ уже встромився](https://longlife.faion.net/klishchovyy-sezon-ukus-klishcha-antibiotyk-nice-idsa-algorytm/) — алгоритм за NICE та IDSA, коли потрібен доксициклін (антибіотик першої лінії при підозрі на Лайм-бореліоз), а коли просто спостереження. Сьогодні крок назад: як зробити так, щоб укусу взагалі не сталося.
+У квітні ми детально розбирали, [що робити, якщо кліщ уже встромився](https://longlife.media/klishchovyy-sezon-ukus-klishcha-antibiotyk-nice-idsa-algorytm/) — алгоритм за NICE та IDSA, коли потрібен доксициклін (антибіотик першої лінії при підозрі на Лайм-бореліоз), а коли просто спостереження. Сьогодні крок назад: як зробити так, щоб укусу взагалі не сталося.
 
 Спойлер: ультразвуковий браслет за 300 гривень — не варіант. А ось три діючі речовини й один спрей на одяг — варіант дуже навіть.
 
@@ -171,6 +171,6 @@ CDC рекомендує не покладатися лише на хімію ([
 3. **Дотримуйся базової безпеки**: не наноси репелент на руки дітей і пошкоджену шкіру, змивай водою з милом після повернення додому.
 4. **Якщо вагітна, годуєш або підбираєш засіб немовляті** — DEET і пікаридин у рекомендованих концентраціях вважаються прийнятними за CDC, але краще обговорити вибір зі своїм лікарем.
 5. **Не витрачайся на ультразвукові браслети й «натуральні» брелоки** — докази проти них дуже однозначні.
-6. Якщо кліщ усе ж присмоктався — діємо за [алгоритмом з нашої квітневої статті](https://longlife.faion.net/klishchovyy-sezon-ukus-klishcha-antibiotyk-nice-idsa-algorytm/): тонкий пінцет, без олій і сірників, спостереження 30 днів.
+6. Якщо кліщ усе ж присмоктався — діємо за [алгоритмом з нашої квітневої статті](https://longlife.media/klishchovyy-sezon-ukus-klishcha-antibiotyk-nice-idsa-algorytm/): тонкий пінцет, без олій і сірників, спостереження 30 днів.
 
 Хороших прогулянок — і нехай захист буде доказовим, а не маркетинговим. 🌿

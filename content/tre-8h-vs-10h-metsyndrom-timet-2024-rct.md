@@ -39,7 +39,7 @@ tg_post: |
   
   У листопаді 2024 в Annals of Internal Medicine вийшов RCT TIMET (108 дорослих із метсиндромом, 3 місяці): персоналізоване вікно 8–10 годин + середземноморські поради дали мінус 3–4% ваги та жиру на тулубі без втрати м'язів. Але HbA1c знизився лише на 0,10% — це нижче клінічно значущого порогу ~0,3–0,5%, а прямого порівняння «8 vs 10 годин» у цій популяції досі не існує.
   
-  <a href="https://longlife.faion.net/tre-8h-vs-10h-metsyndrom-timet-2024-rct/">Читати повністю →</a>
+  <a href="https://longlife.media/tre-8h-vs-10h-metsyndrom-timet-2024-rct/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -85,7 +85,7 @@ Xie і колеги у [Nature Communications 2022](https://www.nature.com/artic
 
 Огляд 26 RCT у [Nutrients 2024](https://www.mdpi.com/2072-6643/16/21/3700) (n≈1197): вага мінус 1,62 кг, талія мінус 2 см. А от HbA1c — незначущий −0,18%. Ще спостереження: довші періоди голоду асоціювалися з **вищим** холестерином і LDL. Важливо: це підгруповий аналіз усередині мета-аналізу, тобто асоціація, а не доведений причинно-наслідковий зв'язок; можливі конфаундери (склад раціону, тривалість дослідження, характеристики учасників). Але «коротше — завжди краще» об'єднана статистика точно не підтверджує.
 
-Раніше ми вже детально розбирали 16:8 і питання втрати м'язів — [читай тут](https://longlife.faion.net/chasove-vikno-kharchuvannia-time-restricted-eating-16-8-rkd-analiz/) і [тут](https://longlife.faion.net/tre-16-8-vs-kalorii-pryame-rkd-lin-treat-myaziv/).
+Раніше ми вже детально розбирали 16:8 і питання втрати м'язів — [читай тут](https://longlife.media/chasove-vikno-kharchuvannia-time-restricted-eating-16-8-rkd-analiz/) і [тут](https://longlife.media/tre-16-8-vs-kalorii-pryame-rkd-lin-treat-myaziv/).
 
 ## Кому TRE не підходить
 

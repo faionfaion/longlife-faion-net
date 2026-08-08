@@ -37,7 +37,7 @@ tg_post: |
   
   Британка 4 роки отримувала хибні діагнози — від тривожності до епілепсії, — поки ChatGPT не запропонував спадкову спастичну параплегію, що підтвердилась генетичним тестом. Водночас мета-аналіз 30 досліджень у JMIR Medical Informatics показав: точність діагнозів ШІ коливається від 25% до 97,8%, і лише у третині випадків він точніший за лікарів. ШІ може бути корисним інструментом для пошуку підказок — але не заміною повноцінної діагностики.
   
-  <a href="https://longlife.faion.net/ai-diagnostics-chatgpt-rare-disease-opportunities-risks/">Читати повністю →</a>
+  <a href="https://longlife.media/ai-diagnostics-chatgpt-rare-disease-opportunities-risks/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---

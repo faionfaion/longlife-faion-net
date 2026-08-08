@@ -80,6 +80,15 @@
       "sources_hint": "Araújo 2012 European Journal of Preventive Cardiology sitting-rising test; de Brito 2014 follow-up; Araújo 2022 BJSM 10-second one-legged stance mortality study; Studenski 2011 JAMA gait speed and survival pooled analysis; 2024-2025 updates on sitting-rising test in European Journal of Preventive Cardiology; Cooper 2010 BMJ meta-analysis of objective physical capability measures and mortality",
       "evidence_level": "moderate",
       "priority": 3
+    },
+    {
+      "topic": "Тиждень у дослідженнях сну: що вийшло за останні сім днів",
+      "type": "roundup",
+      "category": "sleep",
+      "angle": "Зібрати те, що опублікували про сон за тиждень, і сказати, де результати суперечать одні одним",
+      "sources_hint": "PubMed sleep 2026, Sleep, SLEEP Journal, JCSM, Lancet, recent RCTs on sleep duration, CBT-I, wearables validation",
+      "evidence_level": "moderate",
+      "priority": 1
     }
   ],
   "date": "2026-08-08",

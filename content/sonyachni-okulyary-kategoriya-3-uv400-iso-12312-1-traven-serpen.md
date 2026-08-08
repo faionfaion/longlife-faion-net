@@ -47,7 +47,7 @@ tg_post: |
   
   За оглядом у Eye &amp; Contact Lens (2011), UV-B обпікає рогівку та кришталик, а UV-A доходить до сітківки — особливо у дітей. У травні–серпні UV-індекс у Києві тримається на 6–7, в Одесі та Херсоні стрибає до 8, тож шукай окуляри категорії 3 з маркуванням UV400 — темні скельця без фільтра розширюють зіницю і пропускають більше ультрафіолету всередину.
   
-  <a href="https://longlife.faion.net/sonyachni-okulyary-kategoriya-3-uv400-iso-12312-1-traven-serpen/">Читати повністю →</a>
+  <a href="https://longlife.media/sonyachni-okulyary-kategoriya-3-uv400-iso-12312-1-traven-serpen/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -56,7 +56,7 @@ tg_post: |
 
 Сьогодні розберемо, що саме UV робить з очима, чому категорія темряви скелець ≠ UV-захист, і як обрати окуляри, які реально працюють. Спойлер: темні скельця без UV-фільтра можуть бути гіршими за відсутність окулярів узагалі. 🔬
 
-Якщо пропустила нашу травневу статтю про [UV-індекс і SPF для шкіри](https://longlife.faion.net/travnevyi-uv-indeks-kyiv-spf-30-50-2mg-cm2-pravylo/) — там базова рамка про UV в Україні. А ще ми писали про [меланому і самоогляд за ABCDE](https://longlife.faion.net/melanoma-abcde-efg-vuzlova-bezpihmentna-samoogliad-2026/). Сьогодні фокус — на очах.
+Якщо пропустила нашу травневу статтю про [UV-індекс і SPF для шкіри](https://longlife.media/travnevyi-uv-indeks-kyiv-spf-30-50-2mg-cm2-pravylo/) — там базова рамка про UV в Україні. А ще ми писали про [меланому і самоогляд за ABCDE](https://longlife.media/melanoma-abcde-efg-vuzlova-bezpihmentna-samoogliad-2026/). Сьогодні фокус — на очах.
 
 ## Що UV робить з оком: коротка анатомія
 

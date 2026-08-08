@@ -45,7 +45,7 @@ tg_post: |
   
   Cyclospora cayetanensis — паразит, який ховається у свіжій зелені, ягодах і немитому листі салату з all-inclusive. Його легко сплутати з «діареєю мандрівника», але звичайні ліки не працюють: якщо діарея триває понад 3 дні після повернення — потрібен аналіз калу на паразитів, а не імодіум. Річна норма — 93 випадки, а тут дві третини вже за пів сезону.
   
-  <a href="https://longlife.faion.net/cyclospora-salaty-vidpustka-diareya-ukhsa-2026-tmp-smx/">Читати повністю →</a>
+  <a href="https://longlife.media/cyclospora-salaty-vidpustka-diareya-ukhsa-2026-tmp-smx/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---

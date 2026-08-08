@@ -45,7 +45,7 @@ tg_post: |
   
   За першим популяційним дослідженням ЦГЗ та DILA (Eurosurveillance, 2025), 3,3% дорослих українців мають антитіла до HCV, а до гепатиту B — 11,6%. За оцінками МОЗ, з хронічним гепатитом C живе близько 1,17 млн людей — більшість не знають про діагноз, хоча тест і лікування доступні безкоштовно за програмою МОЗ.
   
-  <a href="https://longlife.faion.net/hepatyt-c-ukraina-voz-2030-bezkoshtovne-testuvannia/">Читати повністю →</a>
+  <a href="https://longlife.media/hepatyt-c-ukraina-voz-2030-bezkoshtovne-testuvannia/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---

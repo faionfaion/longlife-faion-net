@@ -39,7 +39,9 @@ SEND_POST = SCRIPTS_DIR / "send_post.py"
 DEPLOY_SH = GATSBY_DIR / "deploy-gh.sh"
 
 # Site
-SITE_BASE_URL = "https://longlife.faion.net"
+# Moved from longlife.faion.net on 8 August 2026. The old host 301s to this one, which
+# is what keeps the links in already-sent Telegram posts working.
+SITE_BASE_URL = "https://longlife.media"
 
 # Single language — no translation pipeline needed
 LANG = "ua"

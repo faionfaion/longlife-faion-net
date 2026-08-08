@@ -29,7 +29,7 @@ source_urls:
   - "https://unn.ua/en/news/water-on-over-20percent-of-beaches-in-ukraine-does-not-meet-sanitary-standards-ministry-of-health-updated-the-list-of-where-it-is-safe-and-unsafe-to-swim"
   - "https://ecopolitic.com.ua/en/news/u-dnipri-perevirili-yakist-vodi-na-plyazhah-3/"
   - "https://kyivindependent.com/health-minister-pollution-level-in-dnipro-river-increases-28-times/"
-  - "https://longlife.faion.net/cold-shower-protocol-30-days/"
+  - "https://longlife.media/cold-shower-protocol-30-days/"
 source_names:
   - "BMJ Case Reports (van Tulleken et al., 2018)"
   - "Journal of Contextual Behavioral Science (Massey OUTSIDE feasibility RCT, 2025)"
@@ -49,7 +49,7 @@ tg_post: |
   
   Дослідження OUTSIDE Портсмутського університету охопило 87 дорослих із легкою та помірною депресією: половина 8 тижнів раз на тиждень плавала з тренером у відкритій воді, інші отримували стандартне лікування. У «плавальній» групі не лише сильніше впали симптоми депресії й тривоги — учасники рідше зверталися по додаткову терапію та рідше збільшували дозу антидепресантів. Всередині статті — як безпечно стартувати у Дніпрі, щоб отримати ефект, а не переохолодження.
   
-  <a href="https://longlife.faion.net/plavannya-vidkryta-voda-depresiya-outside-rct-2025-bezpeka-dnipro-dnister/">Читати повністю →</a>
+  <a href="https://longlife.media/plavannya-vidkryta-voda-depresiya-outside-rct-2025-bezpeka-dnipro-dnister/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -80,7 +80,7 @@ tg_post: |
 
 Окремий ризик — «автономний конфлікт»: одночасне збудження симпатичної (холод → тахікардія, тобто прискорене серцебиття) і парасимпатичної (занурення обличчя → брадикардія, уповільнення пульсу) систем може спровокувати аритмію ([Shattock & Tipton, J Physiol, 2012](https://pubmed.ncbi.nlm.nih.gov/22547634/)). Систолічний тиск у перші 30 секунд може підскочити на 30–50 мм рт. ст.
 
-Гарна новина: реакція на холодний шок знижується приблизно на 50% після 5–6 занурень по 3 хвилини ([PMC, habituation review](https://pmc.ncbi.nlm.nih.gov/articles/PMC4580772/)). Тому починати логічно з холодного душу — про 30-денний протокол ми вже писали ([longlife.faion.net](https://longlife.faion.net/cold-shower-protocol-30-days/)).
+Гарна новина: реакція на холодний шок знижується приблизно на 50% після 5–6 занурень по 3 хвилини ([PMC, habituation review](https://pmc.ncbi.nlm.nih.gov/articles/PMC4580772/)). Тому починати логічно з холодного душу — про 30-денний протокол ми вже писали ([longlife.media](https://longlife.media/cold-shower-protocol-30-days/)).
 
 ## Кому НЕ можна
 

@@ -38,7 +38,7 @@ tg_post: |
   
   Огляд у PLoS One (2025) проаналізував 10 досліджень із загалом 213 учасниками — і жодне не підтвердило заклеювання рота як надійну рекомендацію для покращення сну. Усі отримали найнижчу оцінку якості за шкалою Newcastle-Ottawa. А дослідження у JAMA Otolaryngology показало: у 22% пацієнтів з апное сну цей метод може завдати шкоди — тож без консультації лікаря експериментувати не варто.
   
-  <a href="https://longlife.faion.net/mouth-taping-son-khropinnia-dokazy-ryzyky/">Читати повністю →</a>
+  <a href="https://longlife.media/mouth-taping-son-khropinnia-dokazy-ryzyky/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -65,11 +65,11 @@ tg_post: |
 
 Абсолютні протипоказання за [Cleveland Clinic](https://health.clevelandclinic.org/mouth-taping): хронічна закладеність носа, алергії, викривлення перегородки, ОАС середнього та тяжкого ступеня.
 
-Як ми писали в [гайді з діагностики апное](https://longlife.faion.net/obstruktyvne-apnoe-snu-stop-bang-diagnostyka-likuvannia/), опитувальник STOP-BANG допомагає виявити ризик ОАС — пройди його перш ніж експериментувати.
+Як ми писали в [гайді з діагностики апное](https://longlife.media/obstruktyvne-apnoe-snu-stop-bang-diagnostyka-likuvannia/), опитувальник STOP-BANG допомагає виявити ризик ОАС — пройди його перш ніж експериментувати.
 
 ## Що можна зробити вже сьогодні 💪
 
-- **Пройди [STOP-BANG](https://longlife.faion.net/obstruktyvne-apnoe-snu-stop-bang-diagnostyka-likuvannia/)** — щоб виключити апное середнього й тяжкого ступеня.
+- **Пройди [STOP-BANG](https://longlife.media/obstruktyvne-apnoe-snu-stop-bang-diagnostyka-likuvannia/)** — щоб виключити апное середнього й тяжкого ступеня.
 - **Перевір носове дихання.** Якщо ніс часто закладений — розберися з цим із лікарем, а не клей рот.
 - **Якщо хропиш без апное та вільно дихаєш носом** — можеш спробувати пористу гіпоалергенну стрічку (не суцільну оклюзію). Почни вдень на 15–20 хвилин. При тривозі чи нестачі повітря — знімай одразу.
 

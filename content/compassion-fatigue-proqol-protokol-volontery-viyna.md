@@ -37,7 +37,7 @@ tg_post: |
   
   За даними PLOS Mental Health (2024), найбільше запитів на психодопомогу у 2022–2023 надходило саме від волонтерів. Втома від співчуття — не вигорання: вона вдаряє раптово й виснажує не від власних проблем, а від чужого болю. У статті — 5-кроковий протокол із науково валідованим тестом ProQOL, який за 5 хвилин покаже, чи час діяти.
   
-  <a href="https://longlife.faion.net/compassion-fatigue-proqol-protokol-volontery-viyna/">Читати повністю →</a>
+  <a href="https://longlife.media/compassion-fatigue-proqol-protokol-volontery-viyna/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -48,7 +48,7 @@ tg_post: |
 
 Клінічний психолог Чарльз Фіглі ще у [1995 році описав](https://psycnet.apa.org/record/1995-97891-001) compassion fatigue (CF) — втому від співчуття — як окремий синдром. Вигорання наростає поступово від робочого перевантаження. CF може з'явитися раптово: нав'язливі образи чужого болю, емоційне оніміння, уникання розмов, тривожність. Це ціна емпатії — і чим сильніше ти співпереживаєш, тим вразливіший.
 
-Раніше ми розбирали [техніки КПТ для тривожності](https://longlife.faion.net/cbt-self-help-anxiety-4-techniques/) та [експресивне письмо для обробки травми](https://longlife.faion.net/expressive-writing-pennebaker-trauma-immune-mental-health/). Але CF — інший випадок: виснажує не власна проблема, а чужий біль.
+Раніше ми розбирали [техніки КПТ для тривожності](https://longlife.media/cbt-self-help-anxiety-4-techniques/) та [експресивне письмо для обробки травми](https://longlife.media/expressive-writing-pennebaker-trauma-immune-mental-health/). Але CF — інший випадок: виснажує не власна проблема, а чужий біль.
 
 ## 💪 5-кроковий протокол
 

@@ -22,7 +22,7 @@ source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/34345275/"
   - "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2015.4150"
   - "https://www.mdpi.com/2072-6643/16/10/1442"
-  - "https://longlife.faion.net/vitamin-b12-defitsyt-vtoma-depresiya-diagnostyka-likuvannia/"
+  - "https://longlife.media/vitamin-b12-defitsyt-vtoma-depresiya-diagnostyka-likuvannia/"
 source_names:
   - "Niklewicz et al., Nutrition Bulletin 2024 (meta-analysis)"
   - "Nutrition Bulletin (Wiley) — Niklewicz 2024"
@@ -38,14 +38,14 @@ tg_post: |
   
   Свіжий огляд у Nutrition Bulletin (17 досліджень) показав: у веганів нижчі рівні активного B12 (HoloTC) і вищі MMA й гомоцистеїн — маркери, які «ламаються» ще до того, як стандартний аналіз покаже проблему. Чеське дослідження на 151 вегані підтвердило: без добавок композитний дефіцит мали 52,9%, а серед тих, хто приймав регулярно — лише 5,56%. Перші біохімічні ознаки з'являються вже через 2 роки без надходження B12, тож питання не «чи пити добавки», а «яку форму і дозу».
   
-  <a href="https://longlife.faion.net/b12-vegany-meta-analiz-2024-tsianokobalamin-metilkobalamin-doses/">Читати повністю →</a>
+  <a href="https://longlife.media/b12-vegany-meta-analiz-2024-tsianokobalamin-metilkobalamin-doses/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
 Привіт! Сьогодні розберемо тему, від якої багато хто на рослинному раціоні відмахується: вітамін B12. Спойлер — «я їм спіруліну, у мене все добре» тут не працює.
 
-Ми вже писали загальний [гайд про дефіцит B12, який маскується під втому і депресію](https://longlife.faion.net/vitamin-b12-defitsyt-vtoma-depresiya-diagnostyka-likuvannia/). Ця стаття — про конкретну групу: веганів. І про те, як правильно вибрати форму та дозу добавки. 🌿
+Ми вже писали загальний [гайд про дефіцит B12, який маскується під втому і депресію](https://longlife.media/vitamin-b12-defitsyt-vtoma-depresiya-diagnostyka-likuvannia/). Ця стаття — про конкретну групу: веганів. І про те, як правильно вибрати форму та дозу добавки. 🌿
 
 ## Що показав свіжий мета-аналіз
 

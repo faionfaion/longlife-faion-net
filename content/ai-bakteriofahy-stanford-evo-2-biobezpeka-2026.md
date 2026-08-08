@@ -39,7 +39,7 @@ tg_post: |
   
   У серпні 2026 команда Brian Hie опублікувала в Science роботу, де моделі Evo 1 та Evo 2 згенерували 302 варіанти геномів бактеріофагів — вірусів, що атакують лише бактерії (тут E. coli), а не людські клітини. З 285 синтезованих запрацювали 16 фагів (5,3%), і частина навіть перевершила природний ΦX174 — це відкриває шлях до персоналізованої терапії проти антибіотикорезистентних інфекцій.
   
-  <a href="https://longlife.faion.net/ai-bakteriofahy-stanford-evo-2-biobezpeka-2026/">Читати повністю →</a>
+  <a href="https://longlife.media/ai-bakteriofahy-stanford-evo-2-biobezpeka-2026/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---

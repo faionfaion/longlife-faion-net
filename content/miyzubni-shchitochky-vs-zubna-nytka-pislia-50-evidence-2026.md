@@ -24,7 +24,7 @@ source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC13050390/"
   - "https://pubmed.ncbi.nlm.nih.gov/29741239/"
   - "https://pubmed.ncbi.nlm.nih.gov/38997790/"
-  - "https://longlife.faion.net/parodontyt-sertse-zapalennia-yasen-sertsevo-sudynnyj-ryzyk/"
+  - "https://longlife.media/parodontyt-sertse-zapalennia-yasen-sertsevo-sudynnyj-ryzyk/"
 source_names:
   - "Worthington et al., Cochrane Database of Systematic Reviews 2019"
   - "Cochrane Library — CD012018.pub2"
@@ -41,7 +41,7 @@ tg_post: |
   
   Огляд Cochrane 2019 (35 РКД, 3929 учасників) показав: міжзубні щіточки + зубна щітка зменшують гінгівіт сильніше за нитку зі щіткою (SMD ≈ −0,40 за 4–6 тижнів). Це важливо, бо пародонтит має понад 40% дорослих після 30 років і напряму пов'язаний із серцево-судинним ризиком — щоденне очищення проміжків стає медичною процедурою, а не косметикою.
   
-  <a href="https://longlife.faion.net/miyzubni-shchitochky-vs-zubna-nytka-pislia-50-evidence-2026/">Читати повністю →</a>
+  <a href="https://longlife.media/miyzubni-shchitochky-vs-zubna-nytka-pislia-50-evidence-2026/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -50,7 +50,7 @@ tg_post: |
 
 Якщо коротко: за останні сім років доказова база послідовно зміщується на користь міжзубних щіточок (англ. interdental brushes, IDBs). Але нюансів багато, і саме в них уся практична користь.
 
-Це продовження нашої розмови. Місяць тому ми писали про те, як пародонтит — хронічне запалення тканин навколо зуба — пов'язаний із підвищеним ризиком серцево-судинних хвороб ([читати тут](https://longlife.faion.net/parodontyt-sertse-zapalennia-yasen-sertsevo-sudynnyj-ryzyk/)). Тоді ми зазначили: «флос або міжзубні йоржики — інструмент профілактики». Сьогодні даємо конкретну відповідь, що саме обрати.
+Це продовження нашої розмови. Місяць тому ми писали про те, як пародонтит — хронічне запалення тканин навколо зуба — пов'язаний із підвищеним ризиком серцево-судинних хвороб ([читати тут](https://longlife.media/parodontyt-sertse-zapalennia-yasen-sertsevo-sudynnyj-ryzyk/)). Тоді ми зазначили: «флос або міжзубні йоржики — інструмент профілактики». Сьогодні даємо конкретну відповідь, що саме обрати.
 
 ## Чому проміжки між зубами — найвразливіше місце
 

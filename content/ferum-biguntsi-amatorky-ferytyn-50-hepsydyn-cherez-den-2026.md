@@ -43,7 +43,7 @@ tg_post: |
   
   У жінок-спортсменок дефіцит заліза трапляється у 15–35% випадків, а поріг феритину &lt;30 мкг/л — уже привід діяти, навіть коли гемоглобін нормальний (Sim et al., 2019). Після важкого тренування гормон гепсидин злітає у 1,5–2,5 раза і блокує всмоктування заліза на ~24 години — тому добавки працюють краще через день, а не щодня (Moretti et al., Blood, 2015).
   
-  <a href="https://longlife.faion.net/ferum-biguntsi-amatorky-ferytyn-50-hepsydyn-cherez-den-2026/">Читати повністю →</a>
+  <a href="https://longlife.media/ferum-biguntsi-amatorky-ferytyn-50-hepsydyn-cherez-den-2026/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -77,9 +77,9 @@ tg_post: |
 - **<15 мкг/л** — біохімічний дефіцит за ВООЗ.
 - **<30 мкг/л** — червоний прапорець для бігунки: навіть при нормальному гемоглобіні варто йти до лікаря, а не «доспостерігати».
 - **≥50 мкг/л** — робочий орієнтир для витривалісного спорту, який використовують спортивні лікарі (синтез з [Pengelly, Journal of Sport and Health Science, 2025](https://pubmed.ncbi.nlm.nih.gov/39536912/) і Sim 2019). Систематичний огляд 669 спортсменок показав: дефіцит заліза знижує витривалість на 3–4%, а лікування покращує її на 2–20%.
-- **≥75 мкг/л** — поріг для синдрому неспокійних ніг за AASM 2024. Про це ми писали в матеріалі про [СНН у жінок після 40](https://longlife.faion.net/syndrom-nespokiynykh-nih-zhinky-40-feritin-75-aasm-2024/).
+- **≥75 мкг/л** — поріг для синдрому неспокійних ніг за AASM 2024. Про це ми писали в матеріалі про [СНН у жінок після 40](https://longlife.media/syndrom-nespokiynykh-nih-zhinky-40-feritin-75-aasm-2024/).
 
-Загальний контекст латентного дефіциту без анемії — у нашій статті [«Залізодефіцит без анемії»](https://longlife.faion.net/zalizodefitsyt-bez-anemii-feritin-vtoma-zalizo-cherez-den/).
+Загальний контекст латентного дефіциту без анемії — у нашій статті [«Залізодефіцит без анемії»](https://longlife.media/zalizodefitsyt-bez-anemii-feritin-vtoma-zalizo-cherez-den/).
 
 ## Цикл теж має значення
 

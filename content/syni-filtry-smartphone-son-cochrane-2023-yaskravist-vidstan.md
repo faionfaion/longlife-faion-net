@@ -39,7 +39,7 @@ tg_post: |
   
   Аналіз 17 РКД на 619 дорослих не знайшов клінічно значущого впливу фільтрів на зорову втому, а щодо сну докази оцінили як дуже низької певності. Що працює насправді — зменшити яскравість екрана ввечері та тримати телефон на відстані 40+ см, бо ключова змінна це меланопічна доза світла, а не «синій» спектр.
   
-  <a href="https://longlife.faion.net/syni-filtry-smartphone-son-cochrane-2023-yaskravist-vidstan/">Читати повністю →</a>
+  <a href="https://longlife.media/syni-filtry-smartphone-son-cochrane-2023-yaskravist-vidstan/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -50,7 +50,7 @@ tg_post: |
 
 [Американська академія офтальмології](https://www.aao.org/eye-health/tips-prevention/are-computer-glasses-worth-it) прямо не рекомендує такі окуляри — бракує наукових підстав.
 
-Ми вже писали про [здоров'я очей за екраном загалом](https://longlife.faion.net/blue-light-glasses-debunked-eye-health-screen-guide/) — сьогодні фокус вужчий: смартфон у ліжку.
+Ми вже писали про [здоров'я очей за екраном загалом](https://longlife.media/blue-light-glasses-debunked-eye-health-screen-guide/) — сьогодні фокус вужчий: смартфон у ліжку.
 
 ## Що насправді впливає на сон
 

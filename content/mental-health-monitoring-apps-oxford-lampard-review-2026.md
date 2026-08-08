@@ -53,7 +53,7 @@ tg_post: |
   
   У Google Play та App Store — понад 10 000 mental health застосунків, але менш ніж 5% мають хоч якусь доказову базу. Найбільший мета-аналіз 66 RCT показав лише малі ефекти: покращення депресії за шкалою PHQ-9 у середньому на 1–2 бали — статистично значуще, але клінічно скромно порівняно з живою терапією.
   
-  <a href="https://longlife.faion.net/mental-health-monitoring-apps-oxford-lampard-review-2026/">Читати повністю →</a>
+  <a href="https://longlife.media/mental-health-monitoring-apps-oxford-lampard-review-2026/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -72,7 +72,7 @@ tg_post: |
 
 Що таке g≈0.28 простими словами? Це приблизно чверть стандартного відхилення — маленький, але помітний зсув. На практиці, якщо міряти депресію шкалою PHQ-9 (0–27 балів), середнє покращення від застосунку виходить десь на 1–2 бали більше, ніж без нього. Статистично значуще — але клінічно скромно, особливо якщо порівняти з ефектом живої терапії чи медикаментів.
 
-Нагадаємо, ми вже [розбирали Headspace і Calm окремо](https://longlife.faion.net/medytatsiyni-zastosunky-headspace-calm-rct-stres-tryvoga/) — там та сама історія: g≈0.28 і половина досліджень з конфліктом інтересів.
+Нагадаємо, ми вже [розбирали Headspace і Calm окремо](https://longlife.media/medytatsiyni-zastosunky-headspace-calm-rct-stres-tryvoga/) — там та сама історія: g≈0.28 і половина досліджень з конфліктом інтересів.
 
 ## Мільярди інвестицій — і закриті двері
 

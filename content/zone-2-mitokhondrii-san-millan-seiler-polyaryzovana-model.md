@@ -23,8 +23,8 @@ source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC7142223/"
   - "https://peterattiamd.com/inigosanmillan2/"
   - "https://my.clevelandclinic.org/health/articles/24649-heart-rate-reserve"
-  - "https://longlife.faion.net/zone-2-cardio-beginners-guide/"
-  - "https://longlife.faion.net/vo2max-domashni-testy-norwegian-4x4-12-tyzhniv-protokol/"
+  - "https://longlife.media/zone-2-cardio-beginners-guide/"
+  - "https://longlife.media/vo2max-domashni-testy-norwegian-4x4-12-tyzhniv-protokol/"
 source_names:
   - "San Millán & Brooks, Sports Medicine 2018"
   - "Granata, Jamnick & Bishop, Sports Medicine 2018"
@@ -39,7 +39,7 @@ tg_post: |
   
   Це інтенсивність на рівні 60–70% від максимального пульсу, коли лактат у крові тримається нижче 2 ммоль/л. Дослідження San Millán і Brooks (Sports Medicine, 2018) показало: елітні велогонщики на високих швидкостях тримають низький лактат — їхні мітохондрії спалюють жир, не «вмикаючи» цукор завчасно. А огляд Granata та колег уточнює: об'єм тренувань нарощує кількість мітохондрій через білок PGC-1α, а інтенсивність покращує якість їхньої роботи.
   
-  <a href="https://longlife.faion.net/zone-2-mitokhondrii-san-millan-seiler-polyaryzovana-model/">Читати повністю →</a>
+  <a href="https://longlife.media/zone-2-mitokhondrii-san-millan-seiler-polyaryzovana-model/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -77,7 +77,7 @@ Zone 2 — це інтенсивність приблизно на рівні 60
 2. **Метод Karvonen (HRR, резерв пульсу)** — точніший за %HRmax. Формула: ((HRmax − HRrest) × 0,6–0,7) + HRrest ([Cleveland Clinic](https://my.clevelandclinic.org/health/articles/24649-heart-rate-reserve)).
 3. **Формула Maffetone «180−вік»** — популярна, але має слабку доказову базу: число 180 не прив'язане до лактатного порогу і не враховує індивідуальної варіативності HRmax ±10–15 уд/хв ([Maffetone & Laursen, 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7142223/)).
 
-Жодна з цих формул не замінює прямий вимір лактату чи газоаналіз — це лише наближення. Для деталей виміру — наш [гайд для початківців по Zone 2](https://longlife.faion.net/zone-2-cardio-beginners-guide/).
+Жодна з цих формул не замінює прямий вимір лактату чи газоаналіз — це лише наближення. Для деталей виміру — наш [гайд для початківців по Zone 2](https://longlife.media/zone-2-cardio-beginners-guide/).
 
 ## Скільки треба
 
@@ -91,7 +91,7 @@ San Millán рекомендує 4 сесії по 1–1,5 години — то
 
 - **Спробуй talk test на найближчій прогулянці:** прискорся до пульсу, при якому ще можеш говорити реченнями, але вже не співаєш. Це твоя приблизна Zone 2.
 - **Постав ціль 3 сесії по 45–60 хвилин на тиждень** — велосипед, швидка ходьба з нахилом, легкий біг. Якщо встигаєш менше — орієнтуйся хоча б на 150 хв/тиждень за ВООЗ.
-- **Додай 1 інтервальну сесію** — без неї картина неповна. Готовий протокол — у нашому матеріалі про [норвезький 4×4 на 12 тижнів](https://longlife.faion.net/vo2max-domashni-testy-norwegian-4x4-12-tyzhniv-protokol/).
+- **Додай 1 інтервальну сесію** — без неї картина неповна. Готовий протокол — у нашому матеріалі про [норвезький 4×4 на 12 тижнів](https://longlife.media/vo2max-domashni-testy-norwegian-4x4-12-tyzhniv-protokol/).
 - **Перевір свої зони раз на кілька місяців** — пульс на тому самому темпі зазвичай знижується з адаптацією, тож «розмовний поріг» теж зсувається.
 
 Якщо є серцево-судинні діагнози чи ти давно не тренувався — спершу до лікаря, лише потім до пульсометра. 💪

@@ -39,7 +39,7 @@ tg_post: |
   
   У дослідженні фази 2b в NEJM (Goodwin, 2022, N=233) одна доза 25 мг псилоцибіну знижувала бали депресії за шкалою MADRS сильніше за контроль — різниця −6,6 бала (p30% досягли ремісії, та до 12-го тижня перевага не втрималась. У 2025 році COMPASS повідомила про перше позитивне випробування фази 3 (різниця з плацебо −3,6 бала), однак результати другого ключового дослідження ще очікуються. Важливо: у клініці ці речовини дають не як «таблетку», а в точній дозі під супроводом психотерапевтів — це геть інша історія, ніж самостійне вживання.
   
-  <a href="https://longlife.faion.net/psylocybin-mdma-ptsr-depresiya-fda-vidmova-2026-vyprobuvannia/">Читати повністю →</a>
+  <a href="https://longlife.media/psylocybin-mdma-ptsr-depresiya-fda-vidmova-2026-vyprobuvannia/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -72,7 +72,7 @@ tg_post: |
 
 Поза клінікою псилоцибін і MDMA несуть реальні ризики — важкі «погані трипи», провокація психозу в схильних людей, небезпечні взаємодії з антидепресантами групи СІЗЗС. В Україні ці речовини в незаконному обігу, і жодного схваленого лікування немає.
 
-На відміну від психоделіків, [EMDR і травмофокусована КПТ](https://longlife.faion.net/emdr-therapy-ptsr-eye-movement-desensitization-ukraine-access/) — це доказова перша лінія терапії ПТСР, яку ВООЗ рекомендує вже зараз. Ситуація нагадує історію з [медичним канабісом](https://longlife.faion.net/cannabis-reclassification-usa-medical-evidence-pain-epilepsy-psychosis-risks/): ажіотаж нерідко випереджає докази.
+На відміну від психоделіків, [EMDR і травмофокусована КПТ](https://longlife.media/emdr-therapy-ptsr-eye-movement-desensitization-ukraine-access/) — це доказова перша лінія терапії ПТСР, яку ВООЗ рекомендує вже зараз. Ситуація нагадує історію з [медичним канабісом](https://longlife.media/cannabis-reclassification-usa-medical-evidence-pain-epilepsy-psychosis-risks/): ажіотаж нерідко випереджає докази.
 
 ## Що можна зробити вже сьогодні
 

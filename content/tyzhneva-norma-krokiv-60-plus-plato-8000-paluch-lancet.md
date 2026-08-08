@@ -22,7 +22,7 @@ source_urls:
   - "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2796058"
   - "https://academic.oup.com/eurjpc/article/30/18/1975/7226309"
   - "https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(25)00247-6/fulltext"
-  - "https://longlife.faion.net/7000-krokiv-vs-10000-meta-analiz-smertnist-vik/"
+  - "https://longlife.media/7000-krokiv-vs-10000-meta-analiz-smertnist-vik/"
 source_names:
   - "The Lancet Public Health — Ding et al., 2025"
   - "PubMed — Ding et al., 2025"
@@ -38,14 +38,14 @@ tg_post: |
   
   Мета-аналіз Paluch 2022 на 47 471 учаснику показав: у людей 60+ ризик смертності знижується до 6000–8000 кроків на день, а в молодших — до 8000–10 000. Свіжий огляд у The Lancet Public Health (Ding, 2025) підтверджує: легендарні 10 000 — це маркетинг, а не наука, і для більшості достатньо ~7000 кроків.
   
-  <a href="https://longlife.faion.net/tyzhneva-norma-krokiv-60-plus-plato-8000-paluch-lancet/">Читати повністю →</a>
+  <a href="https://longlife.media/tyzhneva-norma-krokiv-60-plus-plato-8000-paluch-lancet/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
 Привіт! Сьогодні розберемо тему, яка особливо стосується тих, кому за 60 (і тих, у кого такі батьки й бабусі): скільки кроків реально потрібно на день і на тиждень, щоб отримати максимум користі для здоров'я.
 
-Свіжий дозозалежний мета-аналіз у *The Lancet Public Health* (Ding та колеги, липень 2025) переглянув легендарну цифру 10 000 кроків для дорослих загалом: криві смертності виходять на плато вже приблизно на 7000 кроках на день ([повний текст](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(25)00164-1/fulltext)). Як ми вже писали в матеріалі [«7000 кроків замість 10 000»](https://longlife.faion.net/7000-krokiv-vs-10000-meta-analiz-smertnist-vik/), для дорослих у середньому цього достатньо для −47% ризику смертності від усіх причин порівняно з 2000 кроків.
+Свіжий дозозалежний мета-аналіз у *The Lancet Public Health* (Ding та колеги, липень 2025) переглянув легендарну цифру 10 000 кроків для дорослих загалом: криві смертності виходять на плато вже приблизно на 7000 кроках на день ([повний текст](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(25)00164-1/fulltext)). Як ми вже писали в матеріалі [«7000 кроків замість 10 000»](https://longlife.media/7000-krokiv-vs-10000-meta-analiz-smertnist-vik/), для дорослих у середньому цього достатньо для −47% ризику смертності від усіх причин порівняно з 2000 кроків.
 
 Необхідне уточнення: −47% — це **відносне** зниження ризику за спостережними даними (тобто у групі, яка ходила ~7000 кроків, смертність була приблизно вдвічі нижча, ніж у групі з 2000). Це не означає, що ваш особистий ризик зменшиться на 47 абсолютних відсоткових пунктів — абсолютна різниця значно менша й залежить від віку та вихідного здоров'я.
 

@@ -43,7 +43,7 @@ tg_post: |
   
   На борту MV Hondius після рейсу з Аргентини в Антарктиду зафіксовано 8 підтверджених випадків та 3 смерті від Andes orthohantavirus. Філогенетичний аналіз вказав на єдине джерело — пасажира, який перед круїзом провів 4 місяці у Південній Америці; CDC рекомендує спостерігати контактних осіб до 42 днів. Для України прямої загрози немає — вірус передається переважно через аерозолі з екскрементів гризунів, а не від людини до людини.
   
-  <a href="https://longlife.faion.net/hantavirus-mv-hondius-tenerife-2026-ukraina-puumala-dobrava/">Читати повністю →</a>
+  <a href="https://longlife.media/hantavirus-mv-hondius-tenerife-2026-ukraina-puumala-dobrava/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---

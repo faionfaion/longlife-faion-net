@@ -37,7 +37,7 @@ tg_post: |
   
   Парасольковий огляд у Nutrients (2023) показав: регулярні спільні прийоми їжі стабільно пов'язані з кращими харчовими звичками та вищим психосоціальним благополуччям у різних вікових групах. А дослідження у JAMA Pediatrics на майже 19 000 підлітків виявило, що сімейні вечері 4+ рази на тиждень послаблюють вплив кібербулінгу на депресію й тривожність.
   
-  <a href="https://longlife.faion.net/sotsialne-kharchuvannya-nedilnyi-obid-rodyna-depresiya-harvard/">Читати повністю →</a>
+  <a href="https://longlife.media/sotsialne-kharchuvannya-nedilnyi-obid-rodyna-depresiya-harvard/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -72,7 +72,7 @@ tg_post: |
 
 Найдовше у світі дослідження щастя триває з 1938 року. Його керівник Роберт Волдінгер у книзі *The Good Life* (2023) підсумовує: якість стосунків у 50 років передбачає фізичне здоров'я у 80 краще, ніж рівень холестерину ([джерело](https://www.robertwaldinger.com/post/author-talks-the-world-s-longest-study-of-adult-development-finds-the-key-to-happy-living)).
 
-І це працює не через грандіозні події, а через щоденні ритуали — зокрема через спільну їжу. Недільний обід — саме така «мала церемонія близькості». Про ширший контекст соціальних зв'язків ми писали [тут](https://longlife.faion.net/samotnist-smertist-meta-analiz-sotsialna-izolatsiia-who-2025/).
+І це працює не через грандіозні події, а через щоденні ритуали — зокрема через спільну їжу. Недільний обід — саме така «мала церемонія близькості». Про ширший контекст соціальних зв'язків ми писали [тут](https://longlife.media/samotnist-smertist-meta-analiz-sotsialna-izolatsiia-who-2025/).
 
 ## Український контекст: коли рідні за 2000 км
 

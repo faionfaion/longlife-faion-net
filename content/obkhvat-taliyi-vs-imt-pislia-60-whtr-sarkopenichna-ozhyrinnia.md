@@ -41,7 +41,7 @@ tg_post: |
   
   Кожні +5% співвідношення талії до зросту (WHtR) дають +24% ризику інфаркту — і цей показник обійшов навіть відсоток жиру в тілі. ІМТ підводить після 60, бо не бачить саркопенічного ожиріння: м'язи тихо зникають, а вісцеральний жир накопичується навколо органів. Практичний орієнтир — тримати обхват талії меншим за половину свого зросту.
   
-  <a href="https://longlife.faion.net/obkhvat-taliyi-vs-imt-pislia-60-whtr-sarkopenichna-ozhyrinnia/">Читати повністю →</a>
+  <a href="https://longlife.media/obkhvat-taliyi-vs-imt-pislia-60-whtr-sarkopenichna-ozhyrinnia/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---

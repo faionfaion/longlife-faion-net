@@ -12,7 +12,7 @@ from pipeline.config import RSS_FEEDS
 logger = logging.getLogger(__name__)
 
 _USER_AGENT = (
-    "Mozilla/5.0 (compatible; LongLifeBot/1.0; +https://longlife.faion.net)"
+    "Mozilla/5.0 (compatible; LongLifeBot/1.0; +https://longlife.media)"
 )
 
 

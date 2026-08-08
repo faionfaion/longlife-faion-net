@@ -25,7 +25,7 @@ source_urls:
   - "https://academic.oup.com/eurheartj/article/46/36/3532/8202919"
   - "https://www.jsams.org/article/S1440-2440(23)00042-7/pdf"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC9655086/"
-  - "https://longlife.faion.net/sunday-shutdown-ritual-20-min-worry-postponement-newport/"
+  - "https://longlife.media/sunday-shutdown-ritual-20-min-worry-postponement-newport/"
 source_names:
   - "British Heart Foundation"
   - "Royal College of Surgeons in Ireland"
@@ -43,7 +43,7 @@ tg_post: |
   
   Аналіз 10 528 випадків STEMI в Ірландії виявив на 13% більше найважчих інфарктів саме в понеділок, а свіже дослідження в журналі Medicina (2026) підтвердило: понеділок дає 19,6% усіх гострих подій проти 10,6% у неділю. Найнебезпечніше вікно — ранок 06:00–10:00, на який припадає 37,4% епізодів, тож людям з гіпертонією чи ІХС варто обговорити з кардіологом інтенсивність понеділкових тренувань.
   
-  <a href="https://longlife.faion.net/monday-effect-stemi-ranok-kardio-bhf-2025/">Читати повністю →</a>
+  <a href="https://longlife.media/monday-effect-stemi-ranok-kardio-bhf-2025/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -66,7 +66,7 @@ tg_post: |
 
 Вранці одночасно піднімаються: кортизол (гормон стресу), артеріальний тиск, частота серцевих скорочень і **агрегабельність тромбоцитів** — здатність склеюватися в тромби (Tofler, *NEJM* 1987). Плюс ендогенний пік PAI-1 — білка, який гальмує розчинення тромбів (Scheer et al., *Blood* 2014, [посилання](https://ashpublications.org/blood/article/123/4/590)).
 
-Тепер накладемо на це понеділковий контекст. Ми вже писали про [недільний shutdown-ритуал](https://longlife.faion.net/sunday-shutdown-ritual-20-min-worry-postponement-newport/) і згадували роботу Devereux et al. (*Psychological Reports*, 2011): ранковий кортизол у понеділок вищий, ніж в інші дні тижня. Anticipatory anxiety недільного вечора → сплеск кортизолу вранці → додатковий тиск на і без того вразливе циркадне вікно.
+Тепер накладемо на це понеділковий контекст. Ми вже писали про [недільний shutdown-ритуал](https://longlife.media/sunday-shutdown-ritual-20-min-worry-postponement-newport/) і згадували роботу Devereux et al. (*Psychological Reports*, 2011): ранковий кортизол у понеділок вищий, ніж в інші дні тижня. Anticipatory anxiety недільного вечора → сплеск кортизолу вранці → додатковий тиск на і без того вразливе циркадне вікно.
 
 ## А як щодо ранкового тренування?
 

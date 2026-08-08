@@ -43,7 +43,7 @@ tg_post: |
   
   Ідеться про фампридин (Fampyra) — симптоматичну терапію, яка блокує калієві канали й покращує проведення сигналу в демієлінізованих аксонах. У дослідженні MS-F203 (Lancet) покращення ходи отримали 35% пацієнтів проти 8% на плацебо, а у «респондерів» швидкість зросла на 25,2%. Це не DMT — хворобу препарат не сповільнює, а справжній next-gen толебрутиніб досі чекає рішення NICE.
   
-  <a href="https://longlife.faion.net/ms-nhs-fampridine-tolebrutinib-2026-ukraina-btk-inhibitory/">Читати повністю →</a>
+  <a href="https://longlife.media/ms-nhs-fampridine-tolebrutinib-2026-ukraina-btk-inhibitory/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -76,7 +76,7 @@ BTK (Bruton's tyrosine kinase) — фермент, що керує робото�
 
 [Наказ МОЗ №1723](https://moz.gov.ua/uk/scho-treba-znati-pro-rozsijanij-skleroz-pojasnjue-ekspert) покриває інтерферон бета, глатирамеру ацетат, фінголімод, диметилфумарат. Окрелізумаб, наталізумаб, кладрибін і BTK-інгібітори — **поза держпрограмою**. За оцінками UMJ, 51–75% пацієнтів купують DMT самостійно. Доступ до новіших препаратів — через програми Roche patient support і благодійні фонди на кшталт Українського центру розсіяного склерозу.
 
-Ми вже писали про схожу колізію «прорив у науці ≠ прорив для пацієнта» на прикладі препаратів проти Альцгеймера — [читай тут](https://longlife.faion.net/lekanemab-donanemab-alzheimer-drugs-vs-prevention/).
+Ми вже писали про схожу колізію «прорив у науці ≠ прорив для пацієнта» на прикладі препаратів проти Альцгеймера — [читай тут](https://longlife.media/lekanemab-donanemab-alzheimer-drugs-vs-prevention/).
 
 ## Що можна зробити вже сьогодні
 

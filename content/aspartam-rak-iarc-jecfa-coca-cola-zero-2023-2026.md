@@ -24,7 +24,7 @@ source_urls:
   - "https://www.who.int/news/item/15-05-2023-who-advises-not-to-use-non-sugar-sweeteners-for-weight-control-in-newly-released-guideline"
   - "https://advances.nutrition.org/article/S2161-8313(25)00165-6/fulltext"
   - "https://world.openfoodfacts.org/product/5449000131805/coke-zero-can-coca-cola"
-  - "https://longlife.faion.net/shtuchni-pidsolodzhuvachi-vooz-meta-analiz-mikrobiom-rak/"
+  - "https://longlife.media/shtuchni-pidsolodzhuvachi-vooz-meta-analiz-mikrobiom-rak/"
 source_names:
   - "IARC Monographs Volume 134 (WHO)"
   - "IARC Summary of Findings: Aspartame"
@@ -42,7 +42,7 @@ tg_post: |
   
   Група 2B означає лише обмежені докази — поряд туди потрапили алое віра та мариновані овочі. Підставою стали 3 дослідження зв'язку солодких напоїв із раком печінки, де самі автори не виключили випадковість. Паралельно JECFA (ФАО/ВООЗ) залишив допустиму добову дозу без змін — реальний ризик за звичайних порцій не підтверджено.
   
-  <a href="https://longlife.faion.net/aspartam-rak-iarc-jecfa-coca-cola-zero-2023-2026/">Читати повністю →</a>
+  <a href="https://longlife.media/aspartam-rak-iarc-jecfa-coca-cola-zero-2023-2026/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -84,7 +84,7 @@ IARC у [Monographs Volume 134](https://www.iarc.who.int/news-events/iarc-monogr
 
 *ADI для стевії — 4 мг/кг у перерахунку на стевіолові еквіваленти (steviol equivalents) за методологією JECFA, а не на масу готового екстракту. У перерахунку на звичайні стевіолові глікозиди це відповідає приблизно 12 мг/кг.
 
-Як ми вже [писали про некалорійні підсолоджувачі загалом](https://longlife.faion.net/shtuchni-pidsolodzhuvachi-vooz-meta-analiz-mikrobiom-rak/), ВООЗ у 2023 році не радить їх для схуднення — але це не про рак, а про відсутність користі для маси тіла.
+Як ми вже [писали про некалорійні підсолоджувачі загалом](https://longlife.media/shtuchni-pidsolodzhuvachi-vooz-meta-analiz-mikrobiom-rak/), ВООЗ у 2023 році не радить їх для схуднення — але це не про рак, а про відсутність користі для маси тіла.
 
 ## Що можна зробити вже сьогодні 🥗
 

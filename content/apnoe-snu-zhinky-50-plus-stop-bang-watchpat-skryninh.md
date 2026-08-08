@@ -38,7 +38,7 @@ tg_post: |
   
   Огляд у Gender and the Genome показує: співвідношення чоловіки:жінки з OSA у клініках сягає 8–10:1, хоча в популяції — лише 2–3:1. Опитувальник STOP-BANG з чутливістю 88–92% у змішаних вибірках у жінок середнього віку працює помітно гірше — і саме тому багато випадків пропускають.
   
-  <a href="https://longlife.faion.net/apnoe-snu-zhinky-50-plus-stop-bang-watchpat-skryninh/">Читати повністю →</a>
+  <a href="https://longlife.media/apnoe-snu-zhinky-50-plus-stop-bang-watchpat-skryninh/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -47,7 +47,7 @@ tg_post: |
 
 За даними огляду в *European Respiratory Review* (Bonsignore, 2019), у популяційних дослідженнях співвідношення чоловіки:жінки з OSA становить 2–3:1. Але в сонологічних клініках воно стрибає до 8–10:1 — тобто жінки з апное просто не доходять до сомнолога ([посилання](https://err.ersjournals.com/content/28/154/190030)). Огляд у *Gender and the Genome* (Lastra & Attarian, 2018) наводить ще жорсткішу цифру: **за експертною оцінкою авторів огляду, до 75% жінок з OSA залишаються без діагнозу** ([посилання](https://journals.sagepub.com/doi/full/10.1177/2470289718787107)). Це редакційна оцінка на основі клінічного досвіду, а не результат окремого епідеміологічного дослідження — але вона відображає масштаб проблеми.
 
-Ми вже писали про [опитувальник STOP-BANG як інструмент скринінгу апное](https://longlife.faion.net/obstruktyvne-apnoe-snu-stop-bang-diagnostyka-likuvannia/) і про [комбінацію Epworth + STOP-BANG для оцінки серцевого ризику](https://longlife.faion.net/epworth-shkala-sonlyvosti-stop-bang-apnoe-snu-cpap-sertse/). Сьогодні — важлива поправка до тих матеріалів: у жінок ці інструменти працюють помітно гірше. І є новіший варіант — домашній тест WatchPAT.
+Ми вже писали про [опитувальник STOP-BANG як інструмент скринінгу апное](https://longlife.media/obstruktyvne-apnoe-snu-stop-bang-diagnostyka-likuvannia/) і про [комбінацію Epworth + STOP-BANG для оцінки серцевого ризику](https://longlife.media/epworth-shkala-sonlyvosti-stop-bang-apnoe-snu-cpap-sertse/). Сьогодні — важлива поправка до тих матеріалів: у жінок ці інструменти працюють помітно гірше. І є новіший варіант — домашній тест WatchPAT.
 
 ## Чому STOP-BANG «промахує» у жінок
 
@@ -70,7 +70,7 @@ STOP-BANG — це вісім питань: хропіння, втома, спо
 - **Депресія, яка не піддається антидепресантам.** Огляд у *Frontiers in Physiology* (Martins & Conde, 2021) описує це як типовий патерн: настрій не покращується, поки не пролікували апное ([посилання](https://pmc.ncbi.nlm.nih.gov/articles/PMC8712658/)).
 - **Хронічна втома і неосвіжаючий сон.** «Спала 8 годин, а встала розбитою».
 - **Ніктурія** — часті нічні походи в туалет.
-- **Бруксизм** — стирання зубів уві сні. Про цей зв'язок ми детально писали [окремо](https://longlife.faion.net/bruksyzm-son-stres-apnoe-ne-prykus-likuvannia/).
+- **Бруксизм** — стирання зубів уві сні. Про цей зв'язок ми детально писали [окремо](https://longlife.media/bruksyzm-son-stres-apnoe-ne-prykus-likuvannia/).
 
 ## Чому саме менопауза
 

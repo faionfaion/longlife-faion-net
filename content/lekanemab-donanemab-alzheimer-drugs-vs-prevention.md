@@ -46,7 +46,7 @@ tg_post: |
   
   Леканемаб і донанемаб — перші ліки, що прибирають амілоїдні бляшки з мозку. У дослідженнях CLARITY AD та TRAILBLAZER-ALZ 2 (понад 3 500 учасників) вони сповільнили зниження когніції на 27–35%. Але в абсолютних цифрах це лише 0,45–0,67 бала на 18-бальній шкалі — різниця, яку родини практично не помічають у повсякденному житті. Прорив у науці є, а от прорив для пацієнтів — поки під великим питанням.
   
-  <a href="https://longlife.faion.net/lekanemab-donanemab-alzheimer-drugs-vs-prevention/">Читати повністю →</a>
+  <a href="https://longlife.media/lekanemab-donanemab-alzheimer-drugs-vs-prevention/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -110,14 +110,14 @@ ARIA (Amyloid-Related Imaging Abnormalities) — це побічний ефек�
 - 🧁 **Ожиріння** (у середньому віці)
 - 🚬 **Куріння**
 - 😔 **Депресія**
-- 🤝 **Соціальна ізоляція** — [ми детально писали про її вплив](https://longlife.faion.net/social-connections-longevity-research/)
+- 🤝 **Соціальна ізоляція** — [ми детально писали про її вплив](https://longlife.media/social-connections-longevity-research/)
 - 🏃 **Фізична неактивність**
 - 🏭 **Забруднення повітря** (дрібні частки PM2.5)
 - 💊 **Діабет 2-го типу**
 - 👁️ **Втрата зору** (без корекції — новий фактор у 2024)
 - 🩸 **Підвищений холестерин ЛПНЩ** (новий фактор у 2024)
 
-Що стосується харчування — нагадаємо, що [ультраоброблені продукти підвищують ризик деменції](https://longlife.faion.net/ultraobrobleni-produkty-dementsiia-kohortni-doslidzhennia/) за даними когортних досліджень.
+Що стосується харчування — нагадаємо, що [ультраоброблені продукти підвищують ризик деменції](https://longlife.media/ultraobrobleni-produkty-dementsiia-kohortni-doslidzhennia/) за даними когортних досліджень.
 
 ## Що це означає для України
 

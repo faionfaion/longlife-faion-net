@@ -21,7 +21,7 @@ source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12682401/"
   - "https://journals.lww.com/jhypertension/fulltext/9900/acute_blood_pressure_responses_to_plank_and_wall.785.aspx"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12053447/"
-  - "https://longlife.faion.net/izometrychni-vpravy-hipertonia-wall-sit-bjsm-meta-analiz/"
+  - "https://longlife.media/izometrychni-vpravy-hipertonia-wall-sit-bjsm-meta-analiz/"
 source_names:
   - "British Journal of Sports Medicine (Edwards et al., 2023)"
   - "BMC Sports Science, Medicine and Rehabilitation (Zhou et al., 2025)"
@@ -35,14 +35,14 @@ tg_post: |
   
   Свіжий багаторівневий мета-аналіз Zhou 2025 (30 РКД) підтвердив: ізометричні вправи знижують систолічний тиск на −7,31 мм рт.ст., а діастолічний — на −3,90. У прямому порівнянні wall-squat дав −9,84 мм рт.ст. проти −5,72 у ручного динамометра, хоча після 60+ ефект помітно слабший.
   
-  <a href="https://longlife.faion.net/planka-vs-wall-sit-tysk-zhou-jung-2025-onovlennya/">Читати повністю →</a>
+  <a href="https://longlife.media/planka-vs-wall-sit-tysk-zhou-jung-2025-onovlennya/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
 Привіт! Є свіжі новини з лабораторій — і вони уточнюють історію, яку ми вже розповідали про ізометричні вправи (статичні утримання м'язів без руху) проти гіпертонії. 🔬
 
-Нагадаю коротко: у 2023 році мета-аналіз у British Journal of Sports Medicine (270 рандомізованих досліджень, 15 827 учасників) показав, що ізометричні вправи знижують систолічний тиск на 8,24 мм рт.ст. — сильніше за аеробіку, силові й навіть HIIT. Wall-sit (присідання біля стіни) лідирував із рейтингом SUCRA 90,4% ([BJSM 2023](https://pubmed.ncbi.nlm.nih.gov/37491419/)). Про це ми детально писали [ось тут](https://longlife.faion.net/izometrychni-vpravy-hipertonia-wall-sit-bjsm-meta-analiz/).
+Нагадаю коротко: у 2023 році мета-аналіз у British Journal of Sports Medicine (270 рандомізованих досліджень, 15 827 учасників) показав, що ізометричні вправи знижують систолічний тиск на 8,24 мм рт.ст. — сильніше за аеробіку, силові й навіть HIIT. Wall-sit (присідання біля стіни) лідирував із рейтингом SUCRA 90,4% ([BJSM 2023](https://pubmed.ncbi.nlm.nih.gov/37491419/)). Про це ми детально писали [ось тут](https://longlife.media/izometrychni-vpravy-hipertonia-wall-sit-bjsm-meta-analiz/).
 
 А тепер — що нового у 2025-му.
 

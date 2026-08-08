@@ -42,7 +42,7 @@ tg_post: |
   
   Після перебування серед дерев систолічний тиск був у середньому на 3,15 мм рт. ст. нижчим, ніж після міста, а у людей із підвищеним тиском — аж на 6,33 мм рт. ст. (BMC, 2017). Польові дослідження в Японії також фіксують нижчий кортизол — гормон стресу — після лісу. Робоча «доза» за даними Scientific Reports (n=19 806): від 120 хвилин на тиждень на природі, бажано 200–300 — і неважливо, одна довга прогулянка чи кілька коротких.
   
-  <a href="https://longlife.faion.net/lisove-kupannia-shinrin-yoku-tysk-kortyzol-2-hodyny-lis/">Читати повністю →</a>
+  <a href="https://longlife.media/lisove-kupannia-shinrin-yoku-tysk-kortyzol-2-hodyny-lis/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -72,6 +72,6 @@ tg_post: |
 - Якщо лікуєш гіпертонію — продовжуй приймати препарати; ліс додає, а не замінює.
 - За наявності серцево-судинних діагнозів — звір план прогулянок із лікарем.
 
-Деталі про імунний бік ми вже розбирали у [квітневій статті про шинрін-йоку](https://longlife.faion.net/shinrin-yoku-lisovi-kupannia-imunitet-psykhika/), а як вписати лісову прогулянку у вихідний — у [суботньому 90-хвилинному протоколі](https://longlife.faion.net/subota-aktyvnyi-vidpochynok-90-khvylyn-protokol-ofisni-pratsivnyky/). ⏳
+Деталі про імунний бік ми вже розбирали у [квітневій статті про шинрін-йоку](https://longlife.media/shinrin-yoku-lisovi-kupannia-imunitet-psykhika/), а як вписати лісову прогулянку у вихідний — у [суботньому 90-хвилинному протоколі](https://longlife.media/subota-aktyvnyi-vidpochynok-90-khvylyn-protokol-ofisni-pratsivnyky/). ⏳
 
 **Теги:** #шинрін_йоку #лісове_купання #тиск #кортизол #стрес #профілактика

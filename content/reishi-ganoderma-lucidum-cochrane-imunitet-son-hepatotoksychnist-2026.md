@@ -37,7 +37,7 @@ tg_post: |
   
   Огляд Cochrane 2016 (5 РКД, 373 пацієнти) виявив: жодне дослідження не оцінювало виживання при онкозахворюваннях, а як монотерапія рейши пухлини не зменшував. Свіжий GRADE-мета-аналіз 2025 (17 РКД, 971 учасник) не знайшов переконливого сигналу для імунітету чи сну у здорових дорослих — більшість доказів мають низьку достовірність.
   
-  <a href="https://longlife.faion.net/reishi-ganoderma-lucidum-cochrane-imunitet-son-hepatotoksychnist-2026/">Читати повністю →</a>
+  <a href="https://longlife.media/reishi-ganoderma-lucidum-cochrane-imunitet-son-hepatotoksychnist-2026/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -74,7 +74,7 @@ Memorial Sloan Kettering — один з провідних онкоцентрі
 
 Механізм не теоретичний, хоч і показаний поки in vitro (в пробірці, не на людях): ганодермова кислота S вбудовується в мембрану тромбоцитів за менш ніж хвилину в лабораторних умовах ([Kubo 2000](https://pubmed.ncbi.nlm.nih.gov/10946087/)). У людському організмі кінетика може відрізнятися, але сигнал достатньо чіткий, щоб MSKCC давав пряме застереження. Ще один нюанс — порошок спор може хибно підвищувати онкомаркер CA72-4, що плутає моніторинг у пацієнтів з раком шлунку.
 
-Ми вже писали схожу історію про [ашваганду](https://longlife.faion.net/ashvaganda-ksm66-sensoril-witholytin-hpa-suppression-2026/) і [куркумін](https://longlife.faion.net/curcumin-pains-bioavailability-livertox-tga-critical-review-2026/) — багато публікацій, слабкі клінічні докази, поодинокі, але серйозні випадки гепатотоксичності. Патерн повторюється.
+Ми вже писали схожу історію про [ашваганду](https://longlife.media/ashvaganda-ksm66-sensoril-witholytin-hpa-suppression-2026/) і [куркумін](https://longlife.media/curcumin-pains-bioavailability-livertox-tga-critical-review-2026/) — багато публікацій, слабкі клінічні докази, поодинокі, але серйозні випадки гепатотоксичності. Патерн повторюється.
 
 ## Що можна зробити вже сьогодні
 

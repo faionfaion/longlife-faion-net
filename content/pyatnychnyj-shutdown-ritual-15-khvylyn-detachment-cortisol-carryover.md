@@ -25,7 +25,7 @@ source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/16060723/"
   - "https://www.apa.org/pubs/reports/work-in-america/2024/2024-work-in-america-report.pdf"
   - "https://euromaidanpress.com/2025/11/01/insomnia-rates-triple-in-ukraine-as-chronic-sleep-disorders-outlast-air-raid-sirens/"
-  - "https://longlife.faion.net/sunday-shutdown-ritual-20-min-worry-postponement-newport/"
+  - "https://longlife.media/sunday-shutdown-ritual-20-min-worry-postponement-newport/"
 source_names:
   - "Sonnentag & Fritz 2015, Journal of Organizational Behavior"
   - "Wendsche & Lohmann-Haislah 2017, Frontiers in Psychology (meta-analysis)"
@@ -43,14 +43,14 @@ tg_post: |
   
   Мета-аналіз у Frontiers in Psychology (2017) показав: психологічне відключення від роботи найсильніше знижує емоційне виснаження та покращує сон, а дослідження Kubo (2021) зафіксувало прямий зв'язок короткого off-job часу з вищим ранковим кортизолом. Секрет проти ефекту Зейгарнік — письмово зафіксувати «коли + де + як» доробити незакриті задачі: за даними Масікампо та Баумайстера, цього достатньо, щоб нав'язливі думки про роботу зникли на вихідних.
   
-  <a href="https://longlife.faion.net/pyatnychnyj-shutdown-ritual-15-khvylyn-detachment-cortisol-carryover/">Читати повністю →</a>
+  <a href="https://longlife.media/pyatnychnyj-shutdown-ritual-15-khvylyn-detachment-cortisol-carryover/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
 Привіт! П'ятниця, 17:00. Ноутбук ще відкритий, у Slack блимає повідомлення, а голова вже наполовину у вихідних — але лише наполовину. 🧠
 
-Про недільний shutdown ritual ми вже [писали](https://longlife.faion.net/sunday-shutdown-ritual-20-min-worry-postponement-newport/) — 20 хвилин увечері неділі знижують тривогу перед понеділком. Але корінь Sunday scaries часто у п'ятниці: якщо ми залишаємо роботу «увімкненою», кортизол (гормон стресу, який виробляють наднирники у відповідь на навантаження) продовжує триматись на високому рівні у вихідні. І неділя вже лікує наслідки, а не причину.
+Про недільний shutdown ritual ми вже [писали](https://longlife.media/sunday-shutdown-ritual-20-min-worry-postponement-newport/) — 20 хвилин увечері неділі знижують тривогу перед понеділком. Але корінь Sunday scaries часто у п'ятниці: якщо ми залишаємо роботу «увімкненою», кортизол (гормон стресу, який виробляють наднирники у відповідь на навантаження) продовжує триматись на високому рівні у вихідні. І неділя вже лікує наслідки, а не причину.
 
 Психологиня Сабіне Зоннентаґ у [Journal of Organizational Behavior (2015)](https://onlinelibrary.wiley.com/doi/abs/10.1002/job.1924) описала це як stressor-detachment model: психологічне відключення (psychological detachment) — це не «бути фізично вдома», а справді ментально закрити день. Мета-аналіз Wendsche & Lohmann-Haislah у [Frontiers in Psychology (2017)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5233687/) (огляд десятків досліджень із загальною вибіркою десятків тисяч працівників) показав: детачмент найсильніше знижує емоційне виснаження та покращує сон.
 

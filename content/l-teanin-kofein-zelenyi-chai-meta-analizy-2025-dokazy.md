@@ -43,7 +43,7 @@ tg_post: |
   
   Мета-аналіз Payne et al. (2025) у Nutrition Reviews (50 РКД) підтвердив: комбо справді пришвидшує реакцію та точність перемикання уваги, але для настрою й пильності ефект статистично не доведений. Чистий L-теанін виглядає ще слабше — EFSA ще у 2011 році відхилило всі заявлені claims щодо когніції, стресу й сну, а свіжий огляд Mátyus et al. (2025) оцінив певність доказів як «низьку до дуже низької».
   
-  <a href="https://longlife.faion.net/l-teanin-kofein-zelenyi-chai-meta-analizy-2025-dokazy/">Читати повністю →</a>
+  <a href="https://longlife.media/l-teanin-kofein-zelenyi-chai-meta-analizy-2025-dokazy/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -86,7 +86,7 @@ L-теанін має статус GRAS від FDA — це абревіатур
 
 > 💬 *Маленька примітка про прозорість: ми не отримуємо комісію ні з iHerb, ні з виробників Suntheanine®. Бренд згадуємо лише тому, що саме на цій формі побудована більшість РКД — а не через партнерство.*
 
-Про те, як кофеїн взагалі діє на мозок і сон, ми вже писали ([longlife.faion.net/caffeine-sleep-architecture-cyp1a2-deep-sleep-guide](https://longlife.faion.net/caffeine-sleep-architecture-cyp1a2-deep-sleep-guide/)), а популярний міф про «90 хвилин до першої кави» розбирали тут ([longlife.faion.net/delayed-caffeine-90-minutes-tiktok-mif-huberman-rct](https://longlife.faion.net/delayed-caffeine-90-minutes-tiktok-mif-huberman-rct/)).
+Про те, як кофеїн взагалі діє на мозок і сон, ми вже писали ([longlife.media/caffeine-sleep-architecture-cyp1a2-deep-sleep-guide](https://longlife.media/caffeine-sleep-architecture-cyp1a2-deep-sleep-guide/)), а популярний міф про «90 хвилин до першої кави» розбирали тут ([longlife.media/delayed-caffeine-90-minutes-tiktok-mif-huberman-rct](https://longlife.media/delayed-caffeine-90-minutes-tiktok-mif-huberman-rct/)).
 
 ## Що можна зробити вже сьогодні 🌿
 

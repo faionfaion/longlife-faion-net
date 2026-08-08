@@ -43,7 +43,7 @@ tg_post: |
   
   Команда Boston College відстежила співробітників 141 компанії у 6 країнах: за 6 місяців покращились сон, працездатність і задоволеність роботою, а ефект втримався і через 12 місяців. Результати опубліковано у Nature Human Behaviour (2025), проте дизайн квазіекспериментальний, а 90% компаній, які залишили формат, — це ті, хто сам зголосився на пілот.
   
-  <a href="https://longlife.faion.net/4-day-workweek-anxiety-burnout-schor-nature-2025/">Читати повністю →</a>
+  <a href="https://longlife.media/4-day-workweek-anxiety-burnout-schor-nature-2025/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -81,7 +81,7 @@ tg_post: |
 
 Дані [Tsybuliak et al. (PMC, 2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10589323/) показують, що серед українських викладачів високе емоційне виснаження мали 58–61% жінок і до 48% чоловіків. Серед психосоціальних працівників [59,6% позитивно скринуються на вигорання](https://www.cambridge.org/core/journals/disaster-medicine-and-public-health-preparedness/article/abs/helping-the-helpers-mental-health-challenges-of-psychosocial-support-workers-during-the-russianukrainian-war/2B430AF86379C1CA1824D7F76B0481BD). [ВООЗ Європа (2025)](https://www.who.int/europe/news/item/24-02-2025-three-years-of-war-rising-demand-for-mental-health-support-trauma-care-and-rehabilitation) фіксує зростання попиту на психічну допомогу. У таких умовах структурне зниження навантаження може мати більший ефект, ніж індивідуальні поради «дихайте глибше». [Гайдлайни ВООЗ із психічного здоров'я на роботі (2022)](https://www.ncbi.nlm.nih.gov/books/NBK586364/) прямо рекомендують гнучкі робочі формати як організаційну інтервенцію.
 
-Раніше ми писали про індивідуальні [мікро-перерви Pomodoro](https://longlife.faion.net/pomodoro-health-micro-breaks-burnout/) і [застосунки для медитації](https://longlife.faion.net/medytatsiyni-zastosunky-headspace-calm-rct-stres-tryvoga/) — це доповнення, а не альтернатива структурним рішенням.
+Раніше ми писали про індивідуальні [мікро-перерви Pomodoro](https://longlife.media/pomodoro-health-micro-breaks-burnout/) і [застосунки для медитації](https://longlife.media/medytatsiyni-zastosunky-headspace-calm-rct-stres-tryvoga/) — це доповнення, а не альтернатива структурним рішенням.
 
 ## Що можна зробити вже сьогодні
 

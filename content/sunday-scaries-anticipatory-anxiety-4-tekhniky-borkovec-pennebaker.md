@@ -42,7 +42,7 @@ tg_post: |
   
   Огляд у Nature Reviews Neuroscience пояснює: при невизначеній майбутній загрозі мозок вмикає контур тривоги очікування — ідеальний тригер для недільного вечора. Робоча техніка з мета-аналізу 2024 року (7 РКД, n=999) — «вікно тривоги»: виділи 30 хвилин на день для тривожних думок, решту моментів — відкладай. Це знижує саме частоту хвилювання, а не клінічний діагноз.
   
-  <a href="https://longlife.faion.net/sunday-scaries-anticipatory-anxiety-4-tekhniky-borkovec-pennebaker/">Читати повністю →</a>
+  <a href="https://longlife.media/sunday-scaries-anticipatory-anxiety-4-tekhniky-borkovec-pennebaker/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -61,7 +61,7 @@ tg_post: |
 
 **3. Плануй понеділок у п'ятницю.** Щоденникове дослідження Syrek та ін. (2017, *Journal of Occupational Health Psychology*, n=59 — це невелика щоденникова вибірка, тож узагальнення обмежене) показало: незавершені п'ятничні задачі → руминація → поганий сон у неділю. А ось «problem-solving pondering» — записати 3 пріоритети понеділка ще в п'ятницю — дає протилежний, корисний ефект ([PubMed](https://pubmed.ncbi.nlm.nih.gov/27101340/)).
 
-**4. 15 хв експресивного письма.** Протокол Pennebaker; мета-аналіз Frattaroli (2006, 146 досліджень) показав **малий**, але стабільний ефект за умови ≥15 хв і ≥3 сесій ([Psychological Bulletin PDF](https://bpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/c/602/files/2019/08/Frattaroli-psych-bulletin-2006.pdf)). Деталі методу — у [нашій статті про експресивне письмо](https://longlife.faion.net/expressive-writing-pennebaker-trauma-immune-mental-health/).
+**4. 15 хв експресивного письма.** Протокол Pennebaker; мета-аналіз Frattaroli (2006, 146 досліджень) показав **малий**, але стабільний ефект за умови ≥15 хв і ≥3 сесій ([Psychological Bulletin PDF](https://bpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/c/602/files/2019/08/Frattaroli-psych-bulletin-2006.pdf)). Деталі методу — у [нашій статті про експресивне письмо](https://longlife.media/expressive-writing-pennebaker-trauma-immune-mental-health/).
 
 Sunday Scaries — не діагноз із DSM, а робоча назва для антиципаційної тривоги. Якщо вона переростає у щотижневі панічні стани — це привід поговорити з психотерапевтом.
 
@@ -70,7 +70,7 @@ Sunday Scaries — не діагноз із DSM, а робоча назва дл
 - У суботу заплануй одну приємну активну справу — не як «винагороду», а як профілактику.
 - У неділю ввечері — 15 хв письма про те, що саме лякає в понеділку. Без редактури.
 
-Якщо тривога вже на піку, допоможе [циклічне дихання за 5 хв](https://longlife.faion.net/cyclic-sighing-stanford-breathing-stress-anxiety/). 🌿
+Якщо тривога вже на піку, допоможе [циклічне дихання за 5 хв](https://longlife.media/cyclic-sighing-stanford-breathing-stress-anxiety/). 🌿
 
 ---
 

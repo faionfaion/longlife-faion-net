@@ -50,7 +50,7 @@ tg_post: |
   
   Період 15–30 квітня — найінтенсивніший для пилкування берези: одне суцвіття виділяє до 5,5 мільйона зерен пилку. А білок Bet v 1 перехресно реагує з алергенами вільхи, ліщини та дуба — тому симптоми можуть тягнутися з лютого аж до травня. Бонус: якщо сирі яблука чи черешні викликають свербіж у роті — це не харчова алергія, а пилково-харчовий синдром, і термічна обробка повністю вирішує проблему.
   
-  <a href="https://longlife.faion.net/kvitneva-alerhiia-ukraina-bereza-vilkha-aria-likuvannia/">Читати повністю →</a>
+  <a href="https://longlife.media/kvitneva-alerhiia-ukraina-bereza-vilkha-aria-likuvannia/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---

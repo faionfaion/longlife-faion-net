@@ -36,7 +36,7 @@ tg_post: |
   
   У дослідженні PLOS Digital Health нічна температура шкіри у власниць каблучки Oura починала помітно рости вже через 5,5 дня після зачаття. Велике спостереження на 10 318 користувачках (JMIR, 2025) підтвердило: температура пікує на +0,3 °C близько 9-го тижня — раніше й виразніше, ніж зміни сну. Сигнал реальний, але замінити тест і лікаря він поки не може.
   
-  <a href="https://longlife.faion.net/fitnes-treker-vahitnist-oura-fitbit-apple-watch-doslidzhennya/">Читати повністю →</a>
+  <a href="https://longlife.media/fitnes-treker-vahitnist-oura-fitbit-apple-watch-doslidzhennya/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -69,7 +69,7 @@ tg_post: |
 
 ## Коли вірити трекеру, а коли — тесту й лікарю
 
-Температура піднімається однаково від вагітності, ГРВІ, келиха вина ввечері чи джетлагу. Про алкоголь ми вже писали окремо ([алкоголь і ВСР](https://longlife.faion.net/alcohol-sleep-rem-disruption-hrv-guide/)), і про базову точність трекерів теж ([Oura, WHOOP, годинники](https://longlife.faion.net/oura-whoop-smart-hodynnyky-tochnist-snu-ortosomnia/)). Правило те саме: тренд за 1–2 тижні важливіший за одну ніч.
+Температура піднімається однаково від вагітності, ГРВІ, келиха вина ввечері чи джетлагу. Про алкоголь ми вже писали окремо ([алкоголь і ВСР](https://longlife.media/alcohol-sleep-rem-disruption-hrv-guide/)), і про базову точність трекерів теж ([Oura, WHOOP, годинники](https://longlife.media/oura-whoop-smart-hodynnyky-tochnist-snu-ortosomnia/)). Правило те саме: тренд за 1–2 тижні важливіший за одну ніч.
 
 Трекер — це підказка «зроби тест раніше», а не заміна тесту сечі на ХГЛ (хоріонічний гонадотропін людини — гормон, який зʼявляється після імплантації ембріона). І точно не інструмент, щоб самостійно діагностувати викидень.
 

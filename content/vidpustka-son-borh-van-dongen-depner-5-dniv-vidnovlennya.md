@@ -41,7 +41,7 @@ tg_post: |
   
   Класична робота Van Dongen (2003) показала, що суб'єктивно ми почуваємось «нормально», але когнітивні тести провалюються. А дослідження Depner у Current Biology додає: навіть після вихідних «відсипань» чутливість до інсуліну падає на 9–27% — щоб віддати «борг сну», потрібно щонайменше 7 ночей поспіль стабільного відпочинку.
   
-  <a href="https://longlife.faion.net/vidpustka-son-borh-van-dongen-depner-5-dniv-vidnovlennya/">Читати повністю →</a>
+  <a href="https://longlife.media/vidpustka-son-borh-van-dongen-depner-5-dniv-vidnovlennya/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -66,7 +66,7 @@ tg_post: |
 
 Більше того, сон до обіду **зсуває циркадний ритм пізніше** — і повернення на роботу відчувається як переліт через два часові пояси.
 
-Як ми [вже писали про регулярність сну](https://longlife.faion.net/sleep-regularity-sri-mortality-social-jetlag-guide/), стабільний час пробудження важливіший за загальну тривалість.
+Як ми [вже писали про регулярність сну](https://longlife.media/sleep-regularity-sri-mortality-social-jetlag-guide/), стабільний час пробудження важливіший за загальну тривалість.
 
 ## Ранкове світло на пляжі — це не просто гарно
 

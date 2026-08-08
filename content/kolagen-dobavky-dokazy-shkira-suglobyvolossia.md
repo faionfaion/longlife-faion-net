@@ -43,7 +43,7 @@ tg_post: |
   
   Свіжий мета-аналіз 2025 року у The American Journal of Medicine (23 РКД, n=1474) показав: коли прибрати дослідження з індустріальним фінансуванням, ефект на зволоженість, еластичність і зморшки зникає до нуля. У якісних роботах з коректним засліпленням колаген не переграв плацебо — а ще у 2013 році EFSA вже відхиляла подібні заяви виробників.
   
-  <a href="https://longlife.faion.net/kolagen-dobavky-dokazy-shkira-suglobyvolossia/">Читати повністю →</a>
+  <a href="https://longlife.media/kolagen-dobavky-dokazy-shkira-suglobyvolossia/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -88,7 +88,7 @@ tg_post: |
 
 Звичайний харчовий желатин — це той самий колаген, лише в іншій упаковці. Пілотне дослідження Shaw 2017 року (American Journal of Clinical Nutrition) показало, що 15 г желатину + вітамін C за годину до навантаження подвоює маркер синтезу колагену ([джерело](https://pubmed.ncbi.nlm.nih.gov/27852613/)). Вибірка — усього 8 чоловіків, тож доказ попередній. Але за ціною: желатин коштує орієнтовно 50–100 грн/місяць проти 400–1500 грн за брендовані пептиди.
 
-Як ми вже писали про [магній](https://longlife.faion.net/magnii-7-form-dobavok-son-stres-miazy-sertse/) і [NAD+](https://longlife.faion.net/nad-plus-supplements-aging-clinical-trials/), різниця між маркетингом і незалежними доказами для колагену — найбільша серед популярних добавок.
+Як ми вже писали про [магній](https://longlife.media/magnii-7-form-dobavok-son-stres-miazy-sertse/) і [NAD+](https://longlife.media/nad-plus-supplements-aging-clinical-trials/), різниця між маркетингом і незалежними доказами для колагену — найбільша серед популярних добавок.
 
 ## Що можна зробити вже сьогодні 🥗
 

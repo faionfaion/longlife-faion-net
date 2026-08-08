@@ -45,7 +45,7 @@ tg_post: |
   
   Опитувальник GAD-7 з 7 запитань показав чутливість 89% до генералізованого тривожного розладу при сумі балів ≥10 (дослідження у Archives of Internal Medicine, 2 739 учасників). Це скринінг, а не діагноз — але 10+ балів означає, що пора записатися до сімейного лікаря або психотерапевта для повноцінної оцінки.
   
-  <a href="https://longlife.faion.net/gad-7-tryvozhnyi-rozlad-skryninh-cbt-ssri-ukraina/">Читати повністю →</a>
+  <a href="https://longlife.media/gad-7-tryvozhnyi-rozlad-skryninh-cbt-ssri-ukraina/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -181,7 +181,7 @@ GAD-7 розробила команда під керівництвом Робе
 
 КПТ ефективна, але показники завершення курсів самодопомоги — лише 16–50% (Льюїс, 2012). Тому супервізована або групова терапія часто працює краще, ніж застосунок наодинці. Більшість фармакологічних РКД були короткими (4–12 тижнів) — довготривала ефективність відома гірше.
 
-Якщо у тебе 5–9 балів за GAD-7, спробуй техніки самодопомоги КПТ ([longlife.faion.net](https://longlife.faion.net/cbt-self-help-anxiety-4-techniques/)). Для гострих епізодів допомагає циклічне дихання ([longlife.faion.net](https://longlife.faion.net/cyclic-sighing-stanford-breathing-stress-anxiety/)).
+Якщо у тебе 5–9 балів за GAD-7, спробуй техніки самодопомоги КПТ ([longlife.media](https://longlife.media/cbt-self-help-anxiety-4-techniques/)). Для гострих епізодів допомагає циклічне дихання ([longlife.media](https://longlife.media/cyclic-sighing-stanford-breathing-stress-anxiety/)).
 
 ## Що можна зробити вже сьогодні
 

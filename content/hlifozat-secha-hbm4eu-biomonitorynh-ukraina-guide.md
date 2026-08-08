@@ -51,7 +51,7 @@ tg_post: |
   
   У програмі HBM4EU розрахункова доза гліфозату не перевищувала 1.73% від допустимого добового прийому, однак у дітей рівні були вищими через більше фруктів і овочів на кілограм ваги. Найнижчі показники — у тих, хто їв органічну їжу та пив фільтровану воду.
   
-  <a href="https://longlife.faion.net/hlifozat-secha-hbm4eu-biomonitorynh-ukraina-guide/">Читати повністю →</a>
+  <a href="https://longlife.media/hlifozat-secha-hbm4eu-biomonitorynh-ukraina-guide/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -132,4 +132,4 @@ EWG щороку публікує список найзабрудненіших 
 
 Перед серйозними змінами в раціоні (особливо для дітей і вагітних) варто порадитися з лікарем або дієтологом. І пам'ятай: миття овочів — це не про «детокс», це про буденну гігієну, яка працює. ⏳
 
-Якщо цікаво більше з категорії longevity — почитай наш [розбір SOFI 2026 про прихований голод в Україні](https://longlife.faion.net/sofi-2026-prykhovanyi-holod-ukraina-nutrienty/) або [матеріал про алкоголь і J-криву](https://longlife.faion.net/alcohol-geriatric-care-happy-hour-j-curve-vs-lancet-2023/) — там теж про те, як регуляторні пороги співіснують із реальними ризиками.
+Якщо цікаво більше з категорії longevity — почитай наш [розбір SOFI 2026 про прихований голод в Україні](https://longlife.media/sofi-2026-prykhovanyi-holod-ukraina-nutrienty/) або [матеріал про алкоголь і J-криву](https://longlife.media/alcohol-geriatric-care-happy-hour-j-curve-vs-lancet-2023/) — там теж про те, як регуляторні пороги співіснують із реальними ризиками.

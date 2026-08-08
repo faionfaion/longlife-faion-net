@@ -49,7 +49,7 @@ tg_post: |
   
   Твінове дослідження Gemini на 2 660 дітях (AJCN, 2016) показало: харчова вибагливість спадкова приблизно на 78%, і через цю фазу проходять 25–50% типово розвинених дітей. Ключ — метод «Розподілу відповідальності» Еллін Саттер: батьки вирішують що, коли і де їсть дитина, а дитина — чи їсти і скільки; новий продукт потрібно спокійно пропонувати 8–15 разів, без тиску.
   
-  <a href="https://longlife.faion.net/perebirlyva-dytyna-6-dokazovykh-tekhnik-satter-ekspozytsiia/">Читати повністю →</a>
+  <a href="https://longlife.media/perebirlyva-dytyna-6-dokazovykh-tekhnik-satter-ekspozytsiia/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---

@@ -44,7 +44,7 @@ tg_post: |
   
   У RCT Balban 2023 (Cell Reports Medicine) 114 дорослих 28 днів практикували по 5 хвилин на день. Фізіологічне зітхання — подвійний вдих носом і довгий видих ротом — обійшло box breathing, метод 4-7-8 та навіть mindfulness за швидкістю зниження пульсу й тривоги. Секрет — 200 нейронів у комплексі pre-Bötzinger, які запускають вроджений рефлекс розправлення альвеол.
   
-  <a href="https://longlife.faion.net/4-7-8-vs-box-breathing-vs-fiziolohichne-zithannia-porivniannia/">Читати повністю →</a>
+  <a href="https://longlife.media/4-7-8-vs-box-breathing-vs-fiziolohichne-zithannia-porivniannia/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -75,7 +75,7 @@ tg_post: |
 
 Останній пункт — головний сюрприз. Заголовки «Стенфорд довів, що зітхання знижує пульс» — це вільна інтерпретація. Дослідження показало ефект на настрій і респіраторну частоту. Про частоту пульсу — тиша ([Balban et al., 2023](https://pubmed.ncbi.nlm.nih.gov/36630953/)).
 
-Ми вже писали про механізм фізіологічного зітхання ([longlife.faion.net/cyclic-sighing-stanford-breathing-stress-anxiety](https://longlife.faion.net/cyclic-sighing-stanford-breathing-stress-anxiety/)) — сьогодні додаємо чесний нюанс.
+Ми вже писали про механізм фізіологічного зітхання ([longlife.media/cyclic-sighing-stanford-breathing-stress-anxiety](https://longlife.media/cyclic-sighing-stanford-breathing-stress-anxiety/)) — сьогодні додаємо чесний нюанс.
 
 ## А хто ж реально знижує пульс?
 

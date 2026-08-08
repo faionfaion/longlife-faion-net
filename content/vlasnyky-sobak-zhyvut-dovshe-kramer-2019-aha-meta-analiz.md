@@ -43,7 +43,7 @@ tg_post: |
   
   Дані по 3,8 млн людей із 10 досліджень (журнал Circulation: CQO) показали стійкий ефект довголіття у собаківників. Шведська когорта Mubanga додала нюанс: найбільший виграш — у тих, хто живе сам (−33% ризику смерті), тож справа не лише у прогулянках, а й у компенсації соціальної ізоляції. Бонусом — +22 хвилини ходьби щодня, які власники накручують із улюбленцем.
   
-  <a href="https://longlife.faion.net/vlasnyky-sobak-zhyvut-dovshe-kramer-2019-aha-meta-analiz/">Читати повністю →</a>
+  <a href="https://longlife.media/vlasnyky-sobak-zhyvut-dovshe-kramer-2019-aha-meta-analiz/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---

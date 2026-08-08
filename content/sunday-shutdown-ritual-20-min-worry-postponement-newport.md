@@ -46,7 +46,7 @@ tg_post: |
   
   За опитуванням LinkedIn серед 3000 працівників, до 80% відчувають «Sunday scaries», а дослідження у Psychological Reports зафіксувало вищий ранковий кортизол саме в понеділок. Рішення від професора Джорджтауну Кела Ньюпорта — shutdown ritual: переглянути всі відкриті задачі, для кожної записати конкретний наступний крок і вголос сказати «тиждень завершено».
   
-  <a href="https://longlife.faion.net/sunday-shutdown-ritual-20-min-worry-postponement-newport/">Читати повністю →</a>
+  <a href="https://longlife.media/sunday-shutdown-ritual-20-min-worry-postponement-newport/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -87,4 +87,4 @@ tg_post: |
 4. Признач «вікно тривоги» на понеділок ранок (15–30 хв).
 5. Скажи вголос: «тиждень завершено».
 
-Якщо тривога залишається м'якою, але не зникає — можна почитати про [техніки КПТ від тривоги](https://longlife.faion.net/cbt-self-help-anxiety-4-techniques/) і [дихальні вправи для зниження кортизолу](https://longlife.faion.net/breathing-exercises-lower-cortisol/). А якщо симптоми серйозні — не соромся записатися до фахівця. У воєнний час фіксовані ритуали особливо цінні: вони повертають відчуття контролю там, де його бракує. 🌿
+Якщо тривога залишається м'якою, але не зникає — можна почитати про [техніки КПТ від тривоги](https://longlife.media/cbt-self-help-anxiety-4-techniques/) і [дихальні вправи для зниження кортизолу](https://longlife.media/breathing-exercises-lower-cortisol/). А якщо симптоми серйозні — не соромся записатися до фахівця. У воєнний час фіксовані ритуали особливо цінні: вони повертають відчуття контролю там, де його бракує. 🌿

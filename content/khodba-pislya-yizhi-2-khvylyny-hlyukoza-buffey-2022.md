@@ -25,7 +25,7 @@ source_urls:
   - "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1708301/full"
   - "https://www.news-medical.net/news/20260429/Brief-walking-breaks-help-the-body-control-sugar-after-carb-rich-meals.aspx"
   - "https://www.who.int/publications/i/item/9789240015128"
-  - "https://longlife.faion.net/cgm-sensor-hlyukozy-zdorovi-lyudy-chy-varto/"
+  - "https://longlife.media/cgm-sensor-hlyukozy-zdorovi-lyudy-chy-varto/"
 source_names:
   - "Buffey et al., 2022, Sports Medicine (PubMed)"
   - "Buffey et al., 2022, Sports Medicine (PMC full text)"
@@ -42,7 +42,7 @@ tg_post: |
   
   У систематичному огляді Buffey та колег (2022) коротка ходьба зменшила постпрандіальну глюкозу на ~17%, а стояння — лише на ~9,5% порівняно з сидінням. Працюють навіть мікроперерви по 2–5 хвилин кожні 20–30 хвилин, а найсильніший ефект — коли починаєш рухатися в перші 0–29 хвилин після їжі, до піка глюкози.
   
-  <a href="https://longlife.faion.net/khodba-pislya-yizhi-2-khvylyny-hlyukoza-buffey-2022/">Читати повністю →</a>
+  <a href="https://longlife.media/khodba-pislya-yizhi-2-khvylyny-hlyukoza-buffey-2022/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -73,7 +73,7 @@ tg_post: |
 
 ### Чому CGM-ентузіасти перебільшують
 
-Як ми вже писали про [сенсори глюкози для здорових людей](https://longlife.faion.net/cgm-sensor-hlyukozy-zdorovi-lyudy-chy-varto/), у здорової 30-річної людини глюкоза після великої порції пасти може сягати ~8 ммоль/л — і це, за оглядом постпрандіальних норм [Madhu et al., 2022 (International Journal of Diabetes in Developing Countries)](https://link.springer.com/article/10.1007/s13410-021-01000-z), лежить у межах фізіологічної варіативності для людей без діабету (діагностичний поріг постпрандіальної гіперглікемії — 11,1 ммоль/л за критеріями ВООЗ/ADA). Індивідуальні норми відрізняються, тож не варто панікувати від кожного графіка на смартфоні. Так, я теж люблю тарілку макаронів на обід — і після неї нікуди не тікаю.
+Як ми вже писали про [сенсори глюкози для здорових людей](https://longlife.media/cgm-sensor-hlyukozy-zdorovi-lyudy-chy-varto/), у здорової 30-річної людини глюкоза після великої порції пасти може сягати ~8 ммоль/л — і це, за оглядом постпрандіальних норм [Madhu et al., 2022 (International Journal of Diabetes in Developing Countries)](https://link.springer.com/article/10.1007/s13410-021-01000-z), лежить у межах фізіологічної варіативності для людей без діабету (діагностичний поріг постпрандіальної гіперглікемії — 11,1 ммоль/л за критеріями ВООЗ/ADA). Індивідуальні норми відрізняються, тож не варто панікувати від кожного графіка на смартфоні. Так, я теж люблю тарілку макаронів на обід — і після неї нікуди не тікаю.
 
 Важливе застереження: усі ці ефекти — **гострі, лабораторні, одноденні**. Жодне RCT ще не показало, що щоденна пост-прандіальна ходьба протягом місяців знижує HbA1c (глікований гемоглобін — маркер довгострокового цукру) незалежно від загальної кількості кроків. Це чесна наука, а не «панацея».
 

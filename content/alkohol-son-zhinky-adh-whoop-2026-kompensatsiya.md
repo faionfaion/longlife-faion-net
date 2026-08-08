@@ -21,7 +21,7 @@ source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/40362779/"
   - "https://academic.oup.com/sleep/article/48/Supplement_1/A398/8135095"
   - "https://pubmed.ncbi.nlm.nih.gov/36152525/"
-  - "https://longlife.faion.net/alcohol-sleep-rem-disruption-hrv-guide/"
+  - "https://longlife.media/alcohol-sleep-rem-disruption-hrv-guide/"
 source_names:
   - "PLOS Digital Health (Grosicki et al., 2026)"
   - "New England Journal of Medicine (Frezza et al., 1990)"
@@ -36,14 +36,14 @@ tg_post: |
   
   У новому дослідженні PLOS Digital Health (2026) кожен додатковий напій підіймав нічний пульс на +2,8 уд/хв у жінок проти +2,4 у чоловіків, а HRV падав на −3,8 мс і −3,3 мс відповідно. Причина — нижча активність шлункової алкогольдегідрогенази та менше води в тілі: та сама доза дає пік концентрації на 35–45% вищий. За позицією ВООЗ (2023), безпечної дози алкоголю не існує — тайминг лише зменшує окремі нічні наслідки.
   
-  <a href="https://longlife.faion.net/alkohol-son-zhinky-adh-whoop-2026-kompensatsiya/">Читати повністю →</a>
+  <a href="https://longlife.media/alkohol-son-zhinky-adh-whoop-2026-kompensatsiya/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
 Привіт! П'ятниця, келих вина, Netflix — здається, ідеальний вечір. Але свіжі дані з зап'ясткових трекерів показують: рахунок за цей келих різний для чоловіка й жінки. І цей рахунок оплачується вночі. 🍷😴
 
-Базову механіку — як етанол руйнує REM-фазу (стадію сну зі швидкими рухами очей, коли мозок обробляє емоції) і б'є по HRV (варіабельність серцевого ритму, маркер відновлення) — ми вже розібрали [у квітневому гіді](https://longlife.faion.net/alcohol-sleep-rem-disruption-hrv-guide/). Сьогодні — про нове.
+Базову механіку — як етанол руйнує REM-фазу (стадію сну зі швидкими рухами очей, коли мозок обробляє емоції) і б'є по HRV (варіабельність серцевого ритму, маркер відновлення) — ми вже розібрали [у квітневому гіді](https://longlife.media/alcohol-sleep-rem-disruption-hrv-guide/). Сьогодні — про нове.
 
 **Спочатку — важливе застереження.** За оновленою позицією ВООЗ 2023 року, безпечної дози алкоголю для здоров'я не існує ([WHO](https://www.who.int/europe/news/item/04-01-2023-no-level-of-alcohol-consumption-is-safe-for-our-health)). Правильний тайминг не робить келих «нешкідливим» — він лише зменшує окремі нічні наслідки. Якщо ви вагітні, годуєте, маєте алкогольну залежність в анамнезі або приймаєте медикаменти — будь-яка доза має обговорюватися з лікарем.
 

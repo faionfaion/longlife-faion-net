@@ -26,9 +26,9 @@ source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12304835/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC5867436/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC11300307/"
-  - "https://longlife.faion.net/tyrzepatyd-vs-semaglutyd-surmount-5-porivnyannia-vahy/"
-  - "https://longlife.faion.net/calisthenics-vs-weights-syla-bez-sportzalu/"
-  - "https://longlife.faion.net/grip-strength-health-marker-longevity-uk-biobank/"
+  - "https://longlife.media/tyrzepatyd-vs-semaglutyd-surmount-5-porivnyannia-vahy/"
+  - "https://longlife.media/calisthenics-vs-weights-syla-bez-sportzalu/"
+  - "https://longlife.media/grip-strength-health-marker-longevity-uk-biobank/"
 source_names:
   - "Journal of the Endocrine Society (STEP-1 body composition sub-analysis, Wilding 2021)"
   - "New England Journal of Medicine (STEP-1, Wilding 2021)"
@@ -44,12 +44,12 @@ tg_post: |
   
   Sub-аналіз STEP-1 з DXA-скануванням показав: при втраті −15% ваги знежирена маса (м'язи, вода, органи) впала на −6,92 кг — це близько 45% усього скинутого. Огляд у Diabetes, Obesity and Metabolism (2024) підтверджує: на GLP-1 м'язи становлять 25–40% втрати — тож після 50 років силові тренування й білок стають не опцією, а страховкою від саркопенії.
   
-  <a href="https://longlife.faion.net/semaglutyd-mязова-masa-step1-sylovi-trenuvannya-bilok/">Читати повністю →</a>
+  <a href="https://longlife.media/semaglutyd-mязова-masa-step1-sylovi-trenuvannya-bilok/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
-Привіт! Кілька днів тому ми розбирали [SURMOUNT-5 — скільки кілограмів дають семаглутид і тирзепатид](https://longlife.faion.net/tyrzepatyd-vs-semaglutyd-surmount-5-porivnyannia-vahy/). Сьогодні — питання, яке часто залишається за кадром: а **що саме** за кілограми йдуть? Жир — чи м'язи теж? 🔬
+Привіт! Кілька днів тому ми розбирали [SURMOUNT-5 — скільки кілограмів дають семаглутид і тирзепатид](https://longlife.media/tyrzepatyd-vs-semaglutyd-surmount-5-porivnyannia-vahy/). Сьогодні — питання, яке часто залишається за кадром: а **що саме** за кілограми йдуть? Жир — чи м'язи теж? 🔬
 
 Є новини з лабораторій, і вони варті уваги — особливо якщо тобі за 50.
 
@@ -107,10 +107,10 @@ STEP-1 sub-аналіз — експлораторний, на 140 учасни�
 
 💡 **Маленький, але важливий нюанс:** при значному ожирінні гайдлайни (зокрема [згаданий advisory ACLM/ASN/OMA/TOS 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12304835/)) часто рекомендують рахувати білок не від актуальної, а від **цільової або ідеальної ваги** — інакше цифра виходить завищеною. Це ще один привід обговорити деталі з лікарем чи дієтологом.
 
-💪 **2–3 силові тренування на тиждень** — присідання, тяги, віджимання, підтягування. Можна вдома, як ми писали в матеріалі [про калістеніку](https://longlife.faion.net/calisthenics-vs-weights-syla-bez-sportzalu/). Без них м'язи захистити складно.
+💪 **2–3 силові тренування на тиждень** — присідання, тяги, віджимання, підтягування. Можна вдома, як ми писали в матеріалі [про калістеніку](https://longlife.media/calisthenics-vs-weights-syla-bez-sportzalu/). Без них м'язи захистити складно.
 
 ⚠️ **Силові — не для всіх «з порогу».** При неконтрольованій гіпертензії, нещодавніх операціях, гострих кардіо- чи ортопедичних проблемах, важкій ретинопатії силові потребують модифікації або тимчасової паузи. Якщо ти у такій ситуації — спершу до лікаря, потім до штанги. Стартувати з малих ваг і під наглядом тренера — теж нормальна стратегія.
 
-🌿 **Сила хвату як простий маркер** — динамометр недорогий, а [показує більше, ніж ваги](https://longlife.faion.net/grip-strength-health-marker-longevity-uk-biobank/). Відстежуй раз на місяць.
+🌿 **Сила хвату як простий маркер** — динамометр недорогий, а [показує більше, ніж ваги](https://longlife.media/grip-strength-health-marker-longevity-uk-biobank/). Відстежуй раз на місяць.
 
 ⏳ І головне: «Озампік» в Україні — рецептурний препарат, не біохак. Силові + білок працюють і без нього — просто повільніше. Перед будь-якими змінами в терапії, харчуванні чи режимі тренувань обговори їх із лікарем — особливо якщо є хронічні стани.

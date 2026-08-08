@@ -45,7 +45,7 @@ tg_post: |
   
   Мета-аналіз Essex et al. (2022) у Health Services Research охопив 1,8 млн госпіталізацій і показав відносний ризик смерті 0,91 — статистично незначущу різницю. Пояснення просте: відкладається планова хірургія з її базовим ризиком ускладнень, а до чергувань у невідкладній допомозі стають старші консультанти.
   
-  <a href="https://longlife.faion.net/straik-likariv-nhs-smertnist-meta-analiz-essex-korea-2024/">Читати повністю →</a>
+  <a href="https://longlife.media/straik-likariv-nhs-smertnist-meta-analiz-essex-korea-2024/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---

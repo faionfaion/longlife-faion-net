@@ -1,0 +1,26 @@
+{
+  "timestamp": "2026-08-08_102443",
+  "status": "empty",
+  "dry_run": false,
+  "slug": "",
+  "author": "Віта Зеленко",
+  "duration_s": 941.8,
+  "image_generated": false,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    },
+    {
+      "name": "research:Молочна vs рослинна альтернати",
+      "status": "failed",
+      "duration_s": 939.7,
+      "error": "agent_query timed out after 300s"
+    }
+  ]
+}

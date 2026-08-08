@@ -1,0 +1,68 @@
+{
+  "timestamp": "2026-08-08_095905",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "vakcyny-kholodovyi-lantsiuh-moroz-shake-test-spvx02-popravka",
+  "author": "Віта Зеленко",
+  "duration_s": 1244.9,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    },
+    {
+      "name": "research:Вакцини без холодильника: як т",
+      "status": "ok",
+      "duration_s": 560.6,
+      "error": null
+    },
+    {
+      "name": "generate:Вакцини без холодильника: як т",
+      "status": "ok",
+      "duration_s": 130.3,
+      "error": null
+    },
+    {
+      "name": "review:Вакцини без холодильника: як т",
+      "status": "ok",
+      "duration_s": 315.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Вакцини без холодильника: як т",
+      "status": "ok",
+      "duration_s": 17.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Вакцини без холодильника: як т",
+      "status": "ok",
+      "duration_s": 14.9,
+      "error": null
+    },
+    {
+      "name": "save:Вакцини без холодильника: як т",
+      "status": "ok",
+      "duration_s": 202.6,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 1.8,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}

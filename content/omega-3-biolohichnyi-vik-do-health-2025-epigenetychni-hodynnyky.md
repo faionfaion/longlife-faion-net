@@ -41,7 +41,7 @@ tg_post: |
   
   Швейцарське RCT DO-HEALTH (n=777, середній вік 75,5) показало ефект омега-3 одразу на трьох епігенетичних годинниках — PhenoAge, GrimAge2 і DunedinPACE. Вітамін D і силові тренування окремо результату не дали, а використана алгальна олія має співвідношення EPA:DHA 1:2 — тож при виборі капсул уважно читай етикетку.
   
-  <a href="https://longlife.faion.net/omega-3-biolohichnyi-vik-do-health-2025-epigenetychni-hodynnyky/">Читати повністю →</a>
+  <a href="https://longlife.media/omega-3-biolohichnyi-vik-do-health-2025-epigenetychni-hodynnyky/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -72,7 +72,7 @@ DO-HEALTH — це рандомізоване контрольоване дос�
 
 ## Чому 1 г/день «не працював» у VITAL, а тут працює?
 
-Великий американський RCT VITAL (n=25 871, вік 50+) уже показував, що 1 г омега-3 на день не знижує серцево-судинну смертність ([VITAL, NCT01169259](https://clinicaltrials.gov/study/NCT01169259)). Cochrane 2020 (79 RCT, 112 059 людей) підтвердив: омега-3 добавки мають «малий або жоден» ефект на серцево-судинну смертність. Про це ми детально писали в [огляді VITAL, REDUCE-IT і Cochrane](https://longlife.faion.net/rybiachyi-zhyr-omega-3-sertse-mozok-vital-reduce-it-cochrane/).
+Великий американський RCT VITAL (n=25 871, вік 50+) уже показував, що 1 г омега-3 на день не знижує серцево-судинну смертність ([VITAL, NCT01169259](https://clinicaltrials.gov/study/NCT01169259)). Cochrane 2020 (79 RCT, 112 059 людей) підтвердив: омега-3 добавки мають «малий або жоден» ефект на серцево-судинну смертність. Про це ми детально писали в [огляді VITAL, REDUCE-IT і Cochrane](https://longlife.media/rybiachyi-zhyr-omega-3-sertse-mozok-vital-reduce-it-cochrane/).
 
 DO-HEALTH не переписує цих висновків. Просто вимірює інший ендпоінт — не інфаркти, а метилювання ДНК — у старшій популяції. Це нова сигналка, а не революція.
 
@@ -82,7 +82,7 @@ DO-HEALTH не переписує цих висновків. Просто вим
 
 Якщо тобі 70+, ти маєш низький базовий рівень омега-3 у крові, їси мало риби й уже займаєшся силовими — 1 г омега-3 на день може бути розумним додатком. Лідер-авторка дослідження Гайке Бішофф-Феррарі з UZH підкреслює: ефект був сильнішим у людей із нижчим стартовим рівнем омега-3 ([UZH press release](https://www.news.uzh.ch/en/articles/media/2025/omega-3s-aging-process.html)).
 
-Якщо тобі 30–50 і серце здорове — фокус на рибі 2 рази на тиждень і рухах працює краще за капсули. Раніше ми детально розбирали, [чому не всі омега-3 однакові](https://longlife.faion.net/omega-3-dobavky-meta-analizy-sertse-mozok-zapalennia/) і [які рослинні джерела доступні в Україні](https://longlife.faion.net/omega-3-roslinni-dzherela-dlya-ukraintsiv/).
+Якщо тобі 30–50 і серце здорове — фокус на рибі 2 рази на тиждень і рухах працює краще за капсули. Раніше ми детально розбирали, [чому не всі омега-3 однакові](https://longlife.media/omega-3-dobavky-meta-analizy-sertse-mozok-zapalennia/) і [які рослинні джерела доступні в Україні](https://longlife.media/omega-3-roslinni-dzherela-dlya-ukraintsiv/).
 
 ## Що можна зробити вже сьогодні 🥗
 
@@ -90,7 +90,7 @@ DO-HEALTH не переписує цих висновків. Просто вим
 2. **Силові тренування 2–3 рази на тиждень** — навіть 30 хвилин удома. Для м'язів після 50 це працює краще за будь-яку капсулу.
 3. **Перед стартом добавок — до лікаря.** Особливо якщо приймаєш антикоагулянти або маєш проблеми з печінкою. Ефект у 3 місяці — не привід бігти в аптеку без консультації.
 
-І пам'ятай: епігенетичний годинник — цікавий біомаркер, але не гарантія довголіття. Сильніші предиктори — [VO2max](https://longlife.faion.net/vo2max-predictor-longevity-cardiorespiratory-fitness/) і [сила хвату](https://longlife.faion.net/grip-strength-health-marker-longevity-uk-biobank/). З них і починай. ⏳
+І пам'ятай: епігенетичний годинник — цікавий біомаркер, але не гарантія довголіття. Сильніші предиктори — [VO2max](https://longlife.media/vo2max-predictor-longevity-cardiorespiratory-fitness/) і [сила хвату](https://longlife.media/grip-strength-health-marker-longevity-uk-biobank/). З них і починай. ⏳
 
 ---
 

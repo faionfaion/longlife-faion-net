@@ -25,8 +25,8 @@ source_urls:
   - "https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2025.1693123/full"
   - "https://tgh.amegroups.org/article/view/8382/html"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12385797/"
-  - "https://longlife.faion.net/masld-zhyrova-khvoroba-pechinky-fib4-rezmetirom/"
-  - "https://longlife.faion.net/obkhvat-taliyi-vs-imt-pislia-60-whtr-sarkopenichna-ozhyrinnia/"
+  - "https://longlife.media/masld-zhyrova-khvoroba-pechinky-fib4-rezmetirom/"
+  - "https://longlife.media/obkhvat-taliyi-vs-imt-pislia-60-whtr-sarkopenichna-ozhyrinnia/"
 source_names:
   - "Ye et al. 2020, Lancet Gastroenterology & Hepatology"
   - "Rinella et al. 2023, Journal of Hepatology (Delphi consensus)"
@@ -43,7 +43,7 @@ tg_post: |
   
   Мета-аналіз у Lancet Gastroenterology &amp; Hepatology (93 дослідження, понад 10,5 млн учасників) показав: 19,2% усіх пацієнтів з NAFLD мають ІМТ &lt;25, а смертність від причин, пов'язаних із печінкою, у них не нижча. Простий домашній орієнтир — співвідношення TG/HDL з ліпідограми: якщо &gt;2, варто обговорити з лікарем перевірку АЛТ і FIB-4, навіть при нормальній вазі.
   
-  <a href="https://longlife.faion.net/lean-masld-strunki-liudy-fib-4-pnpla3-fruktoza-skryninh/">Читати повністю →</a>
+  <a href="https://longlife.media/lean-masld-strunki-liudy-fib-4-pnpla3-fruktoza-skryninh/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---

@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "Віта Зеленко — про здоров’я з поглядом на дослідження",
     description: "Науковиця в галузі здоров’я читає дослідження і пише, що з них насправді випливає. Один допис на день, українською.",
-    siteUrl: "https://longlife.faion.net",
+    siteUrl: "https://longlife.media",
     author: "Віта Зеленко",
   },
   plugins: [

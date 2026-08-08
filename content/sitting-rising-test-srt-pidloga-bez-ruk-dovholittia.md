@@ -35,7 +35,7 @@ tg_post: |
   
   Учені спостерігали за 4282 дорослими 46–75 років упродовж ~12 років і знайшли чіткий зв'язок: серед тих, хто набрав максимальні 10 балів у тесті «сядь-встань», померло лише 3,7%, а серед групи з 0–4 балами — аж 42,1%. Тест простий: сядь на підлогу й підведися, віднімаючи 1 бал за кожну опору (рука, коліно, передпліччя) — і отримаєш орієнтир своєї фізичної форми вже зараз.
   
-  <a href="https://longlife.faion.net/sitting-rising-test-srt-pidloga-bez-ruk-dovholittia/">Читати повністю →</a>
+  <a href="https://longlife.media/sitting-rising-test-srt-pidloga-bez-ruk-dovholittia/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -80,9 +80,9 @@ SRT не вимірює щось одне. Це композитний тест:
 
 ## Як це поєднується з іншими маркерами
 
-Ми вже писали про силу хвату як маркер довголіття ([посилання](https://longlife.faion.net/grip-strength-health-marker-longevity-uk-biobank/)) — але це інша історія. Сила хвату ізолює саме силу й підтверджена величезними незалежними когортами (UK Biobank, понад 500 тисяч людей). SRT — ширший, але має слабшу й поки що не підтверджену зовні доказову базу.
+Ми вже писали про силу хвату як маркер довголіття ([посилання](https://longlife.media/grip-strength-health-marker-longevity-uk-biobank/)) — але це інша історія. Сила хвату ізолює саме силу й підтверджена величезними незалежними когортами (UK Biobank, понад 500 тисяч людей). SRT — ширший, але має слабшу й поки що не підтверджену зовні доказову базу.
 
-А ось 10-секундний тест на баланс на одній нозі ([посилання](https://longlife.faion.net/balance-test-10-seconds-one-leg-stand-mortality-fall-prevention/)) — це «рідний брат» SRT з тієї ж лабораторії. Сядь-встань доповнює і VO₂max ([посилання](https://longlife.faion.net/vo2max-predictor-longevity-cardiorespiratory-fitness/)): кардіо — це аеробна форма, а сядь-встань — неаеробна.
+А ось 10-секундний тест на баланс на одній нозі ([посилання](https://longlife.media/balance-test-10-seconds-one-leg-stand-mortality-fall-prevention/)) — це «рідний брат» SRT з тієї ж лабораторії. Сядь-встань доповнює і VO₂max ([посилання](https://longlife.media/vo2max-predictor-longevity-cardiorespiratory-fitness/)): кардіо — це аеробна форма, а сядь-встань — неаеробна.
 
 ## Що можна зробити вже сьогодні
 

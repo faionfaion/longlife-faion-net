@@ -41,14 +41,14 @@ tg_post: |
   
   Систематичний огляд JAAD 2024 (Abdel Azim et al.) підтвердив: хімічні фільтри справді абсорбуються, але тривоги про ендокринні ефекти базуються на дослідженнях на щурах у недосяжних побутово дозах. Різниця між SPF 30 (97% UVB) і SPF 50 (98%) працює лише при повній дозі — 2 мг/см², тобто ½ чайної ложки на обличчя + шию за протоколом AAD.
   
-  <a href="https://longlife.faion.net/spf-30-vs-50-oksybenzon-jaad-2024-mineralni-vs-khimichni-filtry/">Читати повністю →</a>
+  <a href="https://longlife.media/spf-30-vs-50-oksybenzon-jaad-2024-mineralni-vs-khimichni-filtry/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
 Привіт! Липень, УФ-індекс у Києві стабільно 7–8, а прилавок косметички — це вибір між SPF 30, SPF 50 і банкою з написом «mineral zinc». Розберемо, що з цього справді має значення — і чи варто боятися оксибензону, як лякає інтернет. 🌿
 
-Коротко про математику: SPF 30 блокує ~97% UVB, SPF 50 — ~98%. Різниця в 1% звучить сміховинно, але вона реалізується лише коли ти наносиш повні 2 мг/см² (стандартна лабораторна доза, за якою вимірюють SPF). У житті ми мажемо у 2–4 рази менше — і тоді реальний SPF падає приблизно як квадратний корінь від заявленого. Детальний розбір ми робили у [травневому гайді](https://longlife.faion.net/travnevyi-uv-indeks-kyiv-spf-30-50-2mg-cm2-pravylo/).
+Коротко про математику: SPF 30 блокує ~97% UVB, SPF 50 — ~98%. Різниця в 1% звучить сміховинно, але вона реалізується лише коли ти наносиш повні 2 мг/см² (стандартна лабораторна доза, за якою вимірюють SPF). У житті ми мажемо у 2–4 рази менше — і тоді реальний SPF падає приблизно як квадратний корінь від заявленого. Детальний розбір ми робили у [травневому гайді](https://longlife.media/travnevyi-uv-indeks-kyiv-spf-30-50-2mg-cm2-pravylo/).
 
 Звідси головне правило Американської академії дерматології (AAD, 2024): **30 мл крему на все тіло** — приблизно чарка, і **½ чайної ложки на обличчя + шию** ([AAD](https://www.aad.org/public/everyday-care/sun-protection/shade-clothing-sunscreen/how-to-apply-sunscreen)). Не менше.
 
@@ -60,7 +60,7 @@ tg_post: |
 
 Звідси й розбіжність регуляторів: FDA залишає хімічні фільтри в обігу, ЄС обмежив концентрацію оксибензону до 6% за принципом обережності. Статус GRASE («generally recognized as safe and effective» — специфічна FDA-класифікація для безрецептурних препаратів) мають тільки цинк оксид і діоксид титану ([FDA 2021](https://www.fda.gov/drugs/understanding-over-counter-medicines/questions-and-answers-fda-posts-deemed-final-order-and-proposed-order-over-counter-sunscreen)). Це не означає, що інші фільтри «небезпечні» — просто для них FDA поки що вимагає додаткових даних.
 
-Чому це важливо? За даними IARC (Langselius, IJC 2025), **83% випадків кутанної (шкірної) меланоми у світі 2022 року були атрибутовані УФ-опроміненню** ([IARC](https://www.iarc.who.int/news-events/new-study-on-the-global-burden-of-cutaneous-melanoma-incidence-attributable-to-ultraviolet-radiation)). Про роль УФ у [прогнозі раку до 2050 року ми вже писали](https://longlife.faion.net/voz-rak-2050-prohnoz-35-mln-5-modyfikovanykh-faktoriv/) — крем справді має значення.
+Чому це важливо? За даними IARC (Langselius, IJC 2025), **83% випадків кутанної (шкірної) меланоми у світі 2022 року були атрибутовані УФ-опроміненню** ([IARC](https://www.iarc.who.int/news-events/new-study-on-the-global-burden-of-cutaneous-melanoma-incidence-attributable-to-ultraviolet-radiation)). Про роль УФ у [прогнозі раку до 2050 року ми вже писали](https://longlife.media/voz-rak-2050-prohnoz-35-mln-5-modyfikovanykh-faktoriv/) — крем справді має значення.
 
 **Що можна зробити вже сьогодні:**
 

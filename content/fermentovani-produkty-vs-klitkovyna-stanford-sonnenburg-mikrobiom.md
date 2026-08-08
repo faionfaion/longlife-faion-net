@@ -39,7 +39,7 @@ tg_post: |
   
   За 10 тижнів група, яка їла 6 порцій йогурту, кефіру чи кімчі на день, показала зростання різноманіття мікробіома і зрушення у 19 імунних маркерах — включно зі зниженням прозапального IL-6. Клітковина (до 45 г/день) різноманіття не змінила, але посилила ферменти розщеплення вуглеводів — ефект, ймовірно, потребує більше часу у людей зі збідненим мікробіомом.
   
-  <a href="https://longlife.faion.net/fermentovani-produkty-vs-klitkovyna-stanford-sonnenburg-mikrobiom/">Читати повністю →</a>
+  <a href="https://longlife.media/fermentovani-produkty-vs-klitkovyna-stanford-sonnenburg-mikrobiom/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -74,7 +74,7 @@ tg_post: |
 
 Орієнтир зі Stanford — до 6 порцій на день, поступово. Одна порція — це 125–200 мл кефіру чи комбучі, 125 г йогурту або 2–3 столові ложки квашеної капусти чи кімчі. Приклад дня: ранкова каша з ряжанкою, кефір до обіду, ложка квашеної капусти до другої страви, комбуча замість солодкого напою, йогурт з ягодами на вечерю.
 
-Ми вже писали про [домашню ферментацію з рецептами](https://longlife.faion.net/fermented-foods-homemade-probiotics-guide/) і про [зв'язок мікробіома з настроєм](https://longlife.faion.net/gut-microbiome-mental-health-foods/) — можеш повернутися до них для деталей.
+Ми вже писали про [домашню ферментацію з рецептами](https://longlife.media/fermented-foods-homemade-probiotics-guide/) і про [зв'язок мікробіома з настроєм](https://longlife.media/gut-microbiome-mental-health-foods/) — можеш повернутися до них для деталей.
 
 ## Обмеження і кому обережно
 

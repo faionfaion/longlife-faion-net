@@ -37,14 +37,14 @@ tg_post: |
   
   Мережевий мета-аналіз у Frontiers in Physiology (2025, 55 РКД) показав оптимум для зняття DOMS: 10–15 хвилин у воді 11–15 °C. Але класичне РКД у Journal of Physiology зафіксувало: холод притлумлює mTOR і сателітні клітини до 48 годин, а за 12 тижнів група CWI набрала суттєво менше сили й м'язової маси, ніж ті, хто відновлювався активно.
   
-  <a href="https://longlife.faion.net/cold-plunge-after-strength-training-hypertrophy-meta-2025/">Читати повністю →</a>
+  <a href="https://longlife.media/cold-plunge-after-strength-training-hypertrophy-meta-2025/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
 Привіт! Сьогодні розберемо одну з найгарячіших (перепрошую за каламбур) суперечок у світі відновлення. Крижана ванна після важкого присідання відчувається як магія: болю менше, наступного дня легше ходити. Але свіжі мета-аналізи 2024–2025 показують, що ця «магія» має ціну — і ця ціна саме та, за якою ти ходиш у зал. 🧊💪
 
-Ми вже розбирали загальну доказову базу холодних занурень — [у попередньому матеріалі](https://longlife.faion.net/cold-water-immersion-evidence-based-guide-bjsm-cochrane-risks/) про Cochrane і BJSM. Сьогодні — вужчий фокус: що відбувається саме після силової.
+Ми вже розбирали загальну доказову базу холодних занурень — [у попередньому матеріалі](https://longlife.media/cold-water-immersion-evidence-based-guide-bjsm-cochrane-risks/) про Cochrane і BJSM. Сьогодні — вужчий фокус: що відбувається саме після силової.
 
 ## Що показала наука: два боки медалі
 

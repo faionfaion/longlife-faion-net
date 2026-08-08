@@ -53,7 +53,7 @@ tg_post: |
   
   За даними IOF, до третини переломів стегна припадає на чоловіків, а смертність протягом року сягає 30–33%. При цьому USPSTF 2025 дає для чоловіків «I statement» — доказів для скринінгу недостатньо, тож першим безкоштовним кроком залишається калькулятор FRAX, який оцінює 10-річний ризик перелому за 5 хвилин.
   
-  <a href="https://longlife.faion.net/osteoporoz-choloviky-65-plus-uspstf-frax-dexa-guide/">Читати повністю →</a>
+  <a href="https://longlife.media/osteoporoz-choloviky-65-plus-uspstf-frax-dexa-guide/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -64,7 +64,7 @@ tg_post: |
 
 При цьому, за оглядом у British Columbia Medical Journal, чоловіки отримують антиостеопоротичну терапію після перелому на 30–66% рідше, ніж жінки ([BCMJ, «Osteoporosis in men»](https://bcmj.org/articles/osteoporosis-men-underrecognized-and-undertreated-problem)). Тобто проблема є, а системного скринінгу — майже немає.
 
-Ми вже писали загальний [гайд про DEXA і FRAX для жінок](https://longlife.faion.net/osteoporoz-bez-symptomiv-dexa-densitometriya-frax-skryninh/) — сьогодні поглиблюємо тему для чоловіків. Розкажемо, чому дві авторитетні організації дають протилежні поради, як безкоштовно оцінити свій ризик за 5 хвилин і на які «червоні прапорці» звернути увагу.
+Ми вже писали загальний [гайд про DEXA і FRAX для жінок](https://longlife.media/osteoporoz-bez-symptomiv-dexa-densitometriya-frax-skryninh/) — сьогодні поглиблюємо тему для чоловіків. Розкажемо, чому дві авторитетні організації дають протилежні поради, як безкоштовно оцінити свій ризик за 5 хвилин і на які «червоні прапорці» звернути увагу.
 
 ## USPSTF 2025: «недостатньо доказів» — це не «не потрібно»
 
@@ -135,7 +135,7 @@ FRAX — це онлайн-калькулятор десятирічного р�
 
 Що цікаво: BMD за DXA справді добре прогнозує переломи у чоловіків — не гірше, ніж у жінок. Але падіння, сила хвату і швидкість ходи прогнозують перелом **незалежно** від FRAX і BMD ([Harvey et al., JBMR 2018](https://academic.oup.com/jbmr/article/33/3/510/7605770)).
 
-Тобто «функціональна оцінка» — тест сили хвату динамометром, farmer's carry, здатність швидко пройти 4 метри — має вагу поряд із будь-якою денситометрією. Про це ми детально писали в матеріалах про [силу хвату як маркер здоров'я](https://longlife.faion.net/grip-strength-health-marker-longevity-uk-biobank/) і [домашній протокол з динамометром](https://longlife.faion.net/dynamometr-syla-hvatu-farmer-carry-dead-hang-protokol-2026/).
+Тобто «функціональна оцінка» — тест сили хвату динамометром, farmer's carry, здатність швидко пройти 4 метри — має вагу поряд із будь-якою денситометрією. Про це ми детально писали в матеріалах про [силу хвату як маркер здоров'я](https://longlife.media/grip-strength-health-marker-longevity-uk-biobank/) і [домашній протокол з динамометром](https://longlife.media/dynamometr-syla-hvatu-farmer-carry-dead-hang-protokol-2026/).
 
 ## Український контекст: скільки коштує DEXA і як на неї потрапити
 
@@ -147,9 +147,9 @@ FRAX — це онлайн-калькулятор десятирічного р�
 
 Скринінг — це діагностика, а не профілактика. Кістки будуються не в кабінеті денситометрії. Кілька доказових напрямків, які ми розбирали окремо:
 
-- **Силові тренування** — базовий метод збереження щільності кісток після 50. Про це — у нашому матеріалі про [калістеніку vs залізо](https://longlife.faion.net/calisthenics-vs-weights-syla-bez-sportzalu/) і [ексцентрику після 50](https://longlife.faion.net/ekstsentryka-vs-kontsentryka-50-plus-syla-sertse-2026/);
-- **Динамометр і функціональні тести** — [гайд про силу хвату](https://longlife.faion.net/dynamometr-syla-hvatu-farmer-carry-dead-hang-protokol-2026/);
-- **VO2 max** — [чому кардіовитривалість варто моніторити нарівні з тиском](https://longlife.faion.net/vo2max-predictor-longevity-cardiorespiratory-fitness/).
+- **Силові тренування** — базовий метод збереження щільності кісток після 50. Про це — у нашому матеріалі про [калістеніку vs залізо](https://longlife.media/calisthenics-vs-weights-syla-bez-sportzalu/) і [ексцентрику після 50](https://longlife.media/ekstsentryka-vs-kontsentryka-50-plus-syla-sertse-2026/);
+- **Динамометр і функціональні тести** — [гайд про силу хвату](https://longlife.media/dynamometr-syla-hvatu-farmer-carry-dead-hang-protokol-2026/);
+- **VO2 max** — [чому кардіовитривалість варто моніторити нарівні з тиском](https://longlife.media/vo2max-predictor-longevity-cardiorespiratory-fitness/).
 
 ## Що можна зробити вже сьогодні
 

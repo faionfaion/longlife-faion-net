@@ -22,7 +22,7 @@ source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/36715875/"
   - "https://diabetesjournals.org/care/article/36/10/3262/30770/"
   - "https://pubmed.ncbi.nlm.nih.gov/35147898/"
-  - "https://longlife.faion.net/khodba-pislya-yizhi-2-5-khvylyn-postprandialna-hlyukoza-meta-analiz/"
+  - "https://longlife.media/khodba-pislya-yizhi-2-5-khvylyn-postprandialna-hlyukoza-meta-analiz/"
 source_names:
   - "Hashimoto et al. — Scientific Reports (2025)"
   - "Chang et al. — Frontiers in Nutrition (2025)"
@@ -37,7 +37,7 @@ tg_post: |
   
   Японські вчені у Scientific Reports порівняли три сценарії після 75 г глюкози: сидіти, йти 10 хвилин одразу або 30 хвилин із затримкою. Двогодинна AUC знизилася майже однаково, але тільки коротка прогулянка одразу після їжі достовірно збила пік цукру (164 проти 182 мг/дл). Мета-аналіз 17 РКД підтверджує: для глюкози ефект виходить на плато вже на ~30 хвилинах ходьби на день.
   
-  <a href="https://longlife.faion.net/khodba-pislya-yizhi-10-vs-30-khvylyn-plato-postprandialna-glukoza-2025/">Читати повністю →</a>
+  <a href="https://longlife.media/khodba-pislya-yizhi-10-vs-30-khvylyn-plato-postprandialna-glukoza-2025/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -74,7 +74,7 @@ tg_post: |
 
 ## Що з цим робити
 
-Ми вже [писали, чому 2–5-хвилинні «снеки руху» одразу після їжі перемагають довші прогулянки із затримкою](https://longlife.faion.net/khodba-pislya-yizhi-2-5-khvylyn-postprandialna-hlyukoza-meta-analiz/). Нові дані 2025 показують, що плато на кривій «тривалість—користь» для глюкози ймовірно лежить у діапазоні 10–15 хвилин після кожного основного прийому їжі.
+Ми вже [писали, чому 2–5-хвилинні «снеки руху» одразу після їжі перемагають довші прогулянки із затримкою](https://longlife.media/khodba-pislya-yizhi-2-5-khvylyn-postprandialna-hlyukoza-meta-analiz/). Нові дані 2025 показують, що плато на кривій «тривалість—користь» для глюкози ймовірно лежить у діапазоні 10–15 хвилин після кожного основного прийому їжі.
 
 Важливі застереження. Дослідження Hashimoto — лише 12 молодих здорових людей і чиста глюкоза (OGTT), а не змішана їжа. Chang мав високу гетерогенність (I²=76%), тобто результати окремих досліджень доволі різнорідні. Для людей з діабетом 2 типу або на цукрознижувальних препаратах будь-які зміни режиму варто узгоджувати з ендокринологом — фізична активність може посилювати дію ліків.
 

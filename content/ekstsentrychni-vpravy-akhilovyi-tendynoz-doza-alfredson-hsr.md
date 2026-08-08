@@ -34,7 +34,7 @@ tg_post: |
   
   У RCT Stevens &amp; Tan (2014) група, яка робила вправу «скільки комфортно» (~60–70% обсягу), покращила шкалу VISA-A так само, як класичний протокол Альфредсона на 180 повторень. Клінічна настанова JOSPT 2024 підтверджує: частота, кількість сесій і тривалість курсу статистично не впливають на результат — головне регулярне ексцентричне навантаження з прямим і зігнутим коліном.
   
-  <a href="https://longlife.faion.net/ekstsentrychni-vpravy-akhilovyi-tendynoz-doza-alfredson-hsr/">Читати повністю →</a>
+  <a href="https://longlife.media/ekstsentrychni-vpravy-akhilovyi-tendynoz-doza-alfredson-hsr/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -63,7 +63,7 @@ Heavy Slow Resistance (важкі повільні резистентні впр
 
 Модель моніторингу болю Silbernagel (Journal of Athletic Training, 2020): біль під час активності ≤5/10, ранкова скутість не гіршає — можна тренуватися. Якщо гіршає — знижуй обсяг ([відкритий доступ](https://pmc.ncbi.nlm.nih.gov/articles/PMC7237694/)).
 
-Про фізіологію ексцентричного навантаження в цілому ми вже писали — [як фаза опускання ваги будує силу і захищає від травм](https://longlife.faion.net/eccentric-training-opuskannia-vahy-syla-zakhyst-vid-travm/).
+Про фізіологію ексцентричного навантаження в цілому ми вже писали — [як фаза опускання ваги будує силу і захищає від травм](https://longlife.media/eccentric-training-opuskannia-vahy-syla-zakhyst-vid-travm/).
 
 **Коли час до ортопеда**
 

@@ -47,7 +47,7 @@ tg_post: |
   
   Моніторинг WHO у 9 областях України зафіксував 72 040 годин температурних записів: сільські амбулаторії тримають режим 2-8 °C лише 88,8% часу, а транспорт до ФАПів — усього 54,8% рейсів. Причини — блекаути, брак SOP і те, що до великої війни резервне живлення мали лише 28% провайдерів. Рішення вже є: fridge-free вакцини, які не бояться теплої полиці.
   
-  <a href="https://longlife.faion.net/fridge-free-vakcyny-cold-chain-blackouts-ukraine-2026/">Читати повністю →</a>
+  <a href="https://longlife.media/fridge-free-vakcyny-cold-chain-blackouts-ukraine-2026/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---

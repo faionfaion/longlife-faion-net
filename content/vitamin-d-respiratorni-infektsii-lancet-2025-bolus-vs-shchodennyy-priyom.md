@@ -25,8 +25,8 @@ source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC7646079/"
   - "https://link.springer.com/article/10.1186/s12937-024-00990-w"
   - "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/"
-  - "https://longlife.faion.net/vitamin-d-dobavka-2026-vital-d-health-komu-dopomahaye/"
-  - "https://longlife.faion.net/vitamin-d-deficiency-ukraine/"
+  - "https://longlife.media/vitamin-d-dobavka-2026-vital-d-health-komu-dopomahaye/"
+  - "https://longlife.media/vitamin-d-deficiency-ukraine/"
 source_names:
   - "The Lancet Diabetes & Endocrinology (Jolliffe/Martineau, 2025)"
   - "PMC — Jolliffe 2025 full text"
@@ -45,7 +45,7 @@ tg_post: |
   
   Оновлений огляд Джолліффа й Мартіно з 6 новими дослідженнями та піданалізом VITAL (15 804 учасники) підтвердив: захисний ефект дає лише щоденний або щотижневий прийом (OR 0.92). Болюс-режим — 60 000 МО раз на місяць чи 100 000+ МО разово — ефект обнуляє, а історично мегадози навіть підвищували ризик падінь і переломів. В Україні при цьому 63% людей не досягають оптимального рівня 25(OH)D — тому режим прийому важливіший за розмір дози.
   
-  <a href="https://longlife.faion.net/vitamin-d-respiratorni-infektsii-lancet-2025-bolus-vs-shchodennyy-priyom/">Читати повністю →</a>
+  <a href="https://longlife.media/vitamin-d-respiratorni-infektsii-lancet-2025-bolus-vs-shchodennyy-priyom/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -60,7 +60,7 @@ tg_post: |
 
 Автори чітко показали: якщо приймати вітамін D у **болюс-режимі** — тобто разовими великими дозами раз на місяць або раз на рік (замість щоденного прийому невеликими порціями) — захисний ефект **зникає повністю**. І тут не має значення, чи це 60 000 МО щомісяця, чи 100 000+ МО разово: сам режим «рідко, але багато» не спрацьовує.
 
-Це підтверджує й австралійське дослідження D-Health на 21 315 людях: 60 000 МО раз на місяць протягом 5 років — жодного зниження ризику ГРВІ ([Lancet Diabetes Endocrinol, 2021](https://pubmed.ncbi.nlm.nih.gov/33444565/)). А історичне дослідження Sanders у *JAMA* (2010) показало, що 500 000 МО раз на рік у жінок 70+ навпаки збільшувало кількість падінь і переломів ([JAMA, 2010](https://jamanetwork.com/journals/jama/fullarticle/185854)). Як ми вже писали в матеріалі про [те, кому справді допомагає вітамін D](https://longlife.faion.net/vitamin-d-dobavka-2026-vital-d-health-komu-dopomahaye/), мегадози — не безпечна стратегія.
+Це підтверджує й австралійське дослідження D-Health на 21 315 людях: 60 000 МО раз на місяць протягом 5 років — жодного зниження ризику ГРВІ ([Lancet Diabetes Endocrinol, 2021](https://pubmed.ncbi.nlm.nih.gov/33444565/)). А історичне дослідження Sanders у *JAMA* (2010) показало, що 500 000 МО раз на рік у жінок 70+ навпаки збільшувало кількість падінь і переломів ([JAMA, 2010](https://jamanetwork.com/journals/jama/fullarticle/185854)). Як ми вже писали в матеріалі про [те, кому справді допомагає вітамін D](https://longlife.media/vitamin-d-dobavka-2026-vital-d-health-komu-dopomahaye/), мегадози — не безпечна стратегія.
 
 ## Український контекст: дефіцит + сезонність
 

@@ -28,8 +28,8 @@ source_urls:
   - "https://edm.bioscientifica.com/view/journals/edm/2026/1/EDM-25-0076.xml"
   - "https://www.ncbi.nlm.nih.gov/books/NBK548536/"
   - "https://ods.od.nih.gov/factsheets/Ashwagandha-HealthProfessional/"
-  - "https://longlife.faion.net/ashvaganda-testosteron-son-pechinka-meta-analizy-2025/"
-  - "https://longlife.faion.net/adaptogeny-ashvaganda-rodiola-eleuterokok-meta-analizy-2024-2025/"
+  - "https://longlife.media/ashvaganda-testosteron-son-pechinka-meta-analizy-2025/"
+  - "https://longlife.media/adaptogeny-ashvaganda-rodiola-eleuterokok-meta-analizy-2024-2025/"
 source_names:
   - "Nutrients (Della Porta 2023)"
   - "Journal of Psychopharmacology (Smith 2023, Witholytin RCT)"
@@ -49,7 +49,7 @@ tg_post: |
   
   Мета-аналіз у BJPsych Open (2025) на 15 RCT і 873 учасниках підтвердив: через 8 тижнів прийому падають кортизол, тривога за шкалою HAM-A та сприйнятий стрес. Робочі дози — 240–1250 мг/день (найчастіше KSM-66 по 300–600 мг двічі на добу), але з'явився перший клінічний опис супресії HPA-осі — тож курсами, а не роками, і не без консультації лікаря при проблемах з печінкою чи щитоподібною.
   
-  <a href="https://longlife.faion.net/ashvaganda-ksm66-sensoril-witholytin-hpa-suppression-2026/">Читати повністю →</a>
+  <a href="https://longlife.media/ashvaganda-ksm66-sensoril-witholytin-hpa-suppression-2026/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -58,7 +58,7 @@ tg_post: |
 
 > ⚠️ **Медичний дисклеймер.** Матеріал має інформаційний характер і не замінює консультацію лікаря. Не починайте приймати ашваганду без обговорення зі своїм лікарем — особливо якщо у вас є захворювання печінки чи щитоподібної залози, ви вагітні або плануєте вагітність, годуєте грудьми, або приймаєте гормональні препарати (левотироксин, оральні контрацептиви, тестостерон-замісну терапію).
 
-Ми вже детально розбирали цю рослину у двох матеріалах: [про тестостерон, сон і печінку](https://longlife.faion.net/ashvaganda-testosteron-son-pechinka-meta-analizy-2025/) та [у порівнянні з родіолою й елеутерококом](https://longlife.faion.net/adaptogeny-ashvaganda-rodiola-eleuterokok-meta-analizy-2024-2025/). Сьогодні — оновлення: свіжий мета-аналіз BJPsych Open, RCT з новим брендом Witholytin і перший клінічний опис супресії HPA-осі (гіпоталамо-гіпофізарно-надниркової осі — системи, що керує виробленням кортизолу).
+Ми вже детально розбирали цю рослину у двох матеріалах: [про тестостерон, сон і печінку](https://longlife.media/ashvaganda-testosteron-son-pechinka-meta-analizy-2025/) та [у порівнянні з родіолою й елеутерококом](https://longlife.media/adaptogeny-ashvaganda-rodiola-eleuterokok-meta-analizy-2024-2025/). Сьогодні — оновлення: свіжий мета-аналіз BJPsych Open, RCT з новим брендом Witholytin і перший клінічний опис супресії HPA-осі (гіпоталамо-гіпофізарно-надниркової осі — системи, що керує виробленням кортизолу).
 
 ## Кортизол падає — але це не вся картина
 

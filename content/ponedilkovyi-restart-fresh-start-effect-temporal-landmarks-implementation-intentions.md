@@ -33,7 +33,7 @@ tg_post: |
   
   Дослідники з Wharton у журналі Management Science виявили, що після понеділків, перших чисел місяця та свят відвідуваність спортзалів зростає приблизно на 33%, а запити «diet» у Google стрибають угору. Цей «ефект свіжого старту» працює — але мотивація випаровується до середи без плану типу «якщо X, то Y».
   
-  <a href="https://longlife.faion.net/ponedilkovyi-restart-fresh-start-effect-temporal-landmarks-implementation-intentions/">Читати повністю →</a>
+  <a href="https://longlife.media/ponedilkovyi-restart-fresh-start-effect-temporal-landmarks-implementation-intentions/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -54,7 +54,7 @@ tg_post: |
 
 1. **Обери один експеримент на тиждень** — один сон, один прийом їжі АБО одне тренування. Не все одразу.
 2. **Запиши if-then план:** «Якщо понеділок, 7:00 — то я йду 20 хвилин пішки до того, як беру телефон».
-3. **Поєднай з мікрозвичкою** з [нашої статті про правило двох хвилин](https://longlife.faion.net/micro-habits-two-minute-rule-tiny-habits-fogg-lally-automaticity/) — понеділок дає тригер, мікрозвичка задає розмір дії.
+3. **Поєднай з мікрозвичкою** з [нашої статті про правило двох хвилин](https://longlife.media/micro-habits-two-minute-rule-tiny-habits-fogg-lally-automaticity/) — понеділок дає тригер, мікрозвичка задає розмір дії.
 
 Перед суттєвими змінами в раціоні чи режимі тренувань варто порадитися з лікарем — особливо за наявності хронічних станів. 💪
 

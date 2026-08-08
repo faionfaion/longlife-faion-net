@@ -45,14 +45,14 @@ tg_post: |
   
   Систематичний огляд у Osteoporosis International показав: 20–40% пікової кісткової маси залежить від способу життя, решта — від генетики. Мета-аналіз у Sports Medicine підтвердив: навіть 10–50 стрибків на день дають остеогенний стимул у шийці стегна, а силові тренування додають +1,1% щільності.
   
-  <a href="https://longlife.faion.net/pikova-kistkova-masa-20-29-sylovi-vitamin-d-k2-kreatyn-molodi-zhinky/">Читати повністю →</a>
+  <a href="https://longlife.media/pikova-kistkova-masa-20-29-sylovi-vitamin-d-k2-kreatyn-molodi-zhinky/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
 Привіт! Сьогодні поговоримо про кістки — не в 60 і навіть не в 40, а прямо зараз, у 20–29. Це та рідкісна фаза, коли ти ще можеш **додавати** щільність, а не просто зберігати. 🦴
 
-Нагадаємо, що у наших матеріалах про [денситометрію після 35](https://longlife.faion.net/osteoporoz-bez-symptomiv-dexa-densitometriya-frax-skryninh/) і [креатин у перименопаузі](https://longlife.faion.net/kreatyn-zhinky-perymenopauza-meta-analiz-2026-kistky-syla-kohnitsiya/) йшлося про те, як утримати кістку. У 20-ті — інша логіка: тут ще працює будівництво.
+Нагадаємо, що у наших матеріалах про [денситометрію після 35](https://longlife.media/osteoporoz-bez-symptomiv-dexa-densitometriya-frax-skryninh/) і [креатин у перименопаузі](https://longlife.media/kreatyn-zhinky-perymenopauza-meta-analiz-2026-kistky-syla-kohnitsiya/) йшлося про те, як утримати кістку. У 20-ті — інша логіка: тут ще працює будівництво.
 
 ## Коли насправді формується «пік»
 

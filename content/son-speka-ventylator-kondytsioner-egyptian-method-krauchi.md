@@ -37,16 +37,16 @@ tg_post: |
   
   Глобальне дослідження в One Earth (7 млн ночей, 68 країн) показало: спека краде сон, і засинати стає важче. Ключ до швидкого засинання — DPG (різниця температур між кінцівками й тулуба): 2–3 хвилини прохолодної води на зап'ястя, ступні та шию розширюють судини і дають мозку сигнал спати. Плюс єгипетський метод — вологе бавовняне простирадло + вентилятор через кімнату.
   
-  <a href="https://longlife.faion.net/son-speka-ventylator-kondytsioner-egyptian-method-krauchi/">Читати повністю →</a>
+  <a href="https://longlife.media/son-speka-ventylator-kondytsioner-egyptian-method-krauchi/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
-Привіт! Продовжуємо серію про спеку ([серце](https://longlife.faion.net/speka-sertse-esc-2025-nature-medicine-gid-vyzhyvannya/), [психіка](https://longlife.faion.net/speka-psykhika-tryvoga-depresiya-siozs-nature-health-2026/)) — сьогодні про найболючіше: як спати, коли термометр у спальні показує 28 °C і кватирка не рятує. 😴
+Привіт! Продовжуємо серію про спеку ([серце](https://longlife.media/speka-sertse-esc-2025-nature-medicine-gid-vyzhyvannya/), [психіка](https://longlife.media/speka-psykhika-tryvoga-depresiya-siozs-nature-health-2026/)) — сьогодні про найболючіше: як спати, коли термометр у спальні показує 28 °C і кватирка не рятує. 😴
 
 Глобальне дослідження в журналі One Earth (Minor et al., 2022) проаналізувало 7 млн ночей із браслетів 47 628 людей у 68 країнах. Висновок: через теплі ночі ми вже втрачаємо близько **44 годин сну на рік** — і засинаємо пізніше, і прокидаємось раніше ([One Earth](https://www.cell.com/one-earth/fulltext/S2590-3322(22)00209-3)).
 
-Ми вже писали про [ідеальні 18–19 °C у спальні](https://longlife.faion.net/temperatura-spalni-18-19-stupeniv-termorehulyatsiya-yakist-snu/). А що робити, коли ця цифра — фантастика?
+Ми вже писали про [ідеальні 18–19 °C у спальні](https://longlife.media/temperatura-spalni-18-19-stupeniv-termorehulyatsiya-yakist-snu/). А що робити, коли ця цифра — фантастика?
 
 > ⚠️ **Важливо для вразливих груп.** Літні люди, гіпертоніки, вагітні, люди з хронічними хворобами серця та маленькі діти найбільш ризиковані під час теплових хвиль. Якщо з'являються симптоми теплового виснаження — запаморочення, нудота, слабкість, судоми, сплутаність свідомості — потрібно негайно звернутись до лікаря. Поради нижче — для загального дорослого читача, а не заміна медичної консультації.
 

@@ -45,7 +45,7 @@ tg_post: |
   
   Опитування 59 999 учасників parkrun показало: медіанний вік випускників британської програми — 50,5 року, і 72,5% з них — жінки. А мета-аналіз у British Journal of Sports Medicine (232 149 людей) виявив, що бігуни мають на 27% нижчий ризик смертності від усіх причин — причому ефект з'являється вже на дозі менше 50 хвилин на тиждень.
   
-  <a href="https://longlife.faion.net/couch-to-5k-30-dniv-protokol-pochatkivtsi-50-plus/">Читати повністю →</a>
+  <a href="https://longlife.media/couch-to-5k-30-dniv-protokol-pochatkivtsi-50-plus/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -84,9 +84,9 @@ tg_post: |
 
 Альтернативи з нашого архіву:
 
-- [Рукінг — ходьба з вагою](https://longlife.faion.net/calisthenics-vs-weights-syla-bez-sportzalu/) для м'якого старту
-- [Ходьба після їжі 2–5 хвилин](https://longlife.faion.net/khodba-pislya-yizhi-2-5-khvylyn-postprandialna-hlyukoza-meta-analiz/) як база руху
-- [Тест балансу на одній нозі](https://longlife.faion.net/grip-strength-health-marker-longevity-uk-biobank/) перед стартом
+- [Рукінг — ходьба з вагою](https://longlife.media/calisthenics-vs-weights-syla-bez-sportzalu/) для м'якого старту
+- [Ходьба після їжі 2–5 хвилин](https://longlife.media/khodba-pislya-yizhi-2-5-khvylyn-postprandialna-hlyukoza-meta-analiz/) як база руху
+- [Тест балансу на одній нозі](https://longlife.media/grip-strength-health-marker-longevity-uk-biobank/) перед стартом
 
 ## Про взуття чесно
 
@@ -101,4 +101,4 @@ tg_post: |
 3. **Якщо тобі 50+ і є хронічні стани** — спершу до сімейного лікаря, потім на бігову доріжку. Особливо якщо колись травмував коліно чи гомілку.
 4. **Якщо BMI 35+ або болять коліна** — почни з ходьби чи рукінгу, біг додавай після зниження ваги або під наглядом спеціаліста.
 
-Хочеш паралельно стежити за прогресом — підглянь у [12-тижневий протокол VO₂max](https://longlife.faion.net/vo2max-domashni-testy-norwegian-4x4-12-tyzhniv-protokol/). Біг повільно — все одно біг. ⏳
+Хочеш паралельно стежити за прогресом — підглянь у [12-тижневий протокол VO₂max](https://longlife.media/vo2max-domashni-testy-norwegian-4x4-12-tyzhniv-protokol/). Біг повільно — все одно біг. ⏳

@@ -47,7 +47,7 @@ tg_post: |
   
   ARFID (розлад уникаючого/обмежувального прийому їжі) — окремий діагноз у DSM-5 та ICD-11, який, на відміну від анорексії, не пов'язаний зі страхом поправитись. Гарвардські дослідники виділяють 3 фенотипи: сенсорна чутливість до текстури й запаху, страх після епізоду удавлення чи блювання, і низький інтерес до їжі. Поширеність — близько 1 людини з 300, тож фраза «зголодніє — з'їсть» тут не працює.
   
-  <a href="https://longlife.faion.net/arfid-dytiacha-perebirlyvist-dsm5-cbt-ar-skryninh-nias/">Читати повністю →</a>
+  <a href="https://longlife.media/arfid-dytiacha-perebirlyvist-dsm5-cbt-ar-skryninh-nias/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -78,7 +78,7 @@ tg_post: |
 
 А серед дітей з розладами аутистичного спектра поширеність ARFID сягає **21%** (Koomar та ін., 2021) ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8221394/)). У цьому ж дослідженні Koomar і колеги, проаналізувавши когорту понад 30 000 дітей із даних SPARK, показали, що серед дітей з ARFID аутизм трапляється приблизно у 14 разів частіше, а розлад дефіциту уваги і гіперактивності (РДУГ; в деяких джерелах — ГРДУ) — приблизно у 9 разів частіше, ніж у середньому в популяції ([Koomar et al., 2021, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8221394/)).
 
-Як ми вже [писали про дискусію навколо психічного здоров'я підлітків](https://longlife.faion.net/screen-time-adolescent-mental-health-haidt-orben-debate/), статистика — це не вирок, а сигнал звернути увагу.
+Як ми вже [писали про дискусію навколо психічного здоров'я підлітків](https://longlife.media/screen-time-adolescent-mental-health-haidt-orben-debate/), статистика — це не вирок, а сигнал звернути увагу.
 
 ## Чим ARFID шкодить тілу
 
@@ -93,7 +93,7 @@ tg_post: |
 
 Останнє важливо: **дитина з ARFID може мати нормальну або навіть підвищену вагу**. ARFID — це не завжди про худорлявість. Тому орієнтуватися тільки на вагу — помилка.
 
-Якщо знайомі ситуації з дефіцитами, у нас є окремі матеріали про [дефіцит вітаміну B12](https://longlife.faion.net/vitamin-b12-defitsyt-vtoma-depresiya-diagnostyka-likuvannia/) і [дефіцит вітаміну D в Україні](https://longlife.faion.net/vitamin-d-deficiency-ukraine/).
+Якщо знайомі ситуації з дефіцитами, у нас є окремі матеріали про [дефіцит вітаміну B12](https://longlife.media/vitamin-b12-defitsyt-vtoma-depresiya-diagnostyka-likuvannia/) і [дефіцит вітаміну D в Україні](https://longlife.media/vitamin-d-deficiency-ukraine/).
 
 ## Червоні прапорці для батьків 🚩
 

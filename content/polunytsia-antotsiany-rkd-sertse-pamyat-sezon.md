@@ -43,7 +43,7 @@ tg_post: |
   
   У дослідженні Basu (J Nutr, 2014) 50 г сублімованої полуниці на день (≈500 г свіжої) знизили ЛПНЩ на ~10% за 12 тижнів у людей з абдомінальним ожирінням. Свіжий мета-аналіз 29 РКД (PLoS One, 2025) підтвердив скромний ефект антоціанів: ЛПНЩ −0,18 ммоль/л, HbA1c −0,43%. А от GRADE-мета-аналіз 2025 року не знайшов значущого зниження тиску — красива гіпотеза поки що не підтвердилася.
   
-  <a href="https://longlife.faion.net/polunytsia-antotsiany-rkd-sertse-pamyat-sezon/">Читати повністю →</a>
+  <a href="https://longlife.media/polunytsia-antotsiany-rkd-sertse-pamyat-sezon/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---

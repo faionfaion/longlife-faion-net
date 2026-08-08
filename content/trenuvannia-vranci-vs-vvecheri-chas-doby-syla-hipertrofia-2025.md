@@ -40,7 +40,7 @@ tg_post: |
   
   Мета-аналіз у Scientific Reports (2020) показав: пік сили й потужності припадає на 16:00–20:00, бо температура тіла вища, а нерви проводять сигнал швидше. Але для гіпертрофії час доби майже не має значення — приріст м'язів однаковий зранку та ввечері. Головне правило: тренуйся тоді, коли можеш робити це стабільно.
   
-  <a href="https://longlife.faion.net/trenuvannia-vranci-vs-vvecheri-chas-doby-syla-hipertrofia-2025/">Читати повністю →</a>
+  <a href="https://longlife.media/trenuvannia-vranci-vs-vvecheri-chas-doby-syla-hipertrofia-2025/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -73,7 +73,7 @@ VO₂max (максимальне споживання кисню — голов�
 
 Систематичний огляд Vitale та Weydahl у Sports Medicine (2017) показав: «жайворонки» досягають фізичного піку раніше, «сови» — ввечері. Розрив між ранком і вечором у «сов» більший — і він зникає, коли тестування збігається з їхнім піком ([Vitale & Weydahl, 2017](https://pubmed.ncbi.nlm.nih.gov/28194651/)).
 
-Як ми вже писали в [статті про хронотипи](https://longlife.faion.net/chronotypes-genetics-daily-schedule-optimization/), це генетика — а не питання дисципліни.
+Як ми вже писали в [статті про хронотипи](https://longlife.media/chronotypes-genetics-daily-schedule-optimization/), це генетика — а не питання дисципліни.
 
 ## Принцип «конгруентності»: тренуйся тоді, коли важливо виступити
 

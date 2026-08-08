@@ -46,7 +46,7 @@ tg_post: |
   
   Нейромеланін-чутлива МРТ показала, що зниження цілісності locus coeruleus передує накопиченню тау-білка у скроневій частці — саме тут з'являються перші «пре-клубочки» задовго до деменції. У дослідженні на 7-тесловій МРТ слабший сигнал у цій зоні також корелював з нічними пробудженнями, бо саме вона керує норадреналіном — нейромедіатором уваги й глибокого сну. Поки що це дослідницький інструмент, а не діагностичний тест — але напрямок для ранньої профілактики вже вимальовується.
   
-  <a href="https://longlife.faion.net/locus-coeruleus-alzheimer-7t-mrt-son-vo2max-2026/">Читати повністю →</a>
+  <a href="https://longlife.media/locus-coeruleus-alzheimer-7t-mrt-son-vo2max-2026/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -79,10 +79,10 @@ tg_post: |
 
 ## Що можна зробити вже сьогодні
 
-Добра новина: механізм LC **може частково пояснювати**, чому працюють банальні поради, які ВООЗ і Lancet Commission давно включили до 14 модифікованих факторів деменції ([Lancet Commission, 2024](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01296-0/fulltext)). Це поки що правдоподібна гіпотеза, а не встановлений механізм. Про самі фактори ми детально писали [тут](https://longlife.faion.net/voz-14-faktoriv-ryzyku-dementsii-lancet-2024-profilaktyka/).
+Добра новина: механізм LC **може частково пояснювати**, чому працюють банальні поради, які ВООЗ і Lancet Commission давно включили до 14 модифікованих факторів деменції ([Lancet Commission, 2024](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01296-0/fulltext)). Це поки що правдоподібна гіпотеза, а не встановлений механізм. Про самі фактори ми детально писали [тут](https://longlife.media/voz-14-faktoriv-ryzyku-dementsii-lancet-2024-profilaktyka/).
 
-- **Захищай глибокий сон.** 7–9 годин для дорослих за рекомендаціями AASM/Sleep Research Society ([Watson et al., 2015](https://pubmed.ncbi.nlm.nih.gov/26039963/)), прохолодна спальня 18–19°C — за даними огляду щодо температури і якості сну оптимальний діапазон 17–19°C ([Harding et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31170661/)), [без алкоголю ввечері](https://longlife.faion.net/alcohol-sleep-rem-disruption-hrv-guide/). Саме повільнохвильова фаза страждає першою при дисфункції LC.
-- **Роби аеробіку регулярно.** [Кардіо і VO2max](https://longlife.faion.net/vo2max-predictor-longevity-cardiorespiratory-fitness/) — це не про марафон, а про 150 хвилин помірної активності на тиждень за [рекомендаціями ВООЗ](https://www.who.int/publications/i/item/9789240015128).
+- **Захищай глибокий сон.** 7–9 годин для дорослих за рекомендаціями AASM/Sleep Research Society ([Watson et al., 2015](https://pubmed.ncbi.nlm.nih.gov/26039963/)), прохолодна спальня 18–19°C — за даними огляду щодо температури і якості сну оптимальний діапазон 17–19°C ([Harding et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31170661/)), [без алкоголю ввечері](https://longlife.media/alcohol-sleep-rem-disruption-hrv-guide/). Саме повільнохвильова фаза страждає першою при дисфункції LC.
+- **Роби аеробіку регулярно.** [Кардіо і VO2max](https://longlife.media/vo2max-predictor-longevity-cardiorespiratory-fitness/) — це не про марафон, а про 150 хвилин помірної активності на тиждень за [рекомендаціями ВООЗ](https://www.who.int/publications/i/item/9789240015128).
 - **Не ігноруй депресію і тривогу.** Вони в списку модифікованих факторів деменції ([Lancet Commission, 2024](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01296-0/fulltext)) — звернення до фахівця має сенс і для настрою, і для мозку в довгостроковій перспективі.
 
 Хоча результати обнадійливі, довгострокових рандомізованих досліджень з LC-МРТ як кінцевою точкою поки немає. Але базове правило залишається: те, що добре для серця і сну — добре для мозку. 🌿

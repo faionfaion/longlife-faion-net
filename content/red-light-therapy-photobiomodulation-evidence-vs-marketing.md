@@ -40,7 +40,7 @@ tg_post: |
   
   Мета-аналіз 22 досліджень у BMJ Open показав: фотобіомодуляція дійсно зменшує біль при остеоартрозі, а пік ефекту настає через 2–4 тижні. А ось «спалювання жиру» — міф: за даними іншого мета-аналізу (n=569), відсоток жиру не змінюється (p=0.57). Важливий нюанс — доза має бути 3–6 Дж/см², більше не означає краще, ефект може стати протилежним.
   
-  <a href="https://longlife.faion.net/red-light-therapy-photobiomodulation-evidence-vs-marketing/">Читати повністю →</a>
+  <a href="https://longlife.media/red-light-therapy-photobiomodulation-evidence-vs-marketing/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -69,7 +69,7 @@ tg_post: |
 
 LED-панелі теоретично не гірші за лазери — це підтверджує огляд [Heiskanen & Hamblin (2018)](https://pubmed.ncbi.nlm.nih.gov/30044464/). Але більшість домашніх пристроїв не мають незалежної перевірки потужності та довжини хвилі. Результати клінічних досліджень можуть просто не відтворюватися на побутовому приладі.
 
-Інші методи, як-от [сауна](https://longlife.faion.net/sauna-cardiovascular-health-finnish-study/) чи [холодова терапія](https://longlife.faion.net/cold-exposure-therapy-brown-fat-2026/), мають ширшу епідеміологічну базу. Домашня PBM-панель поки лишається інвестицією з невизначеною віддачею.
+Інші методи, як-от [сауна](https://longlife.media/sauna-cardiovascular-health-finnish-study/) чи [холодова терапія](https://longlife.media/cold-exposure-therapy-brown-fat-2026/), мають ширшу епідеміологічну базу. Домашня PBM-панель поки лишається інвестицією з невизначеною віддачею.
 
 ## Що можна зробити вже сьогодні 💪
 

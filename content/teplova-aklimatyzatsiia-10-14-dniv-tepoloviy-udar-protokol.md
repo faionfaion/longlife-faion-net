@@ -27,7 +27,7 @@ source_urls:
   - "https://www.cdc.gov/heat-health/hcp/clinical-guidance/heat-and-medications-guidance-for-clinicians.html"
   - "https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health"
   - "https://www.who.int/europe/news/item/23-06-2025-how-summer-heat-impacts-health-and-how-to--keepcool"
-  - "https://longlife.faion.net/nadmir-vody-hiponatriemiya-speka-skilky-pyty-bezpechno/"
+  - "https://longlife.media/nadmir-vody-hiponatriemiya-speka-skilky-pyty-bezpechno/"
 source_names:
   - "Périard et al., Scandinavian Journal of Medicine & Science in Sports, 2015"
   - "Tyler et al., Sports Medicine, 2016 (мета-аналіз 96 досліджень)"
@@ -43,7 +43,7 @@ tg_post: |
   
   Огляд у Scandinavian Journal of Medicine &amp; Science in Sports показує: 60–90 хвилин потіння на день збільшують об'єм плазми крові на 10–12%, а потові залози вмикаються раніше і виділяють до 50% більше поту з меншим вмістом натрію. Результат — пульс падає на 10–15 уд/хв, температура тіла на 0,3–0,5 °C, а половина адаптацій встигає сформуватися вже до 5-го дня.
   
-  <a href="https://longlife.faion.net/teplova-aklimatyzatsiia-10-14-dniv-tepoloviy-udar-protokol/">Читати повністю →</a>
+  <a href="https://longlife.media/teplova-aklimatyzatsiia-10-14-dniv-tepoloviy-udar-protokol/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -94,7 +94,7 @@ tg_post: |
 
 Правило просте: **пий за відчуттям спраги**, а при потінні понад годину додавай натрій — електролітний напій або солоний перекус. Не перепивай: надмір води при тривалому потінні може призвести до гіпонатріємії — небезпечного падіння натрію в крові.
 
-Деталі — у нашому матеріалі [«Коли вода стає небезпечною»](https://longlife.faion.net/nadmir-vody-hiponatriemiya-speka-skilky-pyty-bezpechno/). Там і про міф 8 склянок, і про конкретні цифри від CDC.
+Деталі — у нашому матеріалі [«Коли вода стає небезпечною»](https://longlife.media/nadmir-vody-hiponatriemiya-speka-skilky-pyty-bezpechno/). Там і про міф 8 склянок, і про конкретні цифри від CDC.
 
 ## Тепловий удар: де закінчується «жарко» і починається невідкладна допомога
 
@@ -186,4 +186,4 @@ tg_post: |
 8. CDC. Heat and Medications — Guidance for Clinicians. https://www.cdc.gov/heat-health/hcp/clinical-guidance/heat-and-medications-guidance-for-clinicians.html
 9. WHO. Climate change, heat and health (fact sheet). https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health
 10. WHO Europe. How summer heat impacts health and how to #KeepCool, 2025. https://www.who.int/europe/news/item/23-06-2025-how-summer-heat-impacts-health-and-how-to--keepcool
-11. LongLife. Коли вода стає небезпечною: гіпонатріємія в спеку. https://longlife.faion.net/nadmir-vody-hiponatriemiya-speka-skilky-pyty-bezpechno/
+11. LongLife. Коли вода стає небезпечною: гіпонатріємія в спеку. https://longlife.media/nadmir-vody-hiponatriemiya-speka-skilky-pyty-bezpechno/

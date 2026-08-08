@@ -37,7 +37,7 @@ tg_post: |
   
   Команда Cain et al. проаналізувала 11 РКД із загальною вибіркою n = 3 177 щодо занурення у воду 7–15 °C. Головний сюрприз — рівень стресу знижується не одразу, а через 12 годин після процедури, тож очікувати миттєвого «біохак-ефекту» — марно. Перед стартом — чек-лист протипоказань: серце, тиск, Рейно, вагітність, епілепсія.
   
-  <a href="https://longlife.faion.net/kholodnyi-dush-2-khvylyny-meta-analiz-plos-one-2025-dofamin-imunitet/">Читати повністю →</a>
+  <a href="https://longlife.media/kholodnyi-dush-2-khvylyny-meta-analiz-plos-one-2025-dofamin-imunitet/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---

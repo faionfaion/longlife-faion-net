@@ -47,14 +47,14 @@ tg_post: |
   
   Мета-аналіз у PLOS ONE показав, що серед підлітків з ожирінням стеатоз печінки має 34,2%, а свіжі дані FibroScan — уже 65,5%, причому в 11,9% є ознаки фіброзу. Ключовий момент: дитячий MASLD (колишній NAFLD) розвивається інакше, ніж у дорослих — це type 2 NASH із портальним запаленням, тому банальний аналіз ALT у профогляді дитини з надмірною вагою може змінити прогноз на десятиліття вперед.
   
-  <a href="https://longlife.faion.net/masld-dity-10-14-alt-skryninh-naspghan-aasld-2025/">Читати повністю →</a>
+  <a href="https://longlife.media/masld-dity-10-14-alt-skryninh-naspghan-aasld-2025/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
 Привіт! Сьогодні розберемо тему, яка ще 10 років тому здавалася «дорослою», а сьогодні стосується кожного десятого підлітка. Йдеться про MASLD — метаболічно-асоційовану стеатотичну хворобу печінки (раніше її називали NAFLD, неалкогольна жирова хвороба печінки). 🔬
 
-Що про неї відомо загалом і чому назва змінилася, ми вже писали в [окремому матеріалі про MASLD у дорослих](https://longlife.faion.net/masld-zhyrova-khvoroba-pechinky-fib4-rezmetirom/). А сьогодні — суто про дітей 10–14 років і про те, чому український профогляд школяра тут поки не передбачає ключового кроку, який рекомендують міжнародні гайдлайни.
+Що про неї відомо загалом і чому назва змінилася, ми вже писали в [окремому матеріалі про MASLD у дорослих](https://longlife.media/masld-zhyrova-khvoroba-pechinky-fib4-rezmetirom/). А сьогодні — суто про дітей 10–14 років і про те, чому український профогляд школяра тут поки не передбачає ключового кроку, який рекомендують міжнародні гайдлайни.
 
 ## Скільки дітей це стосується
 
@@ -89,7 +89,7 @@ tg_post: |
 
 Профогляди школярів регламентують [наказ МОЗ №1351 (2023)](https://moz.gov.ua/article/ministry-mandates/nakaz-moz-ukraini-vid-25072023--1351-pro-organizaciju-medichnih-ogljadiv-ditej-ta-inshih-osib-dlja-zarahuvannja-ih-do-zakladiv-osviti-ditjachih-zakladiv-ozdorovlennja-ta-vidpochinku) і [№2003 (2024)](https://moz.gov.ua/uk/decrees/nakaz-moz-ukrayini-vid-03-12-2024-2003-pro-zatverdzhennya-poryadkiv-ta-periodichnosti-provedennya-profilaktichnih-medichnih-oglyadiv-pevnih-kategorij-ditej). Огляд педіатром, антропометрія, група з фізвиховання — так. ALT або УЗД печінки для дітей з ІМТ ≥85 перцентиля як обов'язковий елемент профогляду поки не передбачені.
 
-Про дитяче ожиріння і те, як воно стає корінням MASLD, ми окремо писали в [матеріалі про SCALE Kids і наказ МОЗ №1732](https://longlife.faion.net/ozhyrinnia-dity-6-11-glp1-scale-kids-aap-ukraina-2026/). А про те, що стеатоз буває і в струнких (генетика PNPLA3, фруктоза), — у [статті про lean MASLD](https://longlife.faion.net/lean-masld-strunki-liudy-fib-4-pnpla3-fruktoza-skryninh/).
+Про дитяче ожиріння і те, як воно стає корінням MASLD, ми окремо писали в [матеріалі про SCALE Kids і наказ МОЗ №1732](https://longlife.media/ozhyrinnia-dity-6-11-glp1-scale-kids-aap-ukraina-2026/). А про те, що стеатоз буває і в струнких (генетика PNPLA3, фруктоза), — у [статті про lean MASLD](https://longlife.media/lean-masld-strunki-liudy-fib-4-pnpla3-fruktoza-skryninh/).
 
 ## Що можна зробити вже сьогодні
 

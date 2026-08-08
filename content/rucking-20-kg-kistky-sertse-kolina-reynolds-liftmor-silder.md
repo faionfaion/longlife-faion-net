@@ -24,7 +24,7 @@ source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/10048108/"
   - "https://pubmed.ncbi.nlm.nih.gov/14964502/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC9630762/"
-  - "https://longlife.faion.net/rucking-walking-with-weight-cardio-strength-training/"
+  - "https://longlife.media/rucking-walking-with-weight-cardio-strength-training/"
 source_names:
   - "Applied Ergonomics (Hasselquist 2021)"
   - "Kistler-Fischbacher meta-analysis 2021"
@@ -41,14 +41,14 @@ tg_post: |
   
   Дослідження в Applied Ergonomics (2021) показало: рукінг із 20 кг піднімає пульс на ~10%, а споживання кисню — на ~20% порівняно зі звичайною ходьбою. А от для стимуляції кісток стегна потрібне навантаження від 2× ваги тіла — рукінг дає лише ~1,3×, тож це кардіо-бонус, а не заміна силовим.
   
-  <a href="https://longlife.faion.net/rucking-20-kg-kistky-sertse-kolina-reynolds-liftmor-silder/">Читати повністю →</a>
+  <a href="https://longlife.media/rucking-20-kg-kistky-sertse-kolina-reynolds-liftmor-silder/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
 Привіт! У 2025–2026 рукінг — ходьба з навантаженим рюкзаком — знову у трендах завдяки MilVet-інфлюенсерам в інстаграмі та тіктоку. І чомусь усі говорять про магічну цифру: 20 кг. Розберімо чесно, що з цим числом робить наш організм. 🎒
 
-Якщо ти вперше чуєш про рукінг — почни з нашого базового матеріалу [«Рукінг: чому ходьба з рюкзаком — одна з найефективніших вправ без залу»](https://longlife.faion.net/rucking-walking-with-weight-cardio-strength-training/). Там протокол старту на 4 тижні. Тут — про наступний крок: як безпечно дійти до 20 кг і що це дає.
+Якщо ти вперше чуєш про рукінг — почни з нашого базового матеріалу [«Рукінг: чому ходьба з рюкзаком — одна з найефективніших вправ без залу»](https://longlife.media/rucking-walking-with-weight-cardio-strength-training/). Там протокол старту на 4 тижні. Тут — про наступний крок: як безпечно дійти до 20 кг і що це дає.
 
 ## Що це дає серцю
 

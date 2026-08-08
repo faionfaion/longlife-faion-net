@@ -38,7 +38,7 @@ tg_post: |
   
   Міжнародне дослідження IDHOCO (6 458 учасників, медіана 8,3 року) показало: у нелікованих людей із феноменом «білого халата» ризик серцево-судинних подій на 42% вищий, а при замаскованій гіпертонії (нормальний тиск у лікаря, але підвищений вдома) — аж на 55% вищий. За даними ВООЗ, гіпертонію має близько третини дорослих українців, а національного скринінгу до 40 років немає — тож регулярні домашні виміри стають твоєю особистою відповідальністю.
   
-  <a href="https://longlife.faion.net/tykha-hipertonia-30-40-sprint-10-rokiv-hbpm-masked-hypertension/">Читати повністю →</a>
+  <a href="https://longlife.media/tykha-hipertonia-30-40-sprint-10-rokiv-hbpm-masked-hypertension/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -81,7 +81,7 @@ tg_post: |
 
 Якщо середнє за 6 днів ≥135/85 — час до сімейного лікаря.
 
-Нагадаємо, що нефармакологічні методи теж працюють: [ізометричні вправи знижують тиск у середньому на 8 мм рт. ст.](https://longlife.faion.net/izometrychni-vpravy-hipertonia-wall-sit-bjsm-meta-analiz/), а [калієво-натрієвий баланс впливає на цифри не менше, ніж сіль](https://longlife.faion.net/kaliy-elektrolit-tysk-natriy-kaliyevyy-balans-who-bmj-nejm/).
+Нагадаємо, що нефармакологічні методи теж працюють: [ізометричні вправи знижують тиск у середньому на 8 мм рт. ст.](https://longlife.media/izometrychni-vpravy-hipertonia-wall-sit-bjsm-meta-analiz/), а [калієво-натрієвий баланс впливає на цифри не менше, ніж сіль](https://longlife.media/kaliy-elektrolit-tysk-natriy-kaliyevyy-balans-who-bmj-nejm/).
 
 ## Що можна зробити вже сьогодні 💪
 

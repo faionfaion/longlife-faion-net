@@ -48,7 +48,7 @@ tg_post: |
   
   Дослідження в Journal of Foot and Ankle Research (2014) показало: у шльопанцях tibialis anterior активується на +31%, бо стопа підсвідомо «чіпляє» тапок пальцями. Крок стає коротшим, а розгинання великого пальця — обмеженим, що з часом б'є по біомеханіці. Розбираємо, коли в'єтнамки — ок, а коли краще обрати fisherman's sandals.
   
-  <a href="https://longlife.faion.net/litnie-vzuttia-vietnamky-fisherman-sandals-ploskostopist-doroslykh/">Читати повністю →</a>
+  <a href="https://longlife.media/litnie-vzuttia-vietnamky-fisherman-sandals-ploskostopist-doroslykh/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---

@@ -48,7 +48,7 @@ tg_post: |
   
   Сухе борошно з Tenebrio molitor містить близько 50% білка, а за сучасним методом DIAAS його якість оцінили як «відмінну» з перетравністю 91–99% (Frontiers in Nutrition, 2023). EFSA визнала чотири види комах безпечними, але «безпечно» означає лише відсутність токсичності у заявлених дозах — не автоматично «суперкорисно».
   
-  <a href="https://longlife.faion.net/bilok-z-komakh-efsa-4-roky-avtoryzatsiya-tsina-alerhiyi/">Читати повністю →</a>
+  <a href="https://longlife.media/bilok-z-komakh-efsa-4-roky-avtoryzatsiya-tsina-alerhiyi/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -91,7 +91,7 @@ tg_post: |
 
 Цвіркуновий протеїн у роздрібі ЄС — €60–90 за кг порошку. Якщо в порошку ~50% білка, тоді чистий білок виходить €60–90 ÷ 0,5 = **€120–180 за кг чистого білка** ([PartyBugs EU](https://shop.partybugs.com/en/all-products/insect-protein-powders/)). Сироватковий концентрат — €25–38 за кг чистого білка ([TFN Health, 2025](https://tfnhealth.com/whey-protein-prices-in-2025/)). Це у 4–6 разів дорожче, при тому що в Україну ці продукти масово не імпортуються.
 
-Якщо тобі важлива якість білка, ми вже писали про [поріг лейцину і 30 г білка на прийом](https://longlife.faion.net/leucine-threshold-30g-protein-per-meal-mps-mtor-after-40/) — там дешевша сироватка, казеїн чи яйця закривають питання значно ефективніше.
+Якщо тобі важлива якість білка, ми вже писали про [поріг лейцину і 30 г білка на прийом](https://longlife.media/leucine-threshold-30g-protein-per-meal-mps-mtor-after-40/) — там дешевша сироватка, казеїн чи яйця закривають питання значно ефективніше.
 
 ## Що можна зробити вже сьогодні 🥗
 

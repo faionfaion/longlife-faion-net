@@ -25,7 +25,7 @@ source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC10708620/"
   - "https://www.mdpi.com/1424-8220/24/19/6220"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12583207/"
-  - "https://longlife.faion.net/hrv-biofeedback-vs-medytatsiya-kortyzol-tryvoha-meta-analizy/"
+  - "https://longlife.media/hrv-biofeedback-vs-medytatsiya-kortyzol-tryvoha-meta-analizy/"
 source_names:
   - "Applied Psychophysiology and Biofeedback (Lehrer et al. 2020)"
   - "Psychological Medicine (Goessl et al. 2017)"
@@ -41,14 +41,14 @@ tg_post: |
   
   Мета-аналіз Lehrer et al. 2020 (58 досліджень) підтвердив: HRV-біофідбек на резонансній частоті 5.5–6.5 вдихів/хв дає помірний ефект проти тривоги й депресії. Найпростіший старт — вдих 4 сек / видих 6 сек, а експеримент Laborde 2022 показав, що навіть без приладу приріст RMSSD майже такий самий.
   
-  <a href="https://longlife.faion.net/hrv-biofeedback-dykhannia-6-hv-protokol-4-tyzhni-polar-h10/">Читати повністю →</a>
+  <a href="https://longlife.media/hrv-biofeedback-dykhannia-6-hv-protokol-4-tyzhni-polar-h10/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
 Привіт! Сьогодні розберемо конкретний протокол, а не загальну ідею «дихайте повільно». Йдеться про HRV-біофідбек — тренування варіабельності серцевого ритму (heart rate variability, HRV) через дихання на резонансній частоті. 🔬
 
-Нагадаємо, що ми вже писали про докази HRV-біофідбеку проти тривоги й кортизолу ([longlife.faion.net](https://longlife.faion.net/hrv-biofeedback-vs-medytatsiya-kortyzol-tryvoha-meta-analizy/)). Тепер — про сам протокол. Базовий рецепт від Пола Лерера: **20 хвилин × 5 днів на тиждень × 4 тижні**. Мета-аналіз Lehrer et al. 2020 у *Applied Psychophysiology and Biofeedback* (58 контрольованих досліджень) показав помірний ефект з найбільшими результатами для тривоги, депресії й спортивної продуктивності ([pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/32385728/)).
+Нагадаємо, що ми вже писали про докази HRV-біофідбеку проти тривоги й кортизолу ([longlife.media](https://longlife.media/hrv-biofeedback-vs-medytatsiya-kortyzol-tryvoha-meta-analizy/)). Тепер — про сам протокол. Базовий рецепт від Пола Лерера: **20 хвилин × 5 днів на тиждень × 4 тижні**. Мета-аналіз Lehrer et al. 2020 у *Applied Psychophysiology and Biofeedback* (58 контрольованих досліджень) показав помірний ефект з найбільшими результатами для тривоги, депресії й спортивної продуктивності ([pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/32385728/)).
 
 Як дихати? Резонансна частота — 5.5–6.5 вдихів/хв (індивідуально 4.5–7). Простий старт: вдих 4 сек / видих 6 сек. На цій частоті дихання, тиск і серцевий ритм синхронізуються, максимально стимулюючи барорефлекс — рефлекторну реакцію серцево-судинної системи на зміни артеріального тиску ([sciencedirect.com](https://www.sciencedirect.com/science/article/abs/pii/S0149763422000653)).
 
@@ -75,4 +75,4 @@ tg_post: |
 4. Vondrasek J.D. et al. (2023). Validity and Reliability of the Polar H10 Sensor for Heart Rate Variability Analysis. *Sensors*. https://pmc.ncbi.nlm.nih.gov/articles/PMC10708620/
 5. Валідація Apple Watch Series 9/Ultra 2 для HRV (2024). *Sensors (MDPI)*. https://www.mdpi.com/1424-8220/24/19/6220
 6. Bayesian мета-аналіз HRV-біофідбеку в спорті (2025, 41 РКД, 1230 атлетів). https://pmc.ncbi.nlm.nih.gov/articles/PMC12583207/
-7. Архів LongLife: HRV-біофідбек проти медитації — кортизол і тривога. https://longlife.faion.net/hrv-biofeedback-vs-medytatsiya-kortyzol-tryvoha-meta-analizy/
+7. Архів LongLife: HRV-біофідбек проти медитації — кортизол і тривога. https://longlife.media/hrv-biofeedback-vs-medytatsiya-kortyzol-tryvoha-meta-analizy/

@@ -43,12 +43,12 @@ tg_post: |
   
   Уся кардіо-репутація тримається на гіпотезі 1996 року з журналу Medical Hypotheses — без класичного рецензування, ще й з подальшими патентами автора. Реальні докази є лише для таурину окремо: мета-аналіз 2024 року (25 RCT, 1024 учасники) показав зниження систолічного тиску на −4 мм рт. ст., діастолічного — на −1,5 мм рт. ст.
   
-  <a href="https://longlife.faion.net/magniy-taurat-sertse-arytmii-mccarty-1996-tzang-2024-rct/">Читати повністю →</a>
+  <a href="https://longlife.media/magniy-taurat-sertse-arytmii-mccarty-1996-tzang-2024-rct/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
-Привіт! Продовжуємо серію про форми магнію. Після [бісгліцинату для сну](https://longlife.faion.net/magnii-glitsynat-son-defitsyt-rawji-2024-abbasi-2012/), [L-треонату для мозку](https://longlife.faion.net/magnii-l-treonat-magtein-kognitsiya-rct-vs-bisglitsynat-tsina/) і [трансдермального міфу](https://longlife.faion.net/magniyeve-maslo-transdermalnyi-epsom-vanny-kass-2017-grober-nutrients/) — сьогодні про магній таурат. Ту саму форму, яку на етикетках гордо називають «магній для серця». 🔬
+Привіт! Продовжуємо серію про форми магнію. Після [бісгліцинату для сну](https://longlife.media/magnii-glitsynat-son-defitsyt-rawji-2024-abbasi-2012/), [L-треонату для мозку](https://longlife.media/magnii-l-treonat-magtein-kognitsiya-rct-vs-bisglitsynat-tsina/) і [трансдермального міфу](https://longlife.media/magniyeve-maslo-transdermalnyi-epsom-vanny-kass-2017-grober-nutrients/) — сьогодні про магній таурат. Ту саму форму, яку на етикетках гордо називають «магній для серця». 🔬
 
 Спойлер: прямих рандомізованих досліджень (RCT) саме на магнію таураті для тиску чи аритмій — рівно нуль. Усі кардіо-заяви тримаються на комбінації двох окремих доказових баз: магнію і таурину.
 

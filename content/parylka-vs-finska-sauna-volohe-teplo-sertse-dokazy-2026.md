@@ -21,8 +21,8 @@ source_urls:
   - "https://pubmed.ncbi.nlm.nih.gov/33866630/"
   - "https://pubmed.ncbi.nlm.nih.gov/11165553/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC11699590/"
-  - "https://longlife.faion.net/sauna-sertse-dovholittia-finski-kohorty-mezha-koryst-ryzyk/"
-  - "https://longlife.faion.net/cold-water-immersion-evidence-based-guide-bjsm-cochrane-risks/"
+  - "https://longlife.media/sauna-sertse-dovholittia-finski-kohorty-mezha-koryst-ryzyk/"
+  - "https://longlife.media/cold-water-immersion-evidence-based-guide-bjsm-cochrane-risks/"
 source_names:
   - "Campbell et al., Experimental Physiology 2022"
   - "Pilch et al., Biology of Sport 2014"
@@ -37,12 +37,12 @@ tg_post: |
   
   У дослідженні Pilch (2014) у парилці пульс зростав сильніше (+72 vs +59 уд/хв), а діастолічний тиск падав на −20 мм рт. ст. — це підвищує ризик запаморочення при різкому вставанні. Мета-аналіз Pizzey (2021) підтверджує: теплова терапія знижує систолічний тиск на ~4 мм рт. ст., але вологе тепло окремо не виділяли — довгострокових доказів поки бракує.
   
-  <a href="https://longlife.faion.net/parylka-vs-finska-sauna-volohe-teplo-sertse-dokazy-2026/">Читати повністю →</a>
+  <a href="https://longlife.media/parylka-vs-finska-sauna-volohe-teplo-sertse-dokazy-2026/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
-Привіт! Українська лазня з парилкою — це майже ритуал: віник, контрастний душ, чай після. Але чи має вологе тепло такі ж серцево-судинні бонуси, як суха фінська сауна, про яку ми писали [24 травня](https://longlife.faion.net/sauna-sertse-dovholittia-finski-kohorty-mezha-koryst-ryzyk/)? Коротка відповідь: схоже гостро, але доказів довгострокової користі майже немає. 🔬
+Привіт! Українська лазня з парилкою — це майже ритуал: віник, контрастний душ, чай після. Але чи має вологе тепло такі ж серцево-судинні бонуси, як суха фінська сауна, про яку ми писали [24 травня](https://longlife.media/sauna-sertse-dovholittia-finski-kohorty-mezha-koryst-ryzyk/)? Коротка відповідь: схоже гостро, але доказів довгострокової користі майже немає. 🔬
 
 Рандомізоване перехресне дослідження Campbell та колег (Experimental Physiology, 2022) порівняло вологу сауну (55 °C, 54% вологості) з іншими режимами тепла. Волога сауна виявилася найменш переносимою — 9 із 13 учасників припинили сесію достроково, бо при 100% вологості шкіри піт не випаровується і не охолоджує ([Campbell 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9314810/)). Вибірка маленька — це попередні дані, а не остаточна істина.
 
@@ -57,7 +57,7 @@ tg_post: |
 - Тримайся 8–12 хвилин на захід, 2–3 заходи — менше, ніж у сухій сауні, бо охолодження потом працює гірше ([Campbell 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9314810/)).
 - Жодного алкоголю до, під час і одразу після — це консенсус оглядів безпеки сауни ([Hannuksela 2001](https://pubmed.ncbi.nlm.nih.gov/11165553/)).
 - Пий воду до і після; вставай з лежака повільно (через сильніше падіння діастолічного тиску, [Pilch 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4042662/)).
-- Якщо тобі за 65, є гіпертонія, ішемічна хвороба чи аритмія — обговори лазню з кардіологом, а контрастні занурення після парилки роби обережно (про автономний конфлікт ми писали в [гайді про холодне занурення](https://longlife.faion.net/cold-water-immersion-evidence-based-guide-bjsm-cochrane-risks/)).
+- Якщо тобі за 65, є гіпертонія, ішемічна хвороба чи аритмія — обговори лазню з кардіологом, а контрастні занурення після парилки роби обережно (про автономний конфлікт ми писали в [гайді про холодне занурення](https://longlife.media/cold-water-immersion-evidence-based-guide-bjsm-cochrane-risks/)).
 - Вийди одразу, якщо з'явилося запаморочення, нудота чи перебої серця.
 
 Парилка — приємна частина культури і ймовірно безпечна для здорових. Але переносити на неї всі бонуси фінської сауни поки що передчасно: великих когорт типу KIHD для вологого тепла просто не існує. 🌿

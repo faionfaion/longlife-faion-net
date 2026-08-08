@@ -35,12 +35,12 @@ tg_post: |
   
   Найбільший огляд (145 досліджень, ~25 000 людей із 28 країн) показав лише мале підвищення добробуту — Hedges g = 0,19. П'ять незалежних мета-аналізів сходяться у вузькому діапазоні g = 0,19–0,29, а проти іншої активної вправи ефект майже зникає — частина користі схожа на плацебо. Підсумок: вдячність слабша за КПТ, але як проста безкоштовна звичка свій маленький плюс дає.
   
-  <a href="https://longlife.faion.net/shchodennyk-vdyachnosti-meta-analizy-efekt-protokol-2026/">Читати повністю →</a>
+  <a href="https://longlife.media/shchodennyk-vdyachnosti-meta-analizy-efekt-protokol-2026/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
-Привіт! Близько місяця тому ми розбирали сам протокол щоденника вдячності ([посилання](https://longlife.faion.net/gratitude-journaling-stress-response/)). Сьогодні беремо ту саму практику під мікроскоп: наскільки сильний її ефект насправді? 🔬
+Привіт! Близько місяця тому ми розбирали сам протокол щоденника вдячності ([посилання](https://longlife.media/gratitude-journaling-stress-response/)). Сьогодні беремо ту саму практику під мікроскоп: наскільки сильний її ефект насправді? 🔬
 
 Чесна відповідь — ефект реальний, але скромний. Найбільший мета-аналіз 2025 року в журналі PNAS (мета-аналіз — це коли результати багатьох окремих досліджень статистично об'єднують і рахують разом) охопив 145 робіт і майже 25 000 людей із 28 країн. Він показав мале підвищення добробуту: Hedges g = 0,19 ([PNAS, 2025](https://www.pnas.org/doi/10.1073/pnas.2425193122)). Hedges g — це «розмір ефекту», показник того, наскільки помітна різниця між групами; 0,2 вважається малим.
 
@@ -52,7 +52,7 @@ tg_post: |
 
 Тепер про розумніший протокол. Експеримент Любомирської (2005) показав, що рахувати приємне раз-двічі на тиждень корисніше, ніж щодня: щоденне «зношується» через звикання ([Review of General Psychology](https://journals.sagepub.com/doi/10.1037/1089-2680.9.2.111)). А дослідження Селігмана (2005) виявило, що найсильніший сплеск настрою дає вдячність, спрямована на людей, а не на події — щоправда, цей сплеск тимчасовий ([American Psychologist](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf)).
 
-Це інша інтервенція, ніж «[ефект свіжого старту](https://longlife.faion.net/ponedilkovyi-restart-fresh-start-effect-temporal-landmarks-implementation-intentions/)» — там про мотивацію, — і ніж техніки проти «[недільної тривоги](https://longlife.faion.net/sunday-scaries-anticipatory-anxiety-4-tekhniky-borkovec-pennebaker/)». Тут ідеться саме про добробут.
+Це інша інтервенція, ніж «[ефект свіжого старту](https://longlife.media/ponedilkovyi-restart-fresh-start-effect-temporal-landmarks-implementation-intentions/)» — там про мотивацію, — і ніж техніки проти «[недільної тривоги](https://longlife.media/sunday-scaries-anticipatory-anxiety-4-tekhniky-borkovec-pennebaker/)». Тут ідеться саме про добробут.
 
 **Що можна зробити вже сьогодні:**
 - Запиши 3 конкретні речі — не «сім'я», а «брат подзвонив просто так».

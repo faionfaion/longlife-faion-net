@@ -23,8 +23,8 @@ source_urls:
   - "https://www.nature.com/articles/s41598-020-73297-5"
   - "https://pubmed.ncbi.nlm.nih.gov/24535929/"
   - "https://www.apa.org/monitor/2020/07/ce-corner-sleep"
-  - "https://longlife.faion.net/melatonin-dity-aasm-aap-gumky-iherb-ryzyky-guide/"
-  - "https://longlife.faion.net/temperatura-spalni-18-19-stupeniv-termorehulyatsiya-yakist-snu/"
+  - "https://longlife.media/melatonin-dity-aasm-aap-gumky-iherb-ryzyky-guide/"
+  - "https://longlife.media/temperatura-spalni-18-19-stupeniv-termorehulyatsiya-yakist-snu/"
 source_names:
   - "Journal of Clinical Sleep Medicine (AASM Consensus 2016)"
   - "Biology (Roenneberg et al. 2019)"
@@ -41,7 +41,7 @@ tg_post: |
   
   Огляд у Current Biology показує: діти регулярно живуть із розривом у 1–3 години між біологічним і шкільним ритмом — і це самостійний фактор ризику для метаболізму та поведінки. Норма сну для 6–12 років — 9–12 годин (AASM), а рухати відхід до сну і підйом варто по 15 хвилин раз на 3 дні — м'яко й без стресу.
   
-  <a href="https://longlife.faion.net/sotsialnyi-dzhetlah-dity-6-12-serpen-rezhym-snu-protokol/">Читати повністю →</a>
+  <a href="https://longlife.media/sotsialnyi-dzhetlah-dity-6-12-serpen-rezhym-snu-protokol/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -58,8 +58,8 @@ tg_post: |
 
 1. **Зсувай ПО 15 хвилин кожні 3 дні** — і відхід до сну, і час підйому. За 3 тижні до 1 вересня це дає ~90 хвилин без стресу. Це консенсусний протокол (APA, Seattle Children's), не RCT — але фізіологічно правдоподібний.
 2. **Ранкове світло на вулиці**, 15–30 хв у першу годину після пробудження. Надворі зазвичай 10 000+ люкс; у похмурий день менше (~1 000–5 000 люкс), але все одно в рази більше за кімнатне світло (300–500 люкс). Безкоштовно і краще за SAD-лампу.
-3. **Приглуши світло після 19:00** в останній тиждень — екрани геть за годину до сну. Спальня — 18–19 °C ([наш матеріал](https://longlife.faion.net/temperatura-spalni-18-19-stupeniv-termorehulyatsiya-yakist-snu/)).
-4. **Без мелатонінових гумок.** Ми вже писали, чому це небезпечне «швидке рішення» для здорової дитини ([деталі тут](https://longlife.faion.net/melatonin-dity-aasm-aap-gumky-iherb-ryzyky-guide/)) — рішення для режиму це світло і сталий розклад, а не добавка.
+3. **Приглуши світло після 19:00** в останній тиждень — екрани геть за годину до сну. Спальня — 18–19 °C ([наш матеріал](https://longlife.media/temperatura-spalni-18-19-stupeniv-termorehulyatsiya-yakist-snu/)).
+4. **Без мелатонінових гумок.** Ми вже писали, чому це небезпечне «швидке рішення» для здорової дитини ([деталі тут](https://longlife.media/melatonin-dity-aasm-aap-gumky-iherb-ryzyky-guide/)) — рішення для режиму це світло і сталий розклад, а не добавка.
 
 ## Коротко — план на серпень:
 

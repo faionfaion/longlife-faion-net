@@ -49,7 +49,7 @@ tg_post: |
   
   За оцінкою The Lancet Respiratory Medicine, у світі на ОАС страждає 936 мільйонів дорослих, з них 425 мільйонів — у помірній чи тяжкій формі. Ключова відмінність від звичайного хропіння: під час апное дихання повністю зупиняється на кілька секунд, кисень падає, а мозок змушений «будити» вас — і таких епізодів буває від 5 до 100+ на годину (показник AHI).
   
-  <a href="https://longlife.faion.net/obstruktyvne-apnoe-snu-stop-bang-diagnostyka-likuvannia/">Читати повністю →</a>
+  <a href="https://longlife.media/obstruktyvne-apnoe-snu-stop-bang-diagnostyka-likuvannia/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -143,7 +143,7 @@ CPAP (continuous positive airway pressure) — це апарат, який че�
 - Денна сонливість, яка заважає працювати чи кермувати
 - Прокидаєшся з відчуттям задухи або «нестачі повітря»
 
-Раніше ми писали про [якість сну та архітектуру сну](https://longlife.faion.net/sleep-quality-vs-quantity-research/) — але якщо в тебе ОАС, жодні «гігієна сну» і ритуали не вирішать проблему без діагностики основного розладу.
+Раніше ми писали про [якість сну та архітектуру сну](https://longlife.media/sleep-quality-vs-quantity-research/) — але якщо в тебе ОАС, жодні «гігієна сну» і ритуали не вирішать проблему без діагностики основного розладу.
 
 ## Що можна зробити вже сьогодні
 

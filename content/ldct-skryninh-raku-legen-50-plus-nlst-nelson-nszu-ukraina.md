@@ -29,7 +29,7 @@ source_urls:
   - "https://gco.iarc.who.int/media/globocan/factsheets/populations/804-ukraine-fact-sheet.pdf"
   - "https://lifescan.ua/kt-legen-nizkodozove/"
   - "https://omegamc.ua/ua/kt-legkikh-s-nizkoj-dozoj.html"
-  - "https://longlife.faion.net/skryninh-raku-ukraina-chek-list-za-vikom-nszu/"
+  - "https://longlife.media/skryninh-raku-ukraina-chek-list-za-vikom-nszu/"
 source_names:
   - "NLST — Aberle et al., NEJM 2011"
   - "NELSON — de Koning et al., NEJM 2020"
@@ -51,7 +51,7 @@ tg_post: |
   
   Дослідження NLST показало: звичайний рентген грудної клітки не впливає на виживання, а низькодозова КТ (LDCT) — так. В Україні рак легень — онкозахворювання №1 серед чоловіків (40,5 випадків на 100 000), і 60–75% діагнозів у Європі ставлять уже на III–IV стадії, коли шанси різко падають. НСЗУ LDCT-скринінг окремою програмою не покриває — розбираємо, кому він реально показаний і скільки коштує.
   
-  <a href="https://longlife.faion.net/ldct-skryninh-raku-legen-50-plus-nlst-nelson-nszu-ukraina/">Читати повністю →</a>
+  <a href="https://longlife.media/ldct-skryninh-raku-legen-50-plus-nlst-nelson-nszu-ukraina/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -66,7 +66,7 @@ tg_post: |
 
 Проблема не тільки в кількості випадків, а в тому, коли їх знаходять. За оглядом Українського медичного часопису та НУОЗ ім. Шупика, у Європі 60–75% випадків раку легень діагностують уже на III–IV стадії ([UMJ огляд LDCT-скринінгу](https://umj.com.ua/uk/publikatsia-257711-suchasni-mozhlivosti-skriningu-raku-legeni-z-vikoristannyam-nizkodozovoyi-komp-yuternoyi-tomografiyi)). На цих стадіях п'ятирічне виживання різко падає — і в цьому головна проблема, яку скринінг намагається розв'язати.
 
-Як ми вже писали в [загальному чек-листі онкоскринінгу за віком](https://longlife.faion.net/skryninh-raku-ukraina-chek-list-za-vikom-nszu/), для раку легень існує єдиний доведений скринінговий метод — і це не флюорографія.
+Як ми вже писали в [загальному чек-листі онкоскринінгу за віком](https://longlife.media/skryninh-raku-ukraina-chek-list-za-vikom-nszu/), для раку легень існує єдиний доведений скринінговий метод — і це не флюорографія.
 
 ## Чому звичайний рентген не працює
 

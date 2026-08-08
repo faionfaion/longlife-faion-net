@@ -41,7 +41,7 @@ tg_post: |
   
   Команда Лінардона проаналізувала 72 RCT і 21 702 учасники — сирі ефекти для депресії (g=0.45) та сну (g=0.71) виглядали пристойно, але після корекції на публікаційну bias ефект впав до g≈0.18. Паралельний umbrella review Крокамо назвав доказову базу digital mental health низької або дуже низької якості, а окреме дослідження World Psychiatry показало: CBT-боти працюють краще за чисту медитацію.
   
-  <a href="https://longlife.faion.net/mental-health-apps-lancet-digital-health-2025-calm-headspace-woebot/">Читати повністю →</a>
+  <a href="https://longlife.media/mental-health-apps-lancet-digital-health-2025-calm-headspace-woebot/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -62,7 +62,7 @@ BBC 26 липня 2025 вийшло із заголовком «Evidence lacking
 
 ## CBT-бот проти медитації: різниця є
 
-Як ми вже [писали про Headspace і Calm](https://longlife.faion.net/medytatsiyni-zastosunky-headspace-calm-rct-stres-tryvoga/), ці апки радше про профілактику, ніж про лікування. Мета-аналіз 176 RCT у World Psychiatry 2024 показав: **CBT-based апки і чат-боти працюють краще**, ніж чиста медитація ([World Psychiatry](https://pmc.ncbi.nlm.nih.gov/articles/PMC10785982/)).
+Як ми вже [писали про Headspace і Calm](https://longlife.media/medytatsiyni-zastosunky-headspace-calm-rct-stres-tryvoga/), ці апки радше про профілактику, ніж про лікування. Мета-аналіз 176 RCT у World Psychiatry 2024 показав: **CBT-based апки і чат-боти працюють краще**, ніж чиста медитація ([World Psychiatry](https://pmc.ncbi.nlm.nih.gov/articles/PMC10785982/)).
 
 CBT — когнітивно-поведінкова терапія, коли вчишся перевіряти й переформульовувати автоматичні думки.
 

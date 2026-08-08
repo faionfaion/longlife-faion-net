@@ -55,14 +55,14 @@ tg_post: |
   
   Так каже Lancet Commission 2024. У РКД ACHIEVE (2023) слухові апарати не показали ефекту в загальній групі з 977 людей 70–84 років, але у підгрупі ARIC зі старших і більш вразливих учасників темп когнітивного зниження сповільнився на 48% (p=0.004). Практичний висновок: після 45 років варто зробити базову аудіометрію — щоб мати точку відліку і не пропустити момент, коли слух починає тягнути мозок за собою.
   
-  <a href="https://longlife.faion.net/slukh-dementsiia-audiometriia-45-achieve-slukhovi-aparaty-ukraina/">Читати повністю →</a>
+  <a href="https://longlife.media/slukh-dementsiia-audiometriia-45-achieve-slukhovi-aparaty-ukraina/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
 Привіт! Сьогодні розберемо тему, яка звучить неочікувано: слух і мозок. Lancet Commission 2024 знову назвала втрату слуху фактором №1 серед 14 модифікованих причин деменції — на неї припадає **7% популяційної атрибутивної фракції (PAF)**. Тобто якщо теоретично усунути втрату слуху в усій популяції, до 7% випадків деменції у світі можна було б потенційно запобігти ([The Lancet, 2024](https://www.thelancet.com/commissions-do/dementia-prevention-intervention-and-care)). Це не означає, що 7% людей із деменцією «отримали її від слуху» — це модельна оцінка потенціалу профілактики.
 
-Ми вже писали про [великий огляд 14 факторів ризику](https://longlife.faion.net/voz-14-faktoriv-ryzyku-dementsii-lancet-2024-profilaktyka/) і [попередній розбір теми слуху](https://longlife.faion.net/vtrata-slukhu-dementsiia-lancet-achieve-zakhyst-vukh-mozok/). Сьогодні заглибимось в одну деталь: коли робити перевірку слуху після 45, як обирати якісний слуховий апарат і що покриває МОЗ. 🧠
+Ми вже писали про [великий огляд 14 факторів ризику](https://longlife.media/voz-14-faktoriv-ryzyku-dementsii-lancet-2024-profilaktyka/) і [попередній розбір теми слуху](https://longlife.media/vtrata-slukhu-dementsiia-lancet-achieve-zakhyst-vukh-mozok/). Сьогодні заглибимось в одну деталь: коли робити перевірку слуху після 45, як обирати якісний слуховий апарат і що покриває МОЗ. 🧠
 
 ## Що показало ACHIEVE — чесно, без хайпу
 

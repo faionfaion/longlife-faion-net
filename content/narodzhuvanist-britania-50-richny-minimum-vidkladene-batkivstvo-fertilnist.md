@@ -46,7 +46,7 @@ tg_post: |
   
   За даними ONS, сумарний коефіцієнт народжуваності в Англії та Уельсі — 1,41 дитини на жінку, а середній вік матері при першій дитині сягнув 29,4 року. Данське когортне дослідження показує: ймовірність зачаття за цикл падає на 30% у 38–39 років і на 53% у 40–41, а ризик хромосомних аномалій яйцеклітини зростає вдесятеро після 40 — тож гайдлайни NICE, ASRM та ESHRE радять звертатися до фахівця вже після 6 місяців спроб, якщо тобі за 35.
   
-  <a href="https://longlife.faion.net/narodzhuvanist-britania-50-richny-minimum-vidkladene-batkivstvo-fertilnist/">Читати повністю →</a>
+  <a href="https://longlife.media/narodzhuvanist-britania-50-richny-minimum-vidkladene-batkivstvo-fertilnist/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---

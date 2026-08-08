@@ -27,8 +27,8 @@ source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC5409691/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC9720311/"
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC10477072/"
-  - "https://longlife.faion.net/monday-effect-stemi-ranok-kardio-bhf-2025/"
-  - "https://longlife.faion.net/car-cortisol-awakening-response-ranok-tryvoha-vyhorannia/"
+  - "https://longlife.media/monday-effect-stemi-ranok-kardio-bhf-2025/"
+  - "https://longlife.media/car-cortisol-awakening-response-ranok-tryvoha-vyhorannia/"
 source_names:
   - "Endocrine Reviews (Van Cauter et al., 1997)"
   - "Diabetes (Bolli et al., 1984)"
@@ -49,14 +49,14 @@ tg_post: |
   
   Класичне дослідження в Diabetes (1984) показало: між 04:00 і 06:30 печінка нарощує викид глюкози, а кортизол і адреналін ідуть вгору — це dawn phenomenon. Додай понеділковий стрес (+23% кортизолу у волоссі у тривожних людей за даними Journal of Affective Disorders, 2025) — і стає ясно, чому перший сніданок тижня краще будувати на білку і жирі, а не на швидких вуглеводах.
   
-  <a href="https://longlife.faion.net/ponedilok-kortyzol-hlyukoza-bilkovo-zhyrovyi-snidanok-do-9/">Читати повністю →</a>
+  <a href="https://longlife.media/ponedilok-kortyzol-hlyukoza-bilkovo-zhyrovyi-snidanok-do-9/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
 Привіт! Якщо у понеділок вранці ти прокидаєшся з відчуттям, ніби всередині хтось увімкнув турбіну, — це не вигадка. 🔬 Твоя ендокринна система буквально працює на підвищених обертах саме на початку тижня. І перший сніданок у понеділок — не така вже й нейтральна подія, як здається.
 
-Ми вже писали про [понеділковий пік інфарктів у вікні 06:00–10:00](https://longlife.faion.net/monday-effect-stemi-ranok-kardio-bhf-2025/) і [про CAR — нормальний ранковий стрибок кортизолу](https://longlife.faion.net/car-cortisol-awakening-response-ranok-tryvoha-vyhorannia/). Сьогодні з'єднаємо ці дві історії з третьою — глюкозною.
+Ми вже писали про [понеділковий пік інфарктів у вікні 06:00–10:00](https://longlife.media/monday-effect-stemi-ranok-kardio-bhf-2025/) і [про CAR — нормальний ранковий стрибок кортизолу](https://longlife.media/car-cortisol-awakening-response-ranok-tryvoha-vyhorannia/). Сьогодні з'єднаємо ці дві історії з третьою — глюкозною.
 
 ## Що таке dawn phenomenon
 

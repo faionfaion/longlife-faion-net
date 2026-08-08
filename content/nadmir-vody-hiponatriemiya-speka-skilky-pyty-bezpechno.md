@@ -41,7 +41,7 @@ tg_post: |
   
   Фізіолог Гайнц Валтін ще у 2002 році переглянув літературу й не знайшов жодного дослідження на користь міфу «8×8» (American Journal of Physiology). Навіть авторитетні норми різняться майже на літр: EFSA радить ~2,0–2,5 л, IOM — ~2,7–3,7 л на день, і це вода з усіх джерел, включно з їжею, чаєм і кавою. Тож надмірне «запивання» в спеку загрожує гіпонатріємією — найнадійніші орієнтири це спрага та світло-солом'яний колір сечі, а не лічба склянок.
   
-  <a href="https://longlife.faion.net/nadmir-vody-hiponatriemiya-speka-skilky-pyty-bezpechno/">Читати повністю →</a>
+  <a href="https://longlife.media/nadmir-vody-hiponatriemiya-speka-skilky-pyty-bezpechno/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -56,7 +56,7 @@ tg_post: |
 
 Правило «8×8» (вісім склянок по 8 унцій ≈ 2 літри простої води) не має наукового першоджерела. Фізіолог Гайнц Валтін ще у 2002 році переглянув літературу й не знайшов жодного дослідження, яке б його підтверджувало (огляд у *American Journal of Physiology*, https://doi.org/10.1152/ajpregu.00365.2002).
 
-Звідки цей міф узявся, чому кава та чай теж рахуються в добовий баланс і чому колір сечі — кращий орієнтир за лічбу склянок, ми вже детально розбирали тут: https://longlife.faion.net/skilky-vody-potribno-pyty-nauka-proty-8-sklyanok/. Щоб не повторюватися, сьогодні зосередимося на безпеці.
+Звідки цей міф узявся, чому кава та чай теж рахуються в добовий баланс і чому колір сечі — кращий орієнтир за лічбу склянок, ми вже детально розбирали тут: https://longlife.media/skilky-vody-potribno-pyty-nauka-proty-8-sklyanok/. Щоб не повторюватися, сьогодні зосередимося на безпеці.
 
 ## Чому «правильного числа» не існує
 
@@ -96,7 +96,7 @@ tg_post: |
 
 Коли пітнієш годинами, з потом ти втрачаєш не лише воду, а й натрій та калій. Заливати ці втрати самою водою — означає ще більше розбавити кров. Саме тому при тривалому потовиділенні має значення відновлення електролітів, а не просто об'єм рідини.
 
-Про роль натрію та калію в балансі рідин і тиску ми писали окремо: про калій — https://longlife.faion.net/kaliy-elektrolit-tysk-natriy-kaliyevyy-balans-who-bmj-nejm/, а про приховану сіль у їжі — https://longlife.faion.net/prykhovana-sil-pereroblena-yizha-natriy-kaliyevi-zaminnyky/.
+Про роль натрію та калію в балансі рідин і тиску ми писали окремо: про калій — https://longlife.media/kaliy-elektrolit-tysk-natriy-kaliyevyy-balans-who-bmj-nejm/, а про приховану сіль у їжі — https://longlife.media/prykhovana-sil-pereroblena-yizha-natriy-kaliyevi-zaminnyky/.
 
 ## Кому «пий більше» — погана порада
 

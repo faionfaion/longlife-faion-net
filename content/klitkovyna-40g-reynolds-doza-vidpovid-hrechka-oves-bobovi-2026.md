@@ -45,12 +45,12 @@ tg_post: |
   
   Мета-аналіз у The Lancet (2019) на 185 когортах і 135 млн людино-років показав: криві смертності не виходять на плато на 25 г — користь росте й далі, до 40 г на день. Свіжі дані Ramezani (2024) підтверджують: найвище споживання клітковини дає −23% загальної та −26% серцево-судинної смертності, а рекомендовані ВООЗ 400 г овочів і фруктів закривають лише ~10 г із потрібних 40.
   
-  <a href="https://longlife.faion.net/klitkovyna-40g-reynolds-doza-vidpovid-hrechka-oves-bobovi-2026/">Читати повністю →</a>
+  <a href="https://longlife.media/klitkovyna-40g-reynolds-doza-vidpovid-hrechka-oves-bobovi-2026/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
-Привіт! Ми вже двічі детально розбирали клітковину — [чому 25 г це мінімум, а не максимум](https://longlife.faion.net/klitkovyna-norma-ukraintsi-yak-zbilshyty-za-tyzhden/) і [як доза впливає на смертність через SCFA і бутират](https://longlife.faion.net/klitkovyna-doza-vidpovid-smertnist-rozchynna-nerozchynna-scfa/). Сьогодні відкриваємо наступний рівень: що показує дозозалежна крива вище 30 г — і чому «п'ять порцій овочів на день» математично не витягують. 🥗
+Привіт! Ми вже двічі детально розбирали клітковину — [чому 25 г це мінімум, а не максимум](https://longlife.media/klitkovyna-norma-ukraintsi-yak-zbilshyty-za-tyzhden/) і [як доза впливає на смертність через SCFA і бутират](https://longlife.media/klitkovyna-doza-vidpovid-smertnist-rozchynna-nerozchynna-scfa/). Сьогодні відкриваємо наступний рівень: що показує дозозалежна крива вище 30 г — і чому «п'ять порцій овочів на день» математично не витягують. 🥗
 
 ## Що насправді показала крива Reynolds
 

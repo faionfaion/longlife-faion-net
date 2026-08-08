@@ -28,7 +28,7 @@ source_urls:
   - "https://www.researchgate.net/publication/347412980_Selenium_in_natural_environment_and_food_chains_A_Review"
   - "https://www.sciencedirect.com/science/article/abs/pii/S0045653517313711"
   - "https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/choice-of-biomarkers-determines-the-selenium-status-in-young-german-vegans-and-vegetarians/B4B86BDD03825DB1D1CE80BD5E784735"
-  - "https://longlife.faion.net/iodine-deficiency-returns-salt-plant-milk-thyroid/"
+  - "https://longlife.media/iodine-deficiency-returns-salt-plant-milk-thyroid/"
 source_names:
   - "The Lancet (Rayman, 2012)"
   - "JAMA (SELECT, Lippman 2009)"
@@ -48,7 +48,7 @@ tg_post: |
   
   Середній вміст селену в ґрунтах України — 0,10 мг/кг проти нормальних 0,3–0,4 мг/кг, а пшениця з Хмельниччини містить лише 0,014 мг/кг. Цей мікроелемент критичний для щитоподібної залози: без нього фермент дейодиназа не може перетворити гормон T4 на активний T3. ВООЗ рекомендує 55 мкг/день, але «бідний ґрунт» ≠ автоматичний дефіцит у кожного українця.
   
-  <a href="https://longlife.faion.net/selen-ukrainski-grunty-karpaty-polissya-shchytopodibna-brazylski-gorikhy/">Читати повністю →</a>
+  <a href="https://longlife.media/selen-ukrainski-grunty-karpaty-polissya-shchytopodibna-brazylski-gorikhy/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -61,7 +61,7 @@ tg_post: |
 
 Селен входить до складу щонайменше 25 селенопротеїнів — це білки, у структурі яких є атом селену. Два ключові фермент-класи: **глутатіонпероксидази** (антиоксидантний захист клітин від пошкодження вільними радикалами) і **дейодинази** — саме вони перетворюють гормон щитоподібної залози T4 (тироксин, «запасна» форма) на активну форму T3 (трийодтиронін), яка й впливає на обмін речовин.
 
-У [попередньому матеріалі про йод](https://longlife.faion.net/iodine-deficiency-returns-salt-plant-milk-thyroid/) ми показали, що щитоподібна залоза потребує йоду як «сировину» для гормонів. Але без селену вироблені гормони не активуються повноцінно. Тобто це пара, яка працює разом.
+У [попередньому матеріалі про йод](https://longlife.media/iodine-deficiency-returns-salt-plant-milk-thyroid/) ми показали, що щитоподібна залоза потребує йоду як «сировину» для гормонів. Але без селену вироблені гормони не активуються повноцінно. Тобто це пара, яка працює разом.
 
 Референсні норми: ВООЗ і ІОМ США рекомендують 55 мкг/день для дорослих (60 мкг для вагітних, 70 мкг для чоловіків у деяких настановах). EFSA (Європейське агентство з безпеки харчових продуктів) у 2014 році встановила «адекватне споживання» на рівні 70 мкг/день для європейців.
 

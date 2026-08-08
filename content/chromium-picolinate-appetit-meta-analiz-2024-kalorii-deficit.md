@@ -40,7 +40,7 @@ tg_post: |
   
   Свіжий огляд у Journal of Trace Elements in Medicine and Biology показав нульовий ефект добавки на вагу тіла. Кокранівський огляд раніше давав мінус 1,1 кг проти плацебо, але сам оцінив якість доказів як низьку. Безпечна межа за EFSA — до 250 мкг хрому на добу, а «жувальні GLP-1» з TikTok не мають нічого спільного з семаглутидом.
   
-  <a href="https://longlife.faion.net/chromium-picolinate-appetit-meta-analiz-2024-kalorii-deficit/">Читати повністю →</a>
+  <a href="https://longlife.media/chromium-picolinate-appetit-meta-analiz-2024-kalorii-deficit/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -73,7 +73,7 @@ American Diabetes Association у Standards of Care 2025 прямо не реко
 
 Жувальні гумки з iHerb, які продають як «GLP-1 support», часто містять просто хром піколінат + біотин + берберин. Це не GLP-1.
 
-Справжні GLP-1-агоністи (семаглутид, ліраглутид) — це рецептурні препарати, які напряму діють на гіпоталамус і сповільнюють спорожнення шлунка. У трайлі STEP вони давали 10–15% втрати ваги, а не 0,5 кг. Про них ми вже писали в контексті серцево-судинних наслідків ([SELECT trial](https://longlife.faion.net/glp-1-semaglutide-heart-disease-select-trial/)).
+Справжні GLP-1-агоністи (семаглутид, ліраглутид) — це рецептурні препарати, які напряму діють на гіпоталамус і сповільнюють спорожнення шлунка. У трайлі STEP вони давали 10–15% втрати ваги, а не 0,5 кг. Про них ми вже писали в контексті серцево-судинних наслідків ([SELECT trial](https://longlife.media/glp-1-semaglutide-heart-disease-select-trial/)).
 
 ## Безпека
 
@@ -88,4 +88,4 @@ American Diabetes Association у Standards of Care 2025 прямо не реко
 - **Джерела хрому з їжі** — броколі, вівсянка, індичка, яловичина, виноград. Для більшості людей дефіциту тут просто немає.
 - **Проконсультуйся з лікарем**, якщо приймаєш ліки від діабету або гіпотензивні — хром може посилити їхню дію.
 
-Про критичний погляд на інші «диво-добавки» ми писали в матеріалі про [NAD+ і старіння](https://longlife.faion.net/nad-plus-supplements-aging-clinical-trials/) — паралелі майже прямі. 🔬
+Про критичний погляд на інші «диво-добавки» ми писали в матеріалі про [NAD+ і старіння](https://longlife.media/nad-plus-supplements-aging-clinical-trials/) — паралелі майже прямі. 🔬

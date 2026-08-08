@@ -41,7 +41,7 @@ tg_post: |
   
   За мета-аналізом у Psychological Bulletin, хронічно відкладають справи 15–20% дорослих і майже 50% студентів. Дослідження Fuschia Sirois показують: ми прокрастинуємо, щоб на мить втекти від тривоги чи нудьги — але саме хронічний стрес навколо цього б'є по сну, тиску й загальному здоров'ю. Розбираємо 4 популярні типи прокрастинаторів і техніки КПТ, які реально працюють — на відміну від «просто зберися».
   
-  <a href="https://longlife.faion.net/prokrastynatsiya-4-typy-cbt-implementation-intentions-temptation-bundling/">Читати повністю →</a>
+  <a href="https://longlife.media/prokrastynatsiya-4-typy-cbt-implementation-intentions-temptation-bundling/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -79,7 +79,7 @@ tg_post: |
 - Постав два питання: які докази ЗА і ПРОТИ? Що я скажу другові з такою думкою?
 - Сформулюй м'якшу версію: «зроблений чорновик кращий за ідеальний план у голові».
 
-До речі, наш попередній розбір КПТ-технік для тривоги — це сусідній інструментарій ([longlife.faion.net/cbt-self-help-anxiety-4-techniques](https://longlife.faion.net/cbt-self-help-anxiety-4-techniques/)).
+До речі, наш попередній розбір КПТ-технік для тривоги — це сусідній інструментарій ([longlife.media/cbt-self-help-anxiety-4-techniques](https://longlife.media/cbt-self-help-anxiety-4-techniques/)).
 
 ## Тип 2. Уникач: «мені страшно почати»
 
@@ -92,9 +92,9 @@ tg_post: |
 - Погано: «завтра попрацюю над звітом».
 - Добре: «якщо я о 9:30 сяду за стіл із кавою, то відкрию файл звіту й напишу перший абзац».
 
-Ми писали більше про цей прийом у контексті «понеділкового рестарту» ([longlife.faion.net/ponedilkovyi-restart-fresh-start-effect-temporal-landmarks-implementation-intentions](https://longlife.faion.net/ponedilkovyi-restart-fresh-start-effect-temporal-landmarks-implementation-intentions/)).
+Ми писали більше про цей прийом у контексті «понеділкового рестарту» ([longlife.media/ponedilkovyi-restart-fresh-start-effect-temporal-landmarks-implementation-intentions](https://longlife.media/ponedilkovyi-restart-fresh-start-effect-temporal-landmarks-implementation-intentions/)).
 
-Якщо завдання все одно здається монстром — розбий його на кроки і застосуй **правило двох хвилин**: почни з дії, яка займає ≤ 2 хвилини (відкрити документ, написати одне речення). Часто саме це знімає бар'єр входу ([longlife.faion.net/micro-habits-two-minute-rule-tiny-habits-fogg-lally-automaticity](https://longlife.faion.net/micro-habits-two-minute-rule-tiny-habits-fogg-lally-automaticity/)).
+Якщо завдання все одно здається монстром — розбий його на кроки і застосуй **правило двох хвилин**: почни з дії, яка займає ≤ 2 хвилини (відкрити документ, написати одне речення). Часто саме це знімає бар'єр входу ([longlife.media/micro-habits-two-minute-rule-tiny-habits-fogg-lally-automaticity](https://longlife.media/micro-habits-two-minute-rule-tiny-habits-fogg-lally-automaticity/)).
 
 ## Тип 3. Шукач гострих відчуттів / кризовий тип: «я краще працюю під дедлайн»
 

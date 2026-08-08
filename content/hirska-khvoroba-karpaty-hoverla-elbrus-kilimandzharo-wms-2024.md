@@ -45,7 +45,7 @@ tg_post: |
   
   За гайдлайнами Wilderness Medical Society 2024, гостра гірська хвороба зазвичай стартує на висоті ≥2 500 м із ночівлею без акліматизації. Тобто одноденний трек на Говерлу — це низький ризик: якщо в горах прихопили головний біль і нудоту, найчастіше винні зневоднення, різкий темп чи погода, а не брак кисню.
   
-  <a href="https://longlife.faion.net/hirska-khvoroba-karpaty-hoverla-elbrus-kilimandzharo-wms-2024/">Читати повністю →</a>
+  <a href="https://longlife.media/hirska-khvoroba-karpaty-hoverla-elbrus-kilimandzharo-wms-2024/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---

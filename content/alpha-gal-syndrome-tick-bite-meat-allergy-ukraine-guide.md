@@ -39,7 +39,7 @@ tg_post: |
   
   Це називається alpha-gal синдром — набута алергія на червоне м'ясо ссавців (яловичина, свинина, ягнятина), яку запускає цукор зі слини кліща. За новим дослідженням CDC у MMWR (червень 2026), в окремих штатах США антитіла до alpha-gal мають до 31% донорів крові. Ключова особливість: реакція (сверблячка, кропив'янка, біль у животі) виникає не одразу, а через 3–6 годин після їжі — тому зв'язок із м'ясом часто пропускають.
   
-  <a href="https://longlife.faion.net/alpha-gal-syndrome-tick-bite-meat-allergy-ukraine-guide/">Читати повністю →</a>
+  <a href="https://longlife.media/alpha-gal-syndrome-tick-bite-meat-allergy-ukraine-guide/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---

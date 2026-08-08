@@ -36,7 +36,7 @@ tg_post: |
   
   У класичному дослідженні Chang (PNAS, 2015) вечірнє читання з iPad зсунуло старт секреції мелатоніну на ~1,5 години і погіршило ранкову бадьорість. Проте реплікація Grønli 2016 з реалістичними 30 хвилинами планшета не знайшла різниці зі сном — вирішують доза, яскравість екрана та збудливість контенту. Kindle Paperwhite з e-ink і теплим підсвічуванням фізично ближчий до паперу, ніж LCD.
   
-  <a href="https://longlife.faion.net/chytannya-pered-snom-paper-kindle-ipad-chang-2015-nsf-2024/">Читати повністю →</a>
+  <a href="https://longlife.media/chytannya-pered-snom-paper-kindle-ipad-chang-2015-nsf-2024/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -57,7 +57,7 @@ tg_post: |
 2. **Kindle — так, iPad — краще відкласти за годину до сну**. На Kindle увімкни теплий тон підсвічування і яскравість ≤20%.
 3. **Фікшн, а не нон-фікшн про продуктивність**. Прямих RCT немає, але NSF 2024 називає «збудливий контент» окремим шляхом порушення сну.
 
-Ми вже писали, чому [окуляри з блакитним фільтром не працюють](https://longlife.faion.net/blue-light-glasses-debunked-eye-health-screen-guide/) — сьогодні бачимо, що формат книги важливіший за фільтр. А у [60-хвилинному вечірньому ритуалі](https://longlife.faion.net/evening-routine-better-sleep-protocol/) ми згадали Chang коротко — тепер знаєш деталі. 🌿
+Ми вже писали, чому [окуляри з блакитним фільтром не працюють](https://longlife.media/blue-light-glasses-debunked-eye-health-screen-guide/) — сьогодні бачимо, що формат книги важливіший за фільтр. А у [60-хвилинному вечірньому ритуалі](https://longlife.media/evening-routine-better-sleep-protocol/) ми згадали Chang коротко — тепер знаєш деталі. 🌿
 
 ---
 

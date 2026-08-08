@@ -47,7 +47,7 @@ tg_post: |
   
   Звіт SOFI 2026 (FAO/ВООЗ/UNICEF) фіксує: у 2025-му калорій бракувало ~7,8% людства — на 43 млн менше, ніж на піку 2022-го. Але дослідження в The Lancet Global Health охопило 185 країн і показало «прихований голод»: 68% людей не добирають йоду, 65% — заліза, 54% — фолату (вітамін B9, критичний для кровотворення).
   
-  <a href="https://longlife.faion.net/sofi-2026-prykhovanyi-holod-ukraina-nutrienty/">Читати повністю →</a>
+  <a href="https://longlife.media/sofi-2026-prykhovanyi-holod-ukraina-nutrienty/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -87,7 +87,7 @@ tg_post: |
 9. **Дрібна жирна риба** (кілька, шпроти, оселедець) — omega-3, вітамін D, кальцій із кістками. За рекомендаціями FDA/EFSA, вагітним, годуючим і дітям молодшого віку варто орієнтуватися на дрібну рибу з низьким вмістом ртуті — саме кілька, шпроти й оселедець сюди підходять, а от великих хижих риб (тунець, королівська макрель, меч-риба) краще уникати ([FDA advice on fish, 2024](https://www.fda.gov/food/consumers/advice-about-eating-fish)).
 10. **Соняшникове насіння** — вітамін Е, магній, селен.
 
-Як ми вже писали, [йододефіцит повертається навіть у розвинених країнах](https://longlife.faion.net/iodine-deficiency-returns-salt-plant-milk-thyroid/), [дефіцит B12 маскується під втому та депресію](https://longlife.faion.net/vitamin-b12-defitsyt-vtoma-depresiya-diagnostyka-likuvannia/), а [низький феритин можливий без анемії](https://longlife.faion.net/zalizodefitsyt-bez-anemii-feritin-vtoma-zalizo-cherez-den/) — усі три сюжети напряму про «прихований голод».
+Як ми вже писали, [йододефіцит повертається навіть у розвинених країнах](https://longlife.media/iodine-deficiency-returns-salt-plant-milk-thyroid/), [дефіцит B12 маскується під втому та депресію](https://longlife.media/vitamin-b12-defitsyt-vtoma-depresiya-diagnostyka-likuvannia/), а [низький феритин можливий без анемії](https://longlife.media/zalizodefitsyt-bez-anemii-feritin-vtoma-zalizo-cherez-den/) — усі три сюжети напряму про «прихований голод».
 
 ## Що можна зробити вже сьогодні
 

@@ -100,7 +100,7 @@ export const Head = () => (
     <meta property="og:title" content="Віта Зеленко — про здоров’я з поглядом на дослідження" />
     <meta property="og:description" content="Науковиця в галузі здоров’я читає дослідження і пише, що з них насправді випливає. Один допис на день, українською." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://longlife.faion.net" />
+    <meta property="og:url" content="https://longlife.media" />
     <meta property="og:site_name" content="Віта Зеленко" />
     <html lang="uk" />
   </>

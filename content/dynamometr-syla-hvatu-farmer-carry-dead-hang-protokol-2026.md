@@ -25,7 +25,7 @@ source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC11042841/"
   - "https://www.nature.com/articles/s41598-024-80487-y"
   - "https://www.sciencedirect.com/science/article/pii/S1568163722002203"
-  - "https://longlife.faion.net/grip-strength-health-marker-longevity-uk-biobank/"
+  - "https://longlife.media/grip-strength-health-marker-longevity-uk-biobank/"
 source_names:
   - "The Lancet (PURE study, 2015)"
   - "JAMA (Honolulu Heart Program, 1999)"
@@ -43,14 +43,14 @@ tg_post: |
   
   Дослідження PURE у The Lancet (139 691 учасник) показало: кожні 5 кг втрати сили хвату підвищують загальну смертність на 16% — і це сильніший предиктор, ніж систолічний тиск. Домашній динамометр Camry EH101 корелює з клінічним Jamar на рівні R = 0,94, тож для моніторингу власної функції тіла його більш ніж достатньо.
   
-  <a href="https://longlife.faion.net/dynamometr-syla-hvatu-farmer-carry-dead-hang-protokol-2026/">Читати повністю →</a>
+  <a href="https://longlife.media/dynamometr-syla-hvatu-farmer-carry-dead-hang-protokol-2026/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
 Привіт! Є новини з лабораторій — і вони про пристрій, який коштує як дві піци, але прогнозує твоє здоров'я краще, ніж класичний BMI. 💪
 
-Мова про ручний динамометр — маленький прилад, який вимірює, з якою силою ти стискаєш руку. Ми вже писали про силу хвату як біомаркер довголіття ([longlife.faion.net](https://longlife.faion.net/grip-strength-health-marker-longevity-uk-biobank/)). Сьогодні — конкретика: чому це інформативніше за BMI, який динамометр брати додому і як тренуватися.
+Мова про ручний динамометр — маленький прилад, який вимірює, з якою силою ти стискаєш руку. Ми вже писали про силу хвату як біомаркер довголіття ([longlife.media](https://longlife.media/grip-strength-health-marker-longevity-uk-biobank/)). Сьогодні — конкретика: чому це інформативніше за BMI, який динамометр брати додому і як тренуватися.
 
 ## Чому не BMI
 

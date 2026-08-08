@@ -26,7 +26,7 @@ source_urls:
   - "https://www.sciencedirect.com/science/article/pii/S2667278225000495"
   - "https://www.psychiatry.org/getattachment/0ce71f37-61a6-44d0-8fcd-c752b7e935fd/Position-Mental-Health-Climate-Change.pdf"
   - "https://www.bbc.co.uk/news/articles/cgk4xrznxn5o"
-  - "https://longlife.faion.net/speka-psykhika-tryvoga-depresiya-siozs-nature-health-2026/"
+  - "https://longlife.media/speka-psykhika-tryvoga-depresiya-siozs-nature-health-2026/"
 source_names:
   - "Hickman et al., The Lancet Planetary Health, 2021"
   - "Cosh et al., BMC Psychiatry, 2024 (систематичний огляд)"
@@ -45,7 +45,7 @@ tg_post: |
   
   Метааналіз 35 досліджень (~45 667 учасників) показав: кліматична тривога помірно корелює з депресією, але слабко — з «хронічним турбуванням», типовим для ГТР. За даними Lancet Planetary Health, 59% молоді 16–25 років «дуже» стурбовані кліматом, а 45% кажуть, що ці почуття заважають щоденному життю — тож реакція «розкажи, що відчуваєш» працює краще, ніж «не думай про це».
   
-  <a href="https://longlife.faion.net/eko-tryvoga-ne-gtr-bmc-psychiatry-2024-tekhniky-batkam-pidlitkiv/">Читати повністю →</a>
+  <a href="https://longlife.media/eko-tryvoga-ne-gtr-bmc-psychiatry-2024-tekhniky-batkam-pidlitkiv/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -54,7 +54,7 @@ tg_post: |
 
 > **Disclaimer:** матеріал має інформаційний характер і не замінює консультацію лікаря чи психолога. Якщо ви або ваша дитина переживаєте виражений дистрес — зверніться до фахівця.
 
-Ми вже [писали, як спека б'є по психіці](https://longlife.faion.net/speka-psykhika-tryvoga-depresiya-siozs-nature-health-2026/) — про госпіталізації, тривогу і взаємодію SSRI з жарою. Сьогодні — про суміжний феномен: еко-тривогу як окремий психологічний стан, а не просто «звичайну» тривогу з кліматичним ярликом.
+Ми вже [писали, як спека б'є по психіці](https://longlife.media/speka-psykhika-tryvoga-depresiya-siozs-nature-health-2026/) — про госпіталізації, тривогу і взаємодію SSRI з жарою. Сьогодні — про суміжний феномен: еко-тривогу як окремий психологічний стан, а не просто «звичайну» тривогу з кліматичним ярликом.
 
 ## Скільки людей це стосується
 

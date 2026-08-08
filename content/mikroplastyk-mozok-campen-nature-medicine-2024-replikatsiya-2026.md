@@ -26,7 +26,7 @@ source_urls:
   - "https://healthpolicy-watch.news/microplastics-in-the-brain/"
   - "https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2025.1581109/full"
   - "https://www.cnn.com/2025/02/03/health/plastics-inside-human-brain-wellness"
-  - "https://longlife.faion.net/microplastics-blood-arteries-nejm-cardiovascular-risk/"
+  - "https://longlife.media/microplastics-blood-arteries-nejm-cardiovascular-risk/"
 source_names:
   - "Nature Medicine (Nihart, Campen et al., 2025)"
   - "Nature Medicine Correspondence (Fazel Monikh et al., 2025)"
@@ -43,7 +43,7 @@ tg_post: |
   
   Команда з Університету Нью-Мексико в Nature Medicine заявила про 4 917 мкг мікропластику на грам тканини мозку — у 7–30 разів більше, ніж у печінці чи нирках. Але критика у грудні 2025 та валідація в Environmental Science &amp; Technology показали: метод Py-GC/MS не відрізняє реальні частинки від розчинених полімерів, а «ложка» — лише екстраполяція автора для CNN, якої немає у самій статті.
   
-  <a href="https://longlife.faion.net/mikroplastyk-mozok-campen-nature-medicine-2024-replikatsiya-2026/">Читати повністю →</a>
+  <a href="https://longlife.media/mikroplastyk-mozok-campen-nature-medicine-2024-replikatsiya-2026/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -82,7 +82,7 @@ tg_post: |
 
 ## Що ми знаємо напевно
 
-Мікропластик у людському тілі — реальність, підтверджена кількома незалежними лабораторіями. Як ми вже [писали про судини](https://longlife.faion.net/microplastics-blood-arteries-nejm-cardiovascular-risk/), дослідження Marfella в NEJM 2024 показало реальний зв'язок частинок у бляшках із серцево-судинними подіями. А от «ложка пластику в голові» — красива метафора, яка чекає на підтвердження чистішими методами.
+Мікропластик у людському тілі — реальність, підтверджена кількома незалежними лабораторіями. Як ми вже [писали про судини](https://longlife.media/microplastics-blood-arteries-nejm-cardiovascular-risk/), дослідження Marfella в NEJM 2024 показало реальний зв'язок частинок у бляшках із серцево-судинними подіями. А от «ложка пластику в голові» — красива метафора, яка чекає на підтвердження чистішими методами.
 
 ## Що можна зробити вже сьогодні 🌿
 
@@ -108,4 +108,4 @@ tg_post: |
 - [Frontiers in Neurology — огляд механізмів, 2025](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2025.1581109/full)
 - [Hussain et al. — Environmental Science & Technology Letters, 2023 (нагрів пластику)](https://pubs.acs.org/doi/10.1021/acs.estlett.3c00010)
 - [Cherniak et al. — Science of the Total Environment, 2022 (ефективність фільтрів)](https://www.sciencedirect.com/science/article/pii/S0048969722034192)
-- [LongLife Media — мікропластик у судинах](https://longlife.faion.net/microplastics-blood-arteries-nejm-cardiovascular-risk/)
+- [LongLife Media — мікропластик у судинах](https://longlife.media/microplastics-blood-arteries-nejm-cardiovascular-risk/)

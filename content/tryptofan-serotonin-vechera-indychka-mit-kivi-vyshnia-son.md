@@ -40,14 +40,14 @@ tg_post: |
   
   Триптофан конкурує з іншими амінокислотами за один транспортер через гематоенцефалічний бар'єр — і програє. У дослідженні Afaghi (Am J Clin Nutr, 2007) вуглеводи з високим GI за 4 години до сну скоротили час засинання з 17,5 до 9 хвилин: інсулін розганяє конкурентів і триптофан нарешті виграє. Сонливість після святкової вечері — це об'єм їжі, картопля й вино, а не сама індичка.
   
-  <a href="https://longlife.faion.net/tryptofan-serotonin-vechera-indychka-mit-kivi-vyshnia-son/">Читати повністю →</a>
+  <a href="https://longlife.media/tryptofan-serotonin-vechera-indychka-mit-kivi-vyshnia-son/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
 Привіт! Після ситної вечері з індичкою тягне в сон — і всі дружно кивають: «це ж триптофан». Звучить переконливо, але біохімія тут грає злий жарт із популярною версією. 🦃
 
-Раніше ми розбирали, як [кофеїн краде глибокий сон](https://longlife.faion.net/caffeine-sleep-architecture-cyp1a2-deep-sleep-guide/) і як [алкоголь руйнує другу половину ночі](https://longlife.faion.net/alcohol-sleep-rem-disruption-hrv-guide/). Сьогодні — третя річ на твоїй тарілці: сама вечеря.
+Раніше ми розбирали, як [кофеїн краде глибокий сон](https://longlife.media/caffeine-sleep-architecture-cyp1a2-deep-sleep-guide/) і як [алкоголь руйнує другу половину ночі](https://longlife.media/alcohol-sleep-rem-disruption-hrv-guide/). Сьогодні — третя річ на твоїй тарілці: сама вечеря.
 
 ## Чому індичка — не снодійне
 

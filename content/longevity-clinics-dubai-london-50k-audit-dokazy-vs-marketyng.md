@@ -44,7 +44,7 @@ tg_post: |
   
   Систематичний огляд у Journal of Magnetic Resonance Imaging показав: full-body MRI дає 16% хибнопозитивів і критичні знахідки у 12,6% безсимптомних пацієнтів — але жодного РКД про зниження смертності не існує. Американський коледж радіології та USPSTF не рекомендують цей скринінг здоровим дорослим: приблизно 1 з 6 клієнтів отримає «знахідку», яка обернеться біопсією, тривогою і зайвим опроміненням від КТ.
   
-  <a href="https://longlife.faion.net/longevity-clinics-dubai-london-50k-audit-dokazy-vs-marketyng/">Читати повністю →</a>
+  <a href="https://longlife.media/longevity-clinics-dubai-london-50k-audit-dokazy-vs-marketyng/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -79,15 +79,15 @@ Human Longevity Inc (Сан-Дієго), Fountain Life (Дубай, Флорид
 
 ## Сенолітики: пілот на 14 людях і провалений RCT
 
-Про сенолітики — препарати, що очищують «зістарілі» (сенесцентні) клітини — ми [писали окремо](https://longlife.faion.net/autophagy-without-fasting-exercise-sleep-spermidine-coffee-sauna/). Коротко: [пілот Justice у EBioMedicine (2019)](https://www.sciencedirect.com/science/article/pii/S2352396418306297) — це 14 пацієнтів без контрольної групи. Це фаза 1 «на чи взагалі можна давати», а не доказ ефективності. RCT Farr 2024 (n=60) не досяг первинної кінцевої точки. Провідні дослідники поля (Kirkland, Tchkonia) в [огляді J Intern Med (2020)](https://onlinelibrary.wiley.com/doi/full/10.1111/joim.13141) називають сенолітики «експериментальними», а в свіжому [огляді Demaria в Aging (2025)](https://www.aging-us.com/) підкреслюється: попри прогрес у розумінні біології клітинного старіння, клінічні протоколи для здорових людей досі не мають доказової бази — потрібні великі РКД із твердими кінцевими точками.
+Про сенолітики — препарати, що очищують «зістарілі» (сенесцентні) клітини — ми [писали окремо](https://longlife.media/autophagy-without-fasting-exercise-sleep-spermidine-coffee-sauna/). Коротко: [пілот Justice у EBioMedicine (2019)](https://www.sciencedirect.com/science/article/pii/S2352396418306297) — це 14 пацієнтів без контрольної групи. Це фаза 1 «на чи взагалі можна давати», а не доказ ефективності. RCT Farr 2024 (n=60) не досяг первинної кінцевої точки. Провідні дослідники поля (Kirkland, Tchkonia) в [огляді J Intern Med (2020)](https://onlinelibrary.wiley.com/doi/full/10.1111/joim.13141) називають сенолітики «експериментальними», а в свіжому [огляді Demaria в Aging (2025)](https://www.aging-us.com/) підкреслюється: попри прогрес у розумінні біології клітинного старіння, клінічні протоколи для здорових людей досі не мають доказової бази — потрібні великі РКД із твердими кінцевими точками.
 
 ## Що з клінічного меню справді працює
 
 Цікаво, що дійсно корисні маркери коштують копійки:
 
-- **Сила хвату** — [дані UK Biobank](https://longlife.faion.net/grip-strength-health-marker-longevity-uk-biobank/) на 500 000 людей. Динамометр за 500 грн.
-- **VO2max** (максимальне споживання кисню) — [найсильніший предиктор смертності після віку](https://longlife.faion.net/vo2max-predictor-longevity-cardiorespiratory-fitness/) (Mandsager, JAMA 2018, n=122 000). Пряме вимірювання робиться у спортивній лабораторії; побутові тести (Купера, Rockport, субмаксимальні протоколи) — це оцінки-наближення, не пряме вимірювання.
-- **DEXA** — валідована [для діагностики остеопорозу](https://longlife.faion.net/osteoporoz-bez-symptomiv-dexa-densitometriya-frax-skryninh/), не для «моніторингу довголіття».
+- **Сила хвату** — [дані UK Biobank](https://longlife.media/grip-strength-health-marker-longevity-uk-biobank/) на 500 000 людей. Динамометр за 500 грн.
+- **VO2max** (максимальне споживання кисню) — [найсильніший предиктор смертності після віку](https://longlife.media/vo2max-predictor-longevity-cardiorespiratory-fitness/) (Mandsager, JAMA 2018, n=122 000). Пряме вимірювання робиться у спортивній лабораторії; побутові тести (Купера, Rockport, субмаксимальні протоколи) — це оцінки-наближення, не пряме вимірювання.
+- **DEXA** — валідована [для діагностики остеопорозу](https://longlife.media/osteoporoz-bez-symptomiv-dexa-densitometriya-frax-skryninh/), не для «моніторингу довголіття».
 - **HbA1c, ліпідограма з ApoB, тиск, обхват талії** — сумарно ~500 грн на рік.
 
 ## Що можна зробити вже сьогодні

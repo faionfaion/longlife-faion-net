@@ -24,8 +24,8 @@ source_urls:
   - "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00474-8"
   - "https://www.psychiatry.org/News-room/APA-Blogs/Extreme-Heat-Can-Take-a-Toll-on-Mental-Health"
   - "https://www.cdc.gov/heat-health/hcp/clinical-guidance/heat-and-medications-guidance-for-clinicians.html"
-  - "https://longlife.faion.net/eko-tryvoga-ne-gtr-bmc-psychiatry-2024-tekhniky-batkam-pidlitkiv/"
-  - "https://longlife.faion.net/cyclic-sighing-stanford-breathing-stress-anxiety/"
+  - "https://longlife.media/eko-tryvoga-ne-gtr-bmc-psychiatry-2024-tekhniky-batkam-pidlitkiv/"
+  - "https://longlife.media/cyclic-sighing-stanford-breathing-stress-anxiety/"
 source_names:
   - "BBC News"
   - "Lancet Planetary Health (Thompson, 2023)"
@@ -44,7 +44,7 @@ tg_post: |
   
   Огляд у Temperature показує: за стресову гіпертермію відповідає дорсомедіальний гіпоталамус і викид катехоламінів — той самий механізм, що й при паніці, тому серцебиття та задишка в спеку не «в голові». Мета-аналіз у Lancet Planetary Health зафіксував +9,7% психіатричних звернень у дні хвиль спеки. Найшвидша техніка саморегуляції — пірнальний рефлекс: занур обличчя у воду 10–15 °C на 15–30 секунд, щоб активувати парасимпатику.
   
-  <a href="https://longlife.faion.net/heatwave-anxiety-panika-okholodzhennia-dykhannia-4-tekhniky-2026/">Читати повністю →</a>
+  <a href="https://longlife.media/heatwave-anxiety-panika-okholodzhennia-dykhannia-4-tekhniky-2026/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -59,7 +59,7 @@ tg_post: |
 
 **Не плутай з еко-тривогою**
 
-Еко-тривога — когнітивна, розтягнута в часі, працює через сенс і колективну дію ([детально писали 31.07](https://longlife.faion.net/eko-tryvoga-ne-gtr-bmc-psychiatry-2024-tekhniky-batkam-pidlitkiv/)). Heatwave anxiety — гостра, соматична, знімається автономним «даунрегулюванням» тут і зараз.
+Еко-тривога — когнітивна, розтягнута в часі, працює через сенс і колективну дію ([детально писали 31.07](https://longlife.media/eko-tryvoga-ne-gtr-bmc-psychiatry-2024-tekhniky-batkam-pidlitkiv/)). Heatwave anxiety — гостра, соматична, знімається автономним «даунрегулюванням» тут і зараз.
 
 **4 техніки з доказовою базою**
 

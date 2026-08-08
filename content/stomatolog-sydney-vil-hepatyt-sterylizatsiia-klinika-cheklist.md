@@ -28,7 +28,7 @@ source_urls:
   - "https://prosystem.euronda.com/helix-tests-for-autoclaves-what-is-it-and-why-important/"
   - "https://www.ncbi.nlm.nih.gov/books/NBK589669/"
   - "https://www.cnn.com/2013/09/18/health/oklahoma-dentist-investigation-results"
-  - "https://longlife.faion.net/miyzubni-shchitochky-vs-zubna-nytka-pislia-50-evidence-2026/"
+  - "https://longlife.media/miyzubni-shchitochky-vs-zubna-nytka-pislia-50-evidence-2026/"
 source_names:
   - "NSW Health (Австралія)"
   - "BBC News"
@@ -48,7 +48,7 @@ tg_post: |
   
   13 травня 2026 NSW Health випустило офіційне попередження після аудиту клініки на Albert Road у Strathfield: ризик оцінюють як низький, але підтверджених випадків передачі вірусів через стоматологічні інструменти у світі задокументовано — огляд CDC у JADA (2016) описує 3 інциденти у США, серед них спалах гепатиту C у Талсі, де обстежили 5810 пацієнтів. Розповідаємо, як перевірити стерилізацію у своїй клініці: запитати про автоклав класу B, індикатори стерильності та одноразові насадки — це 3 базові маркери безпечного кабінету.
   
-  <a href="https://longlife.faion.net/stomatolog-sydney-vil-hepatyt-sterylizatsiia-klinika-cheklist/">Читати повністю →</a>
+  <a href="https://longlife.media/stomatolog-sydney-vil-hepatyt-sterylizatsiia-klinika-cheklist/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -61,7 +61,7 @@ tg_post: |
 
 ## Чому це не «просто страшилка»
 
-Минулого тижня ми писали про те, [як самостійно доглядати за яснами за допомогою міжзубних щіточок](https://longlife.faion.net/miyzubni-shchitochky-vs-zubna-nytka-pislia-50-evidence-2026/). Сьогодні логічне продовження: домашня гігієна — це половина історії, а друга половина починається в тому кабінеті, у який ти приходиш.
+Минулого тижня ми писали про те, [як самостійно доглядати за яснами за допомогою міжзубних щіточок](https://longlife.media/miyzubni-shchitochky-vs-zubna-nytka-pislia-50-evidence-2026/). Сьогодні логічне продовження: домашня гігієна — це половина історії, а друга половина починається в тому кабінеті, у який ти приходиш.
 
 Передача вірусів через стоматологічні інструменти — рідкість, але задокументовані випадки існують. Огляд CDC у Journal of the American Dental Association (Cleveland et al., 2016) описує три підтверджені події передачі гематогенних інфекцій (тобто тих, що передаються через кров) у стоматології США за 2003–2015 роки 🔬
 

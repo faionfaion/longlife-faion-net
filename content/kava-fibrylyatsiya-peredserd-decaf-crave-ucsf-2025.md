@@ -44,7 +44,7 @@ tg_post: |
   
   У рандомізованому трайлі на 200 пацієнтів із персистуючою фібриляцією передсердь рецидив стався у 47% тих, хто пив щонайменше чашку кави щодня, проти 64% тих, хто повністю відмовився від кофеїну. Це -39% відносного ризику (HR 0.61; P=.01) за 6 місяців після процедури — тож звичну пораду «забудьте про каву» варто переглянути разом із кардіологом.
   
-  <a href="https://longlife.faion.net/kava-fibrylyatsiya-peredserd-decaf-crave-ucsf-2025/">Читати повністю →</a>
+  <a href="https://longlife.media/kava-fibrylyatsiya-peredserd-decaf-crave-ucsf-2025/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -86,7 +86,7 @@ tg_post: |
 2. Загальна безпечна стеля кофеїну для здорових дорослих — **до 400 мг на день** (≈3–4 чашки кави). Це рекомендація [FDA](https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much) та [EFSA](https://www.efsa.europa.eu/en/efsajournal/pub/4102), а не спеціальний протокол DECAF. Енергетики й мегадози не тестувалися в жодному з цих досліджень.
 3. Дизайн DECAF відкритий (не сліпий), N=200 — можливий елемент шансу.
 4. **Окремі групи потребують індивідуального підходу.** Якщо ти приймаєш антиаритмічні препарати або маєш неконтрольовану гіпертензію, тяжкий рефлюкс, тривожні розлади чи вагітність — дозу кофеїну варто узгодити з лікарем персонально. Дані DECAF на ці підгрупи автоматично не поширюються.
-5. Час має значення. Як ми вже писали, [кофеїн о 14:00 забирає до години сну](https://longlife.faion.net/caffeine-sleep-architecture-cyp1a2-deep-sleep-guide/), а брак сну — тригер AF. І [ранкова кава краще, ніж «весь день»](https://longlife.faion.net/kava-vranci-chy-ves-den-dovgolittia-smertnist-kohorta/) для довголіття загалом.
+5. Час має значення. Як ми вже писали, [кофеїн о 14:00 забирає до години сну](https://longlife.media/caffeine-sleep-architecture-cyp1a2-deep-sleep-guide/), а брак сну — тригер AF. І [ранкова кава краще, ніж «весь день»](https://longlife.media/kava-vranci-chy-ves-den-dovgolittia-smertnist-kohorta/) для довголіття загалом.
 
 ## Що можна зробити вже сьогодні
 

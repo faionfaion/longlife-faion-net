@@ -22,7 +22,7 @@ from pipeline.context import PipelineContext
 
 logger = logging.getLogger(__name__)
 
-WEBROOT = Path("/var/www/longlife.faion.net")
+WEBROOT = Path("/var/www/longlife.media")
 
 
 def run(ctx: PipelineContext) -> None:

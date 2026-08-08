@@ -25,7 +25,7 @@ source_urls:
   - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12964559/"
   - "https://publications.ersnet.org/content/erj/64/suppl68/pa4916"
   - "https://kse.ua/wp-content/uploads/2025/12/KSE_Smoking-prevalence-and-prices-in-Ukraine.pdf"
-  - "https://longlife.faion.net/uk-tobacco-endgame-generation-ban-lancet-ukraine-vaping/"
+  - "https://longlife.media/uk-tobacco-endgame-generation-ban-lancet-ukraine-vaping/"
 source_names:
   - "Biological Research for Nursing (Rodriguez et al., 2026)"
   - "JAMA Network Open (Tattan-Birch et al., 2024)"
@@ -43,7 +43,7 @@ tg_post: |
   
   Команда з Університету Еморі проаналізувала 33 дослідження і виявила: у крові дітей 3–11 років, чиї батьки вейплять вдома, рівень нікотину у ~5 разів вищий, ніж у неекспонованих однолітків. Аерозоль осідає у квартирі й машині разом із важкими металами (нікель, свинець, хром) і леткими органічними сполуками — тож «менше, ніж від сигарет» не означає «безпечно для дитини».
   
-  <a href="https://longlife.faion.net/pasyvnyi-veiping-dity-5-12-astma-kohnitsiya-rodriguez-2026/">Читати повністю →</a>
+  <a href="https://longlife.media/pasyvnyi-veiping-dity-5-12-astma-kohnitsiya-rodriguez-2026/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -84,7 +84,7 @@ tg_post: |
 
 За даними ERS Congress 2024, частка українських підлітків, які вейпили, зросла з 25,8% (2022) до 52,3% (2024) — приблизно вдвічі за роки війни ([ERS, 2024](https://publications.ersnet.org/content/erj/64/suppl68/pa4916)). Звіт KSE/KIIS 2025 фіксує, що 18,4% українських дітей уже користуються електронними сигаретами ([KSE, 2025](https://kse.ua/wp-content/uploads/2025/12/KSE_Smoking-prevalence-and-prices-in-Ukraine.pdf)).
 
-Але в жодному з українських звітів немає окремої графи: скільки 5–12-річних живуть у квартирах, де старший брат або мама вейпить у ванній. Як ми вже писали про [британський «tobacco endgame»](https://longlife.faion.net/uk-tobacco-endgame-generation-ban-lancet-ukraine-vaping/), фраза «на 95% безпечніше за сигарети» стосується самого вейпера, а не дитини поруч.
+Але в жодному з українських звітів немає окремої графи: скільки 5–12-річних живуть у квартирах, де старший брат або мама вейпить у ванній. Як ми вже писали про [британський «tobacco endgame»](https://longlife.media/uk-tobacco-endgame-generation-ban-lancet-ukraine-vaping/), фраза «на 95% безпечніше за сигарети» стосується самого вейпера, а не дитини поруч.
 
 ## Що можна зробити вже сьогодні
 

@@ -1,7 +1,7 @@
 #!/bin/bash
 set -euo pipefail
 
-# Deploy longlife.faion.net
+# Deploy longlife.media
 #
 # Generation and publishing live on different machines:
 #
@@ -24,8 +24,8 @@ set -euo pipefail
 # loop-back, so every nightly deploy failed and the site sat frozen on its April build for
 # over three months.)
 
-WEBROOT="/var/www/longlife.faion.net"
-SITE="longlife.faion.net"
+WEBROOT="/var/www/longlife.media"
+SITE="longlife.media"
 BRANCH="master"
 
 cd "$(dirname "$0")/.."

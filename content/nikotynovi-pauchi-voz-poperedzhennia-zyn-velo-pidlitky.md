@@ -29,7 +29,7 @@ source_urls:
   - "https://tobaccoreporter.com/2026/04/07/ukraine-moves-to-ban-nicotine-pouch-sales-to-minors/"
   - "https://www.2firsts.com/news/ukraine-health-committee-proposes-ban-on-sale-of-nicotine-pouches-to-minors"
   - "https://www.globaltobaccocontrol.org/sites/default/files/2025-10/FINAL_Global%20Regulatory%20Scenario%20of%20Nicotine%20Pouches_07Oct2025.pdf"
-  - "https://longlife.faion.net/uk-tobacco-endgame-generation-ban-lancet-ukraine-vaping/"
+  - "https://longlife.media/uk-tobacco-endgame-generation-ban-lancet-ukraine-vaping/"
 source_names:
   - "WHO (World Health Organization)"
   - "Frontiers in Pharmacology"
@@ -50,14 +50,14 @@ tg_post: |
   
   Маленькі білі подушечки під губу (Zyn, Velo) містять від 1,5 до 30 мг нікотину та лужне середовище (pH 8,8), яке прискорює всмоктування через слизову. У німецькому клінічному дослідженні пауч на 30 мг давав пік нікотину в плазмі 29,4 нг/мл — майже вдвічі більше за сигарету (15,2 нг/мл).
   
-  <a href="https://longlife.faion.net/nikotynovi-pauchi-voz-poperedzhennia-zyn-velo-pidlitky/">Читати повністю →</a>
+  <a href="https://longlife.media/nikotynovi-pauchi-voz-poperedzhennia-zyn-velo-pidlitky/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
 Привіт! 15 травня 2026 року Всесвітня організація охорони здоров'я випустила окреме попередження про нікотинові паучі — маленькі білі подушечки, які закладають під губу. Глобальні продажі за рік зросли на 50% і перевищили 23 мільярди штук, а ринок оцінюють у близько 7 мільярдів доларів ([WHO, 15.05.2026](https://www.who.int/news/item/15-05-2026-who-warns-nicotine-pouch-brands-targeting-youth-as-sales-surge)). 🔬
 
-Нагадаємо, [у статті про британський tobacco endgame](https://longlife.faion.net/uk-tobacco-endgame-generation-ban-lancet-ukraine-vaping/) ми писали, як країни закручують гайки навколо вейпів. Тютюнова індустрія відреагувала швидко — і запропонувала підліткам «чистішу» альтернативу без диму й пари. Розбираємось, що з цим не так.
+Нагадаємо, [у статті про британський tobacco endgame](https://longlife.media/uk-tobacco-endgame-generation-ban-lancet-ukraine-vaping/) ми писали, як країни закручують гайки навколо вейпів. Тютюнова індустрія відреагувала швидко — і запропонувала підліткам «чистішу» альтернативу без диму й пари. Розбираємось, що з цим не так.
 
 ## Що таке нікотиновий пауч
 

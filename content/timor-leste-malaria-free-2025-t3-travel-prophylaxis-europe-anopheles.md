@@ -26,8 +26,8 @@ source_urls:
   - "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12737385/"
   - "https://www.mmv.org/newsroom/publications/t3-test-treat-track-initiative"
   - "https://phc.org.ua/news/profilaktika-malyarii-poradi-vidviduvacham-inshikh-krain"
-  - "https://longlife.faion.net/cyclospora-salaty-vidpustka-diareya-ukhsa-2026-tmp-smx/"
-  - "https://longlife.faion.net/who-malaria-coartem-baby-prequalification-infants-ukraine/"
+  - "https://longlife.media/cyclospora-salaty-vidpustka-diareya-ukhsa-2026-tmp-smx/"
+  - "https://longlife.media/who-malaria-coartem-baby-prequalification-infants-ukraine/"
 source_names:
   - "WHO — Timor-Leste certified malaria-free (24 July 2025)"
   - "CDC Yellow Book 2026 — Malaria"
@@ -45,7 +45,7 @@ tg_post: |
   
   24 липня 2025 року Тимор-Лешті став 47-ю країною у світі, яка перервала локальну передачу малярії — з 223 000 випадків на рік у 2006-му до нуля з 2021-го. Водночас у Франції, Італії та Греції у 2022–2025 роках знову фіксують локальні випадки, тож перед поїздкою в тропіки чи навіть на Сицилію варто перевірити ризики і зібрати аптечку з репелентами, сіткою та профілактикою.
   
-  <a href="https://longlife.faion.net/timor-leste-malaria-free-2025-t3-travel-prophylaxis-europe-anopheles/">Читати повністю →</a>
+  <a href="https://longlife.media/timor-leste-malaria-free-2025-t3-travel-prophylaxis-europe-anopheles/">Читати повністю →</a>
   
   <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
@@ -135,7 +135,7 @@ tg_post: |
 - **Дефіцит G6PD** — обов'язковий кількісний тест перед примахіном і тафенохіном.
 - **Депресія, тривога, судоми, психоз** в анамнезі — мефлохін не варіант, розглядають доксициклін або ATG.
 - **Діти до 8 років** — не доксициклін.
-- **Немовлята 2–5 кг** — уже є прекваліфікована ВООЗ форма Coartem Baby для лікування, [про яку ми писали у квітні 2026](https://longlife.faion.net/who-malaria-coartem-baby-prequalification-infants-ukraine/).
+- **Немовлята 2–5 кг** — уже є прекваліфікована ВООЗ форма Coartem Baby для лікування, [про яку ми писали у квітні 2026](https://longlife.media/who-malaria-coartem-baby-prequalification-infants-ukraine/).
 
 Всі препарати рецептурні. Не купуй самотужки на iHerb чи в турецькій аптеці — консультація інфекціоніста в Україні або сімейного лікаря за 4–6 тижнів до вильоту дасть тобі і рецепт, і графік прийому під конкретний маршрут.
 
@@ -154,7 +154,7 @@ tg_post: |
 
 Якщо ти був у ендемічній зоні протягом останнього року і температура піднялася — скажи лікарю про поїздку в першу чергу. Не після трьох днів «пари таблеток парацетамолу». Тяжка малярія розвивається за години.
 
-До речі, тиждень тому ми писали про [циклоспору в салатах для тих, хто повертається з Мексики](https://longlife.faion.net/cyclospora-salaty-vidpustka-diareya-ukhsa-2026-tmp-smx/). Це сестринська історія: паразит у їжі vs паразит у комарі, різні механізми — однакова логіка «повернувся і не одужуєш → до інфекціоніста».
+До речі, тиждень тому ми писали про [циклоспору в салатах для тих, хто повертається з Мексики](https://longlife.media/cyclospora-salaty-vidpustka-diareya-ukhsa-2026-tmp-smx/). Це сестринська історія: паразит у їжі vs паразит у комарі, різні механізми — однакова логіка «повернувся і не одужуєш → до інфекціоніста».
 
 ## Що можна зробити вже сьогодні
 
