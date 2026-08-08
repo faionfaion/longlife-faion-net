@@ -4,14 +4,22 @@
 # The work is split across two hosts, because covers are rendered through the Codex CLI
 # and Codex is only installed and authenticated on nero-prod:
 #
-#   nero-prod (UTC)          faion-net (UTC)
-#   3 3 * * *  generate      5 9,12,15,18 * * *  publish
-#                            43 20 * * *         digest
-#                            30 5 * * *          site
+#   nero-prod (UTC)              faion-net (UTC)
+#   3 3 * * *   generate         30 8 * * *   site
+#   0 6 * * 0   digest (Sunday)   5 9 * * *   publish
+#                                30 14 * * *  site
 #
-# nero-prod writes articles and covers, commits and pushes. faion-net pulls, sends to
-# Telegram and rebuilds the site. Only faion-net ever touches the channel or the webroot,
-# which is what keeps the two hosts from posting over each other.
+# nero-prod writes the day's post and its cover, commits and pushes. faion-net pulls,
+# rebuilds the site and sends one post to the channel. Only faion-net ever touches the
+# channel or the webroot, which is what keeps the two hosts from posting over each other.
+#
+# The order on any given day matters: generation finishes overnight, the site is rebuilt at
+# 08:30, and only then does 09:05 send anything — a post whose page is not up yet would go
+# out with a dead link behind it.
+#
+# The Sunday digest is generation too — it needs the Codex CLI for its cover, which only
+# exists on nero-prod — so it runs here at 06:00 and reaches the channel through the same
+# 08:30 build and 09:05 send as any other post.
 
 set -euo pipefail
 
@@ -87,8 +95,10 @@ else
     EXIT_CODE=$?
 
     # Push what the run produced. The sync at the top only pushes what was already
-    # committed when the run started, which on a generate run is nothing that matters.
-    if [ "$MODE" = "generate" ]; then
+    # committed when the run started, which on a writing run is nothing that matters.
+    # Both generate and digest write an article, and both are useless until the web host
+    # can see it.
+    if [ "$MODE" = "generate" ] || [ "$MODE" = "digest" ]; then
         git push origin HEAD:master >> "$LOG_DIR/cron.log" 2>&1 \
             || echo "$(date '+%Y-%m-%d %H:%M:%S') push failed — articles are local only" \
                >> "$LOG_DIR/cron.log"
