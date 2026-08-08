@@ -6231,5 +6231,21 @@
       "біохакінг"
     ],
     "summary": "Guide explaining the light phase response curve (PRC) as the mechanism behind jet lag protocols, distinct from the 06.08 step-by-step protocol article. Core practical content: CBTmin ≈ habitual wake time minus 2–3 hours; light before Tmin delays, after Tmin advances, with maximum effect 3–6h either side (Roach & Sargent 2019, Frontiers in Physiology). Lead hook is the antidromic re-entrainment paradox — after eastward flights, unstructured daytime sun delivers contradictory delay-then-advance signals and can slow adaptation, which is why scheduled darkness (sunglasses) matters as much as light. Debunks the linear '1 day per time zone' rule with sub-linear re-entrainment tables. Pre-flight shifting block: Burgess 2003 (n=28, intermittent bright light ≈ continuous, 1.5h vs 2.1h advance) and Eastman 2005 (n=26, 2h/day advance NOT better than 1h/day and caused sleep-onset misalignment by day 3) — ceiling is 1h/day.\n\nHonesty framing corrects the assigned thesis: light has the stronger mechanism, melatonin the stronger clinical record (Cochrane 10 RCTs, AASM 2007 'Standard' rating), while 9 of 13 field studies of light interventions were null (Bin 2019) and the light PRC itself rests on only 7 subjects (Eastman & Burgess 2009). Key reader takeaway unique to this piece: for the 0–1 hour shifts of most Ukrainian summer destinations (Turkey, Egypt, Georgia, Spain from Kyiv), no circadian protocol is warranted at all — that's travel fatigue, not jet lag, which requires ≥3 zones. Evidence strength moderate; melatonin dose flagged as contested (3.0 mg vs 0.5 mg) with a doctor-consult note. Cross-links to the 06.08 jet-lag protocol, the 22.07 morning-light piece, and the 01.08 children's social jet lag article."
+  },
+  "stopy-vlitku-trishchyny-pyat-sechovyna-mozol-diabet-syhnal": {
+    "date": "2026-08-08",
+    "title": "Стопи влітку: тріщини на п'ятах, грибок у басейні та мозоль, яку при діабеті не можна ігнорувати",
+    "type": "lifehack",
+    "tags": [
+      "стопи",
+      "профілактика",
+      "діабет",
+      "шкіра",
+      "літо",
+      "догляд за тілом",
+      "дослідження",
+      "грибок"
+    ],
+    "summary": "Сезонний практичний матеріал про догляд за стопами влітку з трьома опорами. Перша: систематичний огляд Parker 2017 (JFAR, 22 дослідження, 12 інгредієнтів) показує, що сечовина має найбільше даних серед емолієнтів, але якість літератури (15 «середніх», 7 «поганих», 0 «добрих») не дозволяє визнати її кращою; подвійно сліпе РКД Parker 2018 (n=34, 28 днів) не знайшло значущої переваги 25% сечовини над дешевим сорболеном. Практичний висновок — регулярність важливіша за ціну засобу; протокол AAD (короткий душ, крем на вологу шкіру, вазелін під шкарпетки, рідкий пластир, не між пальцями).\n\nДруга опора: профілактика мікозу стоп у басейні/на пляжі (AAD, StatPearls; 16% поширеності серед грецьких плавців, Journal of Fungi) — той самий шльопанець шкідливий при тріщинах і корисний у душовій. Третя: медичний блок за IWGDF 2023 та ADA 2026 — надлишкова мозоль у людини з діабетом є передвиразковим ураженням, її видалення знижує пік підошовного тиску на 26–32% (Young 1992; Pitei 1999), а безболісність нейропатичної виразки є ключовим тривожним сигналом. Крос-лінки на матеріали про літнє взуття (06.08) і про молодший вік дебюту T2D. Загальна сила доказів — помірна; біомеханічний блок свідомо скорочено через свіжу публікацію 06.08."
   }
 }
