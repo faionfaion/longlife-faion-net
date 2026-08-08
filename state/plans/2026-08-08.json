@@ -1,0 +1,87 @@
+{
+  "articles": [
+    {
+      "topic": "ШІ проектує нові віруси: що насправді зробили дослідники і чому це не сюжет про пандемію з ноутбука",
+      "type": "research",
+      "category": "research",
+      "angle": "Тверезий розбір роботи, де генеративні моделі спроєктували життєздатні бактеріофаги з нуля. Пояснюємо різницю між фагом (вбиває бактерії, безпечний для людини) і патогеном людини, чому біобезпекові guardrails у моделях білкового дизайну — реальна тема наукової дискусії, і який потенційний медичний бік має фагова терапія для антибіотикорезистентних інфекцій — гостра тема для України з високою резистентністю у бойових пораненнях. Чітко маркуємо, що клінічних доказів для дизайнерських фагів у людей нема і що самостійне «замовлення фагів» через посередників небезпечне. Це найсвіжіша новина дня — ставимо першою.",
+      "sources_hint": "Stanford/Arc Institute 2025 generative phage design preprint (bioRxiv) and Evo 2 model papers in Science; Nature/Science coverage of AI biosecurity guardrails 2025-2026; WHO 2024 bacterial priority pathogens list; Ukrainian AMR data in war wounds (Lancet Infectious Diseases 2023-2025, Ljungquist et al.); BBC Health 'Artificial Intelligence used to design brand new viruses'",
+      "evidence_level": "preliminary",
+      "priority": 1
+    },
+    {
+      "topic": "Вакцини без холодильника: як термостабільні препарати можуть врятувати половину доз — і що це означає для України з блекаутами",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Розбір проблеми cold chain: до 50% доз вакцин у світі втрачається, значна частина — через збої холодового ланцюга. Пояснюємо технології термостабілізації (ліофілізація, silk fibroin, цукрово-скляна матриця) і що вже пройшло клінічні випробування (MenAfriVac у Африці як приклад controlled temperature chain). Прямий український кут: перебої з електрикою і ризики для холодильників у ЦПМСД, чому пацієнту варто уточнювати умови зберігання, і як розпізнати ситуацію, коли вакцину варто переколоти. Крос-лінк на матеріал про NHS heat action plan і блекаут-чекліст (07.08) — там тема зберігання ліків <25 °C.",
+      "sources_hint": "WHO Immunization Agenda 2030 vaccine wastage data; WHO controlled temperature chain (CTC) policy and MenAfriVac case; Kristensen 2016 Vaccine 'Vaccine stabilization'; Lancet Global Health on cold chain failures; recent 2025-2026 papers on thermostable vaccine platforms (Nature/Science Translational Medicine); МОЗ України накази щодо холодового ланцюга; BBC Health 'Half of vaccines are binned'",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Джетлаг у серпні: чому світло, а не мелатонін, вирішує, як швидко ти адаптуєшся до нового часового поясу",
+      "type": "guide",
+      "category": "biohacking",
+      "angle": "Практичний протокол для українців, які летять у відпустку через 2-3 часові пояси або повертаються з-за кордону: розрахунок фазової кривої відповіді (PRC) — коли шукати світло, а коли ховатися від нього, залежно від напрямку польоту (схід vs захід). Розбираємо, чому таймінг світла має сильнішу доказову базу за мелатонін, і чому правило «1 день на 1 годину зсуву» — груба евристика. Окремий блок: чи є сенс у попередньому зсуві режиму за 3 дні до вильоту. Не дублює липневу статтю про ранкове світло (там — циркадний ритм вдома, тут — трансмеридіанна адаптація) і матеріал про соціальний джетлаг у дітей 6-12 (01.08) — крос-лінки на обидва.",
+      "sources_hint": "Cochrane review on melatonin for jet lag (Herxheimer & Petrie); Eastman & Burgess 2009 'How to travel the world without jet lag' (Sleep Med Clin); Burgess 2003 phase response curve to light; Roach & Sargent 2019 Frontiers in Physiology review on jet lag interventions; AASM 2015 clinical practice guideline for circadian rhythm sleep-wake disorders (Auger et al., JCSM); BBC Health 'Sunshine to meal times: How to beat jet lag'",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Стопи влітку: чому шльопанці змінюють ходу, що робити з тріщинами на п'ятах і коли мозоль — це насправді діабет",
+      "type": "lifehack",
+      "category": "prevention",
+      "angle": "Сезонний практичний матеріал із біомеханічним ядром: дані gait-аналізу показують, що у в'єтнамках коротший крок і зміна кута гомілковостопа — чому це може провокувати перевантаження при тривалій ходьбі. Далі — доказовий догляд за тріщинами п'ят (сечовина 10-25% має найкращі дані серед емолієнтів), профілактика грибка при відкритому взутті в басейні/на пляжі, і критичний блок із медичним дисклеймером: у людей з діабетом безболісна мозоль чи виразка — привід до лікаря того ж тижня, а не до пемзи. Крос-лінк на матеріал про T2D у молодих жінок (31.07).",
+      "sources_hint": "Shroyer & Weimar 2010 JAPMA flip-flop gait analysis; Zhang 2013 studies on footwear and gait kinematics; Cochrane review on urea-based emollients for hyperkeratosis/heel fissures; IWGDF 2023 guidelines on diabetic foot prevention; AAD summer foot care guidance; ADA Standards of Care 2026 foot exam recommendations",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Порнозалежність чи компульсивна поведінка: що каже ICD-11, чому DSM-5 діагнозу не має і які кроки мають докази",
+      "type": "guide",
+      "category": "mental-health",
+      "angle": "Привід — історія британського олімпійця, який публічно розповів про подолання проблеми. Розбираємо термінологічну плутанину: ICD-11 має compulsive sexual behaviour disorder (6C72), DSM-5-TR — ні; «залежність» у побуті ≠ діагноз. Скринінг-інструменти (BPS, CSBD-19), ознаки, коли варто до фахівця, і що показують дані про КПТ, ACT і mindfulness-протоколи. Окремо — розрив між суб'єктивно відчутою залежністю та фактичним споживанням (moral incongruence як драйвер дистресу). Явний дисклеймер: скринінг ≠ діагноз, самотестування не замінює психіатра. Українські ресурси і телефон 7333, крос-лінк на матеріал про walk-in центри психічної допомоги (06.08).",
+      "sources_hint": "ICD-11 6C72 compulsive sexual behaviour disorder; Kraus 2018 World Psychiatry; Grubbs 2019 'Moral incongruence and pornography use' (Psychology of Addictive Behaviors); Bőthe CSBD-19 validation 2020 Journal of Behavioral Addictions; Sniewski 2018 systematic review of treatments; Cochrane/meta-analyses on CBT and ACT for CSBD 2023-2025; BBC Health olympian porn recovery piece",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Термогенез без вправ (NEAT): чому люди, які худнуть, непомітно менше рухаються — і 5 способів це компенсувати",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Малообговорюваний важіль енергобалансу: NEAT (усе, що не є тренуванням) варіює між людьми до 2000 ккал/добу, а при дефіциті калорій організм автоматично її знижує — механізм, який частково пояснює плато у схудненні і чому підрахунок «спалених на тренуванні» калорій оманливий. Розбираємо дані Levine (Science 2005, підвищення NEAT при перегодовуванні) і сучасні дослідження adaptive thermogenesis. Практика: 5 конкретних тригерів NEAT (стояча робота, дзвінки на ходу, сходи, побутова активність, паузи-VILPA) з чесною оцінкою, скільки це реально дає. Не дублює матеріали про кроки (04.08) і weekend warrior (31.07) — фокус саме на компенсаторному зниженні активності, крос-лінк на обидва.",
+      "sources_hint": "Levine 1999 Science 'Role of nonexercise activity thermogenesis'; Levine 2005 Science posture allocation study; Rosenbaum & Leibel 2010 on adaptive thermogenesis; Careau 2021 Science doubly labelled water energy compensation study; Martin 2022 systematic review on exercise energy compensation (Obesity Reviews); Stamatakis 2022 VILPA Nature Medicine",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Молочна vs рослинна альтернатива: що насправді змінює заміна коров'ячого молока на вівсяне — кальцій, білок і ціна в українських реаліях",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Порівняння за нутрієнтним профілем, а не за маркетингом: 100 мл коров'ячого молока = 3.3 г білка і ~120 мг кальцію, вівсяного — ~1 г білка і 0 мг кальцію, якщо не збагачене (а в Україні збагачення не обов'язкове — читаємо етикетку). Розбираємо, кому заміна виправдана (лактазна недостатність, алергія на БКМ у дітей), і чому соєве — єдина альтернатива, зіставна за білком. Окремо: додані цукри у «класичних» вівсяних напоях і чому вівсяне має вищий глікемічний відгук. Ціна за грам білка в гривнях — той самий формат розрахунку, що у матеріалі про яйця і холін (04.08), крос-лінк.",
+      "sources_hint": "USDA FoodData Central composition data; Vanga & Raghavan 2018 Journal of Food Science and Technology comparison of plant milks; Singhal 2017 Journal of Food Science and Technology on rice/oat milk nutritional adequacy; EFSA calcium DRV; ESPGHAN 2017 position on plant-based beverages in children; Ukrainian ДСТУ labelling rules for plant drinks; recent 2024-2026 meta-analyses on plant milk fortification bioavailability",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Трекер сну бреше? Що показують валідаційні дослідження Oura, Fitbit і Garmin проти полісомнографії — і що таке ортосомнія",
+      "type": "lifehack",
+      "category": "sleep",
+      "angle": "Замінює запланований матеріал про суботнє «досипання» — тему Depner 2019 і правило «не більше +2 год» ми вже закрили у статті про відпустку і sleep debt (02.08). Новий кут: наскільки взагалі можна вірити цифрам у застосунку. Валідаційні дані показують, що носимі трекери пристойно оцінюють загальну тривалість сну, але систематично помиляються у стадіях (особливо глибокому сні) і завищують ефективність у людей із безсонням. Окремий блок — ортосомнія: тривога через «поганий скор» сама погіршує сон. Практика: як користуватися трендом за 2 тижні замість щоденного скора, які метрики справді корисні (регулярність часу підйому, ЧСС спокою), і коли цифри — привід не до нового гаджета, а до скринінгу апное (STOP-BANG). Крос-лінки на матеріали про WASO (05.08) і CBT-I.",
+      "sources_hint": "Chinoy 2021 Sleep 'Performance of seven consumer sleep-tracking devices compared with polysomnography'; Chinoy 2022 Nature and Science of Sleep follow-up; de Zambotti 2019 review on wearable sleep technology; Menghini 2021 SLEEP standardized analytical framework for device validation; Baron 2017 JCSM 'Orthosomnia' case series; AASM 2018 position statement on consumer sleep technology; Stone 2020 Oura ring validation study",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Тест на біологічний вік за 30 секунд: що показують sit-to-rise, час утримання на одній нозі й швидкість ходи — і які цифри справді прогнозують смертність",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Огляд функціональних тестів, які мають прогностичну валідність у когортах: sit-to-rise (Araújo 2012 і оновлення 2024, n>4000), 10-секундне стояння на одній нозі (Araújo BJSM 2022, HR 1.84 для смертності), швидкість ходи (Studenski JAMA 2011). Чесно розділяємо: це маркери, а не мішені — покращення тесту тренуванням не доведено як таке, що подовжує життя. Практика: як виміряти вдома, які пороги за віком, і що робити при поганому результаті (сила ніг, баланс, а не «тренувати сам тест»). Не дублює матеріали про кроки, VO2max і силу хвату — тут саме баланс і функціональна мобільність; крос-лінк на гайд про остеопороз у чоловіків 65+ (05.08), де швидкість ходи згадана як предиктор у MrOS. Евергрін-лонгрід — ставимо в кінець черги.",
+      "sources_hint": "Araújo 2012 European Journal of Preventive Cardiology sitting-rising test; de Brito 2014 follow-up; Araújo 2022 BJSM 10-second one-legged stance mortality study; Studenski 2011 JAMA gait speed and survival pooled analysis; 2024-2025 updates on sitting-rising test in European Journal of Preventive Cardiology; Cooper 2010 BMJ meta-analysis of objective physical capability measures and mortality",
+      "evidence_level": "moderate",
+      "priority": 3
+    }
+  ],
+  "date": "2026-08-08",
+  "created_at": "2026-08-08T03:03:03.074365+00:00"
+}

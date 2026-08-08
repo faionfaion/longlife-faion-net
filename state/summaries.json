@@ -6200,5 +6200,20 @@
       "mindfulness"
     ],
     "summary": "Corrective follow-up to the already-published LKM vs MBSR piece. Core finding: Petrovic et al. 2024 meta-analysis of 23 RCTs (Clinical Psychology Review) shows loving-kindness interventions beat passive controls on compassion, positive affect and psychological symptoms, but show non-significant effects against active controls; no moderation by duration, format or facilitator. Two newer RCTs replicate the pattern — Dressel 2026 (n=108, LKM vs progressive muscle relaxation, 4 weeks) found equal loneliness reduction and no empathy increase in either arm, refuting the empathy mechanism; Age-Well 2025 (n=137, adults 65+, 18 months) found meditation and foreign-language training equally reduced loneliness vs passive control. Galante 2014 flagged the same active-control caveat twelve years earlier.\n\nPractical takeaway: the type of contemplative practice matters less than doing one consistently — aim for 2–4 sessions/week of ~10 minutes (Yela 2026 cross-sectional, n=60, suggests frequency rather than years of experience correlates with lower anxiety via self-compassion; non-causal). Includes the 10-minute LKM structure. Evidence strength: moderate. All samples non-clinical; carries the caveat that self-practice does not replace therapy for diagnosed anxiety."
+  },
+  "shi-dyzain-bakteriofahiv-science-2026-phagoburn-rct-dokazy": {
+    "date": "2026-08-08",
+    "title": "Фаги, спроєктовані ШІ: що показали лабораторія і — окремо — справжні клінічні випробування",
+    "type": "research",
+    "tags": [
+      "дослідження",
+      "антибіотикорезистентність",
+      "бактеріофаги",
+      "штучний інтелект",
+      "інфекції",
+      "біобезпека",
+      "Україна"
+    ],
+    "summary": "Основна знахідка: у Science (6 серпня 2026, DOI 10.1126/science.aec2657) команда Arc Institute/Стенфорду за допомогою геномних мовних моделей Evo 1 і Evo 2 спроєктувала повні геноми бактеріофагів на шаблоні ΦX174; із 285 синтезованих варіантів життєздатними виявилися 16 (~5,6%), кожен із 67–392 мутаціями. Коктейль згенерованих фагів подолав ΦX174-резистентні лабораторні штами E. coli. Біобезпековий контекст: з навчальних даних Evo 2 свідомо вилучили віруси еукаріотів, тож модель гірше генерує патогени людини; запобіжники добровільні, на що вказує коментар Саймона Кларка (University of Reading).\n\nКлючовий доказовий акцент статті — клінічна реальність фагової терапії: єдине повноцінне RCT PhagoBurn (Lancet Infect Dis 2019, n=25) показало ПОВІЛЬНІШЕ зниження бактеріального навантаження, ніж стандартна терапія; систематичний огляд 2025 (130 досліджень, 1115 пацієнтів) складається переважно з описів випадків; серія зі 100 випадків (Nature Microbiology 2024) ретроспективна без контролю. Для ШІ-дизайнерських фагів у людей клінічних даних нема. Український контекст: когорта в Сумах (Communications Medicine 2025, n=73) — 84,6% MDR, A. baumannii 36%, 40% K. pneumoniae карбапенем-резистентні; ВООЗ BPPL 2024 ставить CR-K. pneumoniae на перше місце. Практичний висновок: не замовляти фаги самостійно, дотримуватися призначень щодо антибіотиків, обговорювати посів і чутливість із лікарем. Рівень доказовості — preliminary."
   }
 }

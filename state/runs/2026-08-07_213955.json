@@ -1,0 +1,68 @@
+{
+  "timestamp": "2026-08-07_213955",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "lkm-aktyvnyi-kontrol-petrovic-2024-dressel-2026-chastota",
+  "author": "LongLife Media",
+  "duration_s": 751.7,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    },
+    {
+      "name": "research:Медитація любові-доброти (lovi",
+      "status": "ok",
+      "duration_s": 146.2,
+      "error": null
+    },
+    {
+      "name": "generate:Медитація любові-доброти (lovi",
+      "status": "ok",
+      "duration_s": 62.1,
+      "error": null
+    },
+    {
+      "name": "review:Медитація любові-доброти (lovi",
+      "status": "ok",
+      "duration_s": 187.2,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Медитація любові-доброти (lovi",
+      "status": "ok",
+      "duration_s": 15.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Медитація любові-доброти (lovi",
+      "status": "ok",
+      "duration_s": 15.1,
+      "error": null
+    },
+    {
+      "name": "save:Медитація любові-доброти (lovi",
+      "status": "ok",
+      "duration_s": 321.3,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 1.8,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.2,
+      "error": null
+    }
+  ]
+}
