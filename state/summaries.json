@@ -6215,5 +6215,21 @@
       "Україна"
     ],
     "summary": "Основна знахідка: у Science (6 серпня 2026, DOI 10.1126/science.aec2657) команда Arc Institute/Стенфорду за допомогою геномних мовних моделей Evo 1 і Evo 2 спроєктувала повні геноми бактеріофагів на шаблоні ΦX174; із 285 синтезованих варіантів життєздатними виявилися 16 (~5,6%), кожен із 67–392 мутаціями. Коктейль згенерованих фагів подолав ΦX174-резистентні лабораторні штами E. coli. Біобезпековий контекст: з навчальних даних Evo 2 свідомо вилучили віруси еукаріотів, тож модель гірше генерує патогени людини; запобіжники добровільні, на що вказує коментар Саймона Кларка (University of Reading).\n\nКлючовий доказовий акцент статті — клінічна реальність фагової терапії: єдине повноцінне RCT PhagoBurn (Lancet Infect Dis 2019, n=25) показало ПОВІЛЬНІШЕ зниження бактеріального навантаження, ніж стандартна терапія; систематичний огляд 2025 (130 досліджень, 1115 пацієнтів) складається переважно з описів випадків; серія зі 100 випадків (Nature Microbiology 2024) ретроспективна без контролю. Для ШІ-дизайнерських фагів у людей клінічних даних нема. Український контекст: когорта в Сумах (Communications Medicine 2025, n=73) — 84,6% MDR, A. baumannii 36%, 40% K. pneumoniae карбапенем-резистентні; ВООЗ BPPL 2024 ставить CR-K. pneumoniae на перше місце. Практичний висновок: не замовляти фаги самостійно, дотримуватися призначень щодо антибіотиків, обговорювати посів і чутливість із лікарем. Рівень доказовості — preliminary."
+  },
+  "dzhetlah-prc-svitlo-tmin-skhid-zakhid-protokol": {
+    "date": "2026-08-08",
+    "title": "Джетлаг і крива фазової відповіді: чому світло після польоту на схід може сповільнити адаптацію",
+    "type": "guide",
+    "tags": [
+      "джетлаг",
+      "сон",
+      "циркадний ритм",
+      "світло",
+      "мелатонін",
+      "подорожі",
+      "дослідження",
+      "біохакінг"
+    ],
+    "summary": "Guide explaining the light phase response curve (PRC) as the mechanism behind jet lag protocols, distinct from the 06.08 step-by-step protocol article. Core practical content: CBTmin ≈ habitual wake time minus 2–3 hours; light before Tmin delays, after Tmin advances, with maximum effect 3–6h either side (Roach & Sargent 2019, Frontiers in Physiology). Lead hook is the antidromic re-entrainment paradox — after eastward flights, unstructured daytime sun delivers contradictory delay-then-advance signals and can slow adaptation, which is why scheduled darkness (sunglasses) matters as much as light. Debunks the linear '1 day per time zone' rule with sub-linear re-entrainment tables. Pre-flight shifting block: Burgess 2003 (n=28, intermittent bright light ≈ continuous, 1.5h vs 2.1h advance) and Eastman 2005 (n=26, 2h/day advance NOT better than 1h/day and caused sleep-onset misalignment by day 3) — ceiling is 1h/day.\n\nHonesty framing corrects the assigned thesis: light has the stronger mechanism, melatonin the stronger clinical record (Cochrane 10 RCTs, AASM 2007 'Standard' rating), while 9 of 13 field studies of light interventions were null (Bin 2019) and the light PRC itself rests on only 7 subjects (Eastman & Burgess 2009). Key reader takeaway unique to this piece: for the 0–1 hour shifts of most Ukrainian summer destinations (Turkey, Egypt, Georgia, Spain from Kyiv), no circadian protocol is warranted at all — that's travel fatigue, not jet lag, which requires ≥3 zones. Evidence strength moderate; melatonin dose flagged as contested (3.0 mg vs 0.5 mg) with a doctor-consult note. Cross-links to the 06.08 jet-lag protocol, the 22.07 morning-light piece, and the 01.08 children's social jet lag article."
   }
 }
