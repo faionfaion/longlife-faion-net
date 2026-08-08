@@ -19,3 +19,9 @@ __pycache__/
 # QA retry attempts. The orchestrator keeps the best of three and copies it to
 # <slug>.jpg; the rejects are debugging output, not site assets.
 gatsby/static/images/*_try*.jpg
+
+# One-off generation scripts used during a session; never part of the pipeline.
+/debunk.py
+/publish_demo.py
+/one_cover.py
+/welcome.py
