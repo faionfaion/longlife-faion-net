@@ -11,6 +11,8 @@ import json
 import logging
 from datetime import datetime, timezone
 from pathlib import Path
+from urllib.error import HTTPError, URLError
+from urllib.request import Request, urlopen
 
 from pipeline.config import (
     CONTENT_DIR, IMAGES_DIR, SITE_BASE_URL,
@@ -21,6 +23,11 @@ from pipeline.telegram import add_reaction, send_photo
 
 logger = logging.getLogger(__name__)
 
+# How far down the queue to look for an article whose page is live. Deep enough to get past
+# a night's worth of freshly written pieces the site has not picked up, shallow enough that
+# a genuinely broken site fails fast instead of walking four hundred articles.
+MAX_CANDIDATES_CHECKED = 15
+
 
 def run() -> dict | None:
     """Pick best unpublished article, send pre-generated caption to TG."""
@@ -29,11 +36,7 @@ def run() -> dict | None:
 
     already_posted = _all_posted_slugs()
 
-    # Find today's articles with pre-generated TG captions
-    candidate = _find_next_candidate(today_str, already_posted)
-    if not candidate:
-        # Fallback: any article with a teaser not yet posted
-        candidate = _find_any_candidate(already_posted)
+    candidate = _pick_live_candidate(today_str, already_posted)
 
     if not candidate:
         logger.info("No unpublished articles available for TG")
@@ -63,6 +66,63 @@ def run() -> dict | None:
 
     logger.error("Failed to publish %s to TG", slug)
     return None
+
+
+def _pick_live_candidate(
+    today_str: str, already_posted: set[str]
+) -> tuple[str, str, str] | None:
+    """First unposted article whose page is actually live on the site.
+
+    Generation and serving happen on different machines: articles are written overnight on
+    one, and the other rebuilds the site on its own schedule. An article can therefore be
+    ready to post hours before its page exists, and a post whose "read more" link 404s is
+    worse than a quiet slot — especially since there are a hundred older articles that are
+    live and have never been sent.
+
+    Checked candidate by candidate rather than up front, because the walk skips a long run
+    of articles that have no cover before it reaches anything postable.
+    """
+    seen: set[str] = set(already_posted)
+
+    for _ in range(MAX_CANDIDATES_CHECKED):
+        candidate = _find_next_candidate(today_str, seen) or _find_any_candidate(seen)
+        if not candidate:
+            return None
+
+        slug = candidate[0]
+        if _page_is_live(slug):
+            return candidate
+
+        logger.warning(
+            "Skipping %s: its page is not on the site yet (the web host has not rebuilt "
+            "since it was written)", slug,
+        )
+        seen.add(slug)
+
+    logger.error(
+        "Checked %d candidates and none had a live page — the site build is behind",
+        MAX_CANDIDATES_CHECKED,
+    )
+    return None
+
+
+def _page_is_live(slug: str) -> bool:
+    """Whether the article's page answers on the public site."""
+    url = f"{SITE_BASE_URL}/{slug}/"
+    req = Request(url, method="HEAD", headers={"User-Agent": "LongLifePublish/1.0"})
+    try:
+        with urlopen(req, timeout=15) as resp:
+            return resp.status == 200
+    except HTTPError as e:
+        if e.code == 404:
+            return False
+        # Anything else — a 5xx, a redirect loop — is about the site, not this article.
+        # Treat it as live rather than letting an outage silence the channel.
+        logger.warning("Liveness check for %s got HTTP %s, assuming live", slug, e.code)
+        return True
+    except URLError as e:
+        logger.warning("Liveness check for %s failed (%s), assuming live", slug, e)
+        return True
 
 
 def _all_posted_slugs() -> set[str]:
