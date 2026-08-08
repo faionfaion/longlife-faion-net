@@ -27,6 +27,7 @@ from pipeline.stages import (
     s4_review,
     s5_revise,
     s_comic_scene,
+    s_material_images,
     s6_generate_tg,
     s7_deploy,
     s7_save,
@@ -155,9 +156,12 @@ def _generate_one_article(
     """
     ctx = PipelineContext()
     ctx.editorial_plan = topic
-    # Friday overrides whatever the planner picked: that day's post is the week's news
-    # on one theme, not another standalone piece.
-    ctx.slot_type = "roundup" if kind == "roundup" else topic.get("type", "research")
+    # The weekday can override whatever the planner picked: Friday is the week's news on
+    # one theme, and the two material days are a long feature rather than a standalone post.
+    if kind in ("roundup", "material"):
+        ctx.slot_type = kind
+    else:
+        ctx.slot_type = topic.get("type", "research")
     ctx.news_items = rss_items
     ctx.posted_slugs = posted_slugs
 
@@ -177,6 +181,11 @@ def _generate_one_article(
 
         with time_stage(report, f"comic_scene:{topic_label[:30]}"):
             s_comic_scene.run(ctx)
+
+        # A material runs long and carries a couple of inline illustrations beyond the cover.
+        if ctx.slot_type == "material":
+            with time_stage(report, f"material_images:{topic_label[:30]}"):
+                s_material_images.run(ctx)
 
         with time_stage(report, f"tg_caption:{topic_label[:30]}"):
             s6_generate_tg.run(ctx)

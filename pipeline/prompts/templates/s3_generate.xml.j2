@@ -28,6 +28,28 @@ Category: {{ ctx.editorial_plan.get('category', '') }}
 {{ ctx.research_text }}
 </research>
 
+{% if ctx.slot_type == 'material' %}
+<big-material>
+This is a MATERIAL: the long feature the blog runs twice a week, built around a live theme.
+It is not a news note and not a claim-check of one product - it is the piece someone sends
+to a friend because it finally explains the whole thing.
+
+Shape it as a real feature, in plain language for a reader with no background:
+- Open on why this is worth a long read right now - a number, a moment, a thing everyone
+  half-knows and gets wrong.
+- Tell it with an arc. Where a theme has a history, walk it: how it started, how it grew,
+  where it stands now. Then what is being done about it - the resistance, the fixes, the
+  open fights - and what it means for the reader specifically.
+- Carry the evidence the whole way: every claim keeps its source with a URL, and where the
+  data is thin or contested, say so plainly. On a theme this size, naming what is NOT known
+  is part of the honesty.
+- Sections with real subheadings that name the idea, not the category. Let it breathe -
+  {{ type_cfg.min_words }}-{{ type_cfg.max_words }} words - but never pad; length is earned
+  by having more to say, not by saying it slower.
+- Land on a position, not a summary.
+</big-material>
+
+{% endif %}
 {% if ctx.slot_type == 'roundup' %}
 <friday-roundup>
 This is the Friday post: what happened this week on one theme, gathered in one place.

@@ -92,16 +92,25 @@ MAX_TG_CAPTION = 900
 POSTS_PER_DAY = 1
 
 # Python weekday numbers: Monday is 0.
-ROUNDUP_WEEKDAY = 4  # Friday — the week's news on one topic, gathered
-DIGEST_WEEKDAY = 6   # Sunday — the week in one piece, written long
+ROUNDUP_WEEKDAY = 4       # Friday - the week's news on one topic, gathered
+DIGEST_WEEKDAY = 6        # Sunday - the week in one piece, written long
+MATERIAL_WEEKDAYS = {1, 3}  # Tuesday, Thursday - a big feature around a live theme
 
 
 def post_kind_for(weekday: int) -> str:
-    """Which kind of post the given weekday carries."""
+    """Which kind of post the given weekday carries.
+
+    Twice a week the day's post is a long feature (a "material"): a deep piece built around
+    a live theme, with room for history, current state and what to do, and space for a few
+    illustrations rather than a single cover. The other weekdays stay a normal post; Friday
+    is the roundup, Sunday the digest.
+    """
     if weekday == DIGEST_WEEKDAY:
         return "digest"
     if weekday == ROUNDUP_WEEKDAY:
         return "roundup"
+    if weekday in MATERIAL_WEEKDAYS:
+        return "material"
     return "post"
 
 
@@ -120,6 +129,9 @@ CONTENT_TYPES = {
     # week as a single piece, several paragraphs per post it covers, so it runs long.
     "roundup": {"min_words": 800, "max_words": 1400},
     "digest": {"min_words": 1500, "max_words": 3000},
+    # A twice-weekly long feature: history, current state, resistance, what to do. Runs long
+    # and carries a few inline illustrations, not just a cover.
+    "material": {"min_words": 1800, "max_words": 3500},
 }
 
 # Author
