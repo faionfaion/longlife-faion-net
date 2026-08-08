@@ -5,107 +5,105 @@ date: "2026-07-28"
 type: "research"
 lang: "ua"
 tags:
-  - "мікропластик"
-  - "мозок"
-  - "деменція"
-  - "дослідження"
-  - "екологія"
-  - "довголіття"
-  - "нейронауки"
+- "мікропластик"
+- "мозок"
+- "деменція"
+- "дослідження"
+- "екологія"
+- "довголіття"
+- "нейронауки"
 description: "Розбираємо гучне дослідження про пластик у мозку, критику методології та свіжу репліку 2026 року."
 author: "Віта Зеленко"
 source_urls:
-  - "https://www.nature.com/articles/s41591-024-03453-1"
-  - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12003191/"
-  - "https://www.nature.com/articles/s41591-025-04045-3"
-  - "https://www.nature.com/articles/s41591-025-04046-2"
-  - "https://pubs.acs.org/doi/10.1021/acs.est.4c12599"
-  - "https://pubmed.ncbi.nlm.nih.gov/39851066/"
-  - "https://www.thetransmitter.org/publishing/spoonful-of-plastics-in-your-brain-paper-has-duplicated-images/"
-  - "https://medicalxpress.com/news/2026-04-microplastics-human-brain-sample-healthy.html"
-  - "https://healthpolicy-watch.news/microplastics-in-the-brain/"
-  - "https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2025.1581109/full"
-  - "https://www.cnn.com/2025/02/03/health/plastics-inside-human-brain-wellness"
-  - "https://longlife.media/microplastics-blood-arteries-nejm-cardiovascular-risk/"
+- "https://www.nature.com/articles/s41591-024-03453-1"
+- "https://pmc.ncbi.nlm.nih.gov/articles/PMC12003191/"
+- "https://www.nature.com/articles/s41591-025-04045-3"
+- "https://www.nature.com/articles/s41591-025-04046-2"
+- "https://pubs.acs.org/doi/10.1021/acs.est.4c12599"
+- "https://pubmed.ncbi.nlm.nih.gov/39851066/"
+- "https://www.thetransmitter.org/publishing/spoonful-of-plastics-in-your-brain-paper-has-duplicated-images/"
+- "https://medicalxpress.com/news/2026-04-microplastics-human-brain-sample-healthy.html"
+- "https://healthpolicy-watch.news/microplastics-in-the-brain/"
+- "https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2025.1581109/full"
+- "https://www.cnn.com/2025/02/03/health/plastics-inside-human-brain-wellness"
+- "https://longlife.media/microplastics-blood-arteries-nejm-cardiovascular-risk/"
 source_names:
-  - "Nature Medicine (Nihart, Campen et al., 2025)"
-  - "Nature Medicine Correspondence (Fazel Monikh et al., 2025)"
-  - "Environmental Science & Technology (Rauert et al., 2025)"
-  - "The Transmitter"
-  - "Nature Health (Li et al., 2026)"
-  - "Frontiers in Neurology (Gecegelen et al., 2025)"
-  - "CNN Health"
-  - "Health Policy Watch"
-  - "LongLife Media"
+- "Nature Medicine (Nihart, Campen et al., 2025)"
+- "Nature Medicine Correspondence (Fazel Monikh et al., 2025)"
+- "Environmental Science & Technology (Rauert et al., 2025)"
+- "The Transmitter"
+- "Nature Health (Li et al., 2026)"
+- "Frontiers in Neurology (Gecegelen et al., 2025)"
+- "CNN Health"
+- "Health Policy Watch"
+- "LongLife Media"
 image: ""
 tg_post: |
-  <b>«Пластикова ложка у мозку» — гучний заголовок 2025 року розсипався під ударом методологів.</b>
-  
-  Команда з Університету Нью-Мексико в Nature Medicine заявила про 4 917 мкг мікропластику на грам тканини мозку — у 7–30 разів більше, ніж у печінці чи нирках. Але критика у грудні 2025 та валідація в Environmental Science &amp; Technology показали: метод Py-GC/MS не відрізняє реальні частинки від розчинених полімерів, а «ложка» — лише екстраполяція автора для CNN, якої немає у самій статті.
-  
-  <a href="https://longlife.media/mikroplastyk-mozok-campen-nature-medicine-2024-replikatsiya-2026/">Читати повністю →</a>
-  
-  <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
+ <b>«Пластикова ложка у мозку» - гучний заголовок 2025 року розсипався під ударом методологів.</b>
+ 
+ Команда з Університету Нью-Мексико в Nature Medicine заявила про 4 917 мкг мікропластику на грам тканини мозку - у 7–30 разів більше, ніж у печінці чи нирках. Але критика у грудні 2025 та валідація в Environmental Science &amp; Technology показали: метод Py-GC/MS не відрізняє реальні частинки від розчинених полімерів, а «ложка» - лише екстраполяція автора для CNN, якої немає у самій статті.
+ 
+ <a href="https://longlife.media/mikroplastyk-mozok-campen-nature-medicine-2024-replikatsiya-2026/">Читати повністю →</a>
+ 
+ <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
-Привіт! Пам'ятаєш заголовки початку 2025-го — «у людському мозку знайшли пластик вагою з чайну ложку»? Спойлер: історія виявилась складнішою, ніж її подали у стрічках новин. 🧠
+Привіт! Пам'ятаєш заголовки початку 2025-го - «у людському мозку знайшли пластик вагою з чайну ложку»? Спойлер: історія виявилась складнішою, ніж її подали у стрічках новин. 🧠
 
-Розберемо спокійно, без паніки: що саме показало гучне дослідження Nihart, Campen та колег, чому методологи вже понад рік з ним сперечаються — і що змінила незалежна репліка 2026 року.
+Розберемо спокійно, без паніки: що саме показало гучне дослідження Nihart, Campen та колег, чому методологи вже понад рік з ним сперечаються - і що змінила незалежна репліка 2026 року.
 
 ## Що зробила команда з Нью-Мексико
 
-Нейротоксиколог Метью Кампен та Александр Ніхарт з Університету Нью-Мексико проаналізували тканини фронтальної кори (лобової частки) померлих людей: у основній вибірці — 52 випадки (28 померлих у 2016 році та 24 померлих у 2024-му), плюс архівні зразки 1997–2013 років для порівняння історичної динаміки. Стаття вийшла у [Nature Medicine у лютому 2025](https://www.nature.com/articles/s41591-024-03453-1).
+Нейротоксиколог Метью Кампен та Александр Ніхарт з Університету Нью-Мексико проаналізували тканини фронтальної кори (лобової частки) померлих людей: у основній вибірці - 52 випадки (28 померлих у 2016 році та 24 померлих у 2024-му), плюс архівні зразки 1997–2013 років для порівняння історичної динаміки. Стаття вийшла у [Nature Medicine у лютому 2025](https://www.nature.com/articles/s41591-024-03453-1).
 
-Метод — піроліз-газова хроматографія з мас-спектрометрією (Py-GC/MS): тканину піддають лужному гідролізу (розчиненню білків у лузі), центрифугують і аналізують полімерний осад. У мозку 2024 року знайшли медіанно 4 917 мкг мікро- та нанопластику на грам тканини — у 7–30 разів більше, ніж у печінці чи нирці тих самих людей. У підгрупі з 12 випадків деменції показник був майже у 8 разів вищим.
+Метод - піроліз-газова хроматографія з мас-спектрометрією (Py-GC/MS): тканину піддають лужному гідролізу (розчиненню білків у лузі), центрифугують і аналізують полімерний осад. У мозку 2024 року знайшли медіанно 4 917 мкг мікро- та нанопластику на грам тканини - у 7–30 разів більше, ніж у печінці чи нирці тих самих людей. У підгрупі з 12 випадків деменції показник був майже у 8 разів вищим.
 
-Саме звідси й пішла [метафора про «пластикову ложку»](https://www.cnn.com/2025/02/03/health/plastics-inside-human-brain-wellness): 4,9 мг × ~1400 г мозку ≈ 7 грамів. У самій статті цього немає — це екстраполяція Кампена в інтерв'ю CNN.
+Саме звідси й пішла [метафора про «пластикову ложку»](https://www.cnn.com/2025/02/03/health/plastics-inside-human-brain-wellness): 4,9 мг × ~1400 г мозку ≈ 7 грамів. У самій статті цього немає - це екстраполяція Кампена в інтерв'ю CNN.
 
 ## Чому методологи занервували
 
 У грудні 2025-го у тому ж Nature Medicine з'явилася [критика Fazel Monikh та колег](https://www.nature.com/articles/s41591-025-04045-3): недостатньо контрольних «холостих» зразків, відсутність підтвердження ортогональними методами (µ-FTIR, Раман), а сам Py-GC/MS не відрізняє дискретні частинки від розчинених полімерів.
 
-Паралельно вийшло [валідаційне дослідження Rauert та колег в Environmental Science & Technology](https://pubs.acs.org/doi/10.1021/acs.est.4c12599) з жорстким висновком: Py-GC/MS «наразі не є придатним методом для аналізу поліетилену й ПВХ у біологічних матрицях» через хибнопозитивні сигнали від ліпідів. А поліетилен у Кампена — 75% усіх знайдених полімерів.
+Паралельно вийшло [валідаційне дослідження Rauert та колег в Environmental Science & Technology](https://pubs.acs.org/doi/10.1021/acs.est.4c12599) з жорстким висновком: Py-GC/MS «наразі не є придатним методом для аналізу поліетилену й ПВХ у біологічних матрицях» через хибнопозитивні сигнали від ліпідів. А поліетилен у Кампена - 75% усіх знайдених полімерів.
 
 Додало сумнівів і [журналістське розслідування The Transmitter](https://www.thetransmitter.org/publishing/spoonful-of-plastics-in-your-brain-paper-has-duplicated-images/): у супровідних матеріалах статті знайшли три пари дубльованих ATR-FTIR-зображень. Автори назвали це «канцелярською помилкою», Nature Medicine пообіцяла розібратися.
 
 ## Реплікація 2026 року: цифри у 100 разів менші
 
-У квітні 2026-го китайська команда представила [аналіз 191 зразка мозкової тканини](https://medicalxpress.com/news/2026-04-microplastics-human-brain-sample-healthy.html) — 156 хірургічних (пухлини) плюс 35 здорових посмертних (за матеріалами прес-релізу на MedicalXpress; повний текст дослідження ще проходить рецензування, тож остаточну публікацію та назву журналу варто перевіряти окремо). Метод інший: лазерна інфрачервона спектроскопія (LDIR) + електронна мікроскопія.
+У квітні 2026-го китайська команда представила [аналіз 191 зразка мозкової тканини](https://medicalxpress.com/news/2026-04-microplastics-human-brain-sample-healthy.html) - 156 хірургічних (пухлини) плюс 35 здорових посмертних (за матеріалами прес-релізу на MedicalXpress; повний текст дослідження ще проходить рецензування, тож остаточну публікацію та назву журналу варто перевіряти окремо). Метод інший: лазерна інфрачервона спектроскопія (LDIR) + електронна мікроскопія.
 
-Мікропластик знайшли практично скрізь. Але медіана у здоровому мозку — **50,3 мкг/г**. Це приблизно у 100 разів менше, ніж у Кампена. Правда, [незалежний хіміметрик Дітер Фішер](https://healthpolicy-watch.news/microplastics-in-the-brain/) зауважує: LDIR теж може приймати білки за поліамід, а жири — за поліетилен. Тобто обидві лабораторії ризикують переоцінити — і все одно розходяться на два порядки.
+Мікропластик знайшли практично скрізь. Але медіана у здоровому мозку - **50,3 мкг/г**. Це приблизно у 100 разів менше, ніж у Кампена. Правда, [незалежний хіміметрик Дітер Фішер](https://healthpolicy-watch.news/microplastics-in-the-brain/) зауважує: LDIR теж може приймати білки за поліамід, а жири - за поліетилен. Тобто обидві лабораторії ризикують переоцінити - і все одно розходяться на два порядки.
 
 ## Що це означає для деменції
 
-Механізми ушкодження мозку пластиком описані у [огляді Frontiers in Neurology 2025](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2025.1581109/full): оксидативний стрес, активація мікроглії, прискорення агрегації бета-амілоїду. Але це дані з клітинних культур і мишей — не з людських когорт.
+Механізми ушкодження мозку пластиком описані у [огляді Frontiers in Neurology 2025](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2025.1581109/full): оксидативний стрес, активація мікроглії, прискорення агрегації бета-амілоїду. Але це дані з клітинних культур і мишей - не з людських когорт.
 
-Ще важливіше: у людей із деменцією гематоенцефалічний бар'єр (захисний фільтр між кров'ю і мозком) часто вже пошкоджений. Тому пластику там може бути більше не тому, що він викликав хворобу — а тому, що хвора тканина гірше очищається. Це прямо визнає сам Кампен.
+Ще важливіше: у людей із деменцією гематоенцефалічний бар'єр (захисний фільтр між кров'ю і мозком) часто вже пошкоджений. Тому пластику там може бути більше не тому, що він викликав хворобу - а тому, що хвора тканина гірше очищається. Це прямо визнає сам Кампен.
 
 ## Що ми знаємо напевно
 
-Мікропластик у людському тілі — реальність, підтверджена кількома незалежними лабораторіями. Як ми вже [писали про судини](https://longlife.media/microplastics-blood-arteries-nejm-cardiovascular-risk/), дослідження Marfella в NEJM 2024 показало реальний зв'язок частинок у бляшках із серцево-судинними подіями. А от «ложка пластику в голові» — красива метафора, яка чекає на підтвердження чистішими методами.
+Мікропластик у людському тілі - реальність, підтверджена кількома незалежними лабораторіями. Як ми вже [писали про судини](https://longlife.media/microplastics-blood-arteries-nejm-cardiovascular-risk/), дослідження Marfella в NEJM 2024 показало реальний зв'язок частинок у бляшках із серцево-судинними подіями. А от «ложка пластику в голові» - красива метафора, яка чекає на підтвердження чистішими методами.
 
 ## Що можна зробити вже сьогодні 🌿
 
-> **Дисклеймер:** ця стаття — не медична порада. Якщо є занепокоєння щодо когнітивного здоров'я, обов'язково звернись до лікаря.
-
-- **Менше пластику на кухні.** Не грій їжу в пластикових контейнерах у мікрохвильовці — [дослідження в Environmental Science & Technology (Hussain et al., 2023)](https://pubs.acs.org/doi/10.1021/acs.estlett.3c00010) показало, що саме нагрів вивільняє мільярди нано- та мікрочастинок за кілька хвилин. Скло чи кераміка — безпечніша альтернатива.
-- **Фільтруй воду.** [Систематичний огляд ефективності побутових фільтрів (Cherniak et al., Science of the Total Environment, 2022)](https://www.sciencedirect.com/science/article/pii/S0048969722034192) показав, що вугільні блок-фільтри та зворотний осмос помітно знижують кількість мікропластику у водопровідній воді — і це значно дешевше та екологічніше за постійні пластикові пляшки.
-- **Не панікуй від заголовків.** Коли наступного разу побачиш «вчені знайшли Х у мозку» — глянь, який метод використали й чи є незалежна реплікація. Часто саме тут і ховається уся історія.
+> **Дисклеймер:** ця стаття - не медична порада. Якщо є занепокоєння щодо когнітивного здоров'я, обов'язково звернись до лікаря.
+- **Менше пластику на кухні.** Не грій їжу в пластикових контейнерах у мікрохвильовці - [дослідження в Environmental Science & Technology (Hussain et al., 2023)](https://pubs.acs.org/doi/10.1021/acs.estlett.3c00010) показало, що саме нагрів вивільняє мільярди нано- та мікрочастинок за кілька хвилин. Скло чи кераміка - безпечніша альтернатива.
+- **Фільтруй воду.** [Систематичний огляд ефективності побутових фільтрів (Cherniak et al., Science of the Total Environment, 2022)](https://www.sciencedirect.com/science/article/pii/S0048969722034192) показав, що вугільні блок-фільтри та зворотний осмос помітно знижують кількість мікропластику у водопровідній воді - і це значно дешевше та екологічніше за постійні пластикові пляшки.
+- **Не панікуй від заголовків.** Коли наступного разу побачиш «вчені знайшли Х у мозку» - глянь, який метод використали й чи є незалежна реплікація. Часто саме тут і ховається уся історія.
 
 ---
 
 **Теги:** #мікропластик #здоров'я_мозку #доказова_медицина #екологія_здоров'я #деменція
 
 ## Sources
-
-- [Nihart, Campen et al. — Nature Medicine, 2025](https://www.nature.com/articles/s41591-024-03453-1)
-- [Fazel Monikh et al. (критика) — Nature Medicine, 2025](https://www.nature.com/articles/s41591-025-04045-3)
-- [Rauert et al. — Environmental Science & Technology](https://pubs.acs.org/doi/10.1021/acs.est.4c12599)
-- [The Transmitter — журналістське розслідування](https://www.thetransmitter.org/publishing/spoonful-of-plastics-in-your-brain-paper-has-duplicated-images/)
-- [Китайська репліка 2026 (прес-реліз) — MedicalXpress](https://medicalxpress.com/news/2026-04-microplastics-human-brain-sample-healthy.html)
-- [CNN Health — «ложка пластику»](https://www.cnn.com/2025/02/03/health/plastics-inside-human-brain-wellness)
-- [Health Policy Watch — коментар Дітера Фішера](https://healthpolicy-watch.news/microplastics-in-the-brain/)
-- [Frontiers in Neurology — огляд механізмів, 2025](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2025.1581109/full)
-- [Hussain et al. — Environmental Science & Technology Letters, 2023 (нагрів пластику)](https://pubs.acs.org/doi/10.1021/acs.estlett.3c00010)
-- [Cherniak et al. — Science of the Total Environment, 2022 (ефективність фільтрів)](https://www.sciencedirect.com/science/article/pii/S0048969722034192)
-- [LongLife Media — мікропластик у судинах](https://longlife.media/microplastics-blood-arteries-nejm-cardiovascular-risk/)
+- [Nihart, Campen et al. - Nature Medicine, 2025](https://www.nature.com/articles/s41591-024-03453-1)
+- [Fazel Monikh et al. (критика) - Nature Medicine, 2025](https://www.nature.com/articles/s41591-025-04045-3)
+- [Rauert et al. - Environmental Science & Technology](https://pubs.acs.org/doi/10.1021/acs.est.4c12599)
+- [The Transmitter - журналістське розслідування](https://www.thetransmitter.org/publishing/spoonful-of-plastics-in-your-brain-paper-has-duplicated-images/)
+- [Китайська репліка 2026 (прес-реліз) - MedicalXpress](https://medicalxpress.com/news/2026-04-microplastics-human-brain-sample-healthy.html)
+- [CNN Health - «ложка пластику»](https://www.cnn.com/2025/02/03/health/plastics-inside-human-brain-wellness)
+- [Health Policy Watch - коментар Дітера Фішера](https://healthpolicy-watch.news/microplastics-in-the-brain/)
+- [Frontiers in Neurology - огляд механізмів, 2025](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2025.1581109/full)
+- [Hussain et al. - Environmental Science & Technology Letters, 2023 (нагрів пластику)](https://pubs.acs.org/doi/10.1021/acs.estlett.3c00010)
+- [Cherniak et al. - Science of the Total Environment, 2022 (ефективність фільтрів)](https://www.sciencedirect.com/science/article/pii/S0048969722034192)
+- [LongLife Media - мікропластик у судинах](https://longlife.media/microplastics-blood-arteries-nejm-cardiovascular-risk/)

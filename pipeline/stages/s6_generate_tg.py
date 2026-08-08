@@ -51,6 +51,7 @@ def run(ctx: PipelineContext) -> None:
         '<a href="https://t.me/long_life_media">🌿 LongLife Media</a>',
     ])
 
-    ctx.tg_post = "\n".join(parts)
+    from pipeline.stages.s3_generate import normalize_dashes
+    ctx.tg_post = normalize_dashes("\n".join(parts))
     ctx.article_url = article_url
     logger.info("TG caption: %d chars", len(ctx.tg_post))

@@ -33,10 +33,10 @@ def run(ctx: PipelineContext) -> None:
         model=MODEL_GENERATE,
     )
 
-    ctx.title = result["title"]
+    ctx.title = normalize_dashes(result["title"])
     ctx.slug = result["slug"]
-    ctx.article_text = strip_leading_metadata(result["article"])
-    ctx.description = result.get("description", "")
+    ctx.article_text = normalize_dashes(strip_leading_metadata(result["article"]))
+    ctx.description = normalize_dashes(result.get("description", ""))
     ctx.tags = result.get("tags", [])
     ctx.hashtags = result.get("hashtags", "")
     ctx.source_urls = result.get("source_urls", [])
@@ -59,6 +59,21 @@ _META_WORDS = (
     r"|Категорі[яї]|Теги|Заголовок|Тип|Опис|Автор|Хештеги"
 )
 _META_LINE = re.compile(rf"^\s*[*_]{{0,2}}\s*({_META_WORDS})\s*:", re.IGNORECASE)
+
+
+def normalize_dashes(text: str) -> str:
+    """Replace the em-dash with the hyphen a person actually types.
+
+    The em-dash (—) is correct Ukrainian punctuation, but it is not on a keyboard and
+    almost nobody types it, so a text dense with them reads as machine-set — a quiet tell to
+    a lay reader. We swap the clause dash for the spaced hyphen people use instead. En-dash
+    ranges (18–24) and the minus sign (−0.35) are left alone: those are not the long dash,
+    and turning them into hyphens would mangle numbers.
+    """
+    text = re.sub(r"\s*—\s*", " - ", text)     # em-dash → spaced hyphen
+    text = re.sub(r"(?m)^\s*-\s+", "- ", text)        # a line that now starts " - " → "- "
+    text = re.sub(r"[ \t]{2,}", " ", text)            # collapse the doubled spaces that leaves
+    return text
 
 
 def strip_leading_metadata(body: str) -> str:

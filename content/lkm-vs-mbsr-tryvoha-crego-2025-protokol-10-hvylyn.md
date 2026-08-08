@@ -5,61 +5,61 @@ date: "2026-08-07"
 type: "lifehack"
 lang: "ua"
 tags:
-  - "медитація"
-  - "тривога"
-  - "психічне здоровя"
-  - "mindfulness"
-  - "loving-kindness"
-  - "self-compassion"
-  - "дослідження"
-  - "стрес"
+- "медитація"
+- "тривога"
+- "психічне здоровя"
+- "mindfulness"
+- "loving-kindness"
+- "self-compassion"
+- "дослідження"
+- "стрес"
 description: "LKM чи mindfulness при тривозі: що показав head-to-head 2025 і як поєднати їх у 10-хв протоколі"
 author: "Віта Зеленко"
 source_urls:
-  - "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1597264/full"
-  - "https://pmc.ncbi.nlm.nih.gov/articles/PMC4630307/"
-  - "https://pubmed.ncbi.nlm.nih.gov/18954193/"
-  - "https://link.springer.com/article/10.1007/s12671-023-02121-8"
-  - "https://pubmed.ncbi.nlm.nih.gov/24979314/"
-  - "https://pubmed.ncbi.nlm.nih.gov/21840289/"
-  - "https://pubmed.ncbi.nlm.nih.gov/24633992/"
+- "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1597264/full"
+- "https://pmc.ncbi.nlm.nih.gov/articles/PMC4630307/"
+- "https://pubmed.ncbi.nlm.nih.gov/18954193/"
+- "https://link.springer.com/article/10.1007/s12671-023-02121-8"
+- "https://pubmed.ncbi.nlm.nih.gov/24979314/"
+- "https://pubmed.ncbi.nlm.nih.gov/21840289/"
+- "https://pubmed.ncbi.nlm.nih.gov/24633992/"
 source_names:
-  - "Crego et al., Frontiers in Psychology (2025)"
-  - "Zeng et al., Frontiers in Psychology (2015) — meta-analysis"
-  - "Fredrickson et al., J Personality & Social Psychology (2008)"
-  - "Zheng et al., Mindfulness / Springer (2023) — meta-analysis"
-  - "Galante et al., J Consult Clin Psychol (2014) — meta-analysis"
-  - "Hofmann, Grossman, Hinton, Clinical Psychology Review (2011)"
-  - "Shahar et al., Clinical Psychology & Psychotherapy (2015) — RCT"
+- "Crego et al., Frontiers in Psychology (2025)"
+- "Zeng et al., Frontiers in Psychology (2015) - meta-analysis"
+- "Fredrickson et al., J Personality & Social Psychology (2008)"
+- "Zheng et al., Mindfulness / Springer (2023) - meta-analysis"
+- "Galante et al., J Consult Clin Psychol (2014) - meta-analysis"
+- "Hofmann, Grossman, Hinton, Clinical Psychology Review (2011)"
+- "Shahar et al., Clinical Psychology & Psychotherapy (2015) - RCT"
 image: ""
 tg_post: |
-  <b>Дослідження 2025 у Frontiers in Psychology: медитація любові-доброти й mindfulness однаково знижують тривогу — але одна з них перемагає в іншому.</b>
-  
-  У квазі-РКД зі 170 учасниками порівняли MBSR і MSC (на основі loving-kindness) протягом 8 тижнів: обидві практики знизили тривогу за шкалою HADS краще за контроль, різниця між ними мінімальна. Але MSC чітко виграла по self-compassion і зменшенню самокритики, а мета-аналіз 2023 показав: комбінація LKM + mindfulness працює ще краще, ніж чиста медитація любові-доброти.
-  
-  <a href="https://longlife.media/lkm-vs-mbsr-tryvoha-crego-2025-protokol-10-hvylyn/">Читати повністю →</a>
-  
-  <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
+ <b>Дослідження 2025 у Frontiers in Psychology: медитація любові-доброти й mindfulness однаково знижують тривогу - але одна з них перемагає в іншому.</b>
+ 
+ У квазі-РКД зі 170 учасниками порівняли MBSR і MSC (на основі loving-kindness) протягом 8 тижнів: обидві практики знизили тривогу за шкалою HADS краще за контроль, різниця між ними мінімальна. Але MSC чітко виграла по self-compassion і зменшенню самокритики, а мета-аналіз 2023 показав: комбінація LKM + mindfulness працює ще краще, ніж чиста медитація любові-доброти.
+ 
+ <a href="https://longlife.media/lkm-vs-mbsr-tryvoha-crego-2025-protokol-10-hvylyn/">Читати повністю →</a>
+ 
+ <a href="https://t.me/long_life_media">🌿 LongLife Media</a>
 ---
 
-Привіт! 🧠 Якщо ти вже пробував(-ла) mindfulness — просто спостерігати за диханням і думками без осуду — і думаєш, чи є щось «інше», у мене є цікаве порівняння. Свіжий head-to-head 2025 року протестував два підходи між собою: класичний MBSR (mindfulness-based stress reduction) і MSC (Mindful Self-Compassion) / LKM (loving-kindness meditation, медитація любові-доброти) — метод, де ти активно генеруєш теплі побажання собі й іншим.
+Привіт! 🧠 Якщо ти вже пробував(-ла) mindfulness - просто спостерігати за диханням і думками без осуду - і думаєш, чи є щось «інше», у мене є цікаве порівняння. Свіжий head-to-head 2025 року протестував два підходи між собою: класичний MBSR (mindfulness-based stress reduction) і MSC (Mindful Self-Compassion) / LKM (loving-kindness meditation, медитація любові-доброти) - метод, де ти активно генеруєш теплі побажання собі й іншим.
 
-Як ми вже писали про [медитаційні застосунки Headspace і Calm](https://longlife.media/medytatsiyni-zastosunky-headspace-calm-rct-stres-tryvoga/), mindfulness загалом знижує тривогу. Але сьогодні йдемо глибше — порівнюємо два *типи* самої практики.
+Як ми вже писали про [медитаційні застосунки Headspace і Calm](https://longlife.media/medytatsiyni-zastosunky-headspace-calm-rct-stres-tryvoga/), mindfulness загалом знижує тривогу. Але сьогодні йдемо глибше - порівнюємо два *типи* самої практики.
 
-**Що показав квазі-РКД (квазі-рандомізоване контрольоване дослідження) 2025.** Команда Crego опублікувала у Frontiers in Psychology дослідження зі 170 учасниками: MSC (побудований на LKM), MBSR і waitlist-контроль, 8 тижнів + рік супровідної практики ([Crego et al., 2025](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1597264/full)). За шкалою тривоги HADS обидві практики працювали краще за контроль. Різниця між MSC і MBSR — мінімальна (r=0.137, малий ефект — практично обидві практики порівнянні для зниження тривоги). Але MSC чітко виграла по self-compassion (самоспівчуттю) і зменшенню самокритики.
+**Що показав квазі-РКД (квазі-рандомізоване контрольоване дослідження) 2025.** Команда Crego опублікувала у Frontiers in Psychology дослідження зі 170 учасниками: MSC (побудований на LKM), MBSR і waitlist-контроль, 8 тижнів + рік супровідної практики ([Crego et al., 2025](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1597264/full)). За шкалою тривоги HADS обидві практики працювали краще за контроль. Різниця між MSC і MBSR - мінімальна (r=0.137, малий ефект - практично обидві практики порівнянні для зниження тривоги). Але MSC чітко виграла по self-compassion (самоспівчуттю) і зменшенню самокритики.
 
-**Ширший контекст.** Мета-аналіз 24 досліджень (N=1759) підтвердив: LKM — це «фабрика» позитивних емоцій, і навіть короткі сесії працюють, якщо робити їх регулярно ([Zeng et al., 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4630307/)). Класична робота Fredrickson показала, що 7 тижнів щоденної LKM підвищують радість, вдячність і соціальну підтримку ([Fredrickson et al., 2008](https://pubmed.ncbi.nlm.nih.gov/18954193/)). А мета-аналіз 2023 по тривозі знайшов важливий нюанс: комбіновані програми (LKM + mindfulness) працюють краще, ніж чиста LKM ([Zheng et al., 2023](https://link.springer.com/article/10.1007/s12671-023-02121-8)).
+**Ширший контекст.** Мета-аналіз 24 досліджень (N=1759) підтвердив: LKM - це «фабрика» позитивних емоцій, і навіть короткі сесії працюють, якщо робити їх регулярно ([Zeng et al., 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4630307/)). Класична робота Fredrickson показала, що 7 тижнів щоденної LKM підвищують радість, вдячність і соціальну підтримку ([Fredrickson et al., 2008](https://pubmed.ncbi.nlm.nih.gov/18954193/)). А мета-аналіз 2023 по тривозі знайшов важливий нюанс: комбіновані програми (LKM + mindfulness) працюють краще, ніж чиста LKM ([Zheng et al., 2023](https://link.springer.com/article/10.1007/s12671-023-02121-8)).
 
-**Чесні обмеження.** Crego 2025 — квазі-РКД, не «чистий» рандом; 76% вибірки — жінки; учасники здорові, не з клінічним тривожним розладом. LKM — це доповнення до психотерапії, а не заміна. Якщо у тебе діагностований тривожний розлад, обовʼязково проконсультуйся з психотерапевтом або психіатром — цитовані дослідження проводили на неклінічних вибірках, і самостійна практика не замінює фахової допомоги.
+**Чесні обмеження.** Crego 2025 - квазі-РКД, не «чистий» рандом; 76% вибірки - жінки; учасники здорові, не з клінічним тривожним розладом. LKM - це доповнення до психотерапії, а не заміна. Якщо у тебе діагностований тривожний розлад, обовʼязково проконсультуйся з психотерапевтом або психіатром - цитовані дослідження проводили на неклінічних вибірках, і самостійна практика не замінює фахової допомоги.
 
 **Що можна зробити вже сьогодні:** 10-хвилинний комбінований протокол.
 - Хв 1–2: дихання, увага в тілі (mindfulness-старт)
-- Хв 2–4: до себе — «Хай я буду в безпеці. Хай я буду в мирі»
+- Хв 2–4: до себе - «Хай я буду в безпеці. Хай я буду в мирі»
 - Хв 4–6: до близької людини
 - Хв 6–8: до нейтральної (сусід, продавець)
 - Хв 8–10: до всіх істот
 
-Щоденно, мінімум 7 тижнів — ефект наростає повільно. 🌿
+Щоденно, мінімум 7 тижнів - ефект наростає повільно. 🌿
 
 ---
 
