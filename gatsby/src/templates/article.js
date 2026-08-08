@@ -23,6 +23,7 @@ const ArticleTemplate = ({ data, pageContext }) => {
           </div>
           <h1>{fm.title}</h1>
           <div className="article-meta">
+            <span className="byline">Віта Зеленко</span>
             <span className="reading-time">
               {Math.ceil(article.wordCount.words / 200)} хв читання
             </span>
@@ -110,24 +111,24 @@ export default ArticleTemplate;
 export const Head = ({ data }) => {
   const fm = data.markdownRemark.frontmatter;
   const ogImage = fm.image
-    ? `https://pastelka.news${fm.image}`
+    ? `https://longlife.faion.net${fm.image}`
     : null;
   return (
     <>
-      <title>{fm.title} — Паштелька News</title>
+      <title>{fm.title} — Віта Зеленко</title>
       <meta name="description" content={fm.description || ""} />
       <meta property="og:title" content={fm.title} />
       <meta property="og:description" content={fm.description || ""} />
       <meta property="og:type" content="article" />
-      <meta property="og:url" content={`https://pastelka.news/${fm.slug}/`} />
+      <meta property="og:url" content={`https://longlife.faion.net/${fm.slug}/`} />
       {ogImage && <meta property="og:image" content={ogImage} />}
       {ogImage && <meta property="og:image:width" content="1200" />}
       {ogImage && <meta property="og:image:height" content="800" />}
       {ogImage && <meta name="twitter:card" content="summary_large_image" />}
       {ogImage && <meta name="twitter:image" content={ogImage} />}
-      <link rel="canonical" href={`https://pastelka.news/${fm.slug}/`} />
-      <meta property="og:site_name" content="Паштелька News" />
-      <meta property="article:author" content="Паштелька News" />
+      <link rel="canonical" href={`https://longlife.faion.net/${fm.slug}/`} />
+      <meta property="og:site_name" content="Віта Зеленко" />
+      <meta property="article:author" content="Віта Зеленко" />
       <meta property="article:published_time" content={`${fm.date}T00:00:00Z`} />
       {fm.tags && fm.tags.map((tag) => (
         <meta key={tag} property="article:tag" content={tag} />

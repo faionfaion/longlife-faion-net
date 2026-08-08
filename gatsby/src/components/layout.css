@@ -56,15 +56,39 @@ body {
   align-items: center;
 }
 
+/* The header carries a person's name and what she does, so the logo stacks rather
+   than sitting on one line next to a leaf icon. */
 .site-logo {
   text-decoration: none;
   display: flex;
-  align-items: center;
-  gap: 10px;
+  flex-direction: column;
+  gap: 2px;
 }
 
-.logo-icon {
-  border-radius: 6px;
+.logo-tagline {
+  font-size: 13px;
+  color: var(--color-muted, #6b7280);
+  letter-spacing: 0.1px;
+}
+
+.site-header .container {
+  justify-content: space-between;
+}
+
+.site-nav {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
+.site-nav a {
+  font-size: 14px;
+  color: var(--color-muted, #6b7280);
+  text-decoration: none;
+}
+
+.site-nav a:hover {
+  color: var(--color-text);
 }
 
 .logo-text {
@@ -558,4 +582,17 @@ body {
   .article-card .card-image { width: 100%; height: 160px; }
 
   .logo-text { font-size: 18px; }
+}
+
+/* Byline: a blog post is signed, so the author sits ahead of the reading time. */
+.article-meta .byline {
+  font-weight: 600;
+  color: var(--color-text);
+}
+
+.article-meta .byline::after {
+  content: "·";
+  margin: 0 8px;
+  font-weight: 400;
+  color: var(--color-muted, #6b7280);
 }

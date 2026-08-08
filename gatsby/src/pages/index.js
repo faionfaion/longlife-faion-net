@@ -25,9 +25,10 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <div className="hero-section">
-        <span className="badge">Здоровий спосіб життя</span>
         <p className="subtitle">
-          Доказова медицина, дослідження, гайди та лайфхаки для здорового та довгого життя
+          Я Віта. Читаю дослідження про здоров’я і пишу тут про те, що з них
+          насправді випливає — і де я сама ще не певна. Один допис на день,
+          у п’ятницю огляд тижня, у неділю — тиждень однією історією.
         </p>
       </div>
 
@@ -94,13 +95,13 @@ export default IndexPage;
 
 export const Head = () => (
   <>
-    <title>LongLife — Здоровий спосіб життя</title>
-    <meta name="description" content="Доказова медицина, дослідження, гайди та лайфхаки для здорового та довгого життя. Українською." />
-    <meta property="og:title" content="LongLife — Здоровий спосіб життя" />
-    <meta property="og:description" content="Доказова медицина, дослідження, гайди та лайфхаки для здорового та довгого життя." />
+    <title>Віта Зеленко — про здоров’я з поглядом на дослідження</title>
+    <meta name="description" content="Науковиця в галузі здоров’я читає дослідження і пише, що з них насправді випливає. Один допис на день, українською." />
+    <meta property="og:title" content="Віта Зеленко — про здоров’я з поглядом на дослідження" />
+    <meta property="og:description" content="Науковиця в галузі здоров’я читає дослідження і пише, що з них насправді випливає. Один допис на день, українською." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://longlife.faion.net" />
-    <meta property="og:site_name" content="LongLife Media" />
+    <meta property="og:site_name" content="Віта Зеленко" />
     <html lang="uk" />
   </>
 );
