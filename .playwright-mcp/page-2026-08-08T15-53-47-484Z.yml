@@ -1,0 +1,5 @@
+- generic [active] [ref=e1]:
+  - heading "Access Denied" [level=1] [ref=e2]
+  - text: You don't have permission to access "http://www.fda.gov/drugs/drug-alerts-and-statements/fda-clarifies-policies-compounders-national-glp-1-supply-begins-stabilize" on this server.
+  - paragraph [ref=e3]: "Reference #18.44011002.1786204427.1a7d15d6"
+  - paragraph [ref=e4]: https://errors.edgesuite.net/18.44011002.1786204427.1a7d15d6

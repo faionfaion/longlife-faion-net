@@ -6372,5 +6372,23 @@
       "доказова медицина"
     ],
     "summary": "Claim-check колагенових добавок: мета-аналіз суглобів (35 РКД) дає малий ефект на біль (SMD −0.35); мета-аналіз шкіри показує, що ефект тримається лише в дослідженнях, оплачених виробниками."
+  },
+  "ozempic-glp1-semahlutyd-velykyi-rozbir-step-select-who-2026": {
+    "date": "2026-08-08",
+    "title": "Оземпік і клас GLP-1: як ліки від діабету стали головним препаратом десятиліття",
+    "type": "material",
+    "tags": [
+      "оземпік",
+      "семаглутид",
+      "GLP-1",
+      "ожиріння",
+      "схуднення",
+      "діабет",
+      "дослідження",
+      "ВООЗ",
+      "серце",
+      "м'язова маса"
+    ],
+    "summary": "Umbrella explainer on the GLP-1 class: mechanism in plain language (incretin hormone acting on hypothalamic appetite neurons, gastric emptying, glucose-dependent insulin), the arc from diabetes drug to weight-loss phenomenon, and the actual evidence. Key trials: STEP 1 (NEJM 2021, RCT, n=1961, 68 weeks, −14.9% vs −2.4%), STEP 5 (Nature Medicine 2022, n=304, 104 weeks, −15.2%), SELECT (NEJM 2023, n=17604, MACE 6.5% vs 8.0%, secondary-prevention population only). Discontinuation is the core of the piece: STEP 1 extension showed two-thirds regained in a year; a 2026 eClinicalMedicine nonlinear meta-regression (6 RCTs, n=3236) quantifies a 23-week regain half-life and a 75.3% plateau. Real-world persistence data (JAMA Network Open 2025) show 46.5–64.8% quit within a year.\n\nAlso covers the contradictory 2026 muscle-mass meta-analyses (IJO: lean mass +1.81% proportionally but −1.74 kg absolute, semaglutide −5.44 kg; vs a network meta-analysis finding semaglutide/tirzepatide worst at lean preservation), side effects (GI events ~82%, EMA/WHO 2025 NAION signal at up to 1 in 10,000, contested JAMA 2023 GI-harms cohort), the resolved shortage, compounding ban, FDA counterfeit seizures and 5–20x dosing overdoses, WHO's first-ever obesity pharmacotherapy guideline (Dec 2025, conditional, moderate certainty) and EML listing (Sept 2025), plus Ukrainian registration/access. Position: effective and evidence-backed, but chronic treatment rather than a course; harm lives in the gap between the chronic-care framing and the seasonal-shortcut culture. Evidence strength: strong for efficacy, moderate for regain and muscle questions, weak/observational for GI harms and market picture."
   }
 }

@@ -1,0 +1,5 @@
+- generic [active] [ref=f2e1]:
+  - heading "Access Denied" [level=1] [ref=f2e2]
+  - text: You don't have permission to access "http://www.fda.gov/drugs/drug-safety-communications/fda-requests-removal-suicidal-behavior-and-ideation-warning-glucagon-peptide-1-receptor-agonist-glp" on this server.
+  - paragraph [ref=f2e3]: "Reference #18.d011002.1786204526.a1f6b12"
+  - paragraph [ref=f2e4]: https://errors.edgesuite.net/18.d011002.1786204526.a1f6b12
