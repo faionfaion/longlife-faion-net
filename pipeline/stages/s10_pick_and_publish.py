@@ -1,8 +1,7 @@
-"""Stage 10: Pick best unpublished article and publish to TG.
+"""Stage 10: pick the next unposted article and send it to the channel.
 
-Used in 'publish' mode (9, 12, 15, 18).
-Picks from pre-generated articles with ready TG captions (state/teasers/).
-No LLM calls — purely mechanical publish.
+Used in 'publish' mode, once a day at 09:05 UTC. Picks from articles that already have a
+teaser and a cover, checks the page is actually live, and sends. No LLM calls.
 """
 
 from __future__ import annotations
@@ -60,7 +59,7 @@ def run() -> dict | None:
 
     if msg_id:
         add_reaction(TG_CHANNEL_ID, msg_id, "\U0001f525", TG_BOT_TOKEN)
-        _mark_tg_published(today_str, now.hour, slug, msg_id)
+        _mark_tg_published(today_str, now, slug, msg_id)
         logger.info("TG published: %s -> msg %d", slug, msg_id)
         return {"slug": slug, "msg_id": msg_id, "url": article_url}
 
@@ -224,14 +223,27 @@ def _find_image(slug: str) -> str | None:
     return None
 
 
-def _mark_tg_published(today_str: str, hour: int, slug: str, msg_id: int) -> None:
+def _mark_tg_published(today_str: str, now: datetime, slug: str, msg_id: int) -> None:
+    """Record a send in the day's ledger.
+
+    Keyed by minute rather than by hour. The hour was fine while the schedule was four
+    fixed slots, but two sends inside one hour overwrote each other in the ledger, the
+    earlier one dropped out of the dedup set, and the picker offered it again on the next
+    run — which is exactly how the welcome post went out twice.
+    """
     tg_dir = STATE_DIR / "tg_published"
     tg_dir.mkdir(parents=True, exist_ok=True)
     state_file = tg_dir / f"{today_str}.json"
 
     data: dict = {}
     if state_file.exists():
-        data = json.loads(state_file.read_text(encoding="utf-8"))
+        try:
+            data = json.loads(state_file.read_text(encoding="utf-8"))
+        except (OSError, ValueError):
+            logger.warning("Publish ledger for %s unreadable, starting a fresh one", today_str)
 
-    data[str(hour)] = {"slug": slug, "msg_id": msg_id}
+    key = now.strftime("%H:%M")
+    while key in data:  # two sends inside the same minute
+        key += "+"
+    data[key] = {"slug": slug, "msg_id": msg_id}
     state_file.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
