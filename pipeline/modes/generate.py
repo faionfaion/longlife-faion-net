@@ -8,8 +8,15 @@ from __future__ import annotations
 
 import json
 import logging
+from datetime import datetime, timezone
 
-from pipeline.config import MAX_REVIEW_CYCLES, STATE_DIR
+from pipeline.config import (
+    AUTHOR_NAME,
+    MAX_REVIEW_CYCLES,
+    POSTS_PER_DAY,
+    STATE_DIR,
+    post_kind_for,
+)
 from pipeline.context import PipelineContext
 from pipeline.run_report import RunReport, time_stage
 from pipeline.stages import (
@@ -30,17 +37,27 @@ logger = logging.getLogger("pipeline")
 
 
 def run(dry_run: bool = False, limit: int | None = None) -> list[PipelineContext]:
-    """Generate mode: batch all articles for the day.
+    """Generate mode: write the day's post.
 
-    1. Create editorial plan (8-10 topics)
+    1. Create editorial plan (a shortlist to choose today's subject from)
     2. Collect RSS context
-    3. For each topic: research -> generate -> review -> save
+    3. Research -> generate -> review -> save
     4. Deploy site once at the end
 
-    `limit` stops after N articles. A full plan is seven Opus stages per article across
-    eight or so topics, which is most of an hour and a visible bite out of the daily rate
-    limit — too much to spend proving that a change to one stage works.
+    One post a day, and which kind depends on the weekday: Friday gathers the week's news
+    on a theme, Sunday is the digest and is written by its own mode. `limit` overrides the
+    count, which is mostly useful for proving out a change to one stage without spending a
+    full run on it.
     """
+    weekday = datetime.now(timezone.utc).weekday()
+    kind = post_kind_for(weekday)
+
+    if kind == "digest":
+        logger.info("Sunday: the week's digest is written by the digest mode, not here")
+        return []
+
+    if limit is None:
+        limit = POSTS_PER_DAY
     report = RunReport(dry_run=dry_run)
     report.begin()
 
@@ -71,6 +88,7 @@ def run(dry_run: bool = False, limit: int | None = None) -> list[PipelineContext
         logger.info("=== Article %d/%d ===", i, len(topics))
         ctx = _generate_one_article(
             topic=topic,
+            kind=kind,
             rss_items=rss_items,
             posted_slugs=posted_slugs,
             report=report,
@@ -94,7 +112,7 @@ def run(dry_run: bool = False, limit: int | None = None) -> list[PipelineContext
 
     # Report
     report.slug = ", ".join(c.slug for c in completed[:5])
-    report.author = "LongLife Media"
+    report.author = AUTHOR_NAME
     report.image_generated = any(c.image_path for c in completed)
     report.finish("ok" if completed else "empty")
     try:
@@ -121,6 +139,7 @@ def _review_loop(ctx: PipelineContext) -> None:
 
 def _generate_one_article(
     topic: dict,
+    kind: str,
     rss_items: list[dict],
     posted_slugs: list[str],
     report: RunReport,
@@ -132,7 +151,9 @@ def _generate_one_article(
     """
     ctx = PipelineContext()
     ctx.editorial_plan = topic
-    ctx.slot_type = topic.get("type", "research")
+    # Friday overrides whatever the planner picked: that day's post is the week's news
+    # on one theme, not another standalone piece.
+    ctx.slot_type = "roundup" if kind == "roundup" else topic.get("type", "research")
     ctx.news_items = rss_items
     ctx.posted_slugs = posted_slugs
 

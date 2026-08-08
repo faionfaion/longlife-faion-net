@@ -27,6 +27,23 @@ Category: {{ ctx.editorial_plan.get('category', '') }}
 {{ ctx.research_text }}
 </research>
 
+{% if ctx.slot_type == 'roundup' %}
+<friday-roundup>
+This is the Friday post: what happened this week on one theme, gathered in one place.
+Not five unrelated news items in a list — one theme, and the week's findings inside it.
+
+- Open by naming the theme and why this week in particular is worth stopping on.
+- Three to five items. Each gets a paragraph or two: what was published, by whom, in which
+  journal, and — the part the press release leaves out — what it does not show.
+- Order by what matters to the reader, never chronologically.
+- Say plainly where the week's findings disagree with each other. A week in which the
+  evidence pulled in two directions is a more honest post than one pretending it did not.
+- Close on what you would actually change, or on why you are changing nothing yet.
+- Every item carries a date, a named source and a URL.
+- Do not pad to reach five. Three real items beat five with two fillers.
+</friday-roundup>
+
+{% endif %}
 <requirements>
 - Content type: {{ ctx.slot_type }}
 - Word count: {{ type_cfg.min_words }}-{{ type_cfg.max_words }} words
@@ -36,11 +53,6 @@ Category: {{ ctx.editorial_plan.get('category', '') }}
 - Tags: Ukrainian topic tags relevant to the article
 - Category: one of: nutrition, fitness, mental-health, sleep, longevity, biohacking, research, prevention
 - Hashtags: topic hashtags (#здоровя, #харчування, #сон, #фітнес, #дослідження, etc.)
-- Image prompt: describe a warm wellness illustration for this article (in English, for DALL-E)
-  - Style: minimalist wellness illustration, clean lines, natural color palette (sage green, cream, coral)
-  - Include relevant health/wellness visual elements
-  - NO text in the image
-  - NO real people or brand logos
 
 HEALTH CONTENT RULES (critical):
 1. CITE SCIENTIFIC SOURCES: every claim about health effects must reference a study

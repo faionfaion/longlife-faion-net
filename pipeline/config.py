@@ -78,14 +78,34 @@ SOUND_ON_END = 22
 # Max TG caption length (safe for multi-byte UTF-8)
 MAX_TG_CAPTION = 900
 
-# Batch generation: runs once in the morning, generates all articles for the day
-GENERATE_HOUR = 7  # UTC, single morning run
+# --- Publishing rhythm ---
+#
+# One post a day, and only one. This is a blog, not a wire: the previous shape wrote eight
+# to ten articles a night and sent four a day to the channel, which reads as a feed no
+# matter how the site is styled, and left several hundred pieces queued that nobody will
+# ever see.
+#
+# The day decides what that one post is.
 
-# TG publish schedule — mechanical publish of pre-generated articles
-TG_PUBLISH_HOURS = [9, 12, 15, 18]
+POSTS_PER_DAY = 1
 
-# Digest hour — compile day's best articles into one TG post
-DIGEST_HOUR = 20
+# Python weekday numbers: Monday is 0.
+ROUNDUP_WEEKDAY = 4  # Friday — the week's news on one topic, gathered
+DIGEST_WEEKDAY = 6   # Sunday — the week in one piece, written long
+
+
+def post_kind_for(weekday: int) -> str:
+    """Which kind of post the given weekday carries."""
+    if weekday == DIGEST_WEEKDAY:
+        return "digest"
+    if weekday == ROUNDUP_WEEKDAY:
+        return "roundup"
+    return "post"
+
+
+GENERATE_HOUR = 3   # UTC, single overnight run
+TG_PUBLISH_HOURS = [9]  # one send a day, after the site has been rebuilt
+DIGEST_HOUR = 6     # UTC Sunday morning, before the day's publish
 
 # Content type configs (word count ranges per type)
 CONTENT_TYPES = {
@@ -94,7 +114,10 @@ CONTENT_TYPES = {
     "lifehack": {"min_words": 200, "max_words": 400},
     "nutrition": {"min_words": 400, "max_words": 800},
     "fitness": {"min_words": 400, "max_words": 800},
-    "digest": {"min_words": 500, "max_words": 1000},
+    # The Friday roundup gathers the week on one theme; the Sunday digest retells the whole
+    # week as a single piece, several paragraphs per post it covers, so it runs long.
+    "roundup": {"min_words": 800, "max_words": 1400},
+    "digest": {"min_words": 1500, "max_words": 3000},
 }
 
 # Author
