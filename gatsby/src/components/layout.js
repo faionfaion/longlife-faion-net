@@ -15,6 +15,7 @@ const Layout = ({ children }) => (
           </span>
         </Link>
         <nav className="site-nav">
+          <Link to="/pidpyska/">Підписка</Link>
           <Link to="/pro-mene/">Про мене</Link>
           <a
             href="https://t.me/long_life_media"
@@ -44,6 +45,7 @@ const Layout = ({ children }) => (
           Читати в Telegram
         </a>
         <div className="footer-links">
+          <Link to="/pidpyska/">Підписка</Link>
           <Link to="/pro-mene/">Про мене</Link>
           <Link to="/umovy-vykorystannya/">Умови використання</Link>
           <a href="/rss.xml">RSS</a>
