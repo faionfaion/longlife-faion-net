@@ -112,3 +112,4 @@ tg_post: |
 - LiverTox: Clinical and Research Information on Drug-Induced Liver Injury — Turmeric. NIDDK/NIH, оновлення червень 2025. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK548561/)
 - TGA Australia. Medicines containing turmeric or curcumin — risk of liver injury, 2023. [TGA](https://www.tga.gov.au/safety/safety-monitoring-and-information/safety-alerts/medicines-containing-turmeric-or-curcumin-risk-liver-injury)
 - Lee J & Kim H. Bioavailability and safety considerations of curcumin formulations. *Nutrients*, 2024. [MDPI](https://www.mdpi.com/journal/nutrients)
+

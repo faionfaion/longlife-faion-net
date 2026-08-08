@@ -110,3 +110,4 @@ Pacing (дозоване управління енергією) — це утр�
 - [RECOVER-ENERGIZE — ClinicalTrials.gov NCT06404047](https://clinicaltrials.gov/study/NCT06404047)
 - [RECOVER-VITAL — проміжні результати щодо Paxlovid](https://recovercovid.org/news/recover-vital-paxlovid-results)
 - [МОЗ України — Наказ №771 про реабілітацію після COVID-19](https://www.dec.gov.ua/wp-content/uploads/2021/04/2021_771_covid19_rehabilit.pdf)
+

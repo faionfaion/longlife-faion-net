@@ -52,10 +52,13 @@ def run(ctx: PipelineContext) -> None:
     )
 
 
-_META_LINE = re.compile(
-    r"^\s*(Category|Tags|Title|Type|Hashtags|Slug|Description|Author|Evidence[ _]level)\s*:",
-    re.IGNORECASE,
+# Both the English field names and the Ukrainian labels the model reaches for when it
+# decides to be helpful, with or without markdown emphasis around the whole line.
+_META_WORDS = (
+    r"Category|Tags|Title|Type|Hashtags|Slug|Description|Author|Evidence[ _]level"
+    r"|Категорі[яї]|Теги|Заголовок|Тип|Опис|Автор|Хештеги"
 )
+_META_LINE = re.compile(rf"^\s*[*_]{{0,2}}\s*({_META_WORDS})\s*:", re.IGNORECASE)
 
 
 def strip_leading_metadata(body: str) -> str:

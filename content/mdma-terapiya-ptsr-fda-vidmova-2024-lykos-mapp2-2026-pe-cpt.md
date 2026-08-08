@@ -122,3 +122,4 @@ MDMA залишається у Списку I — легальної терап�
 - [CMS Law — Ukrainian Health Ministry on psychedelic-assisted therapy](https://cms.law/en/ukr/legal-updates/ukrainian-health-ministry-supports-use-of-psychedelic-assisted-therapy)
 - [Drug Science — Ukraine psychedelic research update](https://www.drugscience.org.uk/ukraine-psychedelic-research)
 - [LongLife — Псилоцибін і MDMA 2026: огляд](https://longlife.media/psylocybin-mdma-ptsr-depresiya-fda-vidmova-2026-vyprobuvannia/)
+

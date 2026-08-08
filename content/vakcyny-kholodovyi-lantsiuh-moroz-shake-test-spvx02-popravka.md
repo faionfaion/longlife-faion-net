@@ -137,3 +137,4 @@ tg_post: |
 13. **Наказ МОЗ від 02.10.2024 № 1682, Порядок зберігання й транспортування вакцин (PDF)** — https://moz.gov.ua/storage/uploads/b9963177-8cb1-4c47-b6a2-a8c38db806ad/%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA-01.08.pdf
 14. **«Аптека online», розбір наказу № 1682** — https://www.apteka.ua/article/707954
 15. **OHCHR / UN HRMMU, удари по енергетичній інфраструктурі України (1 грудня 2025 — 31 травня 2026)** — https://ukraine.ohchr.org/en/Attacks-against-Ukraine-s-energy-infrastructure-and-update-on-the-human-rights-situation-in-Ukraine-1-December-2025-31-May-2026
+

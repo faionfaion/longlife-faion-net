@@ -105,3 +105,4 @@ tg_post: |
 6. WHO guidelines on physical activity and sedentary behaviour. [WHO, 2020](https://pubmed.ncbi.nlm.nih.gov/33239350/)
 
 #швидкістьходи #саркопенія #профілактикападінь #здоровя65плюс #функціональнітести
+
