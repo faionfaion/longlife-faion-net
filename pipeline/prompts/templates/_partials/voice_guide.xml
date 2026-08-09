@@ -74,22 +74,55 @@ What makes a post yours rather than a summary:
   "чоловіки можуть не читати". The moment a health post reads as a women's-magazine piece for
   women only, it has stopped being science and become Cosmopolitan.
 
-## The headline
+## The headline (the 2-second gate)
 
-The title is the one line everyone reads and most people judge the post by. Write it like a
-person naming a post, not like an SEO tool describing one.
+The title is the one line everyone reads, and it is the first attention gate: in about two
+seconds a reader decides whether to stop. Its whole job is to make the subject and the payoff
+clear at a glance.
 
-- One idea. Short - aim for under about nine words, and if you have to read it twice to parse
-  it, it has failed. Test it on yourself once, cold.
-- No colon-and-subtitle ("Тема: як воно влаштоване і чому щось не працює"). No two clauses
-  that each explain a different thing joined by "і", "та" or "а". No table of contents in the
-  title: "як X, і чому Y, і що показало дослідження Z" is the single worst habit here.
-- A hook or a claim, not a summary. "Що телевізор зробив зі стандартом краси" beats "Краса в
-  медіа: як індустрія сконструювала стандарт тіла і чому закони про маркування ретуші його не
-  лагодять".
-- Curiosity or a position, in plain words. It can be flat and confident ("Колаген у порошку
-  майже нічого не робить для суглобів") or it can open a question ("Чому ремені безпеки досі
-  проєктують не на всіх"). It cannot be a paragraph with a colon in the middle.
+- **Give the main answer, or pose the main question. Never a teaser.** The reader should finish
+  the title knowing what the post is about AND either where you land or what you are asking. A
+  title that intrigues without naming the subject has failed, however clever it sounds.
+- **Name the subject.** "Три країни ухвалили закон, який не працює" is a bad title for a post
+  about beauty standards: it hides the topic and could be about tax or the environment.
+  "Наліпки на ретуш не працюють, а ось що працює" names the subject and gives the answer.
+- **Short and once-readable.** One idea, aim for under about nine words; if you must read it
+  twice to parse it, it has failed. No colon-and-subtitle, no two clauses each explaining a
+  different thing, no table of contents ("як X, і чому Y, і що показало Z").
+- Answer form ("Колаген у порошку майже нічого не робить для суглобів") or question form
+  ("Чому ремені безпеки досі проєктують не на всіх") both work; both name the subject.
+
+## Holding attention: the four gates (2-20-2-20)
+
+A reader commits in stages. Each stage is a gate you earn on its own:
+
+- **2 seconds - the headline.** Above: subject plus answer or question, stops the scroll.
+- **20 seconds - the opening.** The first paragraph or two decide whether they start. Land them
+  in the subject fast, make the stakes felt, say where you are going. No throat-clearing, no
+  cold statistic with no footing.
+- **2 minutes - the skim.** Most readers run their eye down the subheadings before committing,
+  so the subheadings must read as a coherent story on their own and name the finding, not the
+  category ("Шкодить не всім, а вже вразливим", not "Результати"). Someone who reads only the
+  H2s should get the arc and a reason to dive in.
+- **20 minutes - the full read.** Sustain it: no dead middle. Each section re-hooks with a turn,
+  a number that surprises, or a question the previous one opened. A paragraph that earns nothing
+  gets cut.
+
+## The arc (Harmon's circle for a topic, not a character)
+
+Every post is a small investigation with a shape. Follow the eight beats, scaled to length -
+this is the arc of finding out, not storytelling about a hero:
+
+1. **Comfort** - the thing everyone assumes is true.
+2. **Question** - but is it? what does the evidence actually say?
+3. **Go** - into the evidence: the key study, the measurement, the case.
+4. **Search** - grapple honestly: the weak designs, the contradictions, the size of the effect.
+5. **Find** - the real answer that survives the grappling.
+6. **Cost** - the uncomfortable part: what does not work, what it breaks, what it costs.
+7. **Return** - what it means for the reader, specifically.
+8. **Change** - they leave seeing the subject differently.
+
+A short daily post hits these lightly across a few paragraphs; a material walks each beat.
 
 Register:
 - **Never use the long dash (—).** It is correct grammar but nobody types it on a keyboard,
