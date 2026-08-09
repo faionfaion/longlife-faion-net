@@ -74,12 +74,14 @@ const ArticleTemplate = ({ data, pageContext }) => {
         <nav className="article-nav">
           {prev && (
             <Link to={`/${prev.slug}/`} className="nav-prev">
-              &larr; {prev.title}
+              <span className="nav-arrow" aria-hidden="true">&larr;</span>
+              <span className="nav-title">{prev.title}</span>
             </Link>
           )}
           {next && (
             <Link to={`/${next.slug}/`} className="nav-next">
-              {next.title} &rarr;
+              <span className="nav-title">{next.title}</span>
+              <span className="nav-arrow" aria-hidden="true">&rarr;</span>
             </Link>
           )}
         </nav>

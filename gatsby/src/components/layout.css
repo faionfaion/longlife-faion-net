@@ -6,7 +6,10 @@
  * paper, near-black ink, one restrained clay accent, a literary serif for reading and a
  * clean grotesque for the small print. No green, no rounded marketing cards. */
 
-@import url('https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,500;0,600;0,700;1,400&family=IBM+Plex+Sans:wght@400;500;600&display=swap');
+/* No web fonts. The system font renders natively on each device (SF on iOS/macOS,
+ * Roboto on Android, Segoe on Windows), reads crisply on a phone, and costs no
+ * render-blocking download - all of which is what "looks native and easy to read on
+ * mobile" actually means. Every system font here carries full Cyrillic. */
 
 :root {
   --color-bg: #f6f2ea;            /* warm paper */
@@ -24,9 +27,10 @@
   --color-header-bg: #f6f2ea;
   --color-footer-bg: #201d18;     /* deep charcoal, not green */
   --color-footer-text: rgba(255,255,255,0.7);
-  --font-body: "Spectral", Georgia, "Times New Roman", serif;
-  --font-heading: "Spectral", Georgia, serif;
-  --font-meta: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-system: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+  --font-body: var(--font-system);
+  --font-heading: var(--font-system);
+  --font-meta: var(--font-system);
   --max-width: 720px;
   --radius: 4px;
   --shadow-sm: 0 1px 2px rgba(28,26,23,0.05);
@@ -40,8 +44,8 @@ body {
   font-family: var(--font-body);
   color: var(--color-text);
   background: var(--color-bg);
-  line-height: 1.72;
-  font-size: 18px;
+  line-height: 1.65;
+  font-size: 19px;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
@@ -337,8 +341,8 @@ body {
 
 /* === Article body === */
 .article-body {
-  font-size: 16px;
-  line-height: 1.85;
+  font-size: 19px;
+  line-height: 1.7;
 }
 
 .article-body::after {
@@ -507,8 +511,20 @@ body {
 .article-nav a {
   color: var(--color-link);
   text-decoration: none;
-  max-width: 45%;
+  max-width: 46%;
   line-height: 1.4;
+  /* Arrow and title are separate flex items with a gap, so a wrapping title can never
+     run under the arrow (the overlap that was happening). The title truncates instead. */
+  display: inline-flex;
+  gap: 8px;
+  align-items: baseline;
+}
+.article-nav .nav-next { text-align: right; }
+.article-nav .nav-arrow { flex: none; color: var(--color-text-secondary); }
+.article-nav .nav-title {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .article-nav a:hover {
@@ -585,8 +601,12 @@ body {
 
 /* === Responsive === */
 @media (max-width: 640px) {
-  body { font-size: 15px; }
-  .article-full h1 { font-size: 24px; }
+  /* Do NOT shrink on mobile - this used to drop to 15px, which is exactly the "hard to
+     read on the phone" problem. Keep the reading text large. */
+  body { font-size: 18px; }
+  .article-body { font-size: 19px; line-height: 1.7; }
+  .article-full h1 { font-size: 28px; }
+  .container { padding: 0 18px; }
 
   /* Image goes full width above text on mobile */
   .article-full .hero-wrap {
