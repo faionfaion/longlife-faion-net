@@ -471,20 +471,9 @@ body {
   margin-bottom: 10px;
 }
 
-.sources ul { list-style: none; padding: 0; }
-
-.sources li {
-  margin-bottom: 6px;
-  padding-left: 16px;
-  position: relative;
-}
-
-.sources li::before {
-  content: "\2192";
-  position: absolute;
-  left: 0;
-  color: var(--color-accent);
-}
+/* Sources are always the numbered <ol className="sources-list"> now; its markers
+   and spacing live further down. The old <ul> arrow-bullet styling is gone — it
+   double-rendered a → in front of every numbered item and overlapped the text. */
 
 .sources a {
   color: var(--color-link);
