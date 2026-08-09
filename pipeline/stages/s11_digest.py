@@ -99,14 +99,20 @@ def _write_digest(
         model=MODEL_GENERATE,
     )
 
-    ctx.title = result["title"]
+    # Same cleanup and citation handling as a normal post (s3): the digest is a parallel
+    # writer and drifts out of sync otherwise - here it was keeping em-dashes and dropping
+    # the source descriptions.
+    from pipeline.stages.s3_generate import normalize_dashes, strip_sources_section
+
+    ctx.title = normalize_dashes(result["title"])
     ctx.slug = result["slug"]
-    ctx.article_text = strip_leading_metadata(result["article"])
-    ctx.description = result.get("description", "")
+    ctx.article_text = normalize_dashes(strip_sources_section(strip_leading_metadata(result["article"])))
+    ctx.description = normalize_dashes(result.get("description", ""))
     ctx.tags = result.get("tags", [])
     ctx.hashtags = result.get("hashtags", "")
     ctx.source_urls = result.get("source_urls", [])
     ctx.source_names = result.get("source_names", [])
+    ctx.source_descriptions = result.get("source_descriptions", [])
     ctx.summary = result.get("summary", "")
 
 
