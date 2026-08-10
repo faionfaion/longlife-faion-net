@@ -27,3 +27,5 @@ gatsby/static/images/*_try*.jpg
 /welcome.py
 
 /materials_run.py
+
+/backfill_desc.py

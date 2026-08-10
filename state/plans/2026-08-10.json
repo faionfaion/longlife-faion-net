@@ -1,0 +1,96 @@
+{
+  "articles": [
+    {
+      "topic": "Мамографія до 50: нове дослідження показало, що більшість жінок із високим ризиком скринінг не ловить",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Єдина новина тижня, яка залишилася без власного матеріалу (позначена в дайджесті 09.08): чинний віковий скринінг пропускає більшість жінок до 50 з підвищеним ризиком. Розбір як питання «а що робити конкретній 40-річній українці»: чим ризик-базований скринінг відрізняється від вікового, що таке щільна тканина молочної залози і чому вона одночасно фактор ризику і причина хибнонегативних мамограм, коли має сенс модель ризику (Tyrer-Cuzick, BOADICEA) і генетичне тестування, а коли — ні. Обов'язково: скринінг ≠ діагноз, надмірна діагностика теж має ціну, і що реально доступно в Україні за наказом МОЗ і приватно (ціни на УЗД/мамографію). Жорстка вимога до рігору: не писати з переказу BBC — знайти первинну публікацію, назвати дизайн, вибірку і те, що саме виміряли (модельована чутливість vs реальні випадки); якщо первинну роботу знайти не вдалося, матеріал не виходить.",
+      "sources_hint": "BBC Health Aug 2026 'Breast cancer checks missing most women under 50 who are at risk' — trace to the underlying paper (check BMJ, Lancet Oncology, JNCI, Radiology 2026 via PubMed/Europe PMC before writing). Background: MyPeBS randomised trial (risk-stratified screening, NCT03672331); WISDOM study; USPSTF 2024 breast cancer screening recommendation (age 40 start); Tyrer-Cuzick v8 and BOADICEA/CanRisk models; dense breast literature (Boyd NEJM 2007); UK NHS Breast Screening Programme age extension data; МОЗ України накази щодо скринінгу РМЗ",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Ашваганда для стресу і сну: що показують RCT — і чому в Ісландії та Данії її вилучили з продажу",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Claim-check найпопулярнішого «адаптогена» українських маркетплейсів. З одного боку — мета-аналізи невеликих індійських RCT із зниженням PSS і кортизолу; з іншого — майже всі дослідження оплачені виробниками екстрактів (KSM-66, Sensoril), тривалість 8 тижнів, вибірки 50–60 осіб, високий ризик упередженості. Окремий блок — безпека: випадки лікарського ураження печінки (Björnsson 2020), заборона в Данії та попередження ісландського агентства, протипоказання при аутоімунному тиреоїдиті, вагітності й при прийомі седативних. Практичний висновок для читача і для нутриціолога, якого клієнт питає «а можна ашваганду?». Тримати ту саму рамку claim-check, що й серія про магній, колаген і NMN: чия це наука, який ефект-сайз, і що дешевше й доказовіше.",
+      "sources_hint": "PubMed: 'Withania somnifera anxiety randomized meta-analysis'; Salve 2019 Cureus; Chandrasekhar 2012 Indian J Psychol Med; Della Porta 2023 systematic review; Bonilla 2021 J Funct Morphol Kinesiol; Björnsson 2020 Liver International (ashwagandha hepatotoxicity case series); Icelandic Food and Veterinary Authority / Danish DTU Food risk assessment on Withania; NIH ODS; LiverTox NIDDK entry",
+      "evidence_level": "preliminary",
+      "priority": 1
+    },
+    {
+      "topic": "Тиск удома: протокол 7 днів, який варте більше за один вимір у кабінеті лікаря",
+      "type": "lifehack",
+      "category": "prevention",
+      "angle": "Найдешевший важіль у профілактиці — правильне домашнє вимірювання тиску (свідомо БЕЗ «понеділкового ресету» як рамки: за останні два тижні вже вийшли два матеріали з понеділковим гачком — кортизол і сніданок 03.08 та Monday effect і STEMI 27.07). Чому розмір манжети змінює результат до 20 мм рт. ст. (Ishigami, JAMA Intern Med 2023), чому міряти треба двічі на день сім днів і викидати перший день, чому «тиск на прийомі» гірше прогнозує події, ніж домашній і добовий моніторинг, і що таке гіпертензія білого халата й маскована гіпертензія. Практично: протокол 7 днів, таблиця для лікаря, які пороги (135/85 для домашніх вимірів), як обрати валідований тонометр (STRIDE BP), чому зап'ясткові моделі гірші. Зверніться до лікаря, якщо середнє ≥135/85 або будь-який показник ≥180/110. Крос-лінк на матеріал про планку і wall-sit (27.07) — там втручання, тут вимірювання.",
+      "sources_hint": "Ishigami et al., JAMA Internal Medicine 2023 (cuff size and BP accuracy); AHA 2019 scientific statement on measurement of blood pressure in humans; ESH 2023 guidelines home BP thresholds; STRIDE BP validated device list; USPSTF 2021 hypertension screening (ambulatory/home confirmation); Cochrane review on self-monitoring of blood pressure; МОЗ України уніфікований клінічний протокол з артеріальної гіпертензії",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Апное сну у жінок: чому діагноз ставлять на роки пізніше, ніж чоловікам",
+      "type": "guide",
+      "category": "sleep",
+      "angle": "Найпоширеніший недодіагностований стан у жінок 45+. Класичний портрет пацієнта з апное — чоловік із хропінням і паузами дихання; у жінок частіше безсоння, втома, ранковий головний біль, тривога і депресія, тому лікар шукає щось інше. Що з цим робить менопауза (втрата протективної ролі прогестерону, зростання поширеності у 2–3 рази), чому STOP-BANG із його «шия >40 см» і «чоловіча стать» гірше працює у жінок, і які пороги реально використовувати. Практично: коли просити скринінг, що показує і чого не показує домашня респіраторна полігра­фія, і що робити далі, якщо AHI підтвердився. Блок про носимі пристрої НЕ переказувати — тема закрита матеріалом про трекери й полісомнографію (08.08), дати один абзац і крос-лінк; так само крос-лінк на попередній матеріал про STOP-BANG замість повторного пояснення опитувальника. Прямий сигнал: із денною сонливістю за кермом — до лікаря, не чекати.",
+      "sources_hint": "Bixler 2001 Am J Respir Crit Care Med (prevalence by sex and menopause); Mirer 2017 Menopause; Won 2020 J Clin Sleep Med 'Sex differences in obstructive sleep apnea phenotypes'; Chung 2016 STOP-Bang validation and its performance in women; AASM 2017 clinical practice guideline on diagnostic testing for OSA; Wisconsin Sleep Cohort; systematic reviews 2024-2026 on sex differences in OSA diagnosis delay",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Спорт замість антидепресанта? Що показав мета-аналіз BMJ і де проходить межа",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Мережевий мета-аналіз Noetel (BMJ 2024, 218 РКД, 14 170 учасників) показав великі ефекти ходьби, бігу, силових і йоги при депресії — цю цифру вже розтягли на «біг лікує депресію краще за таблетки». Стаття чесно розбирає: більшість включених РКД мають високий ризик упередженості, ефект падає у дослідженнях із активним контролем, а порівняння з СІОЗС базується на кількох невеликих трайлах (SMILE, Blumenthal). Ключова практична межа: при легкій-помірній депресії рух — обґрунтована перша лінія разом із психотерапією; при тяжкій — доповнення, а не заміна, і самостійно скасовувати препарати не можна. Мінімальна доза, яка має докази, і що з цим робити тренеру, до якого прийшов клієнт у депресії. Це парасолькова база для вже опублікованих матеріалів — крос-лінк на пілотне RCT OUTSIDE про плавання у відкритій воді (07.08) і на HIIT/BDNF (03.08), без переказу їхнього змісту.",
+      "sources_hint": "Noetel et al., BMJ 2024;384:e075847 network meta-analysis of exercise for depression; Blumenthal SMILE trial (Arch Intern Med 1999, Psychosom Med 2007); Recchia 2022 BJSM; Cochrane review on exercise for depression (2013, and updates); NICE NG222 depression in adults (2022) recommendations on group exercise; Heissel 2023 BJSM meta-analysis",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "«За раз засвоюється лише 20–30 г білка»: що показало дослідження зі 100 г за один прийом",
+      "type": "nutrition",
+      "category": "fitness",
+      "angle": "Матеріал для тренерів і дієтологів, який заодно знімає тривогу у звичайного читача. Класичний поріг 20–25 г походить із досліджень із сироватковим ізолятом і 4–5-годинним вікном вимірювання. Trommelen 2023 (Cell Reports Medicine) годував учасників 100 г білка і міряв 12 годин: синтез м'язового білка зростав довше і сильніше, «надлишок» не йшов масово в окиснення. Що це змінює насправді: добова доза (1,6 г/кг за Morton 2018) залишається головним, розподіл на 3–4 прийоми — розумний за замовчуванням, але людині з інтервальним вікном або одним великим обідом не варто вважати, що білок «пропав». Окремо — літні люди й анаболічна резистентність, де доза на прийом справді важлива. На початку дати явне розмежування з матеріалом про білковий сніданок і GLP-1/PYY: там гормони апетиту й таймінг, тут — стеля анаболічної відповіді на порцію.",
+      "sources_hint": "Trommelen et al., Cell Reports Medicine 2023 'The anabolic response to protein ingestion during recovery from exercise has no upper limit'; Morton 2018 BJSM meta-analysis (1.6 g/kg); Areta 2013 J Physiol (protein distribution); Schoenfeld & Aragon 2018 JISSN meta-analysis on protein per meal; Moore 2015 J Gerontol (per-meal dose in older adults); ISSN position stand on protein and exercise",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Мікропластик в артеріальних бляшках: що насправді довело дослідження NEJM — і що з цим може зробити людина",
+      "type": "research",
+      "category": "research",
+      "angle": "Розбір найгучнішої лінії досліджень про мікро- і нанопластик у людському тілі: когорта Marfella (NEJM 2024) знайшла поліетилен у сонних бляшках 58% пацієнтів і вищий ризик подій — але це спостережна робота на 257 людях з однієї клініки, з методологічною критикою щодо контамінації зразків. Що додали дані 2025–2026, чому «пластик у крові/мозку/плаценті» ≠ доведена шкода, і які поради мають хоч якусь опору (не гріти їжу в пластику, менше пляшкової води, фільтр, пил у домі), а які — чистий страх. Окремим абзацом — чесна вартість поради: скільки коштує кожна дія і наскільки мала очікувана віддача. Тон: не панікувати, але й не відмахуватись.",
+      "sources_hint": "Marfella et al., NEJM 2024;390:900-910 'Microplastics and Nanoplastics in Atheromas'; subsequent correspondence/critiques in NEJM; Nihart 2025 Nature Medicine (microplastics in human brain tissue); Leslie 2022 Environ Int (plastic in blood); WHO 2022/2025 report on microplastics in drinking water; EFSA statement on microplastics; systematic reviews 2025-2026 on human health effects",
+      "evidence_level": "preliminary",
+      "priority": 2
+    },
+    {
+      "topic": "Блакитні зони: що сталося, коли дані про 100-річних перевірили на помилки",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Claim-check однієї з найпродаваніших ідей у здоров'ї. Робота Сола Ньюмана показує, що регіони з рекордною кількістю довгожителів систематично збігаються з регіонами поганого обліку народжень, високої бідності й пенсійного шахрайства, а після введення надійних реєстрів «зони» тьмяніють; за це дослідження отримало Шнобелівську премію 2024 — але аргумент серйозний і досі не спростований. Чесний баланс: критика б'є по статистиці рекордного довголіття, а не по самих рекомендаціях (рух, бобові, соціальні зв'язки), які мають окрему доказову базу. Урок для читача: як відрізнити гарну історію від даних і чому «дієта Окінави» на етикетці — це маркетинг. Крос-лінк на серію longevity reality-check (рапаміцин 07.08, NMN/NR 01.08) як на той самий метод перевірки.",
+      "sources_hint": "Saul Justin Newman preprint 'Supercentenarian and remarkable age records exhibit patterns indicative of clerical errors and pension fraud' (bioRxiv, 2024) and related papers in J Gerontol / Nature correspondence; Poulain 2004 Exp Gerontol (Sardinia blue zone methodology); Buettner & Skemp 2016 Am J Lifestyle Med; Ig Nobel 2024 demography prize; Herm 2022 on age validation methods",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Скільки підходів на тиждень потрібно м'язу: що показала доза-відповідь 2025 року",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Матеріал для тренерів і всіх, хто ходить у зал без плану. Мета-регресія 2025 року (Pelland та ін.) звела десятки РКД в одну криву: сила зростає майже одразу і плато настає рано (кілька підходів на м'язову групу на тиждень дають більшу частину ефекту), а гіпертрофія продовжує повільно рости з обсягом до дуже високих значень — але з різко спадною віддачею і зростанням витрат часу й ризику. Що з цього випливає практично: мінімальна ефективна доза для зайнятої людини, коли додавати обсяг має сенс, чому «до відмови» не обов'язково, і чому інтенсивність зусиль і техніка досі важать більше за кількість підходів у таблиці. Крос-лінки на болгарський випад (06.08) і крижану ванну після силової (02.08) — обсяг, вибір вправ і відновлення як три різні важелі.",
+      "sources_hint": "Pelland et al. 2025 dose-response meta-regression on resistance training volume (Sports Medicine / SportRxiv); Schoenfeld 2017 J Sports Sci meta-analysis on weekly sets; Baz-Valle 2022; Refalo 2023 on proximity to failure; ACSM position stand on progression models in resistance training; Currier 2023 BJSM (strength dose-response)",
+      "evidence_level": "moderate",
+      "priority": 3
+    },
+    {
+      "topic": "Панелі червоного світла за 8000 грн: що доведено для шкіри, болю і волосся — а що ні",
+      "type": "lifehack",
+      "category": "biohacking",
+      "angle": "Claim-check фотобіомодуляції, яка з клінік перекочувала в домашні панелі й маски з маркетплейсу. Чесний поділ: для загоєння ран, орального мукозиту й андрогенної алопеції докази найкращі (є RCT і схвалення FDA для окремих пристроїв); для зморшок і колагену — невеликі спонсоровані дослідження з м'якими кінцевими точками; для «мітохондрій, енергії, схуднення й тестостерону» — практично нічого, крім механістичних припущень і подкастів. Що взагалі означають цифри на коробці (нм, мВт/см², джоулі), чому «більше — краще» тут не працює (біфазна доза-відповідь), безпека очей і кому не варто (фотосенсибілізувальні препарати, меланома в анамнезі — до лікаря).",
+      "sources_hint": "PubMed: 'photobiomodulation low-level laser therapy randomized meta-analysis skin'; Avci 2013 Semin Cutan Med Surg; Hamblin 2018 (biphasic dose response); Cochrane review on low-level laser therapy for pain; Afifi 2017 Lasers Surg Med (LLLT androgenetic alopecia review); Zadik 2019 MASCC/ISOO guidelines on photobiomodulation for oral mucositis; FDA 510(k) clearances for home LED devices",
+      "evidence_level": "preliminary",
+      "priority": 3
+    }
+  ],
+  "date": "2026-08-10",
+  "created_at": "2026-08-10T03:03:02.858876+00:00"
+}
