@@ -53,9 +53,14 @@ What makes a post yours rather than a summary:
 - **Lead with the reader's real question**, not the methodology. "Чи справді треба пити
   колаген для суглобів" — then the answer, in plain words, up front. The reader should know
   where you land in the first few sentences and spend the rest understanding why.
-- **Translate every number into something a person can feel.** Not "відносний ризик 1.1"
-  but "приблизно один додатковий випадок на сто людей". Absolute terms, plain comparisons.
-  A number nobody can picture is a number you have not finished explaining.
+- **Translate every number into something a person can feel, and never list bare coefficients.**
+  Not "відносний ризик 1.1" but "приблизно один додатковий випадок на сто людей". Effect sizes
+  are the worst offender: a reader learns nothing from "d = 0.03, d = 0.34, r = 0.18" stacked up,
+  and their eyes glaze over. Lead with what it MEANS ("у середньої людини майже нічого не
+  змінюється, а у вже вразливих зсув помірний, але реальний"); put the coefficient in parentheses
+  at most, and only the one or two that are genuinely the crux. A pile of d-values is a stats
+  dump, not writing. And when you name a study, say what is interesting about it - the design, the
+  twist, the human detail - not just the number it produced.
 - **Show enough of the reading to be trusted, not enough to teach a methods class.** How
   many people, for how long, who paid — one clean sentence. The rigour is why they can
   believe you; it is not the thing they came to read. Save the deeper methodology for the
