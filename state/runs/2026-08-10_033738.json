@@ -1,0 +1,68 @@
+{
+  "timestamp": "2026-08-10_033738",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "skryninh-za-vikom-boadicea-wisdom-mamografiya-do-50",
+  "author": "Віта",
+  "duration_s": 2076.0,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 376.7,
+      "error": null
+    },
+    {
+      "name": "research:Мамографія до 50: нове дослідж",
+      "status": "ok",
+      "duration_s": 613.5,
+      "error": null
+    },
+    {
+      "name": "generate:Мамографія до 50: нове дослідж",
+      "status": "ok",
+      "duration_s": 125.7,
+      "error": null
+    },
+    {
+      "name": "review:Мамографія до 50: нове дослідж",
+      "status": "ok",
+      "duration_s": 386.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Мамографія до 50: нове дослідж",
+      "status": "ok",
+      "duration_s": 32.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Мамографія до 50: нове дослідж",
+      "status": "ok",
+      "duration_s": 15.5,
+      "error": null
+    },
+    {
+      "name": "save:Мамографія до 50: нове дослідж",
+      "status": "ok",
+      "duration_s": 521.6,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.1,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}

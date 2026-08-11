@@ -1,0 +1,96 @@
+{
+  "articles": [
+    {
+      "topic": "Таблетка замість уколу: що показали випробування перорального GLP-1, схваленого у Британії",
+      "type": "research",
+      "category": "research",
+      "angle": "Новинний гачок: пероральний GLP-1 отримав схвалення регулятора у Великій Британії. Це не переказ нашого великого розбору класу GLP-1 від 08.08, а вузький додаток до нього — тільки пероральна форма. Пряме порівняння відсотків втрати ваги таблетка проти ін'єкції, чому пероральна форма вимагає прийому натщесерце з малою кількістю води й вікном очікування, профіль ШКТ-побічних, і чи змінює форма прийому головну проблему класу — повернення ваги після відміни (наш висновок від 08.08: не змінює). Чесно про прогалину: серцево-судинних кінцевих точок для пероральної форми поки немає, тобто SELECT на неї не переноситься. Обов'язкове застереження: рецептурний препарат, не для самопризначення й не для косметичної ваги.",
+      "sources_hint": "Verify FIRST which exact molecule and strength MHRA approved (orforglipron vs oral semaglutide 25 mg) from the MHRA public assessment report — do not assume; ATTAIN-1 and ATTAIN-2 orforglipron trials (NEJM 2025); OASIS 4 oral semaglutide 25 mg (The Lancet 2025); PIONEER programme for CV data gap; NICE technology appraisal on obesity pharmacotherapy; EMA/FDA labels for oral semaglutide dosing conditions; ДЛЗ України реєстр для статусу в Україні",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Гепатит С можна вилікувати за 8–12 тижнів — але спершу треба знати, що він у тебе є",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Англія готується елімінувати гепатит С — привід пояснити українцям, що це єдина хронічна вірусна інфекція, яку сьогодні виліковують таблетками більш ніж у 95% випадків, і що вона роками не дає симптомів. Хто в групі ризику (переливання до 1992, медичні маніпуляції, тату, ін'єкційний досвід, ВІЛ), як виглядає шлях: анти-HCV → ПЛР на РНК → оцінка фіброзу → терапія, чому позитивний анти-HCV сам по собі ще не означає активної інфекції, і де в Україні лікування безкоштовне за державною програмою. Чесно про межі: елімінація в Англії — програмна ціль, а не доведений результат.",
+      "sources_hint": "WHO global hepatitis report 2026 and 2030 elimination targets; NHS England hepatitis C elimination programme; EASL 2024 HCV recommendations; AASLD/IDSA HCV guidance; sofosbuvir/velpatasvir SVR12 meta-analyses; МОЗ України програма лікування вірусних гепатитів, Центр громадського здоров'я HCV prevalence estimates",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Синдром відміни антидепресантів: чому одні кажуть «у половини», а мета-аналіз 2025 — «майже нічого»",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Дві сторони сперечаються: одні лякають тяжкою відміною, інші кажуть, що це вигадка. Розбір, де істина: мета-аналіз рандомізованих даних дає різницю приблизно в один симптом проти плацебо, тоді як огляди опитувань пацієнтів дають десятки відсотків — і причина розбіжності в тому, кого і як довго лікували (короткі РКД на 8–12 тижнів проти людей на терапії роками) та хто відповідав на анкету. Практична частина: чому «пропустити пігулку» ≠ рецидив, що таке гіперболічне зниження дози й чому припиняти прийом самотужки — погана ідея. Не інструкція з відміни: рішення й графік — з лікарем.",
+      "sources_hint": "Kalfas et al. 2025 JAMA Psychiatry meta-analysis of antidepressant discontinuation symptoms; Horowitz & Taylor 2019 Lancet Psychiatry hyperbolic tapering; Davies & Read 2019 Addictive Behaviors systematic review and its published critiques; Lewis 2021 ANTLER trial (NEJM) for relapse after discontinuation; NICE NG222 depression guideline withdrawal section; Maudsley Deprescribing Guidelines",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Тиск удома міряють неправильно майже всі: 6 помилок, які додають до 10 мм рт. ст.",
+      "type": "lifehack",
+      "category": "prevention",
+      "angle": "Найдешевша профілактика інсульту — правильно виміряний домашній тиск. Що показало рандомізоване перехресне дослідження про положення руки (рука на колінах або звисає завищує систолічний на кілька мм рт. ст.), чому манжета не того розміру спотворює результат, звідки взявся протокол «7 днів, ранок і вечір, по 2 виміри», який поріг для домашніх вимірів нижчий за кабінетний (135/85 проти 140/90) і як за списками STRIDE BP перевірити, чи ваш тонометр валідований. Читач може застосувати сьогодні ж.",
+      "sources_hint": "Liu 2024 JAMA Internal Medicine randomized crossover on arm position; ESC 2024 Guidelines for elevated blood pressure and hypertension (home BP thresholds 135/85); USPSTF 2021 hypertension screening statement; STRIDE BP / validatebp.org validated device lists; Cochrane review of blood pressure self-monitoring; ISH 2020 global practice guidelines on cuff sizing",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Соняшникова і ріпакова олія «запалюють організм»? Що показують біомаркерні дослідження на 68 тисячах людей",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Клеймо «seed oils» прийшло з англомовних подкастів і вже живе в українських блогах: мовляв, омега-6 запалює, окислюється при нагріванні й винна в усьому. Перевірка: що показують когорти з виміряним рівнем лінолевої кислоти в крові (не з опитувальників), що дав Cochrane-огляд заміни насичених жирів, чому переаналіз Sydney Diet Heart — найсильніший аргумент опонентів і чому він усе одно не закриває питання (одна популяція, маргарин із трансжирами, відновлені дані). Окремо — реальна проблема, яку сторони не обговорюють: температура диму й багаторазове перегрівання олії у фритюрі.",
+      "sources_hint": "Marklund 2019 Circulation pooled analysis of 30 cohorts (linoleic acid biomarkers, n=68,659); Hooper 2020 Cochrane omega-6 review; Ramsden 2013 BMJ Sydney Diet Heart recovered data; AHA Presidential Advisory 2017 on dietary fats; reviews of aldehyde formation in repeatedly heated oils (Food Chemistry / JAOCS)",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Глюкозний монітор без діабету: що насправді означають «стрибки цукру» у здорової людини",
+      "type": "research",
+      "category": "biohacking",
+      "angle": "CGM-сенсори продають здоровим людям як вікно в метаболізм. Що показали дослідження норм у людей без діабету (розкид глікемічних кривих величезний, і «спайк» після банана — це фізіологія, а не хвороба), яка похибка самих сенсорів проти венозної крові (MARD і чому два сенсори на одній руці дають різні криві), чому персоналізовані рекомендації на основі CGM поки не мають доказів впливу на вагу чи здоров'я — і в кого сенсор справді доречний (діабет, предіабет, вагітність за призначенням лікаря).",
+      "sources_hint": "Keshet et al. 2023 Nature Medicine CGMap glycemic patterns in non-diabetics; Shah 2019 JCEM CGM reference ranges in healthy adults; accuracy studies of Dexcom/FreeStyle Libre vs venous glucose (Klonoff, Diabetes Technology & Therapeutics); PREDICT/ZOE personalised nutrition trials and their published critiques; ADA Standards of Care 2026 on CGM indications",
+      "evidence_level": "preliminary",
+      "priority": 2
+    },
+    {
+      "topic": "«Блакитні зони» під сумнівом: скільки довгожителів зникає, коли перевіряють документи",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Дієта Окінави й Сардинії продали мільйони книжок. Але робота, що перевірила реєстри віку, показала: рекорди довголіття концентруються там, де погана реєстрація народжень і високий рівень бідності, а введення надійних документів «вбиває» частину супердовгожителів. Чесний баланс у двох напрямках: критика Ньюмана досі значною мірою у препринті й не спростовує валідованих сардинських кластерів, а частина порад із блакитних зон тримається на іншій, сильнішій доказовій базі (рух, бобові, соціальні зв'язки) — і саме її варто залишити.",
+      "sources_hint": "Saul Newman 2024 preprint and Ig Nobel on supercentenarian record errors (check whether peer-reviewed by now); Poulain et al. validation of the Sardinian blue zone; Buettner Blue Zones methodology critiques in Journal of Aging Research; Italian/Japanese centenarian registry audits; Gavrilov & Gavrilova on age validation methods",
+      "evidence_level": "preliminary",
+      "priority": 2
+    },
+    {
+      "topic": "Скільки білка треба після 65: чому «1 г на кілограм» — це вже мало, і за що відповідає порція, а не доба",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Матеріал для тих, хто консультує старших клієнтів, і для самих читачів 65+: анаболічна резистентність означає, що та сама порція білка дає менший синтез м'яза, ніж у 30 років. Розбір цільових цифр PROT-AGE та ESPEN (1,0–1,2 і до 1,5 г/кг при хворобі), порогу ~25–30 г білка на прийом, чому без силових білок сам по собі майже не працює (і що показали РКД із додаванням білка без тренувань), і коли високий білок протипоказаний — знижена функція нирок — до лікаря, а не до банки протеїну.",
+      "sources_hint": "Bauer 2013 PROT-AGE position paper (JAMDA); ESPEN 2022 practical guideline on clinical nutrition and hydration in geriatrics; Traylor 2018 Advances in Nutrition on protein per meal; Tagawa 2020 Nutrition Reviews dose-response meta-analysis; Tieland 2012 RCT protein + resistance training; ten Haaf 2018 protein supplementation without training; KDIGO 2024 CKD protein caution",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Тренуватися до відмови чи зупинятися за 2 повторення: що показали мета-аналізи для м'язів і для сили",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Питання, яке тренери чують щотижня. Синтез даних: для гіпертрофії відстань до відмови в 1–2 повторення дає той самий результат, що й робота до повної відмови, а для сили відмова часто гірша через накопичену втому і гірше відновлення. Практично: як рахувати RIR без самообману (люди системно переоцінюють, скільки ще можуть), де відмова доречна (ізоляція, останній підхід), а де небезпечна (присід, станова, багатосуглобові з вільною вагою без страхувальника).",
+      "sources_hint": "Refalo et al. 2023 Journal of Sports Sciences meta-analysis on proximity to failure; Robinson et al. 2024 Sports Medicine dose-response meta-regression on sets and proximity to failure; Grgic 2022 review on failure vs non-failure training; Zourdos 2016 RIR-based RPE scale validation; Halperin 2022 on accuracy of self-reported reps in reserve",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Рюкзак з вагою замість спортзалу: що доказово дає «rucking», а що — просто мода з інстаграму",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Ходьба з обтяженим рюкзаком продається як спосіб одночасно «спалити більше», зміцнити кістки й накачати спину. Перевірка: енерговитрати справді зростають передбачувано (є формули з військових досліджень), але доказів приросту щільності кісток немає — рандомізоване дослідження з обтяженими жилетами у старших дорослих цього не показало. Плюс травматологія військових колон: з якого відсотка маси тіла починаються проблеми зі спиною, стопами й плечима, і чому військові дані погано переносяться на 50-річного офісного читача.",
+      "sources_hint": "Knapik et al. load carriage injury reviews (Military Medicine); Pandolf equation for load carriage energy cost; INVEST trial (Beavers et al., weighted vest during weight loss in older adults, bone outcomes); ACSM position stand on osteogenic loading; systematic reviews of backpack load and gait/spinal loading",
+      "evidence_level": "preliminary",
+      "priority": 3
+    }
+  ],
+  "date": "2026-08-11",
+  "created_at": "2026-08-11T03:03:03.969237+00:00"
+}
