@@ -90,3 +90,7 @@ NOT breaking news. Focus on:
 - Physical activity & fitness innovations
 - Mental health & longevity
 - Sleep, stress management, biohacking
+
+## Agent memory
+
+Project knowledge carried over from the Claude auto-memory store on 2026-08-12 (decisions, gotchas, incident post-mortems): [.agents/nero-memory.md](.agents/nero-memory.md). Verbatim as written at the time — verify against code before relying on a specific path or number.

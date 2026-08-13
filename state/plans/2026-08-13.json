@@ -1,0 +1,87 @@
+{
+  "articles": [
+    {
+      "topic": "Англія майже перемогла гепатит C: чому це реально і що робити українцю, який ніколи не здавав аналіз",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Новинний гачок — Англія на порозі елімінації гепатиту C (мета ВООЗ 2030). Пояснити просто: HCV роками не має симптомів, але це головна причина цирозу й раку печінки, і з 2014 року він виліковний таблетками за 8–12 тижнів із SVR понад 95%. Практична частина під Україну: хто в групі ризику (переливання крові до 1992, будь-які ін'єкційні маніпуляції, татуювання/манікюр нестерильним інструментом, поранені й ті, хто отримував кров після 2022), як виглядає двоетапна діагностика (анти-HCV → ПЛР РНК, бо позитивний скринінг ≠ активна інфекція), де лікування безоплатне за державною програмою і скільки коштує аналіз приватно. Чесно про масштаб: оцінки поширеності в Україні розходяться, реєстр неповний.",
+      "sources_hint": "WHO global hepatitis report 2024; UKHSA hepatitis C elimination progress 2026; NHS England hepatitis C elimination programme; Cochrane/AASLD-IDSA HCV guidance on DAA SVR rates; EASL 2024 recommendations; МОЗ України програма лікування вірусних гепатитів, наказ про маршрут пацієнта; Ukraine HCV prevalence estimates (Polaris Observatory)",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "«Перевіряйте груди щомісяця»: що показав Кокранівський огляд на 388 тисячах жінок",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Claim-check найпоширенішої поради про самообстеження грудей. Кокранівський огляд (Kösters & Gøtzsche, 2 РКД у Шанхаї та Росії, n=388 535) не знайшов зниження смертності від раку молочної залози, зате майже вдвічі більше біопсій із доброякісним результатом. Чому і ВООЗ, і USPSTF перейшли від «самообстеження за протоколом» до «обізнаності про своє тіло» — і що це означає практично: не техніка пальпації за схемою, а знання власної норми і чіткий список тривожних змін (втягнення соска, зміна шкіри, однобічні виділення, вузол, що не зникає після циклу). Обов'язкове розмежування з матеріалом від 10.08 (той був про моделі ризику, BOADICEA і мамографію до 50 — тут жодних моделей ризику, тільки поведінка самої жінки між скринінгами) і чесна теза: відмова від щомісячного ритуалу не означає «нічого не робити».",
+      "sources_hint": "Cochrane Database Syst Rev: 'Regular self-examination or clinical examination for early detection of breast cancer' (Kösters & Gøtzsche 2003, updated); Thomas 2002 JNCI Shanghai trial; Semiglazov Russian trial; USPSTF breast cancer screening 2024 recommendation statement; WHO position on breast awareness vs BSE; NHS 'breast awareness' 5-point code",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Ультраоброблена їжа: чи справді справа в «обробці», а не просто в калоріях, солі й цукрі",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Найбільший харчовий страх десятиліття, розібраний чесно. З одного боку — метаогляд BMJ 2024 (45 мета-аналізів, 32 наслідки для здоров'я) і когорти, що дають стабільний зв'язок UPF зі смертністю, ожирінням і ЦД2. З іншого — три незручні речі: NOVA класифікує за способом виробництва, а не за складом, тож хліб і йогурт опиняються поруч із чипсами; єдине контрольоване годувальне дослідження (Hall 2019, Cell Metabolism, n=20) показує +508 ккал/добу на UPF-раціоні, але воно крихітне; а частина ефекту в когортах пояснюється загальними калоріями, сіллю й цукром. Практичний висновок без паніки: замість «уникати UPF» — конкретні маркери на етикетці (густина калорій, цукор, натрій, клітковина) і 3–4 реалістичні заміни в українському кошику. Крос-лінк на матеріал про клітковину 40 г (06.08) як позитивний критерій вибору.",
+      "sources_hint": "Lane 2024 BMJ umbrella review of ultra-processed food exposures; Hall 2019 Cell Metabolism inpatient RCT; Monteiro NOVA classification critiques (Am J Clin Nutr 2023 debate); Astrup & Monteiro 'Does the concept of UPF make sense?' Nature Food 2022; NutriNet-Santé and UK Biobank UPF cohorts; WHO/FAO 2025 statements on UPF definitions",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "«Блакитні зони» довгожителів: що сталося, коли перевірили самі свідоцтва про народження",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Claim-check популярної основи всієї longevity-індустрії. Роботи Сола Ньюмана показують, що регіони з рекордною часткою 100-річних систематично збігаються з районами поганої реєстрації народжень, бідності та пенсійного шахрайства; в Окінаві дані про довгожителів мали проблеми ще з переписів, а після введення документів частка «супердовгожителів» падала. Що з цього все ж вціліло: складові «блакитних зон» (рух у побуті, бобові, соціальні зв'язки, менше алкоголю й тютюну) підтверджуються незалежними когортами — тобто поради нормальні, а от джерело їх легітимності хитке. Читачеві: як відрізняти доказ від красивої історії, і чому «дієта столітніх» на упаковці — маркетинг. Крос-лінк на розбори NMN/NR і рапаміцину як приклади тієї ж індустрії з протилежного боку.",
+      "sources_hint": "Saul Justin Newman preprints/publications on supercentenarian data quality (bioRxiv 2019; 2024 Ig Nobel-recognised work); Okinawa centenarian data critiques; Poulain 2004 Exp Gerontol Sardinia validation; Buettner Blue Zones original claims; Nature/Science news coverage 2024–2025; PLOS-published rebuttals",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Скільки води пити у спеку: що показало дослідження Science на 5604 людях і чому «8 склянок» — не норма",
+      "type": "lifehack",
+      "category": "nutrition",
+      "angle": "Сезонний практичний матеріал на пік серпневої спеки. Головний доказ — Yamada 2022 (Science, n=5604, 23 країни, метод подвійно міченої води): оборот води сильно залежить від маси, клімату, активності й віку, а «8 склянок для всіх» ніколи не мали доказової бази (Valtin 2002 розібрав походження цифри). Що є натомість: сумарна вода (EFSA/IOM ~2,0 л жінкам, ~2,5 л чоловікам) включає воду з їжі — це приблизно 20–30% обсягу, тобто «випити» треба менше, ніж здається. Практичне ядро: орієнтуватися на спрагу і колір сечі, збільшувати обсяг за втратами з потом, додавати натрій при тривалому потовиділенні, а не «заливати» чисту воду — з чесним блоком про гіпонатріємію під час марафонів і тривалих навантажень. Обов'язкове застереження і розмежування з матеріалом від 07.08 про план дій у спеку: при серцевій недостатності й ХХН фіксована норма 2 л протипоказана, обсяг визначає лікар. Не дублює домашній чек-лист блекаут+спека — тут виключно фізіологія рідини.",
+      "sources_hint": "Yamada 2022 Science 'Variation in human water turnover associated with environmental and lifestyle factors'; Valtin 2002 Am J Physiol '\"Drink at least eight glasses of water a day.\" Really?'; EFSA 2010 dietary reference values for water; IOM 2005 Dietary Reference Intakes for Water, Potassium, Sodium; Hew-Butler 2015 exercise-associated hyponatraemia consensus (Clin J Sport Med); Kavouras urine colour/hydration biomarker validation studies; WHO/UKHSA heat-health hydration guidance; ESC/KDIGO fluid restriction in heart failure and CKD",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "«Анаболічне вікно» 30 хвилин після тренування: що показав мета-аналіз Schoenfeld",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Матеріал для тренерів і тих, хто носить шейкер у роздягальню. Мета-аналіз Schoenfeld 2013 (JISSN, 23 дослідження) знайшов, що видима перевага «білка одразу після» зникає після поправки на загальне добове споживання білка — вирішує добова доза (1,6 г/кг як плато за Morton 2018, BJSM, 49 РКД), а не таймінг у 30 хвилин. Що справді має значення: розподіл на 3–4 прийоми, порція 0,4 г/кг, лейцин, і окремий випадок, коли вікно все ж важливе — тренування натщесерце і два тренування в один день. Чесно про суперечність: Schoenfeld 2017 РКД pre- vs post-workout не знайшло різниці. Практичний висновок: перестати рахувати хвилини і почати рахувати грами за день. Розмежування з матеріалом про білково-жировий сніданок (03.08): там таймінг проти кортизолу й глюкози, тут — проти гіпертрофії.",
+      "sources_hint": "Schoenfeld, Aragon & Krieger 2013 JISSN meta-analysis 'nutrient timing'; Morton 2018 BJSM protein dose-response meta-analysis (49 RCTs); Aragon & Schoenfeld 2013 'Nutrient timing revisited'; Schoenfeld 2017 PeerJ pre- vs post-workout protein RCT; ISSN position stand on protein and exercise 2017; Trommelen & van Loon 2021 overnight protein",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Плацебо, про яке пацієнт знає, що це плацебо, — і воно все одно працює",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Найдивніший результат сучасної медицини простою мовою: open-label placebo — пігулки, на упаковці яких написано «плацебо», — у РКД зменшують симптоми при СРК, хронічному болю в спині, втомі після онкотерапії та мігрені. Мета-аналіз open-label placebo (2021, Sci Rep, 11 РКД) дає помірний ефект. Що це насправді означає і чого не означає: плацебо змінює суб'єктивне переживання симптому (біль, нудота, втома), а не пухлину, інфекцію чи рівень глюкози — і саме на цій підміні будується вся альтернативна медицина. Практичний висновок для читача: якщо «щось допомагає» — це не привід відмовлятися від лікування і не доказ механізму, який продають на етикетці. Це також рамка для читання власних матеріалів про добавки й девайси: чому несліпі дослідження варто дисконтувати.",
+      "sources_hint": "Kaptchuk 2010 PLoS ONE open-label placebo IBS RCT; Carvalho 2016 PAIN chronic low back pain OLP RCT; von Wernsdorff 2021 Scientific Reports meta-analysis of open-label placebo (11 RCTs); Hoenemeyer 2018 Sci Rep cancer-related fatigue; Kam-Hansen 2014 Sci Transl Med migraine labelling trial; Hróbjartsson & Gøtzsche 'Is the placebo powerless?' NEJM 2001",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Панелі червоного світла за 10 тисяч: що доказано для шкіри й болю, а що дописали маркетологи",
+      "type": "guide",
+      "category": "biohacking",
+      "angle": "Claim-check домашньої фотобіомодуляції (red light / NIR панелі, маски). Де докази реальні: невеликі РКД і мета-аналізи показують помірне покращення зморшок і колагену (Wunsch & Matuschka 2014, n=136), користь при андрогенній алопеції та загоєнні ран; FDA-clearance масок — це не доказ ефективності, а класифікація ризику. Де докази слабкі або відсутні: «прискорення метаболізму», схуднення, мітохондріальне «зарядження», відновлення після тренувань (дані суперечливі й частково спонсоровані), і будь-які системні ефекти. Ключове для покупця: значення мають довжина хвилі (630–660 і 810–850 нм), опромінення (мВт/см²) і доза в Дж/см², а більшість продавців цих цифр не дає — це і є головний фільтр. Захист очей і застереження при фотосенсибілізуючих ліках (доксициклін, ретиноїди, звіробій).",
+      "sources_hint": "Wunsch & Matuschka 2014 Photomed Laser Surg RCT; Hamblin 2017 AIMS Biophys mechanisms of photobiomodulation; Cochrane/systematic reviews on LLLT for wound healing and androgenetic alopecia; Vanin 2018 Lasers Med Sci meta-analysis on photobiomodulation and exercise recovery; FDA 510(k) clearance vs efficacy explainer; dose (J/cm²) and biphasic dose response literature",
+      "evidence_level": "preliminary",
+      "priority": 2
+    },
+    {
+      "topic": "Статична розтяжка перед тренуванням: травми вона не запобігає, а силу знижує",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Претензія, яку досі повторюють на шкільних уроках фізкультури і в залах. Кокранівський огляд і РКД на військових новобранцях не показали зниження травматизму від розтяжки до навантаження; мета-аналіз Behm 2016 (Appl Physiol Nutr Metab, 125+ досліджень) показує падіння сили й потужності при утриманні понад 60 секунд, тоді як короткі утримання (<30 с) у складі повноцінної розминки шкоди не роблять. Що працює натомість: динамічна розминка з поступовим зростанням інтенсивності і програми типу FIFA 11+/Nordic hamstring — саме вони мають докази зниження травм. Практичний блок: розминка на 8–10 хвилин по кроках, куди подіти статичну розтяжку (після тренування або окремою сесією, якщо мета — амплітуда). Крос-лінк на матеріал про weekend warrior (31.07), де розминка ≥10 хв уже названа умовою безпечного старту.",
+      "sources_hint": "Herbert & Gabriel BMJ 2002 / Herbert 2011 Cochrane 'Stretching to prevent or reduce muscle soreness'; Behm 2016 Appl Physiol Nutr Metab systematic review on acute static stretching; Lauersen 2014 BJSM meta-analysis on injury prevention exercise; Thorborg 2017 BJSM FIFA 11+ meta-analysis; van Dyk 2019 Nordic hamstring meta-analysis; Blazevich 2018 RCT static vs dynamic warm-up",
+      "evidence_level": "strong",
+      "priority": 3
+    }
+  ],
+  "date": "2026-08-13",
+  "created_at": "2026-08-13T03:03:03.362312+00:00"
+}

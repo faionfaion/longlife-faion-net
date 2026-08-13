@@ -1,0 +1,95 @@
+- generic [active] [ref=f50e1]:
+  - generic [ref=f50e2]:
+    - generic [ref=f50e3]:
+      - generic [ref=f50e7]:
+        - button "Львів arrowHeaderMobile" [ref=f50e9] [cursor=pointer]:
+          - generic [ref=f50e10]:
+            - generic [ref=f50e11]: Львів
+            - img "arrowHeaderMobile" [ref=f50e12]
+        - button [ref=f50e14] [cursor=pointer]:
+          - paragraph [ref=f50e17]: 0 800 503 680
+      - generic [ref=f50e22]:
+        - 'img "Медична лабораторія: аналізи крові якісно та доступно" [ref=f50e24] [cursor=pointer]'
+        - generic [ref=f50e25]:
+          - button "Отримати результат" [ref=f50e26] [cursor=pointer]
+          - generic [ref=f50e29] [cursor=pointer]
+    - generic [ref=f50e35]:
+      - generic [ref=f50e36]:
+        - heading "Дослідження" [level=3] [ref=f50e37]
+        - list [ref=f50e38]:
+          - listitem [ref=f50e39]: HCV вірус гепатиту С (ПЛР) (кількісне визначення)
+      - generic [ref=f50e40]:
+        - heading "Матеріал" [level=3] [ref=f50e41]
+        - list [ref=f50e42]:
+          - listitem [ref=f50e43]: плазма крові
+    - generic [ref=f50e45]:
+      - generic [ref=f50e46]:
+        - link "Аналізи" [ref=f50e47] [cursor=pointer]:
+          - /url: /analysis
+        - text: /
+      - generic [ref=f50e50]:
+        - heading "Вірус гепатиту С (HCV) (ПЛР, кількісне визначення)" [level=1] [ref=f50e53]
+        - list [ref=f50e55]:
+          - listitem [ref=f50e56]: Термін виконання2 дні
+          - listitem [ref=f50e57]: Знижка доступна тільки при оплаті на сайті
+      - paragraph [ref=f50e59]:
+        - generic [ref=f50e60]: 1692.00грн
+        - generic [ref=f50e61]: 1880.00грн
+      - button "Замовити" [ref=f50e63] [cursor=pointer]
+    - generic [ref=f50e67]:
+      - tablist [ref=f50e71]:
+        - tab "Опис" [selected] [ref=f50e72] [cursor=pointer]
+        - tab "Підготовка" [ref=f50e74] [cursor=pointer]
+        - tab "Відгуки" [ref=f50e76] [cursor=pointer]
+      - generic [ref=f50e83]:
+        - generic [ref=f50e84]:
+          - heading "Дослідження" [level=3] [ref=f50e85]
+          - list [ref=f50e86]:
+            - listitem [ref=f50e87]: HCV вірус гепатиту С (ПЛР) (кількісне визначення)
+        - generic [ref=f50e88]:
+          - heading "Матеріал" [level=3] [ref=f50e89]
+          - list [ref=f50e90]:
+            - listitem [ref=f50e91]: плазма крові
+    - generic [ref=f50e95]:
+      - heading "Популярні аналізи" [level=2] [ref=f50e96]
+      - generic [ref=f50e97]:
+        - img "Стрілка" [ref=f50e98] [cursor=pointer]
+        - img "Стрілка" [ref=f50e99] [cursor=pointer]
+    - generic [ref=f50e101]:
+      - generic [ref=f50e102]:
+        - link [ref=f50e103] [cursor=pointer]:
+          - /url: /privacy-policy
+          - paragraph [ref=f50e104]: Ми використовуємо файли Cookie для максимальної функціональності сайту.
+          - paragraph [ref=f50e105]: Дізнайтесь більше в розділі Політика конфіденційності.
+        - paragraph [ref=f50e106]: Натиснувши Прийняти, Ви погоджуєтесь на використання файлів Cookie на нашому сайті.
+      - button "Прийняти" [ref=f50e108] [cursor=pointer]
+    - generic [ref=f50e111]:
+      - generic [ref=f50e112]:
+        - generic [ref=f50e113]:
+          - button [ref=f50e116] [cursor=pointer]:
+            - paragraph [ref=f50e119]: 0 800 503 680
+          - link "support@esculab.com" [ref=f50e123] [cursor=pointer]:
+            - /url: mailto:support@esculab.com
+        - generic [ref=f50e125]:
+          - paragraph [ref=f50e126]: Підписуйся на знижки
+          - textbox "example@email.com" [ref=f50e132]
+          - button "Підписатись" [ref=f50e134] [cursor=pointer]
+      - generic [ref=f50e136]:
+        - paragraph [ref=f50e137]: Завантажуй наш застосунок
+        - generic [ref=f50e138]:
+          - img "google-play" [ref=f50e139] [cursor=pointer]
+          - img "app-store" [ref=f50e140] [cursor=pointer]
+      - generic [ref=f50e141]:
+        - img [ref=f50e143] [cursor=pointer]
+        - img [ref=f50e147] [cursor=pointer]
+        - img [ref=f50e151] [cursor=pointer]
+      - paragraph [ref=f50e160]: © 2009-2026 | ПСМЛ «Ескулаб»
+      - generic [ref=f50e161] [cursor=pointer]: IT партнер MZ-group
+      - generic [ref=f50e162] [cursor=pointer]
+      - generic [ref=f50e166]:
+        - paragraph [ref=f50e172]: Аналізи
+        - paragraph [ref=f50e178]: Акції
+        - paragraph [ref=f50e183]: Адреси
+        - paragraph [ref=f50e189]: Кошик
+        - paragraph [ref=f50e194]: Вхід
+  - alert [ref=f50e195]

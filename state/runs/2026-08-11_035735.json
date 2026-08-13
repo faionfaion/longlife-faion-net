@@ -1,0 +1,74 @@
+{
+  "timestamp": "2026-08-11_035735",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "peroralnyi-glp1-orforglipron-mhra-tabletka-vs-ukol-2026",
+  "author": "Віта",
+  "duration_s": 3271.3,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 323.2,
+      "error": null
+    },
+    {
+      "name": "research:Таблетка замість уколу: що пок",
+      "status": "ok",
+      "duration_s": 381.1,
+      "error": null
+    },
+    {
+      "name": "generate:Таблетка замість уколу: що пок",
+      "status": "ok",
+      "duration_s": 228.2,
+      "error": null
+    },
+    {
+      "name": "review:Таблетка замість уколу: що пок",
+      "status": "ok",
+      "duration_s": 1199.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Таблетка замість уколу: що пок",
+      "status": "ok",
+      "duration_s": 20.4,
+      "error": null
+    },
+    {
+      "name": "material_images:Таблетка замість уколу: що пок",
+      "status": "ok",
+      "duration_s": 256.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Таблетка замість уколу: що пок",
+      "status": "ok",
+      "duration_s": 12.5,
+      "error": null
+    },
+    {
+      "name": "save:Таблетка замість уколу: що пок",
+      "status": "ok",
+      "duration_s": 845.8,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.2,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}

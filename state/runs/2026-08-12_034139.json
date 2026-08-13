@@ -1,0 +1,98 @@
+{
+  "timestamp": "2026-08-12_034139",
+  "status": "empty",
+  "dry_run": false,
+  "slug": "",
+  "author": "Віта",
+  "duration_s": 2316.1,
+  "image_generated": false,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 340.7,
+      "error": null
+    },
+    {
+      "name": "research:Гепатит С: Англія майже перемо",
+      "status": "ok",
+      "duration_s": 942.0,
+      "error": null
+    },
+    {
+      "name": "generate:Гепатит С: Англія майже перемо",
+      "status": "ok",
+      "duration_s": 312.7,
+      "error": null
+    },
+    {
+      "name": "review:Гепатит С: Англія майже перемо",
+      "status": "ok",
+      "duration_s": 672.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Гепатит С: Англія майже перемо",
+      "status": "failed",
+      "duration_s": 4.5,
+      "error": "Claude Code returned an error result: success"
+    },
+    {
+      "name": "research:Як виміряти тиск удома, щоб ци",
+      "status": "failed",
+      "duration_s": 4.7,
+      "error": "Claude Code returned an error result: success"
+    },
+    {
+      "name": "research:Ефект ноцебо: чому людина відч",
+      "status": "failed",
+      "duration_s": 4.5,
+      "error": "Claude Code returned an error result: success"
+    },
+    {
+      "name": "research:«Блакитні зони» під сумнівом: ",
+      "status": "failed",
+      "duration_s": 4.6,
+      "error": "Claude Code returned an error result: success"
+    },
+    {
+      "name": "research:Електросамокати і діти: що пок",
+      "status": "failed",
+      "duration_s": 4.5,
+      "error": "Claude Code returned an error result: success"
+    },
+    {
+      "name": "research:Заминка після тренування: чому",
+      "status": "failed",
+      "duration_s": 4.5,
+      "error": "Claude Code returned an error result: success"
+    },
+    {
+      "name": "research:Розторопша, артишок і «чистка ",
+      "status": "failed",
+      "duration_s": 4.6,
+      "error": "Claude Code returned an error result: success"
+    },
+    {
+      "name": "research:Скільки відпочивати між підход",
+      "status": "failed",
+      "duration_s": 4.9,
+      "error": "Claude Code returned an error result: success"
+    },
+    {
+      "name": "research:Червоне світло і LED-маски: що",
+      "status": "failed",
+      "duration_s": 4.7,
+      "error": "Claude Code returned an error result: success"
+    },
+    {
+      "name": "research:Буряковий сік для витривалості",
+      "status": "failed",
+      "duration_s": 4.6,
+      "error": "Claude Code returned an error result: success"
+    }
+  ]
+}

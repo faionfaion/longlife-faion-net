@@ -1,0 +1,506 @@
+- generic [ref=f35e3]:
+  - generic [ref=f35e4]:
+    - banner [ref=f35e5]:
+      - generic [ref=f35e6]:
+        - generic [ref=f35e7]:
+          - link [ref=f35e9] [cursor=pointer]:
+            - /url: /
+            - img "Головна" [ref=f35e10]
+          - generic [ref=f35e14]:
+            - generic [ref=f35e16]:
+              - generic [ref=f35e17]: для клієнтів
+              - link "0 800 330 075" [ref=f35e19] [cursor=pointer]:
+                - /url: tel:0800330075
+            - generic [ref=f35e21]:
+              - generic [ref=f35e22]: для клієнтів НСЗУ
+              - link "(044) 390 90 75" [ref=f35e24] [cursor=pointer]:
+                - /url: tel:0443909075
+          - generic [ref=f35e26]:
+            - link "Отримати результат" [ref=f35e28] [cursor=pointer]:
+              - /url: https://my.csdlab.ua/login
+            - link "Особистий кабінет" [ref=f35e30] [cursor=pointer]:
+              - /url: https://my.csdlab.ua/login
+          - generic:
+            - generic [ref=f35e31]: Пошук
+            - generic:
+              - generic:
+                - generic:
+                  - textbox "Пошук, наприклад, глюкоза" [ref=f35e32]
+                  - button "Знайти" [ref=f35e34] [cursor=pointer]
+        - generic [ref=f35e35]: Меню
+    - main [ref=f35e37]:
+      - generic [ref=f35e38]:
+        - generic [ref=f35e41]:
+          - generic [ref=f35e42]:
+            - link "Головна" [ref=f35e44] [cursor=pointer]:
+              - /url: https://www.csdlab.ua/
+            - text: ›
+            - link "Аналізи і ціни" [ref=f35e46] [cursor=pointer]:
+              - /url: https://www.csdlab.ua/analyzes
+            - text: ›
+            - link "Дослідження на інфекції" [ref=f35e48] [cursor=pointer]:
+              - /url: https://www.csdlab.ua/analyzes/doslidzhennya-na-infekcii
+            - text: ›Гепатити
+          - generic [ref=f35e49]: Аналізи і ціни
+        - complementary [ref=f35e50]:
+          - generic [ref=f35e52]:
+            - generic [ref=f35e54]:
+              - generic [ref=f35e55]:
+                - link "Всі аналізи" [ref=f35e57] [cursor=pointer]:
+                  - /url: /analyzes
+                - link "За алфавітом" [ref=f35e59] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - textbox "Пошук за назвою" [ref=f35e61]
+              - button "Знайти" [ref=f35e63] [cursor=pointer]
+            - generic [ref=f35e64]: Переглянути всі дослідження
+        - generic [ref=f35e70]:
+          - generic [ref=f35e71]:
+            - heading "Гепатити" [level=1] [ref=f35e72]
+            - generic [ref=f35e73]:
+              - generic [ref=f35e74]: "Ваше місце розташування:"
+              - generic [ref=f35e75] [cursor=pointer]: Київ
+          - table [ref=f35e77]:
+            - rowgroup [ref=f35e78]:
+              - row [ref=f35e79]:
+                - columnheader "Код" [ref=f35e80]
+                - columnheader "Назва" [ref=f35e81]
+                - columnheader "Термін виконання" [ref=f35e82]
+                - columnheader "Ціна" [ref=f35e83]
+                - columnheader [ref=f35e84]
+            - rowgroup [ref=f35e85]:
+              - row [ref=f35e86]:
+                - cell "S013ENG" [ref=f35e87]
+                - cell [ref=f35e88]:
+                  - link "Вірус гепатиту C, антитіла сумарні [UA/ENG]" [ref=f35e89] [cursor=pointer]:
+                    - /url: /analyzes/hepatyty/virus-hepatytu-c-hcv-antytila-sumarni-ua-eng-1
+                - cell "24 годин(а)" [ref=f35e90]
+                - cell "560 грн" [ref=f35e91]
+                - cell "Додати" [ref=f35e92]
+              - row [ref=f35e94]:
+                - cell "S012" [ref=f35e95]
+                - cell [ref=f35e96]:
+                  - link "Вірус гепатиту А, IgМ" [ref=f35e97] [cursor=pointer]:
+                    - /url: /analyzes/hepatyty/virus-hepatytu-hav-igm
+                - cell "2.5 робочих дні(в)" [ref=f35e98]
+                - cell "430 грн" [ref=f35e99]
+                - cell "Додати" [ref=f35e100]
+              - row [ref=f35e102]:
+                - cell "S014" [ref=f35e103]
+                - cell [ref=f35e104]:
+                  - link "Вірус гепатиту А, антитіла сумарні" [ref=f35e105] [cursor=pointer]:
+                    - /url: /analyzes/hepatyty/virus-hepatytu-hav-antytila-sumarni
+                - cell "24 годин(а)" [ref=f35e106]
+                - cell "500 грн" [ref=f35e107]
+                - cell "Додати" [ref=f35e108]
+              - row [ref=f35e110]:
+                - cell "P003" [ref=f35e111]
+                - cell [ref=f35e112]:
+                  - link "ПЛР. Вірус гепатиту А (якісно)" [ref=f35e113] [cursor=pointer]:
+                    - /url: /analyzes/hepatyt-hav/plr-virus-hepatytu-hav-yakisne-vyznachennya
+                - cell "3 робочих дні(в)" [ref=f35e114]
+                - cell "550 грн" [ref=f35e115]
+                - cell "Додати" [ref=f35e116]
+              - row [ref=f35e118]:
+                - cell "S004" [ref=f35e119]
+                - cell [ref=f35e120]:
+                  - link "Вірус гепатиту B, HBcorAg, IgM" [ref=f35e121] [cursor=pointer]:
+                    - /url: /analyzes/hepatyty/virus-hepatytu-b-hbv-hbcorag-igm
+                - cell "24 годин(а)" [ref=f35e122]
+                - cell "460 грн" [ref=f35e123]
+                - cell "Додати" [ref=f35e124]
+              - row [ref=f35e126]:
+                - cell "S005" [ref=f35e127]
+                - cell [ref=f35e128]:
+                  - link "Вірус гепатиту B, HBcorAg, антитіла сумарні" [ref=f35e129] [cursor=pointer]:
+                    - /url: /analyzes/prenatalna-diahnostyka/virus-hepatytu-b-hbv-hbcorag-antytila-sumarni
+                - cell "24 годин(а)" [ref=f35e130]
+                - cell "500 грн" [ref=f35e131]
+                - cell "Додати" [ref=f35e132]
+              - row [ref=f35e134]:
+                - cell "S006" [ref=f35e135]
+                - cell [ref=f35e136]:
+                  - link "Вірус гепатиту B, HBeAg" [ref=f35e137] [cursor=pointer]:
+                    - /url: /analyzes/hepatyty/virus-hepatytu-b-hbv-hbeag
+                - cell "24 годин(а)" [ref=f35e138]
+                - cell "540 грн" [ref=f35e139]
+                - cell "Додати" [ref=f35e140]
+              - row [ref=f35e142]:
+                - cell "S007" [ref=f35e143]
+                - cell [ref=f35e144]:
+                  - link "Вірус гепатиту B, anti HBe, антитіла сумарні" [ref=f35e145] [cursor=pointer]:
+                    - /url: /analyzes/hepatyty/virus-hepatytu-b-hbv-anti-hbe-antytila-sumarni
+                - cell "24 годин(а)" [ref=f35e146]
+                - cell "610 грн" [ref=f35e147]
+                - cell "Додати" [ref=f35e148]
+              - row [ref=f35e150]:
+                - cell "S008" [ref=f35e151]
+                - cell [ref=f35e152]:
+                  - link "Вірус гепатиту B, HBsAg" [ref=f35e153] [cursor=pointer]:
+                    - /url: /analyzes/hepatyty/virus-hepatytu-b-hbv-hbsag
+                - cell "24 годин(а)" [ref=f35e154]
+                - cell "450 грн" [ref=f35e155]
+                - cell "Додати" [ref=f35e156]
+              - row [ref=f35e158]:
+                - cell "S008.ENG" [ref=f35e159]
+                - cell [ref=f35e160]:
+                  - link "Вірус гепатиту B, HBsAg UA/ENG" [ref=f35e161] [cursor=pointer]:
+                    - /url: /analyzes/hepatyty/virus-hepatytu-b-hbv-hbsag-ua-eng-0
+                - cell "24 годин(а)" [ref=f35e162]
+                - cell "490 грн" [ref=f35e163]
+                - cell "Додати" [ref=f35e164]
+              - row [ref=f35e166]:
+                - cell "S009" [ref=f35e167]
+                - cell [ref=f35e168]:
+                  - link "Вірус гепатиту B, anti HBs, антитіла сумарні" [ref=f35e169] [cursor=pointer]:
+                    - /url: /analyzes/hepatyty/virus-hepatytu-b-hbv-anti-hbs-antytila-sumarni
+                - cell "24 годин(а)" [ref=f35e170]
+                - cell "840 грн" [ref=f35e171]
+                - cell "Додати" [ref=f35e172]
+              - row [ref=f35e174]:
+                - cell "S010" [ref=f35e175]
+                - cell [ref=f35e176]:
+                  - link "Вірус гепатиту B, HBsAg, кількісне визначення" [ref=f35e177] [cursor=pointer]:
+                    - /url: /analyzes/prenatalna-diahnostyka/virus-hepatytu-b-hbv-hbsag-kilkisne-vyznachennya-n
+                - cell "5 робочих дні(в)" [ref=f35e178]
+                - cell "640 грн" [ref=f35e179]
+                - cell "Додати" [ref=f35e180]
+              - row [ref=f35e182]:
+                - cell "P011" [ref=f35e183]
+                - cell [ref=f35e184]:
+                  - link "ПЛР. Вірус гепатиту B (якісно)" [ref=f35e185] [cursor=pointer]:
+                    - /url: /analyzes/hepatyt-v-hbv/plr-virus-hepatytu-b-hbv-yakisne-vyznachennya
+                - cell "3 робочих дні(в)" [ref=f35e186]
+                - cell "900 грн" [ref=f35e187]
+                - cell "Додати" [ref=f35e188]
+              - row [ref=f35e190]:
+                - cell "P012" [ref=f35e191]
+                - cell [ref=f35e192]:
+                  - link "ПЛР. Вірус гепатиту B (кількісно)" [ref=f35e193] [cursor=pointer]:
+                    - /url: /analyzes/hepatyt-v-hbv/plr-virus-hepatytu-b-hbv-kilkisne-vyznachennya
+                - cell "3 робочих дні(в)" [ref=f35e194]
+                - cell "1430 грн" [ref=f35e195]
+                - cell "Додати" [ref=f35e196]
+              - row [ref=f35e198]:
+                - cell "S013" [ref=f35e199]
+                - cell [ref=f35e200]:
+                  - link "Вірус гепатиту C, антитіла сумарні" [ref=f35e201] [cursor=pointer]:
+                    - /url: /analyzes/prenatalna-diahnostyka/virus-hepatytu-c-hcv-antytila-sumarni
+                - cell "24 годин(а)" [ref=f35e202]
+                - cell "520 грн" [ref=f35e203]
+                - cell "Додати" [ref=f35e204]
+              - row [ref=f35e206]:
+                - cell "P014" [ref=f35e207]
+                - cell [ref=f35e208]:
+                  - link "ПЛР. Вірус гепатиту C (якісно)" [ref=f35e209] [cursor=pointer]:
+                    - /url: /analyzes/hepatyt-s-hcv/plr-virus-hepatytu-c-hcv-yakisne-vyznachennya
+                - cell "3 робочих дні(в)" [ref=f35e210]
+                - cell "850 грн" [ref=f35e211]
+                - cell "Додати" [ref=f35e212]
+              - row [ref=f35e214]:
+                - cell "P014.ENG" [ref=f35e215]
+                - cell [ref=f35e216]:
+                  - link "ПЛР. Вірус гепатиту C (якісно) [UA/ENG]" [ref=f35e217] [cursor=pointer]:
+                    - /url: /analyzes/hepatyty/plr-virus-hepatytu-c-hcv-yakisne-vyznachennya-krov-plazmaua-eng
+                - cell "3 робочих дні(в)" [ref=f35e218]
+                - cell "890 грн" [ref=f35e219]
+                - cell "Додати" [ref=f35e220]
+              - row [ref=f35e222]:
+                - cell "P015" [ref=f35e223]
+                - cell [ref=f35e224]:
+                  - link "ПЛР. Вірус гепатиту C (кількісно)" [ref=f35e225] [cursor=pointer]:
+                    - /url: /analyzes/hepatyt-s-hcv/plr-virus-hepatytu-c-hcv-kilkisne-vyznachennya
+                - cell "3 робочих дні(в)" [ref=f35e226]
+                - cell "1850 грн" [ref=f35e227]
+                - cell "Додати" [ref=f35e228]
+              - row [ref=f35e230]:
+                - cell "S152" [ref=f35e231]
+                - cell [ref=f35e232]:
+                  - link "Гепатит С, антитіла (Immunoblot)" [ref=f35e233] [cursor=pointer]:
+                    - /url: /analyzes/hepatyty/hepatyt-s-hcv-antytila-immunoblot-n-0
+                - cell "28 робочих дні(в)" [ref=f35e234]
+                - cell "3750 грн" [ref=f35e235]
+                - cell "Додати" [ref=f35e236]
+              - row [ref=f35e238]:
+                - cell "S017" [ref=f35e239]
+                - cell [ref=f35e240]:
+                  - link "Вірус гепатиту D, антитіла сумарні" [ref=f35e241] [cursor=pointer]:
+                    - /url: /analyzes/hepatyty/virus-hepatytu-d-hdv-antytila-sumarni
+                - cell "5 робочих дні(в)" [ref=f35e242]
+                - cell "700 грн" [ref=f35e243]
+                - cell "Додати" [ref=f35e244]
+              - row [ref=f35e246]:
+                - cell "P018" [ref=f35e247]
+                - cell [ref=f35e248]:
+                  - link "ПЛР. Вірус гепатиту D (якісно)" [ref=f35e249] [cursor=pointer]:
+                    - /url: /analyzes/hepatyt-d-hdv/plr-virus-hepatytu-d-hdv-yakisne-vyznachennya
+                - cell "3 робочих дні(в)" [ref=f35e250]
+                - cell "660 грн" [ref=f35e251]
+                - cell "Додати" [ref=f35e252]
+      - generic [ref=f35e256]:
+        - generic [ref=f35e257]: Аналізи на вірусні гепатити (A, B, C, D)
+        - generic [ref=f35e258]:
+          - paragraph [ref=f35e259]: "Гепатит - це запальне захворювання печінки, що може мати різноманітну етіологію: вірусну, токсичну, аутоімунну чи метаболічну. Хвороба при несвоєчасному лікуванні може прогресувати до фіброзу, цирозу або гепатоцелюлярної карциноми. Вірусний гепатит залишається однією з найпоширеніших причин ураження печінки по всьому світу."
+          - paragraph [ref=f35e260]: Лабораторна діагностика відіграє важливу роль у виявленні хвороби на ранніх стадіях. Своєчасне проведення аналізу на гепатит дозволяє не лише встановити діагноз, але й визначити тип вірусу, стадію захворювання та активність інфекційного процесу.
+          - heading "Коли необхідне тестування на гепатит" [level=2] [ref=f35e261]
+          - paragraph [ref=f35e262]: "Тест на гепатит рекомендовано пройти у таких випадках:"
+          - heading "При появі клінічних симптомів ураження печінки:" [level=3] [ref=f35e263]
+          - list [ref=f35e264]:
+            - listitem [ref=f35e265]: Жовтяниця шкіри та склер
+            - listitem [ref=f35e266]: Темний колір сечі та світлий кал
+            - listitem [ref=f35e267]: Біль або дискомфорт у правому підребер'ї
+            - listitem [ref=f35e268]: Нудота, блювання, втрата апетиту
+            - listitem [ref=f35e269]: Необґрунтована слабкість, втомлюваність
+          - heading "Для профілактичного обстеження:" [level=3] [ref=f35e270]
+          - list [ref=f35e271]:
+            - listitem [ref=f35e272]: Планові медичні огляди
+            - listitem [ref=f35e273]: Обстеження перед оперативними втручаннями
+            - listitem [ref=f35e274]: Підготовка до вагітності
+            - listitem [ref=f35e275]: Донорство крові та органів
+            - listitem [ref=f35e276]: Медичні працівники та особи з підвищеним ризиком інфікування
+          - heading "Для динамічного лабораторного спостереження за перебігом захворювання:" [level=3] [ref=f35e277]
+          - list [ref=f35e278]:
+            - listitem [ref=f35e279]: Контроль ефективності противірусної терапії
+            - listitem [ref=f35e280]: Оцінка динаміки захворювання
+            - listitem [ref=f35e281]: Виявлення рецидивів
+          - heading "Види лабораторних аналізів на гепатит у CSD LAB" [level=2] [ref=f35e282]
+          - heading "Серологічні дослідження" [level=3] [ref=f35e283]
+          - paragraph [ref=f35e284]: "Серологічні тести на гепатит дозволяють виявити антигени вірусів та специфічні антитіла:"
+          - paragraph [ref=f35e285]:
+            - strong [ref=f35e286]: "Маркери гепатиту B:"
+          - list [ref=f35e287]:
+            - listitem [ref=f35e288]: HBsAg (поверхневий антиген) - основний маркер інфікування
+            - listitem [ref=f35e289]: Anti-HBc (ядрові антитіла) - свідчать про наявність інфекції
+            - listitem [ref=f35e290]: HBeAg та Anti-HBe - характеризують активність реплікації вірусу
+          - paragraph [ref=f35e291]:
+            - strong [ref=f35e292]: "Маркери гепатиту C:"
+          - list [ref=f35e293]:
+            - listitem [ref=f35e294]: Anti-HCV - вказує на контакт із вірусом
+            - listitem [ref=f35e295]: Core-antigen - свідчить про активну реплікацію
+          - paragraph [ref=f35e296]:
+            - strong [ref=f35e297]: "Маркери гепатиту A:"
+          - list [ref=f35e298]:
+            - listitem [ref=f35e299]: Anti-HAV IgM - гостра інфекція
+            - listitem [ref=f35e300]: Anti-HAV IgG - перенесене захворювання
+          - heading "Молекулярно-генетичні методи (ПЛР)" [level=3] [ref=f35e301]
+          - paragraph [ref=f35e302]: "Аналіз крові на гепатит методом ПЛР дозволяє:"
+          - list [ref=f35e303]:
+            - listitem [ref=f35e304]: Виявити ДНК/РНК вірусу в крові
+            - listitem [ref=f35e305]: Визначити вірусне навантаження
+            - listitem [ref=f35e306]: Проводити генотипування вірусів
+            - listitem [ref=f35e307]: Моніторити ефективність лікування
+          - heading "Біохімічні дослідження" [level=3] [ref=f35e308]
+          - paragraph [ref=f35e309]: "Аналіз гепатит включає оцінку функції печінки:"
+          - list [ref=f35e310]:
+            - listitem [ref=f35e311]: АЛТ (аланінамінотрансфераза)
+            - listitem [ref=f35e312]: АСТ (аспартатамінотрансфераза)
+            - listitem [ref=f35e313]: Білірубін (загальний, прямий)
+            - listitem [ref=f35e314]: Загальний білок та фракції
+            - listitem [ref=f35e315]: ГГТ (гама-глутамілтрансфераза)
+          - heading "Значення лабораторної діагностики в лікуванні гепатиту" [level=2] [ref=f35e316]
+          - paragraph [ref=f35e317]: "Комплексна діагностика гепатитів дозволяє:"
+          - list [ref=f35e318]:
+            - listitem [ref=f35e319]: Встановити точний діагноз та визначити етіологію захворювання
+            - listitem [ref=f35e320]: Оцінити активність і стадію патологічного процесу
+            - listitem [ref=f35e321]: Контролювати ефективність терапії
+            - listitem [ref=f35e322]: Прогнозувати перебіг захворювання
+            - listitem [ref=f35e323]: Виявляти ускладнення на ранніх стадіях
+          - paragraph [ref=f35e324]: Здача крові на гепатит для ПЛР-дослідження дозволяє точно оцінити вірусне навантаження, що є важливим лабораторним показником, який використовується лікарем при оцінці перебігу захворювання.
+          - heading "Підготовка до здачі аналізів" [level=2] [ref=f35e325]
+          - paragraph [ref=f35e326]: "Для отримання достовірних результатів аналізів на гепатит рекомендується:"
+          - list [ref=f35e327]:
+            - listitem [ref=f35e328]: Здавати кров вранці натщесерце (8-12 годин голодування)
+            - listitem [ref=f35e329]: Уникнути вживання алкоголю за 48 годин до дослідження
+            - listitem [ref=f35e330]: Повідомити лікаря про прийом лікарських препаратів
+            - listitem [ref=f35e331]: Уникнути інтенсивного фізичного навантаження перед дослідженням
+            - listitem [ref=f35e332]: Не палити за 1-2 години до здачі крові
+          - heading "Інтерпретація результатів аналізів на гепатит" [level=2] [ref=f35e333]
+          - paragraph [ref=f35e334]: "Інтерпретацію результатів гепатит тесту проводить лікар з урахуванням клінічної картини та анамнезу:"
+          - list [ref=f35e335]:
+            - listitem [ref=f35e336]: Позитивний HBsAg свідчить про наявність інфекції гепатиту B
+            - listitem [ref=f35e337]: Позитивний Anti-HCV вказує на контакт із вірусом гепатиту C
+            - listitem [ref=f35e338]: Виявлення ДНК/РНК вірусу підтверджує активну реплікацію збудника
+            - listitem [ref=f35e339]: Підвищення АЛТ/АСТ свідчить про цитоліз гепатоцитів
+          - paragraph [ref=f35e340]: "При отриманні позитивних результатів рекомендовано:"
+          - list [ref=f35e341]:
+            - listitem [ref=f35e342]: Повторне підтверджувальне тестування
+            - listitem [ref=f35e343]: Консультація інфекціоніста або гастроентеролога
+            - listitem [ref=f35e344]: Додаткові обстеження для оцінки стану печінки
+            - listitem [ref=f35e345]: Обстеження контактних осіб
+          - heading "Переваги лабораторної діагностики гепатиту в CSD LAB" [level=2] [ref=f35e346]
+          - paragraph [ref=f35e347]: "Лабораторія CSD пропонує повний спектр досліджень для діагностики гепатитів:"
+          - list [ref=f35e348]:
+            - listitem [ref=f35e349]: Сучасне обладнання провідних виробників
+            - listitem [ref=f35e350]: Високочутливі та специфічні тест-системи
+            - listitem [ref=f35e351]: Дотримання міжнародних стандартів якості
+            - listitem [ref=f35e352]: Швидкі терміни виконання досліджень
+            - listitem [ref=f35e353]: Конфіденційність результатів
+            - listitem [ref=f35e354]: Професійна консультація фахівців
+          - paragraph [ref=f35e355]: Ціна аналіза на гепатит є доступною для різних категорій пацієнтів. Скільки коштує дослідження можна дізнатися на сайті або у контакт-центрі лабораторії.
+          - heading "Як замовити аналізи на гепатит у CSD LAB" [level=2] [ref=f35e356]
+          - paragraph [ref=f35e357]: "Здати аналіз на гепатит у лабораторії можна кількома способами:"
+          - list [ref=f35e358]:
+            - listitem [ref=f35e359]: Онлайн-запис через форму на сайті
+            - listitem [ref=f35e360]: За телефонами контакт-центру
+            - listitem [ref=f35e361]: Безпосередньо у відділеннях лабораторії
+          - paragraph [ref=f35e362]: "Результати досліджень видаються у зручному форматі:"
+          - list [ref=f35e363]:
+            - listitem [ref=f35e364]: Електронною поштою
+            - listitem [ref=f35e365]: Через особистий кабінет на сайті
+            - listitem [ref=f35e366]: У паперовому вигляді у відділенні
+          - paragraph [ref=f35e367]: Своєчасна діагностика гепатитів є важливим етапом у веденні пацієнтів та запобігання серйозних ускладнень. Регулярне проходження профілактичних обстежень дозволяє виявити захворювання на ранніх стадіях, коли лікування найбільш ефективне.
+          - paragraph [ref=f35e368]: У лабораторії CSD проводяться лабораторні дослідження крові на гепатити відповідно до встановлених методик. Результати аналізів є лабораторною інформацією, що враховується лікарем під час клінічного прийняття рішень.
+          - paragraph [ref=f35e369]: Не відкладайте обстеження на потім - дбайте про своє здоров'я вчасно!
+  - contentinfo [ref=f35e370]:
+    - generic [ref=f35e376]:
+      - link "Facebook" [ref=f35e378] [cursor=pointer]:
+        - /url: https://www.facebook.com/csdlab.ua/
+      - link "Instagram" [ref=f35e380] [cursor=pointer]:
+        - /url: https://www.instagram.com/csd_lab/
+      - link "YouTube" [ref=f35e382] [cursor=pointer]:
+        - /url: https://www.youtube.com/channel/UCcoyXbzqwK17KSQDIeC1-MQ
+    - generic [ref=f35e384]:
+      - generic [ref=f35e387]:
+        - link "Гепатити — Фото 1":
+          - /url: https://www.csdlab.ua/
+          - img "Гепатити — Фото 1"
+      - link "Отримати результат" [ref=f35e391] [cursor=pointer]:
+        - /url: https://my.csdlab.ua/login
+      - generic [ref=f35e395]:
+        - textbox "Пошук, наприклад, глюкоза" [ref=f35e397]
+        - button "Знайти" [ref=f35e399] [cursor=pointer]
+      - navigation [ref=f35e401]:
+        - list [ref=f35e402]:
+          - listitem [ref=f35e403]:
+            - generic [ref=f35e404]: Дослідження
+            - list [ref=f35e405]:
+              - listitem [ref=f35e406]:
+                - link "Аналізи і ціни" [ref=f35e407] [cursor=pointer]:
+                  - /url: /analyzes
+              - listitem [ref=f35e408]:
+                - link "Скринінг тести" [ref=f35e409] [cursor=pointer]:
+                  - /url: /screening-tests
+              - listitem [ref=f35e410]:
+                - link "Діагностичні тести" [ref=f35e411] [cursor=pointer]:
+                  - /url: /diagnostichni-testi
+              - listitem [ref=f35e412]:
+                - link "Де здати аналізи" [ref=f35e413] [cursor=pointer]:
+                  - /url: /pass-tests
+          - listitem [ref=f35e414]:
+            - generic [ref=f35e415]: Лабораторія
+            - list [ref=f35e416]:
+              - listitem [ref=f35e417]:
+                - link "Про лабораторію" [ref=f35e418] [cursor=pointer]:
+                  - /url: /pro-laboratoriyu
+              - listitem [ref=f35e419]:
+                - link "Акції" [ref=f35e420] [cursor=pointer]:
+                  - /url: /promotions
+              - listitem [ref=f35e421]:
+                - link "Новини" [ref=f35e422] [cursor=pointer]:
+                  - /url: /news
+              - listitem [ref=f35e423]:
+                - link "Блог" [ref=f35e424] [cursor=pointer]:
+                  - /url: /blog
+              - listitem [ref=f35e425]:
+                - link "Сертифікати та ліцензії" [ref=f35e426] [cursor=pointer]:
+                  - /url: /quality-standards
+          - listitem [ref=f35e427]:
+            - generic [ref=f35e428]: Партнерам
+            - list [ref=f35e429]:
+              - listitem [ref=f35e430]:
+                - link "Співпраця з нами" [ref=f35e431] [cursor=pointer]:
+                  - /url: /spivpracya-z-nami
+              - listitem [ref=f35e432]:
+                - link "Лікарям" [ref=f35e433] [cursor=pointer]:
+                  - /url: /spivpracya-z-nami/likari
+              - listitem [ref=f35e434]:
+                - link "Медичним центрам" [ref=f35e435] [cursor=pointer]:
+                  - /url: /spivpracya-z-nami/medychni-tsentry
+              - listitem [ref=f35e436]:
+                - link "Франшиза" [ref=f35e437] [cursor=pointer]:
+                  - /url: /development
+          - listitem [ref=f35e438]:
+            - generic [ref=f35e439]: Споживачу
+            - list [ref=f35e440]:
+              - listitem [ref=f35e441]:
+                - link "Особистий кабінет" [ref=f35e442] [cursor=pointer]:
+                  - /url: https://my.csdlab.ua/login
+              - listitem [ref=f35e443]:
+                - link "Отримати результат" [ref=f35e444] [cursor=pointer]:
+                  - /url: https://my.csdlab.ua/login
+              - listitem [ref=f35e445]:
+                - link "Правила підготовки" [ref=f35e446] [cursor=pointer]:
+                  - /url: /rules-of-preparation/analiz-krovi
+              - listitem [ref=f35e447]:
+                - link "Публічний договір (оферта)" [ref=f35e448] [cursor=pointer]:
+                  - /url: /publichnyy-dohovir-oferta
+              - listitem [ref=f35e449]:
+                - link "Політика конфіденційності" [ref=f35e450] [cursor=pointer]:
+                  - /url: /politika-konfidenciynosti
+              - listitem [ref=f35e451]:
+                - link "Політика обробки персональних даних" [ref=f35e452] [cursor=pointer]:
+                  - /url: /politika-obrobki-personalnikh-danikh
+              - listitem [ref=f35e453]:
+                - link "Інформована добровільна згода пацієнта" [ref=f35e454] [cursor=pointer]:
+                  - /url: https://www.csdlab.ua/sites/default/files/text-files/informovana-zhoda.pdf
+              - listitem [ref=f35e455]:
+                - link "Правила перебування відвідувачів в ДЦ" [ref=f35e456] [cursor=pointer]:
+                  - /url: https://www.csdlab.ua/sites/default/files/text-files/pravyla-perebuvannya-patsiyentiv.pdf
+      - generic [ref=f35e458]:
+        - generic [ref=f35e459]: Контакти
+        - generic [ref=f35e461]:
+          - generic [ref=f35e463]:
+            - generic [ref=f35e464]: для клієнтів
+            - link "0 800 330 075" [ref=f35e466] [cursor=pointer]:
+              - /url: tel:0800330075
+          - generic [ref=f35e468]:
+            - generic [ref=f35e469]: для клієнтів НСЗУ
+            - link "(044) 390 90 75" [ref=f35e471] [cursor=pointer]:
+              - /url: tel:0443909075
+        - generic [ref=f35e472]:
+          - paragraph [ref=f35e473]:
+            - text: "e-mail:"
+            - link "csd@csd.com.ua" [ref=f35e474] [cursor=pointer]:
+              - /url: mailto:csd@csd.com.ua
+          - paragraph [ref=f35e475]: "Графік роботи контакт-центру:Пн-Пт: 7:00-20:00Сб: 8:00-18:00 Нд: 8:00-17:00"
+        - generic [ref=f35e477]:
+          - generic [ref=f35e478]:
+            - generic:
+              - generic:
+                - link "Гепатити":
+                  - /url: https://www.facebook.com/csdlab.ua
+                  - img "Гепатити"
+          - generic [ref=f35e479]:
+            - generic:
+              - generic:
+                - link "Гепатити — Фото 2":
+                  - /url: https://www.instagram.com/csd_lab/
+                  - img "Гепатити — Фото 2"
+          - generic [ref=f35e480]:
+            - generic:
+              - generic:
+                - link "Гепатити — Фото 3":
+                  - /url: https://www.youtube.com/channel/UCcoyXbzqwK17KSQDIeC1-MQ
+                  - img "Гепатити — Фото 3"
+          - generic [ref=f35e481]:
+            - generic:
+              - generic:
+                - link "Гепатити — Фото 4":
+                  - /url: https://www.tiktok.com/@csdlab
+                  - img "Гепатити — Фото 4"
+        - link "Всі відділення" [ref=f35e485] [cursor=pointer]:
+          - /url: https://www.csdlab.ua/take-tests
+      - generic [ref=f35e487]:
+        - paragraph [ref=f35e489]: © 2026 Всі права захищені
+        - generic [ref=f35e490]:
+          - generic [ref=f35e491]: "Наші відділення:"
+          - link "Україна" [ref=f35e494] [cursor=pointer]:
+            - /url: /take-tests
+      - generic [ref=f35e495]:
+        - generic [ref=f35e496]:
+          - img "glyanec.net" [ref=f35e497]
+          - text: Глянець
+        - text: –
+        - link "Розробка сайтів" [ref=f35e498] [cursor=pointer]:
+          - /url: https://glyanec.net/
+  - link "Викликати медсестру " [ref=f35e501] [cursor=pointer]:
+    - /url: javascript:void(0);
