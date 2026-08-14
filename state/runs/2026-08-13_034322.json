@@ -1,0 +1,74 @@
+{
+  "timestamp": "2026-08-13_034322",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "anhliia-hepatyt-c-eliminatsiia-ukraina-hrupa-ryzyku-test",
+  "author": "Віта",
+  "duration_s": 2419.2,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 345.3,
+      "error": null
+    },
+    {
+      "name": "research:Англія майже перемогла гепатит",
+      "status": "ok",
+      "duration_s": 314.0,
+      "error": null
+    },
+    {
+      "name": "generate:Англія майже перемогла гепатит",
+      "status": "ok",
+      "duration_s": 257.8,
+      "error": null
+    },
+    {
+      "name": "review:Англія майже перемогла гепатит",
+      "status": "ok",
+      "duration_s": 1014.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Англія майже перемогла гепатит",
+      "status": "ok",
+      "duration_s": 23.2,
+      "error": null
+    },
+    {
+      "name": "material_images:Англія майже перемогла гепатит",
+      "status": "ok",
+      "duration_s": 257.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Англія майже перемогла гепатит",
+      "status": "ok",
+      "duration_s": 14.0,
+      "error": null
+    },
+    {
+      "name": "save:Англія майже перемогла гепатит",
+      "status": "ok",
+      "duration_s": 188.7,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.1,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}

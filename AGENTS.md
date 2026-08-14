@@ -4,7 +4,7 @@ A blog, not a publication. Vita is a 42-year-old health scientist who reads the 
 and writes in Ukrainian, in the first person, under her own name. There is no editorial
 team and no masthead — that framing is retired everywhere, including in the prompts.
 
-Site: longlife.faion.net, TG: @long_life_media.
+Site: longlife.media, TG: @long_life_media.
 
 ## Structure
 
@@ -17,7 +17,7 @@ Site: longlife.faion.net, TG: @long_life_media.
 | `assets/character/` | Vita's turnaround and wardrobe sheets, fed to the image model |
 | `scripts/` | Cron runner, utilities |
 | `state/` | Runtime state (plans, teasers, posted, logs) |
-| `admin/` | Flask admin panel |
+| `.agents/` | Deep reference — [.agents/INDEX.md](.agents/INDEX.md) |
 
 ## Two hosts
 
@@ -36,16 +36,8 @@ other.
 `run-pipeline.sh` syncs with GitHub in both directions on every run: fetch, rebase
 `--autostash`, push. That is the only channel between the hosts.
 
-## One post a day
-
-| Day | What goes out |
-|-----|---------------|
-| Mon-Thu, Sat | A post: one subject, read properly, with a position |
-| Friday | The week's findings on one theme, gathered |
-| Sunday | The digest: the week's news and the week's posts as one long read |
-
-The weekday decides the kind — `config.post_kind_for()`. Sunday's `generate` returns
-empty because the digest mode owns that day.
+What goes out on which day, and what the blog is about:
+[.agents/editorial.md](.agents/editorial.md).
 
 ## Key Commands
 
@@ -61,7 +53,8 @@ bash scripts/run-pipeline.sh site         # Rebuild the site (web host only)
 
 - **Bot:** @nero_open_bot (shared)
 - **Channel:** @long_life_media
-- **Domain:** longlife.faion.net (Cloudflare DNS -> faion-net nginx)
+- **Domain:** longlife.media (Cloudflare DNS -> faion-net nginx; `longlife.faion.net` is a
+  redirect vhost). Webroot `/var/www/longlife.media`
 - **LLM:** All stages use Claude Opus via Agent SDK
 - **Author:** Віта Зеленко — first person, signed. No "редакція", no institutional "we"
 - **Images:** Codex CLI (`LONGLIFE_IMAGE_PROVIDER=codex`), editorial photography
@@ -81,16 +74,6 @@ bash scripts/run-pipeline.sh site         # Rebuild the site (web host only)
 - Dead RSS feeds (moz.gov.ua, ukrinform, unian, medicalnewstoday) return 404 and are
   tolerated. Working ones: bbc_health, who_news.
 
-## Content Focus
-
-NOT breaking news. Focus on:
-- Evidence-based research summaries
-- Practical guides & lifehacks
-- Healthy eating & nutrition
-- Physical activity & fitness innovations
-- Mental health & longevity
-- Sleep, stress management, biohacking
-
-## Agent memory
-
-Project knowledge carried over from the Claude auto-memory store on 2026-08-12 (decisions, gotchas, incident post-mortems): [.agents/nero-memory.md](.agents/nero-memory.md). Verbatim as written at the time — verify against code before relying on a specific path or number.
+Deploy gotchas that cost a day each — the Gatsby query-result race, the Cloudflare purge,
+a new frontmatter field breaking the build — are in
+[.agents/nero-memory.md](.agents/nero-memory.md); read it before touching `deploy-gh.sh`.

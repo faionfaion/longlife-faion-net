@@ -1,0 +1,96 @@
+{
+  "articles": [
+    {
+      "topic": "Дивився на затемнення без окулярів: коли перевіряти очі і які симптоми не можна пропустити",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Найтерміновіший матеріал дня: вікно симптомів сонячної ретинопатії — 4–48 годин після перегляду, тобто читач, який учора дивився на затемнення, ще встигає зреагувати. Пояснюємо простими словами: болю немає (сітківка не має больових рецепторів), симптоми — пляма в центрі зору, спотворені лінії, зміна сприйняття кольорів; специфічного лікування не існує, більшість випадків частково відновлюється за 3–12 місяців, частина залишає стійку скотому. Окремо — чому звичайні сонцезахисні окуляри, засвічена плівка, зварювальне скло <14 DIN і «через камеру смартфона» не рятують, і що робити батькам дитини, яка «трохи подивилася». Чесно: доказова база — серії випадків і OCT-описи, РКД тут неможливі за визначенням.",
+      "sources_hint": "Royal College of Ophthalmologists eclipse guidance 2026; American Academy of Ophthalmology solar retinopathy patient page and eclipse safety statement; JAMA Ophthalmology 2018 OCT case report of eclipse retinopathy; ISO 12312-2 filter standard and NASA/AAS reputable-vendor list; PubMed: solar retinopathy OCT case series 2017-2025; Ukrainian: перелік дитячих офтальмологів за програмою медгарантій",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Мікропластик у мозку: що насправді виміряли — і чого це дослідження не довело",
+      "type": "research",
+      "category": "research",
+      "angle": "Заголовки про «ложку пластику в мозку» лякають, але вимірювання зроблене на трупному матеріалі методом Py-GC/MS, який має відомі артефакти (ліпіди дають той самий сигнал, що й поліетилен). Розбираємо, що показала робота Nihart/Campen 2025 у Nature Medicine, чому зростання 2016→2024 і вищі концентрації у зразках із деменцією не означають причини (при деменції змінюється проникність ГЕБ і кліренс — класична зворотна причинність), і які поради (менше пляшкової води, не гріти їжу в пластику) виправдані вже зараз як low-cost, а які — ні. Ключова рамка серії: сигнал вимірювання ≠ клінічний наслідок.",
+      "sources_hint": "Nihart et al., Nature Medicine 2025 'Bioaccumulation of microplastics in decedent human brains'; methodological critiques in Environmental Science & Technology and Nature news 2025 on Py-GC/MS lipid artefacts and pyrolysis quantification; WHO 2022 'Dietary and inhalation exposure to nano- and microplastics'; EFSA 2016 statement on microplastics in food; PubMed: microplastics human tissue methodology critique 2025-2026",
+      "evidence_level": "preliminary",
+      "priority": 1
+    },
+    {
+      "topic": "Ультраоброблена їжа: чи винна сама обробка — і що показав перший контрольований експеримент",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Термін NOVA став ярликом, під який потрапляють і чипси, і магазинний хліб, і йогурт. Ключове питання: справа в складі (сіль, цукор, жир, калорійна щільність, м'якість текстури) чи в самій «ультраобробці» як такій. Розбираємо єдине метаболічне RCT Hall 2019, де на UPF-раціоні люди з'їдали на ~500 ккал/день більше при вирівняних макронутрієнтах, свіжіші контрольовані випробування 2025 року й когортні дані з умбрелла-огляду BMJ. Практичний висновок для читача: не «уникати всього обробленого», а конкретні категорії з найсильнішим сигналом — і як це виглядає в українському кошику.",
+      "sources_hint": "Hall et al., Cell Metabolism 2019 (inpatient ultra-processed diet RCT, n=20); Dicken et al. 2025 UCL randomised crossover on UPF vs minimally processed diets; Lane et al., BMJ 2024 umbrella review of ultra-processed food and health outcomes; NOVA classification critiques in Am J Clin Nutr 2023-2025; WHO STEPS Ukraine 2019/2024 for national diet context",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "«Дофаміновий детокс» на вихідні: звідки взявся термін і що з нього має докази",
+      "type": "lifehack",
+      "category": "mental-health",
+      "angle": "П'ятничний матеріал під вихідні. Пояснюємо, що автор терміну (Cameron Sepah) сам писав про КПТ-техніку stimulus control, а не про «скидання рівня дофаміну» — нейробіологічно це неможливо, дофамін не «накопичується» від скролінгу і не «виснажується» за добу. Що справді має докази: РКД з обмеження соцмереж, поведінкова активація, планування альтернативної діяльності замість простої заборони. Даємо чесний протокол на суботу-неділю (заміна, а не аскеза) замість магічних «24 години без стимулів». Крос-лінк на п'ятничний shutdown-ритуал (31.07) і на матеріал про стандарти краси (08.08), де вже фігурує Thai 2023 — тут інша роль тих самих даних.",
+      "sources_hint": "Sepah 2019 'Dopamine Fasting 2.0' original text and his subsequent clarifications; academic critiques of Lembke 'Dopamine Nation'; Plackett et al. 2023 systematic review of social media abstinence experiments; Thai et al. 2023 RCT limiting social media to 1h/day; Cuijpers behavioural activation meta-analyses; Volkow reviews on dopamine and reward in non-substance behaviours",
+      "evidence_level": "preliminary",
+      "priority": 2
+    },
+    {
+      "topic": "Електросамокат і дитина: які травми реально трапляються і що з захисту працює",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Свіжий новинний привід — зростання кількості дітей від 9 років, які потрапляють у лікарні після аварій на е-самокатах. Розбираємо структуру травм за реєстрами травматології (голова й обличчя, переломи передпліччя), чому ефект шолома доведено переважно для велосипедів і наскільки коректно переносити ці дані на самокати з меншим колесом і вищою швидкістю, чому нічні поїздки, подвійна їзда і алкоголь у підлітків — головні фактори ризику. Практична частина під українські міста: правила ПДР для персональних транспортних засобів, вік, швидкість, освітлення, чекліст для батьків перед покупкою.",
+      "sources_hint": "BBC Health August 2026 report on child e-scooter injuries; UK NHS / RoSPA e-scooter injury statistics; Trivedi et al., JAMA Network Open 2019 e-scooter injuries; Stigson et al. 2021 Swedish e-scooter helmet analysis; Cochrane review Thompson et al. bicycle helmets and its limitations; ПДР України щодо персональних легких електротранспортних засобів (зміни 2024-2026)",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Чи треба доводити підхід до відмови: що показують мета-аналізи про 1–3 повторення в запасі",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Матеріал для тих, хто тренує людей або тренується сам: «до відмови чи ні» — найчастіше питання в залі. Дані: для гіпертрофії різниці майже немає, якщо об'єм вирівняний, а для сили відмова радше шкодить; ціна — довше відновлення й гірша якість наступних підходів у тій самій сесії. Окремо пояснюємо, чому RIR як інструмент має власну похибку — нетреновані систематично переоцінюють, скільки повторень у них залишилося. Практичний висновок: 1–2 повторення в запасі для базових рухів, відмова допустима в ізоляції та на останньому підході.",
+      "sources_hint": "Refalo et al., Journal of Sports Sciences 2023 meta-analysis on proximity to failure and hypertrophy; Robinson et al., Sports Medicine 2024 dose-response for set volume and failure; Grgic et al. failure vs non-failure strength meta-analysis; Vieira et al. 2021 meta-analysis; Halperin et al. on RIR estimation accuracy; ACSM resistance training position stand",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Блакитні зони: чому демограф показав, що довгожителі часто живуть у місцях із поганим обліком",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Претензія-чек популярної концепції. Робота Saul Newman (Ig Nobel 2024) показує: регіони з рекордною кількістю 100-річних систематично мають гірші метрики реєстрації народжень, вищу бідність і пенсійне шахрайство, а після впровадження надійних реєстрів кількість «супердовгожителів» падає. Даємо і контраргумент — сардинські валідаційні роботи Poulain, де вік перевіряли за церковними записами. Що з порад «блакитних зон» усе одно витримує перевірку через незалежні дані (бобові, побутовий рух, соціальні зв'язки — перегукується з рекомендаціями ВООЗ щодо деменції від 22.07), а що було задокументовано погано — і чому не варто копіювати «дієту Окінави» за книжкою.",
+      "sources_hint": "Newman S.J. 2024 preprint 'Supercentenarian and remarkable age records exhibit patterns indicative of clerical errors and pension fraud'; Poulain et al. Sardinia age-validation studies; Nature and Science news coverage 2024; peer-reviewed dietary surveys of Okinawa (J Nutr, JAMA) vs Buettner's popular claims; Willcox et al. Okinawa Centenarian Study methodology",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Протеїновий порошок: кому він потрібен насправді і що з важкими металами в незалежних тестах",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Дві частини. Перша — доза: мета-аналіз Morton 2018 показує стелю приблизно на 1,6 г/кг на добу, тобто більшість людей закривають потребу їжею, і порошок — це зручність, а не окремий ефект. Друга — безпека: незалежні лабораторні тести знаходять свинець і кадмій у частині продуктів, особливо рослинних і шоколадних смаків; пояснюємо, звідки метали беруться (ґрунт, какао), чому «перевищення каліфорнійського Prop 65» ≠ токсична доза, і як читати сертифікати сторонніх лабораторій. Практично: як порахувати свою норму білка й коли порошок справді виправданий.",
+      "sources_hint": "Morton et al., BJSM 2018 protein supplementation meta-analysis; Consumer Reports 2025 protein powder heavy metals testing; Clean Label Project 2018/2024 reports and their methodological critiques; Bandara et al. 2020 review of heavy metals in protein supplements; ISSN position stand on protein and exercise; California Prop 65 lead limits vs EFSA/JECFA tolerable intakes",
+      "evidence_level": "moderate",
+      "priority": 3
+    },
+    {
+      "topic": "Нічні судоми в литках: чому розтяжка перед сном має більше даних, ніж усі добавки разом",
+      "type": "lifehack",
+      "category": "sleep",
+      "angle": "Продовження магнієвої серії, але з іншим клінічним питанням і власною доказовою базою — тут центр не магній, а те, що працює замість нього. Чесний розбір: Cochrane не показує користі магнію в дорослих без дефіциту (на відміну від вагітних, де дані змішані) — і це прямо доповнює наші матеріали про форми магнію (22.07, 31.07, 01.08, 04.08, 07.08); хінін працює, але заборонений FDA для судом через ризик тромбоцитопенії; мило під простирадлом — чистий ритуал. Що має хоч якісь дані: вечірня розтяжка литок і підошовної фасції (РКД Hallegraeff), гідратація й ревізія ліків (діуретики, статини, бета-агоністи). Червоні прапорці до лікаря: судоми з набряком, слабкістю, змінами чутливості.",
+      "sources_hint": "Cochrane review Garrison et al. 2020 'Magnesium for skeletal muscle cramps'; Cochrane El-Tawil et al. 2015 'Quinine for muscle cramps'; FDA Drug Safety Communication on quinine for leg cramps; Hallegraeff et al. 2012 RCT on nightly calf and hamstring stretching (n=80); AAN practice guideline on symptomatic treatment of muscle cramps; StatPearls nocturnal leg cramps; drug-induced cramp lists (diuretics, statins, beta-agonists)",
+      "evidence_level": "moderate",
+      "priority": 3
+    },
+    {
+      "topic": "Червоне світло й LED-маски: що показали RCT для шкіри, болю та відновлення м'язів",
+      "type": "research",
+      "category": "biohacking",
+      "angle": "Фотобіомодуляція — рідкісний випадок, коли біохак має реальні RCT, але не для всього, що обіцяє реклама. Найкращі дані — для шкіри (зморшки, колаген) і загоєння; помірні — для болю в шиї/спині; слабкі й суперечливі — для «відновлення після тренування» й росту волосся. Ключове для покупця: дози в дослідженнях (довжина хвилі, щільність потоку в мВт/см², час експозиції, сумарні Дж/см²) відрізняються від побутових масок і панелей у рази, і саме тут ховається різниця між ефектом і його відсутністю; більшість виробників щільність потоку взагалі не публікує. Окремо — очі й фотосенсибілізуючі ліки як реальні застереження.",
+      "sources_hint": "Wunsch & Matuschka 2014 RCT on red/NIR light and skin; Couturaud et al. 2023 LED mask RCT; Chow et al. 2009 Lancet meta-analysis of low-level laser therapy for neck pain and Cochrane reviews for low back pain; Vanin et al. 2018 meta-analysis on photobiomodulation and muscle recovery; Hamblin reviews on biphasic dose response in photobiomodulation; FDA class II clearance status and labelling for consumer LED masks",
+      "evidence_level": "moderate",
+      "priority": 3
+    }
+  ],
+  "date": "2026-08-14",
+  "created_at": "2026-08-14T03:03:03.823590+00:00"
+}
