@@ -1,0 +1,68 @@
+{
+  "timestamp": "2026-08-14_033454",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "sonyachna-retynopatiya-zatemnennya-symptomy-okt-serpen-2026",
+  "author": "Віта",
+  "duration_s": 1910.9,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 312.1,
+      "error": null
+    },
+    {
+      "name": "research:Дивився на затемнення без окул",
+      "status": "ok",
+      "duration_s": 399.2,
+      "error": null
+    },
+    {
+      "name": "generate:Дивився на затемнення без окул",
+      "status": "ok",
+      "duration_s": 207.3,
+      "error": null
+    },
+    {
+      "name": "review:Дивився на затемнення без окул",
+      "status": "ok",
+      "duration_s": 415.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Дивився на затемнення без окул",
+      "status": "ok",
+      "duration_s": 39.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Дивився на затемнення без окул",
+      "status": "ok",
+      "duration_s": 13.4,
+      "error": null
+    },
+    {
+      "name": "save:Дивився на затемнення без окул",
+      "status": "ok",
+      "duration_s": 521.2,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.0,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}

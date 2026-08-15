@@ -1,0 +1,96 @@
+{
+  "articles": [
+    {
+      "topic": "Мікропластик у крові й артеріях: що реально виміряли — і які поради з інтернету не варті нічого",
+      "type": "research",
+      "category": "research",
+      "angle": "Тема, де паніка випереджає дані, і в корпусі її ще не було. Розкладаємо: Marfella (NEJM 2024, n=257 каротидних бляшок) — у 58% знайдено поліетилен, і в них вищий ризик MACE за 34 місяці, але це обсерваційне дослідження з можливим конфаундингом і суперечкою щодо методу (лист-критика в NEJM). Далі — Qian 2024 (PNAS): у літрі бутильованої води ~240 тис. нанопластикових частинок, у 10-100 разів більше за попередні оцінки. І чесно: доза-відповідь у людей невідома, більшість токсикології — клітини й гризуни при дозах, далеких від побутових. Практичний висновок з реальним ефект-сайзом: не гріти їжу в пластику в мікрохвильовці, не заливати окріп у пляшку, віддавати перевагу воді з-під крана/фільтра над бутильованою, менше ультраоброблених продуктів у плівці. Окремий блок: які «детокси від мікропластику» продають у соцмережах і чому це порожнє — жодного клінічного дослідження виведення частинок у людей не існує",
+      "sources_hint": "Marfella et al., NEJM 2024 'Microplastics and Nanoplastics in Atheromas and Cardiovascular Events' + correspondence; Qian et al., PNAS 2024 (Raman imaging of bottled water); Hussain et al. Environ Sci Technol 2023 on microwave heating and particle release; WHO 2022 report 'Dietary and inhalation exposure to nano- and microplastics'; EFSA statement on microplastics in food",
+      "evidence_level": "preliminary",
+      "priority": 1
+    },
+    {
+      "topic": "«Блакитні зони» під сумнівом: чому рекордні довгожителі концентруються там, де погана реєстрація народжень",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Найпопулярніший longevity-наратив десятиліття — Окінава, Сардинія, Ікарія, дієта й «моаї» — перевірений на джерелі даних. Робота Saul Newman (Ig Nobel 2024, препринт і публікації в J Gerontol/бібліометрична критика) показує: регіони з надлишком верифікованих 110+ систематично мають гіршу реєстрацію актів громадянського стану, вищу бідність і пенсійні виплати за віком; після введення обов'язкових ID у Японії 82% «столітніх» не знайшлися. Окінавські дані про 1949 рік були частково втрачені під час війни. Противага для чесності: валідаційні роботи Poulain по Сардинії витримали перевірку, тобто «всі зони — фейк» теж некоректна теза. Що з наративу витримує перевірку: бобові, рухливість, соціальні зв'язки — вони підперті окремою доказовою базою, а не «зонами». Практичний висновок: не купувати «дієту блакитних зон» як бренд, а дивитися на важелі з незалежними доказами. Крос-лінк на матеріали про рапаміцин і NMN/NR як приклади longevity-обіцянок без витриманої бази",
+      "sources_hint": "Newman S.J. preprints on supercentenarian data quality (bioRxiv/medRxiv, Ig Nobel 2024 Demography); Poulain et al. Exp Gerontol (Sardinia validation) as counterweight; Japanese Ministry of Health 2010 'missing centenarians' audit; Buettner Blue Zones original National Geographic/Dan Buettner claims; Young R. GRG validation criteria",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Електросамокати і діти: травми, які приходять у серпні, і чому шолом тут важить більше, ніж на велосипеді",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Новинний гачок BBC (серпень 2026): травми дітей від 9 років у ДТП з е-самокатами зростають. Розбираємо, чим травма на самокаті відрізняється від велосипедної біомеханічно: маленькі колеса + високий центр ваги + гальмування переднім колесом = падіння через кермо обличчям уперед, звідси надлишок черепно-мозкових травм, переломів передпліччя і травм обличчя/зубів. Дані: серії з травмцентрів (JAMA Netw Open 2019 Trivedi, UCLA), огляди 2023-2025 щодо частки без шолома (часто >90%) і ролі алкоголю у дорослих. Чесно про рівень доказів: це серії випадків і реєстри травмцентрів, РКД на шоломі для самокатів немає, ефект екстрапольований з велосипедної літератури. Практика для батьків: вік і вага орендованих самокатів, чому «одна поїздка вдвох» — найчастіший сценарій травми, шолом і захист зап'ястків, обмеження швидкості в застосунку, заборона нічних поїздок; для дорослих — правило нуля алкоголю. Український контекст: правовий статус ЗПТ і відсутність вікових обмежень у прокатах",
+      "sources_hint": "Trivedi et al. JAMA Network Open 2019 'Injuries Associated With Standing Electric Scooter Use'; Bloom et al. and 2023-2025 systematic reviews of e-scooter injuries (Injury Prevention, BMJ Open); CDC/Austin Public Health e-scooter epidemiology report; NHS/RoSPA guidance; ПДР України щодо ЗПТ (проєкт змін)",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Ізотоніки, регідрон і сольові таблетки у спеку: кому вони справді потрібні, а кому шкодять",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Клеїм-чек літньої полиці — сезонний матеріал під серпневу спеку. Розводимо три різні речі: спортивні ізотоніки (вуглеводи+натрій, мають сенс при навантаженні >60-90 хв або сильному потінні), ОРС/регідрон (медичний засіб при діареї й блюванні, а не «щоденна гідратація» — інша осмолярність) і модні електролітні саше без цукру. Ключові докази: позиція ACSM щодо fluid replacement, Hew-Butler 2015 консенсус про exercise-associated hyponatremia (де надмірне пиття води — реальна причина смертей у марафонців), дані про те, що спрага як орієнтир не гірша за схеми, і що звичайна їжа з сіллю закриває натрій. Кому це важливо в Україні влітку: люди на діуретиках, літні з притупленою спрагою, робота на вулиці, діти з кишковою інфекцією. Окремо — чому «2 л на день усім» протипоказане при серцевій недостатності (крос-лінк на гайд про heat action plan від 07.08). Червоні прапорці зневоднення й коли це вже швидка",
+      "sources_hint": "ACSM Position Stand: Exercise and Fluid Replacement (Med Sci Sports Exerc); Hew-Butler et al. 2015 consensus on exercise-associated hyponatremia (Clin J Sport Med); WHO/UNICEF low-osmolarity ORS formulation guidance; Cochrane review of oral rehydration solutions vs IV; McDermott et al. NATA position statement on fluid replacement",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Самообстеження грудей: чому два РКД на 388 тисячах жінок не знайшли зниження смертності — і що робити замість",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Клеїм-чек найпоширенішої поради «щомісяця обстежуй груди перед дзеркалом». Кокранівський огляд (Kösters & Gøtzsche) на двох великих РКД — Шанхай (Thomas 2002) і Росія/Санкт-Петербург — показав однакову смертність від раку молочної залози при вдвічі більшій кількості біопсій із доброякісним результатом. Але це НЕ означає «не чіпай себе»: сучасні організації перейшли від формалізованого BSE до «breast awareness» — знати свою норму й реагувати на зміну. Стаття дає чіткий список ознак, з якими йдуть до лікаря (втягнення соска, виділення, зміна шкіри, стійке ущільнення), і український маршрут: мамолог/хірург, УЗД до 40, мамографія 50-69 за наказом МОЗ №1368. Явне розмежування з матеріалом 10.08 про BOADICEA/WISDOM: там був популяційний ризик-скринінг і критерії направлення, тут — особиста дія жінки між скринінгами; крос-лінк, а не переказ",
+      "sources_hint": "Cochrane Database Syst Rev: 'Regular self-examination or clinical examination for early detection of breast cancer' (Kösters & Gøtzsche); Thomas et al. JNCI 2002 (Shanghai trial, n=266,064); Semiglazov (St Petersburg/WHO trial); USPSTF breast cancer screening 2024 statement on BSE; NHS 'be breast aware'; WHO breast cancer position paper; наказ МОЗ №1368",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "«Анаболічне вікно» 30 хвилин: що показав мета-аналіз Schoenfeld — і чому доза білка за прийом важливіша за секундомір",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Матеріал для тренерів і тих, кого вони консультують. Мета-аналіз Schoenfeld, Aragon & Krieger (JISSN 2013, 23 дослідження) показав: після поправки на загальний добовий білок ефект «вікна» зникає — значущою була не година прийому, а те, що група з протеїном їла більше білка. Що дійсно має докази: 1,6 г/кг на добу як точка плато (Morton 2018, BJSM, 49 РКД, 1863 учасники), ~0,4 г/кг на прийом × 4 прийоми (Schoenfeld & Aragon 2018), лейциновий поріг, і практична поправка для 60+ — вищий поріг через анаболічну резистентність. Окремо — коли таймінг усе ж має значення: тренування натщесерце зранку і дві сесії за день. Практичний блок: як добрати 1,6 г/кг українськими продуктами без порошку, і чому «вікно 30 хвилин» вигідне саме продавцям гейнерів. Крос-лінки на матеріали про креатин для жінок 40+ і білково-жировий сніданок — тут інше питання (розподіл білка, не час доби)",
+      "sources_hint": "Schoenfeld, Aragon & Krieger, JISSN 2013 'The effect of protein timing on muscle strength and hypertrophy: a meta-analysis'; Morton et al., BJSM 2018 (1.6 g/kg plateau); Schoenfeld & Aragon JISSN 2018 'How much protein can the body use in a single meal?'; Areta 2013 J Physiol (dose distribution); ISSN position stand on protein and exercise",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Загуглив симптом — і не спиться: що таке кіберхондрія і 4 кроки, які реально знижують тривогу",
+      "type": "lifehack",
+      "category": "mental-health",
+      "angle": "Практичний матеріал про пошук симптомів онлайн. Механізм: пошуковик віддає найтяжчий діагноз першим (White & Horvitz, ACM TOIS — «cyberchondria» як ескалація від головного болю до пухлини), а тривога за здоров'я підтримується циклом перевірок — гуглення, самообстеження, прохання заспокоїти. Докази лікування сильні: КПТ при health anxiety працює (Cooper 2017 мета-аналіз; Tyrer 2014 CHAMP RCT у Lancet, n=444, ефект тримався 5 років — Tyrer 2017). Чотири кроки: правило відкладеної перевірки (worry postponement), обмеження «заспокійливих» запитів і повторних обстежень, перехід від «що це може бути» до «що я зроблю», і білий список джерел українською. Чітко: самодопомога не замінює терапію; якщо тривога забирає години на день або є нові справжні симптоми — до сімейного лікаря, а не до пошуковика; лінія 7333",
+      "sources_hint": "White & Horvitz 'Cyberchondria: Studies of the escalation of medical concerns in Web search' (ACM TOIS 2009); Starcevic & Berle 2013 Expert Rev Neurother; Cooper et al. 2017 meta-analysis of CBT for health anxiety (J Anxiety Disord); Tyrer et al., Lancet 2014 CHAMP trial + 5-year follow-up Lancet Psychiatry 2017; ICD-11 hypochondriasis 6B23",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Сауна двічі на тиждень і серце: що показала фінська когорта на 2315 чоловіках — і де межа обережності",
+      "type": "research",
+      "category": "biohacking",
+      "angle": "Субота — банний день, тож перевіряємо, наскільки сильні докази за саунозалежним зниженням серцево-судинної смертності. KIHD (Laukkanen, JAMA Intern Med 2015): 4-7 сеансів на тиждень проти 1 — HR 0,50 для CVD-смертності; подальші аналізи додають деменцію і гіпертонію. Головне застереження, яке в подкастах губиться: це обсерваційні дані на фінських чоловіках, де сауна — маркер здоров'я, дозвілля й доходу (reverse causation і healthy adherer effect), а жодного РКД зі смертністю немає — та сама структурна вада, що й у даних про власників собак (розібрана в дайджесті 09.08). Що є з механізму: гострі гемодинамічні зміни, схожі на помірне навантаження (Hussain 2018 огляд). Практичне: гідратація без алкоголю, обережність при неконтрольованій гіпертензії, свіжому ACS, аритміях і вагітності; чому «сауна замість тренування» — некоректна заміна. Дзеркальний крос-лінк на матеріал про крижані ванни (02.08)",
+      "sources_hint": "Laukkanen T. et al., JAMA Intern Med 2015 'Association Between Sauna Bathing and Fatal Cardiovascular and All-Cause Mortality Events'; Laukkanen 2017 Age Ageing (dementia); Hussain & Cohen 2018 Evid Based Complement Alternat Med review; Kunutsor 2018 BMC Medicine (sauna + fitness); ESC guidance on heat exposure in cardiac patients",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Пробіотик разом з антибіотиком: що показує Кокран — і чому дослідження Suez 2018 змусило переглянути «відновлення флори»",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Питання, яке дієтологи й фармацевти чують щодня. Розділяємо дві різні заяви. Перша — профілактика антибіотик-асоційованої діареї: тут докази пристойні (Cochrane щодо C. difficile-асоційованої діареї і щодо AAD у дітей, Guo 2019; ефект залежить від штаму й дози, S. boulardii і LGG мають найбільше даних), але AGA 2020 не рекомендує рутинно поза окремими сценаріями. Друга — «відновити мікробіом»: Suez 2018 (Cell, біопсії кишківника, не кал) показав, що після антибіотиків пробіотик СПОВІЛЬНИВ повернення власної флори порівняно з нічим, а автотрансплантат калу відновив найшвидше. Практично: кому пробіотик доречний, який штам, чому «мікс із 20 штамів» у капсулі — маркетинг, і що робить більше — клітковина й ферментовані продукти (крос-лінк на матеріали про 40 г клітковини від 06.08 і безпеку домашньої ферментації від 30.07). Застереження: пробіотики не для імуноскомпрометованих і не привід самому змінювати курс антибіотика",
+      "sources_hint": "Guo et al., Cochrane 2019 'Probiotics for the prevention of pediatric antibiotic-associated diarrhea'; Goldenberg Cochrane review on C. difficile-associated diarrhea; Suez et al., Cell 2018 'Post-Antibiotic Gut Mucosal Microbiome Reconstitution Is Impaired by Probiotics'; AGA Clinical Practice Guidelines on Probiotics (Gastroenterology 2020); Zmora et al. Cell 2018 (person-specific colonisation)",
+      "evidence_level": "moderate",
+      "priority": 3
+    },
+    {
+      "topic": "Дитина хропить щоночі: коли це не мило, а сигнал апное — і що показало РКД CHAT про аденотонзилектомію",
+      "type": "research",
+      "category": "sleep",
+      "angle": "Батьківський матеріал, якого бракує українською, побудований навколо одного великого РКД. Звичне хропіння у 10-12% дітей, обструктивне апное — у 1-5%; у дітей воно частіше проявляється не сонливістю, а гіперактивністю, поганою поведінкою й проблемами з увагою, тому його плутають із СДУГ. Ключовий доказ — РКД CHAT (Marcus, NEJM 2013, n=464, діти 5-9 років): рання аденотонзилектомія покращила поведінку, якість життя і полісомнографічні показники, але НЕ дала переваги за первинною когнітивною кінцевою точкою (NEPSY), і 46% контрольної групи одужали самі за 7 місяців — тобто вичікування є легітимним варіантом при легких формах. Практика: чек-лист червоних прапорців (паузи в диханні, дихання ротом, нічне пітніння, енурез, ранкові головні болі), що таке полісомнографія у дітей і де її роблять в Україні, роль ожиріння й алергічного риніту, чому пульсоксиметрія на смарт-годиннику тут не діагностика — прямий крос-лінк на матеріал про валідацію трекерів сну проти ПСГ",
+      "sources_hint": "Marcus et al., NEJM 2013 'A Randomized Trial of Adenotonsillectomy for Childhood Sleep Apnea' (CHAT); AAP clinical practice guideline on diagnosis and management of childhood OSAS (Pediatrics 2012); AASM position on home sleep apnea testing in children; Bhattacharjee 2010 (obesity and post-surgical persistence); ERS statement on obstructive sleep-disordered breathing in children",
+      "evidence_level": "moderate",
+      "priority": 3
+    }
+  ],
+  "date": "2026-08-15",
+  "created_at": "2026-08-15T03:03:03.208584+00:00"
+}
