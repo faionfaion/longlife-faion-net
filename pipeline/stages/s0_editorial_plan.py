@@ -40,6 +40,7 @@ def run() -> dict:
     rss_headlines = _format_rss()
     today_articles = _load_today_articles(today_str)
     editor_notes = _load_editor_notes()
+    backlog_candidates = _load_backlog_candidates()
 
     system, prompt = build_editorial_prompt(
         today_str=today_str,
@@ -48,6 +49,7 @@ def run() -> dict:
         today_articles=today_articles,
         rss_headlines=rss_headlines,
         editor_notes=editor_notes,
+        backlog_candidates=backlog_candidates,
     )
 
     plan = structured_query(
@@ -195,6 +197,27 @@ def _review_plan(plan: dict, today_str: str, day_of_week: str, recent_summaries:
         logger.warning("Plan review failed, keeping original plan", exc_info=True)
 
     return plan
+
+
+def _load_backlog_candidates() -> str:
+    """Ideas from earlier shortlists that were never written, formatted for the plan prompt.
+
+    Imported inside the function rather than at module scope on purpose: the prioritiser reads
+    this module's recent-articles helper, so importing it back at the top would make the two
+    stages depend on each other before either has finished loading. A backlog that cannot be
+    read costs the planner a few candidates, never the plan.
+    """
+    from pipeline.stages.s0c_prioritize import format_backlog_candidates
+
+    try:
+        candidates = format_backlog_candidates()
+    except Exception:
+        logger.warning("Backlog unreadable, planning without it", exc_info=True)
+        return ""
+
+    if candidates:
+        logger.info("Backlog: offering earlier unwritten ideas to the planner")
+    return candidates
 
 
 def _load_editor_notes() -> str:

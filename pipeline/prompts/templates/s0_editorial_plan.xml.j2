@@ -35,6 +35,19 @@ evidence behind their advice.
 {{ rss_headlines }}
 </current_health_headlines>
 
+{% if backlog_candidates %}
+<unwritten_ideas_from_earlier_shortlists>
+These are NOT published articles and they are not covered ground — they are subjects that
+were shortlisted on an earlier day, scored below the subject that won that day, and were
+never written. They are live candidates. Promote any that deserve today's slot, either as
+they stand or sharpened, and ignore the rest; a good idea should not have to be invented
+from scratch every night. "why it lost" is the reason it was passed over then, which may no
+longer hold.
+
+{{ backlog_candidates }}
+</unwritten_ideas_from_earlier_shortlists>
+{% endif %}
+
 {% if editor_notes %}
 <editor_in_chief_notes>
 PRIORITY: The editor-in-chief has left the following notes. These topics, links, and instructions MUST be prioritized above all other topics. Include them in the plan first, then fill remaining slots with other content.

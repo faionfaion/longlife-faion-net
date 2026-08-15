@@ -1,0 +1,32 @@
+{
+  "type": "object",
+  "properties": {
+    "ranked": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "topic": {
+            "type": "string",
+            "description": "The topic line copied verbatim from the shortlist, so the score can be matched back to the idea"
+          },
+          "score": {
+            "type": "integer",
+            "description": "0-100. Below 20 means the blog cannot write it honestly today"
+          },
+          "rationale": {
+            "type": "string",
+            "description": "One line (English, ~140 chars) naming the factor that decided the score"
+          },
+          "rank": {
+            "type": "integer",
+            "description": "1 = the subject worth today's slot. No ties, no gaps"
+          }
+        },
+        "required": ["topic", "score", "rationale", "rank"]
+      },
+      "description": "Every subject from the shortlist, exactly once, best first"
+    }
+  },
+  "required": ["ranked"]
+}
