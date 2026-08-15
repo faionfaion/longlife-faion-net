@@ -1,0 +1,25 @@
+{
+  "type": "object",
+  "required": ["article", "title", "changes"],
+  "properties": {
+    "article": {
+      "type": "string",
+      "description": "The COMPLETE edited article body in Ukrainian markdown. Every [n] citation marker, every image line and every longlife.media link from the draft kept exactly as it was. No 'Title:'/'Category:' lines, no frontmatter, no 'Джерела' section."
+    },
+    "title": {
+      "type": "string",
+      "description": "The headline. Rewrite it only if it fails the 2-second gate (names the subject AND gives the main answer or poses the main question); otherwise return it unchanged."
+    },
+    "description": {
+      "type": "string",
+      "description": "Meta description in Ukrainian, 150-160 chars. Only if the edit changed what the piece says; otherwise return it unchanged."
+    },
+    "changes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "One short line per fix, naming the defect it repaired (headline, opening, skim, dead middle, arc, coefficient dump, study detail, cadence, register, dash). Goes to the run log, never to the reader."
+    }
+  }
+}
