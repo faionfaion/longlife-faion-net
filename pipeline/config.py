@@ -46,13 +46,21 @@ SITE_BASE_URL = "https://longlife.media"
 # Single language — no translation pipeline needed
 LANG = "ua"
 
-# Models per stage (all Opus per project convention)
+# Models per stage.
+#
+# Opus does everything that is writing or judgement: the research, the prose, the voice, and
+# the scientific gate the blog's credibility rests on. Sonnet is a deliberate downgrade, used
+# only where the work is scoring against explicit criteria rather than creating or deciding -
+# ranking a list of topics, and looking at a rendered image for defects. Never haiku.
 MODEL_COLLECT = "opus"
+MODEL_PRIORITIZE = "sonnet"  # scores today's topics against fixed criteria - mechanical
 MODEL_RESEARCH = "opus"
 MODEL_GENERATE = "opus"
-MODEL_REVIEW = "opus"
+MODEL_EDIT = "opus"          # text editor: voice, cadence, numbers into meaning
+MODEL_REVIEW = "opus"        # scientific gate: claims, sources, safety
 MODEL_TG = "opus"
-MODEL_IMAGE = "opus"  # image prompt generation
+MODEL_IMAGE = "opus"         # image prompt generation and scene direction
+MODEL_IMAGE_QA = "sonnet"    # checklist look at a rendered frame - mechanical
 MODEL_VERIFY = "opus"
 
 # Review loop limits

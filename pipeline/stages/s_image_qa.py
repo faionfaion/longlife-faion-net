@@ -11,7 +11,7 @@ import logging
 import re
 from pathlib import Path
 
-from pipeline.config import MODEL_IMAGE
+from pipeline.config import MODEL_IMAGE_QA
 from pipeline.sdk import agent_query
 
 logger = logging.getLogger(__name__)
@@ -135,7 +135,7 @@ def analyze(image_path: Path, scene_context: str = "", has_character: bool = Tru
         text = agent_query(
             prompt=user_prompt,
             system_prompt=_SYSTEM_PROMPT,
-            model=MODEL_IMAGE,
+            model=MODEL_IMAGE_QA,
             allowed_tools=["Read"],
             timeout=300,
         )
