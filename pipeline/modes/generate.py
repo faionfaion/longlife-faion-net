@@ -21,9 +21,11 @@ from pipeline.context import PipelineContext
 from pipeline.run_report import RunReport, time_stage
 from pipeline.stages import (
     s0_editorial_plan,
+    s0c_prioritize,
     s1_collect,
     s2_research,
     s3_generate,
+    s3b_text_editor,
     s4_review,
     s5_revise,
     s_comic_scene,
@@ -45,14 +47,16 @@ def run(
     """Generate mode: write the day's post.
 
     1. Create editorial plan (a shortlist to choose today's subject from)
-    2. Collect RSS context
-    3. Research -> generate -> review -> save
-    4. Deploy site once at the end
+    2. Score the shortlist and keep the winner; the rest goes to the backlog
+    3. Collect RSS context
+    4. Research -> generate -> review -> save
+    5. Deploy site once at the end
 
     One post a day, and which kind depends on the weekday: Friday gathers the week's news
     on a theme, Sunday is the digest and is written by its own mode. `limit` overrides the
     count, which is mostly useful for proving out a change to one stage without spending a
-    full run on it.
+    full run on it — and it is also where the backlog cut falls, so a run that writes three
+    articles files the shortlist from fourth place down.
     """
     if kind is None:
         kind = post_kind_for(datetime.now(timezone.utc).weekday())
@@ -72,6 +76,13 @@ def run(
         topics = plan.get("articles", [])
         logger.info("Editorial plan: %d topics", len(topics))
 
+    # Step 0c: score that shortlist so the day goes to the best subject on it rather than to
+    # whichever one the planner happened to list first. Everything under the cut is filed in
+    # state/backlog.json and offered back to tomorrow's planner instead of being discarded.
+    if topics:
+        with time_stage(report, "prioritize"):
+            topics = s0c_prioritize.run(plan, kind=kind, limit=limit, dry_run=dry_run)
+
     # Step 1: Collect context (RSS + existing slugs)
     rss_items, posted_slugs = s1_collect.collect_context()
 
@@ -90,7 +101,8 @@ def run(
             logger.info("=== Article %d/%d === SKIP (already written): %s", i, len(topics), topic_label[:50])
             continue
 
-        logger.info("=== Article %d/%d ===", i, len(topics))
+        logger.info("=== Article %d/%d === rank %s, score %s",
+                    i, len(topics), topic.get("rank", "-"), topic.get("score", "-"))
         ctx = _generate_one_article(
             topic=topic,
             kind=kind,
@@ -103,6 +115,10 @@ def run(
             completed.append(ctx)
             posted_slugs.append(ctx.slug)
             _mark_topic_written(plan, topic_label)
+            # An idea that has just been written must never come back as a backlog candidate;
+            # it can be there when a higher-ranked topic was already taken and the run moved
+            # down the list.
+            s0c_prioritize.drop_from_backlog(topic_label, dry_run=dry_run)
 
     logger.info("Generated %d/%d articles", len(completed), len(topics))
 
@@ -175,6 +191,11 @@ def _generate_one_article(
 
         with time_stage(report, f"generate:{topic_label[:30]}"):
             s3_generate.run(ctx)
+
+        # The craft pass runs before the scientific gate, so the science has the last word on
+        # the text that actually ships.
+        with time_stage(report, f"text_edit:{topic_label[:30]}"):
+            s3b_text_editor.run(ctx)
 
         with time_stage(report, f"review:{topic_label[:30]}"):
             _review_loop(ctx)

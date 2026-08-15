@@ -53,6 +53,7 @@ def build_editorial_prompt(
     today_articles: str,
     rss_headlines: str,
     editor_notes: str = "",
+    backlog_candidates: str = "",
 ) -> tuple[str, str]:
     """Build s0 editorial plan prompt."""
     return render(
@@ -63,6 +64,7 @@ def build_editorial_prompt(
         today_articles=today_articles,
         rss_headlines=rss_headlines,
         editor_notes=editor_notes,
+        backlog_candidates=backlog_candidates,
     )
 
 
@@ -78,6 +80,24 @@ def build_plan_review_prompt(
         plan_json=plan_json,
         today_str=today_str,
         day_of_week=day_of_week,
+        recent_summaries=recent_summaries,
+    )
+
+
+def build_prioritize_prompt(
+    today_str: str,
+    day_of_week: str,
+    slot_brief: str,
+    topics_text: str,
+    recent_summaries: str,
+) -> tuple[str, str]:
+    """Build s0c topic prioritisation prompt."""
+    return render(
+        "s0c_prioritize.xml.j2",
+        today_str=today_str,
+        day_of_week=day_of_week,
+        slot_brief=slot_brief,
+        topics_text=topics_text,
         recent_summaries=recent_summaries,
     )
 
@@ -105,6 +125,28 @@ def build_generate_prompt(
         type_cfg=type_cfg,
         site_base_url=site_base_url,
         existing_articles_text=existing_articles_text,
+    )
+
+
+def build_text_editor_prompt(
+    ctx: PipelineContext,
+    author_name: str,
+    type_cfg: dict,
+) -> tuple[str, str]:
+    """Build s3b text editor prompt."""
+    # The editor gets the citation map so it can keep [n] pointing where it pointed, and the
+    # one-line description is the only on-record detail it may pull into the prose. Pad
+    # rather than zip straight: the arrays come back ragged often enough, and a short zip
+    # would silently hide the tail sources from a pass that must not touch their numbers.
+    descriptions = list(ctx.source_descriptions)
+    descriptions += [""] * (len(ctx.source_names) - len(descriptions))
+    sources_zip = list(zip(ctx.source_names, descriptions))
+    return render(
+        "s3b_text_editor.xml.j2",
+        ctx=ctx,
+        author_name=author_name,
+        type_cfg=type_cfg,
+        sources_zip=sources_zip,
     )
 
 
