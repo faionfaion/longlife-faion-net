@@ -1,0 +1,68 @@
+{
+  "timestamp": "2026-08-15_033031",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "mikroplastyk-blanky-materic-qian-samokorektsiia-2026",
+  "author": "Віта",
+  "duration_s": 1648.4,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 377.1,
+      "error": null
+    },
+    {
+      "name": "research:Мікропластик у крові й артерія",
+      "status": "ok",
+      "duration_s": 389.2,
+      "error": null
+    },
+    {
+      "name": "generate:Мікропластик у крові й артерія",
+      "status": "ok",
+      "duration_s": 121.1,
+      "error": null
+    },
+    {
+      "name": "review:Мікропластик у крові й артерія",
+      "status": "ok",
+      "duration_s": 326.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Мікропластик у крові й артерія",
+      "status": "ok",
+      "duration_s": 18.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Мікропластик у крові й артерія",
+      "status": "ok",
+      "duration_s": 15.2,
+      "error": null
+    },
+    {
+      "name": "save:Мікропластик у крові й артерія",
+      "status": "ok",
+      "duration_s": 396.4,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.0,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}
