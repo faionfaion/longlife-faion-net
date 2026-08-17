@@ -1,0 +1,96 @@
+{
+  "articles": [
+    {
+      "topic": "Статини і біль у м'язах: що показали дослідження, де пацієнти самі не знали, коли п'ють ліки, а коли пустишку",
+      "type": "research",
+      "category": "research",
+      "angle": "Найпоширеніша причина, чому люди кидають статини, — «болять м'язи». N-of-1 випробування SAMSON (n=60, 12 місяців: по місяцю на статині, плацебо і без таблеток) показало, що ~90% симптомів виникали й на плацебо; StatinWISE (BMJ 2021, n=200) дав той самий результат. Пояснити ноцебо простими словами: біль справжній, але його причина не завжди в таблетці. Сюди ж — доказова рамка «як відрізнити „мені стало гірше/краще“ від дії препарату»: чому особистий досвід — найслабший вид доказу, чому працює навіть відкрито назване плацебо (Kaptchuk, PLoS One 2010; мета-аналіз Sci Rep 2021) і чому саме тому потрібна структурована перерва й повторний старт (rechallenge), а не самостійна відміна. Практично: пауза, зміна дози чи препарату, контроль КФК. Окремо чесно: справжня міопатія й рабдоміоліз існують, але рідкісні — червоні прапорці й обов'язково до лікаря.",
+      "sources_hint": "Wood et al., SAMSON trial, NEJM 2020 (DOI 10.1056/NEJMc2031173); Herrett et al., StatinWISE, BMJ 2021;372:n135; Cholesterol Treatment Trialists' Collaboration, Lancet 2022 (adverse events reanalysis); Newman et al., Statin Safety Statement, ATVB 2019; ESC/EAS 2019 dyslipidaemia guidelines, SAMS section; Kaptchuk et al., open-label placebo in IBS, PLoS One 2010; von Wernsdorff et al., open-label placebo meta-analysis, Sci Rep 2021",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Понеділковий тиск: як виміряти його вдома правильно і чому одне вимірювання в аптеці нічого не означає",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Практичний гід під «перезапуск тижня»: протокол домашнього моніторингу — 7 днів, ранок і вечір, по 2 вимірювання з інтервалом 1 хв, відкинути перший день, усереднити; поріг для домашніх вимірювань 135/85, а не 140/90. Типові помилки, що завищують результат на 5–20 мм рт. ст.: манжета поверх одягу, невідповідний розмір манжети, ноги на вазі, повний сечовий міхур, розмова під час вимірювання, рука нижче рівня серця. Пояснити «гіпертензію білого халата» і масковану гіпертензію — чому саме домашні цифри вирішують. Як вибрати тонометр (валідовані моделі, плечова манжета, не на зап'ясток) і коли йти до лікаря. Крос-лінк на матеріал про понеділковий кортизол і «ефект понеділка» для серця — але без переказу.",
+      "sources_hint": "ESH 2023 Guidelines for the management of arterial hypertension (home BP thresholds); AHA 2019 scientific statement 'Measurement of Blood Pressure in Humans'; Stergiou et al., HBPM position paper, J Hypertens 2021; STRIDE BP / validatebp.org validated device lists; Ishigami et al., cuff size and BP accuracy, JAMA Intern Med 2023 (randomised crossover)",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Дві години надворі проти короткозорості: єдина річ із РКД, яку варто зробити до 1 вересня",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Сезонний матеріал під початок навчального року. Кластерні РКД у Гуанчжоу (He 2015, +40 хв надворі щодня, 3 роки, захворюваність 30,4% проти 39,5%) і тайванські шкільні програми показали, що саме час на вулиці, а не «менше читати», знижує ризик дебюту міопії; яскраве світло, а не спорт, є ймовірним механізмом. Що доказово гальмує вже наявну міопію: низькодозований атропін (суперечка навколо 0,01% після LAMP і CHAMP), лінзи DIMS/MiSight. Розвінчати «окуляри псують зір» і «чорниця для зору». Практично: 2 години надворі сумарно, правило 20-20-20 як слабший додаток, коли вести дитину до офтальмолога. Явно розмежувати з матеріалом про сонячну ретинопатію від 14.08 (це інша тема — гостре пошкодження сітківки) і з матеріалом про 120 хвилин на природі (там — психічне благополуччя дорослих).",
+      "sources_hint": "He M et al., outdoor activity and myopia incidence cluster RCT, JAMA 2015;314:1142; Wu PC et al., Taiwan outdoor program, Ophthalmology 2018; Xiong et al., time outdoors meta-analysis, Acta Ophthalmol 2017; LAMP study (Yam et al., Ophthalmology 2019–2022); CHAMP trial, NEJM Evid 2023; IMI 2021 white papers on myopia control",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Кардіомагніл «для розрідження крові»: кому аспірин щодня досі потрібен, а кому вже ні",
+      "type": "research",
+      "category": "research",
+      "angle": "Українська звичка — пити аспірин у малій дозі «для профілактики» без призначення. Розібрати, як змінилися докази: ASPREE (NEJM 2018, n=19 114, здорові 70+) не показав користі для виживання без інвалідності при зростанні великих кровотеч; ARRIVE і ASCEND дали ту саму картину — невелике зниження судинних подій, з'їдене кровотечами; USPSTF 2022 прибрала рекомендацію для 60+ і залишила індивідуальне рішення для 40–59 з високим ризиком. Ключове розмежування, яке читачі плутають: первинна профілактика (без інфаркту/інсульту в анамнезі) — тепер за замовчуванням ні; вторинна (після інфаркту, стентування, ішемічного інсульту) — доказова база сильна і самостійно відміняти аспірин небезпечно. Практично: фактори ризику кровотечі (вік, ІПП, НПЗЗ, антикоагулянти, виразка в анамнезі), питання до лікаря замість самопризначення. Пряме застереження: нічого не починати й не кидати за статтею.",
+      "sources_hint": "McNeil et al., ASPREE (three papers), NEJM 2018;379; Gaziano et al., ARRIVE, Lancet 2018; ASCEND Study Collaborative Group, NEJM 2018 (aspirin in diabetes); Zheng & Roddick, aspirin primary prevention meta-analysis, JAMA 2019;321:277; USPSTF 2022 recommendation statement on aspirin, JAMA 2022;327:1577; 2019 ACC/AHA Primary Prevention Guideline; ADAPTABLE, NEJM 2021 (dosing in secondary prevention)",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "«Анаболічне вікно» 30 хвилин після тренування: що замінило його в доказах — і що казати клієнту, який п'є протеїн у роздягальні",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Матеріал для тренерів і тих, кого вони тренують. Мета-аналіз Schoenfeld 2013 показав, що ефект «вікна» зникає після поправки на загальний добовий білок — вирішує сума за добу (1,6 г/кг як плато за Morton 2018), а не хвилини. Що залишилося правдою: розподіл на 3–4 прийоми по 0,4 г/кг, білок перед сном (казеїн, Res 2012), і те, що таймінг реально важить лише у вузьких випадках — тренування натщесерце та дві сесії в один день. Практика: перерахунок білка на реальну вагу, приклади українських продуктів на 30–40 г білка, чому дорогий ізолят не кращий за сир і яйця. Не переказувати матеріал про білковий сніданок — тут фокус на посттренувальному таймінгу.",
+      "sources_hint": "Schoenfeld, Aragon & Krieger, 'Nutrient timing revisited', JISSN 2013; Morton et al., protein supplementation meta-analysis, BJSM 2018 (1.6 g/kg plateau); Aragon & Schoenfeld 2013 review; Res et al., pre-sleep casein, MSSE 2012; Areta et al., protein distribution, J Physiol 2013; ISSN position stand on protein and exercise, JISSN 2017",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Утома, випадіння волосся і феритин 20: коли залізо справді винне, а коли ні",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Для жінок репродуктивного віку і для дієтологів, яких про це питають щотижня. Ключове: анемії може не бути, а дефіцит заліза бути — пороги феритину розходяться (ВООЗ 15 мкг/л, BSH 30, частина гематологів 30–45), а феритин росте при запаленні, тому його читають разом із СРБ і насиченням трансферину. РКД непричинної втоми (Verdon BMJ 2003, Krayenbuehl Blood 2011) показують ефект лише в частини жінок і переважно при феритині <50. Практично: які аналізи мають сенс (ЗАК + феритин + СРБ), як пити залізо (через день, а не двічі на день — Stoffel 2017, гепцидин), із чим не поєднувати, і чому «залізо в добавці для волосся» без аналізу — погана ідея. Окремо: у чоловіків і жінок у менопаузі дефіцит заліза — привід шукати джерело крововтрати, а не пити добавку. Не призначати собі самостійно.",
+      "sources_hint": "WHO 2020 guideline on serum ferritin concentrations for assessment of iron status; Verdon et al., iron for non-anaemic fatigue RCT, BMJ 2003;326:1124; Krayenbuehl et al., Blood 2011; Stoffel et al., alternate-day iron dosing, Lancet Haematol 2017 and Blood Adv 2020; BSH guideline on iron deficiency in adults 2021; Pasricha et al., iron deficiency seminar, Lancet 2021",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Сауна двічі на тиждень і серце: що показала фінська когорта — і чого вона не доводить",
+      "type": "guide",
+      "category": "longevity",
+      "angle": "Противага літньому культу холоду (крижані ванни, холодний душ, відкрита вода — уже розібрані): тепловий бік. Когорта KIHD (Laukkanen, n=2315 фінських чоловіків, ~20 років) — 4–7 сеансів на тиждень асоціюються з нижчою серцево-судинною і загальною смертністю порівняно з 1 сеансом; є дані й по деменції. Чесно про межі: це спостереження, користувачі саун здоровіші за замовчуванням, РКД зі смертністю не існує, вибірка — лише чоловіки однієї країни, а фінська сауна ≠ хамам ≠ інфрачервона кабіна. Що показують малі РКД: гострий ефект на тиск і жорсткість артерій. Практичне: температура й тривалість, гідратація, абсолютні протипоказання (нестабільна стенокардія, нещодавній інфаркт, тяжкий аортальний стеноз, вагітність, алкоголь), і чому сауна не «виводить токсини».",
+      "sources_hint": "Laukkanen et al., sauna bathing and CV/all-cause mortality, JAMA Intern Med 2015;175:542; Laukkanen et al., sauna and dementia, Age Ageing 2017; Laukkanen & Laukkanen, Mayo Clin Proc 2018 review; Lee et al., sauna and arterial stiffness, Complement Ther Med 2018; Hussain & Cohen, 'Clinical Effects of Regular Dry Sauna Bathing', Evid Based Complement Alternat Med 2018",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Заклеювати рот на ніч: що показали справжні дослідження mouth taping — і кому це небезпечно",
+      "type": "lifehack",
+      "category": "sleep",
+      "angle": "Claim-check вірусного тренду. Систематичні огляди 2022–2025 знаходять лише кілька малих досліджень: у пацієнтів із легким апное носове дихання трохи знижує AHI, доказів для здорових людей, «кращого овалу обличчя», «менше карієсу» чи «більше NO» практично немає. Головне попередження: при невиявленому середньому/тяжкому апное або закладеному носі (риніт, викривлена перегородка, поліпи) заклеювання може погіршити гіпоксію. Практична альтернатива з реальними доказами: скринінг STOP-BANG, позиційна терапія при позиційному апное, лікування назальної обструкції, і чому хропіння партнера — привід на полісомнографію, а не на скотч. Крос-лінк на матеріали про трекери сну і WASO без переказу.",
+      "sources_hint": "PubMed: 'mouth taping' AND (sleep OR 'sleep-disordered breathing') — перевірити систематичний огляд 2025 і первинні роботи перед цитуванням; Huang & Young, mouth taping in mild OSA, Healthcare 2022; Lee YC et al., porous oral patch in mild OSA, J Clin Med 2022; AASM position statements on consumer sleep technology; Chung et al., STOP-BANG validation, Anesthesiology 2008",
+      "evidence_level": "preliminary",
+      "priority": 2
+    },
+    {
+      "topic": "Ашваганда від стресу: що насправді показують RCT — і чому питання не в ефекті, а в печінці й дозі",
+      "type": "nutrition",
+      "category": "mental-health",
+      "angle": "Claim-check найпопулярнішого «адаптогену» українських маркетплейсів. Мета-аналізи показують зниження балів PSS і кортизолу, але майже всі дослідження малі (n=50–60), короткі (8 тижнів), проведені в Індії й часто спонсоровані виробником екстракту KSM-66; шкали самозвітні, засліплення сумнівне через характерний запах — тому загальний рівень доказів попередній, попри наявність мета-аналізів. Важлива частина, якої немає в рекламі: сигнали ідіосинкратичного гепатотоксичного ураження (серії випадків, попередження ісландського й данського регуляторів, LiverTox), взаємодія з тиреоїдними гормонами й седативними, протипоказання при вагітності й автоімунному тиреоїдиті. Практичний висновок: не «не можна», а «навіщо, якою дозою, як довго і кому точно не варто» — і що робити з печінковими пробами, якщо вже приймаєте.",
+      "sources_hint": "Akhgarjand et al., ashwagandha and anxiety/stress meta-analysis, Phytother Res 2022; Salve et al. RCT 2019 (Cureus, n=60); Lopresti et al. 2019 RCT (Medicine, cortisol); NIH LiverTox monograph 'Ashwagandha'; Björnsson et al., ashwagandha-induced liver injury case series, J Hepatol 2020; Icelandic MAST and Danish DTU risk assessments; MSKCC About Herbs herb-drug interaction entry",
+      "evidence_level": "preliminary",
+      "priority": 3
+    },
+    {
+      "topic": "Червоне світло з панелі за 8000 грн: що доведено для шкіри й болю, а що продають на механізмі",
+      "type": "research",
+      "category": "biohacking",
+      "angle": "Розбір фотобіомодуляції як споживчого продукту. Де докази справді є: загоєння ран і оральний мукозит (рекомендації MASCC/ISOO), помірні дані для зморшок і колагену в малих РКД, сигнал для андрогенної алопеції. Де їх нема: «спалювання жиру», детокс, мітохондріальне омолодження всього організму, тестостерон. Головна пастка для читача — дози: у дослідженнях вказані довжина хвилі (630–660 і 810–850 нм), щільність потужності й Дж/см², а виробники побутових панелей рідко вказують хоч щось, тому «схожий прилад» не означає «схожа доза». Окремо — очі й безпека, і чому інфрачервона кабіна це не те саме. Практичний висновок: реалістичні очікування або дешевші доказовіші альтернативи (ретиноїди, сонцезахист).",
+      "sources_hint": "Hamblin, 'Mechanisms and applications of the anti-inflammatory effects of photobiomodulation', AIMS Biophys 2017; Wunsch & Matuschka, red light and skin RCT, Photomed Laser Surg 2014; Avci et al., low-level laser therapy in dermatology, Semin Cutan Med Surg 2013; Cochrane review on phototherapy/laser for wound healing; MASCC/ISOO 2019 mucositis guidelines; Zein et al., review of PBM dosing parameters, J Biomed Opt 2018",
+      "evidence_level": "preliminary",
+      "priority": 3
+    }
+  ],
+  "date": "2026-08-17",
+  "created_at": "2026-08-17T03:03:03.662640+00:00"
+}
