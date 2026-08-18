@@ -1,0 +1,96 @@
+{
+  "articles": [
+    {
+      "topic": "Статини і біль у м'язах: що показали дослідження, де пацієнт сам не знав, коли п'є ліки, а коли пустишку",
+      "type": "research",
+      "category": "research",
+      "angle": "Найчастіша причина кинути статин — «болять м'язи». N-of-1 випробування SAMSON (n=60: по місяцю на статині, на плацебо і без таблеток узагалі) показало, що ~90% симптомів виникали й на місяцях плацебо; StatinWISE (BMJ 2021, n=200) дав ту саму картину. Пояснити ноцебо простими словами: біль справжній, але причина не завжди в таблетці. Практична рамка: як разом із лікарем перевірити зв'язок (пауза на 4–6 тижнів, повернення, зміна препарату чи дози), коли біль справді тривожний (темна сеча, різка слабкість — КФК і до лікаря негайно), і чому справжня міопатія рідкісна. Окремо — що робити, якщо ліки вже кинули самостійно. Крос-лінк на матеріал від 22.07 про 14 факторів ризику деменції, де ЛПНЩ-холестерин уперше увійшов до списку: це пояснює, чому відмова від статину має ціну поза кардіологією.",
+      "sources_hint": "Wood et al., SAMSON, NEJM 2020;383:2182 (DOI 10.1056/NEJMc2031173); Herrett et al., StatinWISE, BMJ 2021;372:n135; Cholesterol Treatment Trialists' Collaboration, Lancet 2022;400:832 (muscle-symptom reanalysis of 19 double-blind trials); EAS Consensus Panel on statin-associated muscle symptoms, Eur Heart J 2015;36:1012; NICE CG181 / ESC-EAS 2019 dyslipidaemia guidance on rechallenge protocol",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "Ультраоброблена їжа: що показало випробування, де людям видавали дві однакові за складом дієти",
+      "type": "research",
+      "category": "nutrition",
+      "angle": "Не чергове «уникайте UPF», а розбір власне експерименту. Hall 2019 (Cell Metabolism, стаціонарне РКД, n=20, дієти зрівняні за калоріями, жиром, цукром, сіллю й клітковиною) — на ультраобробленому раціоні люди з'їдали приблизно на 500 ккал більше на добу і набирали вагу. Британський рандомізований крос-овер 2025 року (Dicken et al., Nature Medicine) перевірив те саме в домашніх умовах на дієтах, які обидві відповідали настановам зі здорового харчування — ефект менший за лабораторний, і це головна нова цифра матеріалу. Пояснити, чому «ультраоброблене» — класифікація NOVA — це не синонім «шкідливого» (кефір, консервована квасоля і хліб теж туди потрапляють), і що з механізмів реально перевірено: щільність калорій, швидкість жування, текстура. Практичний висновок для читача без часу і бюджету: не «викинути все з упаковки», а замінити 2–3 конкретні позиції. Крос-лінк на матеріал про клітковину 40 г (06.08) — заміна UPF без приросту клітковини нічого не дає — і на самокорекцію про мікропластик (15.08), де UPF у плівці згадані як дешевий важіль з невиміряним ефектом.",
+      "sources_hint": "Hall et al., Cell Metabolism 2019;30:67 (inpatient ultra-processed diet RCT); Dicken et al., Nature Medicine 2025 (UPF vs minimally processed randomised crossover, UK, home setting); Monteiro et al., NOVA classification papers, Public Health Nutr; Forde et al. on eating rate and energy density, Appetite/AJCN; Lancet Series and WHO/FAO critiques of NOVA as a policy instrument",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Тиск вдома: 7 днів, два вимірювання, поріг 135/85 — і 8 помилок, які завищують цифру на 5–20 мм рт. ст.",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Практичний гід із домашнього моніторингу: протокол — 7 днів поспіль, ранок і вечір, по 2 вимірювання з інтервалом 1 хвилина, відкинути дані першого дня, усереднити решту; для домашніх вимірювань поріг 135/85, а не 140/90. Типові помилки: манжета поверх одягу, невідповідний розмір манжети, ноги на вазі, спина без опори, повний сечовий міхур, розмова під час вимірювання, рука нижче рівня серця, вимірювання одразу після кави чи сигарети. Окремо — чому одне вимірювання в аптеці нічого не означає, що таке «гіпертензія білого халата» і маскована гіпертензія, як обирати валідований тонометр (плечовий, не зап'ястковий) і коли результат треба нести лікарю. Крос-лінк на матеріал про планку і wall-sit (27.07): там ефект −7 мм рт. ст. вимірюють саме таким протоколом, і без нього «мій тиск упав» не означає нічого.",
+      "sources_hint": "ESH 2023 Guidelines for the management of arterial hypertension (home BP thresholds, 7-day schedule); AHA 2019 scientific statement 'Measurement of Blood Pressure in Humans' (Muntner et al., Hypertension 2019); Stergiou et al., ESH position paper on home BP monitoring, J Hypertens; STRIDE BP and validatebp.org validated device lists; Ukrainian МОЗ hypertension protocol for the referral thresholds",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "«Перевіряйте груди самі щомісяця»: чому два великі випробування не знайшли врятованих життів — і що робити натомість",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Привід — заклик Люсі Девіс у британських медіа перевіряти груди. Матеріал свідомо звужений до одного питання, якого не було ні 10.08, ні в дайджесті 16.08: чи працює саме ритуальне щомісячне самообстеження. Два РКД (Шанхай, n≈266 000, Thomas 2002; Санкт-Петербург/ВООЗ, Semiglazov) і Кокранівський огляд не показали зниження смертності від раку молочної залози, натомість удвічі більше біопсій із доброякісним результатом. Але це не привід ігнорувати груди: сучасні настанови говорять про «breast awareness» — знати свою норму і реагувати на зміни. Дати простий список червоних прапорців (вузол, втягнення шкіри чи соска, виділення з одного соска, зміна форми, стійке почервоніння) і чіткий маршрут в Україні за наказом МОЗ №1368. Явно розвести з матеріалом від 10.08 (критерії направлення, BOADICEA, мамографія до 50) одним абзацом: там ішлося про те, кого система запрошує, тут — про те, що робить сама жінка між візитами.",
+      "sources_hint": "Kösters & Gøtzsche, Cochrane 'Regular self-examination or clinical examination for early detection of breast cancer' (CD003373); Thomas et al., Shanghai BSE RCT, JNCI 2002;94:1445; Semiglazov et al., St Petersburg/WHO BSE trial — verify the final English-language report before citing numbers; USPSTF 2024 breast cancer screening statement; Cancer Research UK and CDC 'breast awareness' pages; NCCN Breast Cancer Screening and Diagnosis 2025",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Утома, випадіння волосся і феритин 20: коли залізо справді винне, а коли ні",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Матеріал для жінок репродуктивного віку і для дієтологів, яких про це питають щотижня. Ключове: анемії може не бути, а дефіцит заліза бути — і пороги феритину розходяться (ВООЗ 15 мкг/л, британський BSH 30, частина гематологів 30–45). Феритин зростає при запаленні, тому його читають разом із СРБ і насиченням трансферину. РКД непричинної втоми (Verdon, BMJ 2003; Krayenbuehl, Blood 2011) показують ефект лише в частини жінок і переважно при нижчому феритині. Далі — доза: Stoffel показав, що через гепсидин 60 мг через день засвоюються краще, ніж щодня, і дають менше побічних з боку ШКТ. Окремо: чому чоловікам і жінкам у менопаузі низький феритин — привід шукати джерело крововтрати, а не пити добавку. Явна межа з магнієвою серією: тут не «форма добавки», а поріг аналізу і причина.",
+      "sources_hint": "WHO 2020 guideline on serum ferritin concentrations for assessing iron status; Verdon et al., BMJ 2003;326:1124; Krayenbuehl et al., Blood 2011;118:3222; Stoffel et al., Lancet Haematol 2017;4:e524 and Blood 2020 (alternate-day dosing, hepcidin); BSH guideline on the management of iron deficiency in adults; NICE CKS iron deficiency anaemia (investigation of GI blood loss in men and postmenopausal women)",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Заклеювати рот на ніч: що показали справжні дослідження mouth taping — і кому це прямо небезпечно",
+      "type": "lifehack",
+      "category": "sleep",
+      "angle": "Claim-check вірусного тренду. Систематичні огляди знаходять лише кілька малих досліджень: у пацієнтів із легким апное носове дихання трохи знижує AHI; доказів для здорових людей, «кращого овалу обличчя», «менше карієсу» чи «більше оксиду азоту» практично немає. Головне попередження, якого не дають блогери: при невиявленому середньому/тяжкому апное або закладеному носі (риніт, викривлена перегородка, поліпи) заклеювання рота може погіршити нічну гіпоксію, а при нудоті чи алкоголі — небезпечне. Що робити натомість, якщо мотив — сухість у роті й хропіння: скринінг STOP-BANG, положення на боці, лікування носа. Крос-лінк на матеріал про трекери сну (08.08) — саме там читач бачить «низький бал за дихання» — і на п'ятничне вино (07.08) як фактор, що підсилює обструкцію.",
+      "sources_hint": "Huang & Young, porous oral patch in mild OSA with mouth breathing, Otolaryngol Head Neck Surg 2015; Lee YC et al., mouth taping in mild OSA, Healthcare (Basel) 2022;10:1755; the 2025 systematic review of mouth taping (PLOS One) — verify authors and included-study count before citing; AASM position statements on consumer sleep technology and unproven sleep interventions; Chung et al., STOP-BANG validation papers",
+      "evidence_level": "preliminary",
+      "priority": 2
+    },
+    {
+      "topic": "«Анаболічне вікно» 30 хвилин: що замінило його в доказах — і що казати клієнту, який п'є протеїн у роздягальні",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Матеріал для тренерів і тих, кого вони тренують. Мета-аналіз Schoenfeld/Aragon 2013 показав, що ефект «вікна» зникає після поправки на загальний добовий білок — вирішує сума за добу (~1,6 г/кг як плато за Morton 2018), а не хвилини після підходу. Що залишилося правдою: розподіл на 3–4 прийоми по ~0,4 г/кг, білок перед сном (казеїн, Res 2012), і те, що таймінг реально важить лише у вузьких випадках — тренування натщесерце вранці або дві сесії в один день. Практичний блок: як добрати 1,6 г/кг зі звичайних українських продуктів без шейкера, і скільки коштує та сама кількість білка у вигляді сиру, яєць і курки проти порошку. Крос-лінк на матеріал про білково-жировий сніданок (03.08) — це і є перший із трьох-чотирьох прийомів — і на NEAT (08.08), де вже пояснено, чому «спалене на тренуванні» не додається до тарілки.",
+      "sources_hint": "Schoenfeld, Aragon & Krieger, 'Nutrient timing revisited', JISSN 2013;10:53; Morton et al., BJSM 2018;52:376 (protein meta-analysis, 1.6 g/kg plateau); Res et al., Med Sci Sports Exerc 2012;44:1560 (pre-sleep casein); Trommelen & van Loon, Nutrients 2016; Jäger et al., ISSN position stand on protein and exercise, JISSN 2017",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Ашваганда від стресу: RCT є, ефект є — а питання насправді в печінці й дозі",
+      "type": "nutrition",
+      "category": "mental-health",
+      "angle": "Claim-check найпопулярнішого «адаптогену» українських маркетплейсів. Мета-аналізи показують зниження балів PSS і кортизолу, але майже всі дослідження малі (n=50–60), короткі (8 тижнів), проведені в Індії й часто спонсоровані виробником екстракту KSM-66; шкали самозвітні, засліплення сумнівне через характерний запах — тому загальний рівень доказів попередній, попри слово «мета-аналіз» на упаковці. Друга половина статті — безпека: описані випадки лікарського ураження печінки (NIH LiverTox, скандинавські регуляторні застереження), вплив на щитоподібну залозу, протипоказання при вагітності й автоімунних станах, взаємодія з седативними. Практичний висновок: кому це взагалі не варто, за якими симптомами припинити прийом і чому доза «як на банці» не збігається з дозою в дослідженнях. Крос-лінк на HRV-біофідбек і LKM: втручання з кращими доказами і нульовою гепатотоксичністю.",
+      "sources_hint": "Akhgarjand et al., ashwagandha for anxiety and stress meta-analysis, Phytother Res 2022;36:4115; Salve et al., Cureus 2019;11:e6466 (n=60 RCT); Lopresti et al., Medicine (Baltimore) 2019 (cortisol, KSM-66 sponsorship disclosure); NIH LiverTox monograph 'Ashwagandha'; Danish DTU and Swedish/Icelandic food-authority risk assessments on Withania somnifera; MHRA/EMA herbal safety notices",
+      "evidence_level": "preliminary",
+      "priority": 2
+    },
+    {
+      "topic": "Сауна двічі на тиждень і серце: що показала фінська когорта — і чого вона не доводить",
+      "type": "guide",
+      "category": "longevity",
+      "angle": "Тепловий бік після трьох матеріалів про холод (крижана ванна 02.08, холодний душ 22.07, відкрита вода 07.08) — і той самий доказовий стандарт до нього. Когорта KIHD (Laukkanen, n=2315 фінських чоловіків, ~20 років спостереження): 4–7 сеансів на тиждень асоціюються з нижчою серцево-судинною і загальною смертністю порівняно з одним сеансом; є дані й щодо деменції та тиску. Чесно про межі: це спостереження, люди, які ходять у сауну чотири рази на тиждень, здоровіші за замовчуванням; РКД зі смертністю немає, а гострі ефекти на тиск і жорсткість артерій виміряні на малих вибірках. Практична частина: безпечний протокол (температура, тривалість, гідратація), кому не можна (нестабільна стенокардія, свіжий інфаркт, аритмії, вагітність, алкоголь) і чому «сауна після силової» має ту саму проблему таймінгу, що й крижана ванна.",
+      "sources_hint": "Laukkanen et al., JAMA Intern Med 2015;175:542 (sauna frequency and CV/all-cause mortality, KIHD); Laukkanen et al., Age Ageing 2017;46:245 (dementia); Laukkanen & Laukkanen, Mayo Clin Proc 2018 review; Hussain & Cohen, Evid Based Complement Alternat Med 2018 (clinical evidence review); Kunutsor et al., sauna and blood pressure/arterial stiffness analyses",
+      "evidence_level": "moderate",
+      "priority": 3
+    },
+    {
+      "topic": "Панель червоного світла за 8000 грн: що доведено для шкіри й болю, а що продають на самому механізмі",
+      "type": "research",
+      "category": "biohacking",
+      "angle": "Розбір фотобіомодуляції як споживчого продукту. Де докази справді є: загоєння ран і оральний мукозит (рекомендації MASCC/ISOO), помірні дані для зморшок і колагену в малих РКД, сигнал для андрогенної алопеції. Де їх немає: «спалювання жиру», детокс, мітохондріальне омолодження всього організму, тестостерон. Головна пастка для покупця — доза: у дослідженнях вказані довжина хвилі (630–660 і 810–850 нм) і щільність енергії в Дж/см², а на побутових панелях цих цифр або немає, або вони не перевіряються; більше — не краще (двофазна доза-відповідь). Практичний висновок: що спитати в продавця, чому очі варто берегти, і які дешевші втручання з кращими доказами закривають ту саму задачу (сон, силові, ретиноїди для шкіри). Продовжує лінію аудиту дорогого біохакінгу після NMN/NR (01.08) і рапаміцину (07.08): та сама схема «сильний механізм, слабка людська кінцева точка».",
+      "sources_hint": "Hamblin, AIMS Biophys 2017;4:337 (photobiomodulation mechanisms, biphasic dose response); Wunsch & Matuschka, Photomed Laser Surg 2014;32:93 (skin RCT); Avci et al., Semin Cutan Med Surg 2013;32:41; MASCC/ISOO clinical practice guidelines on photobiomodulation for oral mucositis; Cochrane and systematic reviews of low-level laser therapy for musculoskeletal pain; FDA guidance on marketing of over-the-counter light-therapy devices",
+      "evidence_level": "preliminary",
+      "priority": 3
+    }
+  ],
+  "date": "2026-08-18",
+  "created_at": "2026-08-18T03:03:03.580086+00:00"
+}
