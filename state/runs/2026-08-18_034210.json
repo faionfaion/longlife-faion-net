@@ -1,0 +1,86 @@
+{
+  "timestamp": "2026-08-18_034210",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "ultraobroblena-yizha-hall-dicken-forde-tekstura-eksperymenty",
+  "author": "Віта",
+  "duration_s": 2347.2,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 360.5,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 82.5,
+      "error": null
+    },
+    {
+      "name": "research:Ультраоброблена їжа: що показа",
+      "status": "ok",
+      "duration_s": 426.3,
+      "error": null
+    },
+    {
+      "name": "generate:Ультраоброблена їжа: що показа",
+      "status": "ok",
+      "duration_s": 280.2,
+      "error": null
+    },
+    {
+      "name": "text_edit:Ультраоброблена їжа: що показа",
+      "status": "ok",
+      "duration_s": 242.5,
+      "error": null
+    },
+    {
+      "name": "review:Ультраоброблена їжа: що показа",
+      "status": "ok",
+      "duration_s": 402.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ультраоброблена їжа: що показа",
+      "status": "ok",
+      "duration_s": 29.5,
+      "error": null
+    },
+    {
+      "name": "material_images:Ультраоброблена їжа: що показа",
+      "status": "ok",
+      "duration_s": 129.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ультраоброблена їжа: що показа",
+      "status": "ok",
+      "duration_s": 13.3,
+      "error": null
+    },
+    {
+      "name": "save:Ультраоброблена їжа: що показа",
+      "status": "ok",
+      "duration_s": 377.1,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.4,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}
