@@ -1,0 +1,80 @@
+{
+  "timestamp": "2026-08-19_033333",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "statyny-bil-u-miazakh-samson-statinwise-ctt-notsebo",
+  "author": "Віта",
+  "duration_s": 1830.5,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 356.7,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 51.2,
+      "error": null
+    },
+    {
+      "name": "research:«Від статинів болять м'язи»: щ",
+      "status": "ok",
+      "duration_s": 518.8,
+      "error": null
+    },
+    {
+      "name": "generate:«Від статинів болять м'язи»: щ",
+      "status": "ok",
+      "duration_s": 126.0,
+      "error": null
+    },
+    {
+      "name": "text_edit:«Від статинів болять м'язи»: щ",
+      "status": "ok",
+      "duration_s": 127.5,
+      "error": null
+    },
+    {
+      "name": "review:«Від статинів болять м'язи»: щ",
+      "status": "ok",
+      "duration_s": 265.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:«Від статинів болять м'язи»: щ",
+      "status": "ok",
+      "duration_s": 28.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:«Від статинів болять м'язи»: щ",
+      "status": "ok",
+      "duration_s": 16.0,
+      "error": null
+    },
+    {
+      "name": "save:«Від статинів болять м'язи»: щ",
+      "status": "ok",
+      "duration_s": 335.9,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.1,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}
