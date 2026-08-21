@@ -1,0 +1,86 @@
+{
+  "timestamp": "2026-08-20_033714",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "shchotyzhnevyi-bazalnyi-insulin-ikodek-efsitora-qwint-onwards",
+  "author": "Віта",
+  "duration_s": 2051.9,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 336.4,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 50.6,
+      "error": null
+    },
+    {
+      "name": "research:Укол інсуліну раз на тиждень з",
+      "status": "ok",
+      "duration_s": 391.6,
+      "error": null
+    },
+    {
+      "name": "generate:Укол інсуліну раз на тиждень з",
+      "status": "ok",
+      "duration_s": 294.7,
+      "error": null
+    },
+    {
+      "name": "text_edit:Укол інсуліну раз на тиждень з",
+      "status": "ok",
+      "duration_s": 88.9,
+      "error": null
+    },
+    {
+      "name": "review:Укол інсуліну раз на тиждень з",
+      "status": "ok",
+      "duration_s": 342.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Укол інсуліну раз на тиждень з",
+      "status": "ok",
+      "duration_s": 17.8,
+      "error": null
+    },
+    {
+      "name": "material_images:Укол інсуліну раз на тиждень з",
+      "status": "ok",
+      "duration_s": 146.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Укол інсуліну раз на тиждень з",
+      "status": "ok",
+      "duration_s": 13.5,
+      "error": null
+    },
+    {
+      "name": "save:Укол інсуліну раз на тиждень з",
+      "status": "ok",
+      "duration_s": 365.8,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.2,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T03:09:29.875558+00:00",
+  "updated_at": "2026-08-21T03:10:58.281061+00:00",
   "entries": [
     {
       "topic": "Понеділковий тиск: як виміряти його вдома правильно і чому одне вимірювання в аптеці нічого не означає",
@@ -27,23 +27,23 @@
       "topic": "Кардіомагніл «для розрідження крові»: кому аспірин щодня досі потрібен, а кому вже ні",
       "type": "research",
       "category": "research",
-      "angle": "Українська звичка пити малу дозу аспірину «для профілактики» без призначення. Показати, як змінилися докази: ASPREE (NEJM 2018, n=19 114, здорові 70+) — жодної користі для життя без інвалідності при зростанні великих кровотеч; ARRIVE і ASCEND — невелике зниження судинних подій, з'їдене кровотечами; USPSTF 2022 прибрала рекомендацію для 60+ і залишила індивідуальне рішення для 40–59 із високим ризиком. Ключова різниця, яку читачі плутають: первинна профілактика (ніколи не було інфаркту чи інсульту) проти вторинної (був — там аспірин рятує життя і його не кидають). Практично: кому варто перепитати лікаря про доцільність, чому «кишковорозчинна» форма не захищає від головного механізму кровотечі, і що ризик оцінюють, а не вгадують. Публікувати не в один день зі статиновим матеріалом і дати на нього крос-лінк, щоб не зливалися у «тиждень серцевих таблеток».",
-      "sources_hint": "McNeil et al., ASPREE (three papers), NEJM 2018;379; Gaziano et al., ARRIVE, Lancet 2018;392:1036; ASCEND Study Collaborative Group, NEJM 2018;379:1529 (aspirin in diabetes); USPSTF 2022 aspirin recommendation statement, JAMA 2022;327:1577; Antithrombotic Trialists' Collaboration, Lancet 2009 (primary vs secondary prevention); ESC 2021 CVD prevention guidelines",
+      "angle": "Дуже поширена українська звичка — пити малу дозу аспірину «для профілактики», без призначення, іноді десятиліттями. Показати, як розвернулися докази: ASPREE (NEJM 2018, n=19 114, здорові люди 70+) — жодної користі для життя без інвалідності при значущому зростанні великих кровотеч; ARRIVE і ASCEND — невелике зниження судинних подій, з'їдене кровотечами; USPSTF 2022 прибрала рекомендацію для 60+ і залишила індивідуальне рішення для 40–59 із високим ризиком. Головна лінія, яку читач має винести: первинна профілактика (інфаркту ще не було) і вторинна (вже був інфаркт, інсульт, стент, шунтування) — це дві різні ситуації, і у другій аспірин лишається обов'язковим, а самостійне припинення небезпечне. Практично: кому варто піти й перепитати лікаря, чому «шлунково-розчинна» форма не захищає від кровотечі в шлунку, і чому аспірин не «розріджує кров» у тому сенсі, як думають читачі. Явний крос-лінк на матеріал про статини і ноцебо (19.08): та сама помилка — самостійне рішення про серцевий препарат на основі власного відчуття, тільки з протилежним знаком.",
+      "sources_hint": "McNeil et al., ASPREE (three papers), NEJM 2018;379; Gaziano et al., ARRIVE, Lancet 2018;392:1036; ASCEND Study Collaborative Group, NEJM 2018;379:1529; USPSTF 2022 aspirin for primary prevention of CVD recommendation statement, JAMA; 2019 ACC/AHA primary prevention guideline; Antithrombotic Trialists' Collaboration, Lancet 2009 (primary vs secondary prevention)",
       "evidence_level": "strong",
-      "score": 76,
-      "rationale": "Strong trial base (ASPREE, ARRIVE, ASCEND, USPSTF) on a very common unsupervised habit, but no fresh hook and echoes the same week's cardiac-pill territory as statins.",
-      "proposed": "2026-08-19"
+      "score": 78,
+      "rationale": "Deepest evidence base on the list (ASPREE, ARRIVE, ASCEND, USPSTF) and huge reader relevance, but no fresh news hook and echoes the 08-19 statin-myth piece in pattern.",
+      "proposed": "2026-08-21"
     },
     {
       "topic": "Ашваганда від стресу: що насправді показують RCT — і чому питання не в ефекті, а в печінці й дозі",
       "type": "nutrition",
       "category": "mental-health",
-      "angle": "Claim-check найпопулярнішого «адаптогену» українських маркетплейсів. Мета-аналізи показують зниження балів PSS і кортизолу, але майже всі дослідження малі (n=50–60), короткі (8 тижнів), проведені в Індії й часто спонсоровані виробником екстракту KSM-66; шкали самозвітні, засліплення сумнівне через характерний запах — тому загальний рівень доказів попередній, попри наявність мета-аналізів. Важлива частина, якої немає в рекламі: сигнали ідіосинкратичного гепатотоксичного ураження (серії випадків, попередження ісландського й данського регуляторів, LiverTox), взаємодія з тиреоїдними гормонами й седативними, протипоказання при вагітності й автоімунному тиреоїдиті. Практичний висновок: не «не можна», а «навіщо, якою дозою, як довго і кому точно не варто» — і що робити з печінковими пробами, якщо вже приймаєте.",
-      "sources_hint": "Akhgarjand et al., ashwagandha and anxiety/stress meta-analysis, Phytother Res 2022; Salve et al. RCT 2019 (Cureus, n=60); Lopresti et al. 2019 RCT (Medicine, cortisol); NIH LiverTox monograph 'Ashwagandha'; Björnsson et al., ashwagandha-induced liver injury case series, J Hepatol 2020; Icelandic MAST and Danish DTU risk assessments; MSKCC About Herbs herb-drug interaction entry",
+      "angle": "Claim-check найпопулярнішого «адаптогену» українських маркетплейсів. Мета-аналізи справді показують зниження балів шкали стресу і кортизолу, але майже всі дослідження малі (n=50–60), короткі (8 тижнів), проведені в Індії й часто фінансовані виробником екстракту KSM-66; шкали самозвітні, а засліплення сумнівне через характерний запах і смак — тому загальний рівень доказів попередній, попри слово «мета-аналіз». Друга, важливіша частина: сигнал гепатотоксичності. Ісландія і Данія заборонили продаж, монографія NIH LiverTox описує серію випадків холестатичного гепатиту з жовтяницею і свербежем через 2–12 тижнів приймання. Плюс протипоказання, про які маркетплейс мовчить: вагітність, аутоімунний тиреоїдит і прийом левотироксину, імуносупресанти, седативні. Практичний висновок: якщо мета — стрес, найдоказовіші інструменти безкоштовні (крос-лінк на HRV-біофідбек від 26.07 і LKM/mindfulness від 07.08 замість переказу їхніх цифр); якщо все ж пробувати добавку, то не місяцями поспіль і не при захворюваннях печінки.",
+      "sources_hint": "Akhgarjand et al., ashwagandha and anxiety/stress meta-analysis, Phytother Res 2022; Salve et al., Cureus 2019 (n=60); Lopresti et al., Medicine 2019 (cortisol); NIH LiverTox monograph 'Ashwagandha'; Björnsson et al., Liver International 2020 (ashwagandha-induced liver injury case series); Icelandic Food and Veterinary Authority (MAST) and Danish DTU risk assessments 2020–2023",
       "evidence_level": "preliminary",
-      "score": 70,
-      "rationale": "Named meta-analyses plus a real hepatotoxicity signal (regulator warnings, LiverTox) make a solid claim-check on a very widely bought supplement, but no timely hook.",
-      "proposed": "2026-08-17"
+      "score": 61,
+      "rationale": "Two real threads (weak efficacy meta-analyses plus a nameable hepatotoxicity case series) but evidence explicitly preliminary and small, and supplement-myth pattern is well-worn this month.",
+      "proposed": "2026-08-21"
     },
     {
       "topic": "Заклеювати рот на ніч: що показали справжні дослідження mouth taping — і кому це небезпечно",
@@ -170,12 +170,12 @@
       "topic": "Заклеювати рот на ніч: що показали справжні дослідження mouth taping — і кому це прямо небезпечно",
       "type": "lifehack",
       "category": "sleep",
-      "angle": "Claim-check вірусного тренду. Систематичні огляди знаходять лише кілька дуже малих досліджень: у людей із легким апное перехід на носове дихання трохи знижує індекс апное-гіпопное, а для здорових людей, для «кращого овалу обличчя», «менше карієсу» чи «більше оксиду азоту» доказів практично немає. Головне попередження, якого немає у відео: при невиявленому середньому або тяжкому апное, при закладеному носі (риніт, викривлена перегородка, поліпи), при нудоті чи алкоголі ввечері заклеювання рота — це прибирання аварійного шляху дихання. Що робити замість: скринінг STOP-BANG, лікування закладеності носа, позиційна терапія на боці, і лише потім експерименти. Крос-лінк на матеріал про трекери сну (08.08): «зменшився хропіння-скор» — не доказ, що апное вилікуване.",
-      "sources_hint": "PubMed: 'mouth taping' AND (sleep OR sleep-disordered breathing), 2022–2026 systematic reviews; Huang & Young, Healthcare 2022 (mouth taping in mild OSA); Lee et al. on porous-tape effects on snoring/AHI; AASM position statements on consumer sleep interventions; Chung et al., STOP-BANG validation",
+      "angle": "Claim-check вірусного тренду, який продають як безкоштовний біохак для «глибшого сну і кращої лінії щелепи». Що є насправді: кілька дуже малих досліджень, де у пацієнтів з уже діагностованим легким апное перехід на носове дихання трохи знижував AHI; для здорових людей, для «овалу обличчя», «менше карієсу» чи «більше оксиду азоту» — практично нічого. Систематичний огляд 2025 року прямо каже про низьку якість і ризик шкоди. Головне попередження, заради якого варто писати текст: при невиявленому середньому або тяжкому апное, закладеному носі (риніт, викривлена перегородка, поліпи), при вживанні алкоголю ввечері чи при нудоті заклеювання рота прибирає резервний шлях дихання. Практична альтернатива, яка має докази: якщо є хропіння, зупинки дихання і денна сонливість — це скринінг STOP-BANG і візит до лікаря, а не скотч; якщо проблема в носі — лікувати ніс. STOP-BANG не переказувати повністю: крос-лінк на матеріал про трекери сну (08.08), де він уже розібраний.",
+      "sources_hint": "PubMed: 'mouth taping' AND (sleep OR 'sleep-disordered breathing') — 2025 systematic review (Kang et al., JAMA Otolaryngol / PLOS One — verify exact citation before use); Huang & Young, mouth taping in mild OSA, Healthcare 2022; Lee et al. 2022 on mouth-taping and snoring; AASM position statements on consumer sleep interventions; STOP-BANG validation (Chung 2016)",
       "evidence_level": "preliminary",
-      "score": 47,
-      "rationale": "Real safety-relevant claim-check with a viral trend hook, but the evidence base is a handful of very small studies — thin fuel for 1800-3500 words.",
-      "proposed": "2026-08-20"
+      "score": 41,
+      "rationale": "Evidence is thin and explicitly preliminary, single narrow trend with little breadth for a roundup, and the sleep category is already heavily covered recently.",
+      "proposed": "2026-08-21"
     },
     {
       "topic": "Легені дітей відновилися після зони низьких викидів: що насправді виміряли в Лондоні і що з цього значить для української зими",
@@ -236,12 +236,12 @@
       "topic": "Утома, випадіння волосся і феритин 20: коли залізо справді винне, а коли аналіз просто зчитали неправильно",
       "type": "nutrition",
       "category": "nutrition",
-      "angle": "Матеріал для жінок репродуктивного віку і для дієтологів, яких про це питають щотижня. Головне: анемії може не бути, а дефіцит заліза бути — і пороги феритину розходяться (ВООЗ 15 мкг/л, британський BSH 30, частина гематологів 30–45). Феритин — білок гострої фази, тому при запаленні чи інфекції він фальшиво високий, і його читають разом із СРБ і насиченням трансферину. РКД у жінок із втомою без анемії показують реальне, але помірне зменшення втоми — і лише в тих, у кого феритин був низьким. Окремо — доза й ритм: дані Stoffel про гепсидин, через які 60 мг через день засвоюються краще, ніж 60 мг щодня або двічі на день, і чому «залізо з гранатовим соком» не працює, а з вітаміном C — трохи. Коли низький феритин не про дієту, а привід шукати кровотечу і йти до лікаря.",
-      "sources_hint": "WHO 2020 guideline on serum ferritin concentrations; Verdon et al., BMJ 2003;326:1124; Krayenbuehl et al., Blood 2011;118:3222; Stoffel et al., Lancet Haematol 2017;4:e524 and Blood 2020;136:1330 (alternate-day dosing); BSH guideline on management of iron deficiency 2021",
+      "angle": "Матеріал для жінок репродуктивного віку і для дієтологів, яких про це питають щотижня. Головна теза: анемії може не бути, а дефіцит заліза бути — і пороги феритину розходяться (ВООЗ 15 мкг/л, британський BSH 30, частина гематологів 30–45). Феритин — білок гострої фази: при запаленні, інфекції чи ожирінні він фальшиво високий, тому його читають разом із СРБ і насиченням трансферину, а не окремо. РКД у жінок із втомою без анемії (Verdon 2003, Krayenbuehl 2011) дають реальний, але помірний ефект і лише при низькому феритині. Практична частина, якої майже ніде немає українською: дослідження Stoffel показали, що гепсидин після дози заліза блокує засвоєння наступної, тому 60 мг через день засвоюється краще, ніж 60 мг щодня двічі — це прямо змінює схему приймання. Плюс: чай і кава біля прийому, вітамін C, чому «залізо в шпинаті» не вирішує питання, і коли низький феритин — це привід шукати причину (менструальна крововтрата, целіакія, кровотеча в ШКТ), а не просто пити добавку.",
+      "sources_hint": "WHO 2020 guideline on serum ferritin concentrations to assess iron status; British Society for Haematology guideline on iron deficiency without anaemia; Verdon et al., BMJ 2003;326:1124; Krayenbuehl et al., Blood 2011;118:3222; Stoffel et al., Lancet Haematol 2017;4:e524 and Blood 2020;136:1330 (alternate-day dosing, hepcidin); Cochrane review on iron for fatigue in non-anaemic women",
       "evidence_level": "moderate",
       "score": 71,
-      "rationale": "Deep, named literature (WHO/BSH thresholds, Stoffel dosing RCTs) and high everyday reader relevance carry the length well, but no live news hook this week.",
-      "proposed": "2026-08-20"
+      "rationale": "Solid multi-study evidence (WHO, BSH, Verdon, Krayenbuehl, two Stoffel papers) and constant reader relevance, but no current-week news trigger.",
+      "proposed": "2026-08-21"
     },
     {
       "topic": "Легені школярів після зони низьких викидів: що насправді виміряли в Лондоні і що з цього значить для української зими",
@@ -258,12 +258,12 @@
       "topic": "Розтяжка перед тренуванням: чи справді статичний стретчинг «краде силу» — і скільки саме секунд це починає робити",
       "type": "fitness",
       "category": "fitness",
-      "angle": "Claim-check для тих, хто чув «статичну розтяжку перед силовою робити не можна» і тепер не розтягується взагалі. Мета-аналізи дають конкретну цифру: втрата сили й потужності реальна, але маленька і чітко залежить від тривалості утримання — до 60 секунд на м'яз ефект мізерний (порядку 1–2%), понад 60 секунд він стає помітним. Друга частина міфу — «розтяжка запобігає травмам»: систематичні огляди цього не підтверджують для розтяжки як такої, натомість підтверджують для ексцентричної роботи (нордики для задньої поверхні стегна). Практичний висновок для тренерів і для звичайної людини: розминка = загальне розігрівання + динамічна мобільність + підвідні підходи; статичну розтяжку доречно ставити після тренування або окремою сесією, і саме вона дає приріст амплітуди. Хто виграє від короткої статики до тренування — люди з жорстким гомілковостопом у присіді.",
-      "sources_hint": "Behm et al., 'Acute effects of muscle stretching on physical performance...', Appl Physiol Nutr Metab 2016;41:1; Chaabene et al., Front Physiol 2019 (acute static stretching); Simic et al., Scand J Med Sci Sports 2013; Lauersen et al., BJSM 2014 (exercise interventions and injury prevention); Behm & Chaouachi 2011",
+      "angle": "Claim-check для тих, хто почув «статичну розтяжку перед силовою робити не можна» і тепер не розтягується взагалі. Мета-аналізи дають конкретну цифру замість гасла: втрата сили й потужності реальна, але залежить від тривалості утримання — до 60 секунд на м'яз ефект мізерний (порядку 1–2%, непомітно для звичайної людини), понад 60 секунд стає помітним. Друга половина міфу — «розтяжка запобігає травмам»: систематичні огляди цього не підтверджують, а от силові тренування знижують ризик травм майже вдвічі (Lauersen 2014). Практичний висновок під вихідні, коли люди йдуть на довгу прогулянку, футбол чи в зал: розігрів це RAMP — легке кардіо, динамічна мобілізація, кілька підводних підходів; статичну розтяжку тримати короткою перед навантаженням і довгою — після або окремою сесією, якщо мета саме гнучкість. Крос-лінк на weekend warrior (31.07) щодо довжини розігріву для малорухливих 40+, без переказу когорт.",
+      "sources_hint": "Behm et al., 'Acute effects of muscle stretching on physical performance, range of motion, and injury incidence', Appl Physiol Nutr Metab 2016;41:1; Chaabene et al., Front Physiol 2019; Simic et al., Scand J Med Sci Sports 2013; Lauersen et al., BJSM 2014 (strength training and injury prevention); Blazevich et al. 2018 RCT on warm-up composition; ACSM position stand on flexibility",
       "evidence_level": "strong",
-      "score": 63,
-      "rationale": "Strong meta-analytic base (Behm, Chaabene, Lauersen) settles a widely-believed myth, but evergreen with no fresh hook this week.",
-      "proposed": "2026-08-20"
+      "score": 75,
+      "rationale": "Multiple meta-analyses give real breadth, strong Friday/weekend timeliness hook, common gym myth with no recent overlap.",
+      "proposed": "2026-08-21"
     },
     {
       "topic": "Тренування з обмеженням кровотоку (BFR): чому легка вага з манжетою дає силу — і кому цього робити не можна",
@@ -297,6 +297,50 @@
       "score": 40,
       "rationale": "Rests almost entirely on one 2023 RCT (n=114) and sits close to three already-published breathing/meditation pieces, too thin for today's long-form slot.",
       "proposed": "2026-08-20"
+    },
+    {
+      "topic": "Блакитні зони під питанням: чому рекорди довголіття збігаються з відсутністю свідоцтв про народження",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Claim-check індустрії, що виросла з «блакитних зон» — Окінава, Сардинія, Ікарія, Нікоя, Лома-Лінда — і продає книжки, дієти й добавки. Робота Сола Ньюмена показує неприємну закономірність: регіони з рекордною часткою довгожителів систематично збігаються з бідністю, коротшою тривалістю життя загалом, поганою реєстрацією народжень і пенсійним шахрайством; запровадження надійних реєстрів різко зменшує кількість «110-річних». Окремо — японський аудит 2010 року, який не знайшов десятків тисяч зареєстрованих столітніх людей. Чесна протилежна сторона: висока частка довгожителів у Сардинії підтверджена перевіркою документів (дослідження Poulain), тобто «все вигадка» — теж перебільшення. Що з практичного залишається справді доказовим і не залежить від міфу: рух, соціальні зв'язки, некуріння, тиск і ЛПНЩ — з крос-лінком на матеріал про 14 факторів ризику деменції (22.07) замість повторення переліку. Головний урок для читача — як відрізняти дані від легенди, коли щось продають під науковою обгорткою.",
+      "sources_hint": "Newman, 'Supercentenarian and remarkable age records exhibit patterns indicative of clerical errors and pension fraud' (bioRxiv 2019 / published version) and Ageing Research Reviews / Ig Nobel 2024 coverage; Poulain et al., Experimental Gerontology 2004 (validation of the Sardinian blue zone); Japan Ministry of Health 2010 missing centenarians audit; Gavrilov & Gavrilova on age validation; Livingston et al., Lancet Commission on dementia 2024 for the modifiable-factor counterweight",
+      "evidence_level": "moderate",
+      "score": 81,
+      "rationale": "Four independent evidence strands (Newman, Poulain, Japan audit, Lancet Commission) converge on one theme, exactly the multi-finding shape the roundup slot needs.",
+      "proposed": "2026-08-21"
+    },
+    {
+      "topic": "Легені дітей після зони низьких викидів: що насправді виміряли в Лондоні і що з цього значить для української зими",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Новинний привід — заголовки про «приголомшливе відновлення легень у дітей» після запровадження ultra low emission zone. Розібрати, що показало дослідження CHILL (когорта школярів Лондона й Лутона): не «вилікувані легені», а більший приріст об'єму легень на тлі падіння NO2, тоді як зниження PM2.5 було скромним, а дизайн — квазіекспериментальний, без рандомізації. Ключова проста ідея для батьків: легені ростуть приблизно до 20 років, і втрачений приріст у дитинстві не наздоганяється — тому повітря в дитинстві важить більше, ніж у 50. Український контекст без паніки перед початком навчального року: чим ми реально дихаємо взимку (тверде паливо, генератори у дворах, пічне опалення в приватному секторі), що показують і чого не показують дешеві сенсори PM2.5, коли має сенс очисник повітря з HEPA у дитячій кімнаті, а коли це просто витрати. Чесно: доказів, що очисник у квартирі покращує ріст легень, немає — є докази щодо симптомів астми. Крос-лінк на матеріал про пасивний вейпінг у дітей 5–12 (07.08) як другу джерельну експозицію в тій самій кімнаті, без повторення його змісту.",
+      "sources_hint": "CHILL study (Children's Health in London and Luton), Mudway et al., Lancet Public Health 2023 + 2026 follow-up; ULEZ air-quality evaluations (GLA/Imperial College); Gauderman et al., NEJM 2015 (association of improved air quality with lung development); WHO Global Air Quality Guidelines 2021; Cochrane/RCT evidence on HEPA air cleaners and asthma symptoms (Butz 2011; Cui 2020)",
+      "evidence_level": "moderate",
+      "score": 73,
+      "rationale": "Live headline hook and back-to-school relevance, but evidence rests mainly on one cohort (CHILL) plus one older study, narrower breadth than top picks.",
+      "proposed": "2026-08-21"
+    },
+    {
+      "topic": "Сауна після робочого тижня: що показала фінська когорта на 2300 чоловіках і чому інфрачервона кабіна — це не те саме",
+      "type": "lifehack",
+      "category": "biohacking",
+      "angle": "П'ятничний матеріал під вихідні для тих, хто ходить у лазню або дивиться на інфрачервоні кабіни у фітнес-клубах. Найсильніші дані — фінська когорта KIHD (Laukkanen, JAMA Intern Med 2015, ~2300 чоловіків, 20 років спостереження): 4–7 сеансів на тиждень пов'язані з нижчою серцево-судинною і загальною смертністю проти одного сеансу — але це спостереження, а не РКД, і здоровіші люди частіше ходять у сауну. Що показують малі РКД і механістичні роботи: зниження артеріального тиску, покращення функції ендотелію, гострий ефект на жорсткість артерій. Ключове розведення понять: інфрачервона кабіна (45–60 °C, інша фізіологія, майже немає даних про смертність) — не еквівалент фінської сауни 80–100 °C; більшість гучних цифр отримані на другій. Практичне і сезонне: правила безпеки — не після алкоголю (у фінських даних смерті в сауні майже завжди з алкоголем), пити воду, обережно при неконтрольованій гіпертензії, аритміях, вагітності й у перші тижні після інфаркту; чому холодне занурення одразу після силової — окрема історія з мінусом для гіпертрофії (крос-лінк на матеріал від 02.08).",
+      "sources_hint": "Laukkanen et al., 'Association between sauna bathing and fatal cardiovascular and all-cause mortality events', JAMA Intern Med 2015;175:542; Laukkanen & Laukkanen, Mayo Clin Proc 2018 (sauna and hypertension/dementia); Hussain & Cohen, Evid Based Complement Alternat Med 2018 (clinical review of sauna bathing); Kunutsor systematic reviews 2018–2023; RCTs on infrared sauna (Beever 2010) and cardiovascular outcomes; Finnish forensic data on sauna deaths and alcohol",
+      "evidence_level": "moderate",
+      "score": 69,
+      "rationale": "Good Friday-timing fit and named cohort plus RCTs, but evidence leans on one large observational study with only small mechanistic trials beside it.",
+      "proposed": "2026-08-21"
+    },
+    {
+      "topic": "Сальмонела наприкінці літа: що насправді робить кухню небезпечною — і чому мити курку гірше, ніж не мити",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Привід — спалах сальмонельозу у Британії (сотні захворілих, один померлий) плюс пік сезону в Україні. Замість загального «мийте руки» — показати, де ланцюг ламається насправді: миття сирої курки розбризкує краплі на пів метра по мийці й посуду (кампанія FSA і експерименти з флуоресцентним маркером); «поки не буде рожевого» не є критерієм готовності — критерій це 70 °C у центрі шматка протягом 2 хвилин; сире яйце в домашньому майонезі, тірамісу, безе і білковому коктейлі; кавун і зелень, розрізані тим самим ножем; шашлик, який лежав у машині чотири години. Окремо — коли діарея потребує лікаря, а не «активованого вугілля»: кров у калі, температура понад 38,5 °C, зневоднення, вік до 5 і після 65, вагітність, імуносупресія. Чому антибіотики при звичайному сальмонельозі не пришвидшують одужання і можуть подовжити носійство. Крос-лінк на матеріал про циклоспору (31.07) із чітким розведенням: там — «діарея з відпустки, що не минає 3 дні і не реагує на азитроміцин», тут — домашня кухня і години, а не тижні; правило трьох днів не переказувати.",
+      "sources_hint": "UKHSA outbreak statements August 2026; UK Food Standards Agency 'Don't wash raw chicken' campaign and splash-transfer studies; CDC Salmonella / FoodNet pages; USDA safe minimum internal temperature chart; Shane et al., IDSA 2017 clinical practice guidelines for infectious diarrhea; EFSA/ECDC EU One Health Zoonoses Report 2025; МОЗ/ЦГЗ дані щодо гострих кишкових інфекцій",
+      "evidence_level": "moderate",
+      "score": 65,
+      "rationale": "Real outbreak hook and named sources (FSA, CDC, IDSA), but it's a procedural safety guide rather than several research findings converging, weaker roundup fit.",
+      "proposed": "2026-08-21"
     }
   ]
 }
