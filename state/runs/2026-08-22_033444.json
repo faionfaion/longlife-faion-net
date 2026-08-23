@@ -1,0 +1,92 @@
+{
+  "timestamp": "2026-08-22_033444",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "kardiomahnil-aspiryn-komu-potriben-formy-vidmina",
+  "author": "Віта",
+  "duration_s": 1900.6,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 353.0,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 45.3,
+      "error": null
+    },
+    {
+      "name": "research:Домашній тонометр: 7 днів, 28 ",
+      "status": "ok",
+      "duration_s": 372.2,
+      "error": null
+    },
+    {
+      "name": "generate:Домашній тонометр: 7 днів, 28 ",
+      "status": "failed",
+      "duration_s": 201.8,
+      "error": "[structured_query] All JSON repair attempts failed (16031 chars)"
+    },
+    {
+      "name": "research:Кардіомагніл «для розрідження ",
+      "status": "ok",
+      "duration_s": 302.8,
+      "error": null
+    },
+    {
+      "name": "generate:Кардіомагніл «для розрідження ",
+      "status": "ok",
+      "duration_s": 108.9,
+      "error": null
+    },
+    {
+      "name": "text_edit:Кардіомагніл «для розрідження ",
+      "status": "ok",
+      "duration_s": 135.2,
+      "error": null
+    },
+    {
+      "name": "review:Кардіомагніл «для розрідження ",
+      "status": "ok",
+      "duration_s": 254.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Кардіомагніл «для розрідження ",
+      "status": "ok",
+      "duration_s": 16.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Кардіомагніл «для розрідження ",
+      "status": "ok",
+      "duration_s": 15.2,
+      "error": null
+    },
+    {
+      "name": "save:Кардіомагніл «для розрідження ",
+      "status": "ok",
+      "duration_s": 91.2,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.3,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}

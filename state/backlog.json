@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T03:09:41.852248+00:00",
+  "updated_at": "2026-08-22T03:34:41.762539+00:00",
   "entries": [
     {
       "topic": "Понеділковий тиск: як виміряти його вдома правильно і чому одне вимірювання в аптеці нічого не означає",
@@ -22,17 +22,6 @@
       "score": 82,
       "rationale": "Landmark N-of-1 trials (SAMSON, StatinWISE) settle a decision huge numbers of readers are actively making, evergreen strength outweighs the lack of a news hook.",
       "proposed": "2026-08-17"
-    },
-    {
-      "topic": "Кардіомагніл «для розрідження крові»: кому аспірин щодня досі потрібен, а кому вже ні",
-      "type": "research",
-      "category": "prevention",
-      "angle": "Дуже поширена українська звичка — пити малу дозу аспірину «для профілактики», часто без призначення й десятиліттями. Показати розворот доказів: ASPREE (NEJM 2018, n=19 114, здорові 70+) — жодної користі для життя без інвалідності при значущому зростанні великих кровотеч; ARRIVE і ASCEND — невелике зниження судинних подій, з'їдене кровотечами; USPSTF 2022 прибрала рекомендацію для 60+. Ключова межа, яку читач мусить винести: первинна профілактика (інфаркту ще не було) — здебільшого ні; вторинна (був інфаркт, інсульт, стент, шунтування) — так, і самовільно кидати не можна. Обов'язковий дисклеймер на початку і в кінці: рішення про старт або відміну ухвалює лікар, стаття не є приводом самостійно змінити терапію. Окремо: аспірин не «розріджує кров» у побутовому сенсі, чому «кардіо-» форма не безпечніша для шлунка, і що робити тому, хто вже п'є роками.",
-      "sources_hint": "McNeil et al., ASPREE (three NEJM 2018;379 papers); Gaziano et al., ARRIVE, Lancet 2018;392:1036; ASCEND, NEJM 2018;379:1529; USPSTF 2022 aspirin for primary prevention of CVD; ADAPTABLE trial NEJM 2021; ESC 2021 CVD prevention guidelines; Antithrombotic Trialists' Collaboration, Lancet 2009",
-      "evidence_level": "strong",
-      "score": 82,
-      "rationale": "Strong RCT base (ASPREE/ARRIVE/ASCEND) settling a very common self-medication habit, right size for one sitting, nothing close published recently.",
-      "proposed": "2026-08-22"
     },
     {
       "topic": "Ашваганда від стресу: що насправді показують RCT — і чому питання не в ефекті, а в печінці й дозі",
