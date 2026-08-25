@@ -1,0 +1,20 @@
+- generic [active] [ref=f61e1]:
+  - main [ref=f61e2]:
+    - generic [ref=f61e3]:
+      - heading "moz.gov.ua" [level=1] [ref=f61e5]
+      - heading "Performing security verification" [level=2] [ref=f61e6]
+      - paragraph [ref=f61e7]: This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.
+  - contentinfo [ref=f61e14]:
+    - generic [ref=f61e16]:
+      - generic [ref=f61e18]:
+        - text: "Ray ID:"
+        - code [ref=f61e19]: a3077d801f1671e6
+      - generic [ref=f61e20]:
+        - generic [ref=f61e21]:
+          - text: Performance and Security by
+          - link "Cloudflare, opens in a new tab" [ref=f61e22] [cursor=pointer]:
+            - /url: https://www.cloudflare.com?utm_source=challenge&utm_campaign=m
+            - text: Cloudflare
+        - link "Privacy, opens in a new tab" [ref=f61e24] [cursor=pointer]:
+          - /url: https://www.cloudflare.com/privacypolicy/
+          - text: Privacy

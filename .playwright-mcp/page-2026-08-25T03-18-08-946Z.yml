@@ -1,0 +1,11 @@
+- generic [active] [ref=f20e1]:
+  - generic [ref=f20e4]:
+    - heading "Error 403" [level=3] [ref=f20e5]
+    - paragraph [ref=f20e6]: Web Page Blocked
+  - generic [ref=f20e7]:
+    - paragraph [ref=f20e9]: "URL: www.synevo.ua/tests/4167Client IP: 159.69.194.212Attack ID: 20000051Message ID: 004308762607"
+    - generic [ref=f20e10]:
+      - heading "What happened?" [level=3] [ref=f20e11]
+      - paragraph [ref=f20e12]: The page cannot be displayed.
+      - heading "What can I do?" [level=3] [ref=f20e13]
+      - paragraph [ref=f20e14]: Please contact the administrator for additional information.
