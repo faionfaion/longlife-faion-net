@@ -1,0 +1,86 @@
+{
+  "timestamp": "2026-08-25_040038",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "samozabir-vpl-doma-test-skryninh-shyjky-matky-ukraina",
+  "author": "Віта",
+  "duration_s": 3454.8,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 385.8,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 52.7,
+      "error": null
+    },
+    {
+      "name": "research:Домашній тест на ВПЛ замість м",
+      "status": "ok",
+      "duration_s": 1559.3,
+      "error": null
+    },
+    {
+      "name": "generate:Домашній тест на ВПЛ замість м",
+      "status": "ok",
+      "duration_s": 301.2,
+      "error": null
+    },
+    {
+      "name": "text_edit:Домашній тест на ВПЛ замість м",
+      "status": "ok",
+      "duration_s": 216.3,
+      "error": null
+    },
+    {
+      "name": "review:Домашній тест на ВПЛ замість м",
+      "status": "ok",
+      "duration_s": 349.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Домашній тест на ВПЛ замість м",
+      "status": "ok",
+      "duration_s": 31.3,
+      "error": null
+    },
+    {
+      "name": "material_images:Домашній тест на ВПЛ замість м",
+      "status": "ok",
+      "duration_s": 158.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Домашній тест на ВПЛ замість м",
+      "status": "ok",
+      "duration_s": 13.1,
+      "error": null
+    },
+    {
+      "name": "save:Домашній тест на ВПЛ замість м",
+      "status": "ok",
+      "duration_s": 383.1,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.3,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}
