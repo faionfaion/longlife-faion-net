@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T03:10:32.324437+00:00",
+  "updated_at": "2026-08-27T03:11:02.789196+00:00",
   "entries": [
     {
       "topic": "Понеділковий тиск: як виміряти його вдома правильно і чому одне вимірювання в аптеці нічого не означає",
@@ -456,12 +456,12 @@
       "topic": "Розтяжка перед тренуванням: чи справді статичний стретчинг «краде силу» — і з якої секунди це починається",
       "type": "fitness",
       "category": "fitness",
-      "angle": "Claim-check для тих, хто почув «статичну розтяжку перед силовою робити не можна» і тепер не розтягується взагалі. Мета-аналізи дають конкретну цифру замість гасла: втрата сили й потужності реальна, але залежить від тривалості утримання — до 60 секунд на м'яз ефект мізерний (порядку 1–2%, для звичайної людини непомітно), понад 60 секунд стає вимірним, і навіть це майже зникає, якщо після розтяжки зробити нормальну динамічну розминку й підводні підходи. Друга половина міфу — «розтяжка запобігає травмам»: у мета-аналізі Lauersen найсильніший захисний ефект має силове тренування, а не стретчинг. Практичний висновок для залу і для тренера, якого про це питають клієнти: перед роботою — динамічна розминка й легкі підводні сети; статику залишити на після тренування або на окрему сесію, якщо ціль — рухливість; людям із реально обмеженою амплітудою (глибокий присід, наклон) статика перед роботою корисніша, ніж шкідлива. Кросслінк на матеріал про weekend warrior (31.07) у частині про розігрів перед різким стартом.",
-      "sources_hint": "Behm et al., 'Acute effects of muscle stretching on physical performance, range of motion, and injury incidence', Appl Physiol Nutr Metab 2016;41:1; Simic et al., Scand J Med Sci Sports 2013;23:131; Chaabene et al., Front Physiol 2019;10:1468; Blazevich et al., Med Sci Sports Exerc 2018 (no effect with full warm-up); Lauersen et al., Br J Sports Med 2014;48:871 (strength training vs stretching for injury prevention); Afonso et al., Front Physiol 2021 meta-analysis on stretching and hypertrophy",
+      "angle": "Claim-check для тих, хто почув «статичну розтяжку перед силовою робити не можна» і тепер не розтягується взагалі. Мета-аналізи дають цифру замість гасла: втрата сили й потужності реальна, але залежить від тривалості утримання — до 60 секунд на м'яз ефект порядку 1–2%, тобто непомітний для звичайної людини; понад 60 секунд стає значущим і має значення хіба що для спортсмена в день змагань. Друга половина міфу — «розтяжка запобігає травмам»: РКД і огляди показують, що статичний стретчинг сам по собі частоту травм майже не змінює (доказова база тут слабша за блок про гостру втрату сили, і це треба сказати прямо), а от загальна розминка з поступовим підвищенням навантаження — змінює. Практичний висновок для тренера і для читача: перед силовою — динамічна розминка і підхідні сети; статичну розтяжку залишити на після тренування або в окремий блок, де вона дійсно збільшує амплітуду. Окремо — чому «розтяжка від крепатури» не працює.",
+      "sources_hint": "Behm et al., Appl Physiol Nutr Metab 2016;41:1 (acute effects of stretching); Chaabene et al., Front Physiol 2019 (acute effects of static stretching on force and power); Simic et al., Scand J Med Sci Sports 2013; Lauersen et al., BJSM 2014 (exercise interventions and injury prevention); Herbert & de Noronha, Cochrane 'Stretching to prevent or reduce muscle soreness'",
       "evidence_level": "strong",
-      "score": 57,
-      "rationale": "Solid meta-analyses give a precise number, but purely evergreen gym myth with no timely hook and fitness category already heavily covered this month.",
-      "proposed": "2026-08-26"
+      "score": 58,
+      "rationale": "Strong meta-analytic evidence with a genuine dose-response twist, but it's an evergreen gym-culture question with narrower stakes than the health topics above it.",
+      "proposed": "2026-08-27"
     },
     {
       "topic": "Червоне світло за 8000 гривень: що показують дослідження про LED-панелі для шкіри, болю і відновлення",
@@ -478,12 +478,12 @@
       "topic": "Замінник солі з калієм: єдиний «продукт із магазину», який у РКД знизив смертність",
       "type": "nutrition",
       "category": "nutrition",
-      "angle": "Claim-check навпаки — популярна річ, яка справді працює. SSaSS (NEJM 2021, 20 995 людей із 600 сіл Китаю, майже 5 років): проста заміна звичайної солі на суміш 75% NaCl / 25% KCl дала менше інсультів, серцево-судинних подій і смертей. Пояснити механізм простими словами: працює не лише мінус натрій, а й плюс калій, якого українцям хронічно бракує (борщ, картопля і хліб калію дають мало, а солі — багато). Чесні межі: вибірка — люди після інсульту або 60+ із гіпертензією, тобто ефект на молодого здорового не доведений; DECIDE-Salt дав слабший результат; смак відрізняється, при нагріванні гірчить. Головне попередження великим шрифтом: при хронічній хворобі нирок, прийомі спіронолактону, іАПФ чи сартанів калієва сіль небезпечна — це розмова з лікарем, а не самопризначення. Практично: що написано на етикетці українських замінників, скільки коштує, і чому «морська» чи «гімалайська» сіль тут ні до чого.",
-      "sources_hint": "Neal et al., SSaSS, NEJM 2021;385:1067 (DOI 10.1056/NEJMoa2105675); Zhang et al., DECIDE-Salt, JAMA Intern Med 2023; Yin et al., Heart 2022 meta-analysis of salt substitutes; Hernandez et al., Hypertension 2024 pooled analysis; WHO 2023 global sodium reduction report and 2025 WHO guideline on lower-sodium salt substitutes; KDIGO 2024 CKD guideline on potassium",
+      "angle": "Claim-check навпаки — популярна річ, яка справді витримує перевірку. SSaSS (NEJM 2021, 20 995 людей із 600 сіл Китаю, майже 5 років): заміна звичайної солі на суміш 75% NaCl / 25% KCl дала менше інсультів, серцево-судинних подій і смертей — рідкісний випадок, коли харчове втручання має тверду кінцеву точку. Пояснити механізм простими словами: працює не лише мінус натрій, а й плюс калій, якого в українському раціоні хронічно бракує. Чесна межа зовнішньої валідності: популяція SSaSS — сільське населення Китаю з дуже високим споживанням солі й високою часткою людей після інсульту, тож переносити ефект на здорового міського читача один в один не можна. Обов'язкова межа безпеки, яку продавці не пишуть: при хронічній хворобі нирок, прийомі інгібіторів АПФ/сартанів, спіронолактону або калійзберігаючих діуретиків замінник може дати гіперкаліємію — тут потрібен лікар. Практичне: як читати етикетку (частка KCl), що змінюється у смаку при засолюванні й консервації, і чому головне джерело солі — не сільничка, а хліб, ковбаси й сир.",
+      "sources_hint": "Neal et al., SSaSS, NEJM 2021;385:1067 (DOI 10.1056/NEJMoa2105675); Zhang et al., DECIDE-Salt, JAMA Intern Med 2023; Yin et al., Heart 2022 meta-analysis of salt substitutes; WHO 2023 guideline on lower-sodium salt substitutes; WHO STEPS Ukraine sodium data",
       "evidence_level": "strong",
-      "score": 72,
-      "rationale": "Large SSaSS RCT with mortality endpoint and clear safety caveat, strong evidence but no fresh news hook, purely evergreen claim-check.",
-      "proposed": "2026-08-26"
+      "score": 79,
+      "rationale": "SSaSS is a rare hard-endpoint RCT for a supermarket product, universal daily-life relevance, external-validity and hyperkalemia caveats give the piece a real argument beyond the headline claim.",
+      "proposed": "2026-08-27"
     },
     {
       "topic": "Антидепресанти: чому «синдром відміни» — це не залежність, і як виглядає доказове зниження дози",
@@ -495,17 +495,6 @@
       "score": 68,
       "rationale": "Named 2024 JAMA Psychiatry meta-analysis anchors a real terminology confusion many readers live with, evergreen but no acute hook.",
       "proposed": "2026-08-26"
-    },
-    {
-      "topic": "Мити чи не мити курку: де насправді ламається безпека кухні під час спалаху сальмонели",
-      "type": "guide",
-      "category": "prevention",
-      "angle": "Привід — британський спалах сальмонельозу (сотні хворих, один померлий, джерело ще не встановлене), який ми вже згадали в тижневому огляді 23.08 як новину без власного матеріалу; це обіцяне продовження. Замість загального «мийте руки» — три точки, де ланцюг рветься: (1) миття сирої курки під краном розбризкує краплі до півметра — кампанія FSA і експерименти з флуоресцентним маркером; (2) «поки не буде рожевого» не є критерієм — потрібні 70 °C у центрі шматка щонайменше 2 хвилини або еквівалент час/температура, і чому дешевий термощуп вирішує це надійніше за колір; (3) сире яйце у домашньому майонезі, тірамісу, крем-чізі — і чому «домашнє від бабусі» тут не аргумент. Окремо: коли діарея — це привід до лікаря (кров, температура >38,5, зневоднення, вік 65+, діти до 5, імуносупресія), і чому антибіотики при звичайному сальмонельозі частіше шкодять, ніж допомагають (подовжене носійство). Чесно назвати рівень доказів: це переважно гайдлайни, лабораторні експерименти і дані нагляду, а не РКД. Крос-лінк на матеріал про циклоспору (31.07) — правило трьох днів і мандрівна діарея вже розібрані там, не переказувати.",
-      "sources_hint": "UKHSA salmonella outbreak statements Aug 2026; UK Food Standards Agency 'Don't wash raw chicken' campaign and splash-transfer studies; USDA FSIS safe minimum internal temperature and time-temperature tables; CDC Salmonella / FoodNet pages; Shane et al., IDSA 2017 guidelines on infectious diarrhoea (antibiotic use in non-typhoidal salmonellosis); EFSA opinion on Salmonella in eggs; ДСТУ/МОЗ рекомендації щодо термообробки птиці",
-      "evidence_level": "moderate",
-      "score": 69,
-      "rationale": "Explicit promised follow-up to the 23.08 digest's UK outbreak mention gives strong timeliness, but evidence is mostly guidelines/lab studies rather than trials.",
-      "proposed": "2026-08-25"
     },
     {
       "topic": "Білок після 60: чому «норма» 0,8 г/кг занижена — і скільки насправді треба, щоб не втрачати м'язи",
@@ -555,12 +544,12 @@
       "topic": "Лазня і серце: що показала фінська когорта на 2300 чоловіках — і чому інфрачервона кабіна це не те саме",
       "type": "lifehack",
       "category": "biohacking",
-      "angle": "Для тих, хто ходить у лазню або дивиться на інфрачервоні кабіни у фітнес-клубах. Найсильніші дані — фінська когорта KIHD (JAMA Intern Med 2015, ~2300 чоловіків, 20 років спостереження): 4–7 сеансів на тиждень пов'язані з нижчою серцево-судинною і загальною смертністю проти одного. Чесно назвати межу: це спостереження, а не РКД, і здоровіші люди частіше ходять у сауну — той самий healthy-adherer effect, який ми вже розбирали на прикладі власників собак; малі РКД показують лише зниження тиску й жорсткості артерій, тобто механізм, а не результат. Окремо розвести фінську сауну (80–100 °C) та інфрачервону кабіну (45–60 °C) — фізіологія навантаження різна, а вся когортна доказова база стосується першої. Безпека, яку зазвичай не пишуть: алкоголь у лазні (у фінських даних — головна причина смертей), вагітність, нестабільна стенокардія, свіжий інфаркт, аритмії, зневоднення і різкий перепад у крижану воду. Крос-лінк на матеріал про крижану ванну після силової (02.08) — контраст «тепло як спостережний сигнал» проти «холод як виміряна шкода гіпертрофії».",
-      "sources_hint": "Laukkanen et al., JAMA Intern Med 2015;175:542 (KIHD sauna cohort); Laukkanen & Laukkanen, Mayo Clin Proc 2018; Hussain & Cohen, Evid Based Complement Alternat Med 2018 (clinical review); Gayda et al. and Lee et al. RCTs on sauna/Waon therapy and vascular function; Finnish forensic data on sauna deaths and alcohol; Kunutsor systematic reviews on sauna and cardiovascular outcomes",
+      "angle": "Матеріал для тих, хто ходить у лазню або дивиться на інфрачервоні кабіни у фітнес-клубах. Найсильніші дані — фінська когорта KIHD (JAMA Intern Med 2015, ~2300 чоловіків, понад 20 років): 4–7 сеансів на тиждень пов'язані з нижчою серцево-судинною і загальною смертністю проти одного сеансу. Чесно назвати межу: це спостереження, не РКД, і здоровіші люди частіше ходять у сауну — класичний healthy adherer effect (той самий застережний механізм, що і в матеріалі про власників собак); РКД існують, але вимірюють тиск і функцію судин на десятках людей, а не смертність. Окремо розвести два різні прилади: фінська суха сауна (80–100 °C) — це те, що вивчали; інфрачервона кабіна (45–60 °C) працює іншим механізмом і має принципово тоншу доказову базу, попри маркетинг «детоксу через піт», який спростовується прямими вимірюваннями складу поту. Безпека: алкоголь у лазні, свіжий інфаркт, нестабільна стенокардія, вагітність, різкий перехід у крижану воду. Не дублює матеріал 02.08 про крижану ванну — там холод і гіпертрофія, тут тепло і серцево-судинні кінцеві точки.",
+      "sources_hint": "Laukkanen et al., JAMA Intern Med 2015;175:542 (KIHD sauna cohort); Laukkanen & Laukkanen, Mayo Clin Proc 2018 review; Hussain & Cohen, Evid Based Complement Alternat Med 2018; Genuis et al. and Sears et al. on sweat composition and 'detox' claims; RCTs on Waon therapy / far-infrared sauna in heart failure",
       "evidence_level": "moderate",
       "score": 52,
-      "rationale": "Evidence leans on one cohort plus small mechanistic RCTs from the same research group, thinner than the other candidates for carrying 3500 words.",
-      "proposed": "2026-08-25"
+      "rationale": "Story has real turns (cohort vs RCT, healthy-adherer effect, sauna vs infrared) but the causal claim leans on one Finnish cohort, thinner evidence base for a full feature.",
+      "proposed": "2026-08-27"
     },
     {
       "topic": "Вейп як спосіб кинути курити: що показав великий огляд — і чому це не дозвіл починати",
@@ -616,6 +605,72 @@
       "score": 47,
       "rationale": "Named studies exist but thin per-claim evidence, and the sleep category is already saturated by trackers, jetlag, sleep-debt and roundup pieces this month.",
       "proposed": "2026-08-26"
+    },
+    {
+      "topic": "Гормональна терапія в менопаузі: чому лікарі перестали її боятися і кому вона підходить",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Велика прогалина корпусу: жінки 45–55 масово чують «гормони — це рак», і це луна одного прес-релізу WHI 2002 року. Розібрати по кроках: що WHI справді показала (середній вік учасниць 63 роки, комбінований естроген+прогестин — приріст раку молочної залози близько 1 випадку на 1000 жінок на рік; естроген окремо у жінок після гістеректомії — без приросту, за 18-річним наглядом навіть нижча смертність від РМЗ), і чому «гіпотеза вікна» (старт до 60 років або в межах 10 років від менопаузи) змінила рекомендації. Чесно назвати реальні ризики: венозний тромбоз при пероральній формі проти трансдермальної, ризик інсульту, обмеження при мігрені з аурою й анамнезі РМЗ. Що доведено працює: припливи, нічна пітливість, генітоуринарний синдром (місцевий естроген — окрема історія з мінімальною системною абсорбцією), профілактика переломів. Що не доведено: «омолодження», профілактика деменції та серцево-судинних подій як показання. Український блок: що зареєстровано, ціна, до якого лікаря йти. Чіткий маркер «рішення ухвалюється з лікарем індивідуально, це не інструкція до самопризначення». Не перетинається з матеріалом 01.08 про креатин у перименопаузі — там добавка і сила, тут рецептурна терапія і вазомоторні симптоми.",
+      "sources_hint": "Manson et al., JAMA 2017;318:927 (WHI 18-year follow-up mortality); Chlebowski et al., JAMA 2020;324:369 (breast cancer by regimen); The Menopause Society (NAMS) 2022 Hormone Therapy Position Statement; NICE NG23 update 2024; Vinogradova et al., BMJ 2019;364:k4810 (HRT and VTE by route); Cochrane 'Long-term hormone therapy for perimenopausal and postmenopausal women'",
+      "evidence_level": "strong",
+      "score": 87,
+      "rationale": "Huge underserved reader base still scared by 2002 WHI headlines, decades-deep literature (WHI follow-up, NAMS, NICE, Cochrane) gives real history-to-now arc, no evergreen news hook but nothing close in the corpus.",
+      "proposed": "2026-08-27"
+    },
+    {
+      "topic": "Лікування, у яке залучають родину: чи справді воно вдвічі зменшує госпіталізації у психіатрію",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Свіжий новинний заголовок стверджує, що підхід із залученням сім'ї пацієнта зменшує госпіталізації при психічних розладах. Перевірити, що саме виміряли: який дизайн (РКД чи спостереження), яка популяція (перший психотичний епізод? біполярний розлад?), і що є первинною кінцевою точкою — госпіталізація, симптоми чи рецидив; окремо перевірити, звідки взялося «вдвічі» і чи є це число в самій публікації, а не лише в прес-релізі. Ключовий контекст, якого немає в новині: сімейні втручання при психозі мають давню й пристойну доказову базу (Cochrane, NICE CG178 рекомендує ≥10 сесій), тоді як фінська модель «відкритого діалогу» в першому великому британському РКД ODDESSI не показала переваги за первинною кінцевою точкою — і цю розбіжність варто пояснити читачеві прямо, бо в українському інфопросторі «відкритий діалог» продають як прорив. Практичний висновок для родини людини з важким розладом: про що просити лікаря (психоосвіта для сім'ї, план кризи), і чого сімейне втручання не замінює (ліки). Обов'язковий маркер: матеріал не є заміною психіатричної допомоги, кризові контакти в Україні — 7333 і 103.",
+      "sources_hint": "BBC Health Aug 2026 story on family-involved treatment (verify the underlying publication before writing); ODDESSI trial (Pilling et al., Open Dialogue RCT, UK, 2025/2026 publication); Cochrane Review 'Family intervention for schizophrenia' (Pharoah et al.); NICE CG178 psychosis and schizophrenia in adults; Claxton et al. meta-analysis of family interventions in bipolar disorder",
+      "evidence_level": "moderate",
+      "score": 75,
+      "rationale": "Live BBC hook and a genuine tension to unpack (ODDESSI's null primary endpoint vs hyped 'open dialogue'), but evidence needs verification against a press claim and audience is narrower than the top subjects.",
+      "proposed": "2026-08-27"
+    },
+    {
+      "topic": "Тиск удома: 7-денний протокол вимірювання і чому одне число в аптеці нічого не означає",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Практичний гід, який закриває найчастішу побутову помилку: людина міряє тиск раз, бачить 150 і або лякається, або махає рукою. Протокол за ESH/AHA: 7 днів поспіль, ранок і вечір, по 2 вимірювання з інтервалом 1 хв, перший день відкинути, решту усереднити; поріг для домашніх вимірювань — 135/85, а не 140/90. Типові помилки, що завищують результат на 5–20 мм рт. ст.: манжета поверх одягу, невірний розмір манжети (найчастіша й найбільша похибка), спина без опори, ноги на вазі, повний сечовий міхур, розмова під час вимірювання, рука нижче рівня серця. Окремо — «гіпертензія білого халата» і зворотна ситуація, замаскована гіпертензія, яку кабінетне вимірювання пропускає. Як вибрати тонометр: лише валідований плечовий апарат зі списку STRIDE BP, чому зап'ясткові й «смарт-годинники» не годяться для діагнозу. Червоні прапорці для негайного звернення. Явна межа: щоденник тиску — привід до розмови з лікарем, а не підстава самому змінювати дозу препаратів.",
+      "sources_hint": "ESH 2023 Guidelines for the management of arterial hypertension (home BP thresholds); AHA 2019 scientific statement 'Measurement of Blood Pressure in Humans'; Stergiou et al., HBPM position paper, J Hypertens; STRIDE BP validated device list; MOH Ukraine clinical protocol on arterial hypertension",
+      "evidence_level": "strong",
+      "score": 68,
+      "rationale": "Solid ESH/AHA guideline base and a real everyday error pattern, but it leans more how-to checklist than an argument-driven feature, and it's evergreen with no dated hook.",
+      "proposed": "2026-08-27"
+    },
+    {
+      "topic": "Скільки білка треба після 60: чому норма 0,8 г/кг занижена і як її добрати без спортивного харчування",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Матеріал із подвійною адресою: для читача 60+ і для дієтолога/тренера, якого про це питають. Офіційна норма 0,8 г/кг маси тіла виведена з балансових досліджень на молодих і не враховує анаболічної резистентності — з віком м'яз гірше відповідає на ту саму дозу амінокислот. Робоча група PROT-AGE і ESPEN рекомендують 1,0–1,2 г/кг для здорових людей похилого віку і 1,2–1,5 при гострій хворобі чи реабілітації. Другий шар, який зазвичай проґавлюють: розподіл — типовий раціон дає майже весь білок у вечері, тоді як для стимуляції синтезу потрібно приблизно 25–30 г за прийом, тричі на день; дані щодо переваги рівномірного розподілу неоднозначні, і це треба сказати чесно. Третій шар: без силового навантаження білок сам по собі м'яз не будує — це показали РКД із добавками без тренувань. Практично: скільки це в українських продуктах (сир, яйця, риба, квасоля, кефір), і коли підвищений білок протипоказаний — при хронічній хворобі нирок дозу визначає лікар. Не дублює серпневий кросовер про білковий сніданок: там гормони ситості й споживання на обіді у здорових дорослих, тут добова доза й саркопенія у 60+.",
+      "sources_hint": "Bauer et al., PROT-AGE Study Group, JAMDA 2013;14:542; Deutz et al., ESPEN expert group, Clin Nutr 2014;33:929; Moore et al., J Gerontol A 2015 (per-meal protein dose in older adults); Tieland et al., JAMDA 2012 (protein + resistance training RCTs); Traylor et al., Adv Nutr 2018 (protein distribution evidence)",
+      "evidence_level": "moderate",
+      "score": 66,
+      "rationale": "PROT-AGE/ESPEN body of evidence and a clear myth-correction narrative for an aging readership, moderate evidence strength and no news trigger keep it a notch below the leaders.",
+      "proposed": "2026-08-27"
+    },
+    {
+      "topic": "Хворі ясна і серце: чи справді пародонтит підвищує ризик інфаркту — і що показали спроби його лікувати",
+      "type": "research",
+      "category": "research",
+      "angle": "Claim-check популярної тези «здоров'я починається в роті», яку стоматологічні клініки використовують у рекламі. Що є: сильний і відтворюваний спостережний зв'язок пародонтиту з серцево-судинними подіями і з гіршим контролем глюкози при діабеті (PAROKRANK: у людей після першого інфаркту пародонтит траплявся частіше). Що з причинністю: спільна заява AHA прямо каже, що зв'язок не доведено причинним — куріння й діабет тягнуть обидва кінці. Найцікавіше — інтервенційні дані: лікування пародонтиту достовірно знижує HbA1c приблизно на 0,4 пункти у людей із діабетом 2 типу (Cochrane), тобто ефект порівнянний із додаванням препарату, тоді як доказів зниження інфарктів немає жодних. Практичний висновок для читача: кровоточивість ясен — не косметика, а привід до лікаря, особливо при діабеті; але «почистіть зуби, щоб не було інфаркту» — це поки що екстраполяція. Українська частина: що покриває НСЗУ, реальна ціна професійної гігієни, чому «ультразвукова чистка раз на пів року» продається ширше, ніж має доказів.",
+      "sources_hint": "Rydén et al., PAROKRANK, Circulation 2016;133:576; Lockhart et al., AHA Scientific Statement, Circulation 2012;125:2520; Simpson et al., Cochrane Review 2022 'Treatment of periodontitis for glycaemic control in people with diabetes'; Sanz et al., EFP/WHF consensus, J Clin Periodontol 2020; Orlandi et al. meta-analysis on periodontal therapy and endothelial function",
+      "evidence_level": "moderate",
+      "score": 57,
+      "rationale": "Good causal-vs-correlation argument backed by PAROKRANK, AHA statement and a Cochrane intervention trial, but reader urgency and timeliness are both middling.",
+      "proposed": "2026-08-27"
+    },
+    {
+      "topic": "Денний сон 20 хвилин: коли він допомагає, а коли є симптомом, який варто перевірити",
+      "type": "lifehack",
+      "category": "sleep",
+      "angle": "Практичний матеріал про денний сон, який не повторює тем тривалості сну, трекерів і «боргу сну» у відпустці — тут окремий денний епізод і денна сонливість як симптом. Що доведено: короткий сон 10–20 хвилин покращує пильність і продуктивність без сонної інерції; сон 30–60 хвилин дає провал у глибокі стадії й розбитість на 15–30 хвилин після пробудження; «кава-нап» (кава перед 20-хвилинним сном) у контрольованих дослідженнях працює краще за кожен компонент окремо. Що не доведено: що денний сон подовжує життя або «відновлює борг» — епідеміологія тут перевертається, у великих когортах довгий і регулярний денний сон пов'язаний із вищою серцево-судинною смертністю, і найправдоподібніше пояснення — зворотна причинність: денна сонливість є симптомом апное, депресії, анемії чи гіпотиреозу. Практичні правила: до 15:00, до 20 хвилин, у затемненні; якщо людина засинає вдень щодня попри 7–8 годин нічного сну — це привід на скринінг апное (STOP-BANG і лікар), а не привід купувати маску для сну.",
+      "sources_hint": "Brooks & Lack, Sleep 2006;29:831 (nap duration comparison); Hayashi et al. and Reyner & Horne studies on caffeine-nap; Yamada et al., Sleep 2015 meta-analysis of daytime napping and cardiovascular risk; Häusler et al., Heart 2019 (nap frequency, Swiss cohort); AASM guidance on excessive daytime sleepiness and STOP-BANG screening",
+      "evidence_level": "moderate",
+      "score": 47,
+      "rationale": "Moderate evidence and a nice reverse-causation twist, but sits in an already crowded recent sleep-content cluster and reads better as a shorter lifehack than a 1800-3500 word feature.",
+      "proposed": "2026-08-27"
     }
   ]
 }

@@ -1,0 +1,80 @@
+{
+  "timestamp": "2026-08-26_034339",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "myty-kurku-salmonela-termometr-74-gradusy-syre-yaytse",
+  "author": "Віта",
+  "duration_s": 2436.9,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 401.9,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 47.5,
+      "error": null
+    },
+    {
+      "name": "research:Мити чи не мити курку: де насп",
+      "status": "ok",
+      "duration_s": 482.8,
+      "error": null
+    },
+    {
+      "name": "generate:Мити чи не мити курку: де насп",
+      "status": "ok",
+      "duration_s": 336.4,
+      "error": null
+    },
+    {
+      "name": "text_edit:Мити чи не мити курку: де насп",
+      "status": "ok",
+      "duration_s": 249.8,
+      "error": null
+    },
+    {
+      "name": "review:Мити чи не мити курку: де насп",
+      "status": "ok",
+      "duration_s": 378.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Мити чи не мити курку: де насп",
+      "status": "ok",
+      "duration_s": 27.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Мити чи не мити курку: де насп",
+      "status": "ok",
+      "duration_s": 14.4,
+      "error": null
+    },
+    {
+      "name": "save:Мити чи не мити курку: де насп",
+      "status": "ok",
+      "duration_s": 493.7,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.3,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}
