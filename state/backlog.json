@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T03:11:02.789196+00:00",
+  "updated_at": "2026-08-29T03:10:13.786224+00:00",
   "entries": [
     {
       "topic": "Понеділковий тиск: як виміряти його вдома правильно і чому одне вимірювання в аптеці нічого не означає",
@@ -511,12 +511,12 @@
       "topic": "Статична розтяжка перед тренуванням «краде силу»: скільки секунд треба, щоб це стало правдою",
       "type": "fitness",
       "category": "fitness",
-      "angle": "Claim-check для тих, хто почув «статику перед силовою не можна» і перестав розтягуватися взагалі. Мета-аналізи дають цифру замість гасла: втрата сили й потужності залежить від тривалості утримання — до 60 секунд на м'яз ефект близько 1–2% і для звичайної людини непомітний, понад 60 секунд стає реальним; до того ж він майже зникає, якщо після розтяжки зробити нормальну динамічну розминку. Чесна межа: більшість цих досліджень — гострі лабораторні заміри на малих вибірках молодих чоловіків, кінцева точка — стрибок чи ізометричний пік, а не результат у залі за 12 тижнів. Друга половина міфу — «розтяжка запобігає травмам»: докази слабкі, а те, що справді працює, — прогресивне навантаження і Nordic-типові вправи для задньої поверхні стегна. Практично: динамічна розминка перед силовою, статика — після тренування або окремою сесією, і чому людям із обмеженою амплітудою (сидяча робота, «не сідаю в присід») статика перед розминкою не зашкодить. Крос-лінк на матеріал про болгарський випад (06.08) і про warm-up у weekend warrior (31.07).",
-      "sources_hint": "Behm et al., Appl Physiol Nutr Metab 2016;41:1 (acute effects of stretching, systematic review); Chaabene et al., Front Physiol 2019; Simic et al., Scand J Med Sci Sports 2013; Blazevich et al., Med Sci Sports Exerc 2018 (short-duration static stretching + dynamic warm-up); Lauersen et al., BJSM 2014 (strength training vs stretching for injury prevention); Van Dyk et al. on Nordic hamstring exercise",
+      "angle": "Претренувальний міф, який змусив половину залу взагалі перестати розтягуватися. Мета-аналізи дають цифру замість гасла: втрата сили й потужності реальна, але залежить від тривалості утримання — до 60 секунд на м'яз ефект близько 1–2%, тобто для людини, яка не змагається, невидимий; понад 60 секунд стає помітним. Друга половина міфу — «розтяжка запобігає травмам»: тут докази слабкі, а те, що працює, — це загальна розминка і поступове підвищення навантаження. Практичний блок під вихідні: динамічна розминка 5–8 хвилин перед силовою чи бігом, статична розтяжка як окрема сесія або в кінці, і окремо чесна нота — гнучкість покращується від статичної роботи, це не даремна вправа, просто не перед підходом. Крос-лінк на weekend warrior (31.07) щодо ролі розминки у sedentary 40+.",
+      "sources_hint": "Behm et al., Appl Physiol Nutr Metab 2016;41:1 (acute effects of stretching); Simic et al., Scand J Med Sci Sports 2013 (pre-exercise static stretching meta-analysis); Chaabene et al., Front Physiol 2019; Lauersen et al., Br J Sports Med 2014 (injury prevention meta-analysis); Blazevich et al. on duration threshold",
       "evidence_level": "strong",
-      "score": 61,
-      "rationale": "Behm 2016 and related meta-analyses are solid, but the two-myth structure reads better as a shorter fitness piece than a 1800-3500 word feature.",
-      "proposed": "2026-08-25"
+      "score": 56,
+      "rationale": "Solid meta-analytic base and a common myth, but only two thin findings (duration threshold, weak injury data) to carry a gathered-evidence roundup.",
+      "proposed": "2026-08-28"
     },
     {
       "topic": "Зубна нитка чи йоржик: що показав Cochrane — і чому «просто чистити зуби двічі» недостатньо",
@@ -550,17 +550,6 @@
       "score": 52,
       "rationale": "Story has real turns (cohort vs RCT, healthy-adherer effect, sauna vs infrared) but the causal claim leans on one Finnish cohort, thinner evidence base for a full feature.",
       "proposed": "2026-08-27"
-    },
-    {
-      "topic": "Вейп як спосіб кинути курити: що показав великий огляд — і чому це не дозвіл починати",
-      "type": "research",
-      "category": "research",
-      "angle": "Новинний привід — свіжий великий огляд, який називає нікотинові вейпи найдієвішим способом кинути курити. Розвести дві різні аудиторії, які журналісти постійно змішують: для дорослого курця, який не може кинути, електронна сигарета в дослідженнях працює краще за нікотинові пластирі й жуйку (Cochrane living review: приблизно 8–10 успішних відмов на 100 проти 6 на NRT, висока певність доказів; РКД ESTxENDS у NEJM 2024 підтвердило). Для того, хто не курить, і особливо для підлітка, це не «менш шкідлива» опція, а нова залежність — і тут доказів користі немає взагалі. Чесно назвати три слабкі місця: більшість учасників РКД продовжували вейпити через рік (заміна залежності, а не звільнення), довгих даних про 10+ років немає, і жоден орган не рекомендує вейп як перший крок. Український контекст: заборона ароматизаторів з 2023 року, реальна доступність, і що з доказових інструментів справді є в аптеці (вареніклін, НЗТ, лінія відмови). Кросслінк на матеріал про пасивний вейпінг у дітей від 07.08 — там мова про експозицію дитини, тут про дорослого курця, і ці дві рамки не можна змішувати.",
-      "sources_hint": "Cochrane Living Review: Lindson et al., 'Electronic cigarettes for smoking cessation' (latest 2025/2026 update, RR vs NRT, GRADE high certainty); Auer et al., ESTxENDS RCT, NEJM 2024;390:601; Hajek et al., NEJM 2019;380:629; NICE NG209 tobacco guidance; WHO 2024 statement on ENDS; US Surgeon General / RCP 2024 update on e-cigarettes; Ukrainian law 1978-IX on flavoured e-liquids",
-      "evidence_level": "strong",
-      "score": 83,
-      "rationale": "Fresh Cochrane living review plus NEJM RCT, high reader decision-relevance for smokers, cleanly distinguished from the 07.08 child passive-vaping piece.",
-      "proposed": "2026-08-26"
     },
     {
       "topic": "Гормональна терапія менопаузи: як одне дослідження 2002 року налякало ціле покоління жінок — і що з ним не так",
@@ -621,12 +610,12 @@
       "topic": "Лікування, у яке залучають родину: чи справді воно вдвічі зменшує госпіталізації у психіатрію",
       "type": "research",
       "category": "mental-health",
-      "angle": "Свіжий новинний заголовок стверджує, що підхід із залученням сім'ї пацієнта зменшує госпіталізації при психічних розладах. Перевірити, що саме виміряли: який дизайн (РКД чи спостереження), яка популяція (перший психотичний епізод? біполярний розлад?), і що є первинною кінцевою точкою — госпіталізація, симптоми чи рецидив; окремо перевірити, звідки взялося «вдвічі» і чи є це число в самій публікації, а не лише в прес-релізі. Ключовий контекст, якого немає в новині: сімейні втручання при психозі мають давню й пристойну доказову базу (Cochrane, NICE CG178 рекомендує ≥10 сесій), тоді як фінська модель «відкритого діалогу» в першому великому британському РКД ODDESSI не показала переваги за первинною кінцевою точкою — і цю розбіжність варто пояснити читачеві прямо, бо в українському інфопросторі «відкритий діалог» продають як прорив. Практичний висновок для родини людини з важким розладом: про що просити лікаря (психоосвіта для сім'ї, план кризи), і чого сімейне втручання не замінює (ліки). Обов'язковий маркер: матеріал не є заміною психіатричної допомоги, кризові контакти в Україні — 7333 і 103.",
-      "sources_hint": "BBC Health Aug 2026 story on family-involved treatment (verify the underlying publication before writing); ODDESSI trial (Pilling et al., Open Dialogue RCT, UK, 2025/2026 publication); Cochrane Review 'Family intervention for schizophrenia' (Pharoah et al.); NICE CG178 psychosis and schizophrenia in adults; Claxton et al. meta-analysis of family interventions in bipolar disorder",
+      "angle": "Свіжий заголовок BBC стверджує, що підхід із залученням сім'ї скорочує госпіталізації при психічних розладах. Перевірити ланцюг «прес-реліз → публікація»: який дизайн, яка популяція, що є первинною кінцевою точкою і звідки взялося число — і чесно написати, якщо публікації за заявою немає (продовження лінії матеріалів про мРНК-вакцину проти меланоми і про різницю сигналу та доказу). Ключова напруга для читача: британське РКД ODDESSI (open dialogue) не досягло первинної кінцевої точки, тоді як сімейні втручання при шизофренії мають давню й міцнішу базу — кокрейнівський огляд показує зниження рецидивів і повторних госпіталізацій. Пояснити просту річ: «залучити родину» — це не розмова за чаєм, а структурований протокол із психоосвітою, розв'язанням проблем і роботою з критикою всередині сім'ї (концепція expressed emotion). Український контекст: родич часто і є системою допомоги, тому саме йому варто знати, що з цього доказове, а що ні, і куди звертатися (7333, howareu.com).",
+      "sources_hint": "BBC Health Aug 2026 family-involved treatment story — verify underlying publication first; Pilling et al., ODDESSI trial (Open Dialogue RCT, UK); Cochrane Review 'Family intervention for schizophrenia' (Pharoah et al.); Bighelli et al., Lancet Psychiatry / World Psychiatry meta-analyses of psychosocial relapse prevention; NICE CG178",
       "evidence_level": "moderate",
-      "score": 75,
-      "rationale": "Live BBC hook and a genuine tension to unpack (ODDESSI's null primary endpoint vs hyped 'open dialogue'), but evidence needs verification against a press claim and audience is narrower than the top subjects.",
-      "proposed": "2026-08-27"
+      "score": 60,
+      "rationale": "Fresh BBC hook with real tension (null ODDESSI vs strong Cochrane family-intervention data), but narrower audience and unverified underlying publication.",
+      "proposed": "2026-08-28"
     },
     {
       "topic": "Тиск удома: 7-денний протокол вимірювання і чому одне число в аптеці нічого не означає",
@@ -671,6 +660,171 @@
       "score": 47,
       "rationale": "Moderate evidence and a nice reverse-causation twist, but sits in an already crowded recent sleep-content cluster and reads better as a shorter lifehack than a 1800-3500 word feature.",
       "proposed": "2026-08-27"
+    },
+    {
+      "topic": "Соняшникова олія «отруює запаленням»: що кажуть рандомізовані дослідження про омега-6",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Claim-check міфу, який дійшов до українських кухонь у форматі «жарте на смальці, олія — це запалення». Розібрати механістичну історію (лінолева кислота → арахідонова → прозапальні ейкозаноїди) і показати, де вона обривається: у контрольованих дослідженнях підвищення лінолевої кислоти в раціоні не підвищує маркери запалення в людей, а рівень арахідонової в тканинах майже не змінюється. Далі — головна суперечка чесно: повторний аналіз старих РКД (Minnesota Coronary Experiment, Sydney Diet Heart) показав шкоду при заміні насичених жирів на олії, багаті лише лінолевою кислотою, і саме на цих даних тримається антиолійний табір; протилежний бік — великі когорти й мета-аналізи, де вища лінолева кислота в крові пов'язана з нижчою смертністю і меншим ризиком діабету. Практичний висновок: питання не «олія чи ні», а точка диму, повторне нагрівання і те, що витісняється з тарілки. Пряме продовження відкритого питання тижневого дайджесту 23.08 про те, як писати про механізм, не добудовуючи результатів.",
+      "sources_hint": "Johnson & Fritsche, J Acad Nutr Diet 2012 (linoleic acid and inflammatory markers, systematic review of controlled trials); Ramsden et al., BMJ 2016 (Minnesota Coronary Experiment recovered data) and BMJ 2013 (Sydney Diet Heart); Marklund et al., Circulation 2019 (pooled biomarker cohorts, 30 studies); Mensink 2016 WHO meta-analysis on fatty acids and lipids; Hooper et al., Cochrane 2020 on polyunsaturated fat",
+      "evidence_level": "moderate",
+      "score": 84,
+      "rationale": "Genuine multi-camp evidence dispute (mechanistic vs RCT reanalysis vs cohort data) directly answers the 23.08 digest's open question — ideal roundup shape.",
+      "proposed": "2026-08-28"
+    },
+    {
+      "topic": "Замінник солі з калієм: рідкісний випадок, коли продукт із магазину знизив смертність у РКД",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Claim-check навпаки — популярна річ, яка витримує перевірку. SSaSS (NEJM 2021, 20 995 людей із 600 сіл Китаю, ~5 років): заміна звичайної солі на суміш 75% NaCl / 25% KCl дала менше інсультів, серцево-судинних подій і смертей. Пояснити механізм простими словами: працює не тільки мінус натрій, а й плюс калій, якого в українському раціоні хронічно мало. Потім — чесні межі: вибірка була сільська, літня, з високою часткою людей після інсульту, тож перенесення на здорову 35-річну людину не автоматичне; DECIDE-Salt додає нюанс. Найважливіша практична частина — кому цього робити НЕ можна: хронічна хвороба нирок, іАПФ/сартани, калійзберігні діуретики (гіперкаліємія небезпечніша за пересолену страву), із прямою вказівкою обговорити з лікарем при будь-якому з цих пунктів. Що є в українських магазинах і як читати склад.",
+      "sources_hint": "Neal et al., SSaSS, NEJM 2021;385:1067; Zhang et al., DECIDE-Salt, JAMA Intern Med 2023; Yin et al., Heart 2022 meta-analysis of salt substitutes; WHO 2023 guideline on potassium intake; KDIGO guidance on hyperkalaemia risk",
+      "evidence_level": "strong",
+      "score": 79,
+      "rationale": "Strong RCT trio (SSaSS, DECIDE-Salt, meta-analysis) plus a sharp safety caveat gives an actionable multi-finding kitchen decision, untouched by corpus.",
+      "proposed": "2026-08-28"
+    },
+    {
+      "topic": "«У мене СДУГ, я бачила відео»: чим скринінговий опитувальник відрізняється від діагнозу у дорослого",
+      "type": "guide",
+      "category": "mental-health",
+      "angle": "Привід — попередження керівників NHS про хаос у службах діагностики СДУГ і аутизму, і паралельна українська реальність: черг немає, бо системи майже немає, зате є TikTok. Пояснити, що ASRS-v1.1 — це шість питань зі чутливістю близько 68% і специфічністю 99% у валідаційній вибірці, тобто інструмент для «варто перевірити», а не «маю розлад» (та сама рамка «скринінг ≠ діагноз», що й у матеріалах про SCOFF і CSBD-19). Чому діагноз у дорослого вимагає доказів симптомів у дитинстві, порушення функції щонайменше у двох сферах і виключення того, що дає таку саму картину — хронічного недосипу, тривоги, депресії, дефіциту заліза, гіпотиреозу, а в українському контексті ще й ПТСР та життя під сиренами. Чесно про лікування: стимулятори мають один із найбільших ефект-сайзів у психіатрії, але в Україні метилфенідат — контрольований обіг із жорсткими обмеженнями, тож розповісти, що реально доступно і які немедикаментозні втручання мають докази (структура середовища, КПТ для дорослих із СДУГ), а які ні (нейрофідбек, дієти без глютену).",
+      "sources_hint": "Kessler et al., Psychol Med 2005 (ASRS-v1.1 screener validation); DSM-5-TR and NICE NG87 adult ADHD diagnostic requirements; Cortese et al., Lancet Psychiatry 2018 (network meta-analysis of ADHD medications); Cochrane reviews of CBT for adult ADHD and of neurofeedback; Ukrainian regulation of methylphenidate (МОЗ controlled substances list)",
+      "evidence_level": "moderate",
+      "score": 71,
+      "rationale": "Live NHS hook plus TikTok self-diagnosis reality, solid screener-validation/treatment evidence chain, no prior ADHD material.",
+      "proposed": "2026-08-28"
+    },
+    {
+      "topic": "Глюкометр без діабету: що показують дослідження про безперервний моніторинг глюкози у здорових людей",
+      "type": "research",
+      "category": "biohacking",
+      "angle": "Claim-check найгарячішого гаджета останніх двох років: сенсор на плечі, застосунок із «спайками» і персональні поради «уникайте винограду». Що доведено: у людей з діабетом CGM покращує HbA1c — це сильні дані. Що не доведено: що у людини без діабету зниження постпрандіальних коливань дає хоч якийсь клінічний результат. Розібрати три речі: (1) точність — MARD ~8–10% означає, що «спайк 7,8» може бути 7,0 або 8,6, а міжсенсорна різниця у здорових людей велика; (2) що вважати нормою — у здорових людей глюкоза і так регулярно перевищує «страшні» пороги, і персоналізовані відповіді на однакову їжу (PREDICT) цікаві, але прив'язати їх до твердих кінцевих точок ніхто не зміг; (3) поведінковий ризик — надмірне обмеження вуглеводів і тривога навколо цифр. Для дієтологів: як відповідати клієнту, який приносить графік із застосунку. Практичний висновок: якщо мета — не пропустити переддіабет, дешевший і доказовіший крок — HbA1c і глюкоза натще. Крос-лінк на матеріали про T2D у молодих жінок (31.07) і про трекер сну (пристрій вимірює сигнал, а не наслідок).",
+      "sources_hint": "PubMed: continuous glucose monitoring healthy non-diabetic adults; Shah et al., J Clin Endocrinol Metab 2019 (CGM reference ranges in non-diabetics); Berry et al., PREDICT, Nature Medicine 2020; accuracy comparisons of Dexcom/Libre in normoglycaemic adults (MARD, sensor-to-sensor variability, 2024–2025); ADA Standards of Care 2026 (CGM indications); Klonoff et al. on CGM metric validity",
+      "evidence_level": "moderate",
+      "score": 69,
+      "rationale": "Three distinct evidence strands (accuracy, definition of normal, behavioral risk) fit a gathered-findings piece; trendy gadget with real reader stakes.",
+      "proposed": "2026-08-28"
+    },
+    {
+      "topic": "Що насправді в аптечних снодійних без рецепта: доксиламін, валеріана і мелатонін під мікроскопом",
+      "type": "guide",
+      "category": "sleep",
+      "angle": "Найпоширеніший український сценарій «не сплю — куплю щось в аптеці», розібраний по трьох найпопулярніших опціях. Доксиламін (Донормил): антигістамін першого покоління — засинання пришвидшує, але дослідження короткі, толерантність розвивається за дні, а у людей 65+ це препарат зі списку Beers через сплутаність, падіння і затримку сечі; окремо — «похмілля» наступного дня і водіння. Валеріана: мета-аналізи дають суперечливі результати з високою гетерогенністю і мізерні об'єктивні зміни. Мелатонін тут — коротко і лише про аптечний контекст (зсув фази, а не снодійне; аудити вмісту в добавках), без повторення дозових протоколів із матеріалів про джетлаг (06.08 і PRC) і без повернення до магнію (04.08) — на них дати крос-лінки. Головна теза: жодна з трьох опцій не б'є КПТ-безсоння, яке в гайдлайнах стоїть першою лінією — і пояснити, з яких конкретних кроків вона складається (обмеження часу в ліжку, контроль стимулів). Червоні прапорці: безсоння >3 місяців, хропіння з зупинками дихання, ранні пробудження з пригніченим настроєм — до лікаря.",
+      "sources_hint": "AASM 2017 clinical practice guideline for pharmacologic treatment of chronic insomnia; ACP 2016 guideline (CBT-I first line); AGS Beers Criteria 2023 (first-generation antihistamines); Cochrane/meta-analyses of valerian for insomnia; Erland & Saxena, J Clin Sleep Med 2017 (melatonin supplement content audit); Ukrainian OTC status of doxylamine",
+      "evidence_level": "moderate",
+      "score": 63,
+      "rationale": "Very high everyday relevance and guideline-backed evidence, but sleep as a theme is heavily saturated in this month's corpus already.",
+      "proposed": "2026-08-28"
+    },
+    {
+      "topic": "Сауна і серце: наскільки міцна доказова база під «фінськими» дослідженнями довголіття",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Претензія, яку люблять подкасти: «4–7 саун на тиждень знижують смертність удвічі». Джерело — фінська когорта KIHD (2315 чоловіків), і це справді велике спостережне дослідження з дозозалежним зв'язком. Але розібрати чесно: люди, які ходять у сауну 7 разів на тиждень, — це люди, які здатні дійти до сауни (зворотна причинність і healthy adherer effect, той самий механізм, що й у матеріалі про власників собак), і поправки на це не витягують. Що показують справжні РКД: короткі втручання дають зниження артеріального тиску і покращення функції ендотелію — механізм правдоподібний, кінцевих точок немає. Порівняти з тепловою адаптацією як тренувальним стимулом (крос-лінк на heat acclimation, 04.08) і з крижаною ванною як протилежним температурним втручанням. Практично: безпечні межі (алкоголь у сауні — головна причина смертей у фінській статистиці), кому обережно (нестабільна стенокардія, ортостатична гіпотензія, вагітність), і чому «сауна замість кардіо» — не рівність.",
+      "sources_hint": "Laukkanen et al., JAMA Intern Med 2015;175:542 (KIHD sauna and mortality); Laukkanen & Kunutsor reviews in Mayo Clin Proc; RCTs of repeated sauna bathing on blood pressure and endothelial function (Waon therapy trials); Hussain & Cohen, Evid Based Complement Alternat Med 2018 systematic review; Finnish forensic data on sauna deaths and alcohol",
+      "evidence_level": "moderate",
+      "score": 51,
+      "rationale": "Only one large observational cohort plus small mechanistic RCTs, and overlaps thematically with this month's heat-acclimation and ice-bath pieces.",
+      "proposed": "2026-08-28"
+    },
+    {
+      "topic": "«Гнучка від природи»: що таке гіпермобільність суглобів і коли вона стає діагнозом",
+      "type": "guide",
+      "category": "fitness",
+      "angle": "Новинний привід — матеріал BBC про «bendy disease». Тема, якої в корпусі немає взагалі, а в Україні її або романтизують («у мене розтяжка від народження»), або гуглять до гіршого. Розвести три різні речі: безсимптомна гіпермобільність (норма у ~10–20% людей, частіше у дітей і жінок), гіпермобільний спектральний розлад і гіпермобільний ЕДС за критеріями 2017 року — з поясненням шкали Бейтона (9 балів) і того, що бали самі по собі діагнозу не дають. Чому болять не суглоби, а м'язи навколо них; чому супутні скарги (втома, запаморочення при вставанні, ШКТ) реальні, але механізм спірний. Головне доказове ядро: єдине, що стабільно допомагає — прогресивні силові й пропріоцептивні вправи, а не уникання навантаження і не розтяжка «бо я гнучка». Чесно про те, що якісних РКД мало і вони малі. Червоні прапорці для направлення до кардіолога/генетика (аортальний корінь, судинний тип ЕДС). Крос-лінк на матеріал про болгарський випад (06.08) як приклад унілатеральної роботи.",
+      "sources_hint": "Malfait et al., 2017 International Classification of the Ehlers-Danlos Syndromes, Am J Med Genet C; Beighton score validation studies; Palmer et al., Physiotherapy 2014 systematic review of exercise for hypermobility; Ehlers-Danlos Society 2023 hEDS criteria update; Nicholson & Chan 2018; BBC Health Aug 2026 hypermobility feature",
+      "evidence_level": "moderate",
+      "score": 44,
+      "rationale": "Thin, small-trial exercise evidence and a definitional-guide shape that doesn't naturally gather several findings for today's roundup slot.",
+      "proposed": "2026-08-28"
+    },
+    {
+      "topic": "Тиск удома: 7 днів, два рази на день — і чому одне вимірювання в аптеці нічого не означає",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Практичний гайд на вихідні, коли є час зробити це нормально. Протокол домашнього моніторингу: 7 днів поспіль, ранок і вечір, по 2 вимірювання з інтервалом хвилина, перший день викидаємо, решту усереднюємо. Ключова цифра, якої більшість не знає: поріг для домашніх вимірювань — 135/85, а не 140/90, бо вдома тиск нижчий, ніж у кабінеті. Далі — типові помилки, кожна з ціною в мм рт. ст.: манжета поверх одягу, завузька манжета на повній руці (завищення до 20), ноги на вазі й спина без опори, повний сечовий міхур, розмова під час вимірювання, рука нижче рівня серця, вимірювання одразу після кави чи сходів. Окремо — «гіпертензія білого халата» і зворотна, прихована гіпертензія, яку саме домашній моніторинг і ловить. Що робити з числами: як записувати, коли нести до лікаря, і чому не можна самому міняти дозу препарату. Плюс критерій вибору тонометра: тільки валідований плечовий, зап'ясткові й «розумні браслети» для діагнозу не годяться. Природний крос-лінк на сьогоднішній матеріал про калієвий замінник солі.",
+      "sources_hint": "ESC/ESH 2023 Guidelines for the management of arterial hypertension (home BP thresholds 135/85); AHA 2019 scientific statement 'Measurement of Blood Pressure in Humans'; Stergiou et al., home BP monitoring position paper, J Hypertens; STRIDE BP validated device list; Ukrainian MOH clinical protocol on arterial hypertension",
+      "evidence_level": "strong",
+      "score": 84,
+      "rationale": "Guideline-backed protocol (ESC/ESH, AHA), highly actionable, and explicitly a weekend task that fits a Saturday guide slot perfectly.",
+      "proposed": "2026-08-29"
+    },
+    {
+      "topic": "Замінник солі з калієм: рідкісний випадок, коли продукт із магазину знизив смертність у великому РКД",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Claim-check навпаки — популярна річ, яка витримує перевірку. SSaSS (NEJM 2021, 20 995 людей із 600 сіл Китаю, майже 5 років спостереження): проста заміна звичайної солі на суміш 75% NaCl / 25% KCl дала менше інсультів, серцево-судинних подій і смертей — це тверда кінцева точка, а не «маркер у крові». Пояснити механізм у двох реченнях: працює і мінус натрій, і плюс калій, якого в українському раціоні хронічно бракує. Потім — чесні межі, без яких стаття була б рекламою: вибірка сільська, літня, більшість учасників уже мали інсульт або гіпертензію, тому перенесення на здорового 35-річного киянина — екстраполяція; DECIDE-Salt дав слабший результат. І головне застереження, яке в супермаркеті ніхто не пише на етикетці: при хронічній хворобі нирок, прийомі інгібіторів АПФ/сартанів, спіронолактону або калійзберігальних діуретиків калієвий замінник може дати гіперкаліємію — тут потрібен лікар, а не самопризначення. Практичне: як шукати склад на етикетці українських замінників, скільки натрію реально прибирає заміна, і чому смак майже не страждає.",
+      "sources_hint": "Neal et al., SSaSS, NEJM 2021;385:1067 (DOI 10.1056/NEJMoa2105675); Zhang et al., DECIDE-Salt, JAMA Intern Med 2023; Yin et al., Heart 2022 meta-analysis of salt substitutes; WHO 2023 guideline on potassium intake and sodium reduction; KDIGO guidance on hyperkalemia risk; WHO STEPS Ukraine sodium intake data",
+      "evidence_level": "strong",
+      "score": 80,
+      "rationale": "Hard-endpoint mega-RCT (SSaSS) plus honest caveats (CKD, ACEi/ARB interaction), cheap actionable takeaway, no overlap with recent posts.",
+      "proposed": "2026-08-29"
+    },
+    {
+      "topic": "Хропіння чи апное: як відрізнити вдома і коли це вже не побутова незручність",
+      "type": "guide",
+      "category": "sleep",
+      "angle": "Практичний гайд для партнерів «які не сплять через нього» і для тих, хто прокидається розбитим після восьми годин. Чітка межа: просте хропіння — це шум, обструктивне апное — це десятки зупинок дихання за годину з падінням кисню, і воно пов'язане з гіпертензією, аритміями, інсультом і ДТП через сонливість за кермом. Дати валідований опитувальник STOP-BANG простими словами (хропіння, втома вдень, спостережені зупинки дихання, тиск, ІМТ, вік, окружність шиї, стать) з чесним поясненням, що це скринінг із високою чутливістю і посередньою специфічністю: 0-2 бали майже виключають важке апное, 5+ — привід іти до лікаря, а не купувати смужки на ніс. Далі — що працює і що ні: зниження ваги й позиційна терапія мають доказ, CPAP лишається стандартом при середньому й важкому апное (з чесною ноткою, що великі РКД не показали зниження серцево-судинних подій через погану прихильність), внутрішньоротові апарати — альтернатива при легкому; а «спреї від хропіння», пластирі на рот і трекери сну діагнозу не ставлять. Куди йти в Україні: полісомнографія чи домашня респіраторна поліграфія. Це розгортання блоку, який у матеріалі про трекери сну (08.08) був лише посиланням — крос-лінк, без переказу.",
+      "sources_hint": "Chung et al., STOP-BANG questionnaire validation, Anesthesiology 2008 and Chest 2016 meta-analysis; AASM 2017 clinical practice guideline for diagnostic testing for adult OSA; Patil et al., AASM 2019 guideline on PAP therapy; SAVE trial, NEJM 2016 (CPAP and cardiovascular events); Ramar et al., AASM/AADSM 2015 oral appliance guideline; Cochrane reviews on weight loss and positional therapy in OSA",
+      "evidence_level": "strong",
+      "score": 77,
+      "rationale": "Strong guideline base (STOP-BANG, AASM, SAVE trial) and broad relevance to couples/snorers; legitimate expansion of the 08.08 tracker reference, not a repeat.",
+      "proposed": "2026-08-29"
+    },
+    {
+      "topic": "«Гнучкі суглоби» — не завжди талант: що таке гіпермобільність і коли вона стає діагнозом",
+      "type": "research",
+      "category": "research",
+      "angle": "Новинний гачок: BBC пише про «bendy disease» — маловідомий стан, що дає біль і виснажливу втому. Розвести три різні речі, які плутають навіть лікарі: (1) безсимптомна генералізована гіпермобільність суглобів — у 10-20% людей, це варіант норми і часто перевага для гімнастики й музики; (2) спектр гіпермобільних розладів (HSD) — гнучкість плюс хронічний біль, підвивихи, втома; (3) гіпермобільний синдром Елерса-Данло (hEDS) за критеріями 2017 року, для якого досі не знайдено гена, тобто діагноз клінічний. Пояснити шкалу Бейтона (9 балів) простими словами і одразу застерегти: високий бал сам собою діагнозу не дає. Головна практична частина — що реально працює: доказова база тонка, але поступові силові й пропріоцептивні тренування (не розтяжка!) мають найкращу підтримку, а «берегти суглоби і не навантажувати» погіршує стан. Окремо — часті супутники (ортостатична непереносимість/POTS, функціональні розлади ШКТ) і чому це не робить людину «загадковою хворою». Червоні прапорці судинного типу EDS, який справді небезпечний.",
+      "sources_hint": "Malfait et al., 2017 International Classification of the Ehlers-Danlos Syndromes, Am J Med Genet C; Castori et al. on hypermobility spectrum disorders; Palmer et al., Physiotherapy 2014 systematic review of exercise for joint hypermobility syndrome; Reychler et al. 2021 meta-analysis on physiotherapy in hEDS/HSD; Beighton score validity papers; Ehlers-Danlos Society diagnostic checklist; NHS/RCGP hypermobility guidance",
+      "evidence_level": "moderate",
+      "score": 73,
+      "rationale": "Live BBC news hook plus a genuinely confused 10-20%-prevalence topic, evidence moderate (Malfait 2017, Palmer/Reychler reviews) but real and nameable.",
+      "proposed": "2026-08-29"
+    },
+    {
+      "topic": "Розтяжка перед тренуванням «краде силу»: скільки секунд це починає робити насправді",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Claim-check для тих, хто почув «статичну розтяжку перед силовою робити не можна» і тепер не розтягується взагалі. Мета-аналізи дають цифру замість гасла: втрата сили й потужності реальна, але залежить від тривалості утримання — до 60 секунд на м'яз ефект порядку 1-2%, тобто непомітний для будь-кого, хто не змагається; понад 60 секунд стає відчутним. Друга половина міфу — «розтяжка запобігає травмам»: систематичні огляди цього не підтверджують, а от загальна розминка з підвищенням температури м'язів і динамічними рухами підтверджують. Третій пункт для тренерів: у видах, де потрібна велика амплітуда (важкоатлетичний присід, гімнастика), коротка статична розтяжка перед роботою може бути корисною саме заради амплітуди, і це не суперечить попереднім двом. Практичний висновок: динамічна розминка 5-10 хвилин перед роботою, статична розтяжка після або окремою сесією, утримання 30 секунд, і не робити з цього ритуалу проблему. Крос-лінк на матеріал про weekend warrior (розминка ≥10 хв) і на сьогоднішню статтю про гіпермобільність, де порада прямо протилежна — там сила замість розтяжки.",
+      "sources_hint": "Behm et al., 'Acute effects of muscle stretching on physical performance, range of motion, and injury incidence in healthy active individuals', Appl Physiol Nutr Metab 2016;41:1; Chaabene et al., Front Physiol 2019 (acute effects of static stretching); Simic et al., Scand J Med Sci Sports 2013; Blazevich et al. 2018 RCT on warm-up composition; Lauersen et al., Br J Sports Med 2014 (exercise interventions and injury prevention)",
+      "evidence_level": "strong",
+      "score": 70,
+      "rationale": "Solid meta-analyses (Behm, Chaabene) settle a common gym myth cleanly, evergreen with no live hook and no overlap with recent fitness posts.",
+      "proposed": "2026-08-29"
+    },
+    {
+      "topic": "«Соняшникова олія — це запалення»: що показали контрольовані дослідження про омега-6",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Claim-check міфу, який дійшов до українських кухонь у форматі «жарте на смальці, олія — це запалення». Розібрати механістичну історію (лінолева кислота перетворюється на арахідонову, а з неї роблять прозапальні ейкозаноїди) і показати рівно те місце, де вона обривається: у контрольованих дослідженнях підвищення лінолевої кислоти в раціоні не підвищує маркери запалення в людей, а вміст арахідонової кислоти в тканинах майже не змінюється. Далі — найцікавіше: історія з відновленими даними Minnesota Coronary Experiment і Sydney Diet Heart Study, де заміна насичених жирів на омега-6 знизила холестерин, але не смертність — це чесний аргумент скептиків, і його треба показати, а не сховати. Проти нього — великі когорти й біомаркерні пули, де вищий рівень лінолевої кислоти в крові пов'язаний з нижчим ризиком серцево-судинних подій і діабету 2 типу. Висновок для кухні: питання не «олія чи смалець», а скільки й у якому вигляді — окремо про точку димлення, повторне використання олії й те, що більшість омега-6 українці отримують не з пляшки олії, а з готової їжі. Прямий крос-лінк на матеріал про ультраоброблену їжу (18.08): механізм важливіший за категорію.",
+      "sources_hint": "Johnson & Fritsche, J Acad Nutr Diet 2012 (linoleic acid and inflammatory markers, systematic review of controlled trials); Ramsden et al., BMJ 2016 (recovered Minnesota Coronary Experiment data) and BMJ 2013 (Sydney Diet Heart Study); Marklund et al., Circulation 2019 (pooled biomarker analysis, 30 cohorts, linoleic acid and CVD); Wu et al., Lancet Diabetes Endocrinol 2017 (linoleic acid biomarkers and T2D); AHA advisory on omega-6 fatty acids (Harris et al., Circulation 2009)",
+      "evidence_level": "moderate",
+      "score": 64,
+      "rationale": "Decent claim-check literature (Ramsden reanalyses, Marklund pooled cohorts) but evidence is contested/moderate and kitchen-myth appeal is narrower than top picks.",
+      "proposed": "2026-08-29"
+    },
+    {
+      "topic": "Сімейні втручання при психозі: найкраще доведене і найгірше впроваджене в психіатрії",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Стаття свідомо стоїть не на свіжому прес-релізі, а на давно наявній доказовій базі — новинний привід (повідомлення про дослідження втручань за участю родини і скорочення госпіталізацій) використовується лише як вхід і згадується тільки за умови, що знайдено первинну публікацію з вибіркою, дизайном і кінцевими точками; якщо публікації немає — це подається як сигнал, а не доказ, за нашим правилом із матеріалу про меланомну вакцину. Ядро матеріалу: механізм без езотерики — при психозах і біполярному розладі рецидив часто запускається не «поганими генами», а тим, що вдома ніхто не розуміє ранніх ознак і що робити; сімейні втручання вчать розпізнавати продром, знижують критику й гіперопіку (expressed emotion) і в РКД зменшують частоту рецидивів приблизно вдвічі (Cochrane 2010, Pharoah et al.). Головна теза: NICE рекомендує сімейні втручання при шизофренії ще з CG178, а отримує їх меншість пацієнтів — розрив між доказом і впровадженням. Чесна межа: «відкритий діалог» (Open Dialogue) як бренд має слабшу базу — британське РКД ODDESSI не показало переваги над стандартною допомогою, тож не змішувати доказове сімейне втручання з модною назвою. Практичне для родин в Україні: що робити, якщо близький має важкий психічний розлад, куди звертатися, і чому «не нервуй його» — не план.",
+      "sources_hint": "Pharoah et al., Cochrane Database Syst Rev 2010, Family intervention for schizophrenia; NICE CG178 Psychosis and schizophrenia in adults; Pilling et al., Psychol Med 2002 meta-analyses of family intervention and expressed emotion; Miklowitz et al., family-focused therapy RCTs in bipolar disorder (Arch Gen Psychiatry 2003, JAMA Psychiatry 2020); ODDESSI trial (Open Dialogue, UK, published results 2024-2025); optional news hook — verify the August 2026 family-involvement/admissions study has a primary publication (Lancet Psychiatry / BMJ / World Psychiatry) before citing it",
+      "evidence_level": "moderate",
+      "score": 50,
+      "rationale": "Evidence is real but dated (Cochrane 2010) and the subject spans schizophrenia, bipolar and Open Dialogue — too sprawling for a single normal-length post.",
+      "proposed": "2026-08-29"
+    },
+    {
+      "topic": "Червона світлотерапія вдома: що доведено для шкіри й болю, а що продають на самому механізмі",
+      "type": "lifehack",
+      "category": "biohacking",
+      "angle": "Панелі й маски «red light therapy» за 5-15 тисяч гривень продають одночасно від зморшок, болю в спині, випадіння волосся, схуднення й «мітохондріальної енергії» — класична ознака, що доказів мало, а маркетингу багато. Розкласти по силі доказів: найкраще виглядають дані для шкіри (кілька РКД із покращенням щільності колагену й зменшенням дрібних зморшок) та для андрогенної алопеції (низькорівневі лазерні пристрої мають схвалення FDA за 510(k), тобто «безпечно й подібно до аналога», а не «ефективно як ліки»); проміжна зона — біль у м'язах і суглобах, де мета-аналізи є, але з великою гетерогенністю; порожня зона — «схуднення», «детокс», «підвищення тестостерону». Ключове, що читач не бачить: у дослідженнях указані конкретні довжина хвилі, щільність потоку і доза в джоулях на см², а на побутових панелях цих цифр або немає, або вони не перевіряються — тобто навіть при реальному ефекті в лабораторії ви не знаєте, що купили. Безпека: очі, фотосенсибілізувальні препарати, вагітність, і чому «більше — не краще» (біфазна доза-відповідь).",
+      "sources_hint": "Wunsch & Matuschka, Photomed Laser Surg 2014 (RCT, skin collagen density); Avci et al., Semin Cutan Med Surg 2013 (LLLT in dermatology review); Afifi et al. and Gupta review on low-level laser therapy for androgenetic alopecia; Hamblin, AIMS Biophys 2017 (mechanisms and biphasic dose response); Cochrane and BJSM meta-analyses on low-level laser therapy for musculoskeletal pain; FDA 510(k) database entries for home LLLT devices",
+      "evidence_level": "preliminary",
+      "score": 46,
+      "rationale": "Evidence explicitly preliminary/fragmented across unrelated claims (skin, hair, pain), weakest evidentiary footing of the list though the literature is nameable.",
+      "proposed": "2026-08-29"
     }
   ]
 }

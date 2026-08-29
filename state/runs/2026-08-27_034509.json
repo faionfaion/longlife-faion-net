@@ -1,0 +1,86 @@
+{
+  "timestamp": "2026-08-27_034509",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "veip-vidmova-vid-kurinnia-cochrane-2026-onovlennia",
+  "author": "Віта",
+  "duration_s": 2525.7,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 398.9,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 80.4,
+      "error": null
+    },
+    {
+      "name": "research:Вейп як спосіб кинути курити: ",
+      "status": "ok",
+      "duration_s": 360.3,
+      "error": null
+    },
+    {
+      "name": "generate:Вейп як спосіб кинути курити: ",
+      "status": "ok",
+      "duration_s": 242.3,
+      "error": null
+    },
+    {
+      "name": "text_edit:Вейп як спосіб кинути курити: ",
+      "status": "ok",
+      "duration_s": 373.3,
+      "error": null
+    },
+    {
+      "name": "review:Вейп як спосіб кинути курити: ",
+      "status": "ok",
+      "duration_s": 372.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Вейп як спосіб кинути курити: ",
+      "status": "ok",
+      "duration_s": 19.2,
+      "error": null
+    },
+    {
+      "name": "material_images:Вейп як спосіб кинути курити: ",
+      "status": "ok",
+      "duration_s": 198.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Вейп як спосіб кинути курити: ",
+      "status": "ok",
+      "duration_s": 13.5,
+      "error": null
+    },
+    {
+      "name": "save:Вейп як спосіб кинути курити: ",
+      "status": "ok",
+      "duration_s": 461.7,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.4,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}

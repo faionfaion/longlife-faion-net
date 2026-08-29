@@ -1,0 +1,110 @@
+{
+  "timestamp": "2026-08-28_033228",
+  "status": "empty",
+  "dry_run": false,
+  "slug": "",
+  "author": "Віта",
+  "duration_s": 1765.0,
+  "image_generated": false,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 377.4,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 129.6,
+      "error": null
+    },
+    {
+      "name": "research:Гормональна терапія в менопауз",
+      "status": "ok",
+      "duration_s": 536.7,
+      "error": null
+    },
+    {
+      "name": "generate:Гормональна терапія в менопауз",
+      "status": "ok",
+      "duration_s": 239.0,
+      "error": null
+    },
+    {
+      "name": "text_edit:Гормональна терапія в менопауз",
+      "status": "ok",
+      "duration_s": 184.8,
+      "error": null
+    },
+    {
+      "name": "review:Гормональна терапія в менопауз",
+      "status": "ok",
+      "duration_s": 249.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Гормональна терапія в менопауз",
+      "status": "failed",
+      "duration_s": 4.6,
+      "error": "Claude Code returned an error result: success"
+    },
+    {
+      "name": "research:Соняшникова олія «отруює запал",
+      "status": "failed",
+      "duration_s": 4.5,
+      "error": "Claude Code returned an error result: success"
+    },
+    {
+      "name": "research:Замінник солі з калієм: рідкіс",
+      "status": "failed",
+      "duration_s": 4.8,
+      "error": "Claude Code returned an error result: success"
+    },
+    {
+      "name": "research:«У мене СДУГ, я бачила відео»:",
+      "status": "failed",
+      "duration_s": 4.4,
+      "error": "Claude Code returned an error result: success"
+    },
+    {
+      "name": "research:Глюкометр без діабету: що пока",
+      "status": "failed",
+      "duration_s": 4.4,
+      "error": "Claude Code returned an error result: success"
+    },
+    {
+      "name": "research:Що насправді в аптечних снодій",
+      "status": "failed",
+      "duration_s": 4.6,
+      "error": "Claude Code returned an error result: success"
+    },
+    {
+      "name": "research:Лікування, у яке залучають род",
+      "status": "failed",
+      "duration_s": 4.7,
+      "error": "Claude Code returned an error result: success"
+    },
+    {
+      "name": "research:Статична розтяжка перед тренув",
+      "status": "failed",
+      "duration_s": 4.5,
+      "error": "Claude Code returned an error result: success"
+    },
+    {
+      "name": "research:Сауна і серце: наскільки міцна",
+      "status": "failed",
+      "duration_s": 4.5,
+      "error": "Claude Code returned an error result: success"
+    },
+    {
+      "name": "research:«Гнучка від природи»: що таке ",
+      "status": "failed",
+      "duration_s": 4.6,
+      "error": "Claude Code returned an error result: success"
+    }
+  ]
+}
