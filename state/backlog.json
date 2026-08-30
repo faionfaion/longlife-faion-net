@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T03:10:13.786224+00:00",
+  "updated_at": "2026-08-29T03:32:10.560314+00:00",
   "entries": [
     {
       "topic": "Понеділковий тиск: як виміряти його вдома правильно і чому одне вимірювання в аптеці нічого не означає",
@@ -594,17 +594,6 @@
       "score": 47,
       "rationale": "Named studies exist but thin per-claim evidence, and the sleep category is already saturated by trackers, jetlag, sleep-debt and roundup pieces this month.",
       "proposed": "2026-08-26"
-    },
-    {
-      "topic": "Гормональна терапія в менопаузі: чому лікарі перестали її боятися і кому вона підходить",
-      "type": "research",
-      "category": "prevention",
-      "angle": "Велика прогалина корпусу: жінки 45–55 масово чують «гормони — це рак», і це луна одного прес-релізу WHI 2002 року. Розібрати по кроках: що WHI справді показала (середній вік учасниць 63 роки, комбінований естроген+прогестин — приріст раку молочної залози близько 1 випадку на 1000 жінок на рік; естроген окремо у жінок після гістеректомії — без приросту, за 18-річним наглядом навіть нижча смертність від РМЗ), і чому «гіпотеза вікна» (старт до 60 років або в межах 10 років від менопаузи) змінила рекомендації. Чесно назвати реальні ризики: венозний тромбоз при пероральній формі проти трансдермальної, ризик інсульту, обмеження при мігрені з аурою й анамнезі РМЗ. Що доведено працює: припливи, нічна пітливість, генітоуринарний синдром (місцевий естроген — окрема історія з мінімальною системною абсорбцією), профілактика переломів. Що не доведено: «омолодження», профілактика деменції та серцево-судинних подій як показання. Український блок: що зареєстровано, ціна, до якого лікаря йти. Чіткий маркер «рішення ухвалюється з лікарем індивідуально, це не інструкція до самопризначення». Не перетинається з матеріалом 01.08 про креатин у перименопаузі — там добавка і сила, тут рецептурна терапія і вазомоторні симптоми.",
-      "sources_hint": "Manson et al., JAMA 2017;318:927 (WHI 18-year follow-up mortality); Chlebowski et al., JAMA 2020;324:369 (breast cancer by regimen); The Menopause Society (NAMS) 2022 Hormone Therapy Position Statement; NICE NG23 update 2024; Vinogradova et al., BMJ 2019;364:k4810 (HRT and VTE by route); Cochrane 'Long-term hormone therapy for perimenopausal and postmenopausal women'",
-      "evidence_level": "strong",
-      "score": 87,
-      "rationale": "Huge underserved reader base still scared by 2002 WHI headlines, decades-deep literature (WHI follow-up, NAMS, NICE, Cochrane) gives real history-to-now arc, no evergreen news hook but nothing close in the corpus.",
-      "proposed": "2026-08-27"
     },
     {
       "topic": "Лікування, у яке залучають родину: чи справді воно вдвічі зменшує госпіталізації у психіатрію",
