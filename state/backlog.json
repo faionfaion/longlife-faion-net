@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T03:10:17.385566+00:00",
+  "updated_at": "2026-09-02T03:10:03.860124+00:00",
   "entries": [
     {
       "topic": "Понеділковий тиск: як виміряти його вдома правильно і чому одне вимірювання в аптеці нічого не означає",
@@ -742,12 +742,12 @@
       "topic": "Замінник солі з калієм: рідкісний випадок, коли продукт із магазину знизив смертність у великому РКД",
       "type": "nutrition",
       "category": "nutrition",
-      "angle": "Claim-check навпаки — популярна річ, яка витримує перевірку. SSaSS (NEJM 2021, 20 995 людей із 600 сіл Китаю, майже 5 років спостереження): проста заміна звичайної солі на суміш 75% NaCl / 25% KCl дала менше інсультів, серцево-судинних подій і смертей — це тверда кінцева точка, а не «маркер у крові». Пояснити механізм у двох реченнях: працює і мінус натрій, і плюс калій, якого в українському раціоні хронічно бракує. Потім — чесні межі, без яких стаття була б рекламою: вибірка сільська, літня, більшість учасників уже мали інсульт або гіпертензію, тому перенесення на здорового 35-річного киянина — екстраполяція; DECIDE-Salt дав слабший результат. І головне застереження, яке в супермаркеті ніхто не пише на етикетці: при хронічній хворобі нирок, прийомі інгібіторів АПФ/сартанів, спіронолактону або калійзберігальних діуретиків калієвий замінник може дати гіперкаліємію — тут потрібен лікар, а не самопризначення. Практичне: як шукати склад на етикетці українських замінників, скільки натрію реально прибирає заміна, і чому смак майже не страждає.",
-      "sources_hint": "Neal et al., SSaSS, NEJM 2021;385:1067 (DOI 10.1056/NEJMoa2105675); Zhang et al., DECIDE-Salt, JAMA Intern Med 2023; Yin et al., Heart 2022 meta-analysis of salt substitutes; WHO 2023 guideline on potassium intake and sodium reduction; KDIGO guidance on hyperkalemia risk; WHO STEPS Ukraine sodium intake data",
+      "angle": "Claim-check навпаки — популярна річ, яка витримує перевірку. SSaSS (NEJM 2021, 20 995 людей із 600 сіл Китаю, майже 5 років): заміна звичайної солі на суміш 75% NaCl / 25% KCl дала менше інсультів, серцево-судинних подій і смертей — тверда кінцева точка, а не «маркер у крові». Механізм у двох реченнях: працює і мінус натрій, і плюс калій, якого в українському раціоні хронічно мало. Чесні межі: вибірка сільська, з високою часткою людей після інсульту, тож абсолютна користь для молодого здорового читача значно менша. Обов'язковий блок безпеки: хронічна хвороба нирок, інгібітори АПФ/сартани, калійзберігаючі діуретики — тоді калієвий замінник може бути небезпечним, і це рішення з лікарем. Плюс практичне: чим замінник відрізняється на смак, де його шукати і чому паралельно варто просто менше солити.",
+      "sources_hint": "Neal et al., SSaSS, NEJM 2021;385:1067 (DOI 10.1056/NEJMoa2105675); Zhang et al., DECIDE-Salt, JAMA Intern Med 2023; Yin et al., Heart 2022 meta-analysis of salt substitutes; WHO 2023 guideline on potassium intake and 2025 salt-substitute recommendation; KDIGO guidance on hyperkalaemia risk; WHO STEPS Ukraine sodium intake data",
       "evidence_level": "strong",
-      "score": 80,
-      "rationale": "Hard-endpoint mega-RCT (SSaSS) plus honest caveats (CKD, ACEi/ARB interaction), cheap actionable takeaway, no overlap with recent posts.",
-      "proposed": "2026-08-29"
+      "score": 81,
+      "rationale": "SSaSS is a rare hard-endpoint RCT for a supermarket product, evergreen but high reader value and no overlap with recent posts.",
+      "proposed": "2026-09-02"
     },
     {
       "topic": "Хропіння чи апное: як відрізнити вдома і коли це вже не побутова незручність",
@@ -785,13 +785,13 @@
     {
       "topic": "«Соняшникова олія — це запалення»: що показали контрольовані дослідження про омега-6",
       "type": "nutrition",
-      "category": "nutrition",
-      "angle": "Claim-check міфу, який дійшов до українських кухонь у форматі «жарте на смальці, олія — це запалення». Розібрати механістичну історію (лінолева кислота перетворюється на арахідонову, а з неї роблять прозапальні ейкозаноїди) і показати рівно те місце, де вона обривається: у контрольованих дослідженнях підвищення лінолевої кислоти в раціоні не підвищує маркери запалення в людей, а вміст арахідонової кислоти в тканинах майже не змінюється. Далі — найцікавіше: історія з відновленими даними Minnesota Coronary Experiment і Sydney Diet Heart Study, де заміна насичених жирів на омега-6 знизила холестерин, але не смертність — це чесний аргумент скептиків, і його треба показати, а не сховати. Проти нього — великі когорти й біомаркерні пули, де вищий рівень лінолевої кислоти в крові пов'язаний з нижчим ризиком серцево-судинних подій і діабету 2 типу. Висновок для кухні: питання не «олія чи смалець», а скільки й у якому вигляді — окремо про точку димлення, повторне використання олії й те, що більшість омега-6 українці отримують не з пляшки олії, а з готової їжі. Прямий крос-лінк на матеріал про ультраоброблену їжу (18.08): механізм важливіший за категорію.",
-      "sources_hint": "Johnson & Fritsche, J Acad Nutr Diet 2012 (linoleic acid and inflammatory markers, systematic review of controlled trials); Ramsden et al., BMJ 2016 (recovered Minnesota Coronary Experiment data) and BMJ 2013 (Sydney Diet Heart Study); Marklund et al., Circulation 2019 (pooled biomarker analysis, 30 cohorts, linoleic acid and CVD); Wu et al., Lancet Diabetes Endocrinol 2017 (linoleic acid biomarkers and T2D); AHA advisory on omega-6 fatty acids (Harris et al., Circulation 2009)",
+      "category": "biohacking",
+      "angle": "Claim-check міфу, який дійшов до українських кухонь у форматі «жарте на смальці, олія — це запалення». Показати механістичну історію (лінолева кислота → арахідонова → прозапальні ейкозаноїди) і місце, де вона обривається: у контрольованих дослідженнях підвищення лінолевої кислоти в раціоні не піднімає маркери запалення в людей, а арахідонова в тканинах майже не змінюється. Далі — найсильніший аргумент скептиків, повторний аналіз старих випробувань (Minnesota Coronary Experiment, Sydney Diet Heart), і чому він не переносить висновок на сучасні дієти. Врівноважити біомаркерними когортами, де вищий рівень лінолевої кислоти в крові пов'язаний із меншим ризиком діабету і серцевих подій. Практичний висновок без крайнощів: питання не «олія чи смалець», а скільки разів гріта олія, форма продукту і що саме на ній смажать.",
+      "sources_hint": "Johnson & Fritsche, J Acad Nutr Diet 2012 (linoleic acid and inflammatory markers, systematic review of controlled trials); Ramsden et al., BMJ 2016 (Minnesota Coronary Experiment recovered data) and BMJ 2013 (Sydney Diet Heart); Hooper et al., Cochrane 2018 omega-6 fats review; Marklund et al., Circulation 2019 (pooled biomarker cohorts, n≈68 000); AHA advisory on dietary polyunsaturated fats 2017",
       "evidence_level": "moderate",
-      "score": 64,
-      "rationale": "Decent claim-check literature (Ramsden reanalyses, Marklund pooled cohorts) but evidence is contested/moderate and kitchen-myth appeal is narrower than top picks.",
-      "proposed": "2026-08-29"
+      "score": 67,
+      "rationale": "Good evergreen claim-check with named controlled trials and biomarker cohorts, but no timely news hook to make it today's pick.",
+      "proposed": "2026-09-02"
     },
     {
       "topic": "Сімейні втручання при психозі: найкраще доведене і найгірше впроваджене в психіатрії",
@@ -819,12 +819,12 @@
       "topic": "Домашній тонометр: 7 днів, двічі на день — і чому 135/85 удома дорівнює 140/90 у лікаря",
       "type": "guide",
       "category": "prevention",
-      "angle": "Понеділковий «перезапуск» у найкориснішій формі: не мотивація, а протокол. Як виміряти тиск удома так, щоб цифрі можна було вірити: 7 днів поспіль, ранок і вечір, по 2 вимірювання з інтервалом хвилина, перший день викидаємо, решту усереднюємо. Ключова річ, якої майже ніхто не знає: поріг для домашніх вимірювань — 135/85, а не 140/90, бо вдома тиск нижчий, ніж у кабінеті. Далі — типові помилки з ціною в мм рт. ст.: манжета поверх одягу, завузька манжета (найбільша похибка у людей з великим обхватом плеча), ноги на вазі, повний сечовий міхур, розмова під час вимірювання, спина без опори. Окремо — «гіпертензія білого халата» і зворотна, маскована гіпертензія, яку саме домашні вимірювання й ловлять. Український блок: як обрати валідований апарат (список STRIDE BP), чому апарати на зап'ясток менш надійні, і що робити з отриманими сімома днями — не самолікуватися, а прийти до лікаря з таблицею, а не з однією цифрою з аптеки.",
-      "sources_hint": "ESC/ESH 2023 Guidelines for arterial hypertension (home BP threshold 135/85); AHA 2019 scientific statement 'Measurement of Blood Pressure in Humans'; Stergiou et al., ESH position paper on home blood pressure monitoring, J Hypertens 2021; STRIDE BP validated device list; Ukrainian МОЗ протокол артеріальної гіпертензії",
+      "angle": "Не мотивація, а протокол, який можна виконати з сьогодні: 7 днів поспіль, ранок і вечір, по 2 вимірювання з інтервалом хвилина, перший день викидаємо, решту усереднюємо. Ключове, чого майже ніхто не знає: домашній поріг — 135/85, а не 140/90, бо вдома тиск нижчий. Далі — типові помилки з ціною в мм рт. ст.: манжета поверх одягу, малий розмір манжети (найбільша похибка, до +10–20), ноги на вазі, повний сечовий міхур, розмова під час вимірювання, рука нижче рівня серця. Окремо — «гіпертензія білого халата» і зворотна, замаскована, яку вловлює тільки домашній або добовий моніторинг; який апарат купувати (валідований, плечовий, не зап'ястний) і що робити з отриманим числом — з прямим застереженням, що самі цифри не привід починати чи міняти ліки без лікаря.",
+      "sources_hint": "ESC/ESH 2023 Guidelines for the management of arterial hypertension (home BP threshold 135/85); AHA 2019 scientific statement 'Measurement of Blood Pressure in Humans'; Stergiou et al., ESH position paper on home blood pressure monitoring, J Hypertens; STRIDE-BP / validatebp.org validated device lists; Cochrane review on self-monitoring of blood pressure",
       "evidence_level": "strong",
-      "score": 78,
-      "rationale": "Strong ESC/ESH and AHA evidence for a protocol readers can act on today; evergreen rather than news-driven but perfect single-sitting fit.",
-      "proposed": "2026-08-31"
+      "score": 84,
+      "rationale": "Strong guideline evidence (ESC/ESH, AHA, Cochrane) behind a concrete protocol, high actionable reader value, perfect one-sitting fit despite no seasonal trigger.",
+      "proposed": "2026-09-02"
     },
     {
       "topic": "«Гнучкі суглоби» — не завжди дар: що таке гіпермобільність, коли це діагноз і чому лікують силою, а не розтяжкою",
@@ -913,6 +913,72 @@
       "score": 45,
       "rationale": "Small original study with failed replications carries most of the piece, making it the thinnest evidence base on the list.",
       "proposed": "2026-08-31"
+    },
+    {
+      "topic": "Аналіз сечі знаходить 9 із 10 раків сечового міхура: що це означає для людини, яка побачила кров у сечі",
+      "type": "research",
+      "category": "research",
+      "angle": "Новинний привід тижня — повідомлення про сечовий тест, який виявляє понад 90% раків сечового міхура. Розібрати чесно: це тест для людей із гематурією (кров у сечі), а не скринінг для здорових. Пояснити простими словами різницю між чутливістю (скільки хворих тест знайде) і тим, що станеться зі 100 людьми, які здадуть його без симптомів; чому головна обіцянка тесту — не «раніше знайти», а «менше непотрібних цистоскопій». Ключова практична річ для українського читача: видима кров у сечі навіть один раз і навіть без болю — це привід до лікаря зараз, а не «мабуть, цистит»; безболісна гематурія у курця після 45 — окремий червоний прапорець. Перевірити статус публікації (рецензована стаття чи прес-реліз) перед тим, як називати це доказом.",
+      "sources_hint": "Search for the Sept 2026 BBC-covered urinary test study (likely GALEAS Bladder / Nonacus, or uRNA-based assay) in European Urology / BJU International / Lancet Oncology; DETECT I study (Br J Cancer) on haematuria pathways; NICE NG12 haematuria referral criteria; Cochrane review of urinary biomarkers vs cystoscopy; Ukraine National Cancer Registry bladder cancer stage distribution",
+      "evidence_level": "moderate",
+      "score": 82,
+      "rationale": "Fresh news-week hook with a clear public-safety payoff (visible blood = see a doctor now), moderate evidence but must verify publication status before claiming proof.",
+      "proposed": "2026-09-02"
+    },
+    {
+      "topic": "Щеплення від грипу: коли робити в Україні, кому воно реально потрібне і скільки насправді захищає",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Сезонний гайд на початок вересня, коли в Британії вже стартувала кампанія, а в Україні вакцини тільки з'являються в аптеках. Головна чесність: ефективність грипозної вакцини — не 90%, а зазвичай 40–60% проти лабораторно підтвердженого грипу в сезони з добрим збігом штамів, і саме тому її сенс вимірюють госпіталізаціями й смертями у групах ризику, а не «ви не захворієте». Розібрати таймінг (жовтень–листопад як оптимум, бо антитіла спадають за сезон; але зробити в вересні краще, ніж не зробити), кому це найважливіше (65+, вагітні, діабет, ХОЗЛ, серцева недостатність, медики, доглядальники), міфи («від вакцини захворів на грип» — інактивована вакцина цього не може), сумісність з іншими щепленнями. Український блок: вакцина коштом пацієнта, орієнтовні ціни, де шукати, і чому в рік із перевантаженою медициною це дешевий важіль.",
+      "sources_hint": "Cochrane review Demicheli 2018 (influenza vaccines in healthy adults); CDC US Flu VE Network annual VE estimates; WHO position paper on influenza vaccines (2022); Nordic randomized DANFLU-1/DANFLU-2 high-dose trials in 65+; meta-analyses of influenza vaccination and cardiovascular events (IAMI trial, JAMA Netw Open); МОЗ України накази щодо сезонної вакцинації, ЦГЗ influenza surveillance data",
+      "evidence_level": "moderate",
+      "score": 78,
+      "rationale": "September flu-season hook with vaccines newly in pharmacies, solid Cochrane/CDC/WHO evidence base, straightforward guide fit.",
+      "proposed": "2026-09-02"
+    },
+    {
+      "topic": "Розтяжка перед тренуванням: чому статичний стретчинг не запобігає травмам і трохи забирає силу",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Матеріал для тих, хто повертається в зал у вересні, і окремо для тренерів, яких про це питають клієнти. Два поширені переконання перевіряються по черзі: (1) статична розтяжка перед підходом знижує силу і потужність — так, але ефект залежить від дози: до 60 секунд на м'яз він мізерний і зникає, якщо після цього зробити динамічну розминку; (2) розтяжка запобігає травмам — цього мета-аналізи не показують, натомість силові вправи дають найбільше зниження травматизму. Дати робочу структуру розминки (загальне підвищення температури → динамічні рухи в амплітуді вправи → підвідні підходи) і чесно сказати, де статичний стретчинг таки корисний — окремою сесією для збільшення амплітуди, не перед важким підходом.",
+      "sources_hint": "Behm et al., Appl Physiol Nutr Metab 2016 (acute effects of static stretching, systematic review); Behm et al. 2021 meta-analysis on stretching duration thresholds; Blazevich et al., Med Sci Sports Exerc 2018 (RCT, stretching within full warm-up); Lauersen et al., Br J Sports Med 2014 (exercise interventions and injury prevention meta-analysis); Chaabene et al., Front Physiol 2019 review",
+      "evidence_level": "moderate",
+      "score": 70,
+      "rationale": "September gym-return season gives it a mild hook, meta-analysis evidence is solid but the audience is narrower than most subjects here.",
+      "proposed": "2026-09-02"
+    },
+    {
+      "topic": "Аналіз крові на хворобу Альцгеймера: що вміє p-tau217 і чому це тест не для здорових",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Продовження теми черг на діагностику деменції. За останні два роки з'явилися кров'яні біомаркери (p-tau217), точність яких у пам'яткових клініках наближається до ПЕТ і ліквору — це справжній зсув, бо раніше підтвердити амілоїд можна було тільки дорогим сканом або пункцією. Але головне для читача — межі: тест валідований у людей із симптомами, а не як «перевірка на майбутнє»; у первинній ланці точність нижча, ніж у клініці; позитивний результат означає амілоїд, а не діагноз і не прогноз того, коли настане деменція. Окремо — навіщо взагалі рання діагностика, якщо ліки слабкі: виключення зворотних причин (щитоподібна, B12, депресія, ліки), планування, доступ до досліджень. Український блок: тестів немає в рутині, ціна і де реально починати — з огляду сімейного лікаря і скринінгу когніції.",
+      "sources_hint": "Palmqvist et al., JAMA 2024 (p-tau217 in primary care); Schindler/Hansson blood biomarker validation studies; FDA clearance of Fujirebio Lumipulse pTau217/β-amyloid ratio (May 2025) and Roche Elecsys; Alzheimer's Association clinical practice guideline on blood-based biomarkers (2025); reversible causes of cognitive impairment reviews; NICE dementia guideline NG97",
+      "evidence_level": "moderate",
+      "score": 62,
+      "rationale": "Real 2024-2025 validation literature exists but no fresh trigger for this exact date, and the test's Ukraine unavailability narrows reader relevance.",
+      "proposed": "2026-09-02"
+    },
+    {
+      "topic": "Глюкозний монітор без діабету: чи справді «стрибки цукру» на графіку щось означають",
+      "type": "research",
+      "category": "biohacking",
+      "angle": "Claim-check модного гаджета, який продають здоровим людям як спосіб «побачити, що вам не підходить». Що відомо: у людей без діабету глюкоза й так коливається в широкому діапазоні, і чимало «страшних піків» на екрані — у межах норми або похибка сенсора (відставання від крові на 10–15 хвилин, розбіжність між двома сенсорами на одній людині). Дані про «глюкотипи» і персональні відповіді на однакову їжу реальні, але жодне випробування не показало, що носіння монітора здоровим покращує вагу, ліпіди чи будь-який твердий результат. Головний ризик — не сам прилад, а харчова тривожність і виключення нормальних продуктів через графік. Кому монітор справді змінює життя: діабет 1 типу, вагітні з ГСД, декому з діабетом 2 типу на інсуліні. Практично: якщо цікаво про свій метаболізм — почати з глюкози натще й HbA1c за 300–400 грн.",
+      "sources_hint": "Shah et al., J Clin Endocrinol Metab 2019 (CGM reference ranges in non-diabetic adults); Hall et al., PLoS Biology 2018 (glucotypes); Zeevi/Segal Cell 2015 personalized glycemic responses and the PREDICT/ZOE trials plus published critiques; accuracy studies of consumer CGMs vs venous glucose (Diabetes Technol Ther); ADA Standards of Care 2026 statement on CGM in people without diabetes",
+      "evidence_level": "preliminary",
+      "score": 59,
+      "rationale": "Evidence is explicitly preliminary per the brief itself, workable as a myth-check but thinner ground than the higher-ranked subjects.",
+      "proposed": "2026-09-02"
+    },
+    {
+      "topic": "Підліток, який не може встати о 7:00: що показали експерименти зі зсувом початку уроків",
+      "type": "lifehack",
+      "category": "sleep",
+      "angle": "Не «лінь», а біологія: у пубертаті внутрішній годинник зсувається на пізніше, і засинання о 22:00 фізіологічно важче, ніж у 10-річного. Показати природні експерименти, де школи зсували початок занять пізніше: у Сіетлі об'єктивно виміряний сон подовжився приблизно на пів години, зросла відвідуваність і оцінки. Оскільки в Україні розклад змінити не можна, перевести це в те, що батьки контролюють: яскраве світло і сніданок одразу після пробудження, вечірнє приглушене світло, телефон поза спальнею, послідовний час підйому у вихідні (різниця не більше години — інакше «соціальний джетлаг» у понеділок), кофеїн не після обіду, і чому «відіспатися в суботу до 13:00» відкочує всю схему назад. Прямо розвести з матеріалом про шкільну тривогу: тут проблема біологічного таймінгу, а не страху перед школою.",
+      "sources_hint": "Dunster et al., Science Advances 2018 (Seattle school start time change, actigraphy); Wahlstrom et al. 2014 University of Minnesota multi-school study; AAP policy statement on school start times for adolescents (Pediatrics 2014); Crowley et al. reviews on adolescent circadian phase delay; meta-analyses of later school start times and sleep duration (Sleep Medicine Reviews)",
+      "evidence_level": "moderate",
+      "score": 56,
+      "rationale": "Back-to-school timing helps but the site already ran children's social-jetlag and light-protocol pieces recently, and evidence rests on natural experiments not RCTs.",
+      "proposed": "2026-09-02"
     }
   ]
 }

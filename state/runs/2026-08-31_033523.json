@@ -1,0 +1,80 @@
+{
+  "timestamp": "2026-08-31_033523",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "simeini-vtruchannia-psykhoz-oddessi-lancet-2026",
+  "author": "Віта",
+  "duration_s": 1940.7,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 382.8,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 51.5,
+      "error": null
+    },
+    {
+      "name": "research:Родину — в терапію: чому залуч",
+      "status": "ok",
+      "duration_s": 256.8,
+      "error": null
+    },
+    {
+      "name": "generate:Родину — в терапію: чому залуч",
+      "status": "ok",
+      "duration_s": 151.9,
+      "error": null
+    },
+    {
+      "name": "text_edit:Родину — в терапію: чому залуч",
+      "status": "ok",
+      "duration_s": 170.3,
+      "error": null
+    },
+    {
+      "name": "review:Родину — в терапію: чому залуч",
+      "status": "ok",
+      "duration_s": 152.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Родину — в терапію: чому залуч",
+      "status": "ok",
+      "duration_s": 18.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Родину — в терапію: чому залуч",
+      "status": "ok",
+      "duration_s": 13.9,
+      "error": null
+    },
+    {
+      "name": "save:Родину — в терапію: чому залуч",
+      "status": "ok",
+      "duration_s": 738.8,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.2,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}
