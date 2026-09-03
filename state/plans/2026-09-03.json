@@ -1,0 +1,96 @@
+{
+  "articles": [
+    {
+      "topic": "Аналіз сечі знаходить понад 9 із 10 раків сечового міхура: що це означає для людини, яка побачила кров у сечі",
+      "type": "research",
+      "category": "research",
+      "angle": "Новина тижня про сечовий тест із чутливістю >90%. Чесно розібрати: це тест для людей із гематурією, а не скринінг для здорових. Пояснити простими словами різницю між чутливістю (скільки хворих тест знайде) і тим, що буде зі 100 безсимптомними людьми, які його здадуть; головна обіцянка тесту — не «раніше знайти», а «менше зайвих цистоскопій». Ключове практичне повідомлення, яке рятує життя: видима кров у сечі бодай один раз — це привід до лікаря зараз, навіть якщо наступного разу все чисто і нічого не болить. Український контекст: цистоскопія і УЗД як реальний маршрут, що покриває НСЗУ, чому «цистит у жінки» часто затягує діагноз. Обов'язково перевірити статус публікації: якщо це лише прес-реліз — так і написати, за тим самим правилом, що застосовано до INTerpath-001 і ODDESSI.",
+      "sources_hint": "Search for the Sept 2026 urinary bladder-cancer assay study covered by BBC (likely GALEAS Bladder / Nonacus or a uRNA/methylation assay) in European Urology, BJU International or Lancet Oncology; DETECT I study (Br J Cancer 2018) on haematuria pathways; NICE NG12 haematuria referral criteria; EAU 2025 guidelines on non-muscle-invasive bladder cancer; USPSTF statement on bladder cancer screening",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Щеплення від грипу: коли робити в Україні, кому воно справді потрібне і скільки насправді захищає",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Сезонний гайд: у Британії кампанія стартувала, в українських аптеках вакцини щойно з'явилися. Головна чесність: ефективність — не 90%, а типово 40–60% проти лабораторно підтвердженого грипу в сезони з добрим збігом штамів, і саме тому користь міряють госпіталізаціями й смертями в групах ризику, а не обіцянкою «ви не захворієте». Розібрати таймінг (жовтень–листопад оптимально, але пізніше все одно краще, ніж ніколи), спад захисту за сезон, високодозові вакцини для 65+, вагітність як пріоритет №1 (захист немовляти перших місяців), сумісність із іншими щепленнями. Що є в Україні: які вакцини зареєстровані, ціна, хто отримує безоплатно. Крос-лінк на матеріал про холодовий ланцюг і мороз (08.08) — як не отримати зіпсовану дозу під час блекауту.",
+      "sources_hint": "Cochrane review Demicheli 2018 (influenza vaccines in healthy adults); CDC US Flu VE Network annual VE estimates 2024-2026; WHO position paper on influenza vaccines (2022); DANFLU-2 high-dose randomized trial; Madhi NEJM 2014 (maternal influenza immunisation); Ukraine MOH/ЦГЗ seasonal influenza recommendations 2026",
+      "evidence_level": "moderate",
+      "priority": 1
+    },
+    {
+      "topic": "Домашній тонометр: 7 днів, двічі на день — і чому 135/85 удома дорівнює 140/90 у лікаря",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Не мотивація, а протокол, який можна виконати з сьогодні: 7 днів поспіль, ранок і вечір, по 2 вимірювання з інтервалом хвилина, перший день викидаємо, решту усереднюємо. Ключове, чого майже ніхто не знає: домашній поріг — 135/85, а не 140/90. Далі — типові помилки з ціною в міліметрах: манжета поверх одягу, малий розмір манжети (найбільша похибка, до +10–20), ноги на вазі, повний сечовий міхур, розмова під час вимірювання, рука нижче рівня серця. Окремо — «гіпертензія білого халата» і зворотна, замаскована, яку саме домашні виміри й ловлять. Плюс як перевірити, чи ваш прилад узагалі валідований, і чому зап'ясткові тонометри — гірший вибір. Явно розвести з матеріалом про замінник солі: тут вимірювання, там втручання.",
+      "sources_hint": "ESC/ESH 2023 Guidelines for the management of arterial hypertension (home BP threshold 135/85); AHA 2019 scientific statement 'Measurement of Blood Pressure in Humans'; Stergiou et al., ESH position paper on home BP monitoring (J Hypertens); STRIDE BP validated device list; Tucker et al. BMJ 2017 / Cochrane review on self-monitoring of blood pressure",
+      "evidence_level": "strong",
+      "priority": 1
+    },
+    {
+      "topic": "US POINTER: чи справді спосіб життя гальмує зниження пам'яті — і що показало найбільше американське випробування",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Привід — черги на діагностику деменції в новинах: поки система не встигає ставити діагноз, читачі питають, чи можна щось зробити самому. Розібрати US POINTER (JAMA 2025, n≈2100, 2 роки), який відтворював фінський FINGER: структурована програма (фізична активність, харчування MIND, когнітивні тренування, контроль судинних факторів) проти самостійної. Головна чесність: обидві групи покращилися, різниця між ними невелика і виміряна в композитному когнітивному балі, а не в кількості випадків деменції — тобто це ще не «профілактика деменції», а сигнал; це та сама межа «сигнал проти наслідку», яку блог уже проводив. Порівняти з FINGER 2015 і нульовими результатами MAPT/preDIVA. Що з цього залишається робочим для звичайної людини: слух, тиск, рух, соціальні зв'язки за списком Lancet Commission 2024.",
+      "sources_hint": "Baker et al., US POINTER trial, JAMA 2025 (Alzheimer's Association); Ngandu et al., FINGER, Lancet 2015; Andrieu et al., MAPT, Lancet Neurol 2017; Moll van Charante et al., preDIVA, Lancet 2016; Livingston et al., Lancet Commission on dementia prevention 2024 (14 modifiable risk factors)",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Замінник солі з калієм: рідкісний випадок, коли продукт із магазину знизив смертність у великому РКД",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Claim-check навпаки — популярна річ, яка витримує перевірку. SSaSS (NEJM 2021, 20 995 людей із 600 сіл Китаю, майже 5 років): заміна звичайної солі на суміш 75% NaCl / 25% KCl дала менше інсультів, серцево-судинних подій і смертей — тверда кінцева точка, а не «маркер у крові». Механізм у двох реченнях: працює і мінус натрій, і плюс калій, якого в українському раціоні хронічно мало. Чесні межі: вибірка сільська, літня, з інсультом в анамнезі, і саме там ефект найбільший. Критично важливий блок безпеки: кому такий замінник протипоказаний — ниркова недостатність, спіронолактон, іАПФ/сартани — і чому це не «сіль для всіх»; при сумнівах — калій і креатинін із лікарем, а не самопризначення. Що реально продається в українських супермаркетах і як читати склад.",
+      "sources_hint": "Neal et al., SSaSS, NEJM 2021;385:1067 (DOI 10.1056/NEJMoa2105675); Zhang et al., DECIDE-Salt, JAMA Intern Med 2023; Yin et al., Heart 2022 meta-analysis of salt substitutes; WHO 2023 guideline on potassium intake and low-sodium salt substitutes; KDIGO 2024 guidance on hyperkalaemia risk",
+      "evidence_level": "strong",
+      "priority": 2
+    },
+    {
+      "topic": "Гіпермобільність суглобів: коли «гнучка від природи» — це діагноз, а коли просто анатомія",
+      "type": "research",
+      "category": "fitness",
+      "angle": "Пряме закриття боргу тижневого огляду 30.08, де матеріал BBC про «bendy disease» був позначений як просвіта без перевірних чисел. Дати рамку: шкала Бейтона (9 балів, пороги різні для дітей, дорослих і після 50), гіпермобільність суглобів як варіант норми у 10–20% людей проти гіпермобільного спектрального розладу і гіпермобільного EDS за критеріями 2017 року — це три різні речі, які в популярних текстах злиті в одну. Чому діагноз ставлять роками і чому генетичного тесту для hEDS не існує. Доказова частина для тренерів і фізіотерапевтів: чи справді потрібні силові замість розтяжки, що показали РКД Palmer щодо вправ і пропріоцепції, чому «сісти на шпагат» — не досягнення при гіпермобільності. Червоні прапорці: підвивихи, хронічна втома, ортостатична тахікардія, судинний тип EDS — до лікаря, а не до тренера.",
+      "sources_hint": "Malfait et al., 2017 International Classification of the Ehlers-Danlos Syndromes (Am J Med Genet C) and 2017 hypermobility spectrum disorder framework; Beighton score validation studies (Juul-Kristensen et al., Rheumatology 2017); Palmer et al., Physiotherapy 2014/2016 RCT on exercise for JHS; Ehlers-Danlos Society 2025 hEDS criteria update; NICE/RCGP hypermobility toolkit",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Соняшникова олія «отруює запаленням»: що кажуть рандомізовані дослідження про омега-6",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Claim-check міфу, який дійшов до українських кухонь у форматі «жарте на смальці, олія — це запалення». Розібрати механістичну історію (лінолева кислота → арахідонова → прозапальні ейкозаноїди) і показати, де вона обривається: у контрольованих дослідженнях підвищення лінолевої кислоти в раціоні не підвищує маркери запалення в людей, а рівень арахідонової в тканинах майже не змінюється — рівно той випадок, коли читач добудовує наслідок із механізму. Далі — головна суперечка: відновлені дані Minnesota Coronary Experiment і Sydney Diet Heart, де заміна тваринного жиру на олію знизила холестерин, але не смертність, проти когорт із біомаркерами лінолевої кислоти, де вища концентрація пов'язана з нижчим ризиком. Практичний висновок про точку диму, повторне нагрівання і те, що справді має значення на кухні.",
+      "sources_hint": "Johnson & Fritsche, J Acad Nutr Diet 2012 (linoleic acid and inflammatory markers, systematic review of controlled trials); Ramsden et al., BMJ 2016 (Minnesota Coronary Experiment) and BMJ 2013 (Sydney Diet Heart); Marklund et al., Circulation 2019 (pooled biomarker cohorts, 30 studies); Hooper et al., Cochrane 2018 (omega-6 fats); AHA advisory Sacks 2017",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Денний сон: 20 хвилин допомагають, 60 — можуть нашкодити, і чому це залежить від того, чи ви висипаєтесь уночі",
+      "type": "lifehack",
+      "category": "sleep",
+      "angle": "Практичний матеріал про дрімоту з чіткими числами. Що показують дослідження продуктивності: 10–20 хвилин дають приріст уваги без сонної інерції, 30+ хвилин заводять у глибокий сон і після пробудження людина працює гірше 15–30 хвилин. Дозозалежні когорти: денний сон понад годину пов'язаний із вищим ризиком серцево-судинних подій, але значна частина цього — зворотна причинність (хворі й недосипаючі сплять довше вдень). Окремо — «кавова дрімота» (кофеїн перед 20-хвилинним сном) і чому вона працює за фармакокінетикою аденозину. Правило для тих, хто має безсоння: денний сон краще прибрати, бо він з'їдає тиск сну — це прямо суперечить популярній пораді «доспати вдень». Крос-лінк на матеріали про WASO і трекери сну: кількість хвилин із застосунку — не привід міняти режим.",
+      "sources_hint": "Brooks & Lack, Sleep 2006 (nap duration comparison 5/10/20/30 min); Lovato & Lack, Prog Brain Res 2010 review; Hilditch & McHill, Nat Sci Sleep 2019 (sleep inertia); Yamada et al., Sleep 2015 dose-response meta-analysis of nap duration and CVD; Häusler et al., Heart 2019 (Swiss cohort, nap frequency); Reyner & Horne 1997 (caffeine nap); AASM CBT-I guidance on nap restriction",
+      "evidence_level": "moderate",
+      "priority": 2
+    },
+    {
+      "topic": "Крижана ванна, компресійні гетри і розтяжка після тренування: що з цього справді знімає біль у м'язах",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Матеріал для тих, хто тренується, і для тренерів, яких про це питають щотижня. Пройтися по методах відновлення від DOMS із розміром ефекту, а не з обіцянкою: масаж має найбільший ефект у мета-аналізі, компресійний одяг і холодна вода — менший, активне відновлення — помірний, статична розтяжка після тренування не працює взагалі (Cochrane: різниця менше 1 бала зі 100). Головний нюанс, який змінює рекомендацію: регулярні крижані ванни після силових притупляють гіпертрофію і приріст сили, тому їх місце — щільний змагальний графік, а не звичайний тренувальний блок. Чесно про плацебо: очікування знеболення саме по собі змінює оцінку болю (плацебо-контрольоване РКД Broatch). І про те, що DOMS — не показник якості тренування.",
+      "sources_hint": "Dupuy et al., Front Physiol 2018 (meta-analysis of recovery techniques for DOMS, 99 studies); Herbert et al., Cochrane 2011 (stretching to prevent muscle soreness); Roberts et al., J Physiol 2015 (cold water immersion attenuates strength/hypertrophy); Malta et al., Sports Med 2021 (CWI and training adaptations); Broatch et al., Med Sci Sports Exerc 2014 (placebo-controlled cold water immersion)",
+      "evidence_level": "moderate",
+      "priority": 3
+    },
+    {
+      "topic": "Панелі червоного світла для шкіри й відновлення: де закінчуються дослідження і починається маркетинг",
+      "type": "research",
+      "category": "biohacking",
+      "angle": "Claim-check пристрою, який продають як «фотобіомодуляцію» за ціною від кількох тисяч гривень. Розділити три різні обіцянки, бо доказова база в них різна: загоєння і зморшки (є невеликі РКД із реальними, але скромними ефектами), відновлення м'язів і сила (переважно малі дослідження з конфліктом інтересів і різнобоєм доз), «мітохондрії й енергія» (механізм у пробірці, клінічних результатів немає). Ключове, чого не пишуть на коробці: доза (джоулі на см²) має двофазну криву — більше не означає краще, а більшість домашніх панелей не вказують ані щільності потужності, ані відстані, при якій вона виміряна. Окремо — безпека очей, і чому «інфрачервона сауна» — інша річ. Прямо сказати, що дозволу FDA класу II достатньо для продажу, але це не доказ ефективності.",
+      "sources_hint": "Hamblin, AIMS Biophys 2017 (mechanisms of photobiomodulation, biphasic dose response); Wunsch & Matuschka, Photomed Laser Surg 2014 (RCT, skin); Leal-Junior et al. meta-analyses on phototherapy and muscle recovery (Lasers Med Sci); Cochrane reviews on low-level laser therapy; FDA class II clearance status of home LED devices; Glass, Aesthet Surg J 2021 critical review",
+      "evidence_level": "preliminary",
+      "priority": 3
+    }
+  ],
+  "date": "2026-09-03",
+  "created_at": "2026-09-03T03:03:03.794334+00:00"
+}
