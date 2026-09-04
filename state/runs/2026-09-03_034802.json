@@ -1,0 +1,86 @@
+{
+  "timestamp": "2026-09-03_034802",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "sechovyi-test-rak-mikhura-hematuriia-tsystoskopiia-nszu",
+  "author": "Віта",
+  "duration_s": 2698.8,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 318.1,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 77.8,
+      "error": null
+    },
+    {
+      "name": "research:Аналіз сечі знаходить понад 9 ",
+      "status": "ok",
+      "duration_s": 388.6,
+      "error": null
+    },
+    {
+      "name": "generate:Аналіз сечі знаходить понад 9 ",
+      "status": "ok",
+      "duration_s": 343.0,
+      "error": null
+    },
+    {
+      "name": "text_edit:Аналіз сечі знаходить понад 9 ",
+      "status": "ok",
+      "duration_s": 230.1,
+      "error": null
+    },
+    {
+      "name": "review:Аналіз сечі знаходить понад 9 ",
+      "status": "ok",
+      "duration_s": 460.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Аналіз сечі знаходить понад 9 ",
+      "status": "ok",
+      "duration_s": 18.3,
+      "error": null
+    },
+    {
+      "name": "material_images:Аналіз сечі знаходить понад 9 ",
+      "status": "ok",
+      "duration_s": 169.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Аналіз сечі знаходить понад 9 ",
+      "status": "ok",
+      "duration_s": 13.1,
+      "error": null
+    },
+    {
+      "name": "save:Аналіз сечі знаходить понад 9 ",
+      "status": "ok",
+      "duration_s": 675.3,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.3,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}
