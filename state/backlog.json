@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T03:10:10.485944+00:00",
+  "updated_at": "2026-09-05T03:10:33.645646+00:00",
   "entries": [
     {
       "topic": "Понеділковий тиск: як виміряти його вдома правильно і чому одне вимірювання в аптеці нічого не означає",
@@ -1104,13 +1104,13 @@
     {
       "topic": "Гіпермобільність суглобів: коли «гнучкість» — це просто особливість, а коли діагноз",
       "type": "research",
-      "category": "research",
-      "angle": "Новинний привід — матеріал BBC про «bendy disease», який пішов по українських пабліках без жодних чисел (у тижневому огляді 30.08 його позначено як просвіту без перевірних цифр — тепер закриваємо цей борг). Розібрати те, чого в популярних текстах немає: шкала Бейтона (9 балів, пороги 5/6 залежно від віку й статі), різниця між безсимптомною генералізованою гіпермобільністю (поширена, до 20% жінок), гіпермобільним спектральним розладом і гіпермобільним синдромом Елерса-Данло (критерії 2017, генетичного тесту для hEDS не існує — це клінічний діагноз виключення). Чому це важливо читачеві: діагноз ставлять роками, а базове лікування — не таблетка, а поступове силове навантаження й пропріоцептивна робота, які часто плутають з протипоказаною розтяжкою. Чесно про доказову базу: РКД мало, вибірки маленькі, ефекти помірні. Практично: коли підозра виправдана (біль + втома + вивихи + POTS/ШКТ-симптоми) і що робити з розтяжкою в йозі.",
-      "sources_hint": "Malfait et al., 2017 International Classification of Ehlers-Danlos Syndromes (Am J Med Genet C); Beighton score validation studies; Palmer et al. physiotherapy for joint hypermobility syndrome systematic review (Physiotherapy); Cochrane / recent RCTs on exercise therapy in hypermobility spectrum disorder; Royal College of GPs / EDS Society diagnostic pathway; PubMed 'hypermobility spectrum disorder exercise randomized'",
+      "category": "fitness",
+      "angle": "Тема з британських заголовків («bendy disease»), яку в оглядовому дописі 30.08 було названо просвітою без перевірних чисел — тут числа й критерії. Розвести три різні речі, які плутають: безсимптомна гіпермобільність (до 10–20% людей, особливо жінок і дітей — не хвороба), синдром гіпермобільного спектра і гіпермобільний Елерса–Данло (hEDS), у якого є формальні критерії 2017 року і немає генетичного тесту. Пояснити шкалу Бейтона просто, з попередженням, що ≥5 балів само по собі діагнозу не робить. Чому це важливо: типова історія — роки болю, втоми, вивихів і діагнозу «у вас нічого немає». Основна практична частина — рухова: прогресивні силові вправи, контроль навантаження й амплітуди, чому агресивна розтяжка й «шпагат за тиждень» цій групі шкодять, як будувати прогресію новачку в залі; РКД мало і вони малі, це названо прямо. Окремо назвати, що продають цим людям без доказів (колаген у порошку — крос-лінк на власний claim-check, тейпи як «лікування», дорогі ортези на все).",
+      "sources_hint": "Malfait et al., 2017 International Classification of Ehlers-Danlos Syndromes, Am J Med Genet C; Hakim & Grahame Beighton score literature; Palmer et al., physiotherapy for joint hypermobility syndrome — systematic review/RCTs (Physiotherapy, Rheumatology); Ehlers-Danlos Society hEDS diagnostic checklist 2017; prevalence studies of generalised joint hypermobility",
       "evidence_level": "moderate",
-      "score": 50,
-      "rationale": "Real classification literature and moderate breadth, but the BBC hook is already flagged stale from last week's roundup.",
-      "proposed": "2026-09-04"
+      "score": 45,
+      "rationale": "prioritiser unavailable; ordered by the planner's priority 2",
+      "proposed": "2026-09-05"
     },
     {
       "topic": "Ексцентричні присідання проти болю в коліні: що доказово при пателофеморальному синдромі й тендинопатії надколінка",
@@ -1144,6 +1144,94 @@
       "score": 33,
       "rationale": "Compelling hook but evidence rests on a single patient case, explicitly rated preliminary, too thin to carry a multi-finding roundup.",
       "proposed": "2026-09-04"
+    },
+    {
+      "topic": "Тиск удома: 7 днів, двічі на день — і чому одне вимірювання в аптеці нічого не означає",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Суботній гайд під день, коли є час зробити це правильно. Протокол домашнього моніторингу за ESC/ESH: 7 днів поспіль, ранок і вечір, по 2 вимірювання з інтервалом хвилина, перший день викидаємо, решту усереднюємо. Ключова цифра, якої більшість не знає: домашній поріг — 135/85, а не 140/90. Далі — типові помилки з ціною в мм рт. ст.: манжета поверх одягу, невідповідний розмір манжети (найбільша похибка), ноги на вазі, повний сечовий міхур, розмова під час вимірювання, рука нижче рівня серця. Окремо — «гіпертензія білого халата» і зворотна, маскована гіпертензія, яку в кабінеті не побачать; і те, чого не роблять апарати на зап'ясток. Що робити з отриманим числом: коли це привід до лікаря, а коли — привід просто повторити тиждень. Стаття суто про вимірювання: дієтичні важелі винесено в матеріал про замінник солі.",
+      "sources_hint": "ESC/ESH 2023 Guidelines for the management of arterial hypertension (home BP thresholds 135/85); AHA 2019 scientific statement 'Measurement of Blood Pressure in Humans'; Stergiou et al., ESH position paper on home BP monitoring, J Hypertens; STRIDE BP / validatebp.org validated device lists; наказ МОЗ та Уніфікований клінічний протокол «Артеріальна гіпертензія»",
+      "evidence_level": "strong",
+      "score": 60,
+      "rationale": "prioritiser unavailable; ordered by the planner's priority 1",
+      "proposed": "2026-09-05"
+    },
+    {
+      "topic": "Черга на діагноз деменції: навіщо діагноз, якщо ліків немає — і що насправді дають 14 факторів ризику",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Привід — британські дані про багаторічні черги на діагностику деменції. Стаття відповідає на питання, яке ставить сам читач: «а нащо той діагноз, якщо все одно не лікується». Конкретні відповіді: виключення оборотних причин (дефіцит B12, гіпотиреоз, депресія, холінолітичні ліки, нормотензивна гідроцефалія), правові й фінансові рішення поки людина дієздатна, доступ доглядальника до підтримки. Далі чесно про нові ліки: леканемаб і донанемаб уповільнюють зниження на частку бала за шкалою CDR-SB при ризику ARIA, потребують ПЕТ/ліквору і в Україні недоступні — тобто «є ліки» ≠ «є лікування». І найсильніша частина: Lancet Commission 2024 — 14 модифікованих факторів, до 45% випадків теоретично відкладаються, з реалістичним поясненням, що це популяційна атрибутивна частка, а не персональна гарантія. Український маршрут: до кого йти, які аналізи мають сенс першими.",
+      "sources_hint": "Livingston et al., Lancet Commission on dementia prevention, intervention and care, 2024 update (14 modifiable risk factors, PAF 45%); van Dyck et al., CLARITY-AD lecanemab, NEJM 2023; Sims et al., TRAILBLAZER-ALZ 2 donanemab, JAMA 2023; NICE guideline NG97 dementia assessment; reversible causes of cognitive impairment reviews (B12, thyroid, NPH)",
+      "evidence_level": "moderate",
+      "score": 60,
+      "rationale": "prioritiser unavailable; ordered by the planner's priority 1",
+      "proposed": "2026-09-05"
+    },
+    {
+      "topic": "Магній «від судом у ногах»: що показали сліпі випробування — і що робити з нічними судомами насправді",
+      "type": "research",
+      "category": "research",
+      "angle": "Claim-check найпопулярнішої аптечної звички. Кокранівський огляд щодо магнію при судомах м'язів: у літніх людей ефект практично нульовий і не відрізняється від плацебо; дані при вагітності суперечливі. Пояснити, чому віра тримається: судоми самі минають і мають хвилеподібний перебіг, тож будь-що, прийняте на піку, «спрацює» — класична пастка регресії до середнього. Далі — що має бодай якісь дані: розтягування литок перед сном (слабко), перевірка ліків (діуретики, статини, сальбутамол), і головне — червоні прапорці, за якими судоми не судоми: слабкість, схуднення, набряки, симптоми ХЗК, алкоголь, цироз. Для дієтологів і тренерів окремий блок: дефіцит магнію реально буває, але сироватковий магній його майже не ловить, і «судома = дефіцит магнію» — не діагностичне правило. Продовження серії про форми магнію (таурат, бісгліцинат, L-треонат) — цього разу про показання, а не про сіль.",
+      "sources_hint": "Garrison et al., Magnesium for skeletal muscle cramps, Cochrane Database Syst Rev 2020; Roguin Maor et al., JAMA Intern Med 2017 (magnesium oxide RCT for nocturnal leg cramps); Hallegraeff et al., stretching for nocturnal cramps RCT; Blyton et al. / AAN guideline on nocturnal leg cramps treatment; EFSA dietary reference values for magnesium",
+      "evidence_level": "strong",
+      "score": 45,
+      "rationale": "prioritiser unavailable; ordered by the planner's priority 2",
+      "proposed": "2026-09-05"
+    },
+    {
+      "topic": "Підробки ліків для схуднення: як відрізнити оригінальну ручку від фальсифікату і що знаходили в вилучених зразках",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Практичний гайд під новину про індустрію підробок GLP-1. Не повторює серпневий розбір класу препаратів (механізм, STEP/SELECT, повернення ваги), а відповідає на іншу річ: як не купити небезпечну підробку. Що реально знаходили регулятори у вилучених зразках — інсулін замість семаглутиду (з випадками важкої гіпоглікемії і госпіталізаціями), нестерильні розчини, неправильні концентрації, компаундовані флакони, де помилка з одиницями дає 5–20-кратне передозування. Конкретні перевірні кроки: рецепт і легальна аптека, серійний номер і перевірка виробника, як виглядає автентична упаковка й ручка, чому «ампула з порошком і бактеріостатична вода» — це вже не оригінал за визначенням, і чому ціна значно нижча за ринкову — головний червоний прапорець. Українська рамка: препарат рецептурний, сірий імпорт і Telegram-продажі не мають ланцюга холоду й контролю. Червоні прапорці передозування — до лікаря негайно.",
+      "sources_hint": "FDA warnings and seizure reports on counterfeit Ozempic/semaglutide 2023-2026; EMA and MHRA statements on falsified GLP-1 pens (insulin found in counterfeit pens, UK hospitalisations); WHO Medical Product Alert No. 2/2024 on falsified semaglutide; FDA adverse event reports on compounded semaglutide dosing errors; Держлікслужба України на фальсифіковані лікарські засоби",
+      "evidence_level": "moderate",
+      "score": 45,
+      "rationale": "prioritiser unavailable; ordered by the planner's priority 2",
+      "proposed": "2026-09-05"
+    },
+    {
+      "topic": "Хропіння чи апное: чому трекер цього не діагностує, що дав CPAP у SAVE — і що змінив тирзепатид",
+      "type": "guide",
+      "category": "sleep",
+      "angle": "Тема, якої в блозі ще не було цілим матеріалом: у статті про трекери сну STOP-BANG був одним рядком маршрутизації, тут він розгорнутий. Розвести звичайне хропіння і обструктивне апное: свідчені зупинки дихання, ранкові головні болі, денна сонливість, нічна ніктурія, резистентна гіпертензія й фібриляція передсердь як привід шукати апное, а не лікувати «втому». Чому носимі пристрої й додатки з мікрофоном не ставлять діагноз (позиція AASM), і що таке респіраторна полiграфія проти повної полісомнографії. Доказова частина чесна в обидві сторони: CPAP надійно знижує AHI, сонливість і трохи тиск (~2–3 мм рт. ст.), але SAVE (NEJM 2016, n=2717) не показав зниження серцево-судинних подій — з ключовим поясненням, що середня прихильність була 3,3 год за ніч. Новіше: SURMOUNT-OSA (NEJM 2024) — тирзепатид зменшив AHI на 20–29 подій/год при ожирінні, і це перший фармакологічний варіант, але без даних про тверді кінцеві точки. Практичне сьогодні: анкета STOP-BANG удома, позиційна терапія, алкоголь за 4 години до сну (крос-лінк на матеріал про п'ятничне вино), схуднення як найсильніший модифікований чинник. Український маршрут: де роблять дослідження сну, скільки коштує, що НСЗУ не покриває апарат.",
+      "sources_hint": "McEvoy et al., SAVE trial, NEJM 2016;375:919; Malhotra et al., SURMOUNT-OSA, NEJM 2024 (tirzepatide, AHI reduction); Chung et al., STOP-BANG validation studies, Chest/Anesthesiology; AASM 2017 clinical practice guideline for diagnostic testing for adult OSA; Patil et al., AASM 2019 PAP treatment guideline; Cochrane reviews of CPAP for blood pressure and sleepiness; Benjafield et al., Lancet Respir Med 2019 (global OSA prevalence)",
+      "evidence_level": "moderate",
+      "score": 45,
+      "rationale": "prioritiser unavailable; ordered by the planner's priority 2",
+      "proposed": "2026-09-05"
+    },
+    {
+      "topic": "Пробіжка чи «зона 2»: скільки насправді треба бігати повільно і чи є сенс у пульсовій зоні, якої не вмієш визначити",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Найпопулярніша фітнес-догма останніх років — «80% тренувань у зоні 2» — під перевіркою. Звідки взялося правило 80/20: спостережні дані про елітних витривалісних спортсменів (Seiler), а не РКД на любителях. Що показують прямі порівняння полярізованої та порогової моделей у нееліт — різниці часто немає, і головний предиктор — загальний обсяг. Практична частина, якої бракує в кожному відео: як визначити «зону 2» без лактатметра — talk test (можете говорити реченнями, не віршами) валідований проти вентиляторного порога краще, ніж формула 220 мінус вік, яка має похибку ±10–12 ударів. Для тренерів: чому формула Танаки точніша за 220−вік і чому зони від максимального пульсу і від резерву пульсу дають різні числа для однієї людини.",
+      "sources_hint": "Seiler & Kjerland, Scand J Med Sci Sports 2006 (polarized training distribution); Rosenblat et al., meta-analysis polarized vs threshold training, Sports Med 2019/2021; Reed & Pipe, talk test validation against ventilatory threshold, Med Sci Sports Exerc; Tanaka et al., JACC 2001 (HRmax = 208 − 0.7×age); Foster et al. session RPE literature",
+      "evidence_level": "moderate",
+      "score": 45,
+      "rationale": "prioritiser unavailable; ordered by the planner's priority 2",
+      "proposed": "2026-09-05"
+    },
+    {
+      "topic": "«Розріджувачі крові» з кухні: часник, куркума, імбир і риб'ячий жир — що з цього справді впливає на згортання",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Другий claim-check дня, з протилежним висновком до матеріалу про замінник солі: тут популярне переконання здебільшого не витримує. Пряме продовження серпневої статті про Кардіомагніл — там був препарат, тут кухня, і повторення механізму аспірину немає. Часник у мета-аналізах дає мінімальне й нестабільне зниження тиску і жодного клінічно значущого антитромботичного ефекту; куркумін має проблему біодоступності й майже всі дані — лабораторні; імбир на агрегацію тромбоцитів у людей — суперечливі малі дослідження. Риб'ячий жир — єдиний з реальним сигналом, і саме тому важливий: у високих дозах ікозапент етилу (REDUCE-IT) справді підвищував ризик фібриляції передсердь і кровотеч. Практичний висновок з двома адресатами: не варто розраховувати на кухню замість призначеного антитромбоцитарного препарату, але й «не їжте часник перед операцією» — перебільшення; чесно назвати, де межа. Для дієтологів: як відповідати клієнту на варфарині чи прямому антикоагулянті.",
+      "sources_hint": "Ried et al., garlic and blood pressure meta-analyses, J Nutr / Exp Ther Med; Cochrane review garlic for cardiovascular prevention; Marchio et al. / Nelson et al. curcumin bioavailability reviews; Bhatt et al., REDUCE-IT, NEJM 2019 (AF and bleeding signals); STRENGTH trial JAMA 2020; systematic reviews of herbal supplement–warfarin interactions (Ge et al.)",
+      "evidence_level": "moderate",
+      "score": 30,
+      "rationale": "prioritiser unavailable; ordered by the planner's priority 3",
+      "proposed": "2026-09-05"
+    },
+    {
+      "topic": "Свинячу нирку носили 271 день: що це за операція, кому вона колись буде — і чому це ще не рішення для черги на трансплантацію",
+      "type": "research",
+      "category": "research",
+      "angle": "Пояснювальний матеріал під новину про рекордні 271 день роботи генетично модифікованої свинячої нирки в людини. Розібрати, що саме зробили: 10–69 генетичних правок для зняття гіперактивного відторгнення й ретровірусів, потужна імуносупресія, пацієнти без альтернатив за протоколом expanded access. Що показали попередні випадки: більшість трансплантатів втрачали за тижні-місяці, це серія випадків n одиниці, а не випробування; жодних даних про виживання порівняно зі стандартним діалізом. Головна чесна рамка для читача: ксенотрансплантація — інженерна віха, а не доступне лікування; черга скорочується не нею, а посмертним донорством і профілактикою ниркової недостатності. Український поворот: трансплантація в Україні працює й зростає, а найдієвіше, що може зробити читач для своїх нирок сьогодні — контроль тиску, глюкози і те, що креатинін з рШКФ є в базовій панелі.",
+      "sources_hint": "Riella/Kawai et al. pig kidney xenotransplant case reports, NEJM 2024-2026; United Therapeutics/eGenesis expanded access announcements and FDA xenotransplant clinical trial authorisations 2025-2026; Montgomery et al., NEJM 2022 (decedent model); KDIGO 2024 CKD guideline; дані української трансплант-координації МОЗ",
+      "evidence_level": "preliminary",
+      "score": 30,
+      "rationale": "prioritiser unavailable; ordered by the planner's priority 3",
+      "proposed": "2026-09-05"
     }
   ]
 }
