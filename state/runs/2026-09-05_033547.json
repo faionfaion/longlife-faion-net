@@ -1,0 +1,80 @@
+{
+  "timestamp": "2026-09-05_033547",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "zaminnyk-soli-kaliy-ssass-decide-salt-hiperkaliemia",
+  "author": "Віта",
+  "duration_s": 1963.5,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 397.2,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 52.6,
+      "error": null
+    },
+    {
+      "name": "research:Замінник солі з калієм: рідкіс",
+      "status": "ok",
+      "duration_s": 229.6,
+      "error": null
+    },
+    {
+      "name": "generate:Замінник солі з калієм: рідкіс",
+      "status": "ok",
+      "duration_s": 104.5,
+      "error": null
+    },
+    {
+      "name": "text_edit:Замінник солі з калієм: рідкіс",
+      "status": "ok",
+      "duration_s": 164.7,
+      "error": null
+    },
+    {
+      "name": "review:Замінник солі з калієм: рідкіс",
+      "status": "ok",
+      "duration_s": 471.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Замінник солі з калієм: рідкіс",
+      "status": "ok",
+      "duration_s": 18.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Замінник солі з калієм: рідкіс",
+      "status": "ok",
+      "duration_s": 11.9,
+      "error": null
+    },
+    {
+      "name": "save:Замінник солі з калієм: рідкіс",
+      "status": "ok",
+      "duration_s": 508.0,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.4,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}
