@@ -1,0 +1,258 @@
+- generic [active] [ref=f10e1]:
+  - text:  Збільшити текст  Змінити на чорно-білий  Змінити на синій
+  - generic [ref=f10e2]: "%"
+  - banner [ref=f10e9]:
+    - generic [ref=f10e11]:
+      - link [ref=f10e13] [cursor=pointer]:
+        - /url: https://www.dec.gov.ua/
+        - img "logo" [ref=f10e14]
+      - search [ref=f10e17]:
+        - generic [ref=f10e18]:
+          - textbox "Пошук" [ref=f10e19]
+          - button "" [ref=f10e20] [cursor=pointer]
+  - navigation [ref=f10e22]:
+    - generic [ref=f10e23]:
+      - list [ref=f10e25]:
+        - listitem [ref=f10e26]:
+          - link "Головна" [ref=f10e27] [cursor=pointer]:
+            - /url: https://www.dec.gov.ua/mtd/home/
+        - listitem [ref=f10e28]:
+          - button "Нормативні та методичні матеріали" [ref=f10e29] [cursor=pointer]
+        - listitem [ref=f10e30]:
+          - link "Галузеві стандарти та клінічні настанови" [ref=f10e31] [cursor=pointer]:
+            - /url: https://www.dec.gov.ua/cat_mtd/galuzevi-standarti-ta-klinichni-nastanovi/
+        - listitem [ref=f10e32]:
+          - link "Класифікатори" [ref=f10e33] [cursor=pointer]:
+            - /url: https://www.dec.gov.ua/mtd/klasyfikatory/
+        - listitem [ref=f10e34]:
+          - button "Теми в розробці" [ref=f10e35] [cursor=pointer]
+        - listitem [ref=f10e36]:
+          - button "Міжнародні джерела" [ref=f10e37] [cursor=pointer]
+        - listitem [ref=f10e38]:
+          - link "Контакти" [ref=f10e39] [cursor=pointer]:
+            - /url: https://www.dec.gov.ua/mtd/contact/
+      - list [ref=f10e41]:
+        - listitem [ref=f10e42]:
+          - link "UKR" [ref=f10e43] [cursor=pointer]:
+            - /url: https://www.dec.gov.ua/mtd/arterialna-gipertenziya-2/
+        - listitem [ref=f10e44]:
+          - link "EN" [ref=f10e45] [cursor=pointer]:
+            - /url: https://www.dec.gov.ua/en/
+  - list [ref=f10e49]:
+    - listitem [ref=f10e50]:
+      - link "Головна" [ref=f10e51] [cursor=pointer]:
+        - /url: https://www.dec.gov.ua/mtd
+    - listitem [ref=f10e52]:
+      - text: /
+      - link "Галузеві стандарти та клінічні настанови" [ref=f10e53] [cursor=pointer]:
+        - /url: https://www.dec.gov.ua/cat_mtd/galuzevi-standarti-ta-klinichni-nastanovi/
+    - listitem [ref=f10e54]:
+      - text: /
+      - link "Загальна практика - сімейна медицина" [ref=f10e55] [cursor=pointer]:
+        - /url: https://www.dec.gov.ua/cat_mtd/zagalna-praktika-simejna-mediczina/
+    - listitem [ref=f10e56]:
+      - text: /
+      - link "Кардіологія" [ref=f10e57] [cursor=pointer]:
+        - /url: https://www.dec.gov.ua/cat_mtd/kardiologiya/
+    - listitem [ref=f10e58]:
+      - text: /
+      - link "Терапія" [ref=f10e59] [cursor=pointer]:
+        - /url: https://www.dec.gov.ua/cat_mtd/terapiya/
+    - listitem [ref=f10e60]: / Артеріальна гіпертензія
+  - main [ref=f10e61]:
+    - generic [ref=f10e63]:
+      - article [ref=f10e65]:
+        - heading "Артеріальна гіпертензія" [level=1] [ref=f10e66]
+        - generic [ref=f10e67]:
+          - generic [ref=f10e68]:
+            - generic [aria-hidden] [ref=f10e69]: 
+            - text: 12.09.2024
+          - generic [ref=f10e70]:
+            - generic [aria-hidden] [ref=f10e71]: 
+            - text: "75977"
+          - link "Друк" [ref=f10e73] [cursor=pointer]:
+            - /url: "#"
+            - generic [aria-hidden] [ref=f10e74]: 
+        - table [ref=f10e76]:
+          - rowgroup [ref=f10e77]:
+            - row [ref=f10e78]:
+              - cell [ref=f10e79]:
+                - strong [ref=f10e80]: Назва
+              - cell [ref=f10e81]:
+                - strong [ref=f10e82]: Статус
+              - cell [ref=f10e83]:
+                - strong [ref=f10e84]: Вид
+              - cell [ref=f10e85]:
+                - strong [ref=f10e86]: Реєстровий №
+              - cell [ref=f10e87]:
+                - strong [ref=f10e88]: Опубліковано
+            - row [ref=f10e89]:
+              - cell [ref=f10e90]:
+                - 'link "Уніфікований клінічний протокол первинної та спеціалізованої медичної допомоги «Гіпертонічна хвороба (артеріальна гіпертензія)» (2.7 МБ) (Завантажено: 17.09.2024 13:48:01)" [ref=f10e91] [cursor=pointer]':
+                  - /url: https://www.dec.gov.ua/?ZG93bmxvYWQ=d3AtY29udGVudC91cGxvYWRzLzIwMjQvMDkveWtwbWRfMTU4MV8xMjA5MjAyNF9kb2QucGRm
+              - cell "Чинний" [ref=f10e92]
+              - cell "Протокол" [ref=f10e93]
+              - cell "ГС 2024- 1581" [ref=f10e94]
+              - cell "12.09.2024" [ref=f10e95]
+            - row [ref=f10e96]:
+              - cell [ref=f10e97]:
+                - 'link "Клінічна настанова, заснована на доказах «Артеріальна гіпертензія» (3.1 МБ) (Завантажено: 17.09.2024 13:55:06)" [ref=f10e98] [cursor=pointer]':
+                  - /url: https://www.dec.gov.ua/?ZG93bmxvYWQ=d3AtY29udGVudC91cGxvYWRzLzIwMjQvMDkva25fMjAyNF9hZy5wZGY=
+              - cell "Чинна" [ref=f10e99]
+              - cell "Настанова" [ref=f10e100]
+              - cell "КН 2024- 1581" [ref=f10e101]
+              - cell "12.09.2024" [ref=f10e102]
+            - row [ref=f10e103]:
+              - cell [ref=f10e104]:
+                - 'link "Наказ МОЗ (110 КБ) (Завантажено: 17.09.2024 13:56:12)" [ref=f10e105] [cursor=pointer]':
+                  - /url: https://www.dec.gov.ua/?ZG93bmxvYWQ=d3AtY29udGVudC91cGxvYWRzLzIwMjQvMDkvbmFrYXpfMTU4MV8xMjA5MjAyNC5wZGY=
+              - cell "Чинний" [ref=f10e106]
+              - cell "Наказ" [ref=f10e107]
+              - cell "МОЗ 2024- 1581" [ref=f10e108]
+              - cell "12.09.2024" [ref=f10e109]
+      - generic [ref=f10e111]:
+        - generic [ref=f10e112]: Останні оновлення
+        - generic [ref=f10e113]:
+          - link [ref=f10e114] [cursor=pointer]:
+            - /url: https://www.dec.gov.ua/mtd/kryteriyi-gospitalizacziyi-pacziyentiv-dlya-nadannya-staczionarnoyi-medychnoyi-dopomogy/
+            - paragraph [ref=f10e115]: Критерії госпіталізації пацієнтів для надання стаціонарної медичної допомоги
+          - link "Детальніше" [ref=f10e116] [cursor=pointer]:
+            - /url: https://www.dec.gov.ua/mtd/kryteriyi-gospitalizacziyi-pacziyentiv-dlya-nadannya-staczionarnoyi-medychnoyi-dopomogy/
+        - generic [ref=f10e117]:
+          - link [ref=f10e118] [cursor=pointer]:
+            - /url: https://www.dec.gov.ua/mtd/likuvalna-gipotermiya-novonarodzhenyh-z-gipoksychno-ishemichnoyu-enczefalopatiyeyu/
+            - paragraph [ref=f10e119]: Лікувальна гіпотермія новонароджених з гіпоксично-ішемічною енцефалопатією
+          - link "Детальніше" [ref=f10e120] [cursor=pointer]:
+            - /url: https://www.dec.gov.ua/mtd/likuvalna-gipotermiya-novonarodzhenyh-z-gipoksychno-ishemichnoyu-enczefalopatiyeyu/
+        - generic [ref=f10e121]:
+          - link [ref=f10e122] [cursor=pointer]:
+            - /url: https://www.dec.gov.ua/mtd/transplantacziya-pechinky-u-doroslyh-ta-ditej/
+            - paragraph [ref=f10e123]: Трансплантація печінки у дорослих та дітей
+          - link "Детальніше" [ref=f10e124] [cursor=pointer]:
+            - /url: https://www.dec.gov.ua/mtd/transplantacziya-pechinky-u-doroslyh-ta-ditej/
+        - generic [ref=f10e125]:
+          - link [ref=f10e126] [cursor=pointer]:
+            - /url: https://www.dec.gov.ua/mtd/elektronni-konsultacziyi-z-gromadskistyu/
+            - paragraph [ref=f10e127]: Громадське обговорення
+          - link "Детальніше" [ref=f10e128] [cursor=pointer]:
+            - /url: https://www.dec.gov.ua/mtd/elektronni-konsultacziyi-z-gromadskistyu/
+        - generic [ref=f10e129]:
+          - link [ref=f10e130] [cursor=pointer]:
+            - /url: https://www.dec.gov.ua/mtd/multydysczyplinarni-robochi-grupy/
+            - paragraph [ref=f10e131]: Мультидисциплінарні робочі групи та теми
+          - link "Детальніше" [ref=f10e132] [cursor=pointer]:
+            - /url: https://www.dec.gov.ua/mtd/multydysczyplinarni-robochi-grupy/
+        - generic [ref=f10e133]:
+          - link [ref=f10e134] [cursor=pointer]:
+            - /url: https://www.dec.gov.ua/mtd/hvoroba-vilsona/
+            - paragraph [ref=f10e135]: Хвороба Вільсона
+          - link "Детальніше" [ref=f10e136] [cursor=pointer]:
+            - /url: https://www.dec.gov.ua/mtd/hvoroba-vilsona/
+        - generic [ref=f10e137]:
+          - link [ref=f10e138] [cursor=pointer]:
+            - /url: https://www.dec.gov.ua/mtd/gryp-ta-gostri-respiratorni-infekcziyi/
+            - paragraph [ref=f10e139]: Грип та гострі респіраторні інфекції
+          - link "Детальніше" [ref=f10e140] [cursor=pointer]:
+            - /url: https://www.dec.gov.ua/mtd/gryp-ta-gostri-respiratorni-infekcziyi/
+        - generic [ref=f10e141]:
+          - link [ref=f10e142] [cursor=pointer]:
+            - /url: https://www.dec.gov.ua/mtd/dermatofibrosarkoma-shho-vybuhaye/
+            - paragraph [ref=f10e143]: Дерматофібросаркома, що вибухає
+          - link "Детальніше" [ref=f10e144] [cursor=pointer]:
+            - /url: https://www.dec.gov.ua/mtd/dermatofibrosarkoma-shho-vybuhaye/
+        - generic [ref=f10e145]:
+          - link [ref=f10e146] [cursor=pointer]:
+            - /url: https://www.dec.gov.ua/mtd/legeneva-gipertenziya/
+            - paragraph [ref=f10e147]: Легенева гіпертензія
+          - link "Детальніше" [ref=f10e148] [cursor=pointer]:
+            - /url: https://www.dec.gov.ua/mtd/legeneva-gipertenziya/
+        - generic [ref=f10e149]:
+          - link [ref=f10e150] [cursor=pointer]:
+            - /url: https://www.dec.gov.ua/mtd/skaz/
+            - paragraph [ref=f10e151]: Сказ
+          - link "Детальніше" [ref=f10e152] [cursor=pointer]:
+            - /url: https://www.dec.gov.ua/mtd/skaz/
+  - contentinfo [ref=f10e153]:
+    - generic [ref=f10e155]:
+      - generic [ref=f10e156]:
+        - generic [ref=f10e157]: Статистика
+        - list [ref=f10e158]:
+          - listitem [ref=f10e159]:
+            - link "Перелік заяв про державну реєстрацію лікарських засобів" [ref=f10e160] [cursor=pointer]:
+              - /url: https://www.dec.gov.ua/applicant/perelik-zayav-pro-derzhavnu-re-stracziyu-likarskih-zasobiv/
+          - listitem [ref=f10e161]:
+            - link "Перелік ЛЗ рекомендованих до реєстрації, перереєстрації та внесення змін у реєстраційні матеріали" [ref=f10e162] [cursor=pointer]:
+              - /url: https://www.dec.gov.ua/applicant/perelik-lz-rekomendovanih-do-re-straczi-perere-straczi-ta-vnesennya-zmin-u-re-straczijni-materiali/
+          - listitem [ref=f10e163]:
+            - link "Перелік ЛЗ, на які завершено експертизу щодо автентичності реєстраційних матеріалів" [ref=f10e164] [cursor=pointer]:
+              - /url: https://www.dec.gov.ua/applicant/perelikiv-lz-na-yaki-zaversheno-ekspertizu-shhodo-avtentichnosti-re-straczijnih-materialiv/
+        - generic [ref=f10e165]:
+          - link [ref=f10e166] [cursor=pointer]:
+            - /url: https://www.facebook.com/dec.gov.ua/
+            - generic [aria-hidden] [ref=f10e167]: 
+          - link [ref=f10e168] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UC7nX2Q43O4fp4ankYFneRqA/featured
+            - generic [aria-hidden] [ref=f10e169]: 
+      - generic [ref=f10e170]:
+        - generic [ref=f10e171]: Розділи
+        - list [ref=f10e172]:
+          - listitem [ref=f10e173]:
+            - link "Державний експертний центр" [ref=f10e174] [cursor=pointer]:
+              - /url: https://www.dec.gov.ua/derzhavne-pidpryyemstvo-derzhavnyj-ekspertnyj-czentr-ministerstva-ohorony-zdorov-ya-ukrayiny/
+          - listitem [ref=f10e175]:
+            - link "Історія" [ref=f10e176] [cursor=pointer]:
+              - /url: https://www.dec.gov.ua/istoriya/
+          - listitem [ref=f10e177]:
+            - link "ISO 9001:2015" [ref=f10e178] [cursor=pointer]:
+              - /url: https://www.dec.gov.ua/dp-derzhavnij-ekspertnij-czentr-moz-ukra-ni-uspishno-projshov-mizhnarodnu-sertifikacziyu-iso-9001-2015/
+      - generic [ref=f10e179]:
+        - generic [ref=f10e180]: Інструментарій
+        - list [ref=f10e181]:
+          - listitem [ref=f10e182]:
+            - link "Контакти" [ref=f10e183] [cursor=pointer]:
+              - /url: https://www.dec.gov.ua/contact-page/
+          - listitem [ref=f10e184]:
+            - link "Популярні запитання/FAQ" [ref=f10e185] [cursor=pointer]:
+              - /url: https://www.dec.gov.ua/informaczijnij-czentr/
+      - generic [ref=f10e186]:
+        - generic [ref=f10e187]: Контакти
+        - generic [ref=f10e188]:
+          - generic [ref=f10e189]:
+            - text: "Адреса підприємства:"
+            - paragraph [ref=f10e190]:
+              - link "03057, м. Київ, вул. Сім’ї Бродських, 10 (вул. Смоленська, 10)" [ref=f10e191] [cursor=pointer]:
+                - /url: https://maps.google.com/?q=03057, м. Київ,  вул. Сім’ї Бродських, 10 (вул. Смоленська, 10)
+          - generic [ref=f10e192]:
+            - paragraph [ref=f10e193]:
+              - link "+38 (044) 202-17-00" [ref=f10e194] [cursor=pointer]:
+                - /url: tel:+380442021700
+            - text: "Сервісний центр:"
+            - paragraph [ref=f10e195]:
+              - link "+38 (044) 202-17-05" [ref=f10e196] [cursor=pointer]:
+                - /url: tel:+380442021705
+            - text: "Бухгалтерія:"
+            - paragraph [ref=f10e197]:
+              - link "+38 (044) 202-17-06" [ref=f10e198] [cursor=pointer]:
+                - /url: tel:+380442021706
+            - text: "Єдине вікно:"
+            - paragraph [ref=f10e199]:
+              - link "+38 (044) 202-17-09" [ref=f10e200] [cursor=pointer]:
+                - /url: tel:+380442021709
+            - paragraph [ref=f10e201]:
+              - link " dec@dec.gov.ua" [ref=f10e202] [cursor=pointer]:
+                - /url: mailto:dec@dec.gov.ua
+                - generic [ref=f10e203]: 
+                - text: dec@dec.gov.ua
+    - separator [ref=f10e204]
+    - generic [ref=f10e206]:
+      - generic [ref=f10e207]:
+        - paragraph [ref=f10e208]: При повному або частковому використанні інформації, розмішеної на веб-сайті, посилання на джерело інформації обов'язкове. Всі представлені матеріали і документація носять інформаційний характер і не можуть використовуватись як офіційні документи. Комерційне використання інформації заборонено без письмового дозволу. У разі виявлення неточностей в інформації, розміщеній на веб-сайті, прохання повідомити службі підтримки сайту support@dec.gov.ua
+        - paragraph [ref=f10e209]:
+          - text: Всі права захищено
+          - generic [ref=f10e210]: 
+          - text: 1990 - 2026 www.dec.gov.ua
+      - img "logo" [ref=f10e213]
+  - iframe [ref=f10e216]:
+    - generic [ref=f11e6]:
+      - text: protected by
+      - strong [ref=f11e7]: reCAPTCHA
