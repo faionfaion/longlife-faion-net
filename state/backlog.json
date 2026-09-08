@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T03:11:41.333462+00:00",
+  "updated_at": "2026-09-08T03:10:50.707392+00:00",
   "entries": [
     {
       "topic": "Понеділковий тиск: як виміряти його вдома правильно і чому одне вимірювання в аптеці нічого не означає",
@@ -1331,6 +1331,105 @@
       "score": 42,
       "rationale": "Debt from a stale 08-30 digest, moderate-quality evidence, but the subject sprawls across three conditions plus overlap syndromes for one sitting.",
       "proposed": "2026-09-07"
+    },
+    {
+      "topic": "Дві дешеві перевірки, які показують нирки: рШКФ і альбумін/креатинін у сечі",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Продовження застереження з матеріалу про калієвий замінник солі від 05.09 (кому спершу треба здати креатинін). Хронічна хвороба нирок роками не болить і виявляється двома аналізами, які коштують копійки: креатинін крові з розрахунком рШКФ і співвідношення альбумін/креатинін у разовій порції сечі. Пояснити просто, що означають цифри (рШКФ <60 стійко >3 місяців, альбумінурія від 30 мг/г), чому загальний аналіз сечі з «білок не виявлено» не замінює ACR, і чому одноразовий підвищений результат — це привід повторити, а не діагноз. Кому здавати: гіпертензія, діабет, ожиріння, родинна історія, тривалий прийом НПЗЗ, підвищений тиск у молодому віці. Що робити з результатом: контроль тиску й глюкози, іАПФ/сартани, і клас препаратів, який змінив прогноз при ХХН, — SGLT2-інгібітори (DAPA-CKD, EMPA-KIDNEY). Чесна межа: USPSTF досі не рекомендує популяційний скринінг безсимптомних дорослих, тому це таргетована перевірка за факторами ризику, а не «здайте всі». Свиняча нирка, що пропрацювала 271 день, — один абзац рамки: це подія, n=1, а не варіант для читача.",
+      "sources_hint": "KDIGO 2024 Clinical Practice Guideline for CKD Evaluation and Management; Inker et al., CKD-EPI 2021 creatinine equation, NEJM 2021; Heerspink et al., DAPA-CKD, NEJM 2020; EMPA-KIDNEY Collaborative Group, NEJM 2023; USPSTF statement on CKD screening; НСЗУ/МОЗ tariffs and lab availability in Ukraine",
+      "evidence_level": "moderate",
+      "score": 79,
+      "rationale": "Strong guideline base (KDIGO, DAPA-CKD, EMPA-KIDNEY), genuine follow-up to the 09.05/09.07 thread with new practical question, fits the length well.",
+      "proposed": "2026-09-08"
+    },
+    {
+      "topic": "Мелатонін — не снодійне: що він робить насправді і чому доза 3-5 мг найчастіше зайва",
+      "type": "nutrition",
+      "category": "sleep",
+      "angle": "Вересень, школярі й дорослі повертаються до раннього підйому — і аптечний мелатонін стає масовою покупкою. Головна теза: мелатонін — сигнал часу, а не вимикач. Мета-аналізи дають скорочення часу засинання приблизно на 7 хвилин і приріст тривалості сну близько 8-10 хвилин — це значно менше, ніж очікує людина, яка купила пачку. Де він працює справді добре: зсунутий циркадний ритм (синдром відкладеної фази у підлітків), джетлаг, сліпі люди без світлосприйняття — і там ключове не доза, а таймінг (мала доза 0,5-1 мг за кілька годин до бажаного сну зміщує ритм сильніше, ніж 5 мг перед сном). Чесно про дітей (використання поза інструкцією, дані короткі), про якість добавок (аналізи вмісту показували разючі розбіжності із заявленим — до кількох разів, плюс знахідки серотоніну) і про те, що при безсонні першою лінією за настановами є КПТ-Б, а не таблетка. Українське: статус препарату проти статусу дієтичної добавки й що саме це означає для контролю вмісту в пачці — прямий місток до відкритого питання оглядів про протоколи без фізичного предмета.",
+      "sources_hint": "Ferracioli-Oda et al., meta-analysis of melatonin for sleep, PLoS One 2013; Auld et al., Sleep Med Rev 2017 melatonin for primary sleep disorders; AASM 2017 clinical practice guideline on intrinsic circadian rhythm sleep-wake disorders; Erland & Saxena, JCSM 2017 (melatonin content of commercial supplements); ESRS/AASM insomnia guidelines recommending CBT-I first line; Cochrane 'melatonin for jet lag'",
+      "evidence_level": "moderate",
+      "score": 77,
+      "rationale": "Rich meta-analytic and guideline base with a real paradox (timing vs dose), seasonal back-to-school hook, nothing like it published recently.",
+      "proposed": "2026-09-08"
+    },
+    {
+      "topic": "Скільки насправді треба тренуватися, щоб стати сильнішим: мінімальна доза за мета-аналізами",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Для читача, який «не має часу на зал», і для тренера, якого про це питають. Розвести три різні питання, які злипаються в одне: частота (мета-аналізи: за однакового тижневого об'єму 1 vs 2-3 рази на тиждень на м'язову групу дають схожий приріст сили — тобто головне тижневий об'єм, а не розклад), об'єм (доза-відповідь для гіпертрофії з плато й ознаками спадної віддачі приблизно після 10-20 підходів на групу на тиждень) і близькість до відмови (сила росте і на 3-4 підходах у запасі; до відмови не обов'язково). Мінімальна робоча доза за наявними даними — 2 короткі сесії на тиждень із базовими рухами. Окремо — що показують дані про силу в старшому віці й про те, що приріст сили в перші тижні — це переважно нервова система, а не м'язи, тому «нічого не видно в дзеркалі» не означає «не працює». Обмеження, яке треба назвати: більшість РКД — на нетренованих молодих чоловіках, короткі, з малими вибірками.",
+      "sources_hint": "Schoenfeld et al., resistance training frequency meta-analysis, Sports Med 2016 and 2019 update; Schoenfeld et al., dose-response volume meta-analysis, J Sports Sci 2017; Refalo et al., proximity-to-failure meta-analysis, Sports Med 2023; Currier et al., BJSM 2023 network meta-analysis of resistance training dose for strength; WHO 2020 physical activity guidelines (muscle-strengthening component)",
+      "evidence_level": "strong",
+      "score": 75,
+      "rationale": "Multiple named meta-analyses untangling three distinct questions, high everyday reader value, no live hook but plenty of substance for the length.",
+      "proposed": "2026-09-08"
+    },
+    {
+      "topic": "Креатин: спортивна добавка з найкращою доказовою базою — і чотири обіцянки, яких вона не виконує",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Claim-check, де популярна річ здебільшого витримує перевірку. Що доведено: моногідрат, 3-5 г на добу, приріст сили і сухої маси в силових тренуваннях — десятки РКД і мета-аналізів; завантаження 20 г не обов'язкове, просто швидше. Що продають зверху й що показують дані: «шкодить ниркам» (у здорових не підтверджено, але при ХХН — окрема розмова з лікарем, і креатинін як аналіз стає менш інформативним — прямий місток до матеріалу про рШКФ), випадіння волосся (одне дослідження на 20 регбістах, вимірювався ДГТ, не волосся, не відтворено), «креатин для мозку» (мета-аналізи дають сигнал переважно при депривації сну і у вегетаріанців, а не загальний ноотроп), нові форми (HCl, кре-алкалін) — дорожче без переваги над моногідратом. Окремо про воду в м'язах як частину ефекту, про жінок у менопаузі (дані попередні) і про дешеву перевірку якості порошку. Назвати конфлікт інтересів чесно: значна частина позиційних документів ISSN має індустріальне фінансування.",
+      "sources_hint": "Kreider et al., ISSN position stand: safety and efficacy of creatine supplementation, JISSN 2017; Antonio et al., 'Common questions and misconceptions about creatine', JISSN 2021; Candow et al., creatine and brain function reviews 2023-2025; van der Merwe et al., DHT rugby study 2009 and replication attempts; Cochrane/PubMed 'creatine kidney function healthy adults'",
+      "evidence_level": "strong",
+      "score": 72,
+      "rationale": "Decades of RCTs plus four separate myths to debunk gives real length, strong evidence gate, but purely evergreen with no timely hook.",
+      "proposed": "2026-09-08"
+    },
+    {
+      "topic": "Крижана ванна після тренування: відновлює — чи стирає результат тренування",
+      "type": "research",
+      "category": "biohacking",
+      "angle": "Claim-check популярного біохаку з несподіваним поворотом: докази поділені за метою. Для суб'єктивного відчуття й м'язової болючості після навантаження холодове занурення справді дає невеликий короткостроковий виграш (мета-аналізи, ефект малий, більшість досліджень низької якості й без засліплення, яке тут у принципі неможливе). Але для нарощування м'язів і сили регулярна крижана ванна одразу після силового тренування притлумлює саме ті сигнали, які запускають адаптацію: Roberts 2015 (10 тижнів, менший приріст маси й сили проти активного відновлення) і механістичні дані про сателітні клітини й mTOR. Практичний висновок, який рідко звучить: холод корисний, коли завтра змагання і треба відновитись, і шкідливий, коли ціль — прогрес у залі. Окремо — про «холод для настрою й імунітету» (дані попередні, здебільшого малі й незасліплені дослідження з високим ризиком очікування) і чіткі протипоказання: серцево-судинні захворювання, аритмії, холодова кропив'янка, поодинці не занурюватися.",
+      "sources_hint": "Roberts et al., J Physiol 2015 'Post-exercise cold water immersion attenuates acute anabolic signalling and long-term adaptations'; Malta et al., Sports Med 2021 meta-analysis of cold water immersion and resistance training adaptations; Cochrane review Bleakley et al., cold-water immersion for muscle soreness; Piñero et al. 2024 umbrella review; Espeland et al., BMJ Open Sport Exerc Med 2022 on cold exposure health claims",
+      "evidence_level": "moderate",
+      "score": 59,
+      "rationale": "Divided evidence (Roberts 2015, Malta meta-analysis, umbrella review) supports a genuine argue-with-it claim-check, but no timeliness hook.",
+      "proposed": "2026-09-08"
+    },
+    {
+      "topic": "Гіпермобільність: коли «я від природи гнучка» — це діагноз, а коли просто анатомія",
+      "type": "research",
+      "category": "research",
+      "angle": "Закриття боргу огляду 30.08, де матеріал BBC про «bendy disease» був названий просвітою без жодного перевірного числа — саме той випадок, де блог має додати цифри. Розвести три речі, які плутають: безсимптомна загальна гіпермобільність суглобів (поширена, до 10-30% залежно від популяції, віку й статі, сама собою не хвороба), гіпермобільний спектральний розлад і гіпермобільний тип синдрому Елерса-Данлоса за критеріями 2017 року. Пояснити шкалу Бейтона простими словами й одразу її межі (вік, стать, етнічність, тренованість; бали не дорівнюють стражданню). Чесно про докази лікування: специфічної терапії немає, база — прогресивна силова робота й пропріоцептивне тренування з невеликими РКД і низькою певністю; «берегти суглоби й не навантажувати» — типова помилка. Окремо — чому втома, тахікардія при вставанні (POTS) і функціональні шлунково-кишкові симптоми йдуть у парі, і що з цього доведено, а що поки гіпотеза. Для тренерів: як будувати програму людині, яка «легко сідає на шпагат і постійно щось підвертає».",
+      "sources_hint": "Malfait et al., 2017 International Classification of the Ehlers-Danlos Syndromes, Am J Med Genet C; Castori et al., hypermobility spectrum disorders framework; Palmer et al., systematic review of physiotherapy for joint hypermobility syndrome, Physiotherapy; Cochrane/PEDro searches 'joint hypermobility exercise RCT'; Hakim & Grahame Beighton score validation studies; Royal College of GPs / EDS Society toolkit",
+      "evidence_level": "moderate",
+      "score": 57,
+      "rationale": "Genuine three-way distinction with named criteria closes an older 30.08 debt, but treatment evidence is thin small-RCT territory and hook is stale.",
+      "proposed": "2026-09-08"
+    },
+    {
+      "topic": "Підробки «уколів для схуднення»: як індустрія фальсифікату працює і що робити українцю, який купує в телеграмі",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Прив'язка до розслідування BBC про ринок підробок GLP-1 (згадане в огляді 06.09 як новина без власного матеріалу) і до власного матеріалу про орфорглипрон від 11.08. Головне повідомлення практичне: єдиний захист — рецепт і ліцензована аптека, бо в підробках знаходили інсулін замість семаглутиду (задокументовані госпіталізації з важкою гіпоглікемією), нестерильні розчини й дозування у флаконі, що не збігається з написом. Пояснити просто, чому «той самий діючий компонент з Китаю» — це не аргумент: біологічний препарат вимагає стерильності, холодового ланцюга й контролю чистоти пептиду. Дати перевірні кроки: Державний реєстр лікарських засобів МОЗ/ДЕЦ, вигляд легальної упаковки, чому «компаундований семаглутид» — це не аптечна форма, а сіра зона, і чому ампула без рецепта апріорі підозріла. Чесна межа: більшість даних — це регуляторні алерти й описи випадків, а не епідеміологія, тому масштаб явища в Україні невідомий. Червоні прапорці після ін'єкції невідомого препарату: тремор, пітливість, сплутаність — це гіпоглікемія, 103.",
+      "sources_hint": "WHO Medical Product Alert N°2/2024 on falsified semaglutide; MHRA and EMA statements on falsified Ozempic pens; FDA warnings on compounded semaglutide/tirzepatide; BBC investigation Sept 2026; Державний реєстр лікарських засобів України; peer-reviewed case reports of insulin-containing counterfeit GLP-1 (Lancet Diabetes Endocrinol / BMJ correspondence)",
+      "evidence_level": "moderate",
+      "score": 54,
+      "rationale": "Timely (BBC probe flagged in 06.09 digest) and high reader value, but evidence is mostly regulatory alerts/case reports, thinner body for full feature length.",
+      "proposed": "2026-09-08"
+    },
+    {
+      "topic": "Фізичні вправи після раку кишківника: перше РКД, де тренування подовжило життя без рецидиву",
+      "type": "research",
+      "category": "fitness",
+      "angle": "Рідкісний випадок, коли «спорт корисний» перестає бути гаслом і стає рандомізованим доказом із твердою кінцевою точкою. CHALLENGE (NEJM 2025, n≈889, пацієнти після резекції раку товстої кишки й ад'ювантної хіміотерапії): структурована програма з тренером проти буклету з порадами — приріст виживання без хвороби і сигнал по загальній виживаності. Розібрати, що саме давали учасникам (не «кросфіт», а ~45-60 хв помірної аеробної активності 3-4 рази на тиждень плюс супровід тренера протягом 3 років), кому це стосується (III і високоризикова II стадія, а не будь-який рак), і чого дослідження не показало (не заміна лікування; невідомо, чи працює без супроводу; учасники й тренери не були засліплені). Окремо назвати рівень доказу чесно: це одне РКД без реплікації, тому «moderate», а не «доведено остаточно» — на відміну від мета-аналітичної бази ACSM щодо якості життя й втоми. Практичне для читача й для тренера: з чого починати після онколікування, коли потрібен дозвіл лікаря, чому «супровід» тут може бути діючою речовиною не менше за самі вправи.",
+      "sources_hint": "Courneya et al., CHALLENGE trial (structured exercise after colon cancer), NEJM 2025; ACSM Roundtable on Exercise Guidelines for Cancer Survivors 2019; Cochrane review on exercise interventions for cancer survivors; WCRF/AICR physical activity recommendations",
+      "evidence_level": "moderate",
+      "score": 50,
+      "rationale": "Single pivotal RCT (CHALLENGE) with only secondary meta-analytic support elsewhere, self-flagged as one trial without replication — thin for the slot.",
+      "proposed": "2026-09-08"
+    },
+    {
+      "topic": "Дихання «подвійний вдих — довгий видих»: єдина дихальна практика, яку перевірили в РКД проти медитації",
+      "type": "lifehack",
+      "category": "mental-health",
+      "angle": "Практика на п'ять хвилин, у якої є рандомізоване порівняння, а не лише подкаст. Balban 2023 (Cell Reports Medicine, n=108, чотири групи по 5 хвилин на день місяць): циклічне зітхання (короткий вдих, ще один добірний вдих, повільний довгий видих) дало більший приріст настрою й більше зниження частоти дихання, ніж усвідомлене дихання-медитація й ніж коробкове дихання. Пояснити просто механізм і одразу межі: маленька вибірка, самозвітні шкали, місяць спостереження, ефект скромний і це не лікування тривожного розладу. Що з цього робити читачеві: конкретний протокол на 5 хвилин, коли він доречний (перед сном, після новин, перед розмовою), і чим він відрізняється від «дихати животом». Чесний контрапункт: мета-аналізи дихальних втручань дають малі ефекти при високій гетерогенності й ризику упередженості, а при панічних атаках гіпервентиляційна логіка вимагає обережності — при стійкій тривозі перша лінія за настановами інша.",
+      "sources_hint": "Balban et al., 'Brief structured respiration practices enhance mood and reduce physiological arousal', Cell Reports Medicine 2023;4:100895; Fincham et al., meta-analysis of breathwork and stress, Scientific Reports 2023; Zaccaro et al., Front Hum Neurosci 2018 slow breathing review; NICE guidance on generalised anxiety disorder for the caveat",
+      "evidence_level": "moderate",
+      "score": 27,
+      "rationale": "One small n=108 RCT is the entire evidentiary core, a five-minute lifehack that cannot fill 1800-3500 words of substance.",
+      "proposed": "2026-09-08"
     }
   ]
 }

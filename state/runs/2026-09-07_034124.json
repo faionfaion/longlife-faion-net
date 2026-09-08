@@ -1,0 +1,80 @@
+{
+  "timestamp": "2026-09-07_034124",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "tysk-vdoma-protokol-7-dniv-135-85-manzheta-stridebp",
+  "author": "Віта",
+  "duration_s": 2301.7,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 418.9,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 99.5,
+      "error": null
+    },
+    {
+      "name": "research:Тиск удома по-справжньому: 7 д",
+      "status": "ok",
+      "duration_s": 696.5,
+      "error": null
+    },
+    {
+      "name": "generate:Тиск удома по-справжньому: 7 д",
+      "status": "ok",
+      "duration_s": 223.5,
+      "error": null
+    },
+    {
+      "name": "text_edit:Тиск удома по-справжньому: 7 д",
+      "status": "ok",
+      "duration_s": 193.9,
+      "error": null
+    },
+    {
+      "name": "review:Тиск удома по-справжньому: 7 д",
+      "status": "ok",
+      "duration_s": 335.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Тиск удома по-справжньому: 7 д",
+      "status": "ok",
+      "duration_s": 34.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Тиск удома по-справжньому: 7 д",
+      "status": "ok",
+      "duration_s": 13.1,
+      "error": null
+    },
+    {
+      "name": "save:Тиск удома по-справжньому: 7 д",
+      "status": "ok",
+      "duration_s": 281.6,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.4,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}
