@@ -1,0 +1,86 @@
+{
+  "timestamp": "2026-09-08_035120",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "dementsiia-diahnoz-navishcho-oborotni-prychyny-doglyadalnyk",
+  "author": "Віта",
+  "duration_s": 2896.6,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 370.1,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 97.2,
+      "error": null
+    },
+    {
+      "name": "research:Черга на діагноз деменції: нав",
+      "status": "ok",
+      "duration_s": 566.3,
+      "error": null
+    },
+    {
+      "name": "generate:Черга на діагноз деменції: нав",
+      "status": "ok",
+      "duration_s": 310.1,
+      "error": null
+    },
+    {
+      "name": "text_edit:Черга на діагноз деменції: нав",
+      "status": "ok",
+      "duration_s": 241.5,
+      "error": null
+    },
+    {
+      "name": "review:Черга на діагноз деменції: нав",
+      "status": "ok",
+      "duration_s": 454.5,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Черга на діагноз деменції: нав",
+      "status": "ok",
+      "duration_s": 18.4,
+      "error": null
+    },
+    {
+      "name": "material_images:Черга на діагноз деменції: нав",
+      "status": "ok",
+      "duration_s": 305.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Черга на діагноз деменції: нав",
+      "status": "ok",
+      "duration_s": 12.7,
+      "error": null
+    },
+    {
+      "name": "save:Черга на діагноз деменції: нав",
+      "status": "ok",
+      "duration_s": 515.9,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.5,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}
