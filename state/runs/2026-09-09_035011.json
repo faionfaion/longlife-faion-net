@@ -1,0 +1,80 @@
+{
+  "timestamp": "2026-09-09_035011",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "pidrobky-semahlutydu-telegram-vs-apteka-oznaky-seriya-2026",
+  "author": "Віта",
+  "duration_s": 2827.6,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 411.5,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 66.5,
+      "error": null
+    },
+    {
+      "name": "research:Підробки ліків для схуднення: ",
+      "status": "ok",
+      "duration_s": 529.2,
+      "error": null
+    },
+    {
+      "name": "generate:Підробки ліків для схуднення: ",
+      "status": "ok",
+      "duration_s": 277.1,
+      "error": null
+    },
+    {
+      "name": "text_edit:Підробки ліків для схуднення: ",
+      "status": "ok",
+      "duration_s": 226.5,
+      "error": null
+    },
+    {
+      "name": "review:Підробки ліків для схуднення: ",
+      "status": "ok",
+      "duration_s": 402.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Підробки ліків для схуднення: ",
+      "status": "ok",
+      "duration_s": 16.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Підробки ліків для схуднення: ",
+      "status": "ok",
+      "duration_s": 13.7,
+      "error": null
+    },
+    {
+      "name": "save:Підробки ліків для схуднення: ",
+      "status": "ok",
+      "duration_s": 879.3,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.6,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}

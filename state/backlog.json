@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T03:11:01.576625+00:00",
+  "updated_at": "2026-09-10T03:10:51.378007+00:00",
   "entries": [
     {
       "topic": "Понеділковий тиск: як виміряти його вдома правильно і чому одне вимірювання в аптеці нічого не означає",
@@ -1423,13 +1423,13 @@
     {
       "topic": "Дуже гарячий чай і рак стравоходу: з якої температури починається шкода",
       "type": "research",
-      "category": "nutrition",
-      "angle": "Привід — повідомлення BBC про гарячі напої і ризик раку стравоходу. Розібрати, звідки взялася цифра 65 °C: IARC 2016 класифікувала «дуже гарячі напої (понад 65 °C)» як імовірно канцерогенні для людини (група 2A), тоді як сама кава і мате без урахування температури були виведені з підозри. Головні дані — Golestan Cohort (Ісламі, BMJ 2009 і Int J Cancer 2020, ~50 тис. осіб): пиття чаю при ≥60 °C або менш ніж через 2 хвилини після наливання асоціювалося приблизно з подвоєним ризиком плоскоклітинного раку; UK Biobank додає скромніший сигнал. Чесно про межі: це спостережні дані з регіонів із високою базовою захворюваністю (Іран, Китай, Південна Америка), можливе спотворення алкоголем і курінням, механізм — термічне ушкодження слизової, а не хімія напою. Абсолютний ризик для українця низький: плоскоклітинний рак стравоходу — рідкісний, і головні фактори тут куріння й алкоголь. Практично: 4–5 хвилин почекати після окропу опускає температуру нижче 65 °C; не пити з термоса «з парою»; червоні прапорці — утруднене ковтання, застрягання їжі, схуднення, які потребують гастроскопії, а не чекання",
-      "sources_hint": "IARC Monographs Vol 116 (2016) coffee, mate, very hot beverages; Islami et al., BMJ 2009;338:b929 (tea temperature, Golestan); Islami et al., Int J Cancer 2020 (hot tea and ESCC, Golestan Cohort Study); Yu et al., Ann Intern Med 2018 (UK Biobank hot tea, alcohol, smoking); GLOBOCAN/NCI esophageal cancer incidence Ukraine; NICE NG12 upper GI referral criteria for dysphagia",
+      "category": "research",
+      "angle": "Привід — повідомлення BBC про гарячі напої і ризик раку стравоходу. Пояснити, звідки взялася цифра 65 °C: IARC 2016 віднесла «дуже гарячі напої (понад 65 °C)» до групи 2A (ймовірно канцерогенні), а саму каву і мате без урахування температури вивела з-під підозри — тобто небезпечний не напій, а опік. Головні дані — Golestan Cohort (~50 тис. осіб, Іран): пиття чаю при ≥60 °C або менш ніж через 2 хвилини після заливання пов'язане з приблизно вдвічі вищим ризиком плоскоклітинного раку стравоходу. Обов'язково — абсолютні числа: в Україні цей рак рідкісний, тож подвоєння малого ризику лишається малим ризиком, і головні фактори все одно куріння й алкоголь. Практичний висновок побутовий і безкоштовний: чай охолоджується до безпечної температури приблизно за 4–5 хвилин; орієнтир — можна пити, не втягуючи повітря. Червоний прапорець: утруднене ковтання, відчуття застрягання їжі, втрата ваги — до лікаря без очікування.",
+      "sources_hint": "IARC Monographs Vol 116 (2016): coffee, mate, very hot beverages; Islami et al., BMJ 2009;338:b929; Islami et al., Int J Cancer 2020 (Golestan Cohort, tea temperature and ESCC); Chen et al., Ann Intern Med 2022 (UK Biobank hot tea, alcohol, smoking); GLOBOCAN/Ukrainian National Cancer Registry esophageal cancer incidence",
       "evidence_level": "moderate",
-      "score": 78,
-      "rationale": "Golestan Cohort plus IARC 2016 classification is a solid evidence base, BBC hook is current, subject settles cleanly in one sitting with nothing similar published recently.",
-      "proposed": "2026-09-09"
+      "score": 63,
+      "rationale": "IARC classification plus the large Golestan cohort give solid evidence and a current BBC hook, but absolute risk in Ukraine is small, capping reader urgency.",
+      "proposed": "2026-09-10"
     },
     {
       "topic": "Дихання проти тривоги: єдина техніка, яку порівняли з медитацією в рандомізованому дослідженні",
@@ -1507,6 +1507,94 @@
       "score": 52,
       "rationale": "Evidence is explicitly preliminary (single 2025 meta-analysis, effects vanish by 24h), weakest evidentiary footing of the set for a full feature.",
       "proposed": "2026-09-09"
+    },
+    {
+      "topic": "Вересень, менше сонця — чи час пити вітамін D: що показали великі РКД",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Сезонний claim-check головної добавки українських аптек — саме на переході до темної половини року. Розділити дві різні речі: лікування дефіциту (працює, потрібне) і приймання «для профілактики всього» (переважно не працює). VITAL (n=25 871, 5 років) не знизив ні онкологічної, ні серцево-судинної захворюваності; D-Health (n=21 315, Австралія, 60 000 МО щомісяця) не знизив смертності; мета-аналізи переломів (Cochrane, VITAL substudy) не показали користі вітаміну D без кальцію в загальній популяції; заявки на «профілактику застуд» після великого IPD-аналізу 2021 року значно ослабли. Що лишається твердим: дефіцит реальний на широті України взимку, група ризику — літні, люди вдома, темна шкіра, ожиріння, і саме там 800–1000 МО на добу мають сенс; при цьому мегадози шкодять — у РКД щорічні й місячні великі дози збільшували падіння й переломи. Практично: коли має сенс здавати 25(OH)D, а коли це викинуті гроші (рутинний скринінг не рекомендований), і чому «нормалізувати до 50 нг/мл» — маркетингова, а не клінічна ціль.",
+      "sources_hint": "Manson et al., VITAL, NEJM 2019 and follow-ups (cancer, CVD, fractures — LeBoff NEJM 2022); Neale et al., D-Health trial, Lancet Diabetes Endocrinol 2022 (mortality); Jolliffe et al., Lancet Diabetes Endocrinol 2021 (IPD meta-analysis, vitamin D and acute respiratory infection); Sanders et al., JAMA 2010 (annual high-dose vitamin D and falls/fractures); Bischoff-Ferrari JAMA Intern Med 2016 (monthly high dose); USPSTF 2021 statement on vitamin D screening; Endocrine Society 2024 guideline",
+      "evidence_level": "strong",
+      "score": 85,
+      "rationale": "Two huge RCTs (VITAL, D-Health) plus Cochrane/USPSTF give a strong evidence base, seasonal hook lands exactly now, and it corrects a near-universal Ukrainian habit.",
+      "proposed": "2026-09-10"
+    },
+    {
+      "topic": "Мігрень: що з аптечних знеболювальних справді працює і чому вони ж її і підтримують",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Привід — новина про розширення списку станів, які в Британії лікує фармацевт (мігрень і акне серед них). Для українського читача, який роками п'є цитрамон і спазмалгон, це шанс розібрати цифри NNT: комбінація аспірин+парацетамол+кофеїн і ібупрофен 400 мг мають доказ у Кокранівських оглядах, суматриптан 50–100 мг — окремо; метоклопрамід додається не «для шлунка», а бо при нападі всмоктування ліків падає. Ключове й майже невідоме: медикаментозно-індукований головний біль — приймання простих анальгетиків ≥15 днів на місяць або триптанів/комбінованих ≥10 днів на місяць перетворює епізодичну мігрень на щоденний біль; це не «звикання до дози», а окремий діагноз, який лікують відміною. Плюс проста рамка: щоденник нападів, коли думати про профілактику (≥4 днів болю на місяць), і червоні прапорці (найсильніший біль у житті, біль із температурою і ригідністю шиї, вперше після 50 років, неврологічний дефіцит) — це вже не мігрень. Дози і схеми — орієнтир для розмови з лікарем, а не заміна призначення.",
+      "sources_hint": "Cochrane reviews: Derry & Moore (paracetamol/aspirin/ibuprofen for acute migraine), Derry et al. (sumatriptan for acute migraine); Diener et al., Lancet Neurol 2019 (medication-overuse headache); ICHD-3 criteria 8.2; NICE CG150 headaches in over 12s; American Headache Society 2021 consensus statement on acute and preventive treatment",
+      "evidence_level": "strong",
+      "score": 82,
+      "rationale": "Strong Cochrane/NICE/AHS evidence and a genuinely underknown mechanism (medication-overuse headache) give this the substance a long feature needs, though the UK-pharmacist hook is indirect for Ukrainian readers.",
+      "proposed": "2026-09-10"
+    },
+    {
+      "topic": "10 000 кроків придумала реклама крокоміра: скільки насправді треба ходити",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Класичний claim-check із приємним фіналом для читача: цифра 10 000 походить від японського крокоміра 1965 року «манпо-кей» («вимірювач 10 000 кроків»), а не з дослідження. Що показують дані: у мета-аналізі когорт (Paluch, Lancet Public Health 2022, ~47 тис. осіб) смертність знижується до плато приблизно на 6 000–8 000 кроків для людей 60+ і 8 000–10 000 для молодших; більшість користі набирається на переході від 2 000–3 000 до 6 000 кроків — тобто найцінніші кроки в діапазоні, де ходить малорухома людина. Друге, що варто пояснити: темп додає менше, ніж загальна кількість, і «зона кардіо» на браслеті не є умовою користі. Третє — обмеження, яке треба назвати прямо: це спостережні дані, зворотна причинність (хворі ходять менше) частково прибрана виключенням перших років спостереження, але не повністю; РКД на смертність тут не існує. Практично: як додати 2 000 кроків без спортзалу і чому крокомір у телефоні занижує (телефон лежить у сумці).",
+      "sources_hint": "Paluch et al., Lancet Public Health 2022 (steps and all-cause mortality meta-analysis, Steps for Health Collaborative); Paluch et al., JAMA Netw Open 2021 (step count in middle-aged adults); Del Pozo Cruz et al., JAMA Intern Med 2022 (steps, intensity, dementia and mortality, UK Biobank); Lee et al., JAMA Intern Med 2019 (older women); Hatano 1993 on the origin of the 10,000-step figure; WHO 2020 physical activity guidelines",
+      "evidence_level": "moderate",
+      "score": 68,
+      "rationale": "Large Lancet Public Health meta-analysis plus a genuine historical story (pedometer origin) gives enough body for a feature, but no live news hook this week.",
+      "proposed": "2026-09-10"
+    },
+    {
+      "topic": "Тест «біологічного віку» за метилюванням ДНК: що ви насправді купуєте за 200 доларів",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Claim-check модної послуги, яку вже пропонують і в Україні: слина в пробірку — і вам повідомляють, що вашому тілу 38, а не 45. Пояснити просто, як це рахують: епігенетичні «годинники» (Horvath, PhenoAge, GrimAge, DunedinPACE) — це статистичні моделі, натреновані передбачати або календарний вік, або смертність, за рівнем метилювання сотень ділянок ДНК. Що дійсно доведено: у великих когортах прискорений епігенетичний вік асоційований із вищою смертністю. Чого немає: доказу, що зниження цієї цифри втручанням продовжує життя, і надійності на рівні однієї людини — дослідження відтворюваності показують коливання тесту в кількох роках біологічного віку між повторами того самого зразка, а результат залежить від складу клітин крові й недавньої хвороби. Порівняння, що закриває тему: курець, тиск, глюкоза й фізична активність передбачають ваше найближче десятиліття точніше, ніж будь-який комерційний годинник, і коштують дешевше. Розділити: сильна наука в дослідженнях старіння — і слабкий продукт на її ім'я.",
+      "sources_hint": "Horvath, Genome Biol 2013; Levine et al., Aging 2018 (PhenoAge); Lu et al., Aging 2019 (GrimAge); Belsky et al., eLife 2022 (DunedinPACE); Higgins-Chen et al., Nat Aging 2022 (technical noise and principal-component clocks, test-retest reliability); Bell et al., Genome Biol 2019 (DNA methylation aging clocks: challenges and recommendations); Fahy et al., Aging Cell 2019 (TRIIM, n=9) as an example of a weak intervention claim",
+      "evidence_level": "preliminary",
+      "score": 64,
+      "rationale": "Rich, nameable literature on the clocks themselves and their reliability problems supports a full claim-check, though the buying audience in Ukraine is still narrow.",
+      "proposed": "2026-09-10"
+    },
+    {
+      "topic": "Мелатонін — не снодійне: що дослідження кажуть про дозу, час і кому він узагалі допомагає",
+      "type": "research",
+      "category": "sleep",
+      "angle": "Claim-check найпопулярнішої аптечної добавки для сну. Мета-аналізи дають чесний ефект: засинання швидше приблизно на 7 хвилин, загальний сон довший приблизно на 8 хвилин — це реально, але це не те, що обіцяє упаковка. Головна ідея статті: мелатонін працює не як снодійне, а як сигнал часу, тому вирішує не доза, а годинник — 0,5–1 мг за 2–4 години до бажаного сну зміщує ритм краще, ніж 5–10 мг перед вимкненням світла. Де доказ найсильніший: джетлаг, розлад із затримкою фази сну (підлітки, які не можуть заснути до другої ночі), нічні зміни. Де його немає: хронічне безсоння дорослих — AASM 2017 рекомендує проти рутинного застосування, перша лінія — КПТ-безсоння. Окремо про якість продукту: аналіз добавок на ринку США показав вміст від −83% до +478% від заявленого і серотонін у частині зразків; в Україні мелатонін продається як дієтична добавка, а не ліки, тож контроль слабший. Практично: коли має сенс спробувати, коли — до лікаря (хропіння з паузами, ранкові головні болі = апное), і чому дітям без призначення лікаря — ні.",
+      "sources_hint": "Ferracioli-Oda et al., PLoS One 2013 (meta-analysis of melatonin for sleep); Auld et al., Sleep Med Rev 2017; AASM Clinical Practice Guideline (Sateia et al., J Clin Sleep Med 2017) — recommendation against melatonin for chronic insomnia; Burgess & Emens on melatonin phase-response curve and low-dose timing; Erland & Saxena, J Clin Sleep Med 2017 (melatonin content variability, serotonin contamination); Cochrane jet lag review (Herxheimer & Petrie)",
+      "evidence_level": "moderate",
+      "score": 61,
+      "rationale": "Meta-analyses, AASM guideline and a supplement-quality study give real substance for a widely-used product, but there is no timely hook pulling it to today specifically.",
+      "proposed": "2026-09-10"
+    },
+    {
+      "topic": "Два дешеві аналізи, які показують нирки: рШКФ і альбумін/креатинін у сечі",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Пряме продовження матеріалу про калієвий замінник солі (05.09), де кінцевою порадою було «спершу перевірте нирки» — тут відповідь, як саме. Хронічна хвороба нирок роками не болить, а виявляється двома аналізами, які коштують копійки: креатинін крові з розрахунком рШКФ і співвідношення альбумін/креатинін у разовій порції сечі. Пояснити просто, що означають цифри: рШКФ <60 стабільно понад 3 місяці або АКС ≥30 мг/г — це вже діагноз, і саме АКС, а не креатинін, першим показує проблему при діабеті й гіпертензії. Кому робити: діабет, гіпертензія, серцева недостатність, родинна історія, тривале приймання НПЗЗ; здоровим без факторів ризику USPSTF рутинного скринінгу не рекомендує — і це чесно сказати. Результат цих двох аналізів визначає, чи можна користуватися калієвим замінником солі і чи безпечні іАПФ/сартани. Практичні пастки: креатинін залежить від м'язової маси й креатину в спортсменів, разова «погана» цифра після навантаження чи зневоднення нічого не означає — потрібне повторення через 3 місяці. Новину про свинячу нирку не розгортати: вона вже пройшла в огляді 06.09 як подія, n=1, а не доказ.",
+      "sources_hint": "KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of CKD; USPSTF screening for CKD statement; Inker et al., CKD-EPI 2021 creatinine equation (NEJM 2021); Matsushita/Coresh CKD Prognosis Consortium meta-analyses on ACR and mortality; Ukrainian MOZ standards and NSZU program coverage for creatinine/urine albumin testing",
+      "evidence_level": "moderate",
+      "score": 58,
+      "rationale": "Genuine follow-up to the 05.09 salt-substitute piece with solid KDIGO/USPSTF backing, but the two-test scope is narrower than today's feature length wants.",
+      "proposed": "2026-09-10"
+    },
+    {
+      "topic": "Крижана ванна після силового тренування може з'їсти частину результату",
+      "type": "fitness",
+      "category": "biohacking",
+      "angle": "Найпопулярніший біохак із подкастів, перевірений на власному ж полі. Що доведено: занурення в холодну воду справді зменшує відчуття болю в м'язах наступного дня (DOMS) і трохи прискорює відновлення сили між двома змаганнями в один день — це підтверджують мета-аналізи. Чого не кажуть: те саме запалення, яке холод гасить, є сигналом до росту м'яза. Roberts (J Physiol 2015) показав менший приріст сили й гіпертрофії за 12 тижнів у групі холодної ванни проти активного відновлення, а також слабшу активацію сателітних клітин і mTOR; пізніші мета-аналізи 2023–2024 підтверджують послаблення гіпертрофії, залишаючи ефект на витривалість неоднозначним. Практичне правило, яке з цього виходить: холод корисний, коли ціль — виступити знову за кілька годин, і шкідливий, коли ціль — набрати м'яз; розводити холод і силове тренування щонайменше на 4–6 годин. Окремо — про «холод для схуднення через буру жирову тканину»: у людей ефект на масу тіла не показаний. Обережно: серцева хвороба, гіпертензія, аритмії, вагітність — не тема для експериментів наодинці, і ніколи не занурюватися самому у відкритій воді.",
+      "sources_hint": "Roberts et al., J Physiol 2015;593:4285 (post-exercise cold water immersion attenuates strength/hypertrophy adaptations); Fyfe et al., J Appl Physiol 2019; Malta et al., Sports Med 2021 (meta-analysis of CWI and resistance training adaptations); Piñero et al. 2024 meta-analysis on cold water immersion and hypertrophy; Cochrane review Bleakley et al. 2012 (cold-water immersion for DOMS); Broatch et al., Sports Med 2018 (placebo effects of recovery)",
+      "evidence_level": "moderate",
+      "score": 52,
+      "rationale": "Roberts 2015 plus newer meta-analyses give a real evidence trail, but the audience (strength-training biohackers) is narrower than most slots on this list.",
+      "proposed": "2026-09-10"
+    },
+    {
+      "topic": "Скільки білка треба після 60 і чому «норма 0,8 г/кг» для цього віку занижена (для дієтологів і тренерів)",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Матеріал на крок глибший — для тих, хто дає поради, і для дорослих дітей літніх батьків. Офіційна RDA 0,8 г/кг маси тіла виведена з азотистого балансу молодих людей і не враховує анаболічну резистентність: у літньої людини та сама порція білка дає слабшу відповідь синтезу. Робочі орієнтири експертних груп PROT-AGE і ESPEN — 1,0–1,2 г/кг для здорових літніх і 1,2–1,5 при хворобі чи саркопенії, з розподілом приблизно 25–30 г на прийом їжі, бо разова доза працює гірше, ніж три рівні. Головна чесність статті: сам по собі білок м'язи не будує — у мета-аналізах додавання протеїну без силових вправ дає мінімальний ефект на силу й функцію, тоді як силові вправи працюють навіть без добавки; білок посилює тренування, а не замінює його. Практично: скільки це в їжі (сир, яйця, риба, квасоля) без порошків, чому сніданок у літньої людини зазвичай найбідніший на білок, і застереження — при рШКФ <60 дозу білка обговорюють з лікарем, а не піднімають самостійно (прямий місток до матеріалу про ниркові аналізи).",
+      "sources_hint": "Bauer et al., PROT-AGE Study Group, JAMDA 2013; Deutz et al., ESPEN expert group, Clin Nutr 2014; Morton et al., BJSM 2018 (protein supplementation and resistance training meta-analysis); Ten Haaf et al., Br J Nutr 2018 (protein supplementation in older adults without training); Traylor/Phillips on anabolic resistance and per-meal leucine threshold; KDIGO 2024 on protein intake in CKD",
+      "evidence_level": "moderate",
+      "score": 47,
+      "rationale": "Solid PROT-AGE/ESPEN evidence, but the brief explicitly targets professionals rather than an ordinary reader deciding something today, which caps reader value.",
+      "proposed": "2026-09-10"
     }
   ]
 }
