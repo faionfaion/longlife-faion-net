@@ -1,0 +1,86 @@
+{
+  "timestamp": "2026-09-10_035602",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "zapobihannia-suitsydu-pryame-zapytannia-plan-bezpeky-7333",
+  "author": "Віта",
+  "duration_s": 3179.1,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 396.0,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 72.0,
+      "error": null
+    },
+    {
+      "name": "research:10 вересня — день запобігання ",
+      "status": "ok",
+      "duration_s": 349.5,
+      "error": null
+    },
+    {
+      "name": "generate:10 вересня — день запобігання ",
+      "status": "ok",
+      "duration_s": 288.2,
+      "error": null
+    },
+    {
+      "name": "text_edit:10 вересня — день запобігання ",
+      "status": "ok",
+      "duration_s": 274.9,
+      "error": null
+    },
+    {
+      "name": "review:10 вересня — день запобігання ",
+      "status": "ok",
+      "duration_s": 992.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:10 вересня — день запобігання ",
+      "status": "ok",
+      "duration_s": 18.5,
+      "error": null
+    },
+    {
+      "name": "material_images:10 вересня — день запобігання ",
+      "status": "ok",
+      "duration_s": 207.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:10 вересня — день запобігання ",
+      "status": "ok",
+      "duration_s": 14.4,
+      "error": null
+    },
+    {
+      "name": "save:10 вересня — день запобігання ",
+      "status": "ok",
+      "duration_s": 561.2,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.7,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}
