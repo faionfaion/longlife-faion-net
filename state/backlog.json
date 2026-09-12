@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T03:10:57.434035+00:00",
+  "updated_at": "2026-09-12T03:10:43.176187+00:00",
   "entries": [
     {
       "topic": "Понеділковий тиск: як виміряти його вдома правильно і чому одне вимірювання в аптеці нічого не означає",
@@ -1683,6 +1683,94 @@
       "score": 38,
       "rationale": "The whole point is how thin the evidence is (three small low-quality RCTs), which undercuts the multi-finding breadth an 800-1400 word roundup needs today.",
       "proposed": "2026-09-11"
+    },
+    {
+      "topic": "Гриби у вересні: жодна народна перевірка на отруту не працює",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Сезонний гайд у розпал грибного сезону — і рідкісний випадок, де ціна помилки вимірюється трансплантацією печінки. Головна теза: усі побутові тести хибні — срібна ложка, цибуля, що темніє, «гіркий смак», «черв'яки не їдять», кип'ятіння з оцтом; амантини термостабільні й не руйнуються ні варінням, ні сушінням, ні заморожуванням. Друга ключова річ, яка рятує життя: тривала латентність. Симптоми від блідої поганки з'являються через 6–12 годин, потім настає оманливе покращення на другу добу — саме тому пізнє звернення так часто фатальне; ранній блювотний синдром (менш ніж 6 годин) зазвичай означає менш небезпечні види. Що робити: не чекати ранку, 103, зберегти залишки страви й невимиті рештки гриба для ідентифікації, не викликати блювоту самому, не «лікувати» молоком чи горілкою. Про силібінін і N-ацетилцистеїн — чесно: стандарт лікування спирається на серії випадків і реєстри, не на РКД, і застосовується лише в стаціонарі. Окремо — діти й дози, що вбивають від одного гриба.",
+      "sources_hint": "Ye Y & Liu Z, Am J Emerg Med 2018 (amatoxin poisoning management review); Mycology/NAMA amatoxin case registry; Poucheret P et al., Toxicon (amanitin thermostability); European Association of Poisons Centres guidance; Ukrainian State Emergency Service / MoH mushroom poisoning statistics 2024-2026",
+      "evidence_level": "moderate",
+      "score": 82,
+      "rationale": "Peak mushroom season right now, life-or-death stakes, named toxin/case-registry evidence, ideal compact guide length.",
+      "proposed": "2026-09-12"
+    },
+    {
+      "topic": "Відіспатися у вихідні: що насправді повертається, а що ні",
+      "type": "research",
+      "category": "sleep",
+      "angle": "Субота — день, коли пів країни намагається закрити тижневий борг сну. Чесний розбір: лабораторне РКД Depner (Current Biology 2019, n=36) показало, що вихідні з вільним сном частково відновлюють суб'єктивну бадьорість, але чутливість до інсуліну не повертається до норми, а після повернення до буднів стає гіршою — тобто «відсипання» не скасовує депривації. Водночас велике шведське когортне дослідження (Åkerstedt, J Sleep Res 2019, ~43 000 осіб, 13 років) показало, що в людей до 65 років короткий сон у будні в поєднанні з довгим у вихідні не мав підвищеної смертності, на відміну від постійно короткого сну. Розвести два рівні доказів: метаболічний механізм у 36 людей проти популяційної смертності в десятках тисяч — і не дозволити читачеві добудувати механізм там, де немає результату. Практично: зсув підйому у вихідні більше ніж на 2 години — це соціальний джетлаг, який б'є по понеділку; що робити замість — короткий денний сон 20 хвилин, стабільний час підйому, світло вранці.",
+      "sources_hint": "Depner CM et al., Current Biology 2019 (weekend recovery sleep, insulin sensitivity); Åkerstedt T et al., J Sleep Res 2019 (weekend catch-up sleep and mortality); Wittmann M et al. social jetlag (Chronobiol Int); Cochrane/AASM napping literature; Sleep Health Foundation duration recommendations",
+      "evidence_level": "moderate",
+      "score": 78,
+      "rationale": "Today is literally the Saturday this piece is about, RCT plus large cohort give real evidence, but base study is a tiny n=36 mechanistic trial.",
+      "proposed": "2026-09-12"
+    },
+    {
+      "topic": "Дуже гарячий чай і рак стравоходу: з якої температури починається ризик",
+      "type": "research",
+      "category": "nutrition",
+      "angle": "Привід — свіжа новина про шкоду дуже гарячих напоїв. Для країни, де чай п'ють «з окропу», це рідкісний випадок, коли народна звичка має конкретну цифру ризику. Головне: канцерогеном IARC 2016 визнала не каву й не чай, а саме температуру вище 65 °C (група 2A). Золотий доказ — Golestan Cohort (Іран, ~50 000 осіб, проспективне спостереження, Islami, Int J Cancer 2019): чай гарячіший за 60 °C у кількості понад 700 мл/добу пов'язаний приблизно з удвічі вищим ризиком плоскоклітинного раку стравоходу. Чесні межі: це спостереження, не РКД; абсолютний ризик в Україні низький, бо плоскоклітинний рак стравоходу рідкісний, а головні фактори — куріння й алкоголь, які з гарячим напоєм ще й множаться. Практично: 4–5 хвилин остигання напою в чашці опускає його нижче порогу; тривожні симптоми — утруднене ковтання, відчуття застрягання їжі, втрата ваги — це до лікаря зараз, а не «пройде».",
+      "sources_hint": "IARC Monographs Vol 116 (2016) coffee, mate, very hot beverages; Islami F et al., Int J Cancer 2019 (Golestan Cohort, tea temperature and oesophageal squamous cell carcinoma); Loomis D et al., Lancet Oncol 2016; GLOBOCAN/Ukrainian National Cancer Registry oesophageal cancer incidence",
+      "evidence_level": "moderate",
+      "score": 68,
+      "rationale": "Golestan cohort plus IARC classification is solid and culturally on-point, but evidence rests on one cohort and hook isn't sharply current.",
+      "proposed": "2026-09-12"
+    },
+    {
+      "topic": "Три хвилини сходів замість спортзалу: що показали дані акселерометрів про VILPA",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Для більшості читачів «почати тренуватися» означає нічого не почати. Доказова альтернатива: короткі спалахи інтенсивного руху в побуті (VILPA) — аналізи UK Biobank із носимими акселерометрами (Stamatakis, Nature Medicine 2022, ~25 000 осіб, які не займаються спортом) показали, що приблизно 3–4 епізоди по 1–2 хвилини на день пов'язані з помітно нижчою смертністю й серцево-судинним ризиком; окремий аналіз 2024 року для жінок показав ще виразніший зв'язок. Чесно про дизайн: це спостереження, і зворотна причинність не виключена, хоч автори виключали хворих на старті. Що це означає конкретно: швидкий підйом сходами, перенесення сумок, останні 300 метрів до дому в темпі, за якого важко говорити. Для тренерів — як вписувати це клієнту, який не піде в зал, і чому «10 000 кроків» не еквівалент інтенсивності.",
+      "sources_hint": "Stamatakis E et al., Nature Medicine 2022 (VILPA and mortality, UK Biobank accelerometry); Stamatakis E et al., BJSM 2024 (VILPA in women, cardiovascular events); Ahmadi MN et al., Eur Heart J 2022; WHO 2020 physical activity guidelines; Jenkins EM et al. stair-climbing sprint snacks trials",
+      "evidence_level": "moderate",
+      "score": 66,
+      "rationale": "Two large named accelerometer studies make it writable, but no fresh news hook this week, purely evergreen appeal.",
+      "proposed": "2026-09-12"
+    },
+    {
+      "topic": "Чатбот замість психотерапевта: що показало перше РКД і де межа безпеки",
+      "type": "guide",
+      "category": "mental-health",
+      "angle": "Привід — вимога британського наглядача про нові закони для ШІ в медицині. Питання читача просте: чи можна вилити душу чатботу, якщо терапевт коштує як пів зарплати, а черга до безоплатного психолога довга. Що є з доказів: РКД Therabot (NEJM AI, 2025, n≈210, 4 тижні) — перше рандомізоване випробування генеративного терапевтичного бота, показало зниження симптомів депресії й тривоги проти списку очікування; попередні покоління (Woebot, Wysa) мають малі РКД з ефектами, що згасають за межами 8 тижнів; мета-аналізи оцінюють ефект як невеликий-помірний і дуже неоднорідний. Критичні межі: список очікування — слабкий компаратор; горизонт кілька тижнів; загальні асистенти (ChatGPT) не тестувалися як терапія взагалі й документовано погоджуються з користувачем замість оскарження думок; кризовий стан — це не про бот. Практично: як використати бот як щоденник і структуру КПТ-вправ, коли обов'язково людина, і українські лінії (7333, 116 111).",
+      "sources_hint": "Heinz MV et al., NEJM AI 2025 (Therabot generative AI therapy RCT); Fitzpatrick KK et al., JMIR Ment Health 2017 (Woebot); Li H et al., npj Digital Medicine 2023 meta-analysis of AI chatbots for depression/anxiety; MHRA/AI regulation statements 2026; WHO guidance on LMMs in health (2024)",
+      "evidence_level": "preliminary",
+      "score": 64,
+      "rationale": "Live regulator hook and a real first RCT (Therabot), but evidence explicitly preliminary and third mental-health-adjacent post in two weeks.",
+      "proposed": "2026-09-12"
+    },
+    {
+      "topic": "Крижана ванна, розтяжка, масаж: що з відновлення після тренування витримує перевірку",
+      "type": "research",
+      "category": "biohacking",
+      "angle": "Об'єднаний claim-check усього, що роблять «щоб не боліло» — бо всі ці засоби перевіряли в тих самих дослідженнях і плутати їх безглуздо. Розтяжка: Кокранівський огляд (Herbert, 12 досліджень) — до або після навантаження зменшує крепатуру щонайбільше на ~1 бал зі 100, тобто практично ні на скільки; статична розтяжка понад 60 секунд перед підходом тимчасово знижує силу й потужність (мета-аналізи Behm 2016), тому її місце — після, а не до. Крижана ванна: для відчуттів ефект реальний, але скромний (Cochrane Bleakley 2012); для росту сили й м'язів — РКД Roberts (J Physiol 2015, n=21, 12 тижнів) дало менший приріст маси й сили, ніж активне відновлення, із притупленням сигналів синтезу білка, підтверджено Fyfe 2019 і мета-аналізом Piñero 2024. Масаж і компресійний одяг — малий, але значущий ефект (Dupuy 2018). Що працює насправді: поступове нарощування навантаження (repeated bout effect гасить крепатуру вже після другого тренування) і легка активність замість повного спокою. Окремо про «холод для імунітету»: у РКД Buijze (PLoS ONE 2016, n=3018) холодний душ зменшив дні непрацездатності, але не кількість самих хвороб. Практичний висновок: після силового — ні, перед змаганням або в спеку — можливо. Чесно про НПЗЗ: знеболює, дані про вплив на адаптацію суперечливі. Червоний прапорець, який плутають із крепатурою: темна сеча, набряк і біль, що наростає на 2–3 добу — рабдоміоліз, це до лікаря. Застереження для людей із серцево-судинними хворобами й гіпертензією щодо занурень у крижану воду.",
+      "sources_hint": "Herbert RD et al., Cochrane Database 2011 (stretching to prevent or reduce muscle soreness); Behm DG et al., Appl Physiol Nutr Metab 2016; Roberts LA et al., J Physiol 2015 (post-exercise cold water immersion and resistance training adaptations); Fyfe JJ et al., J Appl Physiol 2019; Piñero A et al. 2024 meta-analysis on CWI and hypertrophy; Cochrane Bleakley 2012 (CWI for DOMS); Dupuy O et al., Front Physiol 2018; Hyldahl RD & Hubal MJ, Muscle Nerve 2014 (repeated bout effect); Buijze GA et al., PLoS ONE 2016; ACSM exertional rhabdomyolysis guidance",
+      "evidence_level": "moderate",
+      "score": 56,
+      "rationale": "Richest evidence base on the list (multiple Cochrane reviews, named RCTs) but too sprawling across five sub-claims for a single-sitting post today.",
+      "proposed": "2026-09-12"
+    },
+    {
+      "topic": "Магній «від стресу й судом»: під що є докази, а під що лише реклама",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Друга за популярністю добавка в українських аптеках після вітаміну D — і найрозмитіші обіцянки: сон, тривога, судоми в ногах, серце. Пряме продовження вчорашнього claim-check вітаміну D, але про іншу молекулу й іншу логіку продажу. Розібрати по пунктах: нічні судоми в литках — Кокранівський огляд не знайшов клінічно значущої користі в дорослих старшого віку; сон — мета-аналізи спираються на кілька малих РКД низької якості; тривога — систематичний огляд Boyle 2017 називає докази попередніми; мігрень і прееклампсія — окремі випадки, де докази реальні. Пояснити просту річ, яку приховує маркетинг: аналіз магнію в сироватці майже не відображає запаси, тому «у мене низький магній» зазвичай не доведено. Форми: цитрат і гліцинат проти оксиду за біодоступністю, і чому головний побічний ефект — діарея. Дефіцит справді буває — при діуретиках, інгібіторах протонної помпи, алкоголізмі, діабеті. Для дієтологів: скільки магнію реально дають гарбузове насіння, гречка, квасоля.",
+      "sources_hint": "Cochrane: Garrison SR et al., magnesium for skeletal muscle cramps (2020 update); Boyle NB et al., Nutrients 2017 (magnesium and subjective anxiety/stress); Mah J & Pitre T, BMC Complement Med 2021 (magnesium and insomnia); NIH ODS Magnesium Fact Sheet; EFSA dietary reference values for magnesium",
+      "evidence_level": "moderate",
+      "score": 52,
+      "rationale": "Solid Cochrane/systematic-review evidence, but explicitly framed as yesterday's supplement claim-check continued, risking format fatigue two days running.",
+      "proposed": "2026-09-12"
+    },
+    {
+      "topic": "Тест на «біологічний вік» за 5000 грн: що вимірюють епігенетичні годинники і чому число стрибає",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Claim-check модної послуги лонжевіті-клінік. Що це насправді: алгоритм, навчений на метилюванні ДНК, який передбачає вік або ризик смерті — Horvath 2013, потім GrimAge й DunedinPACE. Де докази сильні: на рівні популяцій прискорений епігенетичний вік асоціюється зі смертністю. Де вони розсипаються для окремої людини: дослідження відтворюваності (Higgins-Chen 2022) показали, що повторне вимірювання того самого зразка може давати різницю в кілька років, і саме тому знадобилися «принципал-компонентні» версії годинників; жодне РКД не показало, що зміна показника змінює тривалість життя. Головна логічна пастка — сурогат замість результату: годинник не валідований як мішень втручання (та сама помилка, що з SVR і сечовими біомаркерами в попередніх матеріалах). Окремо про TruDiagnostic-подібні сервіси й дослідження, де «омолодження на роки» вимірювали без контролю. Що замість: показники з доведеним зв'язком і дешеві — тиск, HbA1c, куріння, сила хвата, кардіореспіраторна витривалість.",
+      "sources_hint": "Horvath S, Genome Biology 2013; Lu AT et al., Aging 2019 (GrimAge); Belsky DW et al., eLife 2022 (DunedinPACE); Higgins-Chen AT et al., Nature Aging 2022 (principal component clocks, technical noise); Fahy GM et al., Aging Cell 2019 (TRIIM, uncontrolled); Nature Aging commentary on direct-to-consumer biological age tests",
+      "evidence_level": "preliminary",
+      "score": 45,
+      "rationale": "Named evidence exists (Horvath, GrimAge, Higgins-Chen) but no current news hook and a narrower, less urgent reader base than the rest of the list.",
+      "proposed": "2026-09-12"
     }
   ]
 }
