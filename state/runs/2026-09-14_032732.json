@@ -1,0 +1,80 @@
+{
+  "timestamp": "2026-09-14_032732",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "7000-krokiv-telefon-zanyzhuye-bazova-liniya-plus-1000",
+  "author": "Віта",
+  "duration_s": 1468.7,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 390.6,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 45.1,
+      "error": null
+    },
+    {
+      "name": "research:Не 10 000 кроків: свіжий мета-",
+      "status": "ok",
+      "duration_s": 319.9,
+      "error": null
+    },
+    {
+      "name": "generate:Не 10 000 кроків: свіжий мета-",
+      "status": "ok",
+      "duration_s": 123.8,
+      "error": null
+    },
+    {
+      "name": "text_edit:Не 10 000 кроків: свіжий мета-",
+      "status": "ok",
+      "duration_s": 126.1,
+      "error": null
+    },
+    {
+      "name": "review:Не 10 000 кроків: свіжий мета-",
+      "status": "ok",
+      "duration_s": 301.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Не 10 000 кроків: свіжий мета-",
+      "status": "ok",
+      "duration_s": 29.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Не 10 000 кроків: свіжий мета-",
+      "status": "ok",
+      "duration_s": 14.3,
+      "error": null
+    },
+    {
+      "name": "save:Не 10 000 кроків: свіжий мета-",
+      "status": "ok",
+      "duration_s": 113.5,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.9,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}
