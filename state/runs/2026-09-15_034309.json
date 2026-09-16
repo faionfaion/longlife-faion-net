@@ -1,0 +1,86 @@
+{
+  "timestamp": "2026-09-15_034309",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "hryby-blida-poganka-latentnist-narodni-testy-botulizm",
+  "author": "Віта",
+  "duration_s": 2405.4,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 430.1,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 76.9,
+      "error": null
+    },
+    {
+      "name": "research:Гриби: жодна народна перевірка",
+      "status": "ok",
+      "duration_s": 391.0,
+      "error": null
+    },
+    {
+      "name": "generate:Гриби: жодна народна перевірка",
+      "status": "ok",
+      "duration_s": 315.2,
+      "error": null
+    },
+    {
+      "name": "text_edit:Гриби: жодна народна перевірка",
+      "status": "ok",
+      "duration_s": 271.7,
+      "error": null
+    },
+    {
+      "name": "review:Гриби: жодна народна перевірка",
+      "status": "ok",
+      "duration_s": 354.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Гриби: жодна народна перевірка",
+      "status": "ok",
+      "duration_s": 25.8,
+      "error": null
+    },
+    {
+      "name": "material_images:Гриби: жодна народна перевірка",
+      "status": "ok",
+      "duration_s": 130.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Гриби: жодна народна перевірка",
+      "status": "ok",
+      "duration_s": 13.1,
+      "error": null
+    },
+    {
+      "name": "save:Гриби: жодна народна перевірка",
+      "status": "ok",
+      "duration_s": 393.3,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.5,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}
