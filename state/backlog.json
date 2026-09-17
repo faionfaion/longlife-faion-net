@@ -1,28 +1,6 @@
 {
-  "updated_at": "2026-09-16T03:10:54.245797+00:00",
+  "updated_at": "2026-09-17T03:10:34.393996+00:00",
   "entries": [
-    {
-      "topic": "Понеділковий тиск: як виміряти його вдома правильно і чому одне вимірювання в аптеці нічого не означає",
-      "type": "guide",
-      "category": "prevention",
-      "angle": "Практичний гід під «перезапуск тижня»: протокол домашнього моніторингу — 7 днів, ранок і вечір, по 2 вимірювання з інтервалом 1 хв, відкинути перший день, усереднити; поріг для домашніх вимірювань 135/85, а не 140/90. Типові помилки, що завищують результат на 5–20 мм рт. ст.: манжета поверх одягу, невідповідний розмір манжети, ноги на вазі, повний сечовий міхур, розмова під час вимірювання, рука нижче рівня серця. Пояснити «гіпертензію білого халата» і масковану гіпертензію — чому саме домашні цифри вирішують. Як вибрати тонометр (валідовані моделі, плечова манжета, не на зап'ясток) і коли йти до лікаря. Крос-лінк на матеріал про понеділковий кортизол і «ефект понеділка» для серця — але без переказу.",
-      "sources_hint": "ESH 2023 Guidelines for the management of arterial hypertension (home BP thresholds); AHA 2019 scientific statement 'Measurement of Blood Pressure in Humans'; Stergiou et al., HBPM position paper, J Hypertens 2021; STRIDE BP / validatebp.org validated device lists; Ishigami et al., cuff size and BP accuracy, JAMA Intern Med 2023 (randomised crossover)",
-      "evidence_level": "strong",
-      "score": 83,
-      "rationale": "ESH/AHA guidelines plus a validation RCT give a strong protocol piece, hook literally lands today (Monday), and it's a genuinely new BP-measurement question versus prior Monday-heart pieces.",
-      "proposed": "2026-08-17"
-    },
-    {
-      "topic": "Статини і біль у м'язах: що показали дослідження, де пацієнти самі не знали, коли п'ють ліки, а коли пустишку",
-      "type": "research",
-      "category": "research",
-      "angle": "Найпоширеніша причина, чому люди кидають статини, — «болять м'язи». N-of-1 випробування SAMSON (n=60, 12 місяців: по місяцю на статині, плацебо і без таблеток) показало, що ~90% симптомів виникали й на плацебо; StatinWISE (BMJ 2021, n=200) дав той самий результат. Пояснити ноцебо простими словами: біль справжній, але його причина не завжди в таблетці. Сюди ж — доказова рамка «як відрізнити „мені стало гірше/краще“ від дії препарату»: чому особистий досвід — найслабший вид доказу, чому працює навіть відкрито назване плацебо (Kaptchuk, PLoS One 2010; мета-аналіз Sci Rep 2021) і чому саме тому потрібна структурована перерва й повторний старт (rechallenge), а не самостійна відміна. Практично: пауза, зміна дози чи препарату, контроль КФК. Окремо чесно: справжня міопатія й рабдоміоліз існують, але рідкісні — червоні прапорці й обов'язково до лікаря.",
-      "sources_hint": "Wood et al., SAMSON trial, NEJM 2020 (DOI 10.1056/NEJMc2031173); Herrett et al., StatinWISE, BMJ 2021;372:n135; Cholesterol Treatment Trialists' Collaboration, Lancet 2022 (adverse events reanalysis); Newman et al., Statin Safety Statement, ATVB 2019; ESC/EAS 2019 dyslipidaemia guidelines, SAMS section; Kaptchuk et al., open-label placebo in IBS, PLoS One 2010; von Wernsdorff et al., open-label placebo meta-analysis, Sci Rep 2021",
-      "evidence_level": "strong",
-      "score": 82,
-      "rationale": "Landmark N-of-1 trials (SAMSON, StatinWISE) settle a decision huge numbers of readers are actively making, evergreen strength outweighs the lack of a news hook.",
-      "proposed": "2026-08-17"
-    },
     {
       "topic": "Ашваганда від стресу: що насправді показують RCT — і чому питання не в ефекті, а в печінці й дозі",
       "type": "nutrition",
@@ -33,17 +11,6 @@
       "score": 61,
       "rationale": "Two real threads (weak efficacy meta-analyses plus a nameable hepatotoxicity case series) but evidence explicitly preliminary and small, and supplement-myth pattern is well-worn this month.",
       "proposed": "2026-08-21"
-    },
-    {
-      "topic": "Заклеювати рот на ніч: що показали справжні дослідження mouth taping — і кому це небезпечно",
-      "type": "lifehack",
-      "category": "sleep",
-      "angle": "Claim-check вірусного тренду. Систематичні огляди 2022–2025 знаходять лише кілька малих досліджень: у пацієнтів із легким апное носове дихання трохи знижує AHI, доказів для здорових людей, «кращого овалу обличчя», «менше карієсу» чи «більше NO» практично немає. Головне попередження: при невиявленому середньому/тяжкому апное або закладеному носі (риніт, викривлена перегородка, поліпи) заклеювання може погіршити гіпоксію. Практична альтернатива з реальними доказами: скринінг STOP-BANG, позиційна терапія при позиційному апное, лікування назальної обструкції, і чому хропіння партнера — привід на полісомнографію, а не на скотч. Крос-лінк на матеріали про трекери сну і WASO без переказу.",
-      "sources_hint": "PubMed: 'mouth taping' AND (sleep OR 'sleep-disordered breathing') — перевірити систематичний огляд 2025 і первинні роботи перед цитуванням; Huang & Young, mouth taping in mild OSA, Healthcare 2022; Lee YC et al., porous oral patch in mild OSA, J Clin Med 2022; AASM position statements on consumer sleep technology; Chung et al., STOP-BANG validation, Anesthesiology 2008",
-      "evidence_level": "preliminary",
-      "score": 66,
-      "rationale": "Thin-but-nameable literature fits the claim-check exception for a viral trend with real safety risk, though evidence base is preliminary and audience narrower than statins/aspirin.",
-      "proposed": "2026-08-17"
     },
     {
       "topic": "Утома, випадіння волосся і феритин 20: коли залізо справді винне, а коли ні",
@@ -66,28 +33,6 @@
       "score": 47,
       "rationale": "Mostly one Finnish cohort (KIHD) reused across papers, observational only, and the fourth installment of a thermal-exposure series after three recent cold pieces.",
       "proposed": "2026-08-18"
-    },
-    {
-      "topic": "Червоне світло з панелі за 8000 грн: що доведено для шкіри й болю, а що продають на механізмі",
-      "type": "research",
-      "category": "biohacking",
-      "angle": "Розбір фотобіомодуляції як споживчого продукту. Де докази справді є: загоєння ран і оральний мукозит (рекомендації MASCC/ISOO), помірні дані для зморшок і колагену в малих РКД, сигнал для андрогенної алопеції. Де їх нема: «спалювання жиру», детокс, мітохондріальне омолодження всього організму, тестостерон. Головна пастка для читача — дози: у дослідженнях вказані довжина хвилі (630–660 і 810–850 нм), щільність потужності й Дж/см², а виробники побутових панелей рідко вказують хоч щось, тому «схожий прилад» не означає «схожа доза». Окремо — очі й безпека, і чому інфрачервона кабіна це не те саме. Практичний висновок: реалістичні очікування або дешевші доказовіші альтернативи (ретиноїди, сонцезахист).",
-      "sources_hint": "Hamblin, 'Mechanisms and applications of the anti-inflammatory effects of photobiomodulation', AIMS Biophys 2017; Wunsch & Matuschka, red light and skin RCT, Photomed Laser Surg 2014; Avci et al., low-level laser therapy in dermatology, Semin Cutan Med Surg 2013; Cochrane review on phototherapy/laser for wound healing; MASCC/ISOO 2019 mucositis guidelines; Zein et al., review of PBM dosing parameters, J Biomed Opt 2018",
-      "evidence_level": "preliminary",
-      "score": 54,
-      "rationale": "Real but scattered small-RCT literature and MASCC guidance support a claim-check, though the biohacking-panel audience is narrower and there's no current hook.",
-      "proposed": "2026-08-17"
-    },
-    {
-      "topic": "«Анаболічне вікно» 30 хвилин після тренування: що замінило його в доказах — і що казати клієнту, який п'є протеїн у роздягальні",
-      "type": "fitness",
-      "category": "fitness",
-      "angle": "Матеріал для тренерів і тих, кого вони тренують. Мета-аналіз Schoenfeld 2013 показав, що ефект «вікна» зникає після поправки на загальний добовий білок — вирішує сума за добу (1,6 г/кг як плато за Morton 2018), а не хвилини. Що залишилося правдою: розподіл на 3–4 прийоми по 0,4 г/кг, білок перед сном (казеїн, Res 2012), і те, що таймінг реально важить лише у вузьких випадках — тренування натщесерце та дві сесії в один день. Практика: перерахунок білка на реальну вагу, приклади українських продуктів на 30–40 г білка, чому дорогий ізолят не кращий за сир і яйця. Не переказувати матеріал про білковий сніданок — тут фокус на посттренувальному таймінгу.",
-      "sources_hint": "Schoenfeld, Aragon & Krieger, 'Nutrient timing revisited', JISSN 2013; Morton et al., protein supplementation meta-analysis, BJSM 2018 (1.6 g/kg plateau); Aragon & Schoenfeld 2013 review; Res et al., pre-sleep casein, MSSE 2012; Areta et al., protein distribution, J Physiol 2013; ISSN position stand on protein and exercise, JISSN 2017",
-      "evidence_level": "strong",
-      "score": 48,
-      "rationale": "Evidence is one now-dated 2013 meta-analysis restating settled sports-nutrition consensus, evergreen but niche audience with no hook for today.",
-      "proposed": "2026-08-17"
     },
     {
       "topic": "Статини і біль у м'язах: що показали дослідження, де пацієнт сам не знав, коли п'є ліки, а коли пустишку",
@@ -2046,6 +1991,105 @@
       "score": 54,
       "rationale": "Single large cohort (Golestan) carries most of the argument, IARC decision is from 2016 so timeliness is weak despite good denominator angle.",
       "proposed": "2026-09-16"
+    },
+    {
+      "topic": "Щеплення від оперізувального герпесу: біль, який лишається на місяці, і несподіваний слід у даних про деменцію",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Тема, про яку в Україні майже не говорять, хоч вітрянку в дитинстві мали майже всі, а вірус лишається в нервових вузлах довічно. Основне: рекомбінантна вакцина (Shingrix) у РКД ZOE-50/ZOE-70 дала ефективність понад 90% навіть після 70 років і суттєво знизила постгерпетичну невралгію — біль, який може тривати місяцями; ефект тримається щонайменше 10 років. Друга, цікавіша лінія: природний експеримент в Уельсі (Nature 2025), де право на стару живу вакцину визначалося датою народження — у щеплених ризик деменції за 7 років був нижчим приблизно на 3,5 в.п.; це найближче до причинності, що взагалі є поза РКД, але механізм не доведений і на рекомбінантну вакцину прямо не переноситься — тому це не привід щепитися «від деменції». Чесно: реактогенність висока (біль у руці, день-два розбитості), дві дози, і головне українське обмеження — чи є препарат у продажу й за які гроші. Червоні прапорці: висип на обличчі біля ока — до лікаря того ж дня.",
+      "sources_hint": "Lal H et al., NEJM 2015 (ZOE-50) and Cunningham AL, NEJM 2016 (ZOE-70); Strezova A et al., Open Forum Infect Dis 2022 (10-year persistence); Eyting M et al., Nature 2025 (Welsh natural experiment, zoster vaccine and dementia); Harpaz R et al., CDC ACIP recommendations; check drlz.com.ua for registration in Ukraine",
+      "evidence_level": "strong",
+      "score": 82,
+      "rationale": "RCTs plus a genuinely surprising Nature natural-experiment turn give the two-act story a material needs; underdiscussed in Ukraine.",
+      "proposed": "2026-09-17"
+    },
+    {
+      "topic": "Дні коротшають: ранкове світло працює краще за мелатонін",
+      "type": "lifehack",
+      "category": "sleep",
+      "angle": "Сезонний практичний матеріал для широти України, де від вересня світловий день стрімко коротшає. Свідомо НЕ про вітамін D (розбирали 11.09) — тут лише про світло як сигнал для циркадного годинника. Механізм простими словами: годинник у мозку виставляється світлом в очі вранці, а не тим, коли ви лягли; ранкове яскраве світло зсуває фазу раніше, вечірнє — пізніше. Докази: світлотерапія 10 000 люкс 20–30 хв уранці має мета-аналітичну підтримку при сезонному афективному розладі й при відставленій фазі сну; мелатонін у дозах 0,5–1 мг за кілька годин до сну працює як зсув фази, а не як снодійне — і саме тому «3 мг перед сном» найчастіше не працює. Чесні межі: більшість досліджень світлотерапії малі й погано осліплені; побутової лампи 500 люкс замало, а 15 хвилин надворі навіть у похмурий день дають більше. Практичне: як влаштувати ранкове вікно світла в темну пору й під час відключень світла, чому «світанковий будильник» — окрема й слабша доказова база, і коли яскраве світло протипоказане (біполярний розлад, деякі хвороби сітківки — питати лікаря).",
+      "sources_hint": "Cochrane 'Light therapy for preventing seasonal affective disorder' (Nussbaumer-Streit 2019); Pjrek E et al., Psychother Psychosom 2020 (bright light therapy meta-analysis, non-seasonal depression); AASM clinical practice guideline for circadian rhythm sleep-wake disorders (Auger 2015); Burgess HJ et al., melatonin phase-response curve studies; Wright KP et al., Curr Biol 2013 (natural light and circadian timing)",
+      "evidence_level": "moderate",
+      "score": 78,
+      "rationale": "Perfectly seasonal for Sept 17, mechanism-rich comparison of light vs melatonin, distinct from the vitamin D piece already run.",
+      "proposed": "2026-09-17"
+    },
+    {
+      "topic": "Гарячий чай і рак стравоходу: межа проходить по 65 градусах, а не по чаю",
+      "type": "research",
+      "category": "nutrition",
+      "angle": "Сезонно вчасно: починається пора термоса й окропу. Звідки взялася цифра 65 °C: IARC у 2016-му (монографія 116) переніс до групи 2A «дуже гарячі напої» саме за температурою — і тоді ж прибрав каву з переліку канцерогенів. Головне джерело — Golestan Cohort (Іран, n≈50 000): у тих, хто пив чай гарячішим за 60 °C і швидше ніж через 2 хвилини після заварювання, ризик плоскоклітинного раку стравоходу приблизно вдвічі вищий; механізм — термічне пошкодження й хронічне відновлення епітелію, не хімія напою. Чесні межі: спостережні дані, конфаундери (тютюн, алкоголь, опіум у популяції), інший підтип раку, ніж аденокарцинома стравоходу на тлі ГЕРХ. Практичне й напрочуд просте: чай/кава з чайника охолоджуються до безпечного приблизно за 4–5 хвилин; «пити, коли можна тримати губами без болю» — робочий побутовий тест. Український контекст: звичка пити окріп, термос узимку, і те, що куріння з алкоголем множать ризик сильніше за температуру.",
+      "sources_hint": "IARC Monographs vol. 116 (2016) 'Drinking coffee, mate, and very hot beverages'; Islami F et al., Int J Cancer 2020;146:18-25 (Golestan Cohort tea temperature and ESCC); Islami F et al., BMJ 2009;338:b929; Chen Y et al., Ann Intern Med 2022 (UK Biobank hot tea + alcohol/smoking interaction)",
+      "evidence_level": "moderate",
+      "score": 74,
+      "rationale": "Seasonal thermos hook and a good IARC-reclassification narrative, but evidence leans on one large cohort rather than a wide literature.",
+      "proposed": "2026-09-17"
+    },
+    {
+      "topic": "Втома у жінок і залізо: коли причина справді в ньому, а коли таблетка не допоможе",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Дуже часта історія: «здала гемоглобін — норма, а сил немає», після чого людина сама купує залізо. Розділити три стани: анемія, дефіцит заліза без анемії (низький феритин при нормальному гемоглобіні) і втома з іншої причини. Ключові докази: РКД і мета-аналізи показують, що при феритині нижче порогу препарати заліза справді зменшують втому в невагітних жінок — але ефект невеликий і зникає, якщо запаси нормальні. Практична частина, якої бракує читачам: феритин — білок гострої фази й фальшиво зростає при запаленні (тому разом із СРБ); пороги різняться між настановами (20 vs 30 нг/мл); десятиліттями стандартом було «щодня по таблетці», а доказовішою стала схема через день — гепсидин після дози блокує всмоктування наступної (Stoffel, Lancet Haematology); вітамін C у таблетці окремо не потрібен; чай і кава біля прийому знижують засвоєння. Прямо: не призначати собі залізо «наосліп» — без аналізу це і марно, і не безкоштовно за ризиком (ШКТ-побічні, перевантаження при гемохроматозі). Червоні прапорці: залізодефіцит у чоловіка чи жінки в менопаузі — це привід шукати кровотечу, а не просто пити залізо.",
+      "sources_hint": "Stoffel NU et al., Lancet Haematol 2017 and Blood 2020 (alternate-day iron dosing, hepcidin); Cochrane 'Daily iron supplementation for improving anaemia... in menstruating women'; Vaucher P et al., CMAJ 2012 (iron for fatigue without anaemia, RCT); Houston BL et al., BMJ Open 2018 systematic review; WHO 2020 ferritin guideline and BSH iron deficiency guidelines",
+      "evidence_level": "moderate",
+      "score": 71,
+      "rationale": "Strong, varied evidence base (Cochrane, Lancet Haematol, CMAJ RCT) and real everyday decision, but no current-news hook.",
+      "proposed": "2026-09-17"
+    },
+    {
+      "topic": "Креатин: що з обіцянок витримує перевірку, а що ні (для тих, хто радить клієнтам)",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Матеріал із подвійною адресою: читачеві — чи варто, тренеру — доза й межі. Що доведено: моногідрат 3–5 г/день стабільно додає силу й робочий об'єм у мета-аналізах, приріст ваги в перші тижні — це вода в м'язі, а не жир. Що міф: «фаза завантаження обов'язкова» (20 г/день лише прискорює насичення на ~3 тижні, кінцевий результат той самий); «садить нирки» — у людей зі здоровими нирками РКД до 5 років не показують шкоди, але креатинін в аналізі зростає й лікаря треба попередити (інакше є ризик, що «поганий аналіз» полікують замість перечитати); «випадає волосся» — походить з одного дослідження на 20 регбістах (ДГТ), не відтворене. Окремо — популярна нині лінія про мозок і пам'ять: сигнал є при позбавленні сну й у вегетаріанців, але останні великі огляди дають дрібний і неоднорідний ефект у здорових; жіночі дані й дози 10+ г — попередні. Порошок vs «креатин у капсулах з транспортною системою»: доказів переваги немає, переплата є. Окрема примітка про хворобу нирок в анамнезі — тільки з лікарем.",
+      "sources_hint": "Kreider et al., ISSN position stand on creatine (JISSN 2017 + 2021 updates); Antonio et al. JISSN 2021 'Common questions and misconceptions about creatine'; Cochrane/meta-analyses on creatine and resistance training; Avgerinos et al., Exp Gerontol 2018 (cognition); van der Merwe 2009 (DHT in rugby players); de Souza e Silva 2019 (renal function RCT)",
+      "evidence_level": "strong",
+      "score": 68,
+      "rationale": "Rich myth-by-myth literature (ISSN, multiple RCTs) fills length well, evergreen with no live hook this week.",
+      "proposed": "2026-09-17"
+    },
+    {
+      "topic": "Скрегіт зубами вночі: капа захищає зуби, але не лікує причину",
+      "type": "guide",
+      "category": "mental-health",
+      "angle": "Привід — повідомлення британських стоматологів про зростання бруксизму в молодих. Розібрати три поширені переконання: «це від глистів» (доказів нуль), «це від стресу» (зв'язок є, але кореляційний і слабший, ніж вважають; сон-бруксизм тісніше пов'язаний із мікропробудженнями та апное, ніж із тривогою) і «капа вилікує» — оклюзійна шина знижує зношування емалі, але кількість епізодів скреготу не прибирає (Кокран/систематичні огляди). Чесно про ботулотоксин: зменшує силу стискання й біль у кількох невеликих РКД, ефект на 3–4 місяці, ризик атрофії жувальних м'язів — це процедура за призначенням лікаря, не «б'юті-послуга». Практичне: як відрізнити бруксизм сну від денного стискання (денне — керується усвідомленням, сон — ні), коли шукати апное (хропіння, денна сонливість, ранковий головний біль), що перевірити з ліків (СІЗЗС, стимулятори) і кофеїну/нікотину. Червоні прапорці: біль у скронево-нижньощелепному суглобі, блокування щелепи, сколи на зубах.",
+      "sources_hint": "Cochrane review 'Occlusal splints for treating sleep bruxism'; Lobbezoo et al., J Oral Rehabil 2018 consensus on bruxism definition/assessment; Manfredini et al. epidemiology reviews; RCTs of botulinum toxin for sleep bruxism (Ondo 2018, Lee 2010); AASM sleep bruxism and OSA association literature",
+      "evidence_level": "moderate",
+      "score": 66,
+      "rationale": "Three myths plus apnea link and botox give enough turns for the format, but the UK-dentist hook is soft and evidence moderate.",
+      "proposed": "2026-09-17"
+    },
+    {
+      "topic": "Крижана ванна після тренування: що вона реально робить із відчуттями і що — з результатом",
+      "type": "guide",
+      "category": "biohacking",
+      "angle": "Клейм-чек найгучнішого біохаку останніх років, без сарказму. Що є: мета-аналізи показують, що занурення в холодну воду зменшує суб'єктивну крепатуру й відчуття втоми на 24–72 години — ефект невеликий-помірний і значною мірою пояснюваний очікуванням (у дослідженні з «плацебо-зануренням» ефект був такий самий). Що є проти: холод після силового тренування притуплює сигнали гіпертрофії й у РКД зменшує довгостроковий приріст сили та м'язової маси (Roberts 2015, Fyfe 2019) — тобто для того, хто будує м'язи, це радше шкода. Розділити задачі: турнір із двома стартами в день — холод розумний; звичайне тренування — ні. Окремо про «холод для метаболізму, імунітету й настрою»: дані переважно дрібні, короткі, з нульовим осліпленням; Wim Hof-протоколи мають ефекти на маркери запалення в одному малому дослідженні, але не на клінічні результати — і жодного показання «замість лікування». Безпека: холодовий шок у відкритій воді, ризик при аритміях і гіпертензії, ніколи наодинці.",
+      "sources_hint": "Cochrane 'Cold-water immersion for preventing and treating muscle soreness after exercise' (Bleakley 2012); Broatch JR et al., Med Sci Sports Exerc 2014 (placebo immersion); Roberts LA et al., J Physiol 2015; Fyfe JJ et al., J Appl Physiol 2019; Cain T et al., PLOS One 2025 meta-analysis of cold-water immersion health outcomes; Kox M et al., PNAS 2014 (Wim Hof method)",
+      "evidence_level": "moderate",
+      "score": 63,
+      "rationale": "Good two-sided evidence (soreness relief vs hypertrophy cost) but evergreen biohack angle with no timely trigger.",
+      "proposed": "2026-09-17"
+    },
+    {
+      "topic": "Розтяжка перед тренуванням не захищає від травм — а що захищає",
+      "type": "guide",
+      "category": "fitness",
+      "angle": "Класичний клейм-чек шкільної звички. Докази: статична розтяжка перед навантаженням не знижує частоту травм (великі РКД на військових новобранцях і бігунах, огляд Herbert & Gabriel, BMJ) і не прибирає крепатуру (Кокран: різниця близько 1 бала зі 100); понад те, довге утримання перед силовою тимчасово знижує максимальну силу й потужність. Що працює натомість: розігрів із поступовим підвищенням інтенсивності і рухів, схожих на робочі; нейром'язові програми типу FIFA 11+ і Nordic hamstring знижують травми нижньої кінцівки в мета-аналізах приблизно на третину і більше; головний предиктор травми — різке нарощування об'єму, а не «незмащені м'язи». Де розтяжка справді на місці: окремі сесії на амплітуду, після тренування або в інший час. Практично: 8–10-хвилинний шаблон розминки і правило поступового нарощування навантаження.",
+      "sources_hint": "Herbert RD & Gabriel M, BMJ 2002; Cochrane 'Stretching to prevent or reduce muscle soreness after exercise' (Herbert 2011); Lauersen JB et al., Br J Sports Med 2014/2018 (injury prevention meta-analyses); Behm DG et al., Appl Physiol Nutr Metab 2016 (acute static stretching and performance); van Dyk N et al., Br J Sports Med 2019 (Nordic hamstring); FIFA 11+ RCTs",
+      "evidence_level": "strong",
+      "score": 60,
+      "rationale": "Strong RCT/Cochrane evidence and a clear alternative (FIFA 11+, Nordic curl), but classic evergreen claim-check with no hook.",
+      "proposed": "2026-09-17"
+    },
+    {
+      "topic": "Провина через лікарняний: що показують дані про роботу хворим",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Привід — матеріал BBC про почуття провини, коли телефонуєш сказати, що захворів. Питання, яке має сенс поставити доказово: презентеїзм (робота хворим) корелює з подальшим погіршенням здоров'я і довшими лікарняними згодом — проспективні когорти Whitehall II показують вищий ризик серцево-судинних подій у тих, хто не бере лікарняний; для інфекцій це ще й пряма математика передачі колегам. Чесно про межі: дані спостережні, зворотна причинність (люди з нестабільною роботою і не можуть узяти лікарняний), економічні оцінки «втрат від презентеїзму» переважно самозвітні й ненадійні. Український контекст: електронний лікарняний, оплата, і специфіка фрилансу/ФОП, де лікарняного просто немає. Практичне: прості правила, коли залишитися вдома (температура, кишкова інфекція до 48 годин після останнього епізоду, перші дні респіраторної), і що дає віддалена робота хворим — відпочинку не дає.",
+      "sources_hint": "Kivimäki M et al., Am J Public Health 2005 (sickness presenteeism and coronary events, Whitehall II); Skagen K & Collins AM, Soc Sci Med 2016 (systematic review of presenteeism and health); Bergström G et al., J Occup Environ Med 2009 (presenteeism predicting future sick leave); CDC/UKHSA return-to-work guidance for gastrointestinal and respiratory infections",
+      "evidence_level": "moderate",
+      "score": 55,
+      "rationale": "BBC hook exists but evidence is a narrower observational strand (Whitehall II) that thins out before filling a long feature.",
+      "proposed": "2026-09-17"
     }
   ]
 }

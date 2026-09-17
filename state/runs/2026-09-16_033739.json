@@ -1,0 +1,80 @@
+{
+  "timestamp": "2026-09-16_033739",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "ambroziya-veresen-nazalni-kortykosteroyidy-antyhistaminni-dokazy",
+  "author": "Віта",
+  "duration_s": 2076.8,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 425.9,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 45.2,
+      "error": null
+    },
+    {
+      "name": "research:Амброзія у вересні: що з проти",
+      "status": "ok",
+      "duration_s": 281.0,
+      "error": null
+    },
+    {
+      "name": "generate:Амброзія у вересні: що з проти",
+      "status": "ok",
+      "duration_s": 227.2,
+      "error": null
+    },
+    {
+      "name": "text_edit:Амброзія у вересні: що з проти",
+      "status": "ok",
+      "duration_s": 190.3,
+      "error": null
+    },
+    {
+      "name": "review:Амброзія у вересні: що з проти",
+      "status": "ok",
+      "duration_s": 407.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Амброзія у вересні: що з проти",
+      "status": "ok",
+      "duration_s": 33.2,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Амброзія у вересні: що з проти",
+      "status": "ok",
+      "duration_s": 14.9,
+      "error": null
+    },
+    {
+      "name": "save:Амброзія у вересні: що з проти",
+      "status": "ok",
+      "duration_s": 447.1,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.9,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}
