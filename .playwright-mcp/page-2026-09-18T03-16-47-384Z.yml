@@ -1,0 +1,22 @@
+- generic [active] [ref=f15e1]:
+  - main [ref=f15e2]:
+    - generic [ref=f15e3]:
+      - generic [ref=f15e4]:
+        - img "Icon for universum.clinic" [ref=f15e5]
+        - heading "universum.clinic" [level=1] [ref=f15e6]
+      - heading "Performing security verification" [level=2] [ref=f15e7]
+      - paragraph [ref=f15e8]: This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.
+  - contentinfo [ref=f15e15]:
+    - generic [ref=f15e17]:
+      - generic [ref=f15e19]:
+        - text: "Ray ID:"
+        - code [ref=f15e20]: a3cd31a29ca9b6e3
+      - generic [ref=f15e21]:
+        - generic [ref=f15e22]:
+          - text: Performance and Security by
+          - link "Cloudflare, opens in a new tab" [ref=f15e23] [cursor=pointer]:
+            - /url: https://www.cloudflare.com?utm_source=challenge&utm_campaign=m
+            - text: Cloudflare
+        - link "Privacy, opens in a new tab" [ref=f15e25] [cursor=pointer]:
+          - /url: https://www.cloudflare.com/privacypolicy/
+          - text: Privacy

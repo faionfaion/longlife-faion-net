@@ -1,0 +1,186 @@
+- table [ref=e2]:
+  - rowgroup [ref=e3]:
+    - row [ref=e4]:
+      - cell [ref=e5]
+    - row [ref=e7]:
+      - cell [ref=e8]
+      - cell [ref=e10]:
+        - table [ref=e11]:
+          - rowgroup [ref=e12]:
+            - row [ref=e13]:
+              - cell [ref=e14]
+            - row [ref=e16]:
+              - cell [ref=e17]
+            - row [ref=e19]:
+              - cell [ref=e20]
+            - row [ref=e22]:
+              - cell [ref=e23]:
+                - table [ref=e24]:
+                  - rowgroup [ref=e25]:
+                    - row [ref=e26]:
+                      - cell [ref=e27]
+                      - cell [ref=e31]:
+                        - generic [ref=e33]: МІНІСТЕРСТВО ОХОРОНИ ЗДОРОВ'Я УКРАЇНИФармацевтичне управлінняДержавний експертний центр Міністерства охорони здоров'я України "Державний реєстр лікарських засобів України" Інформаційний фонд
+                      - cell [ref=e36]
+            - row [ref=e39]:
+              - cell [ref=e40]
+            - row [ref=e42]:
+              - cell [ref=e43]
+            - row [ref=e45]:
+              - cell [ref=e46]
+            - row [ref=e48]:
+              - cell [ref=e49]:
+                - table [ref=e50]:
+                  - rowgroup [ref=e51]:
+                    - row [ref=e52]:
+                      - cell [ref=e53]:
+                        - table [ref=e54]:
+                          - rowgroup [ref=e55]:
+                            - row [ref=e56]:
+                              - cell [ref=e57]
+                            - row [ref=e59]:
+                              - cell [ref=e60]
+                            - row [ref=e61]:
+                              - cell "Початкова | Статистика | Пошук лікарських засобів | Законодавство | Службовий вхід" [ref=e62]:
+                                - link "Початкова" [ref=e64] [cursor=pointer]:
+                                  - /url: /ibp/ddsite.nsf/all/index?opendocument
+                                - text: "|"
+                                - link "Статистика" [ref=e66] [cursor=pointer]:
+                                  - /url: /ibp/ddsite.nsf/all/stat?opendocument
+                                - text: "|"
+                                - generic [ref=e67]: Пошук лікарських засобів
+                                - text: "|"
+                                - link "Законодавство" [ref=e69] [cursor=pointer]:
+                                  - /url: /ibp/ddsite.nsf/all/zak?opendocument
+                                - text: "|"
+                                - link "Службовий вхід" [ref=e71] [cursor=pointer]:
+                                  - /url: /ibp/ddsite.nsf/all/serv?opendocument
+                            - row [ref=e72]:
+                              - cell [ref=e73]
+                            - row [ref=e74]:
+                              - cell [ref=e75]
+                            - row [ref=e77]:
+                              - cell [ref=e78]
+                        - table [ref=e80]:
+                          - rowgroup [ref=e81]:
+                            - row [ref=e82]:
+                              - cell [ref=e83]
+                              - cell [ref=e84]:
+                                - separator [ref=e85]
+                                - link "Відомості із державного реєстру лікарських засобів в форматі csv" [ref=e86] [cursor=pointer]:
+                                  - /url: http://www.drlz.com.ua/ibp/zvity.nsf/all/zvit/$file/reestr.csv
+                                  - text: Відомості із державного реєстру лікарських засобівв форматі csv
+                                - separator [ref=e87]
+                              - cell [ref=e88]
+                              - cell [ref=e89]:
+                                - separator [ref=e90]
+                                - text: Повідомлення про побічну реакцію на лікарські засоби, вакцини, туберкулін, та/або відсутність ефективності лікарських засобів, та/або несприятливу подію після імунізації/туберкулінодіагностики в режимі on-line надається через Автоматизовану інформаційну систему з фармаконагляду (АІСФ) за посиланням
+                                - link "https://aisf.dec.gov.ua" [ref=e91] [cursor=pointer]:
+                                  - /url: https://aisf.dec.gov.ua
+                                - separator [ref=e92]
+                              - cell [ref=e93]
+                        - table [ref=e96]:
+                          - rowgroup [ref=e97]:
+                            - row [ref=e98]:
+                              - cell [ref=e99]
+                            - row [ref=e100]:
+                              - cell "Пошук лікарських засобів:" [ref=e101]
+                            - row [ref=e102]:
+                              - cell "за назвою" [ref=e103]:
+                                - radio [checked] [ref=e104]
+                                - text: за назвою
+                              - cell "(не менше 5-х символів)" [ref=e105]:
+                                - textbox [ref=e106]
+                                - text: (не менше 5-х символів)
+                            - row [ref=e107]:
+                              - cell [ref=e108]:
+                                - table [ref=e109]:
+                                  - rowgroup [ref=e110]:
+                                    - row [ref=e111]:
+                                      - cell [ref=e112]:
+                                        - radio [ref=e113]
+                                      - cell "за номером реєстраційного посвідчення (РП)" [ref=e114]
+                              - cell "(не менше 4-х символів)" [ref=e115]:
+                                - textbox [ref=e116]
+                                - text: (не менше 4-х символів)
+                            - row [ref=e117]:
+                              - cell "початок терміну дії РП" [ref=e118]:
+                                - radio [ref=e119]
+                                - text: початок терміну дії РП
+                              - cell "Січень 2026" [ref=e120]:
+                                - combobox [ref=e121]:
+                                  - option "Січень" [selected]
+                                  - option "Лютий"
+                                  - option "Березень"
+                                  - option "Квітень"
+                                  - option "Травень"
+                                  - option "Червень"
+                                  - option "Липень"
+                                  - option "Серпень"
+                                  - option "Вересень"
+                                  - option "Жовтень"
+                                  - option "Листопад"
+                                  - option "Грудень"
+                                - combobox [ref=e122]:
+                                  - option "2026" [selected]
+                                  - option "2025"
+                                  - option "2024"
+                                  - option "2023"
+                                  - option "2022"
+                                  - option "2021"
+                                  - option "2020"
+                                  - option "2019"
+                                  - option "2018"
+                                  - option "2017"
+                                  - option "2016"
+                                  - option "2015"
+                                  - option "2014"
+                            - row [ref=e123]:
+                              - cell "за МНН" [ref=e124]:
+                                - radio [ref=e125]
+                                - text: за МНН
+                              - cell "(не менше 5-х символів)" [ref=e126]:
+                                - textbox [ref=e127]
+                                - text: (не менше 5-х символів)
+                            - row [ref=e128]:
+                              - cell "за кодом АТС" [ref=e129]:
+                                - radio [ref=e130]
+                                - text: за кодом АТС
+                              - cell "(не менше 3-х символів)" [ref=e131]:
+                                - textbox [ref=e132]
+                                - text: (не менше 3-х символів)
+                            - row [ref=e133]:
+                              - cell "за складом діючих речовин" [ref=e134]:
+                                - radio [ref=e135]
+                                - text: за складом діючих речовин
+                              - cell "(не менше 4-х символів)" [ref=e136]:
+                                - textbox [ref=e137]
+                                - text: (не менше 4-х символів)
+                            - row [ref=e138]:
+                              - cell "для екстренного застосування" [ref=e139]:
+                                - radio [ref=e140]
+                                - text: для екстренного застосування
+                              - cell [ref=e141]
+                            - row [ref=e142]:
+                              - cell [ref=e143]:
+                                - table [ref=e144]:
+                                  - rowgroup [ref=e145]:
+                                    - row [ref=e146]:
+                                      - cell [ref=e147]:
+                                        - radio [ref=e148]
+                                      - cell "екстрена державна реєстрація під час воєнного стану" [ref=e149]
+                              - cell [ref=e150]
+                            - row [ref=e151]:
+                              - cell [ref=e152]
+                              - cell [ref=e153]:
+                                - link [ref=e154] [cursor=pointer]:
+                                  - /url: javascript:self.document._slz1.submit();
+                            - row [ref=e156]:
+                              - cell [ref=e157]
+            - row [ref=e158]:
+              - cell [ref=e159]
+            - row [ref=e161]:
+              - cell [ref=e162]
+            - row [ref=e164]:
+              - cell [ref=e165]
+      - cell [ref=e167]
