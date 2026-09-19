@@ -1,0 +1,19 @@
+[     418ms] [INFO] Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools @ https://nszu.gov.ua/_nuxt/96d58a549f.back-0.7.0_front-0.9.2.js:1
+[     418ms] [INFO] You are running Vue in development mode.
+Make sure to turn on production mode when deploying for production.
+See more tips at https://vuejs.org/guide/deployment.html @ https://nszu.gov.ua/_nuxt/96d58a549f.back-0.7.0_front-0.9.2.js:1
+[     673ms] [ERROR] Access to fetch at 'https://api.pulse.gov.ua/api/v2/form-config/170f8f4c-c40c-4273-80b0-eee0a7966197' from origin 'https://nszu.gov.ua' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://nszu.gov.ua/gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/dopomoga-na-pervinnomu-medicnomu-rivni-1:0
+[     673ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://api.pulse.gov.ua/api/v2/form-config/170f8f4c-c40c-4273-80b0-eee0a7966197:0
+[     673ms] [ERROR] Failed to fetch questionnaire data: TypeError: Failed to fetch
+    at e.getQuestionnaireData (https://pulse.gov.ua/assets/pulse-feedback-widget/pulse-feedback-widget.js:1:53029)
+    at e.init (https://pulse.gov.ua/assets/pulse-feedback-widget/pulse-feedback-widget.js:1:1805) @ https://pulse.gov.ua/assets/pulse-feedback-widget/pulse-feedback-widget.js:0
+[     673ms] [ERROR] Access to fetch at 'https://api.pulse.gov.ua/api/v2/widget/stats' from origin 'https://nszu.gov.ua' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://nszu.gov.ua/gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/dopomoga-na-pervinnomu-medicnomu-rivni-1:0
+[     673ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://api.pulse.gov.ua/api/v2/widget/stats:0
+[     673ms] [ERROR] Failed to fetch statistics data: TypeError: Failed to fetch
+    at e.getStatisticsData (https://pulse.gov.ua/assets/pulse-feedback-widget/pulse-feedback-widget.js:1:53378)
+    at e.init (https://pulse.gov.ua/assets/pulse-feedback-widget/pulse-feedback-widget.js:1:1833) @ https://pulse.gov.ua/assets/pulse-feedback-widget/pulse-feedback-widget.js:0
+[     678ms] Uncaught (in promise) TypeError: Cannot read properties of undefined (reading '0')
+    at checkVisibilityBasedFields (https://pulse.gov.ua/assets/pulse-feedback-widget/pulse-feedback-widget.js:0:66549)
+    at initializeForm (https://pulse.gov.ua/assets/pulse-feedback-widget/pulse-feedback-widget.js:0:74841)
+    at init (https://pulse.gov.ua/assets/pulse-feedback-widget/pulse-feedback-widget.js:0:1859)

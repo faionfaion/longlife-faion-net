@@ -1,0 +1,188 @@
+- generic [ref=f5e4]:
+  - banner [ref=f5e5]:
+    - link "Головна" [ref=f5e7] [cursor=pointer]:
+      - /url: /
+    - button "Меню" [ref=f5e12] [cursor=pointer]
+  - main [ref=f5e15]:
+    - generic [ref=f5e18]:
+      - navigation "Навігаційний ланцюжок" [ref=f5e19]:
+        - list [ref=f5e20]:
+          - listitem [ref=f5e21]:
+            - link "Національна служба здоров’я України" [ref=f5e22] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f5e23]:
+            - text: "|"
+            - link "Громадянам" [ref=f5e24] [cursor=pointer]:
+              - /url: /gromadianam
+          - listitem [ref=f5e25]:
+            - text: "|"
+            - link "Безоплатні послуги в Програмі медичних гарантій 2026" [ref=f5e26] [cursor=pointer]:
+              - /url: javascript:void(0)
+      - heading "Безоплатні послуги в Програмі медичних гарантій 2026" [level=1] [ref=f5e27]
+    - generic [ref=f5e28]:
+      - generic [ref=f5e29]:
+        - paragraph [ref=f5e30]:
+          - strong [ref=f5e31]: БЕЗОПЛАТНІ ПОСЛУГИ В ПРОГРАМІ МЕДИЧНИХ ГАРАНТІЙ 2026
+          - text: Програма медичних гарантій (ПМГ) – це перелік медичних послуг та ліків, які держава гарантує українцям безоплатно. Оплачує ці медичні послуги для громадян Національна служба здоров’я України, укладаючи договори з лікарнями.Кожен громадянин, незалежно від рівня доходів, соціального статусу, місця реєстрації, може отримати безоплатно однаковий обсяг медичних послуг у будь-якій лікарні країни, яка має договір з НСЗУ. Універсальність та екстериторіальність – це головні принципи Програми медичних гарантій.
+        - paragraph [ref=f5e32]:
+          - text: ПМГ-2026 складається з 46 пакетів медичних послуг, які охоплюють усі види та рівні медичної допомоги:-
+          - link "Екстрена медична допомога" [ref=f5e33] [cursor=pointer]:
+            - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/ekstrena-medicna-dopomoga-1
+          - text: "-"
+          - link "Первинна медична допомога" [ref=f5e34] [cursor=pointer]:
+            - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/dopomoga-na-pervinnomu-medicnomu-rivni-1
+          - text: "-"
+          - link "Послуги у сфері громадського здоров’я" [ref=f5e35] [cursor=pointer]:
+            - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/gromadske-zdorovia-1
+          - text: (діагностика та лікування ВІЛ, туберкульозу у стаціонарних умовах, психіатрична допомога у стаціонарних умовах та мобільні дисциплінарні команди, замісна підтримувальна терапія)-
+          - link "Амбулаторні послуги" [ref=f5e36] [cursor=pointer]:
+            - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/ambulatorni-poslugi-1
+          - text: (профілактика, діагностика, спостереження та лікування в амбулаторних умовах, ведення вагітності, стоматологічна допомога, послуги з раннього виявлення онкологічних захворювань, лікування методом гемодіалізу, лікування методом перитонеального діалізу)-
+          - link "Стаціонарні послуги" [ref=f5e37] [cursor=pointer]:
+            - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/stacionarni-poslugi-1
+          - text: (стаціонарна медична допомога з та без проведення хірургічних операцій, лікування онкологічних захворювань)-
+          - link "Пріоритетні стаціонарні послуги" [ref=f5e38] [cursor=pointer]:
+            - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/prioritetni-stacionarni-poslugi-1
+          - text: (Медична допомога при пологах, допомога новонародженим у складних неонатальних випадках, медична допомога при інфарктах та інсультах)-
+          - link "Реабілітаційна допомога" [ref=f5e39] [cursor=pointer]:
+            - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/reabilitaciina-dopomoga-1
+          - text: (реабілітація немовлят, які народилися передчасно або хворими протягом перших трьох років життя, стаціонарна та амбулаторна реабілітація дорослих та дітей)-
+          - link "Паліативна допомога" [ref=f5e40] [cursor=pointer]:
+            - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/paliativna-dopomoga-1
+          - text: (стаціонарна та мобільна)-
+          - link "Лікування безпліддя" [ref=f5e41] [cursor=pointer]:
+            - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/likuvannia-bezpliddia
+          - text: ( Лікування безпліддя за допомогою допоміжних репродуктивних технологій (запліднення іn vitro))-
+          - link "Трансплантація" [ref=f5e42] [cursor=pointer]:
+            - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/transplantaciia
+          - text: "-"
+          - link "Безоплатне зубопротезування та -лікування для захисників і захисниць" [ref=f5e43] [cursor=pointer]:
+            - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/bezoplatne-zuboprotezuvannia-ta-likuvannia-dlia-zaxis
+          - text: НСЗУ закуповує медичні послуги в державних, комунальних і приватних медзакладах для всіх українців і наша мета полягає в тому, щоб пацієнт знав про гарантований державою обсяг послуг і правила отримання медичної допомоги, а надавач - розумів свої можливості і відповідальність.Дізнатися, які медичні заклади надають медичні послуги за договором із НСЗУ можна на
+          - link "Електронній карті місць надання послуг за Програмою медичних гарантій" [ref=f5e44] [cursor=pointer]:
+            - /url: https://nszu.gov.ua/dashboards/elektronna-karta-misc-nadannia-poslug-za-programoiu
+          - text: (користуйтеся підказками в описі під картою щодо користування інформаційною панеллю).
+          - strong [ref=f5e45]: Правила отримання медичної допомоги за Програмою медичних гарантій
+          - text: для всіх однакові, незалежно від соціального статусу, матеріального становища тощо.
+          - strong [ref=f5e46]: Медичні послуги, які закуповує НСЗУ за Програмою медичних гарантій, повністю безоплатні для пацієнтів, включно з лікарськими засобами та витратними матеріалами.
+          - generic [ref=f5e47]:
+            - text: Доступ до більшості безоплатних послуг відкривається через
+            - strong [ref=f5e48]: декларацію з лікарем первинної медичної допомоги
+            - text: ": сімейним лікарем, терапевтом або педіатром для дитини. У разі необхідності лікар створить електронне направлення на консультацію до лікаря- спеціаліста, обстеження тощо. З направленням пацієнт може вільно обирати заклад, в якому пройти обстеження чи лікування."
+          - text: Однак електронне
+          - strong [ref=f5e49]: направлення не потрібне
+          - text: для отримання екстреної медичної допомоги. А також при зверненні до гінеколога, психіатра, нарколога, стоматолога, фтизіатра, педіатра або лікаря, у якого пацієнт перебуває під наглядом із хронічним захворюванням.Щороку перелік безоплатних медичних послуг деталізується та розширюється в інтересах пацієнтів.
+      - generic [ref=f5e50]:
+        - link "Гід по програмі медичних гарантій для пацієнта" [ref=f5e52] [cursor=pointer]:
+          - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/gid-po-programi-medicnix-garantii-dlia-pacijenta-1
+        - link "Екстрена медична допомога" [ref=f5e56] [cursor=pointer]:
+          - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/ekstrena-medicna-dopomoga-1
+        - link "Допомога на первинному медичному рівні" [ref=f5e60] [cursor=pointer]:
+          - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/dopomoga-na-pervinnomu-medicnomu-rivni-1
+        - link "Громадське здоров'я" [ref=f5e64] [cursor=pointer]:
+          - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/gromadske-zdorovia-1
+        - link "Амбулаторні послуги" [ref=f5e68] [cursor=pointer]:
+          - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/ambulatorni-poslugi-1
+        - link "Стаціонарні послуги" [ref=f5e72] [cursor=pointer]:
+          - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/stacionarni-poslugi-1
+        - link "Приорітетні стаціонарні послуги" [ref=f5e76] [cursor=pointer]:
+          - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/prioritetni-stacionarni-poslugi-1
+        - link "Реабілітаційна допомога" [ref=f5e80] [cursor=pointer]:
+          - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/reabilitaciina-dopomoga-1
+        - link "Паліативна допомога" [ref=f5e84] [cursor=pointer]:
+          - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/paliativna-dopomoga-1
+        - link "Лікування безпліддя" [ref=f5e88] [cursor=pointer]:
+          - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/likuvannia-bezpliddia
+        - link "Трансплантація" [ref=f5e92] [cursor=pointer]:
+          - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/transplantaciia
+        - link "Програми для захисників та захисниць" [ref=f5e96] [cursor=pointer]:
+          - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/programi-dlia-zaxisnikiv-ta-zaxisnic
+  - contentinfo [ref=f5e99]:
+    - generic [ref=f5e100]:
+      - navigation "Підвал сайту" [ref=f5e101]:
+        - generic [ref=f5e102]:
+          - link "Про НСЗУ" [ref=f5e104] [cursor=pointer]:
+            - /url: /pro-nzsu
+          - generic [ref=f5e105]:
+            - link "Для ЗМІ" [ref=f5e106] [cursor=pointer]:
+              - /url: /pro-nzsu/dlia-zmi
+            - link "Контрактування" [ref=f5e107] [cursor=pointer]:
+              - /url: /nadavacam-poslug/kontaktuvannia-ta-vimogi-pmg-1
+            - link "Нормативно-правові акти" [ref=f5e108] [cursor=pointer]:
+              - /url: /pro-nzsu/normativno-pravovi-akti
+            - link "Вакансії та стажування" [ref=f5e109] [cursor=pointer]:
+              - /url: /pro-nzsu/vakansiyi-ta-stazuvannia
+            - link "Для партнерів" [ref=f5e110] [cursor=pointer]:
+              - /url: /pro-nzsu/projekti-i-partneri?tab=2
+            - link "Роз’яснювальна робота" [ref=f5e111] [cursor=pointer]:
+              - /url: /arxiv-dokumentiv?groups%5B3%5D%5Battributes%5D%5B%5D=29
+        - generic [ref=f5e112]:
+          - link "Громадянам та громадянкам" [ref=f5e114] [cursor=pointer]:
+            - /url: /gromadianam
+          - generic [ref=f5e115]:
+            - link "Онлайн сервіси ЕСОЗ" [ref=f5e116] [cursor=pointer]:
+              - /url: /nszu-cifrova/onlain-servisi-elektronnoyi-sistemi-oxoroni-zdorov
+            - link "Програма медичних гарантій" [ref=f5e117] [cursor=pointer]:
+              - /url: /gromadianam/programa-medicnix-garantii
+            - link "Безоплатна правова допомога" [ref=f5e118] [cursor=pointer]:
+              - /url: /gromadianam/bezoplatna-pravova-dopomoga
+            - link "Медична реформа" [ref=f5e119] [cursor=pointer]:
+              - /url: /gromadianam/medreforma-i-rol-nszu-v-nii
+            - link "Консультації з громадскістю" [ref=f5e120] [cursor=pointer]:
+              - /url: /gromadianam/konsultaciyi-z-gromadkistiu
+            - link "Звернення громадян" [ref=f5e121] [cursor=pointer]:
+              - /url: /gromadianam/onlain-formi
+            - link "Доступні ліки та інсуліни" [ref=f5e122] [cursor=pointer]:
+              - /url: /gromadianam/dostupni-liki-ta-insulini
+        - generic [ref=f5e123]:
+          - link "Надавачам медичних послуг" [ref=f5e125] [cursor=pointer]:
+            - /url: /nadavacam-poslug
+          - generic [ref=f5e126]:
+            - link "Контрактування і вимоги ПМГ" [ref=f5e127] [cursor=pointer]:
+              - /url: /nadavacam-poslug/kontaktuvannia-ta-vimogi-pmg-1
+            - link "Про укладення договорів" [ref=f5e128] [cursor=pointer]:
+              - /url: /nadavacam-poslug/ukladeni-dogovori-1
+            - link "Інформаційні матеріали для ЗОЗ" [ref=f5e129] [cursor=pointer]:
+              - /url: /nadavacam-poslug/informaciini-materiali-dlia-rozmishhennia-u-zoz
+            - link "Доступні ліки та інсуліни" [ref=f5e130] [cursor=pointer]:
+              - /url: /gromadianam/dostupni-liki-ta-insulini
+            - link "FAQ" [ref=f5e131] [cursor=pointer]:
+              - /url: /nadavacam-poslug/pitannia-ta-vidpovidi-1
+        - generic [ref=f5e132]:
+          - link "Партнерам" [ref=f5e134] [cursor=pointer]:
+            - /url: /pro-nzsu/projekti-i-partneri
+          - generic [ref=f5e135]:
+            - link "Проекти" [ref=f5e136] [cursor=pointer]:
+              - /url: /pro-nzsu/projekti-i-partneri?tab=2
+            - link "Документи пов’язані з проектом" [ref=f5e137] [cursor=pointer]:
+              - /url: /arxiv-dokumentiv?groups%5B2%5D%5Battributes%5D%5B%5D=32
+      - generic [ref=f5e138]:
+        - navigation "Додаткові посилання" [ref=f5e139]:
+          - list [ref=f5e140]:
+            - listitem [ref=f5e141]:
+              - link "Новини" [ref=f5e142] [cursor=pointer]:
+                - /url: /news
+            - listitem [ref=f5e143]:
+              - link "Каталог документів" [ref=f5e144] [cursor=pointer]:
+                - /url: /arxiv-dokumentiv
+            - listitem [ref=f5e145]:
+              - link "Відкриті дані" [ref=f5e146] [cursor=pointer]:
+                - /url: /nszu-cifrova/vidkriti-dani-1
+            - listitem [ref=f5e147]:
+              - link "Контакти" [ref=f5e148] [cursor=pointer]:
+                - /url: /kontakti
+        - generic [ref=f5e149]:
+          - paragraph [ref=f5e150]: "Слідкуй за нами тут:"
+          - generic [ref=f5e151]:
+            - link "facebook" [ref=f5e152] [cursor=pointer]:
+              - /url: https://www.facebook.com/nszu.ukr/
+            - link "youtube" [ref=f5e155] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCWEiuvYhi7CByHLjihqn0mw
+            - link "telegram" [ref=f5e158] [cursor=pointer]:
+              - /url: https://t.me/NSZU_gov
+      - generic [ref=f5e161]:
+        - paragraph [ref=f5e167]: nszu.gov.ua 2026. Весь контент доступний за ліцензією Creative CommonsAttribution 4.0 International license, якщо не зазначено інше.
+        - generic [ref=f5e168]:
+          - link "Розроблено CF Digital" [ref=f5e169] [cursor=pointer]:
+            - /url: https://cf.digital
+          - paragraph [ref=f5e172]: Сайт розроблено за сприяння проекту HealthLink, БО «100% Життя» за підтримки USAID.

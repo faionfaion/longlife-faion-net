@@ -1,0 +1,54 @@
+- generic [active] [ref=f28e1]:
+  - generic [ref=f28e2]:
+    - generic [ref=f28e3]:
+      - generic [ref=f28e7]:
+        - button "Львів arrowHeaderMobile" [ref=f28e9] [cursor=pointer]:
+          - generic [ref=f28e10]:
+            - generic [ref=f28e11]: Львів
+            - img "arrowHeaderMobile" [ref=f28e12]
+        - button [ref=f28e14] [cursor=pointer]:
+          - paragraph [ref=f28e17]: 0 800 503 680
+      - generic [ref=f28e22]:
+        - 'img "Медична лабораторія: аналізи крові якісно та доступно" [ref=f28e24] [cursor=pointer]'
+        - generic [ref=f28e25]:
+          - button "Отримати результат" [ref=f28e26] [cursor=pointer]
+          - generic [ref=f28e29] [cursor=pointer]
+    - progressbar [ref=f28e35]
+    - generic [ref=f28e39]:
+      - generic [ref=f28e40]:
+        - link [ref=f28e41] [cursor=pointer]:
+          - /url: /privacy-policy
+          - paragraph [ref=f28e42]: Ми використовуємо файли Cookie для максимальної функціональності сайту.
+          - paragraph [ref=f28e43]: Дізнайтесь більше в розділі Політика конфіденційності.
+        - paragraph [ref=f28e44]: Натиснувши Прийняти, Ви погоджуєтесь на використання файлів Cookie на нашому сайті.
+      - button "Прийняти" [ref=f28e46] [cursor=pointer]
+    - generic [ref=f28e49]:
+      - generic [ref=f28e50]:
+        - generic [ref=f28e51]:
+          - button [ref=f28e54] [cursor=pointer]:
+            - paragraph [ref=f28e57]: 0 800 503 680
+          - link "support@esculab.com" [ref=f28e61] [cursor=pointer]:
+            - /url: mailto:support@esculab.com
+        - generic [ref=f28e63]:
+          - paragraph [ref=f28e64]: Підписуйся на знижки
+          - textbox "example@email.com" [ref=f28e70]
+          - button "Підписатись" [ref=f28e72] [cursor=pointer]
+      - generic [ref=f28e74]:
+        - paragraph [ref=f28e75]: Завантажуй наш застосунок
+        - generic [ref=f28e76]:
+          - img "google-play" [ref=f28e77] [cursor=pointer]
+          - img "app-store" [ref=f28e78] [cursor=pointer]
+      - generic [ref=f28e79]:
+        - img [ref=f28e81] [cursor=pointer]
+        - img [ref=f28e85] [cursor=pointer]
+        - img [ref=f28e89] [cursor=pointer]
+      - paragraph [ref=f28e98]: © 2009-2026 | ПСМЛ «Ескулаб»
+      - generic [ref=f28e99] [cursor=pointer]: IT партнер MZ-group
+      - generic [ref=f28e100] [cursor=pointer]
+      - generic [ref=f28e104]:
+        - paragraph [ref=f28e110]: Аналізи
+        - paragraph [ref=f28e116]: Акції
+        - paragraph [ref=f28e121]: Адреси
+        - paragraph [ref=f28e127]: Кошик
+        - paragraph [ref=f28e132]: Вхід
+  - alert [ref=f28e133]

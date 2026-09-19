@@ -1,0 +1,123 @@
+- generic [ref=f7e4]:
+  - banner [ref=f7e5]:
+    - link "Головна" [ref=f7e7] [cursor=pointer]:
+      - /url: /
+    - button "Меню" [ref=f7e12] [cursor=pointer]
+  - main [ref=f7e15]:
+    - generic [ref=f7e18]:
+      - navigation "Навігаційний ланцюжок" [ref=f7e19]:
+        - list [ref=f7e20]:
+          - listitem [ref=f7e21]:
+            - link "Національна служба здоров’я України" [ref=f7e22] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f7e23]:
+            - text: "|"
+            - link "Громадянам" [ref=f7e24] [cursor=pointer]:
+              - /url: /gromadianam
+          - listitem [ref=f7e25]:
+            - text: "|"
+            - link "Безоплатні послуги в Програмі медичних гарантій 2026" [ref=f7e26] [cursor=pointer]:
+              - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1
+          - listitem [ref=f7e27]:
+            - text: "|"
+            - link "Громадське здоров'я" [ref=f7e28] [cursor=pointer]:
+              - /url: javascript:void(0)
+      - heading "Громадське здоров'я" [level=1] [ref=f7e29]
+    - generic [ref=f7e31]:
+      - link "Діагностика, лікування та супровід осіб із вірусом імунодефіциту людини (та підозрою на віл)" [ref=f7e33] [cursor=pointer]:
+        - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/gromadske-zdorovia-1/diagnostika-likuvannia-ta-suprovid-osib-iz-virusom
+      - link "Діагностика та лікування дорослих і дітей, хворих на туберкульоз, у стаціонарних та амбулаторних умовах" [ref=f7e37] [cursor=pointer]:
+        - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/gromadske-zdorovia-1/diagnostika-ta-likuvannia-doroslix-i-ditei-xvorix
+      - link "Лікування осіб із психічними та поведінковими розладами внаслідок вживання опіоїдів із використанням препаратів замісної підтримувальної терапії" [ref=f7e41] [cursor=pointer]:
+        - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/gromadske-zdorovia-1/likuvannia-osib-iz-psixicnimi-ta-povedinkovimi-rozl
+      - link "Психіатрична допомога дорослим та дітям у стаціонарних умовах" [ref=f7e45] [cursor=pointer]:
+        - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/gromadske-zdorovia-1/psixiatricna-dopomoga-doroslim-ta-ditiam-u-staciona
+  - contentinfo [ref=f7e48]:
+    - generic [ref=f7e49]:
+      - navigation "Підвал сайту" [ref=f7e50]:
+        - generic [ref=f7e51]:
+          - link "Про НСЗУ" [ref=f7e53] [cursor=pointer]:
+            - /url: /pro-nzsu
+          - generic [ref=f7e54]:
+            - link "Для ЗМІ" [ref=f7e55] [cursor=pointer]:
+              - /url: /pro-nzsu/dlia-zmi
+            - link "Контрактування" [ref=f7e56] [cursor=pointer]:
+              - /url: /nadavacam-poslug/kontaktuvannia-ta-vimogi-pmg-1
+            - link "Нормативно-правові акти" [ref=f7e57] [cursor=pointer]:
+              - /url: /pro-nzsu/normativno-pravovi-akti
+            - link "Вакансії та стажування" [ref=f7e58] [cursor=pointer]:
+              - /url: /pro-nzsu/vakansiyi-ta-stazuvannia
+            - link "Для партнерів" [ref=f7e59] [cursor=pointer]:
+              - /url: /pro-nzsu/projekti-i-partneri?tab=2
+            - link "Роз’яснювальна робота" [ref=f7e60] [cursor=pointer]:
+              - /url: /arxiv-dokumentiv?groups%5B3%5D%5Battributes%5D%5B%5D=29
+        - generic [ref=f7e61]:
+          - link "Громадянам та громадянкам" [ref=f7e63] [cursor=pointer]:
+            - /url: /gromadianam
+          - generic [ref=f7e64]:
+            - link "Онлайн сервіси ЕСОЗ" [ref=f7e65] [cursor=pointer]:
+              - /url: /nszu-cifrova/onlain-servisi-elektronnoyi-sistemi-oxoroni-zdorov
+            - link "Програма медичних гарантій" [ref=f7e66] [cursor=pointer]:
+              - /url: /gromadianam/programa-medicnix-garantii
+            - link "Безоплатна правова допомога" [ref=f7e67] [cursor=pointer]:
+              - /url: /gromadianam/bezoplatna-pravova-dopomoga
+            - link "Медична реформа" [ref=f7e68] [cursor=pointer]:
+              - /url: /gromadianam/medreforma-i-rol-nszu-v-nii
+            - link "Консультації з громадскістю" [ref=f7e69] [cursor=pointer]:
+              - /url: /gromadianam/konsultaciyi-z-gromadkistiu
+            - link "Звернення громадян" [ref=f7e70] [cursor=pointer]:
+              - /url: /gromadianam/onlain-formi
+            - link "Доступні ліки та інсуліни" [ref=f7e71] [cursor=pointer]:
+              - /url: /gromadianam/dostupni-liki-ta-insulini
+        - generic [ref=f7e72]:
+          - link "Надавачам медичних послуг" [ref=f7e74] [cursor=pointer]:
+            - /url: /nadavacam-poslug
+          - generic [ref=f7e75]:
+            - link "Контрактування і вимоги ПМГ" [ref=f7e76] [cursor=pointer]:
+              - /url: /nadavacam-poslug/kontaktuvannia-ta-vimogi-pmg-1
+            - link "Про укладення договорів" [ref=f7e77] [cursor=pointer]:
+              - /url: /nadavacam-poslug/ukladeni-dogovori-1
+            - link "Інформаційні матеріали для ЗОЗ" [ref=f7e78] [cursor=pointer]:
+              - /url: /nadavacam-poslug/informaciini-materiali-dlia-rozmishhennia-u-zoz
+            - link "Доступні ліки та інсуліни" [ref=f7e79] [cursor=pointer]:
+              - /url: /gromadianam/dostupni-liki-ta-insulini
+            - link "FAQ" [ref=f7e80] [cursor=pointer]:
+              - /url: /nadavacam-poslug/pitannia-ta-vidpovidi-1
+        - generic [ref=f7e81]:
+          - link "Партнерам" [ref=f7e83] [cursor=pointer]:
+            - /url: /pro-nzsu/projekti-i-partneri
+          - generic [ref=f7e84]:
+            - link "Проекти" [ref=f7e85] [cursor=pointer]:
+              - /url: /pro-nzsu/projekti-i-partneri?tab=2
+            - link "Документи пов’язані з проектом" [ref=f7e86] [cursor=pointer]:
+              - /url: /arxiv-dokumentiv?groups%5B2%5D%5Battributes%5D%5B%5D=32
+      - generic [ref=f7e87]:
+        - navigation "Додаткові посилання" [ref=f7e88]:
+          - list [ref=f7e89]:
+            - listitem [ref=f7e90]:
+              - link "Новини" [ref=f7e91] [cursor=pointer]:
+                - /url: /news
+            - listitem [ref=f7e92]:
+              - link "Каталог документів" [ref=f7e93] [cursor=pointer]:
+                - /url: /arxiv-dokumentiv
+            - listitem [ref=f7e94]:
+              - link "Відкриті дані" [ref=f7e95] [cursor=pointer]:
+                - /url: /nszu-cifrova/vidkriti-dani-1
+            - listitem [ref=f7e96]:
+              - link "Контакти" [ref=f7e97] [cursor=pointer]:
+                - /url: /kontakti
+        - generic [ref=f7e98]:
+          - paragraph [ref=f7e99]: "Слідкуй за нами тут:"
+          - generic [ref=f7e100]:
+            - link "facebook" [ref=f7e101] [cursor=pointer]:
+              - /url: https://www.facebook.com/nszu.ukr/
+            - link "youtube" [ref=f7e104] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCWEiuvYhi7CByHLjihqn0mw
+            - link "telegram" [ref=f7e107] [cursor=pointer]:
+              - /url: https://t.me/NSZU_gov
+      - generic [ref=f7e110]:
+        - paragraph [ref=f7e116]: nszu.gov.ua 2026. Весь контент доступний за ліцензією Creative CommonsAttribution 4.0 International license, якщо не зазначено інше.
+        - generic [ref=f7e117]:
+          - link "Розроблено CF Digital" [ref=f7e118] [cursor=pointer]:
+            - /url: https://cf.digital
+          - paragraph [ref=f7e121]: Сайт розроблено за сприяння проекту HealthLink, БО «100% Життя» за підтримки USAID.

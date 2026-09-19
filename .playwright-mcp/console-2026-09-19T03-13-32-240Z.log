@@ -1,0 +1,28 @@
+[     779ms] [WARNING] The key "" is not recognized and ignored. @ https://esculab.com/path_ua47:0
+[    1020ms] [WARNING] Deprecation warning: use moment.updateLocale(localeName, config) to change an existing locale. moment.defineLocale(localeName, config) should only be used for creating a new locale See http://momentjs.com/guides/#/warnings/define-locale/ for more info. @ https://esculab.com/_next/static/chunks/pages/_app-b2407aa25f0d2a5b.js:0
+[    1493ms] [LOG] GeolocationPositionError getClientLocationAPI Error User denied Geolocation @ https://esculab.com/_next/static/chunks/pages/_app-b2407aa25f0d2a5b.js:0
+[    1645ms] [LOG] Push module unavailable @ https://esputnik.com/scripts/v1/public/scripts?apiKey=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiI0NTI0ZWZhYTJkYzI2MGRmYTM4YTE1NDBlMWFjYjM0NGQxYTMzZDE3NzM0M2MzOTgxN2JlNGI3ZWYyODY1ZjBlMzNhZGYyM2EwMmI0YTIyZDYxNGIzY2Y0ZDgzZWRkMTcwZWU5ZWY3YTA3MjI3Y2I5YjMzOTQ5OTY2NzQxYWQwNWUyOWZlZDRkNjI2NzZjNTFhNzY4YjgyZWI1OWQ1MTU0NWVkNmIxODY5MjFiNjY1OWYyMGFhOTkzOTJhYzgyODAyYTJkZmQifQ.NETJkwpj-nZf9ljfGWeyZ1NlSXxL2Pop45HplpNHhRp2pGvuXmoWoWwpVa7nPVvk8jN0Tc56bvNFE9Q6X112Nw&domain=C7890D52-9A5D-4CF1-8C02-5A9FC432D550:3
+[    1758ms] [WARNING] Hotjar not launching due to suspicious userAgent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36 @ https://static.hotjar.com/c/hotjar-1575776.js?sv=7:2
+[    2106ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://esculab.com/path_ua47:0
+[    2458ms] [LOG] info {info: null, assayInfo: Object} @ https://esculab.com/_next/static/chunks/pages/_app-b2407aa25f0d2a5b.js:0
+[    2463ms] [LOG] info {info: null, assayInfo: Object} @ https://esculab.com/_next/static/chunks/pages/_app-b2407aa25f0d2a5b.js:0
+[    2482ms] [LOG] info {info: null, assayInfo: Object} @ https://esculab.com/_next/static/chunks/pages/_app-b2407aa25f0d2a5b.js:0
+[    2483ms] [LOG] info {info: null, assayInfo: Object} @ https://esculab.com/_next/static/chunks/pages/_app-b2407aa25f0d2a5b.js:0
+[    2523ms] [LOG] info {info: null, assayInfo: Object} @ https://esculab.com/_next/static/chunks/pages/_app-b2407aa25f0d2a5b.js:0
+[    2524ms] [LOG] info {info: null, assayInfo: Object} @ https://esculab.com/_next/static/chunks/pages/_app-b2407aa25f0d2a5b.js:0
+[    2641ms] [LOG] info {info: null, assayInfo: Object} @ https://esculab.com/_next/static/chunks/pages/_app-b2407aa25f0d2a5b.js:0
+[    2642ms] [LOG] info {info: null, assayInfo: Object} @ https://esculab.com/_next/static/chunks/pages/_app-b2407aa25f0d2a5b.js:0
+[    2643ms] [LOG] info {info: null, assayInfo: Object} @ https://esculab.com/_next/static/chunks/pages/_app-b2407aa25f0d2a5b.js:0
+[    2644ms] [LOG] info {info: null, assayInfo: Object} @ https://esculab.com/_next/static/chunks/pages/_app-b2407aa25f0d2a5b.js:0
+[    2868ms] [LOG] info {info: null, assayInfo: Object} @ https://esculab.com/_next/static/chunks/pages/_app-b2407aa25f0d2a5b.js:0
+[    2875ms] [LOG] info {info: null, assayInfo: Object} @ https://esculab.com/_next/static/chunks/pages/_app-b2407aa25f0d2a5b.js:0
+[    3012ms] [LOG] info {info: Object, assayInfo: Object} @ https://esculab.com/_next/static/chunks/pages/_app-b2407aa25f0d2a5b.js:0
+[    3480ms] [LOG] info {info: Object, assayInfo: Object} @ https://esculab.com/_next/static/chunks/pages/_app-b2407aa25f0d2a5b.js:0
+[    3482ms] [LOG] info {info: null, assayInfo: Object} @ https://esculab.com/_next/static/chunks/pages/_app-b2407aa25f0d2a5b.js:0
+[    3486ms] [LOG] info {info: Object, assayInfo: Object} @ https://esculab.com/_next/static/chunks/pages/_app-b2407aa25f0d2a5b.js:0
+[    3487ms] [LOG] info {info: null, assayInfo: Object} @ https://esculab.com/_next/static/chunks/pages/_app-b2407aa25f0d2a5b.js:0
+[    3493ms] [LOG] info {info: Object, assayInfo: Object} @ https://esculab.com/_next/static/chunks/pages/_app-b2407aa25f0d2a5b.js:0
+[    3495ms] [LOG] info {info: null, assayInfo: Object} @ https://esculab.com/_next/static/chunks/pages/_app-b2407aa25f0d2a5b.js:0
+[    4012ms] [LOG] info {info: Object, assayInfo: Object} @ https://esculab.com/_next/static/chunks/pages/_app-b2407aa25f0d2a5b.js:0
+[    4017ms] [LOG] info {info: null, assayInfo: Object} @ https://esculab.com/_next/static/chunks/pages/_app-b2407aa25f0d2a5b.js:0
+[    4271ms] [LOG] info {info: Object, assayInfo: Object} @ https://esculab.com/_next/static/chunks/pages/_app-b2407aa25f0d2a5b.js:0

@@ -1,0 +1,357 @@
+- generic [active] [ref=f64e1]:
+  - generic [ref=f64e2]:
+    - generic [ref=f64e3]:
+      - navigation [ref=f64e4]:
+        - generic [ref=f64e5]:
+          - generic [ref=f64e6]:
+            - link [ref=f64e7] [cursor=pointer]:
+              - /url: https://nikolab.com.ua/uk/
+              - img "Nikolab Logo" [ref=f64e8]
+            - paragraph [ref=f64e9]:
+              - link "073 620 06 03" [ref=f64e10] [cursor=pointer]:
+                - /url: tel:0736200603
+            - generic [ref=f64e11]:
+              - link "UA" [ref=f64e12] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/prices/2771-2/
+              - link "RU" [ref=f64e13] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/prices/2771-2/
+          - generic [ref=f64e14]:
+            - link [ref=f64e15] [cursor=pointer]:
+              - /url: "#my_menu"
+              - generic [aria-hidden] [ref=f64e16]: 
+            - generic [ref=f64e17]:
+              - link "Аналізи та ціни" [ref=f64e18] [cursor=pointer]:
+                - /url: /uk/price/
+              - link "Результати аналізів" [ref=f64e19] [cursor=pointer]:
+                - /url: /uk/analysis-results/
+        - text: 
+      - generic [ref=f64e22]:
+        - generic [ref=f64e23]:
+          - list [ref=f64e24]:
+            - listitem [ref=f64e25]:
+              - link "Всі аналізи" [ref=f64e26] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price/
+            - listitem [ref=f64e27]:
+              - link "КОРОНАВІРУС SARS-CoV-2 COVID-19" [ref=f64e28] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/sars-cov-2-covid-19/
+            - listitem [ref=f64e29]:
+              - link "ПАКЕТНІ ДОСЛІДЖЕННЯ (ВИГІДНІ КОМПЛЕКСИ ДОСЛІДЖЕНЬ ЗІ ЗНИЖКОЮ)" [ref=f64e30] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/paketnye-programmy-diagnostiki/
+            - listitem [ref=f64e31]:
+              - link "ШВИДКІ ТЕСТИ" [ref=f64e32] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/infekcionnaya-panel-cito-ekspress/
+            - listitem [ref=f64e33]:
+              - link "БІОХІМІЧНІ ДОСЛІДЖЕННЯ КРОВІ" [ref=f64e34] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/bioximicheskie-issledovaniya-krovi/
+            - listitem [ref=f64e35]:
+              - link "ВІТАМІНИ, МІКРОЕЛЕМЕНТИ, ЕЛЕКТРОЛІТИ" [ref=f64e36] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/mikroelementy-i-elektrolity/
+            - listitem [ref=f64e37]:
+              - link "ДІАГНОСТИКА АНЕМІЇ" [ref=f64e38] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/anemiya/
+            - listitem [ref=f64e39]:
+              - link "ЗАГАЛЬНОКЛІНІЧНІ АНАЛІЗИ КРОВІ" [ref=f64e40] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/issledovaniya-krovi/
+            - listitem [ref=f64e41]:
+              - link "АНАЛІЗИ СЕЧІ" [ref=f64e42] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/issledovaniya-mochi/
+            - listitem [ref=f64e43]:
+              - link "АНАЛІЗИ КАЛУ" [ref=f64e44] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/issledovaniya-kala/
+            - listitem [ref=f64e45]:
+              - link "АНАЛІЗИ СПЕРМИ" [ref=f64e46] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/issledovanie-spermy/
+            - listitem [ref=f64e47]:
+              - link "ЗГОРТАННЯ КРОВІ (ГЕМОСТАЗ)" [ref=f64e48] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/issledovaniya-sistemy-gemostaza/
+            - listitem [ref=f64e49]:
+              - link "КАРДІО-РЕВМАТОЇДНІ ДОСЛІДЖЕННЯ" [ref=f64e50] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/kardio-revmatoidnaya-panel/
+            - listitem [ref=f64e51]:
+              - link "ГОРМОНИ ЩИТОПОДІБНОЇ ЗАЛОЗИ (ТИРЕОЇДНА ПАНЕЛЬ)" [ref=f64e52] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/tireoidnaya-panel/
+            - listitem [ref=f64e53]:
+              - link "РЕПРОДУКТИВНА ПАНЕЛЬ" [ref=f64e54] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/reproduktivnaya-panel/
+            - listitem [ref=f64e55]:
+              - link "ПРЕНАТАЛЬНА ДІАГНОСТИКА" [ref=f64e56] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/panel-prenatalnoj-diagnostiki/
+            - listitem [ref=f64e57]:
+              - link "ОНКОМАРКЕРИ" [ref=f64e58] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/onkologicheskie-markery/
+            - listitem [ref=f64e59]:
+              - link "ДІАБЕТИЧНА ПАНЕЛЬ" [ref=f64e60] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/panel-diabeta/
+            - listitem [ref=f64e61]:
+              - link "ГІПОТАЛАМО-ГІПОФІЗАРНІ ПОКАЗНИКИ" [ref=f64e62] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/gipofizarno-nadpochechnikovye-pokazateli/
+            - listitem [ref=f64e63]:
+              - link "ГОРМОНИ НАДНИРНИКІВ" [ref=f64e64] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/hormony-nadnyrnukiv/
+            - listitem [ref=f64e65]:
+              - link "ГЕПАТИТИ" [ref=f64e66] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/markery-virusnyx-gepatitov/
+            - listitem [ref=f64e67]:
+              - link "ВІЛ" [ref=f64e68] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/analizy-na-vich/
+            - listitem [ref=f64e69]:
+              - link "СИФІЛІС" [ref=f64e70] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/analizy-na-sifilis/
+            - listitem [ref=f64e71]:
+              - link "СТАТЕВІ ІНФЕКЦІЇ" [ref=f64e72] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/infekcii/
+            - listitem [ref=f64e73]:
+              - link "TORCH – ІНФЕКЦІЇ" [ref=f64e74] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/torch-infekcii/
+            - listitem [ref=f64e75]:
+              - link "ГЕЛЬМІНТИ ТА ПАРАЗИТИ" [ref=f64e76] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/zabolevaniya-zhkt/
+            - listitem [ref=f64e77]:
+              - link "ТУБЕРКУЛЬОЗ" [ref=f64e78] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/analizy-na-tuberkulez/
+            - listitem [ref=f64e79]:
+              - link "ІНШІ ІНФЕКЦІЇ" [ref=f64e80] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/drugie-infekcii/
+            - listitem [ref=f64e81]:
+              - link "ГЕНЕТИКА" [ref=f64e82] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/geneticheskie-issledovaniya/
+            - listitem [ref=f64e83]:
+              - link "ІМУННИЙ СТАТУС" [ref=f64e84] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/autoimmunnye-zabolevaniya/
+            - listitem [ref=f64e85]:
+              - link "БАКТЕРІОЛОГІЧНІ ДОСЛІДЖЕННЯ (БАК.ПОСІВИ)" [ref=f64e86] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/bakteriologicheskie-issledovaniya/
+            - listitem [ref=f64e87]:
+              - link "ЦИТОЛОГІЧНІ ДОСЛІДЖЕННЯ" [ref=f64e88] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/mikroskopicheskie-issledovaniya/
+            - listitem [ref=f64e89]:
+              - link "АЛЕРГОПАНЕЛЬ" [ref=f64e90] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/allergopanel/
+          - list [ref=f64e91]:
+            - listitem [ref=f64e92]:
+              - link "Забір аналізів вдома" [ref=f64e93] [cursor=pointer]:
+                - /url: /uk/zabir-analiziv-vdoma-4
+            - listitem [ref=f64e95]:
+              - link "Залишились питання?" [ref=f64e96] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f64e98]:
+              - link "Правила підготовки до здачі аналізів" [ref=f64e99] [cursor=pointer]:
+                - /url: /uk/preparation-for-passing-tests
+            - listitem [ref=f64e101]:
+              - link "Де здати аналізи" [ref=f64e102] [cursor=pointer]:
+                - /url: /uk/contatcs
+        - generic [ref=f64e104]:
+          - generic [ref=f64e105]:
+            - generic [ref=f64e106]:
+              - listitem [ref=f64e107]:
+                - link "Nikolab" [ref=f64e108] [cursor=pointer]:
+                  - /url: https://nikolab.com.ua/uk/
+              - listitem [ref=f64e109]:
+                - text: /
+                - link "Всі аналізи" [ref=f64e110] [cursor=pointer]:
+                  - /url: https://nikolab.com.ua/uk/price/
+              - listitem [ref=f64e111]:
+                - text: /
+                - link "АНАЛІЗИ КАЛУ" [ref=f64e112] [cursor=pointer]:
+                  - /url: https://nikolab.com.ua/uk/price_category/issledovaniya-kala/
+              - listitem [ref=f64e113]:
+                - text: /
+                - paragraph [ref=f64e115]: Аналіз калу на трансферин та гемоглобін (якісне дослідження)
+            - textbox "Пошук аналізів" [ref=f64e119]
+            - heading [level=1] [ref=f64e120]:
+              - paragraph [ref=f64e121]: Аналіз калу на трансферин та гемоглобін (якісне дослідження)
+            - generic [ref=f64e122]:
+              - generic [ref=f64e123]:
+                - button "⚠️ УВАГА! Забір даного матеріалу у відділенні не проводиться. Матеріал необхідно підготувати самостійно та доставити до лабораторії відповідно до вимог підготовки. ⚠️ УВАГА! При оформленні замовлення вказуйте дані особи, якій належить матеріал для дослідження. Приносний матеріал має відповідати даним клієнта, зазначеним в онлайн-замовленні." [ref=f64e125] [cursor=pointer]: ⚠️
+                - generic [ref=f64e126]:
+                  - paragraph [ref=f64e128]: "2771"
+                  - paragraph [ref=f64e130]: Аналіз калу на трансферин та гемоглобін (якісне дослідження)
+                  - paragraph [ref=f64e132]: 310,00 грн.
+                  - paragraph [ref=f64e134]: 1 дн.
+                  - button [ref=f64e136] [cursor=pointer]:
+                    - img "+" [ref=f64e137]
+              - list [ref=f64e139]:
+                - listitem [ref=f64e140]:
+                  - generic [ref=f64e141]: Матеріал для дослідження
+                  - generic [ref=f64e142]: Кал
+                - listitem [ref=f64e143]:
+                  - generic [ref=f64e144]: Правила підготовки
+                  - link "Детальніше тут" [ref=f64e145] [cursor=pointer]:
+                    - /url: https://nikolab.com.ua/uk/preparation-for-passing-tests/
+                - listitem [ref=f64e146]:
+                  - generic [ref=f64e147]: Референтні значення
+                  - paragraph [ref=f64e149]: негативний
+              - generic [ref=f64e150]:
+                - paragraph [ref=f64e151]: Аналіз калу на трансферин і гемоглобін є якісним дослідженням, застосовуваним для виявлення прихованої кровотечі в шлунково-кишковому тракті (ШКТ). Цей вид кровотечі може бути викликаний багатьма причинами, такими як виразкова хвороба шлунка або дванадцятипалої кишки, рак шлунка, ерозії стравоходу, запальні захворювання кишечника та інші патологічні стани.
+                - paragraph [ref=f64e152]: Трансферин — це глікозильований білок, що транспортує залізо в крові, синтезований у печінці. Він складається з двох субодиниць і має здатність міцного, але оборотного зв’язування з іонами заліза. Трансферин зв’язується з залізом у кістковому мозку для синтезу гемоглобіну. На відміну від гемоглобіну, трансферин більш стійкий до впливу травних ферментів, тому його присутність у калі більш ймовірна при прихованій кровотечі, навіть якщо кровотеча незначна. Прихована кровотеча в ШКТ часто призводить до розвитку анемії, що проявляється слабкістю, задишкою, запамороченням і блідістю шкірних покривів. Крім того, специфічними ознаками прихованої кровотечі можуть бути чорний кал (мелена) і наявність прожилок крові в калі.
+                - paragraph [ref=f64e153]: Гемоглобін — це основний компонент еритроцитів, відповідальний за перенос кисню від легень до тканин і зворотній транспорт вуглекислого газу. Структурно гемоглобін складається з гемової частини, що містить залізо, і протеїнової частини. Залізо в гемовій групі зв’язується з киснем, формуючи оксигемоглобін, який доставляє кисень тканинам, і з вуглекислим газом, утворюючи карбогемоглобін, який виводить вуглекислий газ у легені. В нормі гемоглобін у калі відсутній, оскільки еритроцити руйнуються в ШКТ, а компоненти не потрапляють у кал. При пошкодженні слизової і кровотечі гемоглобін може бути присутнім у фекаліях.
+                - paragraph [ref=f64e154]: Аналіз калу використовується як у рамках профілактичних оглядів, так і при появі симптомів, що вказують на можливу кровотечу. Показаннями для проведення дослідження є прояви анемії, чорний кал або наявність крові в калі, вік понад 50 років, високий ризик розвитку раку шлунка та інших захворювань ШКТ, а також підозра на кровотечу після операцій або прийом ліків, здатних викликати пошкодження слизової.
+                - paragraph [ref=f64e155]: Підготовка до аналізу — за кілька днів до дослідження з раціону виключають продукти, багаті на залізо, такі як червоне м’ясо, печінка, шпинат і бобові. Також припиняють прийом ліків, що впливають на результати, наприклад, аспірину і нестероїдних протизапальних препаратів. Важливо відмовитися від вживання проносних засобів, алкоголю, а також продуктів, здатних змінити колір калу. Збір матеріалу проводять у стерильний контейнер, доставляючи його до лабораторії того ж дня. Для аналізу беруть зразок калу з різних ділянок, загальною вагою близько 10–15 грамів.
+                - paragraph [ref=f64e156]: Інтерпретація аналізу базується на наявності або відсутності в калі трансферину і гемоглобіну. Позитивний результат свідчить про приховану кровотечу, що вимагає подальшого обстеження для визначення її джерела. Негативний результат вказує на відсутність кровотечі в ШКТ на момент дослідження.
+                - paragraph [ref=f64e157]: Аналіз калу на трансферин та гемоглобін (якісне дослідження) – це аналіз, який використовується для виявлення прихованої кровотечі у шлунково-кишковому тракті (ШКТ). Воно може бути викликано різними причинами, включаючи виразку шлунка та/або дванадцятипалої кишки, рак шлунка, ерозію стравоходу, запальні захворювання кишківника (ЗЗК) та інші захворювання.
+                - paragraph [ref=f64e158]: Трансферин – це білок, що транспортує залізо у крові, а гемоглобін – це білок, який містить залізо та переносить кисень у крові. Обидва білки можуть виділятися з фекаліями при прихованій кровотечі.
+                - 'heading "Трансферин та гемоглобін: опис" [level=2] [ref=f64e159]'
+                - paragraph [ref=f64e160]: Трансферин – це білок, який міститься у крові та переносить залізо. Він відіграє роль у перенесенні заліза до органів, де воно використовується.
+                - paragraph [ref=f64e161]: Трансферин є глікозильованим білком, який міцно, але оборотно зв'язує іони заліза. Він складається з двох субодиниць і виробляється у печінці, після чого вивільняється у кров. Білок зв'язується із залізом у кістковому мозку, де він використовується для синтезу гемоглобіну.
+                - paragraph [ref=f64e162]: Трансферин може проникати у шлунково-кишковий тракт під час кровотечі, і тоді його виявляють у калі. При цьому кровотеча може бути як незначною, так і значною.
+                - paragraph [ref=f64e163]: Цей білок стабільніший, ніж гемоглобін, до травних ферментів. Тому при шлунково-кишковій кровотечі в калі частіше виявляється трансферин, ніж гемоглобін.
+                - paragraph [ref=f64e164]: "Прихована кровотеча може бути викликана різними причинами, включаючи:"
+                - list [ref=f64e165]:
+                  - listitem [ref=f64e166]: виразку шлунка;
+                  - listitem [ref=f64e167]: рак шлунка;
+                  - listitem [ref=f64e168]: ерозію стравоходу;
+                  - listitem [ref=f64e169]: запальні захворювання кишківника (ЗЗК);
+                  - listitem [ref=f64e170]: варикозну хворобу вен стравоходу;
+                  - listitem [ref=f64e171]: геморой;
+                  - listitem [ref=f64e172]: поліпи кишківника;
+                  - listitem [ref=f64e173]: аневризму аорти.
+                - paragraph [ref=f64e174]: "Прихована кровотеча часто призводить до розвитку анемії, симптоми якої й приводять людину до кабінету лікаря. Клініка анемії:"
+                - list [ref=f64e175]:
+                  - listitem [ref=f64e176]: втома;
+                  - listitem [ref=f64e177]: задишка;
+                  - listitem [ref=f64e178]: запаморочення;
+                  - listitem [ref=f64e179]: блідість шкірних покривів.
+                - paragraph [ref=f64e180]: Також симптомами прихованої кровотечі є чорний кал (мелена) і дрібні прожилки крові в стільці.
+                - paragraph [ref=f64e181]: Гемоглобін – це білок, який міститься в еритроцитах та відповідає за перенесення кисню з легень до тканин та вуглекислого газу з тканин у легені. Він є складним білком, що складається з двох частин гему (порфіринове кільце, яке містить залізо) і протеїну (білок, що зв'язує гем). Гемоглобін виробляється у кістковому мозку.
+                - paragraph [ref=f64e182]: Залізо у гемі зв'язується з киснем, утворюючи оксигемоглобін, який своєю чергою переносить кисень до тканин, де він вивільняється. Вуглекислий газ з тканин зв'язується з гемоглобіном, утворюючи карбгемоглобін, який переносить вуглекислий газ у легені, де він вивільняється.
+                - paragraph [ref=f64e183]: Гемоглобін відіграє важливу роль у здоров'ї людини, але він у нормі не повинен визначатися в калі.
+                - paragraph [ref=f64e184]: Гемоглобін може бути присутнім у калі за наявності кровотечі у шлунково-кишковому тракті (ШКТ). Це пов'язано з тим, що еритроцити, які містять гемоглобін, руйнуються в шлунково-кишковому тракті та їх компоненти виводяться з калом.
+                - heading "Особливості дослідження" [level=2] [ref=f64e185]
+                - paragraph [ref=f64e186]: Аналіз калу на трансферин та гемоглобін (якісне дослідження) є простим та ефективним методом діагностики прихованої кровотечі в ШКТ. Цей аналіз може проводитися в рамках профілактичних обстежень, а також за наявності симптомів, які можуть свідчити про приховану кровотечу.
+                - heading "Коли та навіщо призначають аналіз" [level=2] [ref=f64e187]
+                - paragraph [ref=f64e188]: "Показання до проведення аналізу калу на трансферин та гемоглобін (якісне дослідження):"
+                - list [ref=f64e189]:
+                  - listitem [ref=f64e190]: симптоми анемії;
+                  - listitem [ref=f64e191]: чорний стілець або прожилки крові у калі;
+                  - listitem [ref=f64e192]: як профілактика пацієнтам старше 50 років;
+                  - listitem [ref=f64e193]: пацієнти з високим ризиком розвитку раку шлунка або інших захворювань шлунково-кишкового тракту;
+                  - listitem [ref=f64e194]: підозра на шлунково-кишкову кровотечу після хірургічного втручання;
+                  - listitem [ref=f64e195]: підозра на шлунково-кишкову кровотечу після приймання лікарських препаратів;
+                  - listitem [ref=f64e196]: підозра на приховану кровотечу внаслідок деяких патологій (рак, виразка та ін.).
+                - paragraph [ref=f64e197]: "Дослідження потрібне для:"
+                - list [ref=f64e198]:
+                  - listitem [ref=f64e199]: виявлення прихованої кровотечі;
+                  - listitem [ref=f64e200]: постановки діагнозу;
+                  - listitem [ref=f64e201]: проведення диференціальної діагностики
+                - paragraph [ref=f64e202]: "Призначають аналіз калу на трансферин та гемоглобін: гастроентерологи, педіатри, хірурги, терапевти та сімейні лікарі."
+                - heading "Правила підготовки" [level=2] [ref=f64e203]
+                - paragraph [ref=f64e204]: "Щоб уникнути хибних результатів, необхідно дотримуватись наступних правил перед проведенням аналізу калу на приховану кров:"
+                - list [ref=f64e205]:
+                  - listitem [ref=f64e206]: за 3 дні до аналізу виключити з раціону продукти, багаті на залізо, такі як червоне м'ясо, печінку, печінкові продукти, шпинат, бобові та листові овочі;
+                  - listitem [ref=f64e207]: за 2 дні до аналізу припинити приймання ліків, які можуть вплинути на результати аналізу, таких як аспірин, нестероїдні протизапальні препарати (НПЗП) та препарати заліза.
+                  - listitem [ref=f64e208]: за 1 день виключити вживання проносних засобів та алкоголю;
+                  - listitem [ref=f64e209]: за 3 дні припинити використання свічок, супозиторіїв, олії та приймання інших медикаментів, що впливають на перистальтику кишківника;
+                  - listitem [ref=f64e210]: за 1 день відмовитися від вживання продуктів харчування, які можуть поміняти колір калу (морква, буряк та ін.).
+                - paragraph [ref=f64e211]: Для збору калу слід використовувати одноразовий контейнер, який можна придбати в аптеці або лабораторії Nikolab.
+                - paragraph [ref=f64e212]: Сам збір калу необхідно здійснити в стерильний контейнер і доставити зразок у відділення Nikolab протягом цього ж дня. Достатньо взяти зразок з різних ділянок загальним обсягом 10-15 грам.
+                - paragraph [ref=f64e213]: Деякі захворювання, такі як цироз печінки, можуть викликати підвищений вміст трансферину в калі, що може призвести до хибнопозитивного результату аналізу. А діарея може прискорити проходження калу через шлунково-кишковий тракт, що може призвести до того, що еритроцити не встигнуть зруйнуватися і їх компоненти не потраплять у кал. Це призведе до хибного результату.
+                - heading "Інтерпретація результатів" [level=2] [ref=f64e214]
+                - paragraph [ref=f64e215]: Позитивний результат на якісне дослідження калу на трансферин та гемоглобін свідчить про наявність прихованої кровотечі у шлунково-кишковому тракті.
+                - paragraph [ref=f64e216]: Негативний результат на аналіз означає, що прихована кровотеча в шлунково-кишковому тракті відсутня.
+                - heading "Важливі примітки" [level=2] [ref=f64e217]
+                - paragraph [ref=f64e218]: "При отриманні позитивної відповіді калу на скриту кров не варто розцінювати її як остаточний діагноз. Необхідно провести додаткові дослідження для уточнення джерела кровотечі. Але вони повинні бути призначені лікарем. Найчастіше до них відносяться: фіброезофагогастродуоденоскопія (ФЕГДС), колоноскопія та рентгенографія ШКТ з контрастною речовиною. Тільки після комплексного обстеження можна говорити про точний діагноз та призначення лікування."
+          - generic [ref=f64e220]:
+            - link "Facebook" [ref=f64e221] [cursor=pointer]:
+              - /url: https://facebook.com/sharer/sharer.php?u=https://nikolab.com.ua/uk/prices/2771-2/
+            - link "Telegram" [ref=f64e222] [cursor=pointer]:
+              - /url: tg://msg_url?url=https://nikolab.com.ua/uk/prices/2771-2/
+            - link "Viber" [ref=f64e223] [cursor=pointer]:
+              - /url: viber://forward?text=https://nikolab.com.ua/uk/prices/2771-2/
+    - generic [ref=f64e225]:
+      - link "Аналізи та ціни Аналізи та ціни" [ref=f64e226] [cursor=pointer]:
+        - /url: https://nikolab.com.ua/uk/price/
+        - img "Аналізи та ціни" [ref=f64e227]
+        - generic [ref=f64e228]: Аналізи та ціни
+      - link "Де здати аналізи Де здати аналізи" [ref=f64e229] [cursor=pointer]:
+        - /url: https://nikolab.com.ua/uk/contatcs/
+        - img "Де здати аналізи" [ref=f64e230]
+        - generic [ref=f64e231]: Де здати аналізи
+      - link "Замовлення Замовлення (0)" [ref=f64e232] [cursor=pointer]:
+        - /url: https://nikolab.com.ua/uk/uk/cart/
+        - img "Замовлення" [ref=f64e233]
+        - generic [ref=f64e234]: Замовлення (0)
+    - text: ×
+  - contentinfo [ref=f64e235]:
+    - generic [ref=f64e236]:
+      - generic [ref=f64e237]:
+        - generic [ref=f64e238]:
+          - generic [ref=f64e239]: Наші послуги
+          - list [ref=f64e240]:
+            - listitem [ref=f64e241]:
+              - link "Про нас" [ref=f64e242] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/diagnostic-laboratory-nikolab/
+            - listitem [ref=f64e243]:
+              - link "Ліцензії та сертифікати" [ref=f64e244] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/licenzii-i-sertifikaty/
+            - listitem [ref=f64e245]:
+              - link "Відгуки" [ref=f64e246] [cursor=pointer]:
+                - /url: /uk/reviews/
+            - listitem [ref=f64e247]:
+              - link "Мапа сайту" [ref=f64e248] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/mapa-sajtu-2/
+        - generic [ref=f64e249]:
+          - generic [ref=f64e250]: Пацієнту
+          - list [ref=f64e251]:
+            - listitem [ref=f64e252]:
+              - link "Аналізи та ціни" [ref=f64e253] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price/
+            - listitem [ref=f64e254]:
+              - link "Правила підготовки до здачі аналізів" [ref=f64e255] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/pravila-pidgotovki-do-zdachi-analiziv-4/
+            - listitem [ref=f64e256]:
+              - link "Питання, які часто задаються" [ref=f64e257] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/chasto-zadavaemye-voprosy/
+            - listitem [ref=f64e258]:
+              - link "Забір аналізів вдома" [ref=f64e259] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/zabir-analiziv-vdoma-4/
+            - listitem [ref=f64e260]:
+              - link "Де здати аналізи" [ref=f64e261] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/contatcs/
+            - listitem [ref=f64e262]:
+              - link "Політика конфіденційності" [ref=f64e263] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/policy/
+            - listitem [ref=f64e264]:
+              - link "Результати аналізів" [ref=f64e265] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/analysis-results/
+        - generic [ref=f64e266]:
+          - generic [ref=f64e267]: Категорії аналізів
+          - list [ref=f64e268]:
+            - listitem [ref=f64e269]:
+              - link "Загальний аналіз крові" [ref=f64e270] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/prices/1081-2/
+            - listitem [ref=f64e271]:
+              - link "Біохімія аналіз крові" [ref=f64e272] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/prices/1001-26/
+            - listitem [ref=f64e273]:
+              - link "Тимолова проба" [ref=f64e274] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/prices/1047-2/
+            - listitem [ref=f64e275]:
+              - link "Аналіз сечі за Нечипоренком" [ref=f64e276] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/prices/1089-2/
+            - listitem [ref=f64e277]:
+              - link "ТТГ аналіз" [ref=f64e278] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/prices/1207-2/
+            - listitem [ref=f64e279]:
+              - link "Аналізи на гормони щитовидної залози" [ref=f64e280] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/prices/1005-1/
+            - listitem [ref=f64e281]:
+              - link "Аналіз крові на цукор" [ref=f64e282] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/prices/1063-2/
+        - generic [ref=f64e283]:
+          - link "073 620 06 03" [ref=f64e284] [cursor=pointer]:
+            - /url: tel:0736200603
+          - link "info@nikolab.com.ua" [ref=f64e285] [cursor=pointer]:
+            - /url: mailto:info@nikolab.com.ua
+          - generic [ref=f64e286] [cursor=pointer]: Замовити дзвінок
+      - generic [ref=f64e287]:
+        - paragraph [ref=f64e288]: Ми в соцмережах
+        - link [ref=f64e289] [cursor=pointer]:
+          - /url: https://www.facebook.com/nikolab.com.ua/
+          - img "facebook" [ref=f64e290]
+        - link [ref=f64e291] [cursor=pointer]:
+          - /url: https://www.instagram.com/nikolab_laboratory/
+          - img "instagram" [ref=f64e292]
+      - generic [ref=f64e294]:
+        - paragraph [ref=f64e295]: © 2026 Всі права захищені Медична лабораторія Nikolab
+        - img "visa" [ref=f64e296]
+        - img "mastercard" [ref=f64e297]

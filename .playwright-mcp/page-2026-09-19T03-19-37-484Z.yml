@@ -1,0 +1,332 @@
+- generic [active] [ref=f63e1]:
+  - generic [ref=f63e2]:
+    - generic [ref=f63e3]:
+      - navigation [ref=f63e4]:
+        - generic [ref=f63e5]:
+          - generic [ref=f63e6]:
+            - link [ref=f63e7] [cursor=pointer]:
+              - /url: https://nikolab.com.ua/uk/
+              - img "Nikolab Logo" [ref=f63e8]
+            - paragraph [ref=f63e9]:
+              - link "073 620 06 03" [ref=f63e10] [cursor=pointer]:
+                - /url: tel:0736200603
+            - generic [ref=f63e11]:
+              - link "UA" [ref=f63e12] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/prices/1092-2/
+              - link "RU" [ref=f63e13] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/prices/1092-2/
+          - generic [ref=f63e14]:
+            - link [ref=f63e15] [cursor=pointer]:
+              - /url: "#my_menu"
+              - generic [aria-hidden] [ref=f63e16]: 
+            - generic [ref=f63e17]:
+              - link "Аналізи та ціни" [ref=f63e18] [cursor=pointer]:
+                - /url: /uk/price/
+              - link "Результати аналізів" [ref=f63e19] [cursor=pointer]:
+                - /url: /uk/analysis-results/
+        - text: 
+      - generic [ref=f63e22]:
+        - generic [ref=f63e23]:
+          - list [ref=f63e24]:
+            - listitem [ref=f63e25]:
+              - link "Всі аналізи" [ref=f63e26] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price/
+            - listitem [ref=f63e27]:
+              - link "КОРОНАВІРУС SARS-CoV-2 COVID-19" [ref=f63e28] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/sars-cov-2-covid-19/
+            - listitem [ref=f63e29]:
+              - link "ПАКЕТНІ ДОСЛІДЖЕННЯ (ВИГІДНІ КОМПЛЕКСИ ДОСЛІДЖЕНЬ ЗІ ЗНИЖКОЮ)" [ref=f63e30] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/paketnye-programmy-diagnostiki/
+            - listitem [ref=f63e31]:
+              - link "ШВИДКІ ТЕСТИ" [ref=f63e32] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/infekcionnaya-panel-cito-ekspress/
+            - listitem [ref=f63e33]:
+              - link "БІОХІМІЧНІ ДОСЛІДЖЕННЯ КРОВІ" [ref=f63e34] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/bioximicheskie-issledovaniya-krovi/
+            - listitem [ref=f63e35]:
+              - link "ВІТАМІНИ, МІКРОЕЛЕМЕНТИ, ЕЛЕКТРОЛІТИ" [ref=f63e36] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/mikroelementy-i-elektrolity/
+            - listitem [ref=f63e37]:
+              - link "ДІАГНОСТИКА АНЕМІЇ" [ref=f63e38] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/anemiya/
+            - listitem [ref=f63e39]:
+              - link "ЗАГАЛЬНОКЛІНІЧНІ АНАЛІЗИ КРОВІ" [ref=f63e40] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/issledovaniya-krovi/
+            - listitem [ref=f63e41]:
+              - link "АНАЛІЗИ СЕЧІ" [ref=f63e42] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/issledovaniya-mochi/
+            - listitem [ref=f63e43]:
+              - link "АНАЛІЗИ КАЛУ" [ref=f63e44] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/issledovaniya-kala/
+            - listitem [ref=f63e45]:
+              - link "АНАЛІЗИ СПЕРМИ" [ref=f63e46] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/issledovanie-spermy/
+            - listitem [ref=f63e47]:
+              - link "ЗГОРТАННЯ КРОВІ (ГЕМОСТАЗ)" [ref=f63e48] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/issledovaniya-sistemy-gemostaza/
+            - listitem [ref=f63e49]:
+              - link "КАРДІО-РЕВМАТОЇДНІ ДОСЛІДЖЕННЯ" [ref=f63e50] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/kardio-revmatoidnaya-panel/
+            - listitem [ref=f63e51]:
+              - link "ГОРМОНИ ЩИТОПОДІБНОЇ ЗАЛОЗИ (ТИРЕОЇДНА ПАНЕЛЬ)" [ref=f63e52] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/tireoidnaya-panel/
+            - listitem [ref=f63e53]:
+              - link "РЕПРОДУКТИВНА ПАНЕЛЬ" [ref=f63e54] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/reproduktivnaya-panel/
+            - listitem [ref=f63e55]:
+              - link "ПРЕНАТАЛЬНА ДІАГНОСТИКА" [ref=f63e56] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/panel-prenatalnoj-diagnostiki/
+            - listitem [ref=f63e57]:
+              - link "ОНКОМАРКЕРИ" [ref=f63e58] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/onkologicheskie-markery/
+            - listitem [ref=f63e59]:
+              - link "ДІАБЕТИЧНА ПАНЕЛЬ" [ref=f63e60] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/panel-diabeta/
+            - listitem [ref=f63e61]:
+              - link "ГІПОТАЛАМО-ГІПОФІЗАРНІ ПОКАЗНИКИ" [ref=f63e62] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/gipofizarno-nadpochechnikovye-pokazateli/
+            - listitem [ref=f63e63]:
+              - link "ГОРМОНИ НАДНИРНИКІВ" [ref=f63e64] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/hormony-nadnyrnukiv/
+            - listitem [ref=f63e65]:
+              - link "ГЕПАТИТИ" [ref=f63e66] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/markery-virusnyx-gepatitov/
+            - listitem [ref=f63e67]:
+              - link "ВІЛ" [ref=f63e68] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/analizy-na-vich/
+            - listitem [ref=f63e69]:
+              - link "СИФІЛІС" [ref=f63e70] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/analizy-na-sifilis/
+            - listitem [ref=f63e71]:
+              - link "СТАТЕВІ ІНФЕКЦІЇ" [ref=f63e72] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/infekcii/
+            - listitem [ref=f63e73]:
+              - link "TORCH – ІНФЕКЦІЇ" [ref=f63e74] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/torch-infekcii/
+            - listitem [ref=f63e75]:
+              - link "ГЕЛЬМІНТИ ТА ПАРАЗИТИ" [ref=f63e76] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/zabolevaniya-zhkt/
+            - listitem [ref=f63e77]:
+              - link "ТУБЕРКУЛЬОЗ" [ref=f63e78] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/analizy-na-tuberkulez/
+            - listitem [ref=f63e79]:
+              - link "ІНШІ ІНФЕКЦІЇ" [ref=f63e80] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/drugie-infekcii/
+            - listitem [ref=f63e81]:
+              - link "ГЕНЕТИКА" [ref=f63e82] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/geneticheskie-issledovaniya/
+            - listitem [ref=f63e83]:
+              - link "ІМУННИЙ СТАТУС" [ref=f63e84] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/autoimmunnye-zabolevaniya/
+            - listitem [ref=f63e85]:
+              - link "БАКТЕРІОЛОГІЧНІ ДОСЛІДЖЕННЯ (БАК.ПОСІВИ)" [ref=f63e86] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/bakteriologicheskie-issledovaniya/
+            - listitem [ref=f63e87]:
+              - link "ЦИТОЛОГІЧНІ ДОСЛІДЖЕННЯ" [ref=f63e88] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/mikroskopicheskie-issledovaniya/
+            - listitem [ref=f63e89]:
+              - link "АЛЕРГОПАНЕЛЬ" [ref=f63e90] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price_category/allergopanel/
+          - list [ref=f63e91]:
+            - listitem [ref=f63e92]:
+              - link "Забір аналізів вдома" [ref=f63e93] [cursor=pointer]:
+                - /url: /uk/zabir-analiziv-vdoma-4
+            - listitem [ref=f63e95]:
+              - link "Залишились питання?" [ref=f63e96] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f63e98]:
+              - link "Правила підготовки до здачі аналізів" [ref=f63e99] [cursor=pointer]:
+                - /url: /uk/preparation-for-passing-tests
+            - listitem [ref=f63e101]:
+              - link "Де здати аналізи" [ref=f63e102] [cursor=pointer]:
+                - /url: /uk/contatcs
+        - generic [ref=f63e104]:
+          - generic [ref=f63e105]:
+            - generic [ref=f63e106]:
+              - listitem [ref=f63e107]:
+                - link "Nikolab" [ref=f63e108] [cursor=pointer]:
+                  - /url: https://nikolab.com.ua/uk/
+              - listitem [ref=f63e109]:
+                - text: /
+                - link "Всі аналізи" [ref=f63e110] [cursor=pointer]:
+                  - /url: https://nikolab.com.ua/uk/price/
+              - listitem [ref=f63e111]:
+                - text: /
+                - link "АНАЛІЗИ КАЛУ" [ref=f63e112] [cursor=pointer]:
+                  - /url: https://nikolab.com.ua/uk/price_category/issledovaniya-kala/
+              - listitem [ref=f63e113]:
+                - text: /
+                - paragraph [ref=f63e115]: Кал на приховану кров (Fecal occult blood test, FOBT)
+            - textbox "Пошук аналізів" [ref=f63e119]
+            - heading [level=1] [ref=f63e120]:
+              - paragraph [ref=f63e121]: Кал на приховану кров (Fecal occult blood test, FOBT)
+            - generic [ref=f63e122]:
+              - generic [ref=f63e123]:
+                - button "⚠️ УВАГА! Забір даного матеріалу у відділенні не проводиться. Матеріал необхідно підготувати самостійно та доставити до лабораторії відповідно до вимог підготовки. ⚠️ УВАГА! При оформленні замовлення вказуйте дані особи, якій належить матеріал для дослідження. Приносний матеріал має відповідати даним клієнта, зазначеним в онлайн-замовленні." [ref=f63e125] [cursor=pointer]: ⚠️
+                - generic [ref=f63e126]:
+                  - paragraph [ref=f63e128]: "1092"
+                  - paragraph [ref=f63e130]: Кал на приховану кров (Fecal occult blood test, FOBT)
+                  - paragraph [ref=f63e132]: 270,00 грн.
+                  - paragraph [ref=f63e134]: 1 дн.
+                  - button [ref=f63e136] [cursor=pointer]:
+                    - img "+" [ref=f63e137]
+              - list [ref=f63e139]:
+                - listitem [ref=f63e140]:
+                  - generic [ref=f63e141]: Матеріал для дослідження
+                  - generic [ref=f63e142]: Кал
+                - listitem [ref=f63e143]:
+                  - generic [ref=f63e144]: Правила підготовки
+                  - link "Детальніше тут" [ref=f63e145] [cursor=pointer]:
+                    - /url: https://nikolab.com.ua/uk/preparation-for-passing-tests/
+                - listitem [ref=f63e146]:
+                  - generic [ref=f63e147]: Референтні значення
+                  - paragraph [ref=f63e149]: негативний
+              - generic [ref=f63e150]:
+                - heading "Аналіз калу на приховану кров" [level=2] [ref=f63e151]
+                - paragraph [ref=f63e152]: Хвороби системи травлення – поширена проблема, першим кроком в боротьбі з якими є правильна та точна діагностика. Аналіз калу на приховану кров – надійний метод діагностики, що дозволяє виявляти ерозивно-виразкові та інші патологічні процеси в органах ШКТ, а також рак товстого кишечника або прямої кишки.
+                - paragraph [ref=f63e153]: Як стає ясно безпосередньо з назви, прихована кров – це присутність крові в калових масах, яку неможливо виявити візуально, в тому числі при мікроскопічному дослідженні калу. Наявність у калі такої крові характерна для прихованих, мізерних внутрішніх кровотеч у нижніх відділах шлунково-кишкового тракту, порушення цілісності слизової органів травлення. Такі стани можуть тривалий час протікати без виражених симптомів. Аналіз калу на приховану кров дозволяє виявити на ранній стадії низку небезпечних захворювань.
+                - paragraph [ref=f63e154]: Одна з найбільш поширених методик аналізу калу на приховану кров – реакція Грегерсена, вона ж бензидинова проба. Це біохімічне дослідження, засноване на забарвленні реактиву при взаємодії з гемоглобіном крові, навіть якщо в зразку останній міститься в мінімальній концентрації.
+                - heading "В яких випадках призначається аналіз калу на приховану кров" [level=2] [ref=f63e155]
+                - paragraph [ref=f63e156]: "наліз калу на приховану кров найчастіше призначають гастроентеролог, онколог, терапевт, хірург. Аналіз калу на приховану кров – важливий інструмент скринінгу раку товстої та прямої кишки (колоректального) у пацієнтів з групи ризику. До факторів ризику належать:"
+                - list [ref=f63e157]:
+                  - listitem [ref=f63e158]: хвороба Крона, неспецифічний виразковий коліт (НВК), діагностовані 10 і більше років тому;
+                  - listitem [ref=f63e159]: онкологічні захворювання кишечника в сімейному анамнезі;
+                  - listitem [ref=f63e160]: вік старше 50 років.
+                - paragraph [ref=f63e161]: "Також аналіз калу на приховану кров проводиться при низці захворювань шлунково-кишкового тракту, які супроводжуються порушенням цілісності слизової (виразкова хвороба, пухлини різних відділів, поліпи, туберкульоз кишечника, глистяні інвазії, неспецифічний виразковий коліт тощо):"
+                - list [ref=f63e162]:
+                  - listitem [ref=f63e163]: для первинної діагностики;
+                  - listitem [ref=f63e164]: для оцінки ступеня пошкодження слизової, тяжкості захворювання, діагностованого іншими методами;
+                  - listitem [ref=f63e165]: для оцінки ефективності терапії.
+                - paragraph [ref=f63e166]: "Основні показання до призначення аналізу калу на приховану кров (реакції Грегерсена):"
+                - list [ref=f63e167]:
+                  - listitem [ref=f63e168]: болі в животі, нудота, блювота, печія;
+                  - listitem [ref=f63e169]: порушення дефекації – закрепи, кашкоподібні випорожнення, хибні позиви;
+                  - listitem [ref=f63e170]: втрата апетиту, ваги, тривале підвищення температури.
+                - heading "Що означають результати аналізу калу на приховану кров" [level=2] [ref=f63e171]
+                - paragraph [ref=f63e172]: "Негативний результат аналізу калу на приховану кров не має діагностичного значення. Позитивна реакція Грегерсена може вказувати на:"
+                - list [ref=f63e173]:
+                  - listitem [ref=f63e174]: колоректальний рак;
+                  - listitem [ref=f63e175]: пухлини різних відділів травного тракту, як первинні, так і метастатичні;
+                  - listitem [ref=f63e176]: виразкову хворобу;
+                  - listitem [ref=f63e177]: НВК;
+                  - listitem [ref=f63e178]: ерозивний езофагіт (запалення слизової стравоходу);
+                  - listitem [ref=f63e179]: захворювання, які супроводжуються розширенням вен стравоходу;
+                  - listitem [ref=f63e180]: механічне травмування стінок кишечника гельмінтами;
+                  - listitem [ref=f63e181]: туберкульоз кишечника;
+                  - listitem [ref=f63e182]: геморой.
+                - paragraph [ref=f63e183]: Крім різних патологій стравоходу, шлунка, кишечника позитивний результат аналізу калу на приховану кров може бути пов'язаний з носовою кровотечею, кровоточивістю ясен і іншими стоматологічними проблемами. Хибнопозитивний результат можливий внаслідок порушення правил підготовки до аналізу калу на приховану кров, вживання низки медикаментів і продуктів харчування.
+                - heading "Що слід знати, готуючись до аналізу калу на приховану кров" [level=2] [ref=f63e184]
+                - paragraph [ref=f63e185]: "Для отримання достовірних результатів аналізу калу на приховану кров необхідно дотримуватися кількох правил:"
+                - list [ref=f63e186]:
+                  - listitem [ref=f63e187]: за 3 доби до здачі аналізу калу на приховану кров не приймайте ліків, що містять вісмут і залізо, також відмовтеся від проносних, препаратів, які впливають не перистальтику кишечника, нестероїдних протизапальних, аскорбінової кислоти;
+                  - listitem [ref=f63e188]: протягом цього ж періоду не робіть клізми, не використовуйте ректальні супозиторії;
+                  - listitem [ref=f63e189]: за 3 дні до дати, на яку призначений аналіз калу на приховану кров, виключіть зі свого меню м'ясо, печінку й абсолютно всі продукти, в складі яких є залізо (деякі з них – це яблука, перець, шпинат, квасоля, цибуля);
+                  - listitem [ref=f63e190]: якщо вам призначена інструментальна діагностика шлунково-кишкового тракту, аналіз калу на приховану кров повинен передувати її проведенню;
+                  - listitem [ref=f63e191]: зберіть матеріал в чистий контейнер і доставте в лабораторію.
+                - heading "Переваги проведення аналізу калу на приховану кров в лабораторії NIKOLAB" [level=2] [ref=f63e192]
+                - paragraph [ref=f63e193]: Головною метою медичної лабораторії NIKOLAB у місті Київ є допомога пацієнту в питаннях діагностики захворювань. Для проведення аналізу калу на приховану кров (проби Грегерсена) використовуються сертифіковані реактиви від провідних постачальників. Звертаючись до фахівців лабораторії, Ви отримуєте якісний сервіс за доступними цінами, який стане вашою надійною підтримкою на шляху до одужання. Результати аналізу калу на приховану кров можна отримати вже через день після здачі матеріалу для дослідження.
+          - generic [ref=f63e195]:
+            - link "Facebook" [ref=f63e196] [cursor=pointer]:
+              - /url: https://facebook.com/sharer/sharer.php?u=https://nikolab.com.ua/uk/prices/1092-2/
+            - link "Telegram" [ref=f63e197] [cursor=pointer]:
+              - /url: tg://msg_url?url=https://nikolab.com.ua/uk/prices/1092-2/
+            - link "Viber" [ref=f63e198] [cursor=pointer]:
+              - /url: viber://forward?text=https://nikolab.com.ua/uk/prices/1092-2/
+    - generic [ref=f63e200]:
+      - link "Аналізи та ціни Аналізи та ціни" [ref=f63e201] [cursor=pointer]:
+        - /url: https://nikolab.com.ua/uk/price/
+        - img "Аналізи та ціни" [ref=f63e202]
+        - generic [ref=f63e203]: Аналізи та ціни
+      - link "Де здати аналізи Де здати аналізи" [ref=f63e204] [cursor=pointer]:
+        - /url: https://nikolab.com.ua/uk/contatcs/
+        - img "Де здати аналізи" [ref=f63e205]
+        - generic [ref=f63e206]: Де здати аналізи
+      - link "Замовлення Замовлення (0)" [ref=f63e207] [cursor=pointer]:
+        - /url: https://nikolab.com.ua/uk/uk/cart/
+        - img "Замовлення" [ref=f63e208]
+        - generic [ref=f63e209]: Замовлення (0)
+    - text: ×
+  - contentinfo [ref=f63e210]:
+    - generic [ref=f63e211]:
+      - generic [ref=f63e212]:
+        - generic [ref=f63e213]:
+          - generic [ref=f63e214]: Наші послуги
+          - list [ref=f63e215]:
+            - listitem [ref=f63e216]:
+              - link "Про нас" [ref=f63e217] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/diagnostic-laboratory-nikolab/
+            - listitem [ref=f63e218]:
+              - link "Ліцензії та сертифікати" [ref=f63e219] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/licenzii-i-sertifikaty/
+            - listitem [ref=f63e220]:
+              - link "Відгуки" [ref=f63e221] [cursor=pointer]:
+                - /url: /uk/reviews/
+            - listitem [ref=f63e222]:
+              - link "Мапа сайту" [ref=f63e223] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/mapa-sajtu-2/
+        - generic [ref=f63e224]:
+          - generic [ref=f63e225]: Пацієнту
+          - list [ref=f63e226]:
+            - listitem [ref=f63e227]:
+              - link "Аналізи та ціни" [ref=f63e228] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/price/
+            - listitem [ref=f63e229]:
+              - link "Правила підготовки до здачі аналізів" [ref=f63e230] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/pravila-pidgotovki-do-zdachi-analiziv-4/
+            - listitem [ref=f63e231]:
+              - link "Питання, які часто задаються" [ref=f63e232] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/chasto-zadavaemye-voprosy/
+            - listitem [ref=f63e233]:
+              - link "Забір аналізів вдома" [ref=f63e234] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/zabir-analiziv-vdoma-4/
+            - listitem [ref=f63e235]:
+              - link "Де здати аналізи" [ref=f63e236] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/contatcs/
+            - listitem [ref=f63e237]:
+              - link "Політика конфіденційності" [ref=f63e238] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/policy/
+            - listitem [ref=f63e239]:
+              - link "Результати аналізів" [ref=f63e240] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/analysis-results/
+        - generic [ref=f63e241]:
+          - generic [ref=f63e242]: Категорії аналізів
+          - list [ref=f63e243]:
+            - listitem [ref=f63e244]:
+              - link "Загальний аналіз крові" [ref=f63e245] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/prices/1081-2/
+            - listitem [ref=f63e246]:
+              - link "Біохімія аналіз крові" [ref=f63e247] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/prices/1001-26/
+            - listitem [ref=f63e248]:
+              - link "Тимолова проба" [ref=f63e249] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/prices/1047-2/
+            - listitem [ref=f63e250]:
+              - link "Аналіз сечі за Нечипоренком" [ref=f63e251] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/prices/1089-2/
+            - listitem [ref=f63e252]:
+              - link "ТТГ аналіз" [ref=f63e253] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/prices/1207-2/
+            - listitem [ref=f63e254]:
+              - link "Аналізи на гормони щитовидної залози" [ref=f63e255] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/prices/1005-1/
+            - listitem [ref=f63e256]:
+              - link "Аналіз крові на цукор" [ref=f63e257] [cursor=pointer]:
+                - /url: https://nikolab.com.ua/uk/prices/1063-2/
+        - generic [ref=f63e258]:
+          - link "073 620 06 03" [ref=f63e259] [cursor=pointer]:
+            - /url: tel:0736200603
+          - link "info@nikolab.com.ua" [ref=f63e260] [cursor=pointer]:
+            - /url: mailto:info@nikolab.com.ua
+          - generic [ref=f63e261] [cursor=pointer]: Замовити дзвінок
+      - generic [ref=f63e262]:
+        - paragraph [ref=f63e263]: Ми в соцмережах
+        - link [ref=f63e264] [cursor=pointer]:
+          - /url: https://www.facebook.com/nikolab.com.ua/
+          - img "facebook" [ref=f63e265]
+        - link [ref=f63e266] [cursor=pointer]:
+          - /url: https://www.instagram.com/nikolab_laboratory/
+          - img "instagram" [ref=f63e267]
+      - generic [ref=f63e269]:
+        - paragraph [ref=f63e270]: © 2026 Всі права захищені Медична лабораторія Nikolab
+        - img "visa" [ref=f63e271]
+        - img "mastercard" [ref=f63e272]

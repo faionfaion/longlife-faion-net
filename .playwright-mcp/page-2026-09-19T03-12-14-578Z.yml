@@ -1,0 +1,155 @@
+- generic [ref=e4]:
+  - banner [ref=e5]:
+    - link "Головна" [ref=e7] [cursor=pointer]:
+      - /url: /
+    - button "Меню" [ref=e12] [cursor=pointer]
+  - main [ref=e15]:
+    - generic [ref=e18]:
+      - navigation "Навігаційний ланцюжок" [ref=e19]:
+        - list [ref=e20]:
+          - listitem [ref=e21]:
+            - link "Національна служба здоров’я України" [ref=e22] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e23]:
+            - text: "|"
+            - link "Громадянам" [ref=e24] [cursor=pointer]:
+              - /url: /gromadianam
+          - listitem [ref=e25]:
+            - text: "|"
+            - link "Безоплатні послуги в Програмі медичних гарантій 2026" [ref=e26] [cursor=pointer]:
+              - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1
+          - listitem [ref=e27]:
+            - text: "|"
+            - link "Амбулаторні послуги" [ref=e28] [cursor=pointer]:
+              - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/ambulatorni-poslugi-1
+          - listitem [ref=e29]:
+            - text: "|"
+            - link "КОЛОНОСКОПІЯ" [ref=e30] [cursor=pointer]:
+              - /url: javascript:void(0)
+      - heading "КОЛОНОСКОПІЯ" [level=1] [ref=e31]
+    - generic [ref=e33]:
+      - paragraph [ref=e34]: КОЛОНОСКОПІЯ
+      - paragraph [ref=e35]:
+        - strong [ref=e36]: Обсяг медичних послуг, який надавач зобов’язується надавати за договором відповідно до медичних потреб пацієнта/пацієнтки (специфікація)
+      - list [ref=e37]:
+        - listitem [ref=e38]:
+          - paragraph [ref=e39]: Консультація пацієнта/пацієнтки лікарем перед дослідженням з метою виявлення протипоказань або важливих аспектів для забезпечення проведення дослідження, а також аналіз проведених раніше досліджень (за наявності).
+        - listitem [ref=e40]:
+          - paragraph [ref=e41]: Консультація пацієнта/пацієнтки лікарем-анестезіологом перед анестезіологічним забезпеченням з метою виявлення протипоказань або інших важливих аспектів щодо гарантування безпеки пацієнта/пацієнтки.
+        - listitem [ref=e42]:
+          - paragraph [ref=e43]:
+            - text: Діагностична колоноскопія для візуального огляду товстої кишки і термінального відділу тонкої кишки (при технічній можливості) без проведення ендоскопічних маніпуляцій
+            - strong [ref=e44]: один раз на два роки, пацієнтам із групи ризику - щороку
+            - text: .
+        - listitem [ref=e45]:
+          - paragraph [ref=e46]: Колоноскопія для візуального огляду товстої кишки і термінального відділу тонкої кишки (при технічній можливості) з ендоскопічною маніпуляцією (зокрема, взяттям матеріалу для гістологічного дослідження) та/або ендоскопічною операцією.
+        - listitem [ref=e47]:
+          - paragraph [ref=e48]: Виконання хромоколоноскопії (розчином індигокарміну, оцтової кислоти тощо) та/або віртуальної хромоендоскопії за допомогою спеціалізованого програмного забезпечення, для діагностики поверхневих утворень і раннього раку.
+        - listitem [ref=e49]:
+          - paragraph [ref=e50]: Забезпечення місцевої або загальної анестезії.
+        - listitem [ref=e51]:
+          - paragraph [ref=e52]: Забір та направлення біологічного матеріалу, взятого під час проведення процедури, для проведення гістологічного дослідження.
+        - listitem [ref=e53]:
+          - paragraph [ref=e54]: Оформлення заключення та протоколу ендоскопічного втручання одразу після його проведення у повному обсязі з використанням стандартної термінології та класифікацій.
+        - listitem [ref=e55]:
+          - paragraph [ref=e56]: Надання невідкладної медичної допомоги пацієнту/пацієнтці, а також виклик бригади екстреної (швидкої) медичної допомоги за потреби та надання невідкладної медичної допомоги до її прибуття.
+        - listitem [ref=e57]:
+          - paragraph [ref=e58]: Направлення пацієнта/пацієнтки для отримання спеціалізованої медичної допомоги, інших медичних послуг.
+        - listitem [ref=e59]:
+          - paragraph [ref=e60]: Запис результатів обстеження (фото/відеофіксація) на цифровий носій пацієнта/пацієнтки (за бажанням).
+      - paragraph [ref=e61]:
+        - strong [ref=e62]: Умови закупівлі медичних послуг
+      - paragraph [ref=e63]: "Умови надання послуги: амбулаторно"
+      - paragraph [ref=e64]: "Підстави надання послуги:"
+      - paragraph [ref=e65]:
+        - text: ● направлення лікаря з надання ПМД, якого обрано за декларацією про вибір лікаря або направлення лікуючого лікаря-спеціаліста та вік пацієнта/пацієнтки –
+        - strong [ref=e66]: від 45 років і старше або належність пацієнта/пацієнтки до групи ризику.
+  - contentinfo [ref=e67]:
+    - generic [ref=e68]:
+      - navigation "Підвал сайту" [ref=e69]:
+        - generic [ref=e70]:
+          - link "Про НСЗУ" [ref=e72] [cursor=pointer]:
+            - /url: /pro-nzsu
+          - generic [ref=e73]:
+            - link "Для ЗМІ" [ref=e74] [cursor=pointer]:
+              - /url: /pro-nzsu/dlia-zmi
+            - link "Контрактування" [ref=e75] [cursor=pointer]:
+              - /url: /nadavacam-poslug/kontaktuvannia-ta-vimogi-pmg-1
+            - link "Нормативно-правові акти" [ref=e76] [cursor=pointer]:
+              - /url: /pro-nzsu/normativno-pravovi-akti
+            - link "Вакансії та стажування" [ref=e77] [cursor=pointer]:
+              - /url: /pro-nzsu/vakansiyi-ta-stazuvannia
+            - link "Для партнерів" [ref=e78] [cursor=pointer]:
+              - /url: /pro-nzsu/projekti-i-partneri?tab=2
+            - link "Роз’яснювальна робота" [ref=e79] [cursor=pointer]:
+              - /url: /arxiv-dokumentiv?groups%5B3%5D%5Battributes%5D%5B%5D=29
+        - generic [ref=e80]:
+          - link "Громадянам та громадянкам" [ref=e82] [cursor=pointer]:
+            - /url: /gromadianam
+          - generic [ref=e83]:
+            - link "Онлайн сервіси ЕСОЗ" [ref=e84] [cursor=pointer]:
+              - /url: /nszu-cifrova/onlain-servisi-elektronnoyi-sistemi-oxoroni-zdorov
+            - link "Програма медичних гарантій" [ref=e85] [cursor=pointer]:
+              - /url: /gromadianam/programa-medicnix-garantii
+            - link "Безоплатна правова допомога" [ref=e86] [cursor=pointer]:
+              - /url: /gromadianam/bezoplatna-pravova-dopomoga
+            - link "Медична реформа" [ref=e87] [cursor=pointer]:
+              - /url: /gromadianam/medreforma-i-rol-nszu-v-nii
+            - link "Консультації з громадскістю" [ref=e88] [cursor=pointer]:
+              - /url: /gromadianam/konsultaciyi-z-gromadkistiu
+            - link "Звернення громадян" [ref=e89] [cursor=pointer]:
+              - /url: /gromadianam/onlain-formi
+            - link "Доступні ліки та інсуліни" [ref=e90] [cursor=pointer]:
+              - /url: /gromadianam/dostupni-liki-ta-insulini
+        - generic [ref=e91]:
+          - link "Надавачам медичних послуг" [ref=e93] [cursor=pointer]:
+            - /url: /nadavacam-poslug
+          - generic [ref=e94]:
+            - link "Контрактування і вимоги ПМГ" [ref=e95] [cursor=pointer]:
+              - /url: /nadavacam-poslug/kontaktuvannia-ta-vimogi-pmg-1
+            - link "Про укладення договорів" [ref=e96] [cursor=pointer]:
+              - /url: /nadavacam-poslug/ukladeni-dogovori-1
+            - link "Інформаційні матеріали для ЗОЗ" [ref=e97] [cursor=pointer]:
+              - /url: /nadavacam-poslug/informaciini-materiali-dlia-rozmishhennia-u-zoz
+            - link "Доступні ліки та інсуліни" [ref=e98] [cursor=pointer]:
+              - /url: /gromadianam/dostupni-liki-ta-insulini
+            - link "FAQ" [ref=e99] [cursor=pointer]:
+              - /url: /nadavacam-poslug/pitannia-ta-vidpovidi-1
+        - generic [ref=e100]:
+          - link "Партнерам" [ref=e102] [cursor=pointer]:
+            - /url: /pro-nzsu/projekti-i-partneri
+          - generic [ref=e103]:
+            - link "Проекти" [ref=e104] [cursor=pointer]:
+              - /url: /pro-nzsu/projekti-i-partneri?tab=2
+            - link "Документи пов’язані з проектом" [ref=e105] [cursor=pointer]:
+              - /url: /arxiv-dokumentiv?groups%5B2%5D%5Battributes%5D%5B%5D=32
+      - generic [ref=e106]:
+        - navigation "Додаткові посилання" [ref=e107]:
+          - list [ref=e108]:
+            - listitem [ref=e109]:
+              - link "Новини" [ref=e110] [cursor=pointer]:
+                - /url: /news
+            - listitem [ref=e111]:
+              - link "Каталог документів" [ref=e112] [cursor=pointer]:
+                - /url: /arxiv-dokumentiv
+            - listitem [ref=e113]:
+              - link "Відкриті дані" [ref=e114] [cursor=pointer]:
+                - /url: /nszu-cifrova/vidkriti-dani-1
+            - listitem [ref=e115]:
+              - link "Контакти" [ref=e116] [cursor=pointer]:
+                - /url: /kontakti
+        - generic [ref=e117]:
+          - paragraph [ref=e118]: "Слідкуй за нами тут:"
+          - generic [ref=e119]:
+            - link "facebook" [ref=e120] [cursor=pointer]:
+              - /url: https://www.facebook.com/nszu.ukr/
+            - link "youtube" [ref=e123] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCWEiuvYhi7CByHLjihqn0mw
+            - link "telegram" [ref=e126] [cursor=pointer]:
+              - /url: https://t.me/NSZU_gov
+      - generic [ref=e129]:
+        - paragraph [ref=e135]: nszu.gov.ua 2026. Весь контент доступний за ліцензією Creative CommonsAttribution 4.0 International license, якщо не зазначено інше.
+        - generic [ref=e136]:
+          - link "Розроблено CF Digital" [ref=e137] [cursor=pointer]:
+            - /url: https://cf.digital
+          - paragraph [ref=e140]: Сайт розроблено за сприяння проекту HealthLink, БО «100% Життя» за підтримки USAID.

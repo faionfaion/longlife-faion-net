@@ -1,0 +1,137 @@
+- generic [ref=f3e4]:
+  - banner [ref=f3e5]:
+    - link "Головна" [ref=f3e7] [cursor=pointer]:
+      - /url: /
+    - button "Меню" [ref=f3e12] [cursor=pointer]
+  - main [ref=f3e15]:
+    - generic [ref=f3e18]:
+      - navigation "Навігаційний ланцюжок" [ref=f3e19]:
+        - list [ref=f3e20]:
+          - listitem [ref=f3e21]:
+            - link "Національна служба здоров’я України" [ref=f3e22] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f3e23]:
+            - text: "|"
+            - link "Громадянам" [ref=f3e24] [cursor=pointer]:
+              - /url: /gromadianam
+          - listitem [ref=f3e25]:
+            - text: "|"
+            - link "Безоплатні послуги в Програмі медичних гарантій 2026" [ref=f3e26] [cursor=pointer]:
+              - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1
+          - listitem [ref=f3e27]:
+            - text: "|"
+            - link "Амбулаторні послуги" [ref=f3e28] [cursor=pointer]:
+              - /url: javascript:void(0)
+      - heading "Амбулаторні послуги" [level=1] [ref=f3e29]
+    - generic [ref=f3e31]:
+      - link "Ведення вагітності в амбулаторних умовах" [ref=f3e33] [cursor=pointer]:
+        - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/ambulatorni-poslugi-1/vedennia-vagitnosti-v-ambulatornix-umovax
+      - link "Профілактика, діагностика, спостереження та лікування в амбулаторних умовах" [ref=f3e37] [cursor=pointer]:
+        - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/ambulatorni-poslugi-1/profilaktika-diagnostika-sposterezennia-ta-likuva
+      - link "Стоматологічна допомога дорослим та дітям" [ref=f3e41] [cursor=pointer]:
+        - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/ambulatorni-poslugi-1/stomatologicna-dopomoga-doroslim-ta-ditiam
+      - link "Бронхоскопія" [ref=f3e45] [cursor=pointer]:
+        - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/ambulatorni-poslugi-1/bronxoskopiia
+      - link "Гістероскопія" [ref=f3e49] [cursor=pointer]:
+        - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/ambulatorni-poslugi-1/gisteroskopiia
+      - link "Езофагогастродуоденоскопія" [ref=f3e53] [cursor=pointer]:
+        - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/ambulatorni-poslugi-1/ezofagogastroduodenoskopiia
+      - link "Колоноскопія" [ref=f3e57] [cursor=pointer]:
+        - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/ambulatorni-poslugi-1/kolonoskopiia
+      - link "Лікування пацієнтів методом гемодіалізу в амбулаторних умовах" [ref=f3e61] [cursor=pointer]:
+        - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/ambulatorni-poslugi-1/likuvannia-pacijentiv-metodom-gemodializu-v-ambulato
+      - link "Лікування пацієнтів методом перитонеального діалізу в амбулаторних умовах" [ref=f3e65] [cursor=pointer]:
+        - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/ambulatorni-poslugi-1/likuvannia-pacijentiv-metodom-peritonealnogo-dializ
+      - link "Мамографія" [ref=f3e69] [cursor=pointer]:
+        - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/ambulatorni-poslugi-1/mamografiia
+      - link "Цистоскопія" [ref=f3e73] [cursor=pointer]:
+        - /url: /gromadianam/bezoplatni-poslugi-v-programi-medicnix-garantii-20-1/ambulatorni-poslugi-1/cistoskopiia
+  - contentinfo [ref=f3e76]:
+    - generic [ref=f3e77]:
+      - navigation "Підвал сайту" [ref=f3e78]:
+        - generic [ref=f3e79]:
+          - link "Про НСЗУ" [ref=f3e81] [cursor=pointer]:
+            - /url: /pro-nzsu
+          - generic [ref=f3e82]:
+            - link "Для ЗМІ" [ref=f3e83] [cursor=pointer]:
+              - /url: /pro-nzsu/dlia-zmi
+            - link "Контрактування" [ref=f3e84] [cursor=pointer]:
+              - /url: /nadavacam-poslug/kontaktuvannia-ta-vimogi-pmg-1
+            - link "Нормативно-правові акти" [ref=f3e85] [cursor=pointer]:
+              - /url: /pro-nzsu/normativno-pravovi-akti
+            - link "Вакансії та стажування" [ref=f3e86] [cursor=pointer]:
+              - /url: /pro-nzsu/vakansiyi-ta-stazuvannia
+            - link "Для партнерів" [ref=f3e87] [cursor=pointer]:
+              - /url: /pro-nzsu/projekti-i-partneri?tab=2
+            - link "Роз’яснювальна робота" [ref=f3e88] [cursor=pointer]:
+              - /url: /arxiv-dokumentiv?groups%5B3%5D%5Battributes%5D%5B%5D=29
+        - generic [ref=f3e89]:
+          - link "Громадянам та громадянкам" [ref=f3e91] [cursor=pointer]:
+            - /url: /gromadianam
+          - generic [ref=f3e92]:
+            - link "Онлайн сервіси ЕСОЗ" [ref=f3e93] [cursor=pointer]:
+              - /url: /nszu-cifrova/onlain-servisi-elektronnoyi-sistemi-oxoroni-zdorov
+            - link "Програма медичних гарантій" [ref=f3e94] [cursor=pointer]:
+              - /url: /gromadianam/programa-medicnix-garantii
+            - link "Безоплатна правова допомога" [ref=f3e95] [cursor=pointer]:
+              - /url: /gromadianam/bezoplatna-pravova-dopomoga
+            - link "Медична реформа" [ref=f3e96] [cursor=pointer]:
+              - /url: /gromadianam/medreforma-i-rol-nszu-v-nii
+            - link "Консультації з громадскістю" [ref=f3e97] [cursor=pointer]:
+              - /url: /gromadianam/konsultaciyi-z-gromadkistiu
+            - link "Звернення громадян" [ref=f3e98] [cursor=pointer]:
+              - /url: /gromadianam/onlain-formi
+            - link "Доступні ліки та інсуліни" [ref=f3e99] [cursor=pointer]:
+              - /url: /gromadianam/dostupni-liki-ta-insulini
+        - generic [ref=f3e100]:
+          - link "Надавачам медичних послуг" [ref=f3e102] [cursor=pointer]:
+            - /url: /nadavacam-poslug
+          - generic [ref=f3e103]:
+            - link "Контрактування і вимоги ПМГ" [ref=f3e104] [cursor=pointer]:
+              - /url: /nadavacam-poslug/kontaktuvannia-ta-vimogi-pmg-1
+            - link "Про укладення договорів" [ref=f3e105] [cursor=pointer]:
+              - /url: /nadavacam-poslug/ukladeni-dogovori-1
+            - link "Інформаційні матеріали для ЗОЗ" [ref=f3e106] [cursor=pointer]:
+              - /url: /nadavacam-poslug/informaciini-materiali-dlia-rozmishhennia-u-zoz
+            - link "Доступні ліки та інсуліни" [ref=f3e107] [cursor=pointer]:
+              - /url: /gromadianam/dostupni-liki-ta-insulini
+            - link "FAQ" [ref=f3e108] [cursor=pointer]:
+              - /url: /nadavacam-poslug/pitannia-ta-vidpovidi-1
+        - generic [ref=f3e109]:
+          - link "Партнерам" [ref=f3e111] [cursor=pointer]:
+            - /url: /pro-nzsu/projekti-i-partneri
+          - generic [ref=f3e112]:
+            - link "Проекти" [ref=f3e113] [cursor=pointer]:
+              - /url: /pro-nzsu/projekti-i-partneri?tab=2
+            - link "Документи пов’язані з проектом" [ref=f3e114] [cursor=pointer]:
+              - /url: /arxiv-dokumentiv?groups%5B2%5D%5Battributes%5D%5B%5D=32
+      - generic [ref=f3e115]:
+        - navigation "Додаткові посилання" [ref=f3e116]:
+          - list [ref=f3e117]:
+            - listitem [ref=f3e118]:
+              - link "Новини" [ref=f3e119] [cursor=pointer]:
+                - /url: /news
+            - listitem [ref=f3e120]:
+              - link "Каталог документів" [ref=f3e121] [cursor=pointer]:
+                - /url: /arxiv-dokumentiv
+            - listitem [ref=f3e122]:
+              - link "Відкриті дані" [ref=f3e123] [cursor=pointer]:
+                - /url: /nszu-cifrova/vidkriti-dani-1
+            - listitem [ref=f3e124]:
+              - link "Контакти" [ref=f3e125] [cursor=pointer]:
+                - /url: /kontakti
+        - generic [ref=f3e126]:
+          - paragraph [ref=f3e127]: "Слідкуй за нами тут:"
+          - generic [ref=f3e128]:
+            - link "facebook" [ref=f3e129] [cursor=pointer]:
+              - /url: https://www.facebook.com/nszu.ukr/
+            - link "youtube" [ref=f3e132] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCWEiuvYhi7CByHLjihqn0mw
+            - link "telegram" [ref=f3e135] [cursor=pointer]:
+              - /url: https://t.me/NSZU_gov
+      - generic [ref=f3e138]:
+        - paragraph [ref=f3e144]: nszu.gov.ua 2026. Весь контент доступний за ліцензією Creative CommonsAttribution 4.0 International license, якщо не зазначено інше.
+        - generic [ref=f3e145]:
+          - link "Розроблено CF Digital" [ref=f3e146] [cursor=pointer]:
+            - /url: https://cf.digital
+          - paragraph [ref=f3e149]: Сайт розроблено за сприяння проекту HealthLink, БО «100% Життя» за підтримки USAID.

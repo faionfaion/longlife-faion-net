@@ -1,0 +1,22 @@
+- generic [active] [ref=f8e1]:
+  - main [ref=f8e2]:
+    - generic [ref=f8e3]:
+      - generic [ref=f8e4]:
+        - img "Icon for dila.ua" [ref=f8e5]
+        - heading "dila.ua" [level=1] [ref=f8e6]
+      - heading "Performing security verification" [level=2] [ref=f8e7]
+      - paragraph [ref=f8e8]: This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.
+  - contentinfo [ref=f8e15]:
+    - generic [ref=f8e17]:
+      - generic [ref=f8e19]:
+        - text: "Ray ID:"
+        - code [ref=f8e20]: a3d569d97bf3d15d
+      - generic [ref=f8e21]:
+        - generic [ref=f8e22]:
+          - text: Performance and Security by
+          - link "Cloudflare, opens in a new tab" [ref=f8e23] [cursor=pointer]:
+            - /url: https://www.cloudflare.com?utm_source=challenge&utm_campaign=m
+            - text: Cloudflare
+        - link "Privacy, opens in a new tab" [ref=f8e25] [cursor=pointer]:
+          - /url: https://www.cloudflare.com/privacypolicy/
+          - text: Privacy
