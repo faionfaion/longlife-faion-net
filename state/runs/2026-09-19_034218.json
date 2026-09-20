@@ -1,0 +1,80 @@
+{
+  "timestamp": "2026-09-19_034218",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "fit-test-prykhovana-krov-skryninh-raku-kyshkivnyka-ukraina",
+  "author": "Віта",
+  "duration_s": 2355.7,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 225.0,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 54.8,
+      "error": null
+    },
+    {
+      "name": "research:Рак кишківника молодшає: кому ",
+      "status": "ok",
+      "duration_s": 968.6,
+      "error": null
+    },
+    {
+      "name": "generate:Рак кишківника молодшає: кому ",
+      "status": "ok",
+      "duration_s": 132.0,
+      "error": null
+    },
+    {
+      "name": "text_edit:Рак кишківника молодшає: кому ",
+      "status": "ok",
+      "duration_s": 136.8,
+      "error": null
+    },
+    {
+      "name": "review:Рак кишківника молодшає: кому ",
+      "status": "ok",
+      "duration_s": 330.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Рак кишківника молодшає: кому ",
+      "status": "ok",
+      "duration_s": 18.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Рак кишківника молодшає: кому ",
+      "status": "ok",
+      "duration_s": 13.9,
+      "error": null
+    },
+    {
+      "name": "save:Рак кишківника молодшає: кому ",
+      "status": "ok",
+      "duration_s": 470.2,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 4.5,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}
