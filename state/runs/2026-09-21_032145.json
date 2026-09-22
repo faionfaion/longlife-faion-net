@@ -1,0 +1,80 @@
+{
+  "timestamp": "2026-09-21_032145",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "roztyazhka-krepatura-doms-cochrane-repeated-bout-effect",
+  "author": "Віта",
+  "duration_s": 1121.5,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 336.1,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 47.3,
+      "error": null
+    },
+    {
+      "name": "research:Розтяжка перед тренуванням не ",
+      "status": "ok",
+      "duration_s": 159.5,
+      "error": null
+    },
+    {
+      "name": "generate:Розтяжка перед тренуванням не ",
+      "status": "ok",
+      "duration_s": 52.5,
+      "error": null
+    },
+    {
+      "name": "text_edit:Розтяжка перед тренуванням не ",
+      "status": "ok",
+      "duration_s": 60.1,
+      "error": null
+    },
+    {
+      "name": "review:Розтяжка перед тренуванням не ",
+      "status": "ok",
+      "duration_s": 165.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Розтяжка перед тренуванням не ",
+      "status": "ok",
+      "duration_s": 22.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Розтяжка перед тренуванням не ",
+      "status": "ok",
+      "duration_s": 7.5,
+      "error": null
+    },
+    {
+      "name": "save:Розтяжка перед тренуванням не ",
+      "status": "ok",
+      "duration_s": 264.5,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 4.3,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}
