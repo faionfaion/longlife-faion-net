@@ -1,0 +1,86 @@
+{
+  "timestamp": "2026-09-22_035021",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "meningit-test-sklyankoyu-rannii-sepsys-thompson-vaktsynatsiya-ukraina",
+  "author": "Віта",
+  "duration_s": 2838.4,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 388.2,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 70.2,
+      "error": null
+    },
+    {
+      "name": "research:Менінгіт: чому «тест склянкою»",
+      "status": "ok",
+      "duration_s": 488.4,
+      "error": null
+    },
+    {
+      "name": "generate:Менінгіт: чому «тест склянкою»",
+      "status": "ok",
+      "duration_s": 303.4,
+      "error": null
+    },
+    {
+      "name": "text_edit:Менінгіт: чому «тест склянкою»",
+      "status": "ok",
+      "duration_s": 277.2,
+      "error": null
+    },
+    {
+      "name": "review:Менінгіт: чому «тест склянкою»",
+      "status": "ok",
+      "duration_s": 479.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Менінгіт: чому «тест склянкою»",
+      "status": "ok",
+      "duration_s": 18.8,
+      "error": null
+    },
+    {
+      "name": "material_images:Менінгіт: чому «тест склянкою»",
+      "status": "ok",
+      "duration_s": 261.7,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Менінгіт: чому «тест склянкою»",
+      "status": "ok",
+      "duration_s": 14.0,
+      "error": null
+    },
+    {
+      "name": "save:Менінгіт: чому «тест склянкою»",
+      "status": "ok",
+      "duration_s": 533.0,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.7,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}

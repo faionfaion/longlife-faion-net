@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T03:10:41.337051+00:00",
+  "updated_at": "2026-09-23T03:08:34.526358+00:00",
   "entries": [
     {
       "topic": "Утома, випадіння волосся і феритин 20: коли залізо справді винне, а коли аналіз просто зчитали неправильно",
@@ -2101,6 +2101,105 @@
       "score": 55,
       "rationale": "Mostly one large RCT (Buijze) plus small trials carry the claim; autumn hook is generic and evidence base is thinner than others here.",
       "proposed": "2026-09-22"
+    },
+    {
+      "topic": "Кетамін: від «модного антидепресанту» до зруйнованого сечового міхура у двадцятирічних",
+      "type": "research",
+      "category": "research",
+      "angle": "Привід — матеріал BBC про молодих людей із кетаміновим ураженням сечового міхура («сечовипускання ніби медузою»). Для українського читача тема заходить із двох боків, які треба чітко розвести. Перший: кетамін-індукована уропатія — реальний, задокументований і частково незворотний стан (зменшення об'єму міхура до 50-100 мл, потреба сечовипускання щогодини, у тяжких випадках цистектомія), плюс ураження жовчних шляхів; описана серія випадків і когорти в BJU International, ключове — доза-залежність і часткове відновлення після припинення. Другий, важливіший для блогу: це не аргумент проти есекетаміну/кетаміну в психіатрії, де йдеться про кілька доз під наглядом при резистентній депресії (TRANSFORM/SUSTAIN, схвалення FDA/EMA) — і саме тут треба чесно сказати, де закінчуються докази: ефект швидкий, але короткий, дані про тривале застосування обмежені, а приватні «кетамінові клініки» та інфузії «від вигорання» продають те, чого в дослідженнях не перевіряли. Практичний висновок: рецептурний препарат під наглядом ≠ речовина з вечірки; червоні прапорці для міхура — часте болісне сечовипускання і кров у сечі у молодої людини (і чому це не «цистит», який лікують самостійно).",
+      "sources_hint": "BBC Health Sept 2026 ketamine bladder report; Chu PS et al., BJU Int 2008 (ketamine-associated uropathy); Winstock AR et al., BJU Int 2012 (survey of ketamine users, urinary symptoms); Castellani D et al., review of ketamine-induced uropathy 2020; Daly EJ / Popova V, TRANSFORM-2 and SUSTAIN-1 esketamine trials, Am J Psychiatry / JAMA Psychiatry 2019; FDA Spravato REMS; UK ACMD ketamine review 2025",
+      "evidence_level": "moderate",
+      "score": 82,
+      "rationale": "Fresh BBC hook, documented uropathy case series plus RCT data on esketamine gives a clean two-sided claim-check sized for one sitting.",
+      "proposed": "2026-09-23"
+    },
+    {
+      "topic": "Що тримати вдома на випадок відключень: запас їжі та води за цифрами, а не за панікою",
+      "type": "guide",
+      "category": "nutrition",
+      "angle": "Сезонно точний матеріал перед опалювальним сезоном і можливими відключеннями — і рідкісний випадок, де більшість порад в інтернеті емоційні, а цифри насправді є. Вода: орієнтир ВООЗ/CDC — 2-3 л питної на людину на добу плюс ~5-10 л на гігієну; знезараження — кип'ятіння 1 хвилина (3 хв на висоті) або хлорні таблетки за інструкцією, фільтр-глечик не знезаражує мікробіологічно. Їжа: правило холодильника — зачинені двері тримають безпечну температуру ~4 години, повна морозилка ~48 годин, напівпорожня ~24; критерій — не запах, а температура: понад 4 °C довше 2 годин для м'яса/молочного = викинути, «переморозити» можна лише те, що ще містить кристали льоду. Що класти в запас з погляду харчування, а не виживальництва: калорії+білок (консервована риба, квасоля, паштет), джерела заліза і кальцію, сухе молоко, олія, горіхи, сіль йодована; окремо — ліки на 2-4 тижні, дитяча суміш (і чому суміш не можна розводити «на око» або розтягувати), інсулін і його зберігання без холодильника. Що не працює: «таблетки йоду про всяк випадок», вітамінні комплекси замість їжі, запас на рік у вологому підвалі. Матеріал з найвищою придатністю «застосувати сьогодні ввечері» — чеклист на одну сторінку.",
+      "sources_hint": "WHO Technical Notes on Drinking-Water, Sanitation and Hygiene in Emergencies (water quantity per person); CDC Food Safety During Power Outage (4-hour fridge / 48-hour freezer rule); FDA Food and Water Safety During Emergencies; WHO/UNICEF guidance on infant formula in emergencies; EFSA/IOM protein and micronutrient reference intakes; ДСНС та ЦГЗ України рекомендації щодо тривожної валізки; insulin storage guidance (Diabetes UK / ADA)",
+      "evidence_level": "moderate",
+      "score": 78,
+      "rationale": "Strong seasonal timing before heating season, real WHO/CDC numeric guidance, high same-evening applicability, though evidence is guideline-based rather than trial-based.",
+      "proposed": "2026-09-23"
+    },
+    {
+      "topic": "Світла щодня менше: де закінчується осіння хандра і починається сезонна депресія — і чи працює лампа",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Рівнодення минуло, з цього тижня ніч довша за день — і це точка, коли тема стає практичною, а не теоретичною. Перше: «сезонна депресія» в DSM-5-TR — це не поганий настрій у листопаді, а підтип великого депресивного розладу з сезонним патерном, з критерієм повторюваності щонайменше два роки і повної ремісії влітку; типові риси — пересипання, потяг до вуглеводів, набір ваги — відрізняють її від звичайної депресії. Друге і головне: що насправді показують дані про світлолікування — Golden 2005 (Am J Psychiatry) дає ефект, порівнянний з антидепресантами, але Кокранівський огляд 2019 про профілактику SAD світлом оцінив певність доказів як низьку, а Rohan RCT показав, що КПТ дає стійкіший ефект через дві зими. Третє, практичне: доза — 10 000 лк, 30 хв, зранку, лампа без УФ, на відстані ~40-60 см, очі відкриті, але не дивитись на лампу; протипоказання (біполярний розлад — ризик перемикання у манію, ретинопатія, прийом фотосенсибілізуючих ліків). Що не працює: «сольові лампи», звичайне домашнє освітлення (300-500 лк), вітамін D замість світла (докладний розбір доз вітаміну D був 11.09 — тут лише одне речення з посиланням). Коли до лікаря: думки про смерть, нездатність працювати, лінія 7333.",
+      "sources_hint": "DSM-5-TR criteria, MDD with seasonal pattern; Nussbaumer-Streit B et al., Cochrane 2019, light therapy for preventing SAD; Golden RN et al., Am J Psychiatry 2005;162:656-662; Rohan KJ et al., Am J Psychiatry 2016 (CBT vs light therapy, 2-year outcomes); Lam RW et al., JAMA Psychiatry 2016 (light therapy in non-seasonal depression); PubMed 'bright light therapy bipolar switch'",
+      "evidence_level": "moderate",
+      "score": 75,
+      "rationale": "Equinox-timed hook with Cochrane and RCT evidence on light therapy dose, minor but well-handled overlap with the 11.09 vitamin D piece.",
+      "proposed": "2026-09-23"
+    },
+    {
+      "topic": "Мелатонін і магній «для сну»: що з цього має докази, а що продає аптечна полиця",
+      "type": "guide",
+      "category": "sleep",
+      "angle": "Claim-check двох найпопулярніших безрецептурних засобів для сну — з розведенням двох різних завдань, які вони нібито виконують. Мелатонін: це не снодійне, а сигнал часу; найсильніші докази — зсув фази при джетлагу і при синдромі затримки фази сну (підлітки, сови), значно слабші — при звичайному безсонні, де мета-аналізи дають скорочення часу засинання приблизно на 7-12 хвилин. Ключове практичне: доза 0,5-1 мг за 3-5 годин до бажаного сну працює для зсуву фази краще, ніж 5-10 мг перед сном; більша доза не означає кращий сон, а вечірнє яскраве світло екрана може перекрити ефект. Якість продукту: аналіз американських добавок (Erland & Saxena 2017) знайшов вміст від -83% до +478% від заявленого і серотонін у частині зразків — тому важливо, чи це зареєстрований лікарський засіб, а не «дієтична добавка». Магній: доказова база тонка — дрібні РКД на літніх людях, мета-аналізи оцінюють певність як низьку; при цьому магній має сенс при документованому дефіциті й судомах, а не «для сну взагалі». Що справді працює і має найсильніші докази — КПТ при безсонні (Кокран/AASM, перша лінія, ефект стійкіший за снодійні). Червоні прапорці: хропіння з паузами дихання, денна сонливість за кермом — це апное, і мелатонін тут шкодить тим, що відкладає діагноз.",
+      "sources_hint": "Ferracioli-Oda E et al., PLoS One 2013 (melatonin meta-analysis); Auld F et al., Sleep Med Rev 2017; AASM Clinical Practice Guideline for chronic insomnia (2017) and 2021 update on behavioral treatment; Herxheimer A & Petrie KJ, Cochrane jet lag review; Erland LAE & Saxena PK, J Clin Sleep Med 2017 (melatonin content variability); Mah J & Pitre T, BMC Complement Med Ther 2021 (magnesium for insomnia meta-analysis); Qaseem A et al., Ann Intern Med 2016 (CBT-I first line)",
+      "evidence_level": "moderate",
+      "score": 67,
+      "rationale": "Solid meta-analytic evidence and constant reader relevance, but no live news hook to push it ahead of seasonal candidates today.",
+      "proposed": "2026-09-23"
+    },
+    {
+      "topic": "Холодний душ і моржування: що реально дають градуси, а чому спортсмену після силових вони шкодять",
+      "type": "lifehack",
+      "category": "biohacking",
+      "angle": "Сезон починається саме зараз, разом із першими холодними ранками і обіцянками «загартування = менше хворіти» — тому матеріал переміщено з «колись потім» у сезонний блок. Розділити три різні обіцянки. (1) Менше хворіти: РКД Buijze (PLoS One 2016, n=3018, 30 днів холодного душу) — кількість самозвітних інфекцій не змінилася, зменшилася лише кількість днів лікарняного на 29%, ефект без засліплення, тобто очікування не виключені. (2) «Розганяє метаболізм / буре жирова тканина»: у людей активація БЖТ реальна, але внесок у добові витрати енергії малий, а даних про зниження ваги від холодних душів немає. (3) Психічний ефект і бадьорість: переважно дрібні дослідження й сильний ефект очікувань; є дані про підвищення норадреналіну, але клінічних наслідків не показано. Окремо — важливе для тренерів: занурення в холодну воду одразу після силового тренування пригнічує гіпертрофію та приріст сили (Roberts, J Physiol 2015; мета-аналізи підтверджують), тому холод після силових — помилка, а після змагальних ігрових/витривалісних навантажень — виправданий. Безпека, яку в Україні майже не проговорюють: холодовий шок і рефлекторна гіпервентиляція в перші секунди — головна причина смертей у холодній воді, ризик аритмій, протипоказання при ІХС і неконтрольованій гіпертензії, ніколи наодинці й ніколи після алкоголю.",
+      "sources_hint": "Buijze GA et al., PLoS One 2016 (cold shower RCT); Roberts LA et al., J Physiol 2015 (post-exercise cold water immersion blunts hypertrophy); Malta ES et al., Sports Med 2021 meta-analysis of CWI and training adaptations; Tipton MJ et al., Exp Physiol 2017 (cold shock response and drowning); van Marken Lichtenbelt WD, NEJM 2009 (brown adipose tissue in humans); Espeland D et al., Int J Circumpolar Health 2022 (review of voluntary cold exposure)",
+      "evidence_level": "moderate",
+      "score": 63,
+      "rationale": "Cold-mornings seasonal hook is real but the health-benefit claim leans on one RCT (Buijze), thinner evidence base than top picks.",
+      "proposed": "2026-09-23"
+    },
+    {
+      "topic": "65 градусів: чому дуже гарячий чай визнали ймовірним канцерогеном, а каву — навпаки, виправдали",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Claim-check з чіткою цифрою, яку можна застосувати сьогодні ввечері. IARC у 2016 році (монографія 116) зробив дві протилежні речі одночасно: прибрав каву зі списку можливих канцерогенів і додав туди «дуже гарячі напої» — понад 65 °C, незалежно від того, чай це, кава чи мате. Тобто справа не в напої, а в температурі й термічному пошкодженні слизової стравоходу. Головна доказова опора — Golestan Cohort в Ірані (Islami, Int J Cancer 2020, ~50 000 дорослих, проспективно): питво понад 60 °C і швидке вживання після заварювання давало приблизно вдвічі вищий ризик плоскоклітинного раку стравоходу, з дозозалежністю; підтримують дані з Китаю (China Kadoorie Biobank), де ефект гарячого чаю проявлявся насамперед у поєднанні з курінням і алкоголем — важливий нюанс, бо це означає, що чай сам по собі для непитущого некурця несе набагато менший абсолютний ризик. Чесні межі: це обсерваційні дані, температуру часто вимірювали зі слів; абсолютний ризик в Україні нижчий, ніж у «стравохідному поясі». Практично: 4-5 хвилин у чашці, або долити холодної — і взагалі не про те, щоб перестати пити чай.",
+      "sources_hint": "IARC Monographs vol. 116 (2016) 'Drinking coffee, mate, and very hot beverages'; Islami F et al., Int J Cancer 2020;146:18-25 (Golestan Cohort tea temperature and ESCC); Islami F et al., BMJ 2009;338:b929; Yu C et al., Ann Intern Med 2018 (China Kadoorie Biobank, hot tea, alcohol and smoking); WCRF/AICR Continuous Update Project oesophageal cancer; Ukrainian National Cancer Registry oesophageal incidence",
+      "evidence_level": "moderate",
+      "score": 60,
+      "rationale": "Strong IARC/Golestan cohort evidence and an actionable number, but no current-news trigger, purely evergreen claim-check.",
+      "proposed": "2026-09-23"
+    },
+    {
+      "topic": "Креатин: найперевіреніша спортивна добавка — і чотири міфи, які досі повторюють у залі",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Матеріал для тих, кого тренери й дієтологи питають найчастіше, з дозами й популяціями. Що доведено: креатину моногідрат дає невеликий, але стабільний приріст сили та маси в поєднанні з силовими (мета-аналізи, позиція ISSN 2017), ефект більший у тих, хто починає з низьким внутрішньом'язовим рівнем — зокрема у вегетаріанців. Доза: 3-5 г на добу щодня, фаза завантаження 20 г/день 5-7 днів лише пришвидшує насичення, не потрібна; час прийому не критичний; дешевий моногідрат не поступається «гідрохлориду», «буферизованому» і «рідкому» — останній навіть нестабільний. Міфи по черзі: (1) «садить нирки» — у людей зі здоровими нирками РКД і довгі спостереження шкоди не показали, але креатин завищує креатинін в аналізі, і про його прийом треба сказати лікарю, щоб не лікували неіснуючу ниркову недостатність; (2) «затримує воду й заливає» — так, внутрішньоклітинна вода в перші тижні, це не жир і не набряк; (3) «випадає волосся» — походить від одного дослідження на 20 регбістах (Van der Merwe 2009) про ДГТ, без вимірювання волосся, не відтворене; (4) «потрібні цикли» — циклування не має доказів. Окремо — жінки та люди 60+, де дані слабші, але позитивні для сили в поєднанні з тренуванням, і попередні дані щодо когнітивних ефектів при недосипі, які поки що не підстава купувати.",
+      "sources_hint": "Kreider RB et al., ISSN position stand on creatine, JISSN 2017; Branch JD meta-analysis, Int J Sport Nutr Exerc Metab 2003; Chilibeck PD et al., Open Access J Sports Med 2017 (creatine and resistance training in older adults); Antonio J et al., JISSN 2021 'Common questions and misconceptions about creatine'; de Souza e Silva A et al., kidney function studies; van der Merwe J et al., Clin J Sport Med 2009 (DHT in rugby players); Gordji-Nejad A et al., Sci Rep 2024 (single high-dose creatine and sleep deprivation)",
+      "evidence_level": "strong",
+      "score": 56,
+      "rationale": "Strongest evidence tag on the whole list, but evergreen with no hook and fitness category already touched twice in the last two weeks.",
+      "proposed": "2026-09-23"
+    },
+    {
+      "topic": "Скільки силових насправді потрібно: 30-60 хвилин на тиждень і дві вправи, які дають більшість ефекту",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Матеріал про мінімальну ефективну дозу — для людини, у якої немає часу на зал тричі на тиждень, і для тренера, якого питають «а скільки мінімум». Ключова цифра: мета-аналіз Momma (Br J Sports Med 2022, 16 когорт, понад 480 000 учасників) показав криву з максимумом користі на 30-60 хвилинах силових на тиждень — це мінус ~10-17% загальної смертності й серцево-судинних подій, причому більше 130-140 хвилин уже не давало додаткової користі, а для деяких точок крива йшла вгору (обмеження обсерваційних даних, самозвіти — сказати прямо). Друга лінія: дозозалежність для самої сили й маси — мета-аналіз Schoenfeld показує, що навіть один підхід до відмови дає значну частину приросту сили, а обсяг більше впливає на гіпертрофію, ніж на силу; для людей 60+ це ще й про профілактику падінь і саркопенії. Практична схема без обладнання і без залу: 2 сесії по 20 хвилин, 4-5 базових рухів (присідання/підйом зі стільця, тяга гумкою, віджимання з опорою, ходьба з вагою, планка), прогресія за принципом «важче або більше повторень кожні 2 тижні». Пряме продовження матеріалу про 7 000 кроків (14.09): ВООЗ 2020 рекомендує силові щонайменше двічі на тиждень — і в Україні цю частину рекомендації знають набагато гірше, ніж «10 000 кроків».",
+      "sources_hint": "Momma H et al., Br J Sports Med 2022 (muscle-strengthening activities and mortality meta-analysis); Gorzelitz J et al., Br J Sports Med 2022; WHO Guidelines on Physical Activity and Sedentary Behaviour 2020; Schoenfeld BJ et al., J Sports Sci 2017 (dose-response resistance training volume); Fragala MS et al., NSCA position statement on resistance training for older adults, J Strength Cond Res 2019; Sherrington C et al., Cochrane 2019 (exercise for falls prevention)",
+      "evidence_level": "moderate",
+      "score": 49,
+      "rationale": "Good meta-analysis but explicitly framed as a direct sequel to the 14.09 steps post, raising duplication risk and lacking its own hook.",
+      "proposed": "2026-09-23"
+    },
+    {
+      "topic": "Тест «біологічного віку» за 4000 гривень: що насправді показують епігенетичні годинники",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Claim-check послуги, яка з'явилася в українських приватних лабораторіях і в інстаграмі коучів з довголіття: аналіз метилювання ДНК, який видає «ваш біологічний вік — 34 замість 41». Що під цим є: годинники Horvath і Hannum добре корелюють із хронологічним віком, а другого покоління (PhenoAge, GrimAge, DunedinPACE) справді прогнозують смертність і захворюваність на рівні груп — це реальна наука. Чого під цим немає: відтворюваності на рівні однієї людини — дослідження надійності показують, що повторний аналіз того самого зразка може дати різницю в кілька років (технічна варіабельність, різні платформи), тому індивідуальний результат «мінус 7 років» перебуває в межах шуму; жоден годинник не валідований як показник, за яким можна ухвалювати рішення про втручання. Окремо — про дослідження, де «біологічний вік знижували» дієтою, добавками чи гормоном росту (TRIIM, n=9, без контрольної групи): це гіпотези, а не підстава щось приймати. Чесний висновок для читача: сотні доларів дають цифру, яку не можна ні перевірити, ні використати; те саме передбачення смертності дають безкоштовні речі — артеріальний тиск, окружність талії, куріння, сила хвата й швидкість ходьби. Матеріал корисний і дієтологам, яким клієнти приносять такі звіти.",
+      "sources_hint": "Horvath S, Genome Biol 2013; Levine ME et al., Aging 2018 (PhenoAge); Lu AT et al., Aging 2019 (GrimAge); Belsky DW et al., eLife 2022 (DunedinPACE); Higgins-Chen AT et al., Nat Aging 2022 (technical noise and reliability of epigenetic clocks, principal component clocks); Fahy GM et al., Aging Cell 2019 (TRIIM); Bell CG et al., Genome Biol 2019 (consensus on epigenetic clocks); Studenski S et al., JAMA 2011 (gait speed and survival)",
+      "evidence_level": "preliminary",
+      "score": 42,
+      "rationale": "Real reliability literature exists to support the claim-check, but no timely trigger and a narrower, coach-niche audience than the other candidates.",
+      "proposed": "2026-09-23"
     }
   ]
 }
