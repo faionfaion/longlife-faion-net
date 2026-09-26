@@ -1,0 +1,80 @@
+{
+  "timestamp": "2026-09-23_033438",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "pravylo-marty-anhliia-eskalatsiia-rodychem-ukraina-shcho-robyty",
+  "author": "Віта",
+  "duration_s": 1895.3,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 275.3,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 55.6,
+      "error": null
+    },
+    {
+      "name": "research:«Правило Марти» в Англії: прав",
+      "status": "ok",
+      "duration_s": 1035.3,
+      "error": null
+    },
+    {
+      "name": "generate:«Правило Марти» в Англії: прав",
+      "status": "ok",
+      "duration_s": 67.1,
+      "error": null
+    },
+    {
+      "name": "text_edit:«Правило Марти» в Англії: прав",
+      "status": "ok",
+      "duration_s": 115.3,
+      "error": null
+    },
+    {
+      "name": "review:«Правило Марти» в Англії: прав",
+      "status": "ok",
+      "duration_s": 229.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:«Правило Марти» в Англії: прав",
+      "status": "ok",
+      "duration_s": 14.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:«Правило Марти» в Англії: прав",
+      "status": "ok",
+      "duration_s": 8.8,
+      "error": null
+    },
+    {
+      "name": "save:«Правило Марти» в Англії: прав",
+      "status": "ok",
+      "duration_s": 89.7,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.4,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}
