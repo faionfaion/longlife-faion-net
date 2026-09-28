@@ -1,0 +1,80 @@
+{
+  "timestamp": "2026-09-26_034420",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "chadnyi-haz-detektor-en-50291-generator-kotel-sezon",
+  "author": "Віта",
+  "duration_s": 2476.8,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 427.5,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 49.5,
+      "error": null
+    },
+    {
+      "name": "research:Генератор, котел і чадний газ:",
+      "status": "ok",
+      "duration_s": 461.0,
+      "error": null
+    },
+    {
+      "name": "generate:Генератор, котел і чадний газ:",
+      "status": "ok",
+      "duration_s": 285.9,
+      "error": null
+    },
+    {
+      "name": "text_edit:Генератор, котел і чадний газ:",
+      "status": "ok",
+      "duration_s": 221.0,
+      "error": null
+    },
+    {
+      "name": "review:Генератор, котел і чадний газ:",
+      "status": "ok",
+      "duration_s": 414.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Генератор, котел і чадний газ:",
+      "status": "ok",
+      "duration_s": 29.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Генератор, котел і чадний газ:",
+      "status": "ok",
+      "duration_s": 8.4,
+      "error": null
+    },
+    {
+      "name": "save:Генератор, котел і чадний газ:",
+      "status": "ok",
+      "duration_s": 575.9,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.5,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}
