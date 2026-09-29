@@ -1,0 +1,80 @@
+{
+  "timestamp": "2026-09-28_034907",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "ketamin-sechovyi-mikhur-uropatiya-esketamin-ukraina",
+  "author": "Віта",
+  "duration_s": 2764.4,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 467.8,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 441.3,
+      "error": null
+    },
+    {
+      "name": "research:Кетамін: від «модного антидепр",
+      "status": "ok",
+      "duration_s": 711.5,
+      "error": null
+    },
+    {
+      "name": "generate:Кетамін: від «модного антидепр",
+      "status": "ok",
+      "duration_s": 147.7,
+      "error": null
+    },
+    {
+      "name": "text_edit:Кетамін: від «модного антидепр",
+      "status": "ok",
+      "duration_s": 164.9,
+      "error": null
+    },
+    {
+      "name": "review:Кетамін: від «модного антидепр",
+      "status": "ok",
+      "duration_s": 288.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Кетамін: від «модного антидепр",
+      "status": "ok",
+      "duration_s": 31.4,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Кетамін: від «модного антидепр",
+      "status": "ok",
+      "duration_s": 8.8,
+      "error": null
+    },
+    {
+      "name": "save:Кетамін: від «модного антидепр",
+      "status": "ok",
+      "duration_s": 499.3,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.1,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}
