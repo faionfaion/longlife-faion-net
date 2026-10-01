@@ -1,0 +1,86 @@
+{
+  "timestamp": "2026-09-29_035409",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "sezonna-depresiya-svitloterapevtychna-lampa-dokazy-kokran-rohan",
+  "author": "Віта",
+  "duration_s": 3066.3,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 447.5,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 82.1,
+      "error": null
+    },
+    {
+      "name": "research:Темніє щодня: де закінчується ",
+      "status": "ok",
+      "duration_s": 561.6,
+      "error": null
+    },
+    {
+      "name": "generate:Темніє щодня: де закінчується ",
+      "status": "ok",
+      "duration_s": 424.4,
+      "error": null
+    },
+    {
+      "name": "text_edit:Темніє щодня: де закінчується ",
+      "status": "ok",
+      "duration_s": 89.0,
+      "error": null
+    },
+    {
+      "name": "review:Темніє щодня: де закінчується ",
+      "status": "ok",
+      "duration_s": 711.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Темніє щодня: де закінчується ",
+      "status": "ok",
+      "duration_s": 28.8,
+      "error": null
+    },
+    {
+      "name": "material_images:Темніє щодня: де закінчується ",
+      "status": "ok",
+      "duration_s": 195.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Темніє щодня: де закінчується ",
+      "status": "ok",
+      "duration_s": 8.1,
+      "error": null
+    },
+    {
+      "name": "save:Темніє щодня: де закінчується ",
+      "status": "ok",
+      "duration_s": 514.1,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.4,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}

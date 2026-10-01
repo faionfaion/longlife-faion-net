@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T03:11:52.764051+00:00",
+  "updated_at": "2026-10-01T03:12:34.612813+00:00",
   "entries": [
     {
       "topic": "Соняшникова олія «отруює запаленням»: що кажуть рандомізовані дослідження про омега-6",
@@ -44,94 +44,6 @@
       "score": 64,
       "rationale": "Strong guideline base and high daily utility, but a procedural guide with no news trigger, better suited to a shorter format.",
       "proposed": "2026-09-03"
-    },
-    {
-      "topic": "«Гнучкі суглоби» — не завжди дар: що таке гіпермобільність, коли це діагноз і чому лікують силою, а не розтяжкою",
-      "type": "research",
-      "category": "fitness",
-      "angle": "Матеріал про гіпермобільність з'явився у новинах тижня, але у тижневому огляді 30.08 сама Віта зазначила, що там була просвіта без перевірних чисел — ось нагода дати числа. Почати з простого: надмірна рухливість суглобів є приблизно у 10-20% людей і сама по собі не хвороба; діагноз починається там, де є біль, вивихи, втома. Дати шкалу Бейтона (9 балів) і чесно сказати про її обмеження: пороги різні для віку і статі, вона не міряє суглоби, які найчастіше болять. Пояснити межу між генералізованою гіпермобільністю, гіпермобільним спектральним розладом і hEDS — для останнього діагностичні критерії 2017 року свідомо звужені, генетичного тесту для hEDS не існує. Що справді має докази в лікуванні: прогресивні силові вправи і фізична терапія, а не уникання навантажень; ортези і «щадний режим» погіршують; чесно назвати якість цих РКД — малі вибірки, короткий горизонт. Окремий блок — часті супутники: ортостатична непереносимість/POTS і функціональні розлади ШКТ. Це також матеріал для тренерів: гнучкий клієнт потребує стабільності, а не розтяжки — крос-лінк на матеріали про унілатеральні силові вправи.",
-      "sources_hint": "Malfait et al., 2017 International Classification of the Ehlers-Danlos Syndromes, Am J Med Genet C; Beighton/Brighton criteria literature (Hakim & Grahame); Palmer et al., physiotherapy for hypermobility RCTs and systematic reviews (Physiotherapy / BMJ Open); Ehlers-Danlos Society 2026 hypermobility classification update; Tinkle et al., hypermobility spectrum disorder papers",
-      "evidence_level": "moderate",
-      "score": 72,
-      "rationale": "Also called out in the 30.08 digest as coverage without numbers, giving it a real hook, though the RCT base behind treatment is small.",
-      "proposed": "2026-08-31"
-    },
-    {
-      "topic": "Замінник солі з калієм: рідкісний випадок, коли товар із супермаркету знизив смертність у великому РКД",
-      "type": "nutrition",
-      "category": "nutrition",
-      "angle": "Claim-check навпаки — популярна річ, яка витримує перевірку. SSaSS (NEJM 2021, 20 995 людей із 600 сіл Китаю, ~5 років): заміна звичайної солі на суміш 75% NaCl / 25% KCl дала менше інсультів, серцево-судинних подій і смертей — тверда кінцева точка, а не «маркер у крові». Механізм у двох реченнях: працює і мінус натрій, і плюс калій, якого в українському раціоні хронічно бракує. Далі — чесні межі: вибірка сільська, літня, з інсультом чи гіпертензією в анамнезі, тож перенесення на здорову 35-річну людину — екстраполяція; DECIDE-Salt дає слабший результат. І головне попередження великим шрифтом: при хронічній хворобі нирок, прийомі інгібіторів АПФ/сартанів чи калійзберігальних діуретиків калієвий замінник може бути небезпечним — це та стаття, де «зверніться до лікаря» не формальність. Український блок: що продається під назвою «сіль з пониженим вмістом натрію», як читати склад і скільки це коштує. Прямий крос-лінк на сьогоднішній гайд про домашній тонометр: замінник солі має сенс лише разом із виміряними цифрами тиску.",
-      "sources_hint": "Neal et al., SSaSS, NEJM 2021;385:1067 (DOI 10.1056/NEJMoa2105675); Zhang et al., DECIDE-Salt, JAMA Intern Med 2023; Yin et al., Heart 2022 meta-analysis of salt substitutes; WHO 2023 guideline on potassium intake and low-sodium salt substitutes; KDIGO CKD guidance on hyperkalemia",
-      "evidence_level": "strong",
-      "score": 70,
-      "rationale": "Hard mortality endpoint from a large RCT (SSaSS) is rare and strong, but no fresh news hook this week beyond a planned cross-link.",
-      "proposed": "2026-08-31"
-    },
-    {
-      "topic": "Слухові апарати і деменція: чому ACHIEVE не підтвердив ефект у всій вибірці — і в кого підтвердив",
-      "type": "research",
-      "category": "longevity",
-      "angle": "Ідеальний матеріал під нашу постійну тезу «сигнал проти наслідку». Втрата слуху стоїть першим рядком серед модифікованих факторів ризику деменції у Lancet Commission (PAF ~7%) — але це спостережні дані, де зворотна причинність і спільні судинні фактори не виключені. Єдине велике РКД, ACHIEVE (Lancet 2023, 977 осіб 70-84 роки, 3 роки), первинну кінцеву точку не досягло: у всій вибірці темп когнітивного зниження не відрізнявся від активного контролю. Ефект з'явився лише у попередньо визначеній підгрупі учасників з когорти ARIC — старших, з більшою кількістю факторів ризику, — і саме тут стаття вчить читача головного: підгруповий результат породжує гіпотезу, а не доводить користь. Що при цьому не спірне: слуховий апарат доказово покращує слух, розбірливість мови і соціальну участь, і цього достатньо як причини його носити — не потрібно обіцяти профілактику деменції. Механізмів три (когнітивне навантаження, соціальна ізоляція, спільна патологія), жоден не доведений у людей. Український блок, якого ніде немає: акустична і баротравма у військових і цивільних як масова причина зниження слуху, де зробити аудіометрію, що покриває НСЗУ, скільки коштують апарати і чому «підсилювач звуку» з маркетплейсу — не слуховий апарат.",
-      "sources_hint": "Lin et al., ACHIEVE trial, Lancet 2023;402:786 (DOI 10.1016/S0140-6736(23)01406-X); Livingston et al., Lancet Commission on dementia prevention, intervention and care, 2024 update; Loughrey et al., JAMA Otolaryngol Head Neck Surg 2018 meta-analysis (hearing loss and cognition); WHO World Report on Hearing 2021; blast-related auditory injury literature (Military Medicine / Ear Hear); НСЗУ пакет отоларингологічної допомоги, МОЗ про забезпечення слуховими апаратами",
-      "evidence_level": "moderate",
-      "score": 68,
-      "rationale": "Single well-known RCT plus Lancet Commission fits the blog's recurring signal-vs-outcome theme, but the trial itself is not new news.",
-      "proposed": "2026-08-31"
-    },
-    {
-      "topic": "Соняшникова олія «отруює запаленням»: що показали рандомізовані дослідження про омега-6",
-      "type": "nutrition",
-      "category": "nutrition",
-      "angle": "Claim-check міфу, який дійшов до українських кухонь у форматі «жарте на смальці, олія — це запалення». Розібрати механістичну історію (лінолева кислота → арахідонова → прозапальні ейкозаноїди) і показати, де вона обривається: у контрольованих дослідженнях підвищення лінолевої кислоти в раціоні не підвищує маркери запалення в людей, а рівень арахідонової в тканинах майже не змінюється. Далі — головний козир протилежного табору, відновлені дані Minnesota Coronary Experiment і Sydney Diet Heart Study, де заміна насичених жирів на олію знизила холестерин, але не смертність — і чому це чесно назвати, а не заховати. Що з когорт: вищий рівень лінолевої кислоти в крові стабільно пов'язаний з нижчим ризиком серцево-судинних подій і діабету 2 типу. Практичний висновок для кухні: питання не «олія чи смалець», а точка димлення, повторне використання олії і те, що саме нею смажать. Це також матеріал для дієтологів, яких про це питають щотижня, і пряме продовження нашої лінії «механізм ≠ результат» із тижневого огляду 23.08.",
-      "sources_hint": "Johnson & Fritsche, J Acad Nutr Diet 2012 (linoleic acid and inflammatory markers, systematic review of controlled trials); Ramsden et al., BMJ 2016 (Minnesota Coronary Experiment) and BMJ 2013 (Sydney Diet Heart); Marklund et al., Circulation 2019 (pooled biomarker cohorts, 30+ cohorts); Hooper et al., Cochrane 2020 omega-6 review; AHA advisory on dietary fats 2017",
-      "evidence_level": "moderate",
-      "score": 66,
-      "rationale": "Solid claim-check literature (Minnesota, Sydney, pooled cohorts) continuing the mechanism-vs-result line, but no timely trigger.",
-      "proposed": "2026-08-31"
-    },
-    {
-      "topic": "Хропіння чи апное: як відрізнити вдома за 8 питаннями і коли це вже не побутова незручність",
-      "type": "guide",
-      "category": "sleep",
-      "angle": "Гайд для двох аудиторій одразу: для того, хто прокидається розбитим після восьми годин, і для партнера, який не спить через нього. Чітка межа: просте хропіння — це шум; обструктивне апное — це десятки зупинок дихання за годину з падінням кисню, і воно пов'язане з гіпертензією (часто резистентною), аритміями, інсультом і ДТП через сонливість за кермом. Дати STOP-BANG простими словами і чесно сказати, що це скринінг, а не діагноз: висока чутливість, низька специфічність — тобто він радше не пропустить хворого, ніж точно вкаже здорового. Окремо розвінчати побутові «рішення»: смужки на ніс, спрей від хропіння, спати на боці як універсальний засіб (позиційна терапія працює лише в частини пацієнтів). Що робить діагноз: полісомнографія або домашня респіраторна поліграфія. Чесний блок про СІПАП: доведено покращує сонливість і тиск, але SAVE не показав зниження серцево-судинних подій — і чому це не привід відмовлятися. Крос-лінк на матеріал про трекери сну (08.08): жоден побутовий гаджет апное не діагностує, за позицією AASM 2018. Українська частина: де в Україні роблять дослідження сну і скільки це коштує.",
-      "sources_hint": "Chung et al., STOP-BANG validation, Anesthesiology 2008 and Chest 2016 meta-analysis; AASM 2017 clinical practice guideline for diagnostic testing for adult OSA; McEvoy et al., SAVE trial, NEJM 2016; Patil et al., AASM 2019 CPAP guideline; AASM 2018 position statement on consumer sleep technology; positional therapy systematic reviews",
-      "evidence_level": "strong",
-      "score": 63,
-      "rationale": "Strong guideline base (STOP-BANG, AASM, SAVE) but sleep territory was heavily covered on 08.08, mildly denting non-duplication.",
-      "proposed": "2026-08-31"
-    },
-    {
-      "topic": "Ходьба після їжі: скільки хвилин реально збиває цукор у крові — і чому 2 хвилини вже щось дають",
-      "type": "fitness",
-      "category": "fitness",
-      "angle": "Найдешевший важіль, який поміщається в звичайний день. Мета-аналіз коротких «перерв на рух» показує: 2-5 хвилин легкої ходьби після їжі помітно зрізають післяобідній пік глюкози порівняно з сидінням, а стояння працює, але слабше. Далі — дозова логіка: 10-15 хвилин після кожного прийому їжі у людей з переддіабетом у РКД працювали не гірше (а після вечері краще), ніж одна 45-хвилинна прогулянка на день. Пояснити механізм без біохімічного жаргону: працюючий м'яз забирає глюкозу без інсуліну. Чесні межі: більшість досліджень — короткі, перехресні, на малих вибірках, кінцева точка — глікемічна крива, а не інфаркти; для здорової людини з нормальним цукром виграш скромний, для переддіабету і ЦД2 — суттєвий. Практична частина: коли саме виходити (перші 30-60 хвилин після їжі), який темп достатній, що робити тим, кому нема куди вийти — сходи, кімнатна ходьба, підйоми на носки сидячи як слабша заміна. Крос-лінк на матеріал про NEAT (08.08): це та сама компенсаторна логіка, тільки з боку глюкози.",
-      "sources_hint": "Buffey et al., Sports Medicine 2022 meta-analysis (light-intensity walking breaks and postprandial glycaemia); Reynolds et al., Diabetologia 2016 (walking after meals in T2D, n=41 crossover); Dempsey et al., Diabetes Care 2016 (interrupting sitting); Bellini et al. 2022 reviews on postprandial exercise timing; ADA Standards of Care 2026 physical activity section",
-      "evidence_level": "moderate",
-      "score": 61,
-      "rationale": "Cheap actionable lever with real meta-analysis backing, but small crossover studies limit how far a full piece can go.",
-      "proposed": "2026-08-31"
-    },
-    {
-      "topic": "Кофеїн і кортизол: чи справді треба чекати 90 хвилин після пробудження до першої кави",
-      "type": "research",
-      "category": "biohacking",
-      "angle": "Розбір біохакерського правила, яке за кілька років стало майже релігією: не пити каву перші 90-120 хвилин після пробудження, бо кортизол і так високий. Знайти, звідки взялася ідея: реакція пробудження кортизолу (CAR) — реальний, добре виміряний феномен, пік через 30-45 хвилин після підйому. А далі — де ланцюг рветься: досліджень, які б показали, що відкладена кава дає менше денної сонливості, кращий сон чи менший «крах» о 15:00, практично немає; те, що вимірювали (кофеїн підвищує кортизол, але у постійних споживачів реакція частково згасає), не підтримує саме цю рекомендацію. Що натомість має нормальні докази і того ж читача цікавить більше: період напіввиведення кофеїну 5-6 годин, тому кава після 14-15 години реально псує сон навіть у тих, хто «спить нормально» (РКД з кофеїном за 6 годин до сну); генетика CYP1A2 пояснює частину різниці між людьми; толерантність до бадьорого ефекту розвивається за кілька днів. Практичний висновок: важить не 90 хвилин зранку, а остання чашка ввечері. Крос-лінк на DECAF (06.08): у людей з персистуючою фібриляцією передсердь відмова від кави не потрібна.",
-      "sources_hint": "Clow et al., cortisol awakening response reviews (Neurosci Biobehav Rev); Lovallo et al., Psychosom Med 2005/2006 (caffeine and cortisol, tolerance in habitual users); Drake et al., J Clin Sleep Med 2013 (caffeine 0/3/6 h before bed, n=12); Cornelis et al., CYP1A2 genotype and caffeine; EFSA 2015 scientific opinion on caffeine safety",
-      "evidence_level": "moderate",
-      "score": 54,
-      "rationale": "CAR literature is real but direct evidence against the 90-minute rule is thin, and the stronger payload (evening caffeine) is a different subject.",
-      "proposed": "2026-08-31"
-    },
-    {
-      "topic": "Три склянки води і «розігнати метаболізм»: що показали прямі вимірювання витрат енергії",
-      "type": "lifehack",
-      "category": "biohacking",
-      "angle": "Claim-check побутової впевненості, яку повторюють у кожному другому пості про схуднення: «випий води — прискориш обмін речовин». Знайти джерело цифри: дослідження Boschmann 2003, де 500 мл води підняли витрати енергії приблизно на 30% — але це підйом на кілька десятків кілокалорій на годину-півтори, тобто дрібниця в масштабі доби, і спроби відтворити ефект дали або менший результат, або нуль. Що при цьому справді витримує перевірку: вода перед їжею у РКД у людей середнього і старшого віку дала помірно більшу втрату ваги за рахунок меншого з'їденого, а заміна солодких напоїв водою — найсильніший з усіх «водних» важелів. Розібрати заодно два сусідні міфи: «2 літри на день для всіх» (немає такої універсальної норми; частина води надходить із їжею) і небезпеку протилежної крайності — гіпонатріємія при надмірному питті, реальні випадки у спортсменів. Окрема українська ремарка: у літню спеку і при блекауті питний режим індивідуальний, а при серцевій недостатності «пий більше» прямо протипоказано — крос-лінк на гайд про спеку від 07.08. Практичний висновок без магії: вода замість солодкого напою — так; вода як жироспалювач — ні.",
-      "sources_hint": "Boschmann et al., J Clin Endocrinol Metab 2003 (water-induced thermogenesis) and failed replications (Brown et al., JCEM 2006); Dennis et al., Obesity 2010 (premeal water RCT, n=48); Vij & Joshi 2013; EFSA 2010 dietary reference values for water; Hew-Butler et al., exercise-associated hyponatremia consensus 2015",
-      "evidence_level": "moderate",
-      "score": 45,
-      "rationale": "Small original study with failed replications carries most of the piece, making it the thinnest evidence base on the list.",
-      "proposed": "2026-08-31"
     },
     {
       "topic": "Аналіз сечі знаходить 9 із 10 раків сечового міхура: що це означає для людини, яка побачила кров у сечі",
@@ -2068,6 +1980,105 @@
       "score": 48,
       "rationale": "Evidence is explicitly preliminary — mostly one RCT and small studies — too thin to anchor a 1800-3500 word feature even as a claim-check.",
       "proposed": "2026-09-29"
+    },
+    {
+      "topic": "1 жовтня, День людей літнього віку: п'ять ліків, які варто переглянути разом із лікарем",
+      "type": "guide",
+      "category": "longevity",
+      "angle": "Прив'язка до дати ВООЗ. Теза: у людини 70+ найчастіша причина нових «симптомів старості» — не вік, а список ліків. Що показують докази: поліпрагмазія (≥5 препаратів) асоціюється з падіннями й госпіталізаціями; препарати з холінолітичною дією (стара димедролова лінія, амітриптилін, оксибутинін) у когортах пов'язані з вищим ризиком деменції; бензодіазепіни і Z-препарати для сну підвищують ризик падінь і переломів, а ефект на сон — ~25 хв; ІПП «для захисту шлунка» роками без показань; НПЗЗ при гіпертензії і ХХН. Критично важлива чесність: самі РКД з деприскрайбінгу (огляди Кокран, Thillainadesan 2018) показують, що зменшити кількість ліків вдається, а доказів зниження смертності поки немає — тобто це розмова про якість життя і падіння, а не обіцянка жити довше. Практичне: як підготувати повний список (включно з «бабусиними» каплями й добавками), три питання до лікаря за кожним пунктом, інструменти STOPP/START і критерії Beers, правило «нові симптоми — спершу перевір новий препарат», і прямо: нічого не скасовувати самостійно.",
+      "sources_hint": "Beers Criteria, AGS 2023 update; O'Mahony D et al., STOPP/START version 3, Eur Geriatr Med 2023; Thillainadesan J et al., Drugs Aging 2018 (deprescribing interventions systematic review); Cochrane reviews on deprescribing (polypharmacy, benzodiazepines in older adults); Coupland CAC et al., JAMA Intern Med 2019 (anticholinergic drugs and dementia risk); Donnelly K et al. / Glass J et al., BMJ 2005 (sedative hypnotics in older people, risk-benefit); WHO International Day of Older Persons 2026",
+      "evidence_level": "moderate",
+      "score": 86,
+      "rationale": "Exact WHO calendar date today, solid deprescribing/Beers/STOPP-START literature with an honest no-mortality-benefit caveat, strong material fit.",
+      "proposed": "2026-10-01"
+    },
+    {
+      "topic": "Gen Z міняє кардіо на штангу: скільки силових насправді потрібно для довшого життя",
+      "type": "research",
+      "category": "fitness",
+      "angle": "Привід — свіжий матеріал BBC про те, що молодь масово переходить з бігових дорожок на станову тягу. Претензія до перевірки: «силові краще за кардіо». Чесна відповідь із дозозалежних мета-аналізів: силові 30–60 хв на тиждень дають найбільше зниження загальної смертності (~10–20%), але далі крива не зростає, а у Momma 2022 за межами ~130–140 хв/тиждень ефект згасає і для ССЗ навіть розвертається; найсильніший результат — поєднання силових і аеробних, а не заміна одного іншим. Окремо розвести, чого силові НЕ дають (VO2max, судинна адаптація) і чого не дає кардіо (м'язова маса, щільність кістки, захват/сила у 60+). Практичний блок: 2 заняття на тиждень, 6–8 базових рухів, прогресія навантаження, мінімум для сенсу — вага тіла і гантелі, зал не обов'язковий. Для тренерів — чому «обсяг понад 140 хв» не шкідливий сам собою, а відображає конфаундери обсерваційних даних.",
+      "sources_hint": "Momma H et al., Br J Sports Med 2022 (resistance training and mortality dose-response meta-analysis, 16 cohorts); Gorzelitz J et al., Br J Sports Med 2022 (muscle-strengthening + aerobic, NIH-AARP); Giovannucci EL et al., Mayo Clin Proc 2021; WHO 2020 Physical Activity Guidelines; Lopez P et al., Sports Med 2022 (resistance training and cardiometabolic outcomes); BBC Health, Sept-Oct 2026 'Treadmills to deadlifts' feature",
+      "evidence_level": "moderate",
+      "score": 84,
+      "rationale": "Fresh BBC hook plus dose-response meta-analyses (Momma, Gorzelitz) giving a real curve to argue with, good length and no overlap with recent posts.",
+      "proposed": "2026-10-01"
+    },
+    {
+      "topic": "Соціальна тривожність: звички, які здаються порятунком, а насправді тримають страх",
+      "type": "guide",
+      "category": "mental-health",
+      "angle": "Привід — матеріал BBC про «приховані звички, що погіршують соціальну тривожність». Центральна ідея, яка майже не відома поза кабінетом психотерапевта: охоронна поведінка (репетирувати фрази, тримати склянку в руках, говорити тихо, сидіти біля дверей, перший бокал «щоб розслабитись», підготовлені жарти) знімає напругу на 10 хвилин і саме тому не дає страху згаснути — мозок не отримує досвіду «я витримав без костиля». Експериментальні дані: прибирання охоронної поведінки під час експозиції дає сильніше зниження тривоги, ніж експозиція з нею (Wells 1995; Morgan & Raffle 1999). Другий механізм — самофокус і уявна «камера на себе» за моделлю Кларка і Веллза. Що працює: КПТ із когнітивною реструктуризацією і експозицією — найсильніший ефект у сітьовому мета-аналізі 101 РКД (Mayo-Wilson, Lancet Psychiatry 2014), сильніше за СІЗЗС; алкоголь як соціальний змазник окремо розібрати як підкріплення уникання. Практично: список власних охоронних дій, відмова по одній, увага зовні замість у себе, тест «а що насправді помітили інші». Коли це вже не сором'язливість, а розлад, і до кого йти в Україні.",
+      "sources_hint": "Clark DM & Wells A, 1995 cognitive model of social phobia; Wells A et al., Behav Ther 1995 (safety behaviours experiment); Morgan H & Raffle C, Behav Res Ther 1999; Mayo-Wilson E et al., Lancet Psychiatry 2014 (network meta-analysis, 101 trials, psychological and pharmacological treatments for social anxiety); NICE CG159 social anxiety disorder; Piccirillo ML et al., Clin Psychol Rev 2016 (safety behaviours review); BBC Health Oct 2026 social anxiety feature",
+      "evidence_level": "strong",
+      "score": 80,
+      "rationale": "BBC hook, strong network meta-analysis and experimental safety-behaviour data, high reader value, plenty of substance for a long feature.",
+      "proposed": "2026-10-01"
+    },
+    {
+      "topic": "Вейп як спосіб кинути палити: Кокран дає високу певність, і це незручний результат",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Тема, де обидва популярні табори помиляються. Доказ: Кокранівський живий огляд (понад 80 досліджень, із них десятки РКД) дає докази високої певності, що нікотинові електронні сигарети допомагають кинути палити ефективніше за нікотинозамісну терапію — приблизно 8–10 успішних відмов на 100 проти 6 на 100, тобто ~2–4 додаткові людини на 100. І одразу друга половина: це стосується дорослих курців, які переходять повністю, а не «парю і курю»; це не доказ безпеки вейпа і точно не доказ для підлітків чи некурців, де є чіткий сигнал ризику початку куріння. Розібрати, чому EVALI 2019 був про вітамін Е ацетат у ТГК-картриджах чорного ринку, а не про нікотинові рідини, і що відомо/невідомо про 10-річні наслідки (нічого — достатньої тривалості даних немає). Український контекст: заборона ароматизаторів і акциз, поширеність серед підлітків, безоплатна допомога кинути (варениклін/цитизин у Нацпереліку, лінія відмови), і чому цитизин — найдешевший доказовий варіант.",
+      "sources_hint": "Lindson N, Butler AR, Hartmann-Boyce J et al., Cochrane Living Review 2025 (electronic cigarettes for smoking cessation); Hajek P et al., NEJM 2019 (e-cigarettes vs NRT RCT); Auer R et al., NEJM 2024 (ESTxENDS); Courtney RJ et al., JAMA 2021 and Cochrane 2023 (cytisine); CDC EVALI final update (vitamin E acetate); WHO report on the global tobacco epidemic 2025; Ukrainian law 1978-IX on e-cigarette flavourings",
+      "evidence_level": "strong",
+      "score": 78,
+      "rationale": "High-certainty Cochrane living review and a genuinely uncomfortable two-sided claim, strong reader stakes, but lacks a dated news hook this week.",
+      "proposed": "2026-10-01"
+    },
+    {
+      "topic": "Риб'ячий жир: три великі РКД, одна аритмія і чому «омега-3 для серця» вже не однозначна порада",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Claim-check добавки №2 в українських аптеках — із жорстким розведенням трьох різних речей, які продають під однією назвою. (1) Звичайні капсули ~1 г/день у людей без хвороби серця: VITAL (n=25 871) і ASCEND (n=15 480) — нуль за серцево-судинними подіями. (2) Високодозовий очищений ЕПК 4 г (ікозапент етил): REDUCE-IT позитивний, але STRENGTH з карбоксильними кислотами ЕПК+ДГК — нуль, і досі відкрите питання, чи це різниця молекул, чи ефект мінеральної олії в групі порівняння REDUCE-IT. (3) Зниження тригліцеридів — реальне і передбачуване, але це сурогат. Окремо — сигнал шкоди, про який не пишуть на банці: підвищення ризику фібриляції передсердь у мета-аналізах РКД (приблизно +25–37% відносно, залежить від дози). Практичний висновок: 1–2 порції жирної риби на тиждень замість капсул для здорових; 4 г ЕПК — рецептурна історія при високих тригліцеридах, не самолікування; окисленість і реальний вміст ЕПК/ДГК у добавках — окрема проблема якості.",
+      "sources_hint": "Manson JE et al., VITAL, NEJM 2019; ASCEND Study Group, NEJM 2018; Bhatt DL et al., REDUCE-IT, NEJM 2019; Nicholls SJ et al., STRENGTH, JAMA 2020; Abdelhamid AS et al., Cochrane 2020 (omega-3 for primary/secondary CVD prevention); Gencer B et al., Circulation 2021 (omega-3 and atrial fibrillation meta-analysis); Albert CM et al., JAMA Cardiol 2021 (OPERA/AF signal); EMA/FDA labelling for icosapent ethyl",
+      "evidence_level": "strong",
+      "score": 75,
+      "rationale": "Rich, unresolved RCT literature (VITAL/REDUCE-IT/STRENGTH divergence) carries length well, but it's an evergreen supplement claim-check with no fresh hook.",
+      "proposed": "2026-10-01"
+    },
+    {
+      "topic": "Постійна втома восени: коли це залізо, а коли ні — і чому таблетку краще пити через день",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Найчастіша осіння скарга і найчастіше самопризначення. Перше — розвести анемію і дефіцит заліза без анемії: гемоглобін у нормі ще нічого не виключає, ключовий показник — ферритин (з поправкою на запалення за СРБ), і саме тут українські лабораторні «норми від 10–15 нг/мл» розходяться з пороговими значеннями, за якими симптоми реально зменшуються. Друге — найпрактичніше і майже невідоме: гепсидин піднімається на 24 години після дози заліза, тому прийом через день однією дозою дає вищу сумарну абсорбцію, ніж щодня або двічі на день (Stoffel, Lancet Haematology 2017 і подальші РКД), і менше нудоти. Третє — чесно про те, чи знімає залізо втому за відсутності анемії: мета-аналізи показують помірне покращення втоми в жінок із низьким ферритином, але не в усіх. Четверте і найважливіше: залізодефіцит у дорослого — це симптом, а не діагноз; у чоловіків і жінок після менопаузи це привід шукати кровотечу в шлунково-кишковому тракті, а не пити добавку. Що з їжею реально працює (гемове залізо, вітамін C, чай і кава окремо від прийому).",
+      "sources_hint": "Stoffel NU et al., Lancet Haematol 2017 and Haematologica 2020 (alternate-day iron dosing, hepcidin); Pasricha SR et al., Lancet 2021 (iron deficiency seminar); Houston BL et al., BMJ Open 2018 (iron for fatigue in non-anaemic women, systematic review); WHO 2020 guideline on ferritin concentrations to assess iron status; Snook J et al., BSG guidelines 2021 (investigation of iron deficiency anaemia); Cochrane reviews on oral iron supplementation",
+      "evidence_level": "moderate",
+      "score": 71,
+      "rationale": "Seasonal fatigue complaint with real substance (ferritin thresholds, hepcidin dosing, GI-bleed workup), moderate evidence keeps it below the top tier.",
+      "proposed": "2026-10-01"
+    },
+    {
+      "topic": "Креатин: найперевіреніша спортивна добавка — і чому обіцянки «для мозку» поки не те саме",
+      "type": "fitness",
+      "category": "biohacking",
+      "angle": "Рідкісний випадок, коли популярна добавка докази має — але не ті, що їй приписують. Що підтверджено: моногідрат 3–5 г/день плюс силові дають приріст сили й м'язової маси більше, ніж тренування самі (десятки РКД, мета-аналізи Chilibeck, Candow); фаза загрузки 20 г не обов'язкова, порошок дешевший і не гірший за капсули й «нові форми» (креатин HCl, етил ефір переваги не показали). Що міф: «садить нирки» — у людей зі здоровими нирками РКД до 5 років не показали шкоди, зростає креатинін, а не ураження, і це пастка для інтерпретації аналізів; «затримує воду в підшкірній клітковині»; «потрібен цикл». Що поки відкрито: мозок і втома — ефекти на пам'ять і когніцію при недосипі є, але малі вибірки, і великі дози 10–20 г/день для мозку практично не перевірені; 2025 рік додав і негативні РКД щодо приросту маси, тому варто показати розкид. Для тренерів: кому справді дає менше (високом'ясна дієта), кому більше (вегетаріанці, 60+ з саркопенією), і чому це найдешевший доказовий пункт у списку клієнта.",
+      "sources_hint": "Candow DG et al., Nutrients 2022/2023 reviews (creatine and muscle, aging); Chilibeck PD et al., Open Access J Sports Med 2017 (creatine + resistance training in older adults meta-analysis); Kreider RB et al., JISSN 2017 position stand; Antonio J et al., JISSN 2021 (common questions/misconceptions); Prokopidis K et al., Nutr Rev 2023 (creatine and cognition meta-analysis); Gordji-Nejad A et al., Sci Rep 2024 (single high-dose creatine and sleep deprivation); de Guingand DL / 2025 RCTs on creatine dose and lean mass; de Souza e Silva A et al. renal safety reviews",
+      "evidence_level": "strong",
+      "score": 67,
+      "rationale": "Deep, well-named literature and a real myth/evidence split, but it's a well-trodden evergreen subject with no current trigger.",
+      "proposed": "2026-10-01"
+    },
+    {
+      "topic": "Відіспатися на вихідних не виходить: що таке соціальний джетлаг і що з ним робити",
+      "type": "lifehack",
+      "category": "sleep",
+      "angle": "До четверга тижневий дефіцит сну вже накопичився, і типовий план — «у суботу відсплюся». Ключове поняття: соціальний джетлаг — різниця між серединою сну у вихідні й у робочі дні; у ~третини людей вона понад годину і в когортах асоціюється з гіршими метаболічними маркерами. Головна чесність замість банальностей: докази суперечливі. Depner 2019 (Curr Biol, лабораторія) показав, що компенсаторний сон на вихідних не повернув інсулінову чутливість і дав навіть гірший результат при поверненні до буднів; великі обсерваційні роботи (Åkerstedt, Zhu 2024 за даними NHANES) натомість бачать нижчу смертність у тих, хто доспить на вихідних. Як це сумістити: доспати 1–1,5 години — розумно, зсув підйому на 3 години — це повторний переліт щотижня. Практичний протокол: фіксований підйом (не відбій) як головний якір, світло в перші 30 хв після прокидання, денний сон 20 хв до 15:00 замість марафону в суботу, і чому вікенд-компенсація не покриває хронічного недосипу. Для тренерів і дієтологів — чому «не схудла, хоч дефіцит» іноді починається тут.",
+      "sources_hint": "Wittmann M et al., Chronobiol Int 2006 (social jetlag concept); Roenneberg T et al., Curr Biol 2012; Depner CM et al., Curr Biol 2019 (weekend recovery sleep and insulin sensitivity); Åkerstedt T et al., J Sleep Res 2019 (weekend catch-up sleep and mortality); Zhu et al. 2024 NHANES catch-up sleep analyses; Chaput JP et al., Sleep Health 2023 (sleep regularity); Windred DP et al., Sleep 2024 (sleep regularity vs duration and mortality, UK Biobank)",
+      "evidence_level": "moderate",
+      "score": 56,
+      "rationale": "Evidence is honestly conflicting (Depner vs Åkerstedt/Zhu) which works for a claim-check, but it's thinner and better suited to a shorter lifehack slot than today's material.",
+      "proposed": "2026-10-01"
+    },
+    {
+      "topic": "Холодний душ «для імунітету»: що саме показало єдине велике РКД",
+      "type": "research",
+      "category": "biohacking",
+      "angle": "Сезонний claim-check: похолодало, і соцмережі знову обіцяють, що холодний душ «качає імунітет». Є одне велике рандомізоване дослідження (Buijze 2016, PLOS One, n=3018, 30 днів холодного фінішу душу) — і його результат майже завжди подають неправильно: самозвітних днів відсутності на роботі стало на 29% менше, але кількість епізодів хвороби і тяжкість симптомів не змінилися, тобто люди хворіли так само, а на роботу ходили частіше; дизайн без засліплення, усе на самозвітах. Окремо розвести холодний душ і занурення в крижану воду: тут є інші дані — бура жирова тканина й норадреналін (Søberg, Cell Rep Med 2021, малі вибірки), а також чіткий доказ шкоди для конкретної мети: холодова імерсія після силових притуплює гіпертрофію й приріст сили (Roberts 2015, J Physiol; мета-аналізи 2022–2024), тому її місце — між змаганнями, а не після тренування на масу. Ризики, які варто назвати: холодовий шок і аритмія, протипоказання при ІХС і неконтрольованій гіпертензії. Висновок: приємний ритуал і, можливо, інструмент настрою — але не щит від ГРВІ, і дешеві засоби з реальними доказами (вакцина, сон, миття рук) він не заміняє.",
+      "sources_hint": "Buijze GA et al., PLOS One 2016 (cold shower RCT, n=3018); Søberg S et al., Cell Rep Med 2021 (brown fat, Wim Hof-style cold exposure); Roberts LA et al., J Physiol 2015 (post-exercise cold water immersion and resistance training adaptation); Malta ES et al., Sports Med 2021 and recent meta-analyses on CWI and hypertrophy; Cain T et al. 2025 systematic review of cold water immersion health outcomes; Tipton MJ et al., Exp Physiol 2017 (cold shock response)",
+      "evidence_level": "preliminary",
+      "score": 42,
+      "rationale": "Explicitly rests on a single RCT for its main claim with only tangential studies around it, too thin to carry a 1800-3500 word material.",
+      "proposed": "2026-10-01"
     }
   ]
 }
