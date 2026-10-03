@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T03:13:09.510202+00:00",
+  "updated_at": "2026-10-03T03:10:23.721258+00:00",
   "entries": [
     {
       "topic": "Соняшникова олія «отруює запаленням»: що кажуть рандомізовані дослідження про омега-6",
@@ -24,17 +24,6 @@
       "proposed": "2026-09-03"
     },
     {
-      "topic": "«Соняшникова олія — це запалення»: що показали контрольовані дослідження про омега-6",
-      "type": "nutrition",
-      "category": "biohacking",
-      "angle": "Claim-check міфу, який дійшов до українських кухонь у форматі «жарте на смальці, олія — це запалення». Показати механістичну історію (лінолева кислота → арахідонова → прозапальні ейкозаноїди) і місце, де вона обривається: у контрольованих дослідженнях підвищення лінолевої кислоти в раціоні не піднімає маркери запалення в людей, а арахідонова в тканинах майже не змінюється. Далі — найсильніший аргумент скептиків, повторний аналіз старих випробувань (Minnesota Coronary Experiment, Sydney Diet Heart), і чому він не переносить висновок на сучасні дієти. Врівноважити біомаркерними когортами, де вищий рівень лінолевої кислоти в крові пов'язаний із меншим ризиком діабету і серцевих подій. Практичний висновок без крайнощів: питання не «олія чи смалець», а скільки разів гріта олія, форма продукту і що саме на ній смажать.",
-      "sources_hint": "Johnson & Fritsche, J Acad Nutr Diet 2012 (linoleic acid and inflammatory markers, systematic review of controlled trials); Ramsden et al., BMJ 2016 (Minnesota Coronary Experiment recovered data) and BMJ 2013 (Sydney Diet Heart); Hooper et al., Cochrane 2018 omega-6 fats review; Marklund et al., Circulation 2019 (pooled biomarker cohorts, n≈68 000); AHA advisory on dietary polyunsaturated fats 2017",
-      "evidence_level": "moderate",
-      "score": 67,
-      "rationale": "Good evergreen claim-check with named controlled trials and biomarker cohorts, but no timely news hook to make it today's pick.",
-      "proposed": "2026-09-02"
-    },
-    {
       "topic": "Домашній тонометр: 7 днів, двічі на день — і чому 135/85 удома дорівнює 140/90 у лікаря",
       "type": "guide",
       "category": "prevention",
@@ -44,72 +33,6 @@
       "score": 64,
       "rationale": "Strong guideline base and high daily utility, but a procedural guide with no news trigger, better suited to a shorter format.",
       "proposed": "2026-09-03"
-    },
-    {
-      "topic": "Аналіз сечі знаходить 9 із 10 раків сечового міхура: що це означає для людини, яка побачила кров у сечі",
-      "type": "research",
-      "category": "research",
-      "angle": "Новинний привід тижня — повідомлення про сечовий тест, який виявляє понад 90% раків сечового міхура. Розібрати чесно: це тест для людей із гематурією (кров у сечі), а не скринінг для здорових. Пояснити простими словами різницю між чутливістю (скільки хворих тест знайде) і тим, що станеться зі 100 людьми, які здадуть його без симптомів; чому головна обіцянка тесту — не «раніше знайти», а «менше непотрібних цистоскопій». Ключова практична річ для українського читача: видима кров у сечі навіть один раз і навіть без болю — це привід до лікаря зараз, а не «мабуть, цистит»; безболісна гематурія у курця після 45 — окремий червоний прапорець. Перевірити статус публікації (рецензована стаття чи прес-реліз) перед тим, як називати це доказом.",
-      "sources_hint": "Search for the Sept 2026 BBC-covered urinary test study (likely GALEAS Bladder / Nonacus, or uRNA-based assay) in European Urology / BJU International / Lancet Oncology; DETECT I study (Br J Cancer) on haematuria pathways; NICE NG12 haematuria referral criteria; Cochrane review of urinary biomarkers vs cystoscopy; Ukraine National Cancer Registry bladder cancer stage distribution",
-      "evidence_level": "moderate",
-      "score": 82,
-      "rationale": "Fresh news-week hook with a clear public-safety payoff (visible blood = see a doctor now), moderate evidence but must verify publication status before claiming proof.",
-      "proposed": "2026-09-02"
-    },
-    {
-      "topic": "Щеплення від грипу: коли робити в Україні, кому воно реально потрібне і скільки насправді захищає",
-      "type": "guide",
-      "category": "prevention",
-      "angle": "Сезонний гайд на початок вересня, коли в Британії вже стартувала кампанія, а в Україні вакцини тільки з'являються в аптеках. Головна чесність: ефективність грипозної вакцини — не 90%, а зазвичай 40–60% проти лабораторно підтвердженого грипу в сезони з добрим збігом штамів, і саме тому її сенс вимірюють госпіталізаціями й смертями у групах ризику, а не «ви не захворієте». Розібрати таймінг (жовтень–листопад як оптимум, бо антитіла спадають за сезон; але зробити в вересні краще, ніж не зробити), кому це найважливіше (65+, вагітні, діабет, ХОЗЛ, серцева недостатність, медики, доглядальники), міфи («від вакцини захворів на грип» — інактивована вакцина цього не може), сумісність з іншими щепленнями. Український блок: вакцина коштом пацієнта, орієнтовні ціни, де шукати, і чому в рік із перевантаженою медициною це дешевий важіль.",
-      "sources_hint": "Cochrane review Demicheli 2018 (influenza vaccines in healthy adults); CDC US Flu VE Network annual VE estimates; WHO position paper on influenza vaccines (2022); Nordic randomized DANFLU-1/DANFLU-2 high-dose trials in 65+; meta-analyses of influenza vaccination and cardiovascular events (IAMI trial, JAMA Netw Open); МОЗ України накази щодо сезонної вакцинації, ЦГЗ influenza surveillance data",
-      "evidence_level": "moderate",
-      "score": 78,
-      "rationale": "September flu-season hook with vaccines newly in pharmacies, solid Cochrane/CDC/WHO evidence base, straightforward guide fit.",
-      "proposed": "2026-09-02"
-    },
-    {
-      "topic": "Розтяжка перед тренуванням: чому статичний стретчинг не запобігає травмам і трохи забирає силу",
-      "type": "fitness",
-      "category": "fitness",
-      "angle": "Матеріал для тих, хто повертається в зал у вересні, і окремо для тренерів, яких про це питають клієнти. Два поширені переконання перевіряються по черзі: (1) статична розтяжка перед підходом знижує силу і потужність — так, але ефект залежить від дози: до 60 секунд на м'яз він мізерний і зникає, якщо після цього зробити динамічну розминку; (2) розтяжка запобігає травмам — цього мета-аналізи не показують, натомість силові вправи дають найбільше зниження травматизму. Дати робочу структуру розминки (загальне підвищення температури → динамічні рухи в амплітуді вправи → підвідні підходи) і чесно сказати, де статичний стретчинг таки корисний — окремою сесією для збільшення амплітуди, не перед важким підходом.",
-      "sources_hint": "Behm et al., Appl Physiol Nutr Metab 2016 (acute effects of static stretching, systematic review); Behm et al. 2021 meta-analysis on stretching duration thresholds; Blazevich et al., Med Sci Sports Exerc 2018 (RCT, stretching within full warm-up); Lauersen et al., Br J Sports Med 2014 (exercise interventions and injury prevention meta-analysis); Chaabene et al., Front Physiol 2019 review",
-      "evidence_level": "moderate",
-      "score": 70,
-      "rationale": "September gym-return season gives it a mild hook, meta-analysis evidence is solid but the audience is narrower than most subjects here.",
-      "proposed": "2026-09-02"
-    },
-    {
-      "topic": "Аналіз крові на хворобу Альцгеймера: що вміє p-tau217 і чому це тест не для здорових",
-      "type": "research",
-      "category": "longevity",
-      "angle": "Продовження теми черг на діагностику деменції. За останні два роки з'явилися кров'яні біомаркери (p-tau217), точність яких у пам'яткових клініках наближається до ПЕТ і ліквору — це справжній зсув, бо раніше підтвердити амілоїд можна було тільки дорогим сканом або пункцією. Але головне для читача — межі: тест валідований у людей із симптомами, а не як «перевірка на майбутнє»; у первинній ланці точність нижча, ніж у клініці; позитивний результат означає амілоїд, а не діагноз і не прогноз того, коли настане деменція. Окремо — навіщо взагалі рання діагностика, якщо ліки слабкі: виключення зворотних причин (щитоподібна, B12, депресія, ліки), планування, доступ до досліджень. Український блок: тестів немає в рутині, ціна і де реально починати — з огляду сімейного лікаря і скринінгу когніції.",
-      "sources_hint": "Palmqvist et al., JAMA 2024 (p-tau217 in primary care); Schindler/Hansson blood biomarker validation studies; FDA clearance of Fujirebio Lumipulse pTau217/β-amyloid ratio (May 2025) and Roche Elecsys; Alzheimer's Association clinical practice guideline on blood-based biomarkers (2025); reversible causes of cognitive impairment reviews; NICE dementia guideline NG97",
-      "evidence_level": "moderate",
-      "score": 62,
-      "rationale": "Real 2024-2025 validation literature exists but no fresh trigger for this exact date, and the test's Ukraine unavailability narrows reader relevance.",
-      "proposed": "2026-09-02"
-    },
-    {
-      "topic": "Глюкозний монітор без діабету: чи справді «стрибки цукру» на графіку щось означають",
-      "type": "research",
-      "category": "biohacking",
-      "angle": "Claim-check модного гаджета, який продають здоровим людям як спосіб «побачити, що вам не підходить». Що відомо: у людей без діабету глюкоза й так коливається в широкому діапазоні, і чимало «страшних піків» на екрані — у межах норми або похибка сенсора (відставання від крові на 10–15 хвилин, розбіжність між двома сенсорами на одній людині). Дані про «глюкотипи» і персональні відповіді на однакову їжу реальні, але жодне випробування не показало, що носіння монітора здоровим покращує вагу, ліпіди чи будь-який твердий результат. Головний ризик — не сам прилад, а харчова тривожність і виключення нормальних продуктів через графік. Кому монітор справді змінює життя: діабет 1 типу, вагітні з ГСД, декому з діабетом 2 типу на інсуліні. Практично: якщо цікаво про свій метаболізм — почати з глюкози натще й HbA1c за 300–400 грн.",
-      "sources_hint": "Shah et al., J Clin Endocrinol Metab 2019 (CGM reference ranges in non-diabetic adults); Hall et al., PLoS Biology 2018 (glucotypes); Zeevi/Segal Cell 2015 personalized glycemic responses and the PREDICT/ZOE trials plus published critiques; accuracy studies of consumer CGMs vs venous glucose (Diabetes Technol Ther); ADA Standards of Care 2026 statement on CGM in people without diabetes",
-      "evidence_level": "preliminary",
-      "score": 59,
-      "rationale": "Evidence is explicitly preliminary per the brief itself, workable as a myth-check but thinner ground than the higher-ranked subjects.",
-      "proposed": "2026-09-02"
-    },
-    {
-      "topic": "Підліток, який не може встати о 7:00: що показали експерименти зі зсувом початку уроків",
-      "type": "lifehack",
-      "category": "sleep",
-      "angle": "Не «лінь», а біологія: у пубертаті внутрішній годинник зсувається на пізніше, і засинання о 22:00 фізіологічно важче, ніж у 10-річного. Показати природні експерименти, де школи зсували початок занять пізніше: у Сіетлі об'єктивно виміряний сон подовжився приблизно на пів години, зросла відвідуваність і оцінки. Оскільки в Україні розклад змінити не можна, перевести це в те, що батьки контролюють: яскраве світло і сніданок одразу після пробудження, вечірнє приглушене світло, телефон поза спальнею, послідовний час підйому у вихідні (різниця не більше години — інакше «соціальний джетлаг» у понеділок), кофеїн не після обіду, і чому «відіспатися в суботу до 13:00» відкочує всю схему назад. Прямо розвести з матеріалом про шкільну тривогу: тут проблема біологічного таймінгу, а не страху перед школою.",
-      "sources_hint": "Dunster et al., Science Advances 2018 (Seattle school start time change, actigraphy); Wahlstrom et al. 2014 University of Minnesota multi-school study; AAP policy statement on school start times for adolescents (Pediatrics 2014); Crowley et al. reviews on adolescent circadian phase delay; meta-analyses of later school start times and sleep duration (Sleep Medicine Reviews)",
-      "evidence_level": "moderate",
-      "score": 56,
-      "rationale": "Back-to-school timing helps but the site already ran children's social-jetlag and light-protocol pieces recently, and evidence rests on natural experiments not RCTs.",
-      "proposed": "2026-09-02"
     },
     {
       "topic": "Щеплення від грипу: коли робити в Україні, кому воно справді потрібне і скільки насправді захищає",
@@ -2084,12 +2007,12 @@
       "topic": "Інтервальне голодування 16:8: три РКД, де воно не перемогло звичайний підрахунок калорій",
       "type": "research",
       "category": "biohacking",
-      "angle": "Claim-check біохака, який в українському інтернеті досі продають як «перемикач метаболізму». Що показали РКД, де порівнювали з коректним контролем: TREAT (Lowe, JAMA Intern Med 2020, n=116, 12 тижнів) — мінус ~0,9 кг проти контролю, статистично незначуще, і насторожлива деталь: суттєва частка втраченого — нежирова маса; Liu (NEJM 2022, n=139, 12 місяців, Гуанчжоу) — обмеження часу їжі плюс обмеження калорій не краще за саме обмеження калорій; мета-аналізи 2023–2025 дають ту саму відповідь: ефект є рівно настільки, наскільки вікно їжі скорочує споживання. Окремо — як коректно подати гучну новину про «8-годинне вікно і +91% серцево-судинної смертності» (абстракт AHA 2024): це тези конференції на даних добових опитувальників NHANES, не рецензована стаття, і її критикували саме за це — приклад того, як працює різниця між абстрактом і публікацією (та сама логіка, що в блоці про препринт у матеріалі про менінгокок). Для кого це погана ідея: вагітні, підлітки, люди з розладами харчової поведінки в анамнезі, хворі на діабет на інсуліні чи похідних сульфонілсечовини (ризик гіпоглікемії — потрібне коригування доз лікарем, не самостійно). Чесний підсумок: 16:8 — це не метаболічна магія, а зручний для декого спосіб менше їсти; якщо зручно — працює, якщо ні — користі від страждання немає.",
-      "sources_hint": "Lowe DA et al., TREAT RCT, JAMA Intern Med 2020; Liu D et al., NEJM 2022 (time-restricted eating plus calorie restriction); Jamshed H et al., JAMA Intern Med 2022; meta-analyses of intermittent fasting vs continuous energy restriction 2023-2025 (e.g. BMJ 2025 network meta-analysis); AHA EPI Lifestyle 2024 abstract on 8-hour eating window and CV mortality plus published critiques",
+      "angle": "Claim-check біохака, який в українському інтернеті продають як «перемикач метаболізму». Перевірка претензії проти РКД з коректним контролем: TREAT (Lowe, JAMA Intern Med 2020, n=116, 12 тижнів) — мінус ~0,9 кг проти контролю, незначуще, і насторожлива деталь: значна частка втраченого — нежирова маса; Liu (NEJM 2022, n=139, 12 місяців) — обмеження часу їжі поверх дефіциту калорій не додало нічого; Jamshed (JAMA Intern Med 2022) — ранній TRE дав невелику перевагу, але при жорсткому контролі харчування. Головний чесний висновок: 16:8 працює рівно настільки, наскільки сам собою скорочує калорії, і це не недолік, а механізм — комусь легше не їсти до обіду, ніж рахувати. Окремо: кому не підходить (вагітні, діабет на інсуліні чи похідних сульфонілуреї — ризик гіпоглікемії, розлади харчової поведінки, недостатня вага) і що говорять мета-аналізи про втрату м'язової маси без силових і достатнього білка. Для дієтологів: практичний пункт — не менше 1,2–1,6 г білка/кг і силові, якщо клієнт на TRE",
+      "sources_hint": "Lowe DA et al., TREAT RCT, JAMA Intern Med 2020; Liu D et al., NEJM 2022 (time-restricted eating plus calorie restriction); Jamshed H et al., JAMA Intern Med 2022; Cochrane/BMJ meta-analyses of intermittent fasting vs continuous energy restriction 2024-2026; PubMed: \"time-restricted eating\" randomized 2025..2026",
       "evidence_level": "strong",
-      "score": 82,
-      "rationale": "Three named RCTs plus an abstract-vs-publication side story is exactly the multi-finding claim-check shape this slot needs, strong evidence throughout.",
-      "proposed": "2026-10-02"
+      "score": 64,
+      "rationale": "Three well-named RCTs make a clean claim-check, evergreen biohack topic with no current news trigger.",
+      "proposed": "2026-10-03"
     },
     {
       "topic": "«Воїн вихідного дня»: чи можна вкласти тижневу норму руху у суботу й неділю — і скільки штанги насправді треба",
@@ -2167,6 +2090,94 @@
       "score": 46,
       "rationale": "Checklist-style guide overlaps thematically with the recent dementia/anticholinergics piece and doesn't naturally split into several roundup-style findings.",
       "proposed": "2026-10-02"
+    },
+    {
+      "topic": "Приховані звички, що підтримують соціальну тривожність: чому «підготуватися краще» робить гірше",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Привід — свіжий матеріал BBC (жовтень 2026) про непомітні звички, які живлять соціальну тривожність. Ключове поняття, якого майже немає в українському популярному дискурсі: охоронна поведінка (safety behaviours) — репетирувати фрази, тримати склянку в руці, сидіти ближче до виходу, мовчати в групі, перепитувати «я нормально виглядав?». Вона знижує тривогу на п'ять хвилин і закріплює її надовго, бо не дає перевірити, що страшне не станеться. Доказова база: когнітивна модель Clark & Wells 1995; експериментальні роботи, де відмова від охоронної поведінки в тому ж експонуванні давала більше зниження тривоги; мережевий мета-аналіз Mayo-Wilson (Lancet Psychiatry 2014, 101 РКД) — індивідуальна КПТ переважає і фармакотерапію, і інші психотерапії; NICE CG159. Що з цього читач може зробити самостійно (ієрархія ситуацій, відмова від однієї охоронної звички за раз, зміщення уваги з себе на співрозмовника) і де межа самодопомоги — коли це вже уникання роботи й навчання, потрібен фахівець. Розведено: соціальна тривожність ≠ сором'язливість ≠ інтроверсія. Не перетинається з матеріалом про запобігання суїциду (10.09): тут немає кризової теми, але лінію 7333 згадати одним рядком лише як запобіжник",
+      "sources_hint": "BBC Health, Oct 2026, social anxiety hidden habits; Clark DM & Wells A, 1995 cognitive model of social phobia; Mayo-Wilson E et al., Lancet Psychiatry 2014 (network meta-analysis, social anxiety disorder); NICE CG159 social anxiety disorder; Wells A et al., Behav Ther 1995 (safety behaviours experiment); Piccirillo ML et al., meta-analysis of safety behaviours",
+      "evidence_level": "strong",
+      "score": 86,
+      "rationale": "Fresh Oct 2026 BBC hook plus a strong, nameable evidence chain (Clark & Wells, Lancet Psychiatry meta-analysis, NICE), fully distinct from the suicide-prevention piece.",
+      "proposed": "2026-10-03"
+    },
+    {
+      "topic": "Відіспатися на вихідних не виходить: що таке соціальний джетлаг і що з ним робити в суботу",
+      "type": "guide",
+      "category": "sleep",
+      "angle": "Текст рівно на той день, коли читач планує «нарешті поспати». Поняття: соціальний джетлаг — різниця між серединою сну у вихідні й у робочі дні (Roenneberg/Wittmann); приблизно у третини людей вона понад годину, і кожна година в когортах асоціюється з гіршими метаболічними маркерами. Головна чесність — суперечність у доказах: Depner (Curr Biol 2019, лабораторне дослідження) показав, що відсипання на вихідних не відновило чутливість до інсуліну і призвело до переїдання вночі, тоді як великі когорти (Åkerstedt 2019) бачать нижчу смертність у тих, хто досипає на вихідних, тобто «борг сну» частково віддається. Практичне: тримати час підйому в межах ±1 години, дозволити зсув засинання, а не підйому, 20-хвилинна денна пауза замість +3 годин зранку, світло в перші 30 хвилин після пробудження. Українська специфіка: відключення світла й ночі з тривогами ламають графік не з лінощів — що робити, коли фрагментація сну зовнішня. Червоний прапорець: хропіння з паузами і денна сонливість при «нормальній» тривалості — це апное, і це до лікаря",
+      "sources_hint": "Wittmann M et al., Chronobiol Int 2006 (social jetlag); Roenneberg T et al., Curr Biol 2012; Depner CM et al., Curr Biol 2019 (weekend recovery sleep); Åkerstedt T et al., J Sleep Res 2019 (sleep duration, weekend catch-up, mortality); AASM position statements on sleep duration; PubMed: \"social jetlag\" cardiometabolic meta-analysis",
+      "evidence_level": "moderate",
+      "score": 79,
+      "rationale": "Lands on the exact day readers are deciding whether to sleep in, honest contradiction between two named studies, but evidence base is only moderate.",
+      "proposed": "2026-10-03"
+    },
+    {
+      "topic": "Цинк, ехінацея і вітамін C на старті сезону простуд: що з них витримує Кокран",
+      "type": "nutrition",
+      "category": "prevention",
+      "angle": "Жовтень — полиця «для імунітету» в кожній аптеці. Розкласти три найпопулярніші засоби за силою доказів. Вітамін C: Кокран (Hemilä & Chalker) — регулярне приймання не знижує частоту простуд у загальній популяції (виняток — марафонці й солдати на холоді), тривалість скорочується на ~8% у дорослих, тобто години; приймання «коли вже захворів» не працює. Цинк: пастилки у високих дозах можуть скоротити тривалість (Кокран 2024 — докази низької певності, великий розкид оцінок), важливі форма (ацетат/глюконат, пастилка, а не капсула), доза і старт у перші 24 години; побічні — нудота і втрата смаку, довгі високі дози блокують мідь. Ехінацея: Кокран — ефект не доведено для лікування, слабкі й суперечливі сигнали для профілактики. Окремо — те, що насправді має докази для сезону: грипозна вакцинація, сон і гігієна рук (вакцину лише згадати посиланням на матеріал від 04.09, не переказувати). Вітамін D теж не перераховувати — є окремий матеріал від 11.09, достатньо одного рядка. Для дієтологів: як відповідати клієнту, який приносить «комплекс для імунітету» на 12 компонентів",
+      "sources_hint": "Hemilä H & Chalker E, Cochrane CD000980 (vitamin C for preventing and treating the common cold); Cochrane 2024 review on zinc for the common cold; Karsch-Völk M et al., Cochrane CD000530 (Echinacea); NIH ODS fact sheets zinc, vitamin C; Science-Based Medicine / BMJ reviews of immune supplements",
+      "evidence_level": "strong",
+      "score": 74,
+      "rationale": "Three Cochrane reviews give a strong gate and October cold season is a real timeliness hook, slightly less urgent than the other claim-checks today.",
+      "proposed": "2026-10-03"
+    },
+    {
+      "topic": "Скільки білка насправді потрібно для м'язів: 1,6 г/кг, плато і міф про «анаболічне вікно»",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Текст для тих, кого про це питають щодня — тренерів і дієтологів, але написаний так, щоб зрозумів будь-хто. Три числа з доказів: мета-аналіз Morton 2018 (Br J Sports Med, 49 РКД, 1 863 особи) — приріст сили й маси від добавок білка виходить на плато приблизно на 1,6 г/кг на день (верхня межа ДІ ~2,2), більше не дає нічого; мета-аналіз Schoenfeld щодо таймінгу — так зване анаболічне вікно після тренування зникає, коли зрівняти загальну добову кількість білка; дані щодо літніх (PROT-AGE, Bauer 2013) — 1,0–1,2 г/кг і більше за сесію через анаболічну резистентність, тобто саме там, де білка зазвичай замало. Окремо: порошок — це їжа, а не фармакологія, і дорожчий за сир і яйця на грам білка; питання нирок — у людей зі здоровими нирками високий білок не шкодить за наявними даними, при ХХН усе інакше і дозу визначає лікар. Практичний блок: як порахувати свої грами на реальних українських продуктах",
+      "sources_hint": "Morton RW et al., Br J Sports Med 2018 (protein supplementation meta-analysis, 1.6 g/kg plateau); Schoenfeld BJ et al., J Int Soc Sports Nutr 2013 (protein timing meta-analysis); Bauer J et al., PROT-AGE, JAMDA 2013; Devries MC et al., J Nutr 2018 (high protein and kidney function meta-analysis); ISSN position stand on protein and exercise",
+      "evidence_level": "strong",
+      "score": 67,
+      "rationale": "Strong named RCT meta-analyses and daily reader relevance, but no live hook — solid for another day rather than today.",
+      "proposed": "2026-10-03"
+    },
+    {
+      "topic": "П'ять груп ліків, які людині після 70 варто переглянути разом із лікарем",
+      "type": "guide",
+      "category": "longevity",
+      "angle": "Теза: у людини 70+ частина нових «симптомів старості» — не вік, а список ліків. Розібрати п'ять груп за доказами: препарати з холінолітичною дією (стара димедролова лінія, амітриптилін, оксибутинін) — вище кумулятивне антихолінергічне навантаження асоційоване з падіннями й деменцією в когортах; бензодіазепіни і Z-препарати для сну — падіння й переломи; НПЗЗ тривало — шлункові кровотечі, нирки, тиск; інгібітори протонної помпи «назавжди» без показань; надмірний контроль цукру в дуже літніх (гіпоглікемія небезпечніша за HbA1c 7,5%). Інструменти: Beers Criteria AGS 2023, STOPP/START v3. Чесна межа: систематичні огляди депрескрайбінгу показують зменшення кількості препаратів і падінь, але переконливого ефекту на смертність немає — це не «ліки від старіння», а зняття шкоди. Жорстке правило тексту: нічого не скасовувати самостійно, особливо бензодіазепіни й ІПП (синдром відміни й рикошет) — приходити до сімейного лікаря зі списком усіх упаковок, включно з добавками. Зв'язок із матеріалом про деменцію (08.09): холінолітики там згадані як оборотний шар — тут це розгорнуто, без повторення блоку про леканемаб",
+      "sources_hint": "AGS Beers Criteria 2023 update, J Am Geriatr Soc; O'Mahony D et al., STOPP/START version 3, Eur Geriatr Med 2023; Thillainadesan J et al., Drugs Aging 2018 (deprescribing systematic review); Coupland CAC et al., JAMA Neurol 2019 (anticholinergic exposure and dementia); Cochrane reviews on withdrawal of benzodiazepines in older people",
+      "evidence_level": "moderate",
+      "score": 60,
+      "rationale": "Beers/STOPP-START criteria give moderate evidence and a real caregiver audience, but narrower readership and no timely hook.",
+      "proposed": "2026-10-03"
+    },
+    {
+      "topic": "Скільки силових насправді потрібно для довшого життя: крива, яка розвертається після двох годин на тиждень",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Претензія до перевірки — «силові краще за кардіо» і «чим більше, тим краще». Дозозалежні мета-аналізи дають неочікувану форму кривої: Momma 2022 (Br J Sports Med, 16 когорт) — максимум зниження загальної смертності (~10–20%) припадає на 30–60 хвилин силових на тиждень, а після ~130–140 хв/тиждень ефект згасає і для ССЗ навіть розвертається; Gorzelitz 2022 (NIH-AARP) показує, що найбільше дає комбінація силових і аеробних, а не заміна одного іншим. Пояснити, чому обсерваційна крива з розворотом — не доказ шкоди (зворотна причинність, самозвіт про тренування, хто саме тренується по 5 годин), і що ВООЗ 2020 рекомендує 2+ сесії на тиждень без верхньої межі. Для тренерів: що з цих даних можна і чого не можна сказати клієнту, який питає «скільки мені треба мінімум» — відповідь «20–40 хвилин двічі на тиждень уже дає майже весь ефект» краще мотивує за «150 хвилин»",
+      "sources_hint": "Momma H et al., Br J Sports Med 2022 (resistance training and mortality dose-response); Gorzelitz J et al., Br J Sports Med 2022 (NIH-AARP muscle-strengthening + aerobic); WHO 2020 physical activity guidelines; Saeidifard F et al., Eur J Prev Cardiol (resistance exercise and mortality)",
+      "evidence_level": "moderate",
+      "score": 55,
+      "rationale": "Dose-response curve from named cohort meta-analyses is a decent myth-correction, but moderate evidence and no seasonal or news tie-in.",
+      "proposed": "2026-10-03"
+    },
+    {
+      "topic": "Десять хвилин ходьби після їжі: найдешевший спосіб збити цукровий пік",
+      "type": "lifehack",
+      "category": "fitness",
+      "angle": "Один із рідкісних лайфхаків, у якого є РКД і правдоподібний механізм. Що показали дані: мета-аналіз Buffey 2022 (Sports Med, 7 перехресних досліджень) — легка ходьба короткими епізодами після їжі знижує постпрандіальну глюкозу порівняно з сидінням, і важливий саме таймінг — у перші 60–90 хвилин; Reynolds 2016 (Diabetologia, n=41, тип 2) — 10 хвилин ходьби після кожного приймання їжі дали нижчу глікемію, ніж 30 хвилин один раз на день, з найбільшим ефектом після вечері; Dunstan 2012 — перерви в сидінні знижують і глюкозу, і інсулін. Чесні межі: це сурогатна точка, а не доведене зниження ризику діабету чи інфаркту; дослідження малі й короткі; людям на інсуліні чи похідних сульфонілуреї фізнавантаження після їжі може дати гіпоглікемію — узгодити з лікарем. Практично: 10–15 хвилин у звичайному темпі, не натощак, не замість тренування, а поверх; для кого найбільший сенс — предіабет, вагітні з гестаційним діабетом (з дозволу лікаря), сидяча робота. Пряме продовження матеріалу про 7 000 кроків (14.09): там був обсяг за день, тут — розподіл у часі, і саме цим текст не повторює попередній",
+      "sources_hint": "Buffey AJ et al., Sports Med 2022 (light-intensity walking breaks after meals, postprandial glucose meta-analysis); Reynolds AN et al., Diabetologia 2016 (walking after meals, type 2 diabetes); Dunstan DW et al., Diabetes Care 2012 (breaking up sitting time); ADA Standards of Care 2026, physical activity section",
+      "evidence_level": "moderate",
+      "score": 50,
+      "rationale": "Real but small trials and a surrogate endpoint only, plus it leans on the same 7000-steps material from 14.09, making it feel thinner for a full post today.",
+      "proposed": "2026-10-03"
+    },
+    {
+      "topic": "Омега-3 сповільнила біологічний вік на три місяці за три роки: що це означає насправді",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Розбір того, як виглядає «доказ сповільнення старіння», коли його нарешті отримують у РКД. DO-HEALTH (n=2 157, 70+, Швейцарія та ще чотири країни, 3 роки) у піданалізі епігенетичних годинників (Nature Aging 2025) показав, що 1 г омега-3 на день сповільнила біологічний вік приблизно на 2,9–3,8 місяця за три роки, а комбінація з вітаміном D і силовими дала трохи більше. Чому це цікаво й чому це не привід бігти в аптеку: первинні точки самого DO-HEALTH (переломи, падіння, інфекції, когнітивна функція) були переважно нульовими; епігенетичний вік — сурогат, не подія; ефект мікроскопічний відносно розкиду; це піданаліз, не заздалегідь запланована первинна точка. Поруч — великі нульові дані щодо омега-3: VITAL і ASCEND не знизили серцево-судинних подій у профілактиці, STRENGTH негативний, а високі дози EPA пов'язані з фібриляцією передсердь. Чесний висновок: два прийоми риби на тиждень лишаються розумною рекомендацією, капсули «від старіння» — ні. Явно спертися на матеріал про вітамін D (11.09) як на попередній приклад того самого жанру — суперечливі піданалізи теломер у VITAL проти D-Health — але не переказувати його: тут новий препарат, новий сурогат (епігенетичні годинники) і дані 2025 року",
+      "sources_hint": "Bischoff-Ferrari HA et al., Nature Aging 2025 (DO-HEALTH omega-3 and epigenetic clocks); Bischoff-Ferrari HA et al., JAMA 2020 (DO-HEALTH primary outcomes); Manson JE et al., VITAL NEJM 2019 (omega-3); ASCEND trial NEJM 2018; Nicholls SJ et al., STRENGTH JAMA 2020; meta-analyses on omega-3 and atrial fibrillation (Circulation 2021)",
+      "evidence_level": "preliminary",
+      "score": 39,
+      "rationale": "Interesting genre (debunking a hyped subanalysis) but the positive finding is a secondary epigenetic-clock endpoint, too thin to carry a standalone piece well.",
+      "proposed": "2026-10-03"
     }
   ]
 }
