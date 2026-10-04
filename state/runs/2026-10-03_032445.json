@@ -1,0 +1,80 @@
+{
+  "timestamp": "2026-10-03_032445",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "alkohol-j-kryva-nasem-2025-abstainer-bias-claim-check",
+  "author": "Віта",
+  "duration_s": 1302.0,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 375.5,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 64.5,
+      "error": null
+    },
+    {
+      "name": "research:«Безпечної дози алкоголю немає",
+      "status": "ok",
+      "duration_s": 237.4,
+      "error": null
+    },
+    {
+      "name": "generate:«Безпечної дози алкоголю немає",
+      "status": "ok",
+      "duration_s": 111.2,
+      "error": null
+    },
+    {
+      "name": "text_edit:«Безпечної дози алкоголю немає",
+      "status": "ok",
+      "duration_s": 120.0,
+      "error": null
+    },
+    {
+      "name": "review:«Безпечної дози алкоголю немає",
+      "status": "ok",
+      "duration_s": 247.7,
+      "error": null
+    },
+    {
+      "name": "comic_scene:«Безпечної дози алкоголю немає",
+      "status": "ok",
+      "duration_s": 18.9,
+      "error": null
+    },
+    {
+      "name": "tg_caption:«Безпечної дози алкоголю немає",
+      "status": "ok",
+      "duration_s": 14.4,
+      "error": null
+    },
+    {
+      "name": "save:«Безпечної дози алкоголю немає",
+      "status": "ok",
+      "duration_s": 108.2,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.2,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}
