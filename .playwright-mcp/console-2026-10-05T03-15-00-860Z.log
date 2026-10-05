@@ -1,0 +1,6 @@
+[      53ms] [WARNING] Error with Feature-Policy header: Unrecognized feature: 'document-domain'. @ :0
+[      53ms] [WARNING] Error with Feature-Policy header: Some features are specified in both Feature-Policy and Permissions-Policy header: accelerometer, autoplay, camera, encrypted-media, fullscreen, geolocation, gyroscope, magnetometer, microphone, midi, payment, picture-in-picture, screen-wake-lock, sync-xhr, usb, xr-spatial-tracking. Values defined in Permissions-Policy header will be used. @ :0
+[      53ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'document-domain'. @ :0
+[    1738ms] [INFO] [OPTIMIZELY] - INFO 2026-10-05T03:15:02.598Z ProjectConfigManager: Skipping JSON schema validation. @ https://static.files.bbci.co.uk/bbcdotcom/web/20260922-091849-a8520cb5b4-web-3.22.0-3/_next/static/chunks/04sq1ffotg38c.js:0
+[    1739ms] [INFO] [OPTIMIZELY] - INFO 2026-10-05T03:15:02.599Z Optimizely: Updated Optimizely config to revision 21 (project id 28346550223) @ https://static.files.bbci.co.uk/bbcdotcom/web/20260922-091849-a8520cb5b4-web-3.22.0-3/_next/static/chunks/04sq1ffotg38c.js:0
+[    1861ms] [LOG] Messaging without detection successfully executed. @ https://cdn.privacy-mgmt.com/unified/wrapperMessagingWithoutDetection.js:0

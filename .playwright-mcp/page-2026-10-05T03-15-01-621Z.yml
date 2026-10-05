@@ -1,0 +1,627 @@
+- generic [ref=e4]:
+  - generic [ref=e5]:
+    - banner [ref=e7]:
+      - navigation "BBC" [ref=e8]:
+        - generic [ref=e10]:
+          - link "BBC Homepage" [ref=e12] [cursor=pointer]:
+            - /url: https://www.bbc.com
+          - generic:
+            - list:
+              - listitem:
+                - link "Skip to content" [ref=e17] [cursor=pointer]:
+                  - /url: "#main-heading"
+              - listitem:
+                - link "Accessibility Help" [ref=e18] [cursor=pointer]:
+                  - /url: https://www.bbc.co.uk/accessibility/
+          - generic [ref=e19]:
+            - list [ref=e20]:
+              - listitem [ref=e21]:
+                - generic [ref=e22]:
+                  - link [aria-hidden]:
+                    - /url: https://account.bbc.com/account?lang=en-GB&ptrt=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Farticles%2Fcm4gl1yllg6po
+                    - generic: Your account
+            - list [ref=e28]:
+              - listitem [ref=e29]:
+                - link "Home" [ref=e30] [cursor=pointer]:
+                  - /url: https://www.bbc.com
+              - listitem [ref=e31]:
+                - link "News" [ref=e32] [cursor=pointer]:
+                  - /url: https://www.bbc.com/news
+              - listitem [ref=e33]:
+                - link "Sport" [ref=e34] [cursor=pointer]:
+                  - /url: https://www.bbc.com/sport
+              - listitem [ref=e35]:
+                - link "Earth" [ref=e36] [cursor=pointer]:
+                  - /url: https://www.bbc.com/future/earth
+              - listitem [ref=e37]:
+                - link "Reel" [ref=e38] [cursor=pointer]:
+                  - /url: https://www.bbc.com/reel
+              - listitem [ref=e39]:
+                - link "Worklife" [ref=e40] [cursor=pointer]:
+                  - /url: https://www.bbc.com/worklife
+              - listitem [ref=e41]:
+                - link "Travel" [ref=e42] [cursor=pointer]:
+                  - /url: https://www.bbc.com/travel
+            - button "More menu" [ref=e44] [cursor=pointer]
+          - search "Search BBC" [ref=e51]:
+            - link "Search BBC" [ref=e52] [cursor=pointer]:
+              - /url: https://www.bbc.com/search?d=NEWS_GNL
+      - generic [ref=e57]:
+        - link "BBC News" [ref=e62] [cursor=pointer]:
+          - /url: /news
+        - navigation "BBC News" [ref=e66]:
+          - generic [ref=e70]:
+            - list [ref=e72]:
+              - listitem [ref=e73]:
+                - link "Home" [ref=e74] [cursor=pointer]:
+                  - /url: /news
+              - listitem [ref=e76]:
+                - link "Climate" [ref=e77] [cursor=pointer]:
+                  - /url: /news/topics/cmj34zmwm1zt
+              - listitem [ref=e79]:
+                - link "World" [ref=e80] [cursor=pointer]:
+                  - /url: /news/world
+              - listitem [ref=e82]:
+                - link "UK" [ref=e83] [cursor=pointer]:
+                  - /url: /news/uk
+              - listitem [ref=e85]:
+                - link "Business" [ref=e86] [cursor=pointer]:
+                  - /url: /news/business
+              - listitem [ref=e88]:
+                - link "Tech" [ref=e89] [cursor=pointer]:
+                  - /url: /news/technology
+              - listitem [ref=e91]:
+                - link "Science" [ref=e92] [cursor=pointer]:
+                  - /url: /news/science_and_environment
+              - listitem [ref=e94]:
+                - link "Entertainment & Arts" [ref=e95] [cursor=pointer]:
+                  - /url: /news/entertainment_and_arts
+              - listitem [ref=e97]:
+                - link "Health" [ref=e98] [cursor=pointer]:
+                  - /url: /news/health
+              - listitem [ref=e100]:
+                - link "In Pictures" [ref=e101] [cursor=pointer]:
+                  - /url: /news/in_pictures
+            - button [ref=e104] [cursor=pointer]
+          - list [ref=e111]:
+            - listitem [ref=e112]:
+              - link "Health" [ref=e113] [cursor=pointer]:
+                - /url: /news/health
+    - generic [ref=e116]:
+      - generic [ref=e117]:
+        - main [ref=e118]:
+          - article [ref=e119]:
+            - generic [ref=e120]:
+              - heading "Hidden habits that make your social anxiety worse - and how to break them" [level=1] [ref=e124]
+              - figure "Image caption, Overcoming social anxiety can be tricky but experts have shared some tips to try and make it easier" [ref=e128]:
+                - generic [ref=e129]:
+                  - img "A female university student in a library wearing a demin jacket looking towards the camera with her hand on a book" [ref=e131]
+                  - generic [ref=e132]:
+                    - generic [ref=e133]: Image source,
+                    - text: Getty Images
+                - generic [ref=e134]:
+                  - generic [ref=e135]: Image caption,
+                  - paragraph [ref=e137]: Overcoming social anxiety can be tricky but experts have shared some tips to try and make it easier
+              - generic [ref=e141]:
+                - generic [ref=e142]: By
+                - link [ref=e145] [cursor=pointer]:
+                  - /url: https://www.bbc.co.uk/news/topics/cne6kq5e5r0t
+                - generic [ref=e149]: Health correspondent
+              - list [ref=e154]:
+                - listitem [ref=e156]:
+                  - generic [ref=e157]: Published
+                  - time [ref=e161]: 30 September 2026
+              - generic [ref=e165]:
+                - paragraph [ref=e166]: It was during her teenage years that Mary began to become anxious in social situations. It got so bad she developed depression and had to have time off school.
+                - paragraph [ref=e167]: By the time she started university, she avoided group settings altogether.
+                - paragraph [ref=e168]: "\"I didn't join clubs and societies like others did,\" says Mary (not her real name). \"I just thought nobody would want to get to know me. I didn't really make a single friend during my whole degree.\""
+                - paragraph [ref=e169]:
+                  - text: Mary's social anxiety was so bad that she was diagnosed as having social anxiety disorder - something that
+                  - link "affects up to 12% of people , external" [ref=e170] [cursor=pointer]:
+                    - /url: https://www.nice.org.uk/guidance/cg159/documents/social-anxiety-disorder-final-scope2
+                    - text: affects up to 12% of people
+                    - generic [ref=e171]: ", external"
+                  - text: at some point in their lives.
+                - paragraph [ref=e172]: But plenty more report struggling more generally. As students return to uni, we asked experts how to overcome these feelings whether in your first, or final year.
+              - figure "Figure caption, What makes you socially anxious?" [ref=e177]:
+                - generic [ref=e185]:
+                  - generic [ref=e186]: Figure caption,
+                  - paragraph [ref=e188]: What makes you socially anxious?
+              - generic [ref=e192]:
+                - paragraph [ref=e193]:
+                  - text: Research has suggested more than a fifth of university students face some kind of social anxiety during their studies – and it has been linked to lower grades, poorer relationships and isolation
+                  - link "in a study by the universities of Chichester, Coventry and University College London , external" [ref=e194] [cursor=pointer]:
+                    - /url: https://www.chi.ac.uk/news/anxious-students-more-likely-to-struggle-socially-and-academically-at-university-study-finds/
+                    - text: in a study by the universities of Chichester, Coventry and University College London
+                    - generic [ref=e195]: ", external"
+                  - text: .
+                - paragraph [ref=e196]: For many, university marks the first time they have moved out of home – and the expectation is that they will quickly make friends.
+                - paragraph [ref=e197]: Mary, who went to the University of Exeter, says she did try. "When I first got there I went to one society, but everybody was talking to each other and I had a sudden fear come over me. I felt I wouldn't fit in and I went home."
+              - heading "Signs you may be socially anxious" [level=2] [ref=e201]
+              - generic [ref=e205]:
+                - paragraph [ref=e206]: Mary, who is now 25, describes her social anxiety as like an out of body experience. When she was talking to new people, heat would rise in her face and her hands would begin to tingle. "I'd almost feel myself separating from my body. I forgot how to form words," she says.
+                - paragraph [ref=e207]: "\"After social situations I was often left with the sense that I'd done something awful. I had an all-consuming feel of shame. I kept thinking there was something fundamentally flawed in me.\""
+                - paragraph [ref=e208]: Neil Greening, chair of the Social Anxiety Alliance UK, says this is a typical characteristic of people with social anxiety.
+                - paragraph [ref=e209]: "\"People think they have a personality flaw. They internalise it rather than seeing it as a recognisable condition that they can get help for.\""
+                - paragraph [ref=e210]: "The key thing to remember: It's fairly normal to feel a little shy or anxious when meeting new people, being in new situations or going for a job interview. Social anxiety is when it actually stops people doing things, Greening says."
+                - paragraph [ref=e211]: For those with a clinical diagnosis it can have a debilitating impact like it did for Mary.
+                - paragraph [ref=e212]: "\"It can be hard to admit to any form of social anxiety in a world where extrovertism and social confidence is generally admired. Many people try to hide their social anxiety or use safety behaviours.\""
+                - paragraph [ref=e213]: "Signs someone may be socially anxious:"
+                - list [ref=e215]:
+                  - listitem [ref=e216]:
+                    - paragraph [ref=e217]: Keeping quiet
+                  - listitem [ref=e218]:
+                    - paragraph [ref=e219]: Giving short answers
+                  - listitem [ref=e220]:
+                    - paragraph [ref=e221]: Playing with a phone to avoid interacting
+                  - listitem [ref=e222]:
+                    - paragraph [ref=e223]: Always staying close to someone or staying on the edges of a group
+                  - listitem [ref=e224]:
+                    - paragraph [ref=e225]: Sticking to safe subjects of conversation like work
+                - paragraph [ref=e226]: Greening says there is some evidence social anxiety is getting worse and that increased use of smartphones and remote working is contributing by "leading to less social interactions and increased levels of anxiety".
+              - heading "How to help yourself" [level=2] [ref=e230]
+              - generic [ref=e234]:
+                - paragraph [ref=e235]: Mary, who has moved on to do a postgraduate course, is now managing her social anxiety better. After her undergraduate degree she got support from the NHS in the form of a talking therapy called CBT.
+                - paragraph [ref=e236]: It is considered the gold standard treatment for social anxiety and encourages people to re-frame their thoughts and change their behaviours.
+                - paragraph [ref=e237]: Prof David Clark, a psychologist at the University of Oxford, says he would like to see more people come forward for therapy but says people can also take steps to help themselves.
+                - paragraph [ref=e238]: The first step, he says, is to stop obsessive self-focus. "People with social anxiety often monitor themselves constantly during social situations. Am I blushing? Do I sound stupid? Do I look nervous?
+                - paragraph [ref=e239]: "\"Focus outwardly on the conversation, other person or your surroundings.\""
+                - paragraph [ref=e240]: He says you also need to test your fears with behavioural experiments by asking a question in a meeting or saying something in a group and noticing what happens.
+                - paragraph [ref=e241]: "\"People with social anxiety often assume negative outcomes – that they will embarrass themselves or think others will find them boring. Testing that can help people break that. It's frightening, but it can really help.\""
+                - paragraph [ref=e242]: He also says they need to drop safety behaviours, such as rehearsing every sentence, avoiding eye contact or sticking close to one particular person.
+                - paragraph [ref=e243]: And finally, Clark adds, try to avoid post-event rumination. "It's so easy to distort what actually happened."
+                - paragraph [ref=e244]: This is something Mary can empathise with. "I used to play things over constantly in my mind. What I've learnt is that dealing with social anxiety is a gradual process. The therapy really helped me, but so did something a friend said to me a couple of years ago.
+                - paragraph [ref=e245]: "\"When I said I didn't want to join her in meeting some of her friends, citing my poor social skills, she said she'd never thought that about me and that I shouldn't undersell myself. I was overcome with emotion."
+                - paragraph [ref=e246]: "\"I'm now pushing myself to engage more. It helps that in my postgrad course we're in smaller groups, but I've also joined an astronomy group. It's still difficult and it doesn't always go how I want it to, but I'm learning to manage it.\""
+              - generic [ref=e250]:
+                - heading "Related topics" [level=2] [ref=e252]
+                - list [ref=e254]:
+                  - listitem [ref=e255]:
+                    - link "Mental health" [ref=e256] [cursor=pointer]:
+                      - /url: /news/topics/cwlw3xz04egt
+                  - listitem [ref=e257]:
+                    - link "Health" [ref=e258] [cursor=pointer]:
+                      - /url: /news/health
+              - generic [ref=e260]:
+                - heading "More on this story" [level=2] [ref=e261]
+                - list [ref=e262]:
+                  - listitem [ref=e263]:
+                    - generic [ref=e265]:
+                      - generic [ref=e266]:
+                        - link [ref=e268] [cursor=pointer]:
+                          - /url: /news/articles/cmwyz2p41ezvo
+                          - paragraph [ref=e270]: "Fresh bedsheets and dusk walks: Expert tips for sleep-deprived freshers"
+                        - list [ref=e273]:
+                          - listitem [ref=e275]:
+                            - generic [ref=e276]: Published
+                            - generic [ref=e277]: 23 September
+                      - img "A tired young woman alspeep on her desk in front of a laptop" [ref=e284]
+                  - listitem [ref=e285]:
+                    - generic [ref=e287]:
+                      - generic [ref=e288]:
+                        - link [ref=e290] [cursor=pointer]:
+                          - /url: /news/articles/c99drr70m2eo
+                          - paragraph [ref=e292]: Why 'sleepmaxxing' could be making your sleep worse
+                        - list [ref=e295]:
+                          - listitem [ref=e297]:
+                            - generic [ref=e298]: Published
+                            - generic [ref=e299]: 3 September
+                      - img "An illustration of a man asleep, with a concerned look on his face, wearing a smart watch with four coloured streaks on the screen; the colours seem to be reflecting onto the wall and the man's face and body as he tries to sleep." [ref=e306]
+                  - listitem [ref=e307]:
+                    - generic [ref=e309]:
+                      - generic [ref=e310]:
+                        - link [ref=e312] [cursor=pointer]:
+                          - /url: /news/articles/c4gkd4zw564o
+                          - paragraph [ref=e314]: Why caffeine makes some people buzz - and others barely notice
+                        - list [ref=e317]:
+                          - listitem [ref=e319]:
+                            - generic [ref=e320]: Published
+                            - generic [ref=e321]: 17 September
+                      - img "A portrait shot of Emily staring at the camera. She is wearing dark glasses and a black jacket, and has light brown hair. She us holding a cup of coffee in front of her." [ref=e328]
+        - complementary "vertical video collection" [ref=e329]:
+          - generic [ref=e331]:
+            - generic [ref=e333]:
+              - heading "The video playlist" [level=2] [ref=e335]
+              - paragraph [ref=e336]: Watch our pick of standout clips from across the BBC
+            - group [ref=e338]:
+              - generic [ref=e341]:
+                - button "Previous" [disabled] [ref=e342]
+                - button "Next, 2 to 4 of 17" [ref=e347]
+              - list [ref=e352]:
+                - listitem [ref=e353]:
+                  - button "Rare tornado whips through small Australian town. 00:00:31, play video A tornado passes through a residential area." [ref=e355] [cursor=pointer]:
+                    - generic [ref=e357]:
+                      - generic [aria-hidden] [ref=e358]: 0:31
+                      - generic [ref=e362]: Rare tornado whips through small Australian town. 00:00:31, play video
+                      - generic [aria-hidden] [ref=e363]: Rare tornado whips through small Australian town
+                    - img "A tornado passes through a residential area." [ref=e366]
+                - listitem [ref=e367]:
+                  - button "How can the UK face drought and floods at same time? 00:00:51, play video An image of drought affected ground alongside a water stream, with green hills in the background." [ref=e369] [cursor=pointer]:
+                    - generic [ref=e371]:
+                      - generic [aria-hidden] [ref=e372]: 0:51
+                      - generic [ref=e376]: How can the UK face drought and floods at same time? 00:00:51, play video
+                      - generic [aria-hidden] [ref=e377]: How can the UK face drought and floods at same time?
+                    - img "An image of drought affected ground alongside a water stream, with green hills in the background." [ref=e380]
+                - listitem [ref=e381]:
+                  - button "'What rollers?' - Memorable Glastonbury fan moments. 00:00:59, play video A smiling woman with rollers in her hair, standing in a field" [ref=e383] [cursor=pointer]:
+                    - generic [ref=e385]:
+                      - generic [aria-hidden] [ref=e386]: 0:59
+                      - generic [ref=e390]: "'What rollers?' - Memorable Glastonbury fan moments. 00:00:59, play video"
+                      - generic [aria-hidden] [ref=e391]: "'What rollers?' - Memorable Glastonbury fan moments"
+                    - img "A smiling woman with rollers in her hair, standing in a field" [ref=e394]
+                - listitem [ref=e395]:
+                  - 'button "''Really tough'': Badenoch on threats to politicians. 00:01:31, play video Badenoch speaking to Laura Kuenssberg during interview, she wears a black and white button jumper." [ref=e397] [cursor=pointer]':
+                    - generic [ref=e399]:
+                      - generic [aria-hidden] [ref=e400]: 1:31
+                      - generic [ref=e404]: "'Really tough': Badenoch on threats to politicians. 00:01:31, play video"
+                      - generic [aria-hidden] [ref=e405]: "'Really tough': Badenoch on threats to politicians"
+                    - img "Badenoch speaking to Laura Kuenssberg during interview, she wears a black and white button jumper." [ref=e408]
+                - listitem [ref=e409]:
+                  - button "How AI can boost your chances of finding a new job. 00:01:27, play video Man wearing white shirt looks at the camera" [ref=e411] [cursor=pointer]:
+                    - generic [ref=e413]:
+                      - generic [aria-hidden] [ref=e414]: 1:27
+                      - generic [ref=e418]: How AI can boost your chances of finding a new job. 00:01:27, play video
+                      - generic [aria-hidden] [ref=e419]: How AI can boost your chances of finding a new job
+                    - img "Man wearing white shirt looks at the camera" [ref=e422]
+                - listitem [ref=e423]:
+                  - button "A love story born during World War II. 00:01:27, play video A black and white photo of a man (left) and a woman (right) on their wedding day." [ref=e425] [cursor=pointer]:
+                    - generic [ref=e427]:
+                      - generic [aria-hidden] [ref=e428]: 1:27
+                      - generic [ref=e432]: A love story born during World War II. 00:01:27, play video
+                      - generic [aria-hidden] [ref=e433]: A love story born during World War II
+                    - img "A black and white photo of a man (left) and a woman (right) on their wedding day." [ref=e436]
+                - listitem [ref=e437]:
+                  - button "'We talk about everything' Dakota Johnson on her bff Taylor Swift. 00:00:45, play video Taylor Swift and Dakota Johnson lay in bed facing each other looking at each other with their hands resting under their faces." [ref=e439] [cursor=pointer]:
+                    - generic [ref=e441]:
+                      - generic [aria-hidden] [ref=e442]: 0:45
+                      - generic [ref=e446]: "'We talk about everything' Dakota Johnson on her bff Taylor Swift. 00:00:45, play video"
+                      - generic [aria-hidden] [ref=e447]: "'We talk about everything' Dakota Johnson on her bff Taylor Swift"
+                    - img "Taylor Swift and Dakota Johnson lay in bed facing each other looking at each other with their hands resting under their faces." [ref=e450]
+                - listitem [ref=e451]:
+                  - button "New sniffer dog team to detect drugs used in spiking. 00:01:08, play video A black dog." [ref=e453] [cursor=pointer]:
+                    - generic [ref=e455]:
+                      - generic [aria-hidden] [ref=e456]: 1:08
+                      - generic [ref=e460]: New sniffer dog team to detect drugs used in spiking. 00:01:08, play video
+                      - generic [aria-hidden] [ref=e461]: New sniffer dog team to detect drugs used in spiking
+                    - img "A black dog." [ref=e464]
+                - listitem [ref=e465]:
+                  - button "Have you heard about this 90 second rule? 00:01:19, play video A bald man, Aaron Dale, with a dark beard wearing a cream jumper." [ref=e467] [cursor=pointer]:
+                    - generic [ref=e469]:
+                      - generic [aria-hidden] [ref=e470]: 1:19
+                      - generic [ref=e474]: Have you heard about this 90 second rule? 00:01:19, play video
+                      - generic [aria-hidden] [ref=e475]: Have you heard about this 90 second rule?
+                    - img "A bald man, Aaron Dale, with a dark beard wearing a cream jumper." [ref=e478]
+                - listitem [ref=e479]:
+                  - button "Men in court over alleged plot to target Jewish community. 00:01:25, play video Lucy Manning outside court." [ref=e481] [cursor=pointer]:
+                    - generic [ref=e483]:
+                      - generic [aria-hidden] [ref=e484]: 1:25
+                      - generic [ref=e488]: Men in court over alleged plot to target Jewish community. 00:01:25, play video
+                      - generic [aria-hidden] [ref=e489]: Men in court over alleged plot to target Jewish community
+                    - img "Lucy Manning outside court." [ref=e492]
+                - listitem [ref=e493]:
+                  - button "Why students and riot police are clashing in Paris. 00:01:22, play video A group of protestors on the street burning a bike and bin." [ref=e495] [cursor=pointer]:
+                    - generic [ref=e497]:
+                      - generic [aria-hidden] [ref=e498]: 1:22
+                      - generic [ref=e502]: Why students and riot police are clashing in Paris. 00:01:22, play video
+                      - generic [aria-hidden] [ref=e503]: Why students and riot police are clashing in Paris
+                    - img "A group of protestors on the street burning a bike and bin." [ref=e506]
+                - listitem [ref=e507]:
+                  - button "Photos reveal the lives of Auschwitz perpetrators. 00:01:19, play video A black and white picture of a man and woman in uniform relaxing in deckchairs" [ref=e509] [cursor=pointer]:
+                    - generic [ref=e511]:
+                      - generic [aria-hidden] [ref=e512]: 1:19
+                      - generic [ref=e516]: Photos reveal the lives of Auschwitz perpetrators. 00:01:19, play video
+                      - generic [aria-hidden] [ref=e517]: Photos reveal the lives of Auschwitz perpetrators
+                    - img "A black and white picture of a man and woman in uniform relaxing in deckchairs" [ref=e520]
+                - listitem [ref=e521]:
+                  - button "Flydubai pilot describes cockpit attack by co-pilot. 00:01:04, play video Pilot looks into the camera as he has his head bandaged and had a breathing tube in his nose" [ref=e523] [cursor=pointer]:
+                    - generic [ref=e525]:
+                      - generic [aria-hidden] [ref=e526]: 1:04
+                      - generic [ref=e530]: Flydubai pilot describes cockpit attack by co-pilot. 00:01:04, play video
+                      - generic [aria-hidden] [ref=e531]: Flydubai pilot describes cockpit attack by co-pilot
+                    - img "Pilot looks into the camera as he has his head bandaged and had a breathing tube in his nose" [ref=e534]
+                - listitem [ref=e535]:
+                  - button "Teammates hailed after saving footballer's life. 00:01:15, play video Man with dark brown hair wearing a red track suit top seated" [ref=e537] [cursor=pointer]:
+                    - generic [ref=e539]:
+                      - generic [aria-hidden] [ref=e540]: 1:15
+                      - generic [ref=e544]: Teammates hailed after saving footballer's life. 00:01:15, play video
+                      - generic [aria-hidden] [ref=e545]: Teammates hailed after saving footballer's life
+                    - img "Man with dark brown hair wearing a red track suit top seated" [ref=e548]
+                - listitem [ref=e549]:
+                  - button "Polanski calls for three-year cap on rents. 00:00:42, play video Green Party leader Zack Polanski wearing a green suit jacket and a white top." [ref=e551] [cursor=pointer]:
+                    - generic [ref=e553]:
+                      - generic [aria-hidden] [ref=e554]: 0:42
+                      - generic [ref=e558]: Polanski calls for three-year cap on rents. 00:00:42, play video
+                      - generic [aria-hidden] [ref=e559]: Polanski calls for three-year cap on rents
+                    - img "Green Party leader Zack Polanski wearing a green suit jacket and a white top." [ref=e562]
+                - listitem [ref=e563]:
+                  - button "Biggest The Celebrity Traitors slip-up ever? 00:01:28, play video A woman with black hair and a heavy fringe looks at someone off-camera" [ref=e565] [cursor=pointer]:
+                    - generic [ref=e567]:
+                      - generic [aria-hidden] [ref=e568]: 1:28
+                      - generic [ref=e572]: Biggest The Celebrity Traitors slip-up ever? 00:01:28, play video
+                      - generic [aria-hidden] [ref=e573]: Biggest The Celebrity Traitors slip-up ever?
+                    - img "A woman with black hair and a heavy fringe looks at someone off-camera" [ref=e576]
+                - listitem [ref=e577]:
+                  - 'button "‘I’d never take two weeks’: What''s leave like in NYC? 00:01:01, play video Two women sit together, one holds a microphone" [ref=e579] [cursor=pointer]':
+                    - generic [ref=e581]:
+                      - generic [aria-hidden] [ref=e582]: 1:01
+                      - generic [ref=e586]: "‘I’d never take two weeks’: What's leave like in NYC? 00:01:01, play video"
+                      - generic [aria-hidden] [ref=e587]: "‘I’d never take two weeks’: What's leave like in NYC?"
+                    - img "Two women sit together, one holds a microphone" [ref=e590]
+      - generic [ref=e591]:
+        - complementary [ref=e592]:
+          - generic [ref=e593]:
+            - heading "Top stories" [level=2] [ref=e594]
+            - list [ref=e596]:
+              - listitem [ref=e597]:
+                - generic [ref=e600]:
+                  - link [ref=e602] [cursor=pointer]:
+                    - /url: /news/articles/cmwyve191dlko
+                    - paragraph [ref=e604]: US removes all bombers from RAF Fairford base
+                  - list [ref=e607]:
+                    - listitem [ref=e609]:
+                      - generic [ref=e610]: Published
+                      - generic [ref=e611]: 5 hours ago
+              - listitem [ref=e614]:
+                - generic [ref=e617]:
+                  - link [ref=e619] [cursor=pointer]:
+                    - /url: /news/articles/c6jdm5n1vy7go
+                    - paragraph [ref=e621]: Polanski banned from Israel after party's motion declaring 'Zionism is racism'
+                  - list [ref=e624]:
+                    - listitem [ref=e626]:
+                      - generic [ref=e627]: Published
+                      - generic [ref=e628]: 6 hours ago
+              - listitem [ref=e631]:
+                - generic [ref=e634]:
+                  - link [ref=e636] [cursor=pointer]:
+                    - /url: /news/articles/ck1l34ed592no
+                    - paragraph [ref=e638]: Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round
+                  - list [ref=e641]:
+                    - listitem [ref=e643]:
+                      - generic [ref=e644]: Published
+                      - generic [ref=e645]: 32 minutes ago
+        - complementary [ref=e648]:
+          - generic [ref=e649]:
+            - heading "More to explore" [level=2] [ref=e650]
+            - list [ref=e652]:
+              - listitem [ref=e653]:
+                - generic [ref=e655]:
+                  - link [ref=e658] [cursor=pointer]:
+                    - /url: /sport/american-football/articles/cqwyrlk27e7ro
+                    - paragraph [ref=e660]: "'Money-grab' or celebration? NFL kicks off London series"
+                  - img "The Washington Commanders run out before their game against the Indianapolis Colts in October 2026" [ref=e665]
+              - listitem [ref=e666]:
+                - generic [ref=e668]:
+                  - link [ref=e671] [cursor=pointer]:
+                    - /url: /news/articles/ck5yn30zn288o
+                    - paragraph [ref=e673]: "The Papers: Badenoch's 'bonfire of green laws' and 'Drop in global dealmaking'"
+                  - img "A composite image shows the front pages of the Times and Financial Times newspapers." [ref=e678]
+              - listitem [ref=e679]:
+                - generic [ref=e681]:
+                  - link [ref=e684] [cursor=pointer]:
+                    - /url: /news/articles/cv4g5267jk8yo
+                    - paragraph [ref=e686]: When parenting advice becomes too much
+                  - img "A silhouetted image of a parent shushing a child. The child is to the left of the image with their mouth open and the parent higher up to the right" [ref=e691]
+              - listitem [ref=e692]:
+                - generic [ref=e694]:
+                  - link [ref=e697] [cursor=pointer]:
+                    - /url: /news/articles/cqkgx895g9vzo
+                    - paragraph [ref=e699]: The Celebrity Traitors connections that might surprise you
+                  - img "Romesh Ranganathan and Rob Beckett" [ref=e704]
+              - listitem [ref=e705]:
+                - generic [ref=e707]:
+                  - link [ref=e710] [cursor=pointer]:
+                    - /url: /news/articles/cq8jzll3w4lvo
+                    - paragraph [ref=e712]: The Kent village that helped shape Audrey Hepburn
+                  - img "A black and white photograph of Audrey Hepburn (centre, wearing a long hat) with school friends in Elham" [ref=e717]
+              - listitem [ref=e718]:
+                - generic [ref=e720]:
+                  - link [ref=e723] [cursor=pointer]:
+                    - /url: /news/articles/crgqdw5wy0n4o
+                    - paragraph [ref=e725]: I was told my baby boy's skin was as fragile as glass
+                  - img "Ralph, a baby boy who is lying down, with white blankets surrounding him. He is looking upwards directly at the camera and has his right hand curled round someone's finger. He is wearing a lime green and white striped baby-grow which has been turned inside out so the seams are facing outwards." [ref=e730]
+              - listitem [ref=e731]:
+                - generic [ref=e733]:
+                  - link [ref=e736] [cursor=pointer]:
+                    - /url: /news/articles/cwddvddgqv9ro
+                    - paragraph [ref=e738]: The hidden daytime dance revolution - and the man who captured it on camera
+                  - img "A black and white photo of a young woman spinning a record on DJ decks. She is wearing traditional South Asian clothing as well as a bindi and bangles. Groups of young people stand or dance in the background." [ref=e743]
+              - listitem [ref=e744]:
+                - generic [ref=e746]:
+                  - link [ref=e749] [cursor=pointer]:
+                    - /url: /news/articles/c3y0zdj8jlxeo
+                    - paragraph [ref=e751]: Why thousands of couples are choosing Scotland to say 'I do'
+                  - img "Savannah who is blonde, fair skinned and wearing a white wedding dress stands next to her husband Hayden, who has dark hair and a beard and wearing a black suit. They stand in front of a Scottish Castle with the sunshining." [ref=e756]
+              - listitem [ref=e757]:
+                - generic [ref=e759]:
+                  - link [ref=e762] [cursor=pointer]:
+                    - /url: /newsletters/zgmn46f
+                    - paragraph [ref=e764]: "US Politics Unspun: Cut through the noise with Anthony Zurcher's newsletter"
+                  - img "A cut of of Anthony Zurcher wearing a suit and tie in front of a red, black, grey and blue graphic background featuring the US Capitol Building" [ref=e769]
+        - complementary [ref=e770]:
+          - generic [ref=e771]:
+            - heading "Elsewhere on the BBC" [level=2] [ref=e772]
+            - list [ref=e774]:
+              - listitem [ref=e775]:
+                - generic [ref=e777]:
+                  - link [ref=e782] [cursor=pointer]:
+                    - /url: /iplayer/episode/m0030pxt?at_mid=fVKv6oxdm6&at_campaign=The_Celebrity_Traitors_S2_E1&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002csng&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Celebrity_Traitors_S2_E1&at_bbc_team=BBC
+                    - paragraph [ref=e784]: A new group of celebrities have entered the castle
+                  - img "The Celebrity Traitors S2" [ref=e788]
+              - listitem [ref=e789]:
+                - generic [ref=e791]:
+                  - link [ref=e796] [cursor=pointer]:
+                    - /url: /sounds/play/w3ct8swm?at_mid=aB53RLwLhQ&at_campaign=The_Food_Chain_How_to_eat_for_success_on_weight_loss_drugs&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p028z2z0&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Food_Chain_How_to_eat_for_success_on_weight_loss_drugs&at_bbc_team=BBC
+                    - paragraph [ref=e798]: How to change your diet if you are taking weight-loss drugs
+                  - img "The Food Chain" [ref=e802]
+              - listitem [ref=e803]:
+                - generic [ref=e805]:
+                  - link [ref=e810] [cursor=pointer]:
+                    - /url: /iplayer/episodes/b006m8dq/strictly-come-dancing?at_mid=OMNBokELus&at_campaign=Strictly_Come_Dancing_TLEO&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=b006m8dq&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Strictly_Come_Dancing_TLEO&at_bbc_team=BBC
+                    - paragraph [ref=e812]: Get your dancing shoes ready for Movie Week
+                  - img "Strictly Come Dancing S24" [ref=e816]
+              - listitem [ref=e817]:
+                - generic [ref=e819]:
+                  - link [ref=e824] [cursor=pointer]:
+                    - /url: /sounds/play/p0mylrrz?at_mid=MAVDKvDNl9&at_campaign=Whats_Up_Docs_Doctors_Notes_Focus&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=m00298p7&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Whats_Up_Docs_Doctors_Notes_Focus&at_bbc_team=BBC
+                    - paragraph [ref=e826]: Drs Chris and Xand explore the impacts of having ADHD
+                  - img "What's Up Docs?" [ref=e830]
+        - complementary [ref=e831]:
+          - generic [ref=e832]:
+            - heading "Most read" [level=2] [ref=e833]
+            - list [ref=e835]:
+              - listitem [ref=e836]:
+                - generic [ref=e837]:
+                  - generic [ref=e838]: "1"
+                  - link [ref=e841] [cursor=pointer]:
+                    - /url: /news/articles/cmwyve191dlko
+                    - paragraph [ref=e842]: US removes all bombers from RAF Fairford base
+              - listitem [ref=e843]:
+                - generic [ref=e844]:
+                  - generic [ref=e845]: "2"
+                  - link [ref=e848] [cursor=pointer]:
+                    - /url: /news/articles/cwr5y48p89vvo
+                    - paragraph [ref=e849]: Girl, 12, fatally shot in US during 'dispute over parking space'
+              - listitem [ref=e850]:
+                - generic [ref=e851]:
+                  - generic [ref=e852]: "3"
+                  - link [ref=e855] [cursor=pointer]:
+                    - /url: /news/articles/ck5yn30zn288o
+                    - paragraph [ref=e856]: Badenoch's 'bonfire of green laws' and 'Drop in global dealmaking'
+              - listitem [ref=e857]:
+                - generic [ref=e858]:
+                  - generic [ref=e859]: "4"
+                  - link [ref=e862] [cursor=pointer]:
+                    - /url: /news/articles/cmrly809n8p6o
+                    - paragraph [ref=e863]: Protesters gather as migrants brought ashore on south coast
+              - listitem [ref=e864]:
+                - generic [ref=e865]:
+                  - generic [ref=e866]: "5"
+                  - link [ref=e869] [cursor=pointer]:
+                    - /url: /news/articles/c6jdm5n1vy7go
+                    - paragraph [ref=e870]: Polanski banned from Israel after party's motion declaring 'Zionism is racism'
+              - listitem [ref=e871]:
+                - generic [ref=e872]:
+                  - generic [ref=e873]: "6"
+                  - link [ref=e876] [cursor=pointer]:
+                    - /url: /news/articles/ck1l34ed592no
+                    - paragraph [ref=e877]: Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round
+              - listitem [ref=e878]:
+                - generic [ref=e879]:
+                  - generic [ref=e880]: "7"
+                  - link [ref=e883] [cursor=pointer]:
+                    - /url: /news/articles/cje3r35p0qeno
+                    - paragraph [ref=e884]: The job interview question you don't have to answer
+              - listitem [ref=e885]:
+                - generic [ref=e886]:
+                  - generic [ref=e887]: "8"
+                  - link [ref=e890] [cursor=pointer]:
+                    - /url: /news/articles/ckgelynyg7d3o
+                    - paragraph [ref=e891]: Christa Pike's prognosis still unclear after failed execution, lawyer says
+              - listitem [ref=e892]:
+                - generic [ref=e893]:
+                  - generic [ref=e894]: "9"
+                  - link [ref=e897] [cursor=pointer]:
+                    - /url: /news/articles/cwvgrle6dx2lo
+                    - paragraph [ref=e898]: British Museum announces changes to ease Bayeux Tapestry queues
+              - listitem [ref=e899]:
+                - generic [ref=e900]:
+                  - generic [ref=e901]: "10"
+                  - link [ref=e904] [cursor=pointer]:
+                    - /url: /news/articles/cqj6jenp26zyo
+                    - paragraph [ref=e905]: Trump unveils 'Super Intelligence Force' to oversee AI policy
+  - contentinfo [ref=e908]:
+    - navigation "BBC News Services" [ref=e909]:
+      - generic [ref=e910]:
+        - heading "BBC News Services" [level=2] [ref=e912]
+        - list [ref=e913]:
+          - listitem [ref=e914]:
+            - link [ref=e915] [cursor=pointer]:
+              - /url: https://www.bbc.co.uk/news/10628994
+          - listitem [ref=e919]:
+            - link [ref=e920] [cursor=pointer]:
+              - /url: https://www.bbc.co.uk/news/help-50068132
+          - listitem [ref=e924]:
+            - link [ref=e925] [cursor=pointer]:
+              - /url: https://www.bbc.co.uk/news/10628323
+          - listitem [ref=e929]:
+            - link [ref=e930] [cursor=pointer]:
+              - /url: https://www.bbc.co.uk/news/20039682
+    - generic [ref=e936]:
+      - list [ref=e937]:
+        - listitem [ref=e938]:
+          - link "Home" [ref=e939] [cursor=pointer]:
+            - /url: https://www.bbc.com
+        - listitem [ref=e940]:
+          - link "News" [ref=e941] [cursor=pointer]:
+            - /url: https://www.bbc.com/news
+        - listitem [ref=e942]:
+          - link "Sport" [ref=e943] [cursor=pointer]:
+            - /url: https://www.bbc.com/sport
+        - listitem [ref=e944]:
+          - link "Earth" [ref=e945] [cursor=pointer]:
+            - /url: https://www.bbc.com/future/earth
+        - listitem [ref=e946]:
+          - link "Reel" [ref=e947] [cursor=pointer]:
+            - /url: https://www.bbc.com/reel
+        - listitem [ref=e948]:
+          - link "Worklife" [ref=e949] [cursor=pointer]:
+            - /url: https://www.bbc.com/worklife
+        - listitem [ref=e950]:
+          - link "Travel" [ref=e951] [cursor=pointer]:
+            - /url: https://www.bbc.com/travel
+        - listitem [ref=e952]:
+          - link "Culture" [ref=e953] [cursor=pointer]:
+            - /url: https://www.bbc.com/culture
+        - listitem [ref=e954]:
+          - link "Future" [ref=e955] [cursor=pointer]:
+            - /url: https://www.bbc.com/future
+        - listitem [ref=e956]:
+          - link "Music" [ref=e957] [cursor=pointer]:
+            - /url: https://www.bbc.com/culture/music
+        - listitem [ref=e958]:
+          - link "TV" [ref=e959] [cursor=pointer]:
+            - /url: https://www.bbc.co.uk/schedules/p00fzl9m
+        - listitem [ref=e960]:
+          - link "Weather" [ref=e961] [cursor=pointer]:
+            - /url: https://www.bbc.com/weather
+        - listitem [ref=e962]:
+          - link "Sounds" [ref=e963] [cursor=pointer]:
+            - /url: https://www.bbc.co.uk/sounds
+      - generic [ref=e964]:
+        - list [ref=e966]:
+          - listitem [ref=e967]:
+            - link "Terms of Use" [ref=e968] [cursor=pointer]:
+              - /url: https://www.bbc.co.uk/usingthebbc/terms
+          - listitem [ref=e969]:
+            - link "About the BBC" [ref=e970] [cursor=pointer]:
+              - /url: https://www.bbc.co.uk/aboutthebbc
+          - listitem [ref=e971]:
+            - link "Privacy Policy" [ref=e972] [cursor=pointer]:
+              - /url: https://www.bbc.com/usingthebbc/privacy
+          - listitem [ref=e973]:
+            - link "Cookies" [ref=e974] [cursor=pointer]:
+              - /url: https://www.bbc.com/usingthebbc/cookies
+          - listitem [ref=e975]:
+            - link "Accessibility Help" [ref=e976] [cursor=pointer]:
+              - /url: https://www.bbc.co.uk/accessibility
+          - listitem [ref=e977]:
+            - link "Parental Guidance" [ref=e978] [cursor=pointer]:
+              - /url: https://www.bbc.co.uk/iplayer/guidance
+          - listitem [ref=e979]:
+            - link "Contact the BBC" [ref=e980] [cursor=pointer]:
+              - /url: https://www.bbc.co.uk/contact
+          - listitem [ref=e981]:
+            - link "Careers" [ref=e982] [cursor=pointer]:
+              - /url: https://www.bbc.co.uk/careers
+          - listitem [ref=e983]:
+            - link "BBC emails for you" [ref=e984] [cursor=pointer]:
+              - /url: https://www.bbc.co.uk/bbcnewsletter
+          - listitem [ref=e985]:
+            - link "Advertise with us" [ref=e986] [cursor=pointer]:
+              - /url: https://www.bbc.com/advertisingcontact/
+          - listitem [ref=e987]:
+            - button "Do not share or sell my info" [ref=e988] [cursor=pointer]
+        - paragraph [ref=e989]:
+          - text: Copyright © 2026 BBC. The BBC is not responsible for the content of external sites.
+          - link "Read about our approach to external linking." [ref=e990] [cursor=pointer]:
+            - /url: https://www.bbc.co.uk/editorialguidelines/guidance/links-and-feeds
