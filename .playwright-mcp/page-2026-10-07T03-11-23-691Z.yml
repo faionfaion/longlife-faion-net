@@ -1,0 +1,251 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=e3]:
+    - generic [ref=e5]:
+      - heading [level=1] [ref=e7]:
+        - link "Nobel Prize" [ref=e8] [cursor=pointer]:
+          - /url: https://www.nobelprize.org
+      - generic [ref=e12]:
+        - button "Open the search menu" [ref=e14] [cursor=pointer]:
+          - img "Open the search menu" [ref=e15]
+        - button "Toggle Mobile Menu" [ref=e18] [cursor=pointer]
+  - main [ref=e20]:
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - complementary [ref=e24]:
+          - generic [ref=e25]:
+            - heading [level=2] [ref=e27]:
+              - link "Nobel Prize in Physiology or Medicine 2026" [ref=e28] [cursor=pointer]:
+                - /url: https://www.nobelprize.org/prizes/medicine/2026/summary/
+            - generic [ref=e30]:
+              - heading "Share this" [level=2] [ref=e31]
+              - list "Social sharing links" [ref=e32]:
+                - listitem [ref=e33]:
+                  - link "Facebook" [ref=e34] [cursor=pointer]:
+                    - /url: https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.nobelprize.org%2Fprizes%2Fmedicine%2F2026%2Fpress-release%2F&t=Press+release
+                - listitem [ref=e38]:
+                  - link "X" [ref=e39] [cursor=pointer]:
+                    - /url: https://twitter.com/intent/tweet?text=Press+release&url=https%3A%2F%2Fwww.nobelprize.org%2Fprizes%2Fmedicine%2F2026%2Fpress-release%2F
+                - listitem [ref=e43]:
+                  - link "LinkedIn" [ref=e44] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.nobelprize.org%2Fprizes%2Fmedicine%2F2026%2Fpress-release%2F&title=Press+release
+                - listitem [ref=e51]:
+                  - link "Email this page" [ref=e52] [cursor=pointer]:
+                    - /url: mailto:?subject=From%20NobelPrize.org:%20Press%20release&body=https://www.nobelprize.org/prizes/medicine/2026/press-release/
+        - article [ref=e57]:
+          - heading "Press release" [level=1] [ref=e59]
+          - combobox [ref=e60]:
+            - option "Navigate to:" [disabled]
+            - option "Summary"
+            - option "- Karl Deisseroth"
+            - option "- Peter Hegemann"
+            - option "- Georg Nagel"
+            - option "Prize announcement"
+            - option "Press release" [disabled] [selected]
+            - option "Popular information"
+            - option "Advanced information"
+          - paragraph [ref=e61]:
+            - strong [ref=e62]: English
+            - link "English (pdf)" [ref=e63] [cursor=pointer]:
+              - /url: https://www.nobelprize.org/uploads/2026/10/press-medicineprize2026.pdf
+            - link "Swedish" [ref=e64] [cursor=pointer]:
+              - /url: https://www.nobelprize.org/prizes/medicine/2026/1929946-press-release-swedish/
+            - link "Swedish (pdf)" [ref=e65] [cursor=pointer]:
+              - /url: https://www.nobelprize.org/uploads/2026/10/press-medicineprize2026-swedish.pdf
+          - figure [ref=e66]:
+            - img "Logotype Nobelförsamlingen" [ref=e67]
+          - paragraph [ref=e68]: 5 October 2026
+          - paragraph [ref=e69]:
+            - link "The Nobel Assembly at Karolinska Institutet" [ref=e70] [cursor=pointer]:
+              - /url: https://nobelprizemedicine.org
+            - text: "has decided to award the 2026 Nobel Prize in Physiology or Medicine jointly to:"
+          - paragraph [ref=e71]:
+            - strong [ref=e72]: KARL DEISSEROTH
+            - text: The Howard Hughes Medical Institute and Stanford University, USA
+          - paragraph [ref=e73]:
+            - strong [ref=e74]: PETER HEGEMANN
+            - text: Humboldt University of Berlin, Germany
+          - paragraph [ref=e75]:
+            - strong [ref=e76]: GEORG NAGEL
+            - text: University of Würzburg, Germany
+          - paragraph [ref=e77]:
+            - emphasis [ref=e78]: “for their discoveries concerning light-gated ion channels and optogenetics”
+          - heading "Light-seeking algae gave us a switch for nerve cells" [level=2] [ref=e79]
+          - paragraph [ref=e80]: The Nobel Prize in Physiology or Medicine 2026 is awarded for optogenetics — a method that makes it possible to show how nerve cells shape memories, feelings and behaviours in the living brain. Peter Hegemann and Georg Nagel discovered a remarkable protein, channelrhodopsin, in a single-celled alga. Karl Deisseroth transformed the protein into a light-controlled switch for nerve cells. The laureates have laid the foundation of a new era in neuroscience.
+          - paragraph [ref=e81]: The Nobel Prize in Physiology or Medicine 2026 is awarded for optogenetics — a method that makes it possible to show how nerve cells shape memories, feelings and behaviours in the living brain. Peter Hegemann and Georg Nagel discovered a remarkable protein, channelrhodopsin, in a single-celled alga. Karl Deisseroth transformed the protein into a light-controlled switch for nerve cells. The Laureates have laid the foundation of a new era in neuroscience.
+          - paragraph [ref=e82]: How the brain governs feelings, behaviours and bodily functions has long been a mystery. In the 20th century, researchers began to investigate which areas of the brain affect which functions, but the methods used meant they could not prove causal relationships. The image they developed of the brain was like a sketch map, full of question marks and unknowns. Now all this is changing.
+          - paragraph [ref=e83]: “Optogenetics provides opportunities for mapping the brain in a way that we could once only dream of,” says Per Svenningsson, Chair of the Nobel Committee for Physiology or Medicine.
+          - paragraph [ref=e84]:
+            - text: It all began with Peter Hegemann’s curiosity. He wondered how
+            - emphasis [ref=e85]: Chlamydomonas
+            - text: ", a single-celled alga, is able to swim towards a light source. In the early 2000s, he and Georg Nagel discovered channelrhodopsin, an algal protein with unique properties, found on the surface of the cell. When it is illuminated by blue light, a channel opens through the protein. Charged ions then flow into the cell, creating an electrical impulse. They found that regardless of which cell they put the protein in, those cells became light sensitive."
+          - paragraph [ref=e86]: Karl Deisseroth introduced the gene for channel-rhodopsin into nerve cells from rats. By illuminating the cells with blue light, he was able to trigger a nerve signal. He published this breakthrough in 2005. Two years later, he made this light-controlled switch for nerve cells work in the brains of living mice.
+          - paragraph [ref=e87]: This method for controlling nerve signals with light is now called optogenetics, and it has rapidly gained global impact. Using optogenetics, researchers have been able to reveal neural circuits governing specific memories, feelings, and behaviours relevant for neurological and psychiatric disorders. In clinical medicine, researchers are using the method in attempts to restore sight in people with visual impairment.
+          - paragraph [ref=e88]: "Optogenetics has fundamentally altered our understanding of the brain. Every day brings new discoveries, helping to solve one of humanity’s great mysteries: how our incredible brain works."
+          - heading "Illustrations" [level=2] [ref=e89]
+          - paragraph [ref=e90]: The illustrations are free to use for non-commercial purposes. Attribute “© The Nobel Committee for Physiology or Medicine. Ill. Mattias Karlén”
+          - paragraph [ref=e91]:
+            - 'link "Illustration: The Nobel Prize in Physiology or Medicine 2026 (jpg)" [ref=e92] [cursor=pointer]':
+              - /url: https://www.nobelprize.org/uploads/2026/10/NP_POM_2026_3-2_01.jpg
+            - 'link "Illustration: The alga Chlamydomonas senses light using its eyespot (jpg)" [ref=e93] [cursor=pointer]':
+              - /url: https://www.nobelprize.org/uploads/2026/10/POP_Fig_2.jpg
+            - 'link "Illustration: Chlamydomonas genes in frog eggs (jpg)" [ref=e94] [cursor=pointer]':
+              - /url: https://www.nobelprize.org/uploads/2026/10/POP_Fig_3_ENG_01.jpg
+            - 'link "Illustration: Deisseroth introduced the gene encoding channelrhodopsin-2 into nerve cells (jpg)" [ref=e95] [cursor=pointer]':
+              - /url: https://www.nobelprize.org/uploads/2026/10/POP_Fig_4_ENG_01.jpg
+            - 'link "Illustration: Deisseroth successfully activated nerve cells in the brains of living mice (jpg)" [ref=e96] [cursor=pointer]':
+              - /url: https://www.nobelprize.org/uploads/2026/10/POP_Fig_5_ENG_01.jpg
+            - 'link "Illustration: Light sensitivity and rapid electrical response of the Chlamydomonas reinhardtii eyespot (jpg)" [ref=e97] [cursor=pointer]':
+              - /url: https://www.nobelprize.org/uploads/2026/10/ADV_FIG_1_02.jpg
+            - 'link "Illustration: Heterologous expression of channelrhodopsin-2 in Xenopus laevis oocytes (jpg)" [ref=e98] [cursor=pointer]':
+              - /url: https://www.nobelprize.org/uploads/2026/10/ADV_FIG_2-02.jpg
+            - 'link "Illustration: Optogenetic control of neuronal action potentials using light (jpg)" [ref=e99] [cursor=pointer]':
+              - /url: https://www.nobelprize.org/uploads/2026/10/ADV_FIG_3-02.jpg
+            - 'link "Illustration: In vivo optogenetics for control of animal behavior using light (jpg)" [ref=e100] [cursor=pointer]':
+              - /url: https://www.nobelprize.org/uploads/2026/10/ADV_FIG_4-02.jpg
+          - heading "Read more about this year’s prize" [level=2] [ref=e101]
+          - paragraph [ref=e102]:
+            - 'link "Popular science background: A light-sensitive algal protein energised neuroscience (pdf)" [ref=e103] [cursor=pointer]':
+              - /url: https://www.nobelprize.org/uploads/2026/10/popular-medicineprize2026.pdf
+            - link "Scientific background to the Nobel Prize in Physiology or Medicine 2026 (pdf)" [ref=e104] [cursor=pointer]:
+              - /url: https://www.nobelprize.org/uploads/2026/10/advanced-medicineprize2026.pdf
+          - separator [ref=e105]
+          - paragraph [ref=e106]:
+            - strong [ref=e107]: Karl Deisseroth
+            - text: ", born 1971. Ph.D. 1998 and MD 2000 from Stanford University, USA. D.H. Chen Professor, Professor of Bioengineering and of Psychiatry and Behavioral Sciences, at the Howard Hughes Medical Institute and Stanford University, USA."
+          - paragraph [ref=e108]:
+            - strong [ref=e109]: Peter Hegemann
+            - text: ", born 1954. Ph.D 1984 at the Max-Planck-Institute for Biochemistry, Martinsried, Germany. Hertie Senior Professor of Neuroscience, Humboldt University of Berlin, Germany. The prize awarded discoveries were made at the Max Planck Institute for Biochemistry, Martinsried, Germany"
+          - paragraph [ref=e110]:
+            - strong [ref=e111]: Georg Nagel
+            - text: ", born 1953. Ph.D. 1988 at the University of Frankfurt, Germany. Professor of Molecular Plant Physiology at the Department for Molecular Plant Physiology and Biophysics – Botany I, University of Würzburg, Germany. The prize awarded discoveries were made at Max Planck Institute for Biophysics, Frankfurt, Germany."
+          - separator [ref=e112]
+          - paragraph [ref=e113]:
+            - strong [ref=e114]: Prize amount
+            - text: ": 12 million Swedish kronor, to be shared equally between the laureates."
+            - strong [ref=e115]: Further information
+            - text: ": nobelprize.org"
+            - strong [ref=e116]: Press contact
+            - text: ": Pernilla Witte, +46-8-524 86 107, pernilla.witte@nobelprizemedicine.org or Thomas Perlmann, thomas.perlmann@nobelprizemedicine.org, Secretary-General, The Nobel Assembly at Karolinska Institutet."
+          - separator [ref=e117]
+          - paragraph [ref=e118]: "Illustrations: © The Nobel Committee for Physiology or Medicine."
+          - separator [ref=e119]
+          - paragraph [ref=e120]:
+            - emphasis [ref=e121]: The Nobel Assembly, founded 1977, is the body at Karolinska Institutet that awards the Nobel Prize in Physiology or Medicine.
+          - paragraph [ref=e122]: Nobel Prize® is the registered trademark of the Nobel Foundation
+          - paragraph [ref=e124]: "To cite this section MLA style: Press release. NobelPrize.org. Nobel Prize Outreach 2026. Wed. 7 Oct 2026. <https://www.nobelprize.org/prizes/medicine/2026/press-release/>"
+          - link "Go to the top of the page" [ref=e126] [cursor=pointer]:
+            - /url: "#content"
+      - generic [ref=e135]:
+        - heading "Six days, six prizes" [level=2] [ref=e137]
+        - article [ref=e138]:
+          - generic [ref=e139]:
+            - heading [level=3] [ref=e142]:
+              - link [ref=e143] [cursor=pointer]:
+                - /url: https://www.nobelprize.org/
+                - paragraph [ref=e144]: Nobel Prize announcements 2026
+            - paragraph [ref=e146]: Don't miss the Nobel Prize announcements on 5–12 October. All announcements are streamed live here on nobelprize.org.
+          - figure [ref=e147]:
+            - link "Nobel Prize announcements 2026" [ref=e148] [cursor=pointer]:
+              - /url: https://www.nobelprize.org/
+              - img "Watch the 2026 Nobel Prize announcements live" [ref=e150]
+      - generic [ref=e151]:
+        - generic [ref=e152]:
+          - heading "Explore prizes and laureates" [level=3] [ref=e153]
+          - generic [ref=e154]: Look for popular awards and laureates in different fields, and discover the history of the Nobel Prize.
+        - generic [ref=e155]:
+          - generic [ref=e156]:
+            - generic [ref=e157]: Select the category or categories you would like to filter by
+            - combobox "Select the category or categories you would like to filter by" [ref=e158]:
+              - option "Physics"
+              - option "Chemistry"
+              - option "Medicine" [selected]
+              - option "Literature"
+              - option "Peace"
+              - option "Economic Sciences"
+            - text: ▼
+          - generic [ref=e159]:
+            - button "Decrease the year by one" [ref=e160] [cursor=pointer]: "-"
+            - generic [ref=e161]: Choose a year you would like to search in
+            - textbox "Choose a year you would like to search in" [ref=e162]:
+              - /placeholder: "2025"
+              - text: "2026"
+            - button "Increase the year by one" [ref=e163] [cursor=pointer]: +
+          - button "Explore" [ref=e165] [cursor=pointer]
+  - contentinfo [ref=e166]:
+    - generic [ref=e167]:
+      - generic [ref=e168]:
+        - heading [level=4] [ref=e169]:
+          - link "About the Nobel Prize organisation" [ref=e170] [cursor=pointer]:
+            - /url: /the-nobel-prize-organisation/
+        - generic [ref=e171]:
+          - generic [ref=e172]:
+            - heading [level=5] [ref=e173]:
+              - link "The Nobel Foundation" [ref=e174] [cursor=pointer]:
+                - /url: /the-nobel-prize-organisation/the-nobel-foundation/
+            - paragraph [ref=e175]: Tasked with a mission to manage Alfred Nobel's fortune and has ultimate responsibility for fulfilling the intentions of Nobel's will.
+          - generic [ref=e176]:
+            - heading [level=5] [ref=e177]:
+              - link "The prize-awarding institutions" [ref=e178] [cursor=pointer]:
+                - /url: /the-nobel-prize-organisation/prize-awarding-institutions/
+            - paragraph [ref=e179]: For more than a century, these academic institutions have worked independently to select Nobel Prize laureates.
+          - generic [ref=e180]:
+            - heading [level=5] [ref=e181]:
+              - link "Outreach organisations" [ref=e182] [cursor=pointer]:
+                - /url: /the-nobel-prize-organisation/outreach-organisations/
+            - paragraph [ref=e183]: Several outreach organisations and activities have been developed to inspire generations and disseminate knowledge about the Nobel Prize.
+      - generic [ref=e184]:
+        - navigation [ref=e185]:
+          - menu [ref=e186]:
+            - menuitem [ref=e187]:
+              - link "Press" [ref=e188] [cursor=pointer]:
+                - /url: https://www.nobelprize.org/press-room/
+            - menuitem [ref=e189]:
+              - link "Contact" [ref=e190] [cursor=pointer]:
+                - /url: https://www.nobelprize.org/contact
+            - menuitem [ref=e191]:
+              - link "FAQ" [ref=e192] [cursor=pointer]:
+                - /url: https://www.nobelprize.org/frequently-asked-questions/
+        - navigation [ref=e193]:
+          - menu [ref=e194]:
+            - menuitem [ref=e195]:
+              - link "Privacy policy" [ref=e196] [cursor=pointer]:
+                - /url: /about/privacy-policy/
+            - menuitem [ref=e197]:
+              - link "Terms of use" [ref=e198] [cursor=pointer]:
+                - /url: /about/terms-of-use/
+        - navigation [ref=e199]:
+          - menu [ref=e200]:
+            - menuitem [ref=e201]:
+              - link "For developers" [ref=e202] [cursor=pointer]:
+                - /url: /about/developer-zone/
+            - menuitem [ref=e203]:
+              - link "Media player" [ref=e204] [cursor=pointer]:
+                - /url: /mediaplayer/
+            - menuitem [ref=e205]:
+              - link "Careers" [ref=e206] [cursor=pointer]:
+                - /url: https://careers.nobelprize.org
+        - navigation [ref=e207]:
+          - heading "Join us" [level=6] [ref=e208]
+          - menu [ref=e209]:
+            - menuitem [ref=e210]:
+              - link "Facebook" [ref=e211] [cursor=pointer]:
+                - /url: https://www.facebook.com/nobelprize/
+            - menuitem [ref=e215]:
+              - link "Twitter" [ref=e216] [cursor=pointer]:
+                - /url: https://twitter.com/NobelPrize
+            - menuitem [ref=e220]:
+              - link "Instagram" [ref=e221] [cursor=pointer]:
+                - /url: https://www.instagram.com/nobelprize
+            - menuitem [ref=e225]:
+              - link "Youtube" [ref=e226] [cursor=pointer]:
+                - /url: https://www.youtube.com/thenobelprize
+            - menuitem [ref=e230]:
+              - link "LinkedIn" [ref=e231] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/nobelprize/
+      - generic [ref=e238]:
+        - paragraph [ref=e240]:
+          - link "Nobel Prize" [ref=e241] [cursor=pointer]:
+            - /url: https://www.nobelprize.org
+        - generic [ref=e242]: Copyright © Nobel Prize Outreach 2026

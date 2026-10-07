@@ -1,105 +1,6 @@
 {
-  "updated_at": "2026-10-05T03:10:21.776584+00:00",
+  "updated_at": "2026-10-07T03:10:38.899478+00:00",
   "entries": [
-    {
-      "topic": "Гіпермобільність суглобів: коли «гнучкість» — це просто особливість, а коли діагноз",
-      "type": "research",
-      "category": "fitness",
-      "angle": "Тема з британських заголовків («bendy disease»), яку в оглядовому дописі 30.08 було названо просвітою без перевірних чисел — тут числа й критерії. Розвести три різні речі, які плутають: безсимптомна гіпермобільність (до 10–20% людей, особливо жінок і дітей — не хвороба), синдром гіпермобільного спектра і гіпермобільний Елерса–Данло (hEDS), у якого є формальні критерії 2017 року і немає генетичного тесту. Пояснити шкалу Бейтона просто, з попередженням, що ≥5 балів само по собі діагнозу не робить. Чому це важливо: типова історія — роки болю, втоми, вивихів і діагнозу «у вас нічого немає». Основна практична частина — рухова: прогресивні силові вправи, контроль навантаження й амплітуди, чому агресивна розтяжка й «шпагат за тиждень» цій групі шкодять, як будувати прогресію новачку в залі; РКД мало і вони малі, це названо прямо. Окремо назвати, що продають цим людям без доказів (колаген у порошку — крос-лінк на власний claim-check, тейпи як «лікування», дорогі ортези на все).",
-      "sources_hint": "Malfait et al., 2017 International Classification of Ehlers-Danlos Syndromes, Am J Med Genet C; Hakim & Grahame Beighton score literature; Palmer et al., physiotherapy for joint hypermobility syndrome — systematic review/RCTs (Physiotherapy, Rheumatology); Ehlers-Danlos Society hEDS diagnostic checklist 2017; prevalence studies of generalised joint hypermobility",
-      "evidence_level": "moderate",
-      "score": 45,
-      "rationale": "prioritiser unavailable; ordered by the planner's priority 2",
-      "proposed": "2026-09-05"
-    },
-    {
-      "topic": "Тиск удома: 7 днів, двічі на день — і чому одне вимірювання в аптеці нічого не означає",
-      "type": "guide",
-      "category": "prevention",
-      "angle": "Суботній гайд під день, коли є час зробити це правильно. Протокол домашнього моніторингу за ESC/ESH: 7 днів поспіль, ранок і вечір, по 2 вимірювання з інтервалом хвилина, перший день викидаємо, решту усереднюємо. Ключова цифра, якої більшість не знає: домашній поріг — 135/85, а не 140/90. Далі — типові помилки з ціною в мм рт. ст.: манжета поверх одягу, невідповідний розмір манжети (найбільша похибка), ноги на вазі, повний сечовий міхур, розмова під час вимірювання, рука нижче рівня серця. Окремо — «гіпертензія білого халата» і зворотна, маскована гіпертензія, яку в кабінеті не побачать; і те, чого не роблять апарати на зап'ясток. Що робити з отриманим числом: коли це привід до лікаря, а коли — привід просто повторити тиждень. Стаття суто про вимірювання: дієтичні важелі винесено в матеріал про замінник солі.",
-      "sources_hint": "ESC/ESH 2023 Guidelines for the management of arterial hypertension (home BP thresholds 135/85); AHA 2019 scientific statement 'Measurement of Blood Pressure in Humans'; Stergiou et al., ESH position paper on home BP monitoring, J Hypertens; STRIDE BP / validatebp.org validated device lists; наказ МОЗ та Уніфікований клінічний протокол «Артеріальна гіпертензія»",
-      "evidence_level": "strong",
-      "score": 60,
-      "rationale": "prioritiser unavailable; ordered by the planner's priority 1",
-      "proposed": "2026-09-05"
-    },
-    {
-      "topic": "Черга на діагноз деменції: навіщо діагноз, якщо ліків немає — і що насправді дають 14 факторів ризику",
-      "type": "research",
-      "category": "longevity",
-      "angle": "Привід — британські дані про багаторічні черги на діагностику деменції. Стаття відповідає на питання, яке ставить сам читач: «а нащо той діагноз, якщо все одно не лікується». Конкретні відповіді: виключення оборотних причин (дефіцит B12, гіпотиреоз, депресія, холінолітичні ліки, нормотензивна гідроцефалія), правові й фінансові рішення поки людина дієздатна, доступ доглядальника до підтримки. Далі чесно про нові ліки: леканемаб і донанемаб уповільнюють зниження на частку бала за шкалою CDR-SB при ризику ARIA, потребують ПЕТ/ліквору і в Україні недоступні — тобто «є ліки» ≠ «є лікування». І найсильніша частина: Lancet Commission 2024 — 14 модифікованих факторів, до 45% випадків теоретично відкладаються, з реалістичним поясненням, що це популяційна атрибутивна частка, а не персональна гарантія. Український маршрут: до кого йти, які аналізи мають сенс першими.",
-      "sources_hint": "Livingston et al., Lancet Commission on dementia prevention, intervention and care, 2024 update (14 modifiable risk factors, PAF 45%); van Dyck et al., CLARITY-AD lecanemab, NEJM 2023; Sims et al., TRAILBLAZER-ALZ 2 donanemab, JAMA 2023; NICE guideline NG97 dementia assessment; reversible causes of cognitive impairment reviews (B12, thyroid, NPH)",
-      "evidence_level": "moderate",
-      "score": 60,
-      "rationale": "prioritiser unavailable; ordered by the planner's priority 1",
-      "proposed": "2026-09-05"
-    },
-    {
-      "topic": "Магній «від судом у ногах»: що показали сліпі випробування — і що робити з нічними судомами насправді",
-      "type": "research",
-      "category": "research",
-      "angle": "Claim-check найпопулярнішої аптечної звички. Кокранівський огляд щодо магнію при судомах м'язів: у літніх людей ефект практично нульовий і не відрізняється від плацебо; дані при вагітності суперечливі. Пояснити, чому віра тримається: судоми самі минають і мають хвилеподібний перебіг, тож будь-що, прийняте на піку, «спрацює» — класична пастка регресії до середнього. Далі — що має бодай якісь дані: розтягування литок перед сном (слабко), перевірка ліків (діуретики, статини, сальбутамол), і головне — червоні прапорці, за якими судоми не судоми: слабкість, схуднення, набряки, симптоми ХЗК, алкоголь, цироз. Для дієтологів і тренерів окремий блок: дефіцит магнію реально буває, але сироватковий магній його майже не ловить, і «судома = дефіцит магнію» — не діагностичне правило. Продовження серії про форми магнію (таурат, бісгліцинат, L-треонат) — цього разу про показання, а не про сіль.",
-      "sources_hint": "Garrison et al., Magnesium for skeletal muscle cramps, Cochrane Database Syst Rev 2020; Roguin Maor et al., JAMA Intern Med 2017 (magnesium oxide RCT for nocturnal leg cramps); Hallegraeff et al., stretching for nocturnal cramps RCT; Blyton et al. / AAN guideline on nocturnal leg cramps treatment; EFSA dietary reference values for magnesium",
-      "evidence_level": "strong",
-      "score": 45,
-      "rationale": "prioritiser unavailable; ordered by the planner's priority 2",
-      "proposed": "2026-09-05"
-    },
-    {
-      "topic": "Підробки ліків для схуднення: як відрізнити оригінальну ручку від фальсифікату і що знаходили в вилучених зразках",
-      "type": "guide",
-      "category": "prevention",
-      "angle": "Практичний гайд під новину про індустрію підробок GLP-1. Не повторює серпневий розбір класу препаратів (механізм, STEP/SELECT, повернення ваги), а відповідає на іншу річ: як не купити небезпечну підробку. Що реально знаходили регулятори у вилучених зразках — інсулін замість семаглутиду (з випадками важкої гіпоглікемії і госпіталізаціями), нестерильні розчини, неправильні концентрації, компаундовані флакони, де помилка з одиницями дає 5–20-кратне передозування. Конкретні перевірні кроки: рецепт і легальна аптека, серійний номер і перевірка виробника, як виглядає автентична упаковка й ручка, чому «ампула з порошком і бактеріостатична вода» — це вже не оригінал за визначенням, і чому ціна значно нижча за ринкову — головний червоний прапорець. Українська рамка: препарат рецептурний, сірий імпорт і Telegram-продажі не мають ланцюга холоду й контролю. Червоні прапорці передозування — до лікаря негайно.",
-      "sources_hint": "FDA warnings and seizure reports on counterfeit Ozempic/semaglutide 2023-2026; EMA and MHRA statements on falsified GLP-1 pens (insulin found in counterfeit pens, UK hospitalisations); WHO Medical Product Alert No. 2/2024 on falsified semaglutide; FDA adverse event reports on compounded semaglutide dosing errors; Держлікслужба України на фальсифіковані лікарські засоби",
-      "evidence_level": "moderate",
-      "score": 45,
-      "rationale": "prioritiser unavailable; ordered by the planner's priority 2",
-      "proposed": "2026-09-05"
-    },
-    {
-      "topic": "Хропіння чи апное: чому трекер цього не діагностує, що дав CPAP у SAVE — і що змінив тирзепатид",
-      "type": "guide",
-      "category": "sleep",
-      "angle": "Тема, якої в блозі ще не було цілим матеріалом: у статті про трекери сну STOP-BANG був одним рядком маршрутизації, тут він розгорнутий. Розвести звичайне хропіння і обструктивне апное: свідчені зупинки дихання, ранкові головні болі, денна сонливість, нічна ніктурія, резистентна гіпертензія й фібриляція передсердь як привід шукати апное, а не лікувати «втому». Чому носимі пристрої й додатки з мікрофоном не ставлять діагноз (позиція AASM), і що таке респіраторна полiграфія проти повної полісомнографії. Доказова частина чесна в обидві сторони: CPAP надійно знижує AHI, сонливість і трохи тиск (~2–3 мм рт. ст.), але SAVE (NEJM 2016, n=2717) не показав зниження серцево-судинних подій — з ключовим поясненням, що середня прихильність була 3,3 год за ніч. Новіше: SURMOUNT-OSA (NEJM 2024) — тирзепатид зменшив AHI на 20–29 подій/год при ожирінні, і це перший фармакологічний варіант, але без даних про тверді кінцеві точки. Практичне сьогодні: анкета STOP-BANG удома, позиційна терапія, алкоголь за 4 години до сну (крос-лінк на матеріал про п'ятничне вино), схуднення як найсильніший модифікований чинник. Український маршрут: де роблять дослідження сну, скільки коштує, що НСЗУ не покриває апарат.",
-      "sources_hint": "McEvoy et al., SAVE trial, NEJM 2016;375:919; Malhotra et al., SURMOUNT-OSA, NEJM 2024 (tirzepatide, AHI reduction); Chung et al., STOP-BANG validation studies, Chest/Anesthesiology; AASM 2017 clinical practice guideline for diagnostic testing for adult OSA; Patil et al., AASM 2019 PAP treatment guideline; Cochrane reviews of CPAP for blood pressure and sleepiness; Benjafield et al., Lancet Respir Med 2019 (global OSA prevalence)",
-      "evidence_level": "moderate",
-      "score": 45,
-      "rationale": "prioritiser unavailable; ordered by the planner's priority 2",
-      "proposed": "2026-09-05"
-    },
-    {
-      "topic": "Пробіжка чи «зона 2»: скільки насправді треба бігати повільно і чи є сенс у пульсовій зоні, якої не вмієш визначити",
-      "type": "fitness",
-      "category": "fitness",
-      "angle": "Найпопулярніша фітнес-догма останніх років — «80% тренувань у зоні 2» — під перевіркою. Звідки взялося правило 80/20: спостережні дані про елітних витривалісних спортсменів (Seiler), а не РКД на любителях. Що показують прямі порівняння полярізованої та порогової моделей у нееліт — різниці часто немає, і головний предиктор — загальний обсяг. Практична частина, якої бракує в кожному відео: як визначити «зону 2» без лактатметра — talk test (можете говорити реченнями, не віршами) валідований проти вентиляторного порога краще, ніж формула 220 мінус вік, яка має похибку ±10–12 ударів. Для тренерів: чому формула Танаки точніша за 220−вік і чому зони від максимального пульсу і від резерву пульсу дають різні числа для однієї людини.",
-      "sources_hint": "Seiler & Kjerland, Scand J Med Sci Sports 2006 (polarized training distribution); Rosenblat et al., meta-analysis polarized vs threshold training, Sports Med 2019/2021; Reed & Pipe, talk test validation against ventilatory threshold, Med Sci Sports Exerc; Tanaka et al., JACC 2001 (HRmax = 208 − 0.7×age); Foster et al. session RPE literature",
-      "evidence_level": "moderate",
-      "score": 45,
-      "rationale": "prioritiser unavailable; ordered by the planner's priority 2",
-      "proposed": "2026-09-05"
-    },
-    {
-      "topic": "«Розріджувачі крові» з кухні: часник, куркума, імбир і риб'ячий жир — що з цього справді впливає на згортання",
-      "type": "nutrition",
-      "category": "nutrition",
-      "angle": "Другий claim-check дня, з протилежним висновком до матеріалу про замінник солі: тут популярне переконання здебільшого не витримує. Пряме продовження серпневої статті про Кардіомагніл — там був препарат, тут кухня, і повторення механізму аспірину немає. Часник у мета-аналізах дає мінімальне й нестабільне зниження тиску і жодного клінічно значущого антитромботичного ефекту; куркумін має проблему біодоступності й майже всі дані — лабораторні; імбир на агрегацію тромбоцитів у людей — суперечливі малі дослідження. Риб'ячий жир — єдиний з реальним сигналом, і саме тому важливий: у високих дозах ікозапент етилу (REDUCE-IT) справді підвищував ризик фібриляції передсердь і кровотеч. Практичний висновок з двома адресатами: не варто розраховувати на кухню замість призначеного антитромбоцитарного препарату, але й «не їжте часник перед операцією» — перебільшення; чесно назвати, де межа. Для дієтологів: як відповідати клієнту на варфарині чи прямому антикоагулянті.",
-      "sources_hint": "Ried et al., garlic and blood pressure meta-analyses, J Nutr / Exp Ther Med; Cochrane review garlic for cardiovascular prevention; Marchio et al. / Nelson et al. curcumin bioavailability reviews; Bhatt et al., REDUCE-IT, NEJM 2019 (AF and bleeding signals); STRENGTH trial JAMA 2020; systematic reviews of herbal supplement–warfarin interactions (Ge et al.)",
-      "evidence_level": "moderate",
-      "score": 30,
-      "rationale": "prioritiser unavailable; ordered by the planner's priority 3",
-      "proposed": "2026-09-05"
-    },
-    {
-      "topic": "Свинячу нирку носили 271 день: що це за операція, кому вона колись буде — і чому це ще не рішення для черги на трансплантацію",
-      "type": "research",
-      "category": "research",
-      "angle": "Пояснювальний матеріал під новину про рекордні 271 день роботи генетично модифікованої свинячої нирки в людини. Розібрати, що саме зробили: 10–69 генетичних правок для зняття гіперактивного відторгнення й ретровірусів, потужна імуносупресія, пацієнти без альтернатив за протоколом expanded access. Що показали попередні випадки: більшість трансплантатів втрачали за тижні-місяці, це серія випадків n одиниці, а не випробування; жодних даних про виживання порівняно зі стандартним діалізом. Головна чесна рамка для читача: ксенотрансплантація — інженерна віха, а не доступне лікування; черга скорочується не нею, а посмертним донорством і профілактикою ниркової недостатності. Український поворот: трансплантація в Україні працює й зростає, а найдієвіше, що може зробити читач для своїх нирок сьогодні — контроль тиску, глюкози і те, що креатинін з рШКФ є в базовій панелі.",
-      "sources_hint": "Riella/Kawai et al. pig kidney xenotransplant case reports, NEJM 2024-2026; United Therapeutics/eGenesis expanded access announcements and FDA xenotransplant clinical trial authorisations 2025-2026; Montgomery et al., NEJM 2022 (decedent model); KDIGO 2024 CKD guideline; дані української трансплант-координації МОЗ",
-      "evidence_level": "preliminary",
-      "score": 30,
-      "rationale": "prioritiser unavailable; ordered by the planner's priority 3",
-      "proposed": "2026-09-05"
-    },
     {
       "topic": "Два аналізи, які показують нирки: рШКФ і альбумін/креатинін у сечі (і чому свиняча нирка тут ні до чого)",
       "type": "guide",
@@ -1905,17 +1806,6 @@
       "proposed": "2026-10-02"
     },
     {
-      "topic": "Приховані звички, що підтримують соціальну тривожність: чому «підготуватися краще» робить гірше",
-      "type": "research",
-      "category": "mental-health",
-      "angle": "Привід — свіжий матеріал BBC (жовтень 2026) про непомітні звички, які живлять соціальну тривожність. Ключове поняття, якого майже немає в українському популярному дискурсі: охоронна поведінка (safety behaviours) — репетирувати фрази, тримати склянку в руці, сидіти ближче до виходу, мовчати в групі, перепитувати «я нормально виглядав?». Вона знижує тривогу на п'ять хвилин і закріплює її надовго, бо не дає перевірити, що страшне не станеться. Доказова база: когнітивна модель Clark & Wells 1995; експериментальні роботи, де відмова від охоронної поведінки в тому ж експонуванні давала більше зниження тривоги; мережевий мета-аналіз Mayo-Wilson (Lancet Psychiatry 2014, 101 РКД) — індивідуальна КПТ переважає і фармакотерапію, і інші психотерапії; NICE CG159. Що з цього читач може зробити самостійно (ієрархія ситуацій, відмова від однієї охоронної звички за раз, зміщення уваги з себе на співрозмовника) і де межа самодопомоги — коли це вже уникання роботи й навчання, потрібен фахівець. Розведено: соціальна тривожність ≠ сором'язливість ≠ інтроверсія. Не перетинається з матеріалом про запобігання суїциду (10.09): тут немає кризової теми, але лінію 7333 згадати одним рядком лише як запобіжник",
-      "sources_hint": "BBC Health, Oct 2026, social anxiety hidden habits; Clark DM & Wells A, 1995 cognitive model of social phobia; Mayo-Wilson E et al., Lancet Psychiatry 2014 (network meta-analysis, social anxiety disorder); NICE CG159 social anxiety disorder; Wells A et al., Behav Ther 1995 (safety behaviours experiment); Piccirillo ML et al., meta-analysis of safety behaviours",
-      "evidence_level": "strong",
-      "score": 86,
-      "rationale": "Fresh Oct 2026 BBC hook plus a strong, nameable evidence chain (Clark & Wells, Lancet Psychiatry meta-analysis, NICE), fully distinct from the suicide-prevention piece.",
-      "proposed": "2026-10-03"
-    },
-    {
       "topic": "Відіспатися на вихідних не виходить: що таке соціальний джетлаг і що з ним робити в суботу",
       "type": "guide",
       "category": "sleep",
@@ -2090,6 +1980,105 @@
       "score": 54,
       "rationale": "Seasonal hook is real but several claims rest on single tiny studies (n=8, n=10), thinning the evidence more than a full feature can carry today.",
       "proposed": "2026-10-05"
+    },
+    {
+      "topic": "Сезон грипу: кому вакцина дає найбільше, чи є сенс у «посиленій» дозі після 65 і що реально доступно в Україні",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Жовтень — єдине правильне вікно: антитіла набираються ~2 тижні, а сезон в Україні зазвичай стартує в грудні, тому матеріал має вийти саме зараз. Текст розкладає користь за групами, а не однією фразою «вакцинуйтеся». Що показують докази: у здорових дорослих вакцина знижує ризик лабораторно підтвердженого грипу приблизно вдвічі (Кокран, Demicheli), але абсолютна вигода мала; у 65+ і людей з ХОЗЛ, діабетом, серцевою недостатністю на кону госпіталізація й смерть, і тут окремий цікавий шар — РКД DANFLU-1/DANFLU-2 про високодозову вакцину проти стандартної. Для вагітних — захист і матері, і немовляти перших місяців, яке саме вакцинувати ще не можна. Чесні межі: ефективність щороку різна і залежить від збігу штамів, у сезони з дрейфом вона падає до 20–40%; «вакцина викликає грип» неможлива для інактивованої; одночасне введення з COVID-вакциною допустиме. Український блок: які вакцини зареєстровані в ДРЛЗ на сезон 2026/27, що входить до груп ризику за наказом МОЗ, ціна в аптеці проти безоплатних категорій, і чому «перехворіти краще» — не стратегія для 70-річного. Зверніться до лікаря, якщо є алергія на компоненти або гостра хвороба з гарячкою зараз.",
+      "sources_hint": "Cochrane: Demicheli V et al., Vaccines for preventing influenza in healthy adults (2018); Vaccines for preventing influenza in the elderly; DANFLU-1 (Johansen ND et al., NEJM Evid 2023) and DANFLU-2 results; WHO northern hemisphere 2026-2027 influenza vaccine composition recommendation; ECDC seasonal influenza vaccination recommendations; Ukraine MOZ order on risk groups, drlz.com.ua registry search for influenza vaccines",
+      "evidence_level": "strong",
+      "score": 87,
+      "rationale": "Cochrane plus DANFLU RCTs, exact seasonal window (2-week antibody lag before December season), strong Ukrainian registry angle, no overlap.",
+      "proposed": "2026-10-07"
+    },
+    {
+      "topic": "Мільйон тих, хто ніколи не палив, тепер вейпить: кому електронні сигарети справді допомагають, а кому шкодять",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Привід — свіжі британські дані: близько мільйона людей, які ніколи не палили, зараз вейплять. Матеріал тримає дві тези одночасно, бо саме так виглядають докази. Для дорослого курця, який хоче кинути: живий Кокранівський огляд оцінює певність як високу — нікотиновмісні електронні сигарети дають більше успішних відмов, ніж пластирі й гумки (Hajek 2019, n=886: 18% проти 9,9% за рік; Auer 2024 — вейп + консультування проти самої підтримки). Для того, хто не палив ніколи, цієї переваги не існує взагалі — є лише нікотинова залежність з нуля, а довгострокових даних про серце й легені на 20 років просто немає, бо продукт молодший. Окремо розвести три речі, які в українських дискусіях злипаються: вейп як інструмент відмови, вейп як постійна звичка «назавжди», і EVALI 2019 (вітамін Е ацетат у кустарних THC-картриджах, а не нікотинові рідини). Практичне: якщо вейп використовується для відмови — це сходинка з планом виходу і датою, а не заміна; безкоштовна альтернатива з доказами — НЗТ плюс поведінкова підтримка. Чесно: даних про те, скільком перехід на вейп закінчився подвійним вживанням, достатньо, щоб не продавати це як легкий шлях.",
+      "sources_hint": "Cochrane living review: Lindson N, Hartmann-Boyce J et al., Electronic cigarettes for smoking cessation (latest 2025/2026 update); Hajek P et al., NEJM 2019;380:629; Auer R et al., NEJM 2024 (ESTxENDS); ASH/ONS UK vaping prevalence 2026; CDC EVALI final report (vitamin E acetate); WHO report on the global tobacco epidemic 2025; Ukrainian law 1978-IX on e-cigarette restrictions",
+      "evidence_level": "strong",
+      "score": 75,
+      "rationale": "Living Cochrane review plus two named RCTs carry a genuine two-sided claim-check; timeliness rests on UK prevalence data rather than a dated trigger.",
+      "proposed": "2026-10-07"
+    },
+    {
+      "topic": "«Відіспатися на вихідних» не повертає борг: що таке соціальний джетлаг і як вирівняти тиждень",
+      "type": "guide",
+      "category": "sleep",
+      "angle": "Середина тижня — момент, коли накопичений недосип уже відчувається, а до вихідних ще далеко, тож текст потрапляє в реальний стан читача. Ключове поняття, майже невідоме поза хронобіологією: соціальний джетлаг — різниця між серединою сну у вихідні й у робочі дні; приблизно у третини людей вона більша за годину, і кожна година у когортах пов'язана з гіршими метаболічними маркерами. Головна чесність матеріалу — чи відпрацьовує довгий сон у вихідні: РКД Depner 2019 показало, що компенсаторний сон не відновив чутливість до інсуліну й навіть погіршив її після повернення до будніх підйомів, тоді як великі когорти Åkerstedt демонструють нижчу смертність у тих, хто досипає на вихідних; обидва результати назвати прямо і пояснити, чому вони не обов'язково суперечать один одному. Практичний блок — те, що справді зсуває фазу: яскраве світло у перші 30–60 хв після пробудження, фіксований час підйому важливіший за фіксований час відбою, обмеження «добирання» до однієї години, денний сон до 20–30 хв і не після 15:00. Український контекст: нічні тривоги й відключення роблять ідеальний графік неможливим, тому стратегія — захищати час підйому і ранкове світло, а не гнатися за «8 годинами». Червоний прапорець: хропіння з паузами дихання і денна сонливість попри достатній час у ліжку — це питання про апное, а не про гігієну сну.",
+      "sources_hint": "Wittmann M et al., Chronobiol Int 2006 (social jetlag); Roenneberg T et al., Curr Biol 2012; Depner CM et al., Curr Biol 2019 (weekend recovery sleep RCT); Åkerstedt T et al., J Sleep Res 2019 (weekend catch-up sleep and mortality); Chaput JP et al. sleep duration guidelines; AASM position statements on sleep irregularity; Czeisler/Duffy work on morning light and circadian phase",
+      "evidence_level": "moderate",
+      "score": 69,
+      "rationale": "Depner RCT vs Åkerstedt cohort gives a real honest-tension angle and a true midweek reader moment, but no fresh study anchors it this week.",
+      "proposed": "2026-10-07"
+    },
+    {
+      "topic": "П'ять груп ліків, які після 70 варто переглянути разом із лікарем — і чому це не «відмова від лікування»",
+      "type": "guide",
+      "category": "longevity",
+      "angle": "Теза, яку рідко чують українські родини: у людини 70+ найчастіша причина нових «ознак старості» — запаморочення, сплутаність, падіння, нетримання — не вік, а перелік препаратів у шухляді. Поліпрагмазія (≥5 ліків) у когортах стабільно пов'язана з падіннями й госпіталізаціями, а критерії Beers і STOPP/START прямо називають групи з найгіршим співвідношенням користі й шкоди для цього віку: холінолітики (стара димедролова лінія, амітриптилін, оксибутинін), бензодіазепіни і Z-препарати «для сну», НПЗЗ при гіпертензії та ХХН, ІПП, що приймаються роками без показання, і подвійні призначення від різних спеціалістів. Чесна межа, яку треба написати відкрито: систематичні огляди депрескрайбінгу показують зменшення кількості невідповідних призначень і падінь, але переконливого зниження смертності немає — тобто це про якість життя й безпеку, не про «довше жити». Практичне: зібрати всі упаковки в один пакет і принести на прийом, скласти список із дозами й датою початку, питати про кожен препарат «яка моя мета і коли ми перевіримо, чи вона досягнута», ніколи не скасовувати самостійно (особливо бензодіазепіни, антидепресанти, бета-блокатори, протиепілептичні — потрібне поступове зниження з лікарем).",
+      "sources_hint": "AGS Beers Criteria 2023 update, J Am Geriatr Soc; O'Mahony D et al., STOPP/START version 3, Eur Geriatr Med 2023; Thillainadesan J et al., Drugs Aging 2018 (deprescribing systematic review); Cochrane: Discontinuing long-term benzodiazepines; Coupland CAC et al., JAMA Intern Med 2019 (anticholinergic burden and dementia); WHO Medication Without Harm; Ukrainian MOZ protocols on polypharmacy in primary care",
+      "evidence_level": "moderate",
+      "score": 62,
+      "rationale": "Beers/STOPP-START plus deprescribing reviews are solid and the family-relevance is high, but five drug classes is a lot to settle in one sitting.",
+      "proposed": "2026-10-07"
+    },
+    {
+      "topic": "Застосунки для медитації: наскільки малий ефект у РКД — і чому він тане, щойно зникає контроль дослідника",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Заміна матеріалу про «hang-xiety»: алкоголь блог розбирав 3 жовтня (J-подібна крива) і повторно в тижневому огляді 4 жовтня, а механізм охоронної поведінки при соціальній тривожності — 5 жовтня, тож третій текст на тих самих двох опорах за тиждень був би самоповтором. Натомість — claim-check того, що українці зараз реально встановлюють собі замість терапії. Що показують дані: мета-аналізи застосунків усвідомленості дають малі ефекти на тривогу й депресію (g приблизно 0,2–0,3), і ключова деталь — ефект різко падає, коли контроль не «список очікування», а активне втручання; лист очікування сам собою роздуває результат, бо людина знає, що її відклали. Друга чесність — утримання: у реальному використанні до кінця курсу доходять одиниці відсотків, тоді як у РКД учасників підштовхують нагадуваннями, тобто дослідження вимірює не той режим, у якому застосунок живе на телефоні. Третє — де докази сильніші: очна восьмитижнева програма MBSR у РКД Hoge 2023 (JAMA Psychiatry, n=276) виявилася не гіршою за есциталопрам при тривожних розладах, і саме цей формат, а не 10 хвилин у застосунку, має найкращу базу. Четверте, про що мовчать: у мета-аналізі Farias 2020 приблизно 8% учасників повідомляли про небажані ефекти, а для людей з ПТСР інтенсивні практики не є нейтральними. Практичне: застосунок — безкоштовний і безпечний експеримент на 2–4 тижні з одним заздалегідь записаним критерієм «чи стало краще», а не лікування; де в Україні шукати доказову психотерапію і коли це 7333.",
+      "sources_hint": "Goldberg SB et al., meta-analyses of mindfulness-based mobile apps (Clin Psychol Rev / JMIR 2022) and of active vs waitlist controls; Linardon J et al. meta-analyses of mental health smartphone apps (World Psychiatry 2019; 2024 updates); real-world app engagement/retention analyses (Baumel 2019, J Med Internet Res); Hoge EA et al., JAMA Psychiatry 2023 (MBSR vs escitalopram, n=276); Farias M et al., Acta Psychiatr Scand 2020 (adverse events in meditation); NICE guidance on digital mental health technologies; Ukrainian UACBT therapist registry, LifeLine Ukraine 7333",
+      "evidence_level": "moderate",
+      "score": 61,
+      "rationale": "Goldberg/Linardon meta-analyses plus Hoge MBSR trial are nameable and real, but it's a third mental-health-adjacent piece this week, risking thematic fatigue.",
+      "proposed": "2026-10-07"
+    },
+    {
+      "topic": "Холодний душ і зимове купання: що з обіцянок має дослідження, а що тримається на подкастах",
+      "type": "research",
+      "category": "biohacking",
+      "angle": "Сезонний claim-check на старті холодів, коли у соцмережах знову починаються «30 днів холодного душу». Розкласти обіцянки окремо, бо вони мають різну силу доказів. Імунітет і хворіння: РКД Buijze 2016 (n=3018, Нідерланди) — на 29% менше днів відсутності на роботі через хворобу, але частота самих інфекцій не змінилася, і засліпити таке втручання неможливо. Настрій і енергія: суб'єктивні шкали, дрібні вибірки, величезний компонент очікування. Відновлення після тренування: тут докази найцікавіші і найнезручніші для тих, хто продає ванни з льодом — холод зменшує відчуття болючості, але систематичні огляди показують, що регулярне занурення після силових притуплює довгострокову гіпертрофію й приріст сили (Roberts 2015, Fyfe 2019), тож для того, хто тренується на масу, це втрата, а не виграш. Метаболізм і «буре жиро» — механізм є, клінічно значущої втрати ваги немає. Серйозний бік: холодовий шок — реальна причина смерті (інспіраторний рефлекс, аритмії), і людям з ІХС, гіпертензією, епілепсією, вагітним пірнати в ополонку не слід; хрещенські купання — окрема українська практика, яку варто назвати прямо. Практичне: якщо хочеться — короткий прохолодний фініш душу безпечний і безкоштовний; очікувати від нього лікування депресії чи імунітету підстав немає.",
+      "sources_hint": "Buijze GA et al., PLOS ONE 2016 (cold shower RCT, n=3018); Roberts LA et al., J Physiol 2015 (cold water immersion and resistance training adaptation); Fyfe JJ et al., J Appl Physiol 2019; Cochrane: Cold-water immersion for preventing and treating muscle soreness (Bleakley 2012); Tipton MJ et al., Exp Physiol 2017 (cold shock response, drowning risk); van Tulleken C et al. case report; reviews of cold exposure and brown adipose tissue",
+      "evidence_level": "preliminary",
+      "score": 58,
+      "rationale": "Seasonal hook is live, but the central immunity claim leans on one RCT (Buijze) — thin evidence that the piece itself must flag as thin.",
+      "proposed": "2026-10-07"
+    },
+    {
+      "topic": "Скільки силових потрібно для довшого життя: крива, яка перестає рости на одній годині на тиждень",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Претензія до перевірки: «силові краще за кардіо» — і зворотна, «залізо для здоров'я не потрібне». Дозозалежні мета-аналізи дають конкретну, незручну для обох таборів відповідь: 30–60 хвилин силових на тиждень пов'язані з найбільшим зниженням загальної смертності (~10–20%), далі крива не зростає, а у Momma 2022 за межами приблизно 130–140 хв/тиждень ефект згасає і для серцево-судинних подій навіть розвертається; при цьому поєднання силових з аеробними дає більше, ніж будь-що одне окремо. Пояснити, чому «згасання» майже напевно не означає шкоди від штанги: це спостережні дані, де за великим обсягом стоять інші люди й інші звички, і автори самі це кажуть. Що з цього робить практику: дві сесії по 20–30 хвилин на тиждень на великі групи м'язів уже знімають майже всю доступну вигоду, а далі обсяг додають для сили й гіпертрофії, не для довголіття; окремо — сила хвату й здатність піднятися зі стільця як дешеві домашні маркери, що передбачають подальшу самостійність. Для тренера: що саме відповідати клієнту, який питає «а скільком разів на тиждень достатньо», і чому відповідь різна для цілі «жити довше» і цілі «виглядати інакше».",
+      "sources_hint": "Momma H et al., Br J Sports Med 2022 (muscle-strengthening activities and mortality, dose-response meta-analysis of 16 cohorts); Gorzelitz J et al., Br J Sports Med 2022 (NIH-AARP); Giovannucci EL et al. (strength training and mortality); WHO 2020 physical activity guidelines; Celis-Morales CA et al., BMJ 2018 (grip strength); Saeidifard F et al. reviews on resistance training and cardiometabolic outcomes",
+      "evidence_level": "moderate",
+      "score": 56,
+      "rationale": "Momma dose-response meta-analysis is solid and the practical hook (two 20-30min sessions) is strong, but nothing timely pegs it to today.",
+      "proposed": "2026-10-07"
+    },
+    {
+      "topic": "Магній від судом у ногах і «для сну»: де докази є, а де їх немає зовсім",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Claim-check найпопулярнішої української аптечної добавки після вітаміну D — і тема, яку тренерам і дієтологам ставлять щотижня. Головне розведення: магній при судомах ніг у загальної популяції й у вагітних — Кокранівський огляд показує по суті нульовий ефект проти плацебо (нічні судоми у літніх не зменшуються), тоді як при еклампсії магній сульфат внутрішньовенно врятував тисячі життів у MAGPIE — це той самий елемент і абсолютно різні ситуації, і саме на цій підміні тримається маркетинг. Сон: докази обмежені дрібними дослідженнями з високим ризиком упередженості, систематичні огляди 2021–2024 ставлять певність на низький рівень; «магній гліцинат проти цитрату» — суперечка про біодоступність, а не про клінічний результат. Де магній справді потрібен: підтверджена гіпомагніємія (тривалі ІПП, діуретики, алкогольна залежність, діарея, погано контрольований діабет), і аналіз сироваткового магнію при цьому поганий маркер запасів. Побічне, про яке не пишуть на етикетці: діарея на оксиді, і ризик при ХХН. Для тренера: судоми під час навантаження — це переважно нейром'язова втома й темп нарощування, а не дефіцит мінералу, і стратегія — навантаження, сон, натрій і рідина, а не капсула.",
+      "sources_hint": "Cochrane: Garrison SR et al., Magnesium for skeletal muscle cramps (2020); Cochrane magnesium supplementation in pregnancy; MAGPIE trial (Lancet 2002) for contrast; systematic reviews of magnesium and sleep quality 2021-2024 (e.g. Nutrients, Sleep Medicine Reviews); EFSA dietary reference values for magnesium; Rondanelli M et al. reviews on magnesium bioavailability; NIH ODS magnesium fact sheet",
+      "evidence_level": "moderate",
+      "score": 51,
+      "rationale": "Cochrane null plus MAGPIE contrast makes a clean claim-check, but it's evergreen supplement territory with no hook and recent supplement-genre overlap.",
+      "proposed": "2026-10-07"
+    },
+    {
+      "topic": "Колаген у порошку для шкіри й суглобів: що показали РКД — і хто їх оплатив",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Класичний для блогу розбір: механізм звучить переконливо, тому добавку купують, не питаючи про результат. Перше — що відбувається з колагеном після того, як його випили: він розщеплюється до амінокислот і дипептидів, тобто «доставки колагену в шкіру» не існує; гіпотеза працює інакше, через сигнальні пептиди, і вона залишається гіпотезою. Друге — самі дані: мета-аналізи РКД щодо зволоженості й еластичності шкіри показують статистично значущі, але дрібні ефекти, при цьому майже всі включені дослідження фінансовані виробниками, з короткими строками й сурогатними приладовими кінцевими точками замість «як шкіра виглядає»; при остеоартриті колагенові гідролізати мають суперечливі результати і сильно неоднорідні дози. Третє — що точно не доведено: нігті, волосся, «відновлення хрящів», профілактика травм. Четверте, практичне і дешеве: достатній загальний білок (1,2–1,6 г/кг при активному способі життя), вітамін C, сон і захист від сонця мають під собою незрівнянно сильнішу базу для шкіри, ніж будь-який порошок, а «колаген у кавничку» часто виявляється найдорожчим способом з'їсти 10 г білка. Для дієтолога: як відповідати клієнту, який уже купив банку, не руйнуючи довіри — і де межа, після якої це просто харчовий продукт без претензій.",
+      "sources_hint": "PubMed: meta-analyses of hydrolyzed collagen peptides and skin hydration/elasticity (e.g. de Miranda RB et al., Int J Dermatol 2021; Pu SY et al., Nutrients 2023); collagen hydrolysate in osteoarthritis systematic reviews (García-Coronado JM et al., Int Orthop 2019); EFSA rejected health claims for collagen; industry funding analyses of supplement trials; protein requirement position stands (ISSN, EFSA)",
+      "evidence_level": "moderate",
+      "score": 47,
+      "rationale": "Industry-funded trial critique is real but modest in size, fully evergreen with no timeliness trigger and the weakest hook of the set.",
+      "proposed": "2026-10-07"
     }
   ]
 }

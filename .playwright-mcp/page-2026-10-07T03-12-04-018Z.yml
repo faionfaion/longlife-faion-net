@@ -1,0 +1,181 @@
+- generic [ref=f3e1]:
+  - link "Skip to content" [ref=f3e2] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=f3e3]:
+    - generic [ref=f3e5]:
+      - heading [level=1] [ref=f3e7]:
+        - link "Nobel Prize" [ref=f3e8] [cursor=pointer]:
+          - /url: https://www.nobelprize.org
+      - generic [ref=f3e12]:
+        - button "Open the search menu" [ref=f3e14] [cursor=pointer]:
+          - img "Open the search menu" [ref=f3e15]
+        - button "Toggle Mobile Menu" [ref=f3e18] [cursor=pointer]
+  - main [ref=f3e20]:
+    - generic [ref=f3e22]:
+      - generic [ref=f3e23]:
+        - complementary [ref=f3e24]:
+          - generic [ref=f3e25]:
+            - heading [level=2] [ref=f3e27]:
+              - link "Nobel Prize in Physiology or Medicine 2026" [ref=f3e28] [cursor=pointer]:
+                - /url: https://www.nobelprize.org/prizes/medicine/2026/summary/
+            - generic [ref=f3e30]:
+              - heading "Share this" [level=2] [ref=f3e31]
+              - list "Social sharing links" [ref=f3e32]:
+                - listitem [ref=f3e33]:
+                  - link "Facebook" [ref=f3e34] [cursor=pointer]:
+                    - /url: https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.nobelprize.org%2Fprizes%2Fmedicine%2F2026%2Fadvanced-information%2F&t=Advanced+information
+                - listitem [ref=f3e38]:
+                  - link "X" [ref=f3e39] [cursor=pointer]:
+                    - /url: https://twitter.com/intent/tweet?text=Advanced+information&url=https%3A%2F%2Fwww.nobelprize.org%2Fprizes%2Fmedicine%2F2026%2Fadvanced-information%2F
+                - listitem [ref=f3e43]:
+                  - link "LinkedIn" [ref=f3e44] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.nobelprize.org%2Fprizes%2Fmedicine%2F2026%2Fadvanced-information%2F&title=Advanced+information
+                - listitem [ref=f3e51]:
+                  - link "Email this page" [ref=f3e52] [cursor=pointer]:
+                    - /url: mailto:?subject=From%20NobelPrize.org:%20Advanced%20information&body=https://www.nobelprize.org/prizes/medicine/2026/advanced-information/
+        - article [ref=f3e57]:
+          - heading "Advanced information" [level=1] [ref=f3e59]
+          - combobox [ref=f3e60]:
+            - option "Navigate to:" [disabled]
+            - option "Summary"
+            - option "- Karl Deisseroth"
+            - option "- Peter Hegemann"
+            - option "- Georg Nagel"
+            - option "Prize announcement"
+            - option "Press release"
+            - option "Popular information"
+            - option "Advanced information" [disabled] [selected]
+          - figure [ref=f3e61]:
+            - img "Logotype Nobelförsamlingen" [ref=f3e62]
+          - heading "Scientific background" [level=2] [ref=f3e63]
+          - paragraph [ref=f3e64]:
+            - 'link "Scientific background to the Nobel Prize in Physiology or Medicine 2026: Optogenetics. Discovery of a neuronal switch (pdf)" [ref=f3e65] [cursor=pointer]':
+              - /url: https://www.nobelprize.org/uploads/2026/10/advanced-medicineprize2026.pdf
+          - paragraph [ref=f3e67]: "To cite this section MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach 2026. Wed. 7 Oct 2026. <https://www.nobelprize.org/prizes/medicine/2026/advanced-information/>"
+          - link "Go to the top of the page" [ref=f3e69] [cursor=pointer]:
+            - /url: "#content"
+      - generic [ref=f3e78]:
+        - heading "Six days, six prizes" [level=2] [ref=f3e80]
+        - article [ref=f3e81]:
+          - generic [ref=f3e82]:
+            - heading [level=3] [ref=f3e85]:
+              - link [ref=f3e86] [cursor=pointer]:
+                - /url: https://www.nobelprize.org/
+                - paragraph [ref=f3e87]: Nobel Prize announcements 2026
+            - paragraph [ref=f3e89]: Don't miss the Nobel Prize announcements on 5–12 October. All announcements are streamed live here on nobelprize.org.
+          - figure [ref=f3e90]:
+            - link "Nobel Prize announcements 2026" [ref=f3e91] [cursor=pointer]:
+              - /url: https://www.nobelprize.org/
+              - img "Watch the 2026 Nobel Prize announcements live" [ref=f3e93]
+      - generic [ref=f3e94]:
+        - generic [ref=f3e95]:
+          - heading "Explore prizes and laureates" [level=3] [ref=f3e96]
+          - generic [ref=f3e97]: Look for popular awards and laureates in different fields, and discover the history of the Nobel Prize.
+        - generic [ref=f3e98]:
+          - generic [ref=f3e99]:
+            - generic [ref=f3e100]: Select the category or categories you would like to filter by
+            - combobox "Select the category or categories you would like to filter by" [ref=f3e101]:
+              - option "Physics"
+              - option "Chemistry"
+              - option "Medicine" [selected]
+              - option "Literature"
+              - option "Peace"
+              - option "Economic Sciences"
+            - text: ▼
+          - generic [ref=f3e102]:
+            - button "Decrease the year by one" [ref=f3e103] [cursor=pointer]: "-"
+            - generic [ref=f3e104]: Choose a year you would like to search in
+            - textbox "Choose a year you would like to search in" [ref=f3e105]:
+              - /placeholder: "2025"
+              - text: "2026"
+            - button "Increase the year by one" [ref=f3e106] [cursor=pointer]: +
+          - button "Explore" [ref=f3e108] [cursor=pointer]
+  - contentinfo [ref=f3e109]:
+    - generic [ref=f3e110]:
+      - generic [ref=f3e111]:
+        - heading [level=4] [ref=f3e112]:
+          - link "About the Nobel Prize organisation" [ref=f3e113] [cursor=pointer]:
+            - /url: /the-nobel-prize-organisation/
+        - generic [ref=f3e114]:
+          - generic [ref=f3e115]:
+            - heading [level=5] [ref=f3e116]:
+              - link "The Nobel Foundation" [ref=f3e117] [cursor=pointer]:
+                - /url: /the-nobel-prize-organisation/the-nobel-foundation/
+            - paragraph [ref=f3e118]: Tasked with a mission to manage Alfred Nobel's fortune and has ultimate responsibility for fulfilling the intentions of Nobel's will.
+          - generic [ref=f3e119]:
+            - heading [level=5] [ref=f3e120]:
+              - link "The prize-awarding institutions" [ref=f3e121] [cursor=pointer]:
+                - /url: /the-nobel-prize-organisation/prize-awarding-institutions/
+            - paragraph [ref=f3e122]: For more than a century, these academic institutions have worked independently to select Nobel Prize laureates.
+          - generic [ref=f3e123]:
+            - heading [level=5] [ref=f3e124]:
+              - link "Outreach organisations" [ref=f3e125] [cursor=pointer]:
+                - /url: /the-nobel-prize-organisation/outreach-organisations/
+            - paragraph [ref=f3e126]: Several outreach organisations and activities have been developed to inspire generations and disseminate knowledge about the Nobel Prize.
+      - generic [ref=f3e127]:
+        - navigation [ref=f3e128]:
+          - menu [ref=f3e129]:
+            - menuitem [ref=f3e130]:
+              - link "Press" [ref=f3e131] [cursor=pointer]:
+                - /url: https://www.nobelprize.org/press-room/
+            - menuitem [ref=f3e132]:
+              - link "Contact" [ref=f3e133] [cursor=pointer]:
+                - /url: https://www.nobelprize.org/contact
+            - menuitem [ref=f3e134]:
+              - link "FAQ" [ref=f3e135] [cursor=pointer]:
+                - /url: https://www.nobelprize.org/frequently-asked-questions/
+        - navigation [ref=f3e136]:
+          - menu [ref=f3e137]:
+            - menuitem [ref=f3e138]:
+              - link "Privacy policy" [ref=f3e139] [cursor=pointer]:
+                - /url: /about/privacy-policy/
+            - menuitem [ref=f3e140]:
+              - link "Terms of use" [ref=f3e141] [cursor=pointer]:
+                - /url: /about/terms-of-use/
+        - navigation [ref=f3e142]:
+          - menu [ref=f3e143]:
+            - menuitem [ref=f3e144]:
+              - link "For developers" [ref=f3e145] [cursor=pointer]:
+                - /url: /about/developer-zone/
+            - menuitem [ref=f3e146]:
+              - link "Media player" [ref=f3e147] [cursor=pointer]:
+                - /url: /mediaplayer/
+            - menuitem [ref=f3e148]:
+              - link "Careers" [ref=f3e149] [cursor=pointer]:
+                - /url: https://careers.nobelprize.org
+        - navigation [ref=f3e150]:
+          - heading "Join us" [level=6] [ref=f3e151]
+          - menu [ref=f3e152]:
+            - menuitem [ref=f3e153]:
+              - link "Facebook" [ref=f3e154] [cursor=pointer]:
+                - /url: https://www.facebook.com/nobelprize/
+            - menuitem [ref=f3e158]:
+              - link "Twitter" [ref=f3e159] [cursor=pointer]:
+                - /url: https://twitter.com/NobelPrize
+            - menuitem [ref=f3e163]:
+              - link "Instagram" [ref=f3e164] [cursor=pointer]:
+                - /url: https://www.instagram.com/nobelprize
+            - menuitem [ref=f3e168]:
+              - link "Youtube" [ref=f3e169] [cursor=pointer]:
+                - /url: https://www.youtube.com/thenobelprize
+            - menuitem [ref=f3e173]:
+              - link "LinkedIn" [ref=f3e174] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/nobelprize/
+      - generic [ref=f3e181]:
+        - paragraph [ref=f3e183]:
+          - link "Nobel Prize" [ref=f3e184] [cursor=pointer]:
+            - /url: https://www.nobelprize.org
+        - generic [ref=f3e185]: Copyright © Nobel Prize Outreach 2026
+  - generic:
+    - region "Cookie banner" [active] [ref=f3e187]:
+      - dialog "Privacy" [ref=f3e188]:
+        - generic [ref=f3e189]:
+          - generic [ref=f3e191]:
+            - text: By clicking “accept all cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyse site usage, and enabling the full functioning of nobelprize.org.
+            - link "More information about your privacy, opens in a new tab" [ref=f3e192] [cursor=pointer]:
+              - /url: https://www.nobelprize.org/about/privacy-policy/#cookie-policy
+              - text: Our cookie policy
+          - generic [ref=f3e194]:
+            - button "Accept all cookies" [ref=f3e196] [cursor=pointer]
+            - button "Cookies settings" [ref=f3e197] [cursor=pointer]
+    - text: Cookies settings
