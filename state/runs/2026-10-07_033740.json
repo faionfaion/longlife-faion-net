@@ -1,0 +1,80 @@
+{
+  "timestamp": "2026-10-07_033740",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "nobel-2026-optogenetyka-kanalrodopsyn-vidstan-do-apteky",
+  "author": "Віта",
+  "duration_s": 2077.6,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 396.5,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 59.0,
+      "error": null
+    },
+    {
+      "name": "research:Нобелівська премія з медицини ",
+      "status": "ok",
+      "duration_s": 599.4,
+      "error": null
+    },
+    {
+      "name": "generate:Нобелівська премія з медицини ",
+      "status": "ok",
+      "duration_s": 164.3,
+      "error": null
+    },
+    {
+      "name": "text_edit:Нобелівська премія з медицини ",
+      "status": "ok",
+      "duration_s": 125.5,
+      "error": null
+    },
+    {
+      "name": "review:Нобелівська премія з медицини ",
+      "status": "ok",
+      "duration_s": 299.3,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Нобелівська премія з медицини ",
+      "status": "ok",
+      "duration_s": 18.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Нобелівська премія з медицини ",
+      "status": "ok",
+      "duration_s": 15.2,
+      "error": null
+    },
+    {
+      "name": "save:Нобелівська премія з медицини ",
+      "status": "ok",
+      "duration_s": 396.2,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.3,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}

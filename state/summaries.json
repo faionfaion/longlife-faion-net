@@ -7211,5 +7211,21 @@
       "критичне мислення"
     ],
     "summary": "Нобелівську премію з фізіології та медицини 2026 отримали Карл Дайссерот, Петер Гегеманн і Георг Нагель за відкриття світлокерованих іонних каналів та оптогенетику (офіційне формулювання перевірене на nobelprize.org; медіа зазвичай скорочують його до \"оптогенетики\", втрачаючи саме біологічне відкриття - канальродопсин). Стаття пояснює ланцюг: гіпотеза Гегеманна 1991 про рецептор-канал у водорості, ChR1 (Science 2002) і ChR2 (PNAS 2003) в яйцеклітинах жаби, перші нейрони під світлом (Boyden et al., Nat Neurosci 2005) завдяки випадковому спостереженню Нагеля про достатність власного ретиналю, далі жива миша (2007) і причинні експерименти з енграмою пам'яті та проєкціями мигдалини.\n\nДруга половина - відстань від механізму до аптеки. Уся людська база: опис одного випадку часткового повернення зору при пігментному ретиніті (Sahel et al., Nat Med 2021, n=1) і одне рандомізоване sham-контрольоване дослідження MCO-010 (близько 27 учасників, первинна точка досягнута); FDA прийняла заявку, рішення - перша половина 2027. Жодної схваленої оптогенетичної терапії у світі станом на жовтень 2026. Для мозку прямого застосування немає: потрібен ген, вживлений світловод і довічна імунна толерантність. Контекст лагу: базова ставка успіху 13,8% (Wong/Siah/Lo 2019), відсутність препаратів за преміями 2016 і 2017, відмова FDA роксадустату (2021), 15 років для чекпойнт-інгібіторів. Практичний висновок для читача: якщо з нового відкриття вже наступного тижня продають курс - продають не відкриття (прецедент TA-65 під премією 2009). Сила доказів: історично-механістична частина міцна, клінічна - від preliminary до moderate."
+  },
+  "hryp-vaktsyna-zhovten-vikno-hozl-diabet-sertse-65-plus": {
+    "date": "2026-10-10",
+    "title": "Вакцину від грипу роби в жовтні, а не в січні",
+    "type": "guide",
+    "tags": [
+      "грип",
+      "вакцинація",
+      "профілактика",
+      "ХОЗЛ",
+      "діабет",
+      "серце",
+      "дослідження",
+      "Україна"
+    ],
+    "summary": "Guide arguing October is the correct window for flu vaccination in Ukraine (antibodies peak day 10-14; season starts in December), then breaking benefit down by group. In healthy adults the relative reduction is roughly half but absolute benefit is small (Cochrane NNV ~71). The strongest evidence is cardiac: IAMI RCT (n=2571) showed 2.9% vs 4.9% all-cause mortality after MI, and a 2026 Frontiers in Immunology umbrella review of 14 reviews found MACE down about a third in ischaemic heart disease (high certainty). COPD: Cochrane 2018 (2469 COPD patients) shows ~0.37 fewer exacerbations per person per season, driven by late exacerbations, no excess in first 14 days, but all trials predate 2005. Diabetes: observational only, low/very low certainty, healthy-vaccinee bias. Heart failure (IVVE): primary composite null, pneumonia and all-cause hospitalisation reduced.\n\nNew in 2026: a JAMA Network Open meta-analysis (8 RCTs, 605,098 people 65+) resolves the high-dose question - flu hospitalisations down ~38%, all-cause hospitalisation ~3%, mortality null; INVESTED remains the cleanest proof that higher titres do not equal clinical benefit. High-dose vaccines are unavailable in Ukraine. Original local finding: Ukraine's June 2026 clinical protocol (Order №870) quotes retired efficacy figures (70-90% protection, 80% mortality reduction) that contradict the current evidence base. Also covers: what is registered in Ukraine (Vaxigrip Tetra, GC Flu), why September illness was almost certainly not influenza, reactogenicity vs infection (2.3% vs 1.5% fever), and the weak RCT base for community masking vs the better case for ventilation. Overall evidence: moderate."
   }
 }
