@@ -1,0 +1,80 @@
+{
+  "timestamp": "2026-10-10_033826",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "hryp-vaktsyna-zhovten-vikno-hozl-diabet-sertse-65-plus",
+  "author": "Віта",
+  "duration_s": 2123.1,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 435.0,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 76.7,
+      "error": null
+    },
+    {
+      "name": "research:Вакцина від грипу: жовтень — є",
+      "status": "ok",
+      "duration_s": 382.4,
+      "error": null
+    },
+    {
+      "name": "generate:Вакцина від грипу: жовтень — є",
+      "status": "ok",
+      "duration_s": 231.2,
+      "error": null
+    },
+    {
+      "name": "text_edit:Вакцина від грипу: жовтень — є",
+      "status": "ok",
+      "duration_s": 231.5,
+      "error": null
+    },
+    {
+      "name": "review:Вакцина від грипу: жовтень — є",
+      "status": "ok",
+      "duration_s": 401.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Вакцина від грипу: жовтень — є",
+      "status": "ok",
+      "duration_s": 29.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Вакцина від грипу: жовтень — є",
+      "status": "ok",
+      "duration_s": 12.9,
+      "error": null
+    },
+    {
+      "name": "save:Вакцина від грипу: жовтень — є",
+      "status": "ok",
+      "duration_s": 317.4,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.4,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}
