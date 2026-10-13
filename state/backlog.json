@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T03:11:34.768572+00:00",
+  "updated_at": "2026-10-13T03:09:48.396893+00:00",
   "entries": [
     {
       "topic": "П'ять хвилин дихання проти тривоги: що показало рандомізоване порівняння з медитацією",
@@ -13,83 +13,6 @@
       "proposed": "2026-09-19"
     },
     {
-      "topic": "Дуже гарячий чай і рак стравоходу: з якої температури починається шкода",
-      "type": "research",
-      "category": "research",
-      "angle": "Привід — повідомлення BBC про гарячі напої і ризик раку стравоходу. Пояснити, звідки взялася цифра 65 °C: IARC 2016 віднесла «дуже гарячі напої (понад 65 °C)» до групи 2A (ймовірно канцерогенні), а саму каву і мате без урахування температури вивела з-під підозри — тобто небезпечний не напій, а опік. Головні дані — Golestan Cohort (~50 тис. осіб, Іран): пиття чаю при ≥60 °C або менш ніж через 2 хвилини після заливання пов'язане з приблизно вдвічі вищим ризиком плоскоклітинного раку стравоходу. Обов'язково — абсолютні числа: в Україні цей рак рідкісний, тож подвоєння малого ризику лишається малим ризиком, і головні фактори все одно куріння й алкоголь. Практичний висновок побутовий і безкоштовний: чай охолоджується до безпечної температури приблизно за 4–5 хвилин; орієнтир — можна пити, не втягуючи повітря. Червоний прапорець: утруднене ковтання, відчуття застрягання їжі, втрата ваги — до лікаря без очікування.",
-      "sources_hint": "IARC Monographs Vol 116 (2016): coffee, mate, very hot beverages; Islami et al., BMJ 2009;338:b929; Islami et al., Int J Cancer 2020 (Golestan Cohort, tea temperature and ESCC); Chen et al., Ann Intern Med 2022 (UK Biobank hot tea, alcohol, smoking); GLOBOCAN/Ukrainian National Cancer Registry esophageal cancer incidence",
-      "evidence_level": "moderate",
-      "score": 63,
-      "rationale": "IARC classification plus the large Golestan cohort give solid evidence and a current BBC hook, but absolute risk in Ukraine is small, capping reader urgency.",
-      "proposed": "2026-09-10"
-    },
-    {
-      "topic": "Вересень, менше сонця — чи час пити вітамін D: що показали великі РКД",
-      "type": "nutrition",
-      "category": "nutrition",
-      "angle": "Сезонний claim-check головної добавки українських аптек — саме на переході до темної половини року. Розділити дві різні речі: лікування дефіциту (працює, потрібне) і приймання «для профілактики всього» (переважно не працює). VITAL (n=25 871, 5 років) не знизив ні онкологічної, ні серцево-судинної захворюваності; D-Health (n=21 315, Австралія, 60 000 МО щомісяця) не знизив смертності; мета-аналізи переломів (Cochrane, VITAL substudy) не показали користі вітаміну D без кальцію в загальній популяції; заявки на «профілактику застуд» після великого IPD-аналізу 2021 року значно ослабли. Що лишається твердим: дефіцит реальний на широті України взимку, група ризику — літні, люди вдома, темна шкіра, ожиріння, і саме там 800–1000 МО на добу мають сенс; при цьому мегадози шкодять — у РКД щорічні й місячні великі дози збільшували падіння й переломи. Практично: коли має сенс здавати 25(OH)D, а коли це викинуті гроші (рутинний скринінг не рекомендований), і чому «нормалізувати до 50 нг/мл» — маркетингова, а не клінічна ціль.",
-      "sources_hint": "Manson et al., VITAL, NEJM 2019 and follow-ups (cancer, CVD, fractures — LeBoff NEJM 2022); Neale et al., D-Health trial, Lancet Diabetes Endocrinol 2022 (mortality); Jolliffe et al., Lancet Diabetes Endocrinol 2021 (IPD meta-analysis, vitamin D and acute respiratory infection); Sanders et al., JAMA 2010 (annual high-dose vitamin D and falls/fractures); Bischoff-Ferrari JAMA Intern Med 2016 (monthly high dose); USPSTF 2021 statement on vitamin D screening; Endocrine Society 2024 guideline",
-      "evidence_level": "strong",
-      "score": 85,
-      "rationale": "Two huge RCTs (VITAL, D-Health) plus Cochrane/USPSTF give a strong evidence base, seasonal hook lands exactly now, and it corrects a near-universal Ukrainian habit.",
-      "proposed": "2026-09-10"
-    },
-    {
-      "topic": "Мігрень: що з аптечних знеболювальних справді працює і чому вони ж її і підтримують",
-      "type": "guide",
-      "category": "prevention",
-      "angle": "Привід — новина про розширення списку станів, які в Британії лікує фармацевт (мігрень і акне серед них). Для українського читача, який роками п'є цитрамон і спазмалгон, це шанс розібрати цифри NNT: комбінація аспірин+парацетамол+кофеїн і ібупрофен 400 мг мають доказ у Кокранівських оглядах, суматриптан 50–100 мг — окремо; метоклопрамід додається не «для шлунка», а бо при нападі всмоктування ліків падає. Ключове й майже невідоме: медикаментозно-індукований головний біль — приймання простих анальгетиків ≥15 днів на місяць або триптанів/комбінованих ≥10 днів на місяць перетворює епізодичну мігрень на щоденний біль; це не «звикання до дози», а окремий діагноз, який лікують відміною. Плюс проста рамка: щоденник нападів, коли думати про профілактику (≥4 днів болю на місяць), і червоні прапорці (найсильніший біль у житті, біль із температурою і ригідністю шиї, вперше після 50 років, неврологічний дефіцит) — це вже не мігрень. Дози і схеми — орієнтир для розмови з лікарем, а не заміна призначення.",
-      "sources_hint": "Cochrane reviews: Derry & Moore (paracetamol/aspirin/ibuprofen for acute migraine), Derry et al. (sumatriptan for acute migraine); Diener et al., Lancet Neurol 2019 (medication-overuse headache); ICHD-3 criteria 8.2; NICE CG150 headaches in over 12s; American Headache Society 2021 consensus statement on acute and preventive treatment",
-      "evidence_level": "strong",
-      "score": 82,
-      "rationale": "Strong Cochrane/NICE/AHS evidence and a genuinely underknown mechanism (medication-overuse headache) give this the substance a long feature needs, though the UK-pharmacist hook is indirect for Ukrainian readers.",
-      "proposed": "2026-09-10"
-    },
-    {
-      "topic": "10 000 кроків придумала реклама крокоміра: скільки насправді треба ходити",
-      "type": "fitness",
-      "category": "fitness",
-      "angle": "Класичний claim-check із приємним фіналом для читача: цифра 10 000 походить від японського крокоміра 1965 року «манпо-кей» («вимірювач 10 000 кроків»), а не з дослідження. Що показують дані: у мета-аналізі когорт (Paluch, Lancet Public Health 2022, ~47 тис. осіб) смертність знижується до плато приблизно на 6 000–8 000 кроків для людей 60+ і 8 000–10 000 для молодших; більшість користі набирається на переході від 2 000–3 000 до 6 000 кроків — тобто найцінніші кроки в діапазоні, де ходить малорухома людина. Друге, що варто пояснити: темп додає менше, ніж загальна кількість, і «зона кардіо» на браслеті не є умовою користі. Третє — обмеження, яке треба назвати прямо: це спостережні дані, зворотна причинність (хворі ходять менше) частково прибрана виключенням перших років спостереження, але не повністю; РКД на смертність тут не існує. Практично: як додати 2 000 кроків без спортзалу і чому крокомір у телефоні занижує (телефон лежить у сумці).",
-      "sources_hint": "Paluch et al., Lancet Public Health 2022 (steps and all-cause mortality meta-analysis, Steps for Health Collaborative); Paluch et al., JAMA Netw Open 2021 (step count in middle-aged adults); Del Pozo Cruz et al., JAMA Intern Med 2022 (steps, intensity, dementia and mortality, UK Biobank); Lee et al., JAMA Intern Med 2019 (older women); Hatano 1993 on the origin of the 10,000-step figure; WHO 2020 physical activity guidelines",
-      "evidence_level": "moderate",
-      "score": 68,
-      "rationale": "Large Lancet Public Health meta-analysis plus a genuine historical story (pedometer origin) gives enough body for a feature, but no live news hook this week.",
-      "proposed": "2026-09-10"
-    },
-    {
-      "topic": "Тест «біологічного віку» за метилюванням ДНК: що ви насправді купуєте за 200 доларів",
-      "type": "research",
-      "category": "longevity",
-      "angle": "Claim-check модної послуги, яку вже пропонують і в Україні: слина в пробірку — і вам повідомляють, що вашому тілу 38, а не 45. Пояснити просто, як це рахують: епігенетичні «годинники» (Horvath, PhenoAge, GrimAge, DunedinPACE) — це статистичні моделі, натреновані передбачати або календарний вік, або смертність, за рівнем метилювання сотень ділянок ДНК. Що дійсно доведено: у великих когортах прискорений епігенетичний вік асоційований із вищою смертністю. Чого немає: доказу, що зниження цієї цифри втручанням продовжує життя, і надійності на рівні однієї людини — дослідження відтворюваності показують коливання тесту в кількох роках біологічного віку між повторами того самого зразка, а результат залежить від складу клітин крові й недавньої хвороби. Порівняння, що закриває тему: курець, тиск, глюкоза й фізична активність передбачають ваше найближче десятиліття точніше, ніж будь-який комерційний годинник, і коштують дешевше. Розділити: сильна наука в дослідженнях старіння — і слабкий продукт на її ім'я.",
-      "sources_hint": "Horvath, Genome Biol 2013; Levine et al., Aging 2018 (PhenoAge); Lu et al., Aging 2019 (GrimAge); Belsky et al., eLife 2022 (DunedinPACE); Higgins-Chen et al., Nat Aging 2022 (technical noise and principal-component clocks, test-retest reliability); Bell et al., Genome Biol 2019 (DNA methylation aging clocks: challenges and recommendations); Fahy et al., Aging Cell 2019 (TRIIM, n=9) as an example of a weak intervention claim",
-      "evidence_level": "preliminary",
-      "score": 64,
-      "rationale": "Rich, nameable literature on the clocks themselves and their reliability problems supports a full claim-check, though the buying audience in Ukraine is still narrow.",
-      "proposed": "2026-09-10"
-    },
-    {
-      "topic": "Мелатонін — не снодійне: що дослідження кажуть про дозу, час і кому він узагалі допомагає",
-      "type": "research",
-      "category": "sleep",
-      "angle": "Claim-check найпопулярнішої аптечної добавки для сну. Мета-аналізи дають чесний ефект: засинання швидше приблизно на 7 хвилин, загальний сон довший приблизно на 8 хвилин — це реально, але це не те, що обіцяє упаковка. Головна ідея статті: мелатонін працює не як снодійне, а як сигнал часу, тому вирішує не доза, а годинник — 0,5–1 мг за 2–4 години до бажаного сну зміщує ритм краще, ніж 5–10 мг перед вимкненням світла. Де доказ найсильніший: джетлаг, розлад із затримкою фази сну (підлітки, які не можуть заснути до другої ночі), нічні зміни. Де його немає: хронічне безсоння дорослих — AASM 2017 рекомендує проти рутинного застосування, перша лінія — КПТ-безсоння. Окремо про якість продукту: аналіз добавок на ринку США показав вміст від −83% до +478% від заявленого і серотонін у частині зразків; в Україні мелатонін продається як дієтична добавка, а не ліки, тож контроль слабший. Практично: коли має сенс спробувати, коли — до лікаря (хропіння з паузами, ранкові головні болі = апное), і чому дітям без призначення лікаря — ні.",
-      "sources_hint": "Ferracioli-Oda et al., PLoS One 2013 (meta-analysis of melatonin for sleep); Auld et al., Sleep Med Rev 2017; AASM Clinical Practice Guideline (Sateia et al., J Clin Sleep Med 2017) — recommendation against melatonin for chronic insomnia; Burgess & Emens on melatonin phase-response curve and low-dose timing; Erland & Saxena, J Clin Sleep Med 2017 (melatonin content variability, serotonin contamination); Cochrane jet lag review (Herxheimer & Petrie)",
-      "evidence_level": "moderate",
-      "score": 61,
-      "rationale": "Meta-analyses, AASM guideline and a supplement-quality study give real substance for a widely-used product, but there is no timely hook pulling it to today specifically.",
-      "proposed": "2026-09-10"
-    },
-    {
-      "topic": "Два дешеві аналізи, які показують нирки: рШКФ і альбумін/креатинін у сечі",
-      "type": "guide",
-      "category": "prevention",
-      "angle": "Пряме продовження матеріалу про калієвий замінник солі (05.09), де кінцевою порадою було «спершу перевірте нирки» — тут відповідь, як саме. Хронічна хвороба нирок роками не болить, а виявляється двома аналізами, які коштують копійки: креатинін крові з розрахунком рШКФ і співвідношення альбумін/креатинін у разовій порції сечі. Пояснити просто, що означають цифри: рШКФ <60 стабільно понад 3 місяці або АКС ≥30 мг/г — це вже діагноз, і саме АКС, а не креатинін, першим показує проблему при діабеті й гіпертензії. Кому робити: діабет, гіпертензія, серцева недостатність, родинна історія, тривале приймання НПЗЗ; здоровим без факторів ризику USPSTF рутинного скринінгу не рекомендує — і це чесно сказати. Результат цих двох аналізів визначає, чи можна користуватися калієвим замінником солі і чи безпечні іАПФ/сартани. Практичні пастки: креатинін залежить від м'язової маси й креатину в спортсменів, разова «погана» цифра після навантаження чи зневоднення нічого не означає — потрібне повторення через 3 місяці. Новину про свинячу нирку не розгортати: вона вже пройшла в огляді 06.09 як подія, n=1, а не доказ.",
-      "sources_hint": "KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of CKD; USPSTF screening for CKD statement; Inker et al., CKD-EPI 2021 creatinine equation (NEJM 2021); Matsushita/Coresh CKD Prognosis Consortium meta-analyses on ACR and mortality; Ukrainian MOZ standards and NSZU program coverage for creatinine/urine albumin testing",
-      "evidence_level": "moderate",
-      "score": 58,
-      "rationale": "Genuine follow-up to the 05.09 salt-substitute piece with solid KDIGO/USPSTF backing, but the two-test scope is narrower than today's feature length wants.",
-      "proposed": "2026-09-10"
-    },
-    {
       "topic": "Крижана ванна після силового тренування може з'їсти частину результату",
       "type": "fitness",
       "category": "biohacking",
@@ -101,127 +24,6 @@
       "proposed": "2026-09-15"
     },
     {
-      "topic": "Скільки білка треба після 60 і чому «норма 0,8 г/кг» для цього віку занижена (для дієтологів і тренерів)",
-      "type": "nutrition",
-      "category": "nutrition",
-      "angle": "Матеріал на крок глибший — для тих, хто дає поради, і для дорослих дітей літніх батьків. Офіційна RDA 0,8 г/кг маси тіла виведена з азотистого балансу молодих людей і не враховує анаболічну резистентність: у літньої людини та сама порція білка дає слабшу відповідь синтезу. Робочі орієнтири експертних груп PROT-AGE і ESPEN — 1,0–1,2 г/кг для здорових літніх і 1,2–1,5 при хворобі чи саркопенії, з розподілом приблизно 25–30 г на прийом їжі, бо разова доза працює гірше, ніж три рівні. Головна чесність статті: сам по собі білок м'язи не будує — у мета-аналізах додавання протеїну без силових вправ дає мінімальний ефект на силу й функцію, тоді як силові вправи працюють навіть без добавки; білок посилює тренування, а не замінює його. Практично: скільки це в їжі (сир, яйця, риба, квасоля) без порошків, чому сніданок у літньої людини зазвичай найбідніший на білок, і застереження — при рШКФ <60 дозу білка обговорюють з лікарем, а не піднімають самостійно (прямий місток до матеріалу про ниркові аналізи).",
-      "sources_hint": "Bauer et al., PROT-AGE Study Group, JAMDA 2013; Deutz et al., ESPEN expert group, Clin Nutr 2014; Morton et al., BJSM 2018 (protein supplementation and resistance training meta-analysis); Ten Haaf et al., Br J Nutr 2018 (protein supplementation in older adults without training); Traylor/Phillips on anabolic resistance and per-meal leucine threshold; KDIGO 2024 on protein intake in CKD",
-      "evidence_level": "moderate",
-      "score": 47,
-      "rationale": "Solid PROT-AGE/ESPEN evidence, but the brief explicitly targets professionals rather than an ordinary reader deciding something today, which caps reader value.",
-      "proposed": "2026-09-10"
-    },
-    {
-      "topic": "Мігрень: що з аптечних знеболювальних справді працює — і чому вони ж підтримують головний біль",
-      "type": "guide",
-      "category": "prevention",
-      "angle": "Привід — новина про розширення списку станів, які в Британії лікує фармацевт без лікаря (мігрень серед них). Для українського читача, який роками п'є цитрамон і спазмалгон «при голові», це шанс побачити конкретні числа NNT із Кокранівських оглядів: ібупрофен 400 мг, комбінація аспірин+парацетамол+кофеїн, суматриптан 50–100 мг — і те, наскільки мало доказів під звичними спазмолітиками. Два неочевидні механізми, які змінюють поведінку: під час нападу шлунок фактично зупиняється, тому таблетка, випита «через годину, коли вже розболілося», всмоктується гірше — звідси правило приймати рано і в повній дозі, а метоклопрамід додають не «від нудоти», а щоб ліки взагалі доїхали; і головний біль від надмірного вживання знеболювальних (MOH) — понад 10 днів на місяць для комбінованих засобів і триптанів або понад 15 для простих анальгетиків перетворює епізодичну мігрень на щоденний біль. Практичне: щоденник нападів, поріг, після якого мова вже про профілактику, і червоні прапорці SNOOP (раптовий «найсильніший у житті» біль, біль із температурою, новий біль після 50, неврологічний дефіцит) — це 103 або лікар сьогодні.",
-      "sources_hint": "Cochrane reviews: Derry S & Moore RA (paracetamol, aspirin, ibuprofen for acute migraine in adults), Derry CJ et al. (sumatriptan for acute migraine); Diener HC et al., Lancet Neurol 2019 (medication-overuse headache); ICHD-3 criteria for MOH; NICE CG150 headaches; American Headache Society 2021 consensus statement on acute treatment; MHRA/NHS Pharmacy First service scope 2026",
-      "evidence_level": "strong",
-      "score": 80,
-      "rationale": "Multiple Cochrane reviews across drug classes plus the MOH mechanism give enough distinct findings for the slot, with a live UK pharmacist-scope hook.",
-      "proposed": "2026-09-11"
-    },
-    {
-      "topic": "Запитати симптом у чат-бота: що показують перевірки точності і де це стає небезпечним",
-      "type": "research",
-      "category": "research",
-      "angle": "Привід — заява британського наглядача про потребу окремих законів для ШІ в медицині. Читач уже робить це щодня: описує симптом чат-боту замість того, щоб іти до лікаря. Що кажуть перевірки: старий аналіз симптомчекерів (Semigran, BMJ 2015, 23 програми, 45 сценаріїв) давав правильний діагноз першим приблизно в третині випадків; сучасні мовні моделі відповідають набагато краще й помітно емпатичніше за лікарів у письмовому форматі (Ayers, JAMA Intern Med 2023), але на реальних клінічних послідовностях із даними пацієнта провалюються (Hager, Nature Medicine 2024) — і головне, помиляються впевнено, без сигналу «я не знаю». Ключова відмінність, яку варто пояснити простими словами: модель добре пояснює вже відомий діагноз і погано вирішує, чи потрібна вам зараз швидка. Практична рамка, яку читач може застосувати сьогодні: для чого користуватися (розшифрувати виписку, сформулювати питання до лікаря, зрозуміти назву препарату) і чого не робити ніколи (дози, скасування ліків, трактування болю в грудях, температури в немовляти, кровотечі). Окремо — де дівається ваша медична інформація і чому не варто вставляти повний аналіз із ПІБ.",
-      "sources_hint": "Semigran HL et al., 'Evaluation of symptom checkers for self diagnosis and triage', BMJ 2015;351:h3480; Ayers JW et al., JAMA Intern Med 2023 (chatbot vs physician responses to patient questions); Hager P et al., Nature Medicine 2024 ('Evaluation and mitigation of the limitations of large language models in clinical decision-making'); Wallace W et al., BMJ Open 2022 symptom checker review; MHRA guidance on software and AI as a medical device; WHO 2024 guidance on large multi-modal models in health",
-      "evidence_level": "moderate",
-      "score": 76,
-      "rationale": "Three studies spanning a decade (Semigran, Ayers, Hager) form a natural several-findings arc that suits a roundup, tied to a current regulator statement.",
-      "proposed": "2026-09-11"
-    },
-    {
-      "topic": "10 000 кроків — це рекламний слоган 1965 року: скільки насправді треба ходити",
-      "type": "fitness",
-      "category": "fitness",
-      "angle": "Класичний claim-check цифри, яка стоїть у кожному смартфоні. Походження: японський крокомір Manpo-kei («вимірювач 10 000 кроків») 1965 року — маркетинг, а не дослідження. Що показують дані: мета-аналіз Paluch (Lancet Public Health 2022, 15 когорт, 47 471 доросла людина) дає зниження смертності з виходом на плато приблизно на 6 000–8 000 кроків у людей 60+ і 8 000–10 000 у молодших; тобто найбільший виграш дає перехід від 3 000 до 6 000, а не від 8 000 до 12 000 — і це вирішальна новина для того, хто вважає, що «менше десяти тисяч не рахується». Окремо про темп: Del Pozo Cruz (JAMA Intern Med 2022) показує додатковий ефект швидких хвилин поверх загальної кількості. Чесні межі: усе це спостережні дані, працює зворотна причинність (хворі люди ходять менше), і жодне РКД не рандомізувало людей на кроки. Практичне під п'ятницю: реалістична планка на вихідні, дві «швидкі» десятихвилинки замість години приреченості, і що робити людині, у якої робота сидяча, а надворі темніє о шостій.",
-      "sources_hint": "Paluch AE et al., 'Daily steps and all-cause mortality: a meta-analysis of 15 international cohorts', Lancet Public Health 2022; Paluch AE et al., Circulation 2023 (steps and CVD); Stens NA et al., JACC 2023; Del Pozo Cruz B et al., JAMA Intern Med 2022 (step cadence); Jayedi A et al., dose-response meta-analysis; Hatano Y 1993 on the origin of the 10,000-step target; WHO 2020 physical activity guidelines",
-      "evidence_level": "strong",
-      "score": 70,
-      "rationale": "Strong evidence base (Paluch, Del Pozo Cruz, Jayedi) gives good roundup breadth, but no real news hook this week beyond generic Friday framing.",
-      "proposed": "2026-09-11"
-    },
-    {
-      "topic": "Крижана ванна і контрастний душ: для відновлення працює, для м'язів заважає",
-      "type": "research",
-      "category": "biohacking",
-      "angle": "Вихідний біохак із рідкісним випадком, коли докази прямо суперечать самі собі залежно від мети. Для відновлення після навантаження холодове занурення справді зменшує відчуття болю в м'язах і суб'єктивну втому наступного дня — це стабільний результат мета-аналізів. Але саме після силового тренування холод притуплює сигнали, від яких росте м'яз: Roberts (J Physiol 2015) показав менший приріст сили й гіпертрофії за 12 тижнів у групі з крижаною ванною проти активного відновлення, що підтверджують подальші мета-аналізи. Тобто практичне правило для тренера і клієнта: холод — після матчу чи турніру, коли завтра знову виступати; не після силового блоку, коли мета — м'язова маса. Окремо — про «загартовування для імунітету»: голландське РКД контрастного душу (Buijze, PLOS One 2016, n=3018) дало на 29% менше днів на лікарняному, але без різниці в кількості епізодів хвороби; метод Вім Хофа має дані про запалення на n=12 і не має даних про тверді результати. Безпека, яку зазвичай не пишуть: холодовий шок і рефлекторне вдихання під водою, ризик при аритміях, гіпертензії й вагітності, чому не занурюватися самому.",
-      "sources_hint": "Roberts LA et al., J Physiol 2015 (post-exercise cold water immersion and training adaptations); Piñero A et al., 2024 meta-analysis on CWI and hypertrophy; Cain T et al., PLOS One 2025 (cold water immersion health outcomes meta-analysis); Buijze GA et al., PLOS One 2016 (hot-cold shower RCT); Kox M et al., PNAS 2014 (Wim Hof method, n=12); Tipton MJ et al., Exp Physiol 2017 (cold shock response)",
-      "evidence_level": "moderate",
-      "score": 66,
-      "rationale": "Several studies pulling in opposite directions by goal is genuinely roundup-shaped material, with a plausible weekend hook, though evidence is only moderate.",
-      "proposed": "2026-09-11"
-    },
-    {
-      "topic": "Креатин: що дієтолог має відповісти на п'ять запитань клієнта — нирки, жінки, «мозок», форми, доза",
-      "type": "fitness",
-      "category": "fitness",
-      "angle": "Матеріал із серії «для практиків», за темою, яку тренер чує щотижня. Опора — позиційний документ ISSN: 3–5 г моногідрату на добу, фаза завантаження необов'язкова, приріст сили й м'язової маси при силовому тренуванні підтверджений десятками РКД. Далі те, що зазвичай плутають: набір 1–2 кг у перші тижні — це вода всередині клітини, а не жир і не «набряки»; нирки — систематичні огляди й довготривалі спостереження не показали шкоди у здорових людей, але креатин підвищує креатинін в аналізі, і саме це лякає лікаря, який не знає, що людина його приймає (тому — казати). Окремо для жінок і людей 60+: дані тонші, ніж заведено вважати, і ефект найкраще виражений разом із силовим тренуванням, а не замість нього. Нова хвиля — «креатин для мозку»: мета-аналізи дають найчіткіший сигнал при недосипанні й стресі, а не для щоденної когнітивної переваги, і один із помітних РКД 2025 року не показав додаткової м'язової користі — це варто назвати, а не замовчати. Форми: гідрохлорид, буферований, рідкий — доказів переваги над моногідратом немає, ціна вища. Про якість порошку в українському продажу і що перевіряти на етикетці.",
-      "sources_hint": "Kreider RB et al., ISSN position stand: safety and efficacy of creatine supplementation, JISSN 2017; Antonio J et al., 'Common questions and misconceptions about creatine supplementation', JISSN 2021; de Souza e Silva A et al., renal function reviews; Prokopidis K et al., Nutrition Reviews 2023 (creatine and cognition meta-analysis); Gordji-Nejad A et al., Sci Rep 2024 (creatine and sleep deprivation); Forbes SC / Candow DG 2024-2025 RCTs on creatine, women and older adults",
-      "evidence_level": "strong",
-      "score": 64,
-      "rationale": "Strong ISSN-backed evidence across five distinct sub-questions gives roundup breadth, but there is no timely news hook pulling it into this particular week.",
-      "proposed": "2026-09-11"
-    },
-    {
-      "topic": "Дуже гарячий чай і рак стравоходу: звідки взялася цифра 65 °C і що вона означає для звички пити окріп",
-      "type": "research",
-      "category": "prevention",
-      "angle": "Новинний привід тижня (BBC про шкоду дуже гарячих напоїв) — привід розібрати рідкісний випадок, коли ризик несе не напій, а його температура. Ключове і часто перекручене: IARC у 2016 році перевів каву з групи 2B («можливо канцерогенна») у групу 3 (не класифікується як канцероген), а натомість вписав у групу 2A «дуже гарячі напої понад 65 °C» — тобто небезпечна не кава, а окріп. Головне джерело — Голестанська когорта в Ірані (Islami, Int J Cancer 2020, ~50 000 осіб, 10 років): ті, хто пив ≥700 мл чаю на день при температурі ≥60 °C, мали приблизно вдвічі вищий ризик плоскоклітинного раку стравоходу. Чесно про межі: це спостережні дані з регіону з високою базовою захворюваністю, температуру міряли самозвітом і термометром лише в частини учасників, абсолютний ризик для українця з низькою базовою захворюваністю — малий; алкоголь і куріння лишаються значно більшими чинниками того самого раку. Практичне і безкоштовне: щойно залитий окріп — це 90–95 °C, до ~60–65 °C чай у чашці охолоджується приблизно за 4–6 хвилин; правило «не пити, поки не можна тримати в роті без болю». Червоний прапорець, який варто знати: утруднене ковтання або відчуття застрягання їжі — це до лікаря зараз, а не «саме пройде».",
-      "sources_hint": "IARC Monographs Volume 116 (2016): coffee, mate, and very hot beverages; Islami F et al., 'A prospective study of tea drinking temperature and risk of esophageal squamous cell carcinoma', Int J Cancer 2020; Golestan Cohort Study publications; Loomis D et al., Lancet Oncology 2016 (IARC evaluation summary); GLOBOCAN/Ukrainian National Cancer Registry data on oesophageal cancer incidence; NICE NG12 on dysphagia referral",
-      "evidence_level": "moderate",
-      "score": 58,
-      "rationale": "Timely BBC hook but the case rests mainly on one cohort study plus an IARC reclassification, too narrow to carry a broad multi-finding roundup.",
-      "proposed": "2026-09-11"
-    },
-    {
-      "topic": "П'ять хвилин дихання ввечері: що саме перевірили в РКД і чому «фізіологічне зітхання» обійшло медитацію",
-      "type": "lifehack",
-      "category": "mental-health",
-      "angle": "Практика на п'ятничний вечір із конкретним протоколом і чесним розміром ефекту. Рандомізоване дослідження Balban (Cell Reports Medicine 2023, n=108, місяць, чотири групи) порівняло три види по п'ять хвилин на день — циклічне зітхання (довгий вдих, короткий доповнювальний вдих, повільний довгий видих), дихання коробкою, гіпервентиляцію з затримками — і уважність-медитацію; найкращий приріст настрою і найбільше зниження частоти дихання дало циклічне зітхання. Пояснити просто, чому подовжений видих працює: він подовжує фазу, у якій серцевий ритм фізіологічно сповільнюється, і це не магія блукаючого нерва з подкастів. Зовнішня опора — мета-аналіз повільного дихання щодо стресу й тривоги (Fincham, Sci Rep 2023, ефект помірно-малий). Межі, які треба назвати вголос: вибірка невелика, учасники знали, що роблять, ефект — на настрій і тривожність у здорових людей, а не лікування панічного розладу чи ПТСР; при панічних атаках форсоване дихання може погіршити стан. Практичне: точний таймінг, поза, коли не робити, і куди звертатися, якщо тривога вже забирає сон і роботу (7333).",
-      "sources_hint": "Balban MY et al., 'Brief structured respiration practices enhance mood and reduce physiological arousal', Cell Reports Medicine 2023;4:100895; Fincham GW et al., 'Effect of breathwork on stress and mental health: a meta-analysis of randomised-controlled trials', Scientific Reports 2023;13:432; Laborde S et al., 2022 slow-paced breathing and HRV reviews; NICE CG113 on generalised anxiety",
-      "evidence_level": "moderate",
-      "score": 48,
-      "rationale": "Evidence leans on one small RCT plus one meta-analysis, closer to a single-study piece than the several-findings breadth the roundup slot needs.",
-      "proposed": "2026-09-11"
-    },
-    {
-      "topic": "Магній для сну: чому добавка №1 у TikTok має найслабшу доказову базу в цьому списку",
-      "type": "nutrition",
-      "category": "sleep",
-      "angle": "Розбір добавки, яку зараз купують «щоб краще спати» і «від тривоги» — і, на відміну від матеріалу про вітамін D, тут головне не дозування, а те, що доказу практично немає. Найчастіше цитований доказ — крихітне іранське РКД на 46 літніх людях (Abbasi 2012); систематичний огляд Mah & Pitre (BMC Complement Med Ther 2021) знайшов лише три РКД сумарно на ~150 учасників із низькою якістю доказів і не зміг зробити висновку. Спостережні зв'язки «низький магній — поганий сон» є, але рівень магнію в крові майже не відображає запаси в організмі, тому «здати магній» зазвичай марна витрата. Що з формами: цитрат і гліцинат засвоюються краще за оксид, але саме оксид дає проносний ефект, за який його часто й хвалять як «розслаблення»; верхня межа добавкового магнію — 350 мг на добу, і при зниженій функції нирок це не безпечна дрібниця. Чесний висновок без сніжності: недорога, здебільшого безпечна добавка зі слабким доказом — а те, що справді має докази при хронічному безсонні (КПТ-Б, вікно сну, фіксований час підйому), коштує нуль гривень; саме цей блок і має бути половиною тексту. Куди магній таки виправданий: підтверджений дефіцит, прийом ІПП роками, синдром неспокійних ніг як окрема розмова з лікарем.",
-      "sources_hint": "Mah J, Pitre T, 'Oral magnesium supplementation for insomnia in older adults', BMC Complement Med Ther 2021; Abbasi B et al., J Res Med Sci 2012; Arab A et al., Biol Trace Elem Res 2023 (magnesium and sleep quality review); NIH ODS Magnesium fact sheet (UL 350 mg, serum magnesium limitations); AASM 2021 clinical practice guideline on behavioral treatment of chronic insomnia; Cochrane/AHRQ CBT-I evidence",
-      "evidence_level": "preliminary",
-      "score": 38,
-      "rationale": "The whole point is how thin the evidence is (three small low-quality RCTs), which undercuts the multi-finding breadth an 800-1400 word roundup needs today.",
-      "proposed": "2026-09-11"
-    },
-    {
-      "topic": "Гриби у вересні: жодна народна перевірка на отруту не працює",
-      "type": "guide",
-      "category": "prevention",
-      "angle": "Сезонний гайд у розпал грибного сезону — і рідкісний випадок, де ціна помилки вимірюється трансплантацією печінки. Головна теза: усі побутові тести хибні — срібна ложка, цибуля, що темніє, «гіркий смак», «черв'яки не їдять», кип'ятіння з оцтом; амантини термостабільні й не руйнуються ні варінням, ні сушінням, ні заморожуванням. Друга ключова річ, яка рятує життя: тривала латентність. Симптоми від блідої поганки з'являються через 6–12 годин, потім настає оманливе покращення на другу добу — саме тому пізнє звернення так часто фатальне; ранній блювотний синдром (менш ніж 6 годин) зазвичай означає менш небезпечні види. Що робити: не чекати ранку, 103, зберегти залишки страви й невимиті рештки гриба для ідентифікації, не викликати блювоту самому, не «лікувати» молоком чи горілкою. Про силібінін і N-ацетилцистеїн — чесно: стандарт лікування спирається на серії випадків і реєстри, не на РКД, і застосовується лише в стаціонарі. Окремо — діти й дози, що вбивають від одного гриба.",
-      "sources_hint": "Ye Y & Liu Z, Am J Emerg Med 2018 (amatoxin poisoning management review); Mycology/NAMA amatoxin case registry; Poucheret P et al., Toxicon (amanitin thermostability); European Association of Poisons Centres guidance; Ukrainian State Emergency Service / MoH mushroom poisoning statistics 2024-2026",
-      "evidence_level": "moderate",
-      "score": 82,
-      "rationale": "Peak mushroom season right now, life-or-death stakes, named toxin/case-registry evidence, ideal compact guide length.",
-      "proposed": "2026-09-12"
-    },
-    {
-      "topic": "Відіспатися у вихідні: що насправді повертається, а що ні",
-      "type": "research",
-      "category": "sleep",
-      "angle": "Субота — день, коли пів країни намагається закрити тижневий борг сну. Чесний розбір: лабораторне РКД Depner (Current Biology 2019, n=36) показало, що вихідні з вільним сном частково відновлюють суб'єктивну бадьорість, але чутливість до інсуліну не повертається до норми, а після повернення до буднів стає гіршою — тобто «відсипання» не скасовує депривації. Водночас велике шведське когортне дослідження (Åkerstedt, J Sleep Res 2019, ~43 000 осіб, 13 років) показало, що в людей до 65 років короткий сон у будні в поєднанні з довгим у вихідні не мав підвищеної смертності, на відміну від постійно короткого сну. Розвести два рівні доказів: метаболічний механізм у 36 людей проти популяційної смертності в десятках тисяч — і не дозволити читачеві добудувати механізм там, де немає результату. Практично: зсув підйому у вихідні більше ніж на 2 години — це соціальний джетлаг, який б'є по понеділку; що робити замість — короткий денний сон 20 хвилин, стабільний час підйому, світло вранці.",
-      "sources_hint": "Depner CM et al., Current Biology 2019 (weekend recovery sleep, insulin sensitivity); Åkerstedt T et al., J Sleep Res 2019 (weekend catch-up sleep and mortality); Wittmann M et al. social jetlag (Chronobiol Int); Cochrane/AASM napping literature; Sleep Health Foundation duration recommendations",
-      "evidence_level": "moderate",
-      "score": 78,
-      "rationale": "Today is literally the Saturday this piece is about, RCT plus large cohort give real evidence, but base study is a tiny n=36 mechanistic trial.",
-      "proposed": "2026-09-12"
-    },
-    {
       "topic": "Дуже гарячий чай і рак стравоходу: з якої температури починається ризик",
       "type": "research",
       "category": "prevention",
@@ -231,61 +33,6 @@
       "score": 72,
       "rationale": "IARC classification plus Golestan cohort data give a real numeric hook, timely UK news peg, but rests on one cohort so a bit thin for a full 2000-word piece.",
       "proposed": "2026-09-14"
-    },
-    {
-      "topic": "Три хвилини сходів замість спортзалу: що показали дані акселерометрів про VILPA",
-      "type": "fitness",
-      "category": "fitness",
-      "angle": "Для більшості читачів «почати тренуватися» означає нічого не почати. Доказова альтернатива: короткі спалахи інтенсивного руху в побуті (VILPA) — аналізи UK Biobank із носимими акселерометрами (Stamatakis, Nature Medicine 2022, ~25 000 осіб, які не займаються спортом) показали, що приблизно 3–4 епізоди по 1–2 хвилини на день пов'язані з помітно нижчою смертністю й серцево-судинним ризиком; окремий аналіз 2024 року для жінок показав ще виразніший зв'язок. Чесно про дизайн: це спостереження, і зворотна причинність не виключена, хоч автори виключали хворих на старті. Що це означає конкретно: швидкий підйом сходами, перенесення сумок, останні 300 метрів до дому в темпі, за якого важко говорити. Для тренерів — як вписувати це клієнту, який не піде в зал, і чому «10 000 кроків» не еквівалент інтенсивності.",
-      "sources_hint": "Stamatakis E et al., Nature Medicine 2022 (VILPA and mortality, UK Biobank accelerometry); Stamatakis E et al., BJSM 2024 (VILPA in women, cardiovascular events); Ahmadi MN et al., Eur Heart J 2022; WHO 2020 physical activity guidelines; Jenkins EM et al. stair-climbing sprint snacks trials",
-      "evidence_level": "moderate",
-      "score": 66,
-      "rationale": "Two large named accelerometer studies make it writable, but no fresh news hook this week, purely evergreen appeal.",
-      "proposed": "2026-09-12"
-    },
-    {
-      "topic": "Чатбот замість психотерапевта: що показало перше РКД і де межа безпеки",
-      "type": "guide",
-      "category": "mental-health",
-      "angle": "Привід — вимога британського наглядача про нові закони для ШІ в медицині. Питання читача просте: чи можна вилити душу чатботу, якщо терапевт коштує як пів зарплати, а черга до безоплатного психолога довга. Що є з доказів: РКД Therabot (NEJM AI, 2025, n≈210, 4 тижні) — перше рандомізоване випробування генеративного терапевтичного бота, показало зниження симптомів депресії й тривоги проти списку очікування; попередні покоління (Woebot, Wysa) мають малі РКД з ефектами, що згасають за межами 8 тижнів; мета-аналізи оцінюють ефект як невеликий-помірний і дуже неоднорідний. Критичні межі: список очікування — слабкий компаратор; горизонт кілька тижнів; загальні асистенти (ChatGPT) не тестувалися як терапія взагалі й документовано погоджуються з користувачем замість оскарження думок; кризовий стан — це не про бот. Практично: як використати бот як щоденник і структуру КПТ-вправ, коли обов'язково людина, і українські лінії (7333, 116 111).",
-      "sources_hint": "Heinz MV et al., NEJM AI 2025 (Therabot generative AI therapy RCT); Fitzpatrick KK et al., JMIR Ment Health 2017 (Woebot); Li H et al., npj Digital Medicine 2023 meta-analysis of AI chatbots for depression/anxiety; MHRA/AI regulation statements 2026; WHO guidance on LMMs in health (2024)",
-      "evidence_level": "preliminary",
-      "score": 64,
-      "rationale": "Live regulator hook and a real first RCT (Therabot), but evidence explicitly preliminary and third mental-health-adjacent post in two weeks.",
-      "proposed": "2026-09-12"
-    },
-    {
-      "topic": "Крижана ванна, розтяжка, масаж: що з відновлення після тренування витримує перевірку",
-      "type": "research",
-      "category": "biohacking",
-      "angle": "Об'єднаний claim-check усього, що роблять «щоб не боліло» — бо всі ці засоби перевіряли в тих самих дослідженнях і плутати їх безглуздо. Розтяжка: Кокранівський огляд (Herbert, 12 досліджень) — до або після навантаження зменшує крепатуру щонайбільше на ~1 бал зі 100, тобто практично ні на скільки; статична розтяжка понад 60 секунд перед підходом тимчасово знижує силу й потужність (мета-аналізи Behm 2016), тому її місце — після, а не до. Крижана ванна: для відчуттів ефект реальний, але скромний (Cochrane Bleakley 2012); для росту сили й м'язів — РКД Roberts (J Physiol 2015, n=21, 12 тижнів) дало менший приріст маси й сили, ніж активне відновлення, із притупленням сигналів синтезу білка, підтверджено Fyfe 2019 і мета-аналізом Piñero 2024. Масаж і компресійний одяг — малий, але значущий ефект (Dupuy 2018). Що працює насправді: поступове нарощування навантаження (repeated bout effect гасить крепатуру вже після другого тренування) і легка активність замість повного спокою. Окремо про «холод для імунітету»: у РКД Buijze (PLoS ONE 2016, n=3018) холодний душ зменшив дні непрацездатності, але не кількість самих хвороб. Практичний висновок: після силового — ні, перед змаганням або в спеку — можливо. Чесно про НПЗЗ: знеболює, дані про вплив на адаптацію суперечливі. Червоний прапорець, який плутають із крепатурою: темна сеча, набряк і біль, що наростає на 2–3 добу — рабдоміоліз, це до лікаря. Застереження для людей із серцево-судинними хворобами й гіпертензією щодо занурень у крижану воду.",
-      "sources_hint": "Herbert RD et al., Cochrane Database 2011 (stretching to prevent or reduce muscle soreness); Behm DG et al., Appl Physiol Nutr Metab 2016; Roberts LA et al., J Physiol 2015 (post-exercise cold water immersion and resistance training adaptations); Fyfe JJ et al., J Appl Physiol 2019; Piñero A et al. 2024 meta-analysis on CWI and hypertrophy; Cochrane Bleakley 2012 (CWI for DOMS); Dupuy O et al., Front Physiol 2018; Hyldahl RD & Hubal MJ, Muscle Nerve 2014 (repeated bout effect); Buijze GA et al., PLoS ONE 2016; ACSM exertional rhabdomyolysis guidance",
-      "evidence_level": "moderate",
-      "score": 56,
-      "rationale": "Richest evidence base on the list (multiple Cochrane reviews, named RCTs) but too sprawling across five sub-claims for a single-sitting post today.",
-      "proposed": "2026-09-12"
-    },
-    {
-      "topic": "Магній «від стресу й судом»: під що є докази, а під що лише реклама",
-      "type": "nutrition",
-      "category": "nutrition",
-      "angle": "Друга за популярністю добавка в українських аптеках після вітаміну D — і найрозмитіші обіцянки: сон, тривога, судоми в ногах, серце. Пряме продовження вчорашнього claim-check вітаміну D, але про іншу молекулу й іншу логіку продажу. Розібрати по пунктах: нічні судоми в литках — Кокранівський огляд не знайшов клінічно значущої користі в дорослих старшого віку; сон — мета-аналізи спираються на кілька малих РКД низької якості; тривога — систематичний огляд Boyle 2017 називає докази попередніми; мігрень і прееклампсія — окремі випадки, де докази реальні. Пояснити просту річ, яку приховує маркетинг: аналіз магнію в сироватці майже не відображає запаси, тому «у мене низький магній» зазвичай не доведено. Форми: цитрат і гліцинат проти оксиду за біодоступністю, і чому головний побічний ефект — діарея. Дефіцит справді буває — при діуретиках, інгібіторах протонної помпи, алкоголізмі, діабеті. Для дієтологів: скільки магнію реально дають гарбузове насіння, гречка, квасоля.",
-      "sources_hint": "Cochrane: Garrison SR et al., magnesium for skeletal muscle cramps (2020 update); Boyle NB et al., Nutrients 2017 (magnesium and subjective anxiety/stress); Mah J & Pitre T, BMC Complement Med 2021 (magnesium and insomnia); NIH ODS Magnesium Fact Sheet; EFSA dietary reference values for magnesium",
-      "evidence_level": "moderate",
-      "score": 52,
-      "rationale": "Solid Cochrane/systematic-review evidence, but explicitly framed as yesterday's supplement claim-check continued, risking format fatigue two days running.",
-      "proposed": "2026-09-12"
-    },
-    {
-      "topic": "Тест на «біологічний вік» за 5000 грн: що вимірюють епігенетичні годинники і чому число стрибає",
-      "type": "research",
-      "category": "longevity",
-      "angle": "Claim-check модної послуги лонжевіті-клінік. Що це насправді: алгоритм, навчений на метилюванні ДНК, який передбачає вік або ризик смерті — Horvath 2013, потім GrimAge й DunedinPACE. Де докази сильні: на рівні популяцій прискорений епігенетичний вік асоціюється зі смертністю. Де вони розсипаються для окремої людини: дослідження відтворюваності (Higgins-Chen 2022) показали, що повторне вимірювання того самого зразка може давати різницю в кілька років, і саме тому знадобилися «принципал-компонентні» версії годинників; жодне РКД не показало, що зміна показника змінює тривалість життя. Головна логічна пастка — сурогат замість результату: годинник не валідований як мішень втручання (та сама помилка, що з SVR і сечовими біомаркерами в попередніх матеріалах). Окремо про TruDiagnostic-подібні сервіси й дослідження, де «омолодження на роки» вимірювали без контролю. Що замість: показники з доведеним зв'язком і дешеві — тиск, HbA1c, куріння, сила хвата, кардіореспіраторна витривалість.",
-      "sources_hint": "Horvath S, Genome Biology 2013; Lu AT et al., Aging 2019 (GrimAge); Belsky DW et al., eLife 2022 (DunedinPACE); Higgins-Chen AT et al., Nature Aging 2022 (principal component clocks, technical noise); Fahy GM et al., Aging Cell 2019 (TRIIM, uncontrolled); Nature Aging commentary on direct-to-consumer biological age tests",
-      "evidence_level": "preliminary",
-      "score": 45,
-      "rationale": "Named evidence exists (Horvath, GrimAge, Higgins-Chen) but no current news hook and a narrower, less urgent reader base than the rest of the list.",
-      "proposed": "2026-09-12"
     },
     {
       "topic": "Запитати в чат-бота про симптом: де це допомагає, а де небезпечно",
@@ -1699,12 +1446,12 @@
       "topic": "П'ять груп ліків, які після 70 частіше створюють «симптоми старості», ніж лікують",
       "type": "guide",
       "category": "longevity",
-      "angle": "Теза: у людини 70+ нові скарги — сплутаність, запаморочення, падіння, затримка сечі, сухість у роті, «згасання пам'яті» — часто пояснюються не віком, а списком ліків. Розібрати п'ять груп за іменами, які реально лежать в українських домашніх аптечках: препарати з холінолітичною дією (димедрол і старі антигістамінні, амітриптилін, оксибутинін) — когортні дані пов'язують сумарне холінолітичне навантаження з вищим ризиком деменції; бензодіазепіни і Z-препарати «для сну» — падіння й переломи; НПЗЗ тривалим курсом — шлункові кровотечі й нирки; інгібітори протонної помпи роками без показань; дублювання гіпотензивних із ортостатичною гіпотензією. Важливе розмежування з сусіднім матеріалом про аспірин: тут антиагреганти не розбираємо, лише посилаємося, щоб не дублювати тему кровотеч. Чесна межа, яку не можна приховати: самі дослідження депрескрайбінгу показують, що кількість препаратів знизити вдається, а виграшу в смертності систематичні огляди не демонструють — користь переважно в побічних ефектах, падіннях і якості життя. Жорстке попередження: нічого не відміняти самостійно, особливо бензодіазепіни (синдром відміни з судомами) і серцеві препарати. Практичне: як зібрати повний список (включно з краплями, травами й БАДами), коли просити перегляд у сімейного лікаря, і що спитати: «яке показання у кожного пункту і коли ми перевіримо, чи він ще потрібен».",
-      "sources_hint": "AGS Beers Criteria 2023 update, J Am Geriatr Soc; O'Mahony D et al., STOPP/START version 3, Eur Geriatr Med 2023; Coupland CAC et al., JAMA Intern Med 2019 (anticholinergic drugs and dementia risk, n=284 343); Donnelly K et al. / Cochrane reviews on deprescribing and polypharmacy in older adults; Thillainadesan J et al., Drugs Aging 2018; Diaz-Gutierrez MJ et al. benzodiazepines and falls meta-analysis",
+      "angle": "Теза: у людини 70+ найчастіша причина нових скарг — не вік, а список препаратів у шухляді. Розбираємо п'ять груп із доказами: холінолітики (стара димедролова лінія, амітриптилін, оксибутинін) — у когортах вищий ризик деменції й сплутаності; бензодіазепіни та Z-препарати — падіння й переломи; НПЗЗ при гіпертензії й нирковій недостатності; інгібітори протонної помпи, які приймають роками без показання; подвійні антигіпертензивні схеми з ортостатичною гіпотензією. Чесна межа: деприскрайбінг надійно зменшує кількість препаратів і частину побічних явищ, але огляди не показують зниження смертності — продаємо не «довше життя», а менше падінь, менше туману в голові, менше госпіталізацій. Практичне: принесіть на візит усе, що п'єте, включно з травами й добавками; питання «яке показання і коли ми це переглянемо»; чому не можна різко кидати самостійно (бензодіазепіни, ІПП, бета-блокатори) — усі зміни лише з лікарем. Для фахівців: Beers 2023 і STOPP/START v3 як робочі списки.",
+      "sources_hint": "AGS Beers Criteria 2023 update; O'Mahony D et al., STOPP/START version 3, Eur Geriatr Med 2023; Thillainadesan J et al., Drugs Aging 2018 (deprescribing systematic review); Cochrane reviews on polypharmacy interventions for older people; Coupland CAC et al., JAMA Intern Med 2019 (anticholinergics and dementia); Donnelly K et al. benzodiazepines and falls meta-analysis",
       "evidence_level": "moderate",
-      "score": 63,
-      "rationale": "Beers criteria and deprescribing literature are real, but five drug classes is a sprawling survey that strains the one-sitting slot today.",
-      "proposed": "2026-10-05"
+      "score": 66,
+      "rationale": "Beers 2023 and STOPP/START v3 plus deprescribing reviews give real substance and a clean practical payoff for readers with aging parents, but evergreen with no current hook.",
+      "proposed": "2026-10-13"
     },
     {
       "topic": "Колаген у порошку: суглобам, шкірі й нігтям — що показують дослідження і хто їх оплатив",
@@ -1925,6 +1672,83 @@
       "score": 60,
       "rationale": "Claim-check is honest about thin, industry-funded trials, which is the point, but there's no timeliness hook and the evidence ceiling caps it below the leaders today.",
       "proposed": "2026-10-10"
+    },
+    {
+      "topic": "Мільйон людей, які ніколи не курили, тепер вейпить: де докази за електронні сигарети закінчуються",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Тема, незручна для обох таборів, подана рівно; у дайджесті 11.10 вона була згадана однією тезою без доказової бази — тут повний розбір із числами. Для дорослого курця, який хоче кинути: Кокранівський живий огляд оцінює певність як високу — нікотиновмісні вейпи дають більше успішних відмов, ніж пластирі й гумки (Hajek 2019: 18% проти 9,9% за рік; Auer 2024 підтвердив у поєднанні з консультуванням). Що з цього НЕ випливає: що вейп безпечний для людини, яка не курила — тут немає базового ризику, який можна «компенсувати», тож логіка заміщення не працює взагалі. Свіжі британські дані (жовтень 2026) про мільйон вейперів, які ніколи не курили, — привід показати, що довгострокових даних про серце й легені при старті «з нуля» просто немає, а нікотинова залежність у підлітків документована. Окремо: EVALI і вітамін Е ацетат як приклад того, звідки насправді прийшла шкода; що відомо про гарячі «одноразки» й високі концентрації солей нікотину; український контекст регулювання і ароматизаторів. Практичне: якщо курець — вейп як інструмент відмови з планом виходу; якщо не курець — найкращий аргумент «не починати» тут не моральний, а доказовий.",
+      "sources_hint": "Lindson N, Hartmann-Boyce J et al., Cochrane living review: Electronic cigarettes for smoking cessation (2025/2026 update); Hajek P et al., NEJM 2019; Auer R et al., NEJM 2024; BBC Health Oct 2026 / ASH UK survey on never-smokers vaping; CDC EVALI vitamin E acetate reports; NASEM 2018 report on e-cigarettes",
+      "evidence_level": "strong",
+      "score": 88,
+      "rationale": "Cochrane living review plus two NEJM RCTs and fresh ASH UK survey data; digest gave this one bare thesis sentence, this delivers the numbers that were deliberately withheld then.",
+      "proposed": "2026-10-13"
+    },
+    {
+      "topic": "Темна половина року: чи варто пити вітамін D «для профілактики» — що показали VITAL і D-Health",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Claim-check головної добавки українських аптек саме тоді, коли світла стає критично мало. Жорстко розводимо дві різні речі: лікування підтвердженого дефіциту (працює, потрібне) і щоденне приймання «для імунітету, кісток і від усього» (переважно не працює). VITAL (n=25 871, 5 років) не знизив ні онкологічної, ні серцево-судинної захворюваності; LeBoff (NEJM 2022) не знайшов зниження переломів у людей без дефіциту; D-Health (n=21 315, 60 000 МО щомісяця) не знизив смертності. Де сигнал усе ж є: респіраторні інфекції (Jolliffe, Lancet Diabetes Endocrinol 2021 — невеликий ефект, залежний від дози й режиму) і люди з реально низьким 25(OH)D. Окремо — чому аналіз на 25(OH)D не потрібен усім поспіль (USPSTF: доказів для скринінгу недостатньо), чому болюси по 50 000 МО «раз на місяць на око» гірші за щоденні помірні дози, і де межа токсичності. Для дієтологів: кому справді показаний аналіз і яка добова доза має докази, а не маркетинг.",
+      "sources_hint": "Manson JE et al., VITAL, NEJM 2019; LeBoff MS et al., NEJM 2022 (VITAL fractures); Neale RE et al., D-Health, Lancet Diabetes Endocrinol 2022; Jolliffe DA et al., Lancet Diabetes Endocrinol 2021 (acute respiratory infections meta-analysis); USPSTF 2021 vitamin D deficiency screening; Cochrane reviews on vitamin D supplementation; Endocrine Society 2024 guideline",
+      "evidence_level": "strong",
+      "score": 79,
+      "rationale": "Two mega-RCTs (VITAL n=25871, D-Health n=21315) plus USPSTF and a Lancet meta-analysis give unusually strong evidence, and the dark-season timing fits now, though there is no single fresh news event driving it.",
+      "proposed": "2026-10-13"
+    },
+    {
+      "topic": "Замінник солі замість солі: єдине харчове втручання з доведеним зниженням інсульту",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Заміна теми про «похмільну тривогу», бо алкоголь і психічне здоров'я вже закривали 3 і 5 жовтня — тут натомість напрям, якого в блозі не було, із сильною доказовою базою. Головне дослідження: SSaSS (NEJM 2021, 600 сіл Китаю, n=20 995, 4,74 року) — суміш 75% NaCl + 25% KCl проти звичайної солі дала інсульт 29,14 проти 33,65 на 1000 людино-років (RR 0,86), серйозні серцево-судинні події −13%, загальну смертність −12%, без зростання задокументованої гіперкаліємії в популяції без тяжкої ниркової недостатності; мета-аналіз Yin 2022 підтверджує напрям. Чесні межі: вибірка — люди з інсультом в анамнезі або гіпертензією віком 60+, дуже високим вихідним споживанням солі й домашньою кухнею; у раціоні, де сіль приходить із хлібом, ковбасою і сиром, ефект заміни сільнички буде меншим — тому окремо показуємо, де сіль насправді. Кому НЕ можна: ХХН, калійзберігаючі діуретики, іАПФ/БРА, спіронолактон, регулярні НПЗЗ — тут калій є ризиком, і це не «просто сіль». ВООЗ 2023 рекомендує замінники з низькою певністю доказів — пояснюємо, чому сильний РКД і слабка рекомендація не суперечать одне одному. Практичне: як читати етикетку (KCl у складі), що продається в Україні і чому йодування — окреме питання.",
+      "sources_hint": "Neal B et al., SSaSS, NEJM 2021; Yin X et al., Heart 2022 (salt substitutes meta-analysis); WHO 2023 guideline on lower-sodium salt substitutes; He FJ et al. / Cochrane on reduced sodium intake and blood pressure; hyperkalaemia risk with potassium-based substitutes in CKD literature; Ukrainian sodium intake surveys (WHO Europe / STEPS)",
+      "evidence_level": "strong",
+      "score": 75,
+      "rationale": "SSaSS is a landmark RCT (n=20995) with a WHO 2023 guideline and a meta-analysis behind it, and nothing on sodium has run recently, but the subject is evergreen with no live news hook.",
+      "proposed": "2026-10-13"
+    },
+    {
+      "topic": "Мелатонін у жовтні: від чого він працює, від чого ні і чому доза в українських аптеках зазвичай завелика",
+      "type": "guide",
+      "category": "sleep",
+      "angle": "Сезонний claim-check: темніє рано, засинається погано — і люди починають пити мелатонін як снодійне. Докази розкладені за показаннями, а не одним словом «працює». Де сильніше: синдром відкладеної фази сну і зсув ритму (малі дози 0,3–0,5 мг за 3–5 годин до бажаного сну — хронобіотичний, а не седативний ефект; Burgess/Lewy фазово-відповідні криві), джетлаг (Кокран). Де слабше: хронічне безсоння у дорослих — мета-аналізи дають виграш у засинанні порядку кількох хвилин, і саме тому AASM 2017 не рекомендує мелатонін при безсонні, а першою лінією лишається КПТ-Б. Чому «2, 3, 5 мг на ніч перед сном» — це доза й час, що майже гарантовано не дають фазового ефекту. Що з безпекою: вміст у безрецептурних продуктах може відрізнятися від етикетки в кілька разів (аналіз JAMA 2023 про гумки), окремо — діти й підлітки, окремо — хто точно має не експериментувати самостійно. Плюс нудна частина, що працює краще: фіксований час підйому і світло в першу годину після прокидання.",
+      "sources_hint": "AASM clinical practice guideline for chronic insomnia in adults (Sateia 2017); Cochrane: melatonin for jet lag (Herxheimer); Auld F et al., Sleep Med Rev 2017 (melatonin for sleep disorders); Burgess HJ, Lewy AJ phase response curve studies; Ferracioli-Oda E et al., PLOS ONE 2013; Cohen PA et al., JAMA 2023 (melatonin content in gummies); AASM position on paediatric melatonin",
+      "evidence_level": "moderate",
+      "score": 62,
+      "rationale": "AASM guideline, Cochrane jet-lag review and a JAMA gummy-dosing study carry it, and dark evenings make it seasonally apt, but the evidence per indication is only moderate.",
+      "proposed": "2026-10-13"
+    },
+    {
+      "topic": "Симптоми дитячого раку, які легко пропустити: що справді має насторожити батьків, а що ні",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Привід — матеріал BBC про те, як симптоми дитячого раку губляться серед звичайних дитячих хвороб. Головна чесність одразу: скринінгу на дитячий рак не існує і бути не може — захворюваність занадто низька, тож будь-який масовий тест дав би переважно хибнопозитивні; працює тільки розпізнавання симптомів і час до звернення. Матеріал дає конкретні комбінації, а не список страхів: уперта кісткова біль, що будить уночі; лімфовузол, який росте й не болить понад 3–4 тижні; ранковий головний біль із блюванням і зміною зору; незрозумілі синці й петехії з блідістю й втомою; живіт, що збільшується, або пальпована пухлина; білий відблиск у зіниці на фото (лейкокорія) замість червоного. Поряд — зворотний бік: 9 із 10 таких скарг мають банальне пояснення, і завдання не паніка, а не відкладати повторний візит, якщо симптом не минає. Український маршрут: що просити в сімейного лікаря (аналіз крові з формулою, УЗД), куди скеровують далі, що покриває НСЗУ. Явний червоний прапорець і «звернітися до лікаря» там, де він справді потрібен.",
+      "sources_hint": "BBC Health Oct 2026 childhood cancer symptoms coverage; NICE NG12 suspected cancer referral (children and young people); CRUK childhood cancer signs and symptoms pages; Dommett RM et al., Br J Cancer 2013 (symptoms in primary care); Ahrensberg JM et al. (diagnostic delay in childhood cancer); retinoblastoma leukocoria detection literature",
+      "evidence_level": "moderate",
+      "score": 56,
+      "rationale": "BBC hook and NICE/CRUK literature exist, but the piece is largely a consensus checklist rather than a claim with real tension to argue, thinner for a long feature.",
+      "proposed": "2026-10-13"
+    },
+    {
+      "topic": "Скільки силових потрібно для довшого життя: крива, яка перестає рости після години на тиждень",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Претензія до перевірки: «силові краще за кардіо» — і зворотна, «штанга для молодих». Дозозалежні мета-аналізи дають неінтуїтивну відповідь: 30–60 хв силових на тиждень пов'язані з найбільшим зниженням загальної смертності (~10–20%), далі крива не піднімається, а в Momma 2022 за межами приблизно 130–140 хв/тиждень ефект згасає і для ССЗ навіть розвертається (обсерваційні дані, самозвіт обсягу — названо прямо). Найкращий результат дає не вибір між силовими й аеробними, а сума (Gorzelitz, NIH-AARP). Що з цього випливає практично: дві сесії на тиждень по 30–40 хв на основні групи м'язів покривають норматив ВООЗ 2020, прогресія важливіша за обсяг, і чому «м'язова маса як орган довголіття» — поки що механізм, а не доведена кінцева точка. Для тренерів: що відповідати клієнту, який хоче «більше, бо корисніше», і чому сила хвату прогностична, але її тренування не доказ зниження смертності.",
+      "sources_hint": "Momma H et al., Br J Sports Med 2022 (resistance training dose-response meta-analysis, 16 cohorts); Gorzelitz J et al., Br J Sports Med 2022 (NIH-AARP); Giovannucci EL et al. commentary; WHO 2020 physical activity guidelines; Saeidifard F et al., Eur J Prev Cardiol 2019; grip strength prognostic cohorts (Leong, Lancet 2015)",
+      "evidence_level": "moderate",
+      "score": 54,
+      "rationale": "Momma 2022 and Gorzelitz give a genuine dose-response literature, but it is observational, self-reported and has no live news hook pulling a reader in today.",
+      "proposed": "2026-10-13"
+    },
+    {
+      "topic": "Крижана ванна після тренування: для настрою — можливо, для м'язів — ціною адаптації",
+      "type": "research",
+      "category": "biohacking",
+      "angle": "Холодне занурення стало ритуалом сторіс, тож розбираємо його за кінцевими точками окремо. Відновлення й крепатура: мета-аналізи показують помірне зменшення відчуття болючості в перші 24–72 години, але майже без впливу на реальне відновлення силових показників, і засліпити таке втручання неможливо — частина ефекту очікувана плацебо (перегукується з матеріалом про розтяжку і DOMS від 21.09, але тут інше втручання й інші кінцеві точки). Головне, про що не кажуть продавці чанів: холод після силового тренування притуплює саме ту сигналізацію, на якій будується гіпертрофія — Roberts 2015 (n=21, 12 тижнів) показав менший приріст маси й сили проти активного відновлення, тож спортсмену в силовому блоці краще рознести їх у часі або пропустити. Настрій і «бодрість»: реальні, короткочасні, з викидом норадреналіну; дані про тривалий ефект на депресію чи імунітет — малі вибірки й самозвіт. Безпека названа прямо: холодовий шок, рефлекторна затримка дихання, ризик для серця й аритмій, чому не занурюватися самому й кому це протипоказано взагалі. Для тренерів: холод — інструмент турнірного дня, а не щоденна частина мезоциклу.",
+      "sources_hint": "Cochrane: Bleakley C et al., cold-water immersion for preventing and treating muscle soreness; Roberts LA et al., J Physiol 2015 (post-exercise cold water immersion attenuates strength/hypertrophy adaptations); Fyfe JJ et al., J Appl Physiol 2019; Moore E et al., Sports Med 2023 (cold water immersion meta-analysis); Esperland D et al., Int J Circumpolar Health 2022 (health effects of voluntary cold exposure); cold shock response reviews",
+      "evidence_level": "moderate",
+      "score": 46,
+      "rationale": "Evidence leans on a handful of small trials (Roberts n=21) and overlaps thematically with the recent DOMS/stretching piece, weakest literature base of the set for carrying a long feature.",
+      "proposed": "2026-10-13"
     }
   ]
 }
