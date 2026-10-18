@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T03:09:51.164280+00:00",
+  "updated_at": "2026-10-17T03:30:28.499177+00:00",
   "entries": [
     {
       "topic": "П'ять хвилин дихання проти тривоги: що показало рандомізоване порівняння з медитацією",
@@ -1297,17 +1297,6 @@
       "evidence_level": "moderate",
       "score": 86,
       "rationale": "Fresh UK government review plus named PPV/overdiagnosis literature (Ustun, Kazda, Faraone) gives a live news hook on a question readers are actively self-diagnosing with.",
-      "proposed": "2026-10-10"
-    },
-    {
-      "topic": "Вихідні «відіспатися» не повертають борг: що робити із соціальним джетлагом у суботу",
-      "type": "guide",
-      "category": "sleep",
-      "angle": "Субота — рівно той день, коли читач це робить. Поняття: соціальний джетлаг — різниця між серединою сну у вихідні й у робочі дні (Wittmann/Roenneberg); приблизно у третини людей вона перевищує годину, і кожна година асоціюється з гіршими метаболічними маркерами в когортах. Головна чесність матеріалу — суперечність у доказах: Depner 2019 (РКД в лабораторії) показав, що відсипання на вихідних не відновило чутливість до інсуліну і додало вечірніх калорій, тоді як великі когорти Åkerstedt показують нижчу смертність у тих, хто досипає на вихідних, тобто «краще доспати, ніж не доспати, але це не ремонт». Практичне й конкретне: межа ~1 година зсуву, світло в перші 30 хвилин після пробудження як головний якір, що робити з кавою після 14:00, чому денний сон 20 хвилин кращий за +3 години зранку, і як виглядає сон при відключеннях світла і тривогах — тобто що робити, коли графік ламає не вечірка, а повітряна тривога.",
-      "sources_hint": "Wittmann M et al., Chronobiol Int 2006; Roenneberg T et al., Curr Biol 2012; Depner CM et al., Curr Biol 2019 (weekend recovery sleep RCT); Åkerstedt T et al., J Sleep Res 2018/2019 (weekend catch-up sleep and mortality); Chaput JP et al., sleep variability and cardiometabolic outcomes reviews; AASM position statement on sleep duration 2021",
-      "evidence_level": "moderate",
-      "score": 84,
-      "rationale": "Today literally is the Saturday the piece is written for, and the Depner-RCT-vs-Åkerstedt-cohort tension is a genuine, nameable contradiction sized right for a guide.",
       "proposed": "2026-10-10"
     },
     {

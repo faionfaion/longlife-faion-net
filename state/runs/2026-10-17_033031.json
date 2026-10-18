@@ -1,0 +1,80 @@
+{
+  "timestamp": "2026-10-17_033031",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "sotsialnyi-dzhetlah-vidspatysia-vykhidni-borh-snu-katch-ap",
+  "author": "Віта",
+  "duration_s": 1647.7,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 350.6,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 57.1,
+      "error": null
+    },
+    {
+      "name": "research:Вихідні «відіспатися» не повер",
+      "status": "ok",
+      "duration_s": 346.0,
+      "error": null
+    },
+    {
+      "name": "generate:Вихідні «відіспатися» не повер",
+      "status": "ok",
+      "duration_s": 171.8,
+      "error": null
+    },
+    {
+      "name": "text_edit:Вихідні «відіспатися» не повер",
+      "status": "ok",
+      "duration_s": 193.5,
+      "error": null
+    },
+    {
+      "name": "review:Вихідні «відіспатися» не повер",
+      "status": "ok",
+      "duration_s": 283.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Вихідні «відіспатися» не повер",
+      "status": "ok",
+      "duration_s": 33.6,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Вихідні «відіспатися» не повер",
+      "status": "ok",
+      "duration_s": 10.9,
+      "error": null
+    },
+    {
+      "name": "save:Вихідні «відіспатися» не повер",
+      "status": "ok",
+      "duration_s": 196.0,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.6,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}
