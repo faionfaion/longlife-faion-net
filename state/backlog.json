@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T03:30:28.499177+00:00",
+  "updated_at": "2026-10-19T03:09:47.263470+00:00",
   "entries": [
     {
       "topic": "П'ять хвилин дихання проти тривоги: що показало рандомізоване порівняння з медитацією",
@@ -24,171 +24,6 @@
       "proposed": "2026-09-26"
     },
     {
-      "topic": "Щеплення від оперізувального герпесу: біль, який лишається на місяці, і несподіваний слід у даних про деменцію",
-      "type": "research",
-      "category": "prevention",
-      "angle": "Тема, про яку в Україні майже не говорять, хоч вітрянку в дитинстві мали майже всі, а вірус лишається в нервових вузлах довічно. Основне: рекомбінантна вакцина (Shingrix) у РКД ZOE-50/ZOE-70 дала ефективність понад 90% навіть після 70 років і суттєво знизила постгерпетичну невралгію — біль, який може тривати місяцями; ефект тримається щонайменше 10 років. Друга, цікавіша лінія: природний експеримент в Уельсі (Nature 2025), де право на стару живу вакцину визначалося датою народження — у щеплених ризик деменції за 7 років був нижчим приблизно на 3,5 в.п.; це найближче до причинності, що взагалі є поза РКД, але механізм не доведений і на рекомбінантну вакцину прямо не переноситься — тому це не привід щепитися «від деменції». Чесно: реактогенність висока (біль у руці, день-два розбитості), дві дози, і головне українське обмеження — чи є препарат у продажу й за які гроші. Червоні прапорці: висип на обличчі біля ока — до лікаря того ж дня.",
-      "sources_hint": "Lal H et al., NEJM 2015 (ZOE-50) and Cunningham AL, NEJM 2016 (ZOE-70); Strezova A et al., Open Forum Infect Dis 2022 (10-year persistence); Eyting M et al., Nature 2025 (Welsh natural experiment, zoster vaccine and dementia); Harpaz R et al., CDC ACIP recommendations; check drlz.com.ua for registration in Ukraine",
-      "evidence_level": "strong",
-      "score": 82,
-      "rationale": "RCTs plus a genuinely surprising Nature natural-experiment turn give the two-act story a material needs; underdiscussed in Ukraine.",
-      "proposed": "2026-09-17"
-    },
-    {
-      "topic": "Дні коротшають: ранкове світло працює краще за мелатонін",
-      "type": "lifehack",
-      "category": "sleep",
-      "angle": "Сезонний практичний матеріал для широти України, де від вересня світловий день стрімко коротшає. Свідомо НЕ про вітамін D (розбирали 11.09) — тут лише про світло як сигнал для циркадного годинника. Механізм простими словами: годинник у мозку виставляється світлом в очі вранці, а не тим, коли ви лягли; ранкове яскраве світло зсуває фазу раніше, вечірнє — пізніше. Докази: світлотерапія 10 000 люкс 20–30 хв уранці має мета-аналітичну підтримку при сезонному афективному розладі й при відставленій фазі сну; мелатонін у дозах 0,5–1 мг за кілька годин до сну працює як зсув фази, а не як снодійне — і саме тому «3 мг перед сном» найчастіше не працює. Чесні межі: більшість досліджень світлотерапії малі й погано осліплені; побутової лампи 500 люкс замало, а 15 хвилин надворі навіть у похмурий день дають більше. Практичне: як влаштувати ранкове вікно світла в темну пору й під час відключень світла, чому «світанковий будильник» — окрема й слабша доказова база, і коли яскраве світло протипоказане (біполярний розлад, деякі хвороби сітківки — питати лікаря).",
-      "sources_hint": "Cochrane 'Light therapy for preventing seasonal affective disorder' (Nussbaumer-Streit 2019); Pjrek E et al., Psychother Psychosom 2020 (bright light therapy meta-analysis, non-seasonal depression); AASM clinical practice guideline for circadian rhythm sleep-wake disorders (Auger 2015); Burgess HJ et al., melatonin phase-response curve studies; Wright KP et al., Curr Biol 2013 (natural light and circadian timing)",
-      "evidence_level": "moderate",
-      "score": 78,
-      "rationale": "Perfectly seasonal for Sept 17, mechanism-rich comparison of light vs melatonin, distinct from the vitamin D piece already run.",
-      "proposed": "2026-09-17"
-    },
-    {
-      "topic": "Гарячий чай і рак стравоходу: межа проходить по 65 градусах, а не по чаю",
-      "type": "research",
-      "category": "nutrition",
-      "angle": "Сезонно вчасно: починається пора термоса й окропу. Звідки взялася цифра 65 °C: IARC у 2016-му (монографія 116) переніс до групи 2A «дуже гарячі напої» саме за температурою — і тоді ж прибрав каву з переліку канцерогенів. Головне джерело — Golestan Cohort (Іран, n≈50 000): у тих, хто пив чай гарячішим за 60 °C і швидше ніж через 2 хвилини після заварювання, ризик плоскоклітинного раку стравоходу приблизно вдвічі вищий; механізм — термічне пошкодження й хронічне відновлення епітелію, не хімія напою. Чесні межі: спостережні дані, конфаундери (тютюн, алкоголь, опіум у популяції), інший підтип раку, ніж аденокарцинома стравоходу на тлі ГЕРХ. Практичне й напрочуд просте: чай/кава з чайника охолоджуються до безпечного приблизно за 4–5 хвилин; «пити, коли можна тримати губами без болю» — робочий побутовий тест. Український контекст: звичка пити окріп, термос узимку, і те, що куріння з алкоголем множать ризик сильніше за температуру.",
-      "sources_hint": "IARC Monographs vol. 116 (2016) 'Drinking coffee, mate, and very hot beverages'; Islami F et al., Int J Cancer 2020;146:18-25 (Golestan Cohort tea temperature and ESCC); Islami F et al., BMJ 2009;338:b929; Chen Y et al., Ann Intern Med 2022 (UK Biobank hot tea + alcohol/smoking interaction)",
-      "evidence_level": "moderate",
-      "score": 74,
-      "rationale": "Seasonal thermos hook and a good IARC-reclassification narrative, but evidence leans on one large cohort rather than a wide literature.",
-      "proposed": "2026-09-17"
-    },
-    {
-      "topic": "Втома у жінок і залізо: коли причина справді в ньому, а коли таблетка не допоможе",
-      "type": "nutrition",
-      "category": "nutrition",
-      "angle": "Дуже часта історія: «здала гемоглобін — норма, а сил немає», після чого людина сама купує залізо. Розділити три стани: анемія, дефіцит заліза без анемії (низький феритин при нормальному гемоглобіні) і втома з іншої причини. Ключові докази: РКД і мета-аналізи показують, що при феритині нижче порогу препарати заліза справді зменшують втому в невагітних жінок — але ефект невеликий і зникає, якщо запаси нормальні. Практична частина, якої бракує читачам: феритин — білок гострої фази й фальшиво зростає при запаленні (тому разом із СРБ); пороги різняться між настановами (20 vs 30 нг/мл); десятиліттями стандартом було «щодня по таблетці», а доказовішою стала схема через день — гепсидин після дози блокує всмоктування наступної (Stoffel, Lancet Haematology); вітамін C у таблетці окремо не потрібен; чай і кава біля прийому знижують засвоєння. Прямо: не призначати собі залізо «наосліп» — без аналізу це і марно, і не безкоштовно за ризиком (ШКТ-побічні, перевантаження при гемохроматозі). Червоні прапорці: залізодефіцит у чоловіка чи жінки в менопаузі — це привід шукати кровотечу, а не просто пити залізо.",
-      "sources_hint": "Stoffel NU et al., Lancet Haematol 2017 and Blood 2020 (alternate-day iron dosing, hepcidin); Cochrane 'Daily iron supplementation for improving anaemia... in menstruating women'; Vaucher P et al., CMAJ 2012 (iron for fatigue without anaemia, RCT); Houston BL et al., BMJ Open 2018 systematic review; WHO 2020 ferritin guideline and BSH iron deficiency guidelines",
-      "evidence_level": "moderate",
-      "score": 71,
-      "rationale": "Strong, varied evidence base (Cochrane, Lancet Haematol, CMAJ RCT) and real everyday decision, but no current-news hook.",
-      "proposed": "2026-09-17"
-    },
-    {
-      "topic": "Креатин: що з обіцянок витримує перевірку, а що ні (для тих, хто радить клієнтам)",
-      "type": "fitness",
-      "category": "fitness",
-      "angle": "Матеріал із подвійною адресою: читачеві — чи варто, тренеру — доза й межі. Що доведено: моногідрат 3–5 г/день стабільно додає силу й робочий об'єм у мета-аналізах, приріст ваги в перші тижні — це вода в м'язі, а не жир. Що міф: «фаза завантаження обов'язкова» (20 г/день лише прискорює насичення на ~3 тижні, кінцевий результат той самий); «садить нирки» — у людей зі здоровими нирками РКД до 5 років не показують шкоди, але креатинін в аналізі зростає й лікаря треба попередити (інакше є ризик, що «поганий аналіз» полікують замість перечитати); «випадає волосся» — походить з одного дослідження на 20 регбістах (ДГТ), не відтворене. Окремо — популярна нині лінія про мозок і пам'ять: сигнал є при позбавленні сну й у вегетаріанців, але останні великі огляди дають дрібний і неоднорідний ефект у здорових; жіночі дані й дози 10+ г — попередні. Порошок vs «креатин у капсулах з транспортною системою»: доказів переваги немає, переплата є. Окрема примітка про хворобу нирок в анамнезі — тільки з лікарем.",
-      "sources_hint": "Kreider et al., ISSN position stand on creatine (JISSN 2017 + 2021 updates); Antonio et al. JISSN 2021 'Common questions and misconceptions about creatine'; Cochrane/meta-analyses on creatine and resistance training; Avgerinos et al., Exp Gerontol 2018 (cognition); van der Merwe 2009 (DHT in rugby players); de Souza e Silva 2019 (renal function RCT)",
-      "evidence_level": "strong",
-      "score": 68,
-      "rationale": "Rich myth-by-myth literature (ISSN, multiple RCTs) fills length well, evergreen with no live hook this week.",
-      "proposed": "2026-09-17"
-    },
-    {
-      "topic": "Скрегіт зубами вночі: капа захищає зуби, але не лікує причину",
-      "type": "guide",
-      "category": "mental-health",
-      "angle": "Привід — повідомлення британських стоматологів про зростання бруксизму в молодих. Розібрати три поширені переконання: «це від глистів» (доказів нуль), «це від стресу» (зв'язок є, але кореляційний і слабший, ніж вважають; сон-бруксизм тісніше пов'язаний із мікропробудженнями та апное, ніж із тривогою) і «капа вилікує» — оклюзійна шина знижує зношування емалі, але кількість епізодів скреготу не прибирає (Кокран/систематичні огляди). Чесно про ботулотоксин: зменшує силу стискання й біль у кількох невеликих РКД, ефект на 3–4 місяці, ризик атрофії жувальних м'язів — це процедура за призначенням лікаря, не «б'юті-послуга». Практичне: як відрізнити бруксизм сну від денного стискання (денне — керується усвідомленням, сон — ні), коли шукати апное (хропіння, денна сонливість, ранковий головний біль), що перевірити з ліків (СІЗЗС, стимулятори) і кофеїну/нікотину. Червоні прапорці: біль у скронево-нижньощелепному суглобі, блокування щелепи, сколи на зубах.",
-      "sources_hint": "Cochrane review 'Occlusal splints for treating sleep bruxism'; Lobbezoo et al., J Oral Rehabil 2018 consensus on bruxism definition/assessment; Manfredini et al. epidemiology reviews; RCTs of botulinum toxin for sleep bruxism (Ondo 2018, Lee 2010); AASM sleep bruxism and OSA association literature",
-      "evidence_level": "moderate",
-      "score": 66,
-      "rationale": "Three myths plus apnea link and botox give enough turns for the format, but the UK-dentist hook is soft and evidence moderate.",
-      "proposed": "2026-09-17"
-    },
-    {
-      "topic": "Крижана ванна після тренування: що вона реально робить із відчуттями і що — з результатом",
-      "type": "guide",
-      "category": "biohacking",
-      "angle": "Клейм-чек найгучнішого біохаку останніх років, без сарказму. Що є: мета-аналізи показують, що занурення в холодну воду зменшує суб'єктивну крепатуру й відчуття втоми на 24–72 години — ефект невеликий-помірний і значною мірою пояснюваний очікуванням (у дослідженні з «плацебо-зануренням» ефект був такий самий). Що є проти: холод після силового тренування притуплює сигнали гіпертрофії й у РКД зменшує довгостроковий приріст сили та м'язової маси (Roberts 2015, Fyfe 2019) — тобто для того, хто будує м'язи, це радше шкода. Розділити задачі: турнір із двома стартами в день — холод розумний; звичайне тренування — ні. Окремо про «холод для метаболізму, імунітету й настрою»: дані переважно дрібні, короткі, з нульовим осліпленням; Wim Hof-протоколи мають ефекти на маркери запалення в одному малому дослідженні, але не на клінічні результати — і жодного показання «замість лікування». Безпека: холодовий шок у відкритій воді, ризик при аритміях і гіпертензії, ніколи наодинці.",
-      "sources_hint": "Cochrane 'Cold-water immersion for preventing and treating muscle soreness after exercise' (Bleakley 2012); Broatch JR et al., Med Sci Sports Exerc 2014 (placebo immersion); Roberts LA et al., J Physiol 2015; Fyfe JJ et al., J Appl Physiol 2019; Cain T et al., PLOS One 2025 meta-analysis of cold-water immersion health outcomes; Kox M et al., PNAS 2014 (Wim Hof method)",
-      "evidence_level": "moderate",
-      "score": 63,
-      "rationale": "Good two-sided evidence (soreness relief vs hypertrophy cost) but evergreen biohack angle with no timely trigger.",
-      "proposed": "2026-09-17"
-    },
-    {
-      "topic": "Розтяжка перед тренуванням не захищає від травм — а що захищає",
-      "type": "guide",
-      "category": "fitness",
-      "angle": "Класичний клейм-чек шкільної звички. Докази: статична розтяжка перед навантаженням не знижує частоту травм (великі РКД на військових новобранцях і бігунах, огляд Herbert & Gabriel, BMJ) і не прибирає крепатуру (Кокран: різниця близько 1 бала зі 100); понад те, довге утримання перед силовою тимчасово знижує максимальну силу й потужність. Що працює натомість: розігрів із поступовим підвищенням інтенсивності і рухів, схожих на робочі; нейром'язові програми типу FIFA 11+ і Nordic hamstring знижують травми нижньої кінцівки в мета-аналізах приблизно на третину і більше; головний предиктор травми — різке нарощування об'єму, а не «незмащені м'язи». Де розтяжка справді на місці: окремі сесії на амплітуду, після тренування або в інший час. Практично: 8–10-хвилинний шаблон розминки і правило поступового нарощування навантаження.",
-      "sources_hint": "Herbert RD & Gabriel M, BMJ 2002; Cochrane 'Stretching to prevent or reduce muscle soreness after exercise' (Herbert 2011); Lauersen JB et al., Br J Sports Med 2014/2018 (injury prevention meta-analyses); Behm DG et al., Appl Physiol Nutr Metab 2016 (acute static stretching and performance); van Dyk N et al., Br J Sports Med 2019 (Nordic hamstring); FIFA 11+ RCTs",
-      "evidence_level": "strong",
-      "score": 60,
-      "rationale": "Strong RCT/Cochrane evidence and a clear alternative (FIFA 11+, Nordic curl), but classic evergreen claim-check with no hook.",
-      "proposed": "2026-09-17"
-    },
-    {
-      "topic": "Провина через лікарняний: що показують дані про роботу хворим",
-      "type": "research",
-      "category": "mental-health",
-      "angle": "Привід — матеріал BBC про почуття провини, коли телефонуєш сказати, що захворів. Питання, яке має сенс поставити доказово: презентеїзм (робота хворим) корелює з подальшим погіршенням здоров'я і довшими лікарняними згодом — проспективні когорти Whitehall II показують вищий ризик серцево-судинних подій у тих, хто не бере лікарняний; для інфекцій це ще й пряма математика передачі колегам. Чесно про межі: дані спостережні, зворотна причинність (люди з нестабільною роботою і не можуть узяти лікарняний), економічні оцінки «втрат від презентеїзму» переважно самозвітні й ненадійні. Український контекст: електронний лікарняний, оплата, і специфіка фрилансу/ФОП, де лікарняного просто немає. Практичне: прості правила, коли залишитися вдома (температура, кишкова інфекція до 48 годин після останнього епізоду, перші дні респіраторної), і що дає віддалена робота хворим — відпочинку не дає.",
-      "sources_hint": "Kivimäki M et al., Am J Public Health 2005 (sickness presenteeism and coronary events, Whitehall II); Skagen K & Collins AM, Soc Sci Med 2016 (systematic review of presenteeism and health); Bergström G et al., J Occup Environ Med 2009 (presenteeism predicting future sick leave); CDC/UKHSA return-to-work guidance for gastrointestinal and respiratory infections",
-      "evidence_level": "moderate",
-      "score": 55,
-      "rationale": "BBC hook exists but evidence is a narrower observational strand (Whitehall II) that thins out before filling a long feature.",
-      "proposed": "2026-09-17"
-    },
-    {
-      "topic": "Креатин: що з обіцянок витримує перевірку, а що ні (розбір для тренерів)",
-      "type": "fitness",
-      "category": "fitness",
-      "angle": "Найпопулярніша спортивна добавка і найбільша кількість міфів навколо неї. Що доведено: моногідрат дає приріст сили й маси при силових тренуваннях — але сам по собі, без тренування, майже нічого не дає; ефект залежить від насичення м'язів, тому «завантаження» 20 г/день на 5 днів лише пришвидшує те, чого 3–5 г/день досягають за 3–4 тижні. Що спростовано або не підтверджено: нирки у здорових людей (немає сигналу в контрольованих дослідженнях), «випадіння волосся» — один невеликий РКД на регбістах 2009 року з ДГТ як сурогатом, який не відтворили; нові форми (HCl, етиловий ефір, буферизований) не перевершили моногідрат у прямих порівняннях і коштують дорожче. Що поки попереднє: когнітивні ефекти при недосипанні й високі дози — сигнал є, доказу немає. Практичне: доза на кг, вода, хто справді не відповідає (нон-респондери), чому вага одразу +1 кг і це не жир. Окремо — при хворобах нирок і вагітності рішення з лікарем, а не за відео з ютубу.",
-      "sources_hint": "Kreider RB et al., J Int Soc Sports Nutr 2017 position stand; Antonio J et al., JISSN 2021 'Common questions and misconceptions about creatine'; Chilibeck PD et al., Open Access J Sports Med 2017 (meta-analysis, resistance training); van der Merwe J et al., Clin J Sport Med 2009 (DHT in rugby players); de Souza e Silva A et al. (kidney function reviews); Xu C et al. 2024 meta-analysis on creatine and cognition; PubMed query 'creatine monohydrate hair loss DHT replication'",
-      "evidence_level": "strong",
-      "score": 78,
-      "rationale": "Broad myth-by-myth bundle with strong, nameable evidence (position stands, meta-analyses, a failed-replication study) and high reader relevance, no recent hook but fits roundup breadth well.",
-      "proposed": "2026-09-18"
-    },
-    {
-      "topic": "Рак кишківника: тест калу раз на рік замість колоноскопії — кому цього досить",
-      "type": "guide",
-      "category": "prevention",
-      "angle": "Практичний гайд про скринінг, який в Україні майже не працює, хоча колоректальний рак — один із найчастіших. На відміну від попередніх матеріалів блогу про скринінг (самозабір на ВПЛ, сечовий тест на рак міхура), тут є рандомізовані дані з твердою кінцевою точкою — смертністю. Головне: імунохімічний тест калу (FIT) — не «аналіз на приховану кров» старого зразка, він не потребує дієти перед здачею, робиться вдома, і в програмах щорічний/раз на два роки FIT знижує смертність від раку кишківника. Порівняти чесно: колоноскопія знаходить і одразу видаляє поліпи, але в РКД NordICC запрошення на колоноскопію дало скромніший ефект, ніж очікували, — і чому (участь лише 42%, аналіз за наміром лікувати проти аналізу «за протоколом»). Практичний блок: з якого віку починати (50, а при раку кишківника в родича першого ступеня — раніше), як правильно зібрати зразок, що робити при позитивному FIT (колоноскопія, не повторний тест), скільки це коштує в Україні й що покриває НСЗУ. Червоні прапорці, при яких скринінг не потрібен — потрібен лікар зараз: кров у калі, зміна випорожнень понад 6 тижнів, залізодефіцитна анемія, втрата ваги.",
-      "sources_hint": "Bretthauer M et al., NEJM 2022 (NordICC colonoscopy RCT); Cochrane review of faecal occult blood screening (Hewitson et al.); Zorzi M et al., Gut 2015 (FIT programme mortality); USPSTF 2021 colorectal cancer screening recommendation; European guidelines on quality assurance in CRC screening; NICE NG12 lower GI referral criteria; NSZU/МОЗ programme documents on colorectal screening in Ukraine",
-      "evidence_level": "strong",
-      "score": 74,
-      "rationale": "Strong mortality-endpoint evidence (NordICC, Cochrane FOBT, program data) and high decision-relevance, but shaped more as a single-question guide than a multi-thread roundup.",
-      "proposed": "2026-09-18"
-    },
-    {
-      "topic": "Крижана ванна після тренування: відчуття кращає, м'язи ростуть гірше",
-      "type": "research",
-      "category": "biohacking",
-      "angle": "Холодові занурення стали ритуалом у соцмережах, і тут доказова картина рідкісно чітка й водночас незручна. Перше: для суб'єктивного відчуття відновлення й болю (DOMS) занурення в холодну воду працює — Кокранівський огляд бачить невелике зменшення болю в перші 24–96 годин, але переважно в малих дослідженнях сумнівної якості. Друге: якщо ціль — сила й гіпертрофія, холод одразу після силового тренування притуплює саме той сигнал, заради якого тренувалися (Roberts et al., J Physiol 2015: менший приріст сили й площі волокон за 12 тижнів; знижена активація сателітних клітин і mTOR). Тобто час має значення: холод у день змагань чи між двома стартами — так; холод одразу після «якісної» силової — ні. Третє: обіцянки про імунітет, метаболізм і бурий жир — переважно дрібні дослідження й механізми без клінічних результатів (прямий продовжувач теми «механізм ≠ результат»). Безпека: холодовий шок, кардіологічні протипоказання, чому «моржування» з першого разу — погана ідея, і кому потрібна консультація кардіолога перед стартом.",
-      "sources_hint": "Bleakley C et al., Cochrane Database Syst Rev 2012 (cold-water immersion for DOMS); Roberts LA et al., J Physiol 2015;593:4285 (post-exercise cold water immersion attenuates strength/hypertrophy); Fyfe JJ et al., Am J Physiol 2019; Cain T et al., PLOS One 2025 (meta-analysis of cold water immersion and health outcomes); Tipton MJ et al., Exp Physiol 2017 (cold shock response safety)",
-      "evidence_level": "moderate",
-      "score": 66,
-      "rationale": "Genuinely bundled evidence (Cochrane on DOMS, Roberts 2015 on hypertrophy, safety data) on a trendy claim, moderate strength and no specific news hook.",
-      "proposed": "2026-09-18"
-    },
-    {
-      "topic": "Колаген у порошку: суглоби, шкіра і що показують дослідження, які не платив виробник",
-      "type": "nutrition",
-      "category": "nutrition",
-      "angle": "Claim-check добавки, яку в Україні п'ють «для суглобів, шкіри й волосся». Перше, що ламає інтуїцію: проковтнутий колаген не їде до колін — у кишківнику він розщеплюється на амінокислоти й дипептиди, як будь-який білок; гіпотеза про пептиди пролін-гідроксипролін як сигнал існує, але це механізм, а не результат. Що є в даних: для шкіри — мета-аналізи невеликих РКД показують помірне покращення гідратації й еластичності, але майже всі дослідження фінансовані виробниками, а сліпих із твердими кінцевими точками мало; для остеоартриту коліна ефект на біль малий і нестабільний, поступається базовій терапії; для сухожиль і зв'язок дані попередні. Окремий блок — як самому прочитати declaration of funding і conflict of interest у статті, бо це і є головний фільтр у цій темі. Порівняння ціни: 10 г колагену vs звичайний білок у раціоні + вітамін C. Кому це справді може бути не зайвим (літні з низьким споживанням білка) — і чому тоді відповідь зазвичай «більше білка загалом», а не «саме колаген».",
-      "sources_hint": "de Miranda RB et al., Int J Dermatol 2021 (meta-analysis of collagen supplementation and skin); Pu SY et al., Nutrients 2023; García-Coronado JM et al., Int Orthop 2019 (collagen for knee OA meta-analysis); Paul C et al., Nutrients 2019 (collagen amino acid composition); Shaw G et al., Am J Clin Nutr 2017 (gelatin + vitamin C and collagen synthesis); check funding/conflict statements in each trial",
-      "evidence_level": "moderate",
-      "score": 62,
-      "rationale": "Wide claim-check across skin, joints and funding bias with named meta-analyses, high reader value but evidence uniformly moderate and no timeliness trigger.",
-      "proposed": "2026-09-18"
-    },
-    {
-      "topic": "Мелатонін не снодійне: що він робить насправді і чому 3 мг — це забагато",
-      "type": "research",
-      "category": "sleep",
-      "angle": "Мелатонін в Україні продають як дієтичну добавку і п'ють «щоб заснути», але в доказах це хронобіотик — він зсуває фазу, а не вимикає свідомість. Ключові числа з мета-аналізів: скорочення часу засинання приблизно на 7–12 хвилин і приріст сну близько 8–20 хвилин — менше, ніж очікує людина, яка платить за упаковку. Де він справді працює: синдром затримки фази сну, джетлаг, нічні зміни — і в дозі 0,5–1 мг за 3–5 годин до бажаного сну, а не 5–10 мг за 30 хвилин. Чому перша лінія при хронічному безсонні — КПТ-Б, а не таблетка (AASM 2017, ACP 2016). Плюс перевірка якості: аналіз американських добавок показав вміст від −83% до +478% від заявленого, у частині зразків знайшли серотонін. Кому не можна без лікаря і коли безсоння — симптом іншого (апное, депресія, тривога воєнного часу); окремо — що добавка не замінює консультацію, якщо безсоння триває понад 3 місяці.",
-      "sources_hint": "Ferracioli-Oda E et al., PLoS One 2013 (meta-analysis, sleep onset latency); Auld F et al., Sleep Med Rev 2017; AASM clinical practice guideline for chronic insomnia (Sateia 2017) and ACP 2016 guideline (CBT-I first line); Erland LAE & Saxena PK, J Clin Sleep Med 2017 (melatonin supplement content variability); Cohen PA et al., JAMA 2023 (melatonin gummies content); Cochrane jet lag review (Herxheimer & Petrie)",
-      "evidence_level": "moderate",
-      "score": 58,
-      "rationale": "Solid meta-analytic base plus AASM/ACP guidelines and a 2023 JAMA supplement-quality study give real breadth, but no live hook and evergreen subject.",
-      "proposed": "2026-09-18"
-    },
-    {
-      "topic": "Стискання зубів уві сні: чому капа рятує зуби, але не прибирає причину",
-      "type": "guide",
-      "category": "sleep",
-      "angle": "Привід — повідомлення британських стоматологів про зростання бруксизму в молодих. Розібрати те, що плутають: бруксизм неспання (денне стискання під стресом, керується усвідомленням) і сонний бруксизм — це ритмічна жувальна активність під час мікропробуджень, тобто явище сну, а не «нервів» у чистому вигляді. Що справді асоціюється: тривога, стимулятори й кофеїн, куріння, деякі антидепресанти групи СІЗЗС, і — важливо — апное сну, яке часто ховається за скреготом. Що працює: оклюзійна капа захищає емаль, але докази того, що вона зменшує сам бруксизм, слабкі (Кокран); біологічний зворотний зв'язок і КПТ — попередні дані; ботулотоксин зменшує силу стискання, але це не перша лінія й не назавжди. Практичне: як розпізнати в себе (біль у щелепі вранці, стерті краї зубів, головний біль у скронях, партнер чує скрегіт), що сказати стоматологу, коли просити перевірку на апное — і чому самостійно куплена онлайн «капа за розміром» без огляду може змістити прикус.",
-      "sources_hint": "Macedo CR et al., Cochrane Database Syst Rev (occlusal splints for sleep bruxism); Lobbezoo F et al., J Oral Rehabil 2018 (international consensus on bruxism definitions); Manfredini D et al., J Orofac Pain (epidemiology); Jokubauskas L & Baltrusaityte A, J Oral Rehabil 2017 (sleep bruxism and OSA association); AASM sleep-related movement disorders criteria",
-      "evidence_level": "moderate",
-      "score": 56,
-      "rationale": "Has a live UK news hook and named Cochrane/consensus sources, but the underlying evidence for most treatments is thin, capping it below stronger subjects.",
-      "proposed": "2026-09-18"
-    },
-    {
       "topic": "Дуже гарячий чай і рак стравоходу: межа проходить по градусах, а не по напою",
       "type": "research",
       "category": "research",
@@ -209,17 +44,6 @@
       "score": 54,
       "rationale": "Real reliability literature (Higgins-Chen 2022) supports a claim-check, but evidence is explicitly preliminary and there's no current news trigger.",
       "proposed": "2026-09-26"
-    },
-    {
-      "topic": "П'ять хвилин дихання проти тривоги: що показало порівняння з медитацією",
-      "type": "lifehack",
-      "category": "mental-health",
-      "angle": "Готовий інструмент на п'ятницю, коли тиждень вичавив усе. РКД Стенфорда (Balban et al., Cell Reports Medicine 2023, n=108, 4 групи по 5 хвилин на день протягом місяця) порівняло три дихальні протоколи й майндфулнес-медитацію: найкраще на настрій і частоту дихання спрацював «циклічний подих» — подвійний вдих через ніс і довгий видих через рот. Пояснити просто, чому саме подовжений видих: це не езотерика, а вагусний вплив на серцевий ритм. Чесні межі: вибірка невелика, учасники знали, що роблять (осліпити дихання неможливо), ефект — на щоденний настрій і тривожність, а не лікування панічного розладу чи ПТСР. Практичний блок: покроково циклічний подих і «дихання 4-6», коли НЕ робити (гіпервентиляція при панічній атаці, вагітність із запамороченням), і червона лінія — коли тривога потребує не вправи, а фахівця (українські безкоштовні лінії: 7333, 116 111).",
-      "sources_hint": "Balban MY et al., Cell Reports Medicine 2023;4:100895 (cyclic sighing vs box breathing vs cyclic hyperventilation vs mindfulness); Fincham GW et al., Sci Rep 2023 (meta-analysis of breathwork for stress/anxiety); Laborde S et al., Neurosci Biobehav Rev 2022 (slow-paced breathing and vagal activity); NICE guidance on generalised anxiety first-line care",
-      "evidence_level": "moderate",
-      "score": 35,
-      "rationale": "A single small Stanford RCT (n=108) carries almost the whole piece — too thin to fill an 800-1400 word roundup even with one supporting meta-analysis.",
-      "proposed": "2026-09-18"
     },
     {
       "topic": "Мелатонін: не снодійне, і 5 мг працюють не краще за 0,5 мг",
@@ -728,15 +552,15 @@
       "proposed": "2026-09-28"
     },
     {
-      "topic": "Риб'ячий жир: три великі РКД, одна аритмія і чому 'омега-3 для серця' більше не однозначна порада",
+      "topic": "Риб'ячий жир: три великі РКД, одна аритмія і чому «омега-3 для серця» більше не однозначна порада",
       "type": "nutrition",
       "category": "nutrition",
-      "angle": "Claim-check найпопулярнішої добавки після вітаміну D — пряме продовження вересневого розбору вітаміну D, але про іншу молекулу й іншу логіку доказів (тут є великі РКД із твердими точками, там їх бракувало). Розвести три різні речі: (1) звичайні капсули риб'ячого жиру ~1 г/день у здорових — VITAL (n=25 871) і ASCEND (n=15 480) не показали зниження серцево-судинних подій; (2) високодозовий очищений EPA — REDUCE-IT (icosapent ethyl 4 г/день) дав −25% подій, але STRENGTH з EPA+DHA у тій самій дозі виявився нульовим, і тривають суперечки, чи частина ефекту REDUCE-IT спричинена мінеральною олією в плацебо; (3) сигнал шкоди — мета-аналізи й VITAL/STRENGTH показують підвищений ризик фібриляції передсердь при високих дозах (приблизно +25–50% відносно). Далі — просте: скільки омега-3 дає дві порції жирної риби на тиждень, чим відрізняється риб'ячий жир від жиру з печінки тріски (вітамін А!), що означає 'окислення' капсул і чому 'омега-3 для мозку дитини' не має доказів у РКД. Для дієтологів: як читати етикетку — не масу капсули, а мг EPA+DHA. Застереження: 4 г/день — це рецептурний препарат і рішення кардіолога, а не самопризначення; при антикоагулянтах — обговорити з лікарем.",
-      "sources_hint": "Manson JE et al., VITAL, NEJM 2019; ASCEND Study Group, NEJM 2018; Bhatt DL et al., REDUCE-IT, NEJM 2019; Nicholls SJ et al., STRENGTH, JAMA 2020; Abdelhamid AS et al., Cochrane 2020 (omega-3 for cardiovascular disease); Gencer B et al., Circulation 2021 (omega-3 and atrial fibrillation meta-analysis); Lombardi M et al., Eur Heart J Cardiovasc Pharmacother 2021; EFSA/WHO fish intake recommendations; FDA qualified health claim 2019",
+      "angle": "Claim-check другої за популярністю добавки в українській аптеці. Розведено три різні речі, які продають під однією назвою. Перше: звичайні капсули риб'ячого жиру близько 1 г/день у людей без хвороби серця — VITAL (n=25 871) і ASCEND (n=15 480) не показали зниження серцево-судинних подій, Кокран 2020 (Abdelhamid, 86 РКД, понад 160 тис. осіб) дає ефект близький до нуля з високою певністю для смертності. Друге: високодозовий очищений ЕПК (ікозапент етил, 4 г) у REDUCE-IT знизив події на 25%, але STRENGTH із сумішшю ЕПК+ДГК у тій самій дозі дав нуль, і головна підозра — мінеральна олія в групі контролю REDUCE-IT як «неінертне» плацебо; це рідкісний і дуже наочний приклад того, як плацебо може створити ефект. Третє, що майже не пишуть на упаковках: мета-аналізи показують підвищений ризик фібриляції передсердь при високих дозах (приблизно вдвічі в REDUCE-IT і STRENGTH, 3-5 г/день). Плюс окремо: зниження тригліцеридів — реальний і добре відтворений ефект, але це проміжний показник, а не врятоване життя. Практичне: риба 1-2 рази на тиждень має кращу базу за капсули; хто справді кандидат на високу дозу й чому це рішення кардіолога, а не аптекаря; і про прогірклість та окислення в дешевих партіях",
+      "sources_hint": "Manson JE et al., VITAL, NEJM 2019; ASCEND Study Group, NEJM 2018; Bhatt DL et al., REDUCE-IT, NEJM 2019; Nicholls SJ et al., STRENGTH, JAMA 2020; Abdelhamid AS et al., Cochrane 2020 (omega-3 for primary and secondary prevention of CVD); Gencer B et al., Circulation 2021 (omega-3 and atrial fibrillation meta-analysis); Doi T et al., Eur Heart J 2024 (mineral oil placebo debate); FDA/EMA labelling on icosapent ethyl and AF risk",
       "evidence_level": "strong",
-      "score": 80,
-      "rationale": "Huge, genuinely contradictory RCT literature (VITAL/ASCEND null, REDUCE-IT positive, STRENGTH null, AFib signal) is exactly the substance a 1800-3500 word feature needs, though it lacks a fresh news hook.",
-      "proposed": "2026-09-29"
+      "score": 82,
+      "rationale": "Strongest evidence tier of the list (VITAL, ASCEND, REDUCE-IT, STRENGTH, Cochrane 2020) on a near-universal supplement, with no recent overlap.",
+      "proposed": "2026-10-19"
     },
     {
       "topic": "Перший осінній нежить: чому антибіотик не скорочує ГРВІ і що працює замість нього",
@@ -1529,6 +1353,83 @@
       "score": 52,
       "rationale": "Fresh NHS hook and real evidence, but the piece's own framing admits it reuses the 'mechanism ≠ benefit' line that was the digest's main thread on 11.10.",
       "proposed": "2026-10-17"
+    },
+    {
+      "topic": "Мільйон людей, які ніколи не курили, тепер вейпить: де докази за електронні сигарети, а де вони кінчаються",
+      "type": "research",
+      "category": "prevention",
+      "angle": "Повна версія сюжету, згаданого в дайджесті 11.10 одним абзацом (крос-лінк), тепер із доказовою базою по кожному з трьох питань. Тема, незручна для обох таборів, подана рівно. Для дорослого курця, який хоче кинути, доказова база сильніша, ніж думає більшість лікарів: Кокранівський живий огляд оцінює певність як високу — нікотиновмісні вейпи дають більше успішних відмов, ніж пластирі й гумки (Hajek 2019, NEJM, n=886: 18% проти 9,9% за рік; Auer 2024 підтвердив у комбінації з консультуванням). Що з цього не випливає жодним чином: що вейп «безпечний» для людини, яка не курила — тут логіка заміщення не працює, бо нема відомого ризику, який компенсують; свіжі британські дані (понад мільйон ніколи-курців серед користувачів) показують, що продукт знайшов зовсім іншу аудиторію, ніж ту, для якої є докази. Третє: що відомо про шкоду в середньому строку (респіраторні симптоми, EVALI як історія про вітамін E ацетат у THC-картриджах, а не про нікотинові вейпи, нікотинова залежність у підлітків) і що просто невідомо — бо 15-20-річних даних не існує. Український контекст: заборона ароматизаторів і фактичний ринок, ціна порівняно з НЗТ, і чесна відповідь на головне питання читача «то кидати вейп чи ні» залежно від того, з чого він починав",
+      "sources_hint": "Lindson N, Hartmann-Boyce J et al., Cochrane living systematic review: Electronic cigarettes for smoking cessation (2025/2026 update); Hajek P et al., NEJM 2019;380:629-637; Auer R et al., NEJM 2024 (e-cigarettes plus counselling for smoking cessation); ASH UK 2026 smokefree/vaping prevalence data and BBC Health Oct 2026 coverage; Banks E et al., Med J Aust 2023 (systematic review of health outcomes of e-cigarette use); CDC EVALI investigation final reports (vitamin E acetate); Ukraine Law on tobacco/e-cigarette flavour ban",
+      "evidence_level": "strong",
+      "score": 76,
+      "rationale": "Live hook (BBC/ASH 2026 data) and a Cochrane living review plus NEJM RCTs, but the core thesis was already stated in the 10.11 digest a week ago.",
+      "proposed": "2026-10-19"
+    },
+    {
+      "topic": "М'язи під «уколом для схуднення»: скільки саме втрачається і чи можна це спинити",
+      "type": "fitness",
+      "category": "research",
+      "angle": "Питання, яке дієтологи й тренери вже чують щотижня, а відповіді в інтернеті або панічні, або рекламні. Факти: у DEXA-піданалізах STEP 1 (семаглутид) приблизно 40% втраченої маси склала безжирова, у SURMOUNT-1 (тирзепатид) — близько чверті, причому це приблизно та сама пропорція, що й при звичайному дефіциті калорій або баріатрії; «безжирова маса» в DEXA не дорівнює скелетному м'язу (там вода, глікоген, органи), і це пояснює половину паніки в заголовках. Чому це все одно важливо: у людей 65+ і в тих, хто вже на старті мав низьку мускулатуру, швидка втрата безжирової маси пов'язана з падінням сили й функціональності — і майже всі РКД препаратів не міряли силу й фізичну працездатність, а лише композицію тіла. Що має хоч якісь докази як протидія: силові тренування під час дефіциту (мета-аналізи резистентного тренування при редукції ваги), білок у районі 1,2-1,6 г/кг, повільніша титрація, і дані ранніх випробувань препаратів проти міостатину/активіну (бімагрумаб + семаглутид, фаза 2) — позначено як попередні, без твердих точок. Практичний висновок: під GLP-1 програма це не «кардіо, щоб швидше», а база сили 2-3 рази на тиждень плюс контроль білка; «курс» без цього дає кращу цифру на вагах і гіршу людину. Дисклеймер прямо в тексті: це рецептурні препарати, стаття не про те, починати чи кидати їх, титрація і відміна — рішення лікаря",
+      "sources_hint": "Wilding JPH et al., STEP 1, NEJM 2021 and body-composition substudy; Jastreboff AM et al., SURMOUNT-1, NEJM 2022 and DEXA substudy; Heymsfield SB et al., JAMA 2024 / Conte C et al. (lean mass loss during pharmacologic weight loss, review); Prado CM et al., Lancet Diabetes Endocrinol 2024 (muscle matters in obesity treatment); Heymsfield SB et al., bimagrumab + semaglutide phase 2 (BELIEVE) results 2025; Weinheimer EM et al., Nutr Rev 2010 and Murphy C & Koehler K 2022 (resistance training + protein to preserve lean mass during energy restriction)",
+      "evidence_level": "moderate",
+      "score": 74,
+      "rationale": "Extremely high current relevance (GLP-1 drugs) with real DEXA substudy data, though no fresh news hook and the protective evidence (bimagrumab) is only phase 2.",
+      "proposed": "2026-10-19"
+    },
+    {
+      "topic": "Подовжений видих: єдина дихальна практика з нормальним РКД проти медитації",
+      "type": "lifehack",
+      "category": "mental-health",
+      "angle": "Понеділок, рестарт тижня — і найдешевша техніка, яка має не механізм, а порівняльне випробування. Балбан та ін. (Cell Reports Medicine 2023, n=108, Стенфорд) порівняли три типи дихання по 5 хв на день протягом місяця з майндфулнес-медитацією: найбільший приріст настрою і найбільше зниження частоти дихання дав цикл із подовженим видихом (cyclic sighing), а не «коробочне» дихання чи гіпервентиляція з утриманням. Матеріал чесно ставить межі: один центр, переважно молоді освічені учасники, самозвітні шкали, відсутність засліплення й дуже короткий горизонт, тому це «працює на настрій тут і зараз», а не лікування тривожного розладу — при діагностованому розладі перша лінія лишається КПТ і фармакотерапія (крос-лінк на матеріал про охоронну поведінку від 05.10). Другий шар — чому дихання взагалі діє: зв'язок ритму дихання з вагусним тонусом і RSA, доказ того, що повільне дихання ~6 циклів/хв змінює варіабельність ритму серця (мета-аналіз Zaccaro 2018, Laborde 2022), і де популярна «4-7-8» та «вім хоф» виходять за межі даних (у Вім Хофа гіпервентиляція з апное — є описані випадки втрати свідомості у воді). Практичне: точний протокол на 5 хв, коли не робити, і чим це відрізняється від дихання при панічній атаці",
+      "sources_hint": "Balban MY et al., Cell Rep Med 2023;4(1):100895 (brief structured respiration practices vs mindfulness meditation); Zaccaro A et al., Front Hum Neurosci 2018 (slow breathing and autonomic/CNS activity, systematic review); Laborde S et al., Neurosci Biobehav Rev 2022 (slow-paced breathing and HRV meta-analysis); Fincham GW et al., Sci Rep 2023 (breathwork and stress meta-analysis); Kox M et al., PNAS 2014 (Wim Hof method, voluntary activation of sympathetic response); case reports of shallow-water blackout after hyperventilation breathing practices",
+      "evidence_level": "moderate",
+      "score": 67,
+      "rationale": "Monday-reset framing fits today and it has a genuine comparative RCT, but one Stanford study (n=108) is a thin spine for a full research post.",
+      "proposed": "2026-10-19"
+    },
+    {
+      "topic": "П'ять груп ліків, які після 70 варто переглянути разом із лікарем",
+      "type": "guide",
+      "category": "longevity",
+      "angle": "Теза, незручна для всіх: у людини 70+ найчастіша причина нових «ознак старості» — запаморочення, падіння, туман у голові, закрепи, нетримання — це не вік, а довгий список препаратів, які ніхто не ревізував 5 років. Матеріал бере п'ять категорій із найкращою доказовою базою на перегляд: бензодіазепіни і Z-препарати для сну (ризик падінь і переломів у когортах, STOPP/START, Beers), препарати з холінолітичним навантаженням (стара дифенгідрамінова лінія, амітриптилін, оксибутинін — Richardson 2018 BMJ, Coupland 2019 JAMA Intern Med, зв'язок із деменцією в спостережних даних), ІПП «назавжди» без показань, НПЗЗ при нирковій недостатності й гіпертензії, і подвійні призначення на той самий рецептор від двох різних лікарів. Головна чесність, яку більшість статей про деприскрайбінг приховує: систематичні огляди показують, що відмова від зайвих ліків зменшує кількість препаратів і частину побічних, але доказів зниження смертності чи госпіталізацій майже немає — тобто це про якість життя, не про «подовження». Український практичний блок: як скласти повний список (разом із тим, що «не ліки» — валеріана, добавки, краплі), що питати на візиті до сімейного лікаря, і прямо винесено в рамку: самостійно не кидати нічого, частина препаратів (бензодіазепіни, бета-блокатори, ІПП) має синдром відміни, стаття не замінює перегляд призначень лікарем",
+      "sources_hint": "AGS 2023 Updated Beers Criteria, J Am Geriatr Soc; O'Mahony D et al., STOPP/START version 3, Eur Geriatr Med 2023; Richardson K et al., BMJ 2018 (anticholinergic drugs and dementia risk); Coupland CAC et al., JAMA Intern Med 2019 (anticholinergic exposure and dementia); Donnelly K et al. / Thillainadesan J et al., Drugs Aging 2018 (deprescribing interventions systematic review); Cochrane review: withdrawal of antihypertensive / benzodiazepine deprescribing; Seppala LJ et al., J Am Med Dir Assoc 2018 (fall-risk-increasing drugs)",
+      "evidence_level": "moderate",
+      "score": 64,
+      "rationale": "Solid Beers/STOPP-START and BMJ/JAMA anticholinergic evidence and real reader need, but no live hook and five drug classes risk sprawling past one sitting.",
+      "proposed": "2026-10-19"
+    },
+    {
+      "topic": "Крижана ванна: що насправді показали дослідження про холод, запалення і відновлення",
+      "type": "research",
+      "category": "biohacking",
+      "angle": "Claim-check біохака, який в Україні продають і як відновлення, і як імунітет, і як «дофамін +250%». Щоб не повторювати вересневий матеріал про крепатуру й розтяжку, механізм DOMS тут не перерозповідається — на нього крос-лінк, а центр ваги зміщено на конфлікт, якого там не було. Відновлення: мета-аналізи холодового занурення справді показують менше відчуття болючості й швидше повернення сили після інтенсивного навантаження — але це переважно суб'єктивні шкали й короткий горизонт, а головний нюанс для тренера зворотний: холод після силового тренування притлумлює сигнали гіпертрофії (Roberts 2015: менший приріст м'язів і сили за 12 тижнів; Figueiredo 2016: нижчий синтез білка), тобто крижана ванна після штанги гасить саме те, за чим людина прийшла в зал; звідси практичне правило розведення в часі й вибору дня. Імунітет і «менше хворіти»: РКД з холодним душем (Buijze 2016, n=3018, менше днів на лікарняному без різниці в кількості хвороб) — цікавий, але це самозвіт, без засліплення й з високим відсівом. Метаболізм і бурий жир: є механізм і дані про активацію, немає доказів зниження ваги в людей. Дофамін «+250%»: один давній норвезький експеримент з невеликою вибіркою, який у подкастах перетворили на правило. Безпека: холодовий шок, аритмії й чому утоплення в холодній воді не вимагає довгого часу; кому категорично не варто (ІХС, неконтрольована гіпертензія, аритмії, вагітність, самостійне занурення без страхувальника)",
+      "sources_hint": "Roberts LA et al., J Physiol 2015 (post-exercise cold water immersion attenuates resistance training adaptations); Figueiredo VC et al., Am J Physiol 2016; Hohenauer E et al., PLOS One 2015 and Moore E et al., Sports Med 2023 (cold water immersion recovery meta-analyses); Buijze GA et al., PLOS One 2016 (cold shower RCT, n=3018); Esperland D et al., Int J Circumpolar Health 2022 (health effects of voluntary cold exposure, review); Sramek P et al., Eur J Appl Physiol 2000 (catecholamine response to cold water immersion); Tipton MJ et al., Exp Physiol 2017 (cold shock response and drowning)",
+      "evidence_level": "moderate",
+      "score": 62,
+      "rationale": "Decent meta-analytic base (Roberts, Figueiredo, Buijze) and a clean claim-check angle, but evergreen with no timeliness driver and overlaps thematically with Sept DOMS piece.",
+      "proposed": "2026-10-19"
+    },
+    {
+      "topic": "Присід біля стіни замість таблетки? Ізометричні вправи і тиск: мета-аналіз, який усіх здивував",
+      "type": "fitness",
+      "category": "fitness",
+      "angle": "Claim-check тренду «wall squats знижують тиск краще за кардіо». Мережевий мета-аналіз у BJSM (Edwards 2023, 270 РКД, 15 827 осіб) справді поставив ізометричні вправи на перше місце за зниженням систолічного тиску (−8,24 мм рт. ст.) проти аеробних (−4,49), і це реальна цифра, а не маркетинг. Але матеріал одразу показує межі: переважна частина ізометричних досліджень — маленькі, короткі (4-10 тижнів), часто без засліплення й з високою гетерогенністю, а порівняння між типами вправ у мережевому мета-аналізі непряме, тобто слабше за пряме РКД. Далі — конкретний протокол, який насправді тестували: 4 підходи по 2 хв присіду біля стіни або ручного динамометра, 2 хв відпочинку, 3 рази на тиждень, цільова інтенсивність ~30% максимуму або до ЧСС приблизно 95 уд/хв. Що з цього випливає для тренера: ізометрика це дешевий додаток, а не заміна аеробним і силовим (у яких є тверді точки по смертності й ССЗ), і точно не заміна антигіпертензивним — препарати не відміняють через вправи. Окремо — стара пересторога про пробу Вальсальви та стрибок тиску під час натужування, кому не варто (неконтрольована гіпертензія, ретинопатія, свіжі серцеві події) і чому результат треба міряти домашнім тонометром за правилами, а не на око",
+      "sources_hint": "Edwards JJ et al., Br J Sports Med 2023;57:1317-1326 (exercise training and resting blood pressure network meta-analysis); Smart NA et al., J Sci Med Sport 2019 (isometric resistance training and BP meta-analysis); Inder JD et al., J Am Soc Hypertens 2016; Cornelissen VA & Smart NA, J Am Heart Assoc 2013 (exercise training and BP meta-analysis); 2023 ESH Guidelines for the management of arterial hypertension (exercise section); AHA 2021 scientific statement: physical activity for blood pressure",
+      "evidence_level": "moderate",
+      "score": 58,
+      "rationale": "Real network meta-analysis (Edwards 2023 BJSM) gives substance, but it's three years old with no new hook and the key comparisons are indirect.",
+      "proposed": "2026-10-19"
+    },
+    {
+      "topic": "«Мені 12 і я хочу протеїн»: що відповідати дитині й підлітку про протеїновий порошок",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Розгортає новинний блок дайджесту 18.10 у повну відповідь (крос-лінк). Привід — лист дванадцятирічного до BBC. Теза: категорія спортивного харчування майже цілком побудована на дорослих, і це головна, а не другорядна деталь. Розкладено по пунктах: скільки білка реально потрібно підлітку (EFSA/IOM ~0,85-1,0 г/кг для росту, спортивні рекомендації ISSN 1,4-2,0 г/кг для дорослих силових атлетів), чому типовий український раціон з молочним, яйцями й м'ясом це покриває без порошку, і що мета-аналіз Morton 2018 (49 РКД, 1863 особи) показав плато приросту сили й маси близько 1,6 г/кг — тобто «більше білка = більше м'язів» має стелю. Окремо — ризики, яких у дорослих майже не обговорюють: підлітковий порошок як вхідні двері до преворкаутів і «спалювачів», забруднення добавок (дослідження Clean Label Project і аналізи важких металів у протеїнах, частка позитивних допінг-тестів через добавки), креатин у підлітків як окрема тема з тонкою базою. І зворотний бік чесності: порошок це просто сухе молоко чи соя, він не токсичний, і для підлітка-спортсмена з 3-4 тренуваннями на тиждень та поганим апетитом це не катастрофа. Для дієтологів і тренерів — як перевести розмову з продукту на добу білка й три прийоми їжі",
+      "sources_hint": "Morton RW et al., Br J Sports Med 2018 (protein supplementation meta-analysis, 49 RCTs); Jager R et al., ISSN position stand: protein and exercise, JISSN 2017; EFSA Panel on Dietetic Products, protein DRV 2012; IOM Dietary Reference Intakes for protein (children/adolescents); Desbrow B et al., Int J Sport Nutr Exerc Metab 2014 (sports nutrition for the adolescent athlete); AAP Clinical Report on performance-enhancing substances in adolescents; Clean Label Project / ConsumerLab protein powder heavy-metal testing; Martinez-Sanz JM et al., Nutrients 2017 (contamination of sports supplements); BBC Health Oct 2026 'I'm 12 and I want to try protein powder'",
+      "evidence_level": "moderate",
+      "score": 33,
+      "rationale": "Most duplicative: the 10.18 digest already delivered this piece's core answer yesterday, so today's version mainly adds detail to an already-settled point.",
+      "proposed": "2026-10-19"
     }
   ]
 }
