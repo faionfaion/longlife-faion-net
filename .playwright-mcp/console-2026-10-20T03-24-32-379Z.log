@@ -1,0 +1,23 @@
+[    5632ms] [LOG] Файл cookie Universal Analytics не найден  @ :0
+[    5632ms] [LOG] Файл cookie Universal Analytics не найден  @ :0
+[    6298ms] [INFO] %c %c  
+		background: #1060c1;
+		padding: 18px 6px;
+	 
+		background: #fcec03;
+		padding: 18px 6px;
+	 @ https://epicentrk.ua/_nuxt/5426bbd12710.modern.js:1
+[    6298ms] [INFO] %cMon Oct 19 2026 13:54:31 GMT+0000 (Coordinated Universal Time) 
+		color: #fcec03;
+	  @ https://epicentrk.ua/_nuxt/5426bbd12710.modern.js:1
+[    6298ms] [INFO] %cversion-checkout: %c20261019165349194 
+		color: #1060c1;
+	  @ https://epicentrk.ua/_nuxt/5426bbd12710.modern.js:1
+[    6298ms] [INFO] %chost: %cepicentrk.ua 
+		color: #0f672f;
+	  @ https://epicentrk.ua/_nuxt/5426bbd12710.modern.js:1
+[    6298ms] [INFO] © 2026 epicentrk.ua всі права захищені @ https://epicentrk.ua/_nuxt/5426bbd12710.modern.js:1
+[    6298ms] [INFO] %cЦю функцію браузера призначено для розробників. Якщо хтось сказав вам щось скопіювати й сюди вставити, це зловмисники. 
+		color: #fcec03;
+	 @ https://epicentrk.ua/_nuxt/5426bbd12710.modern.js:1
+[   11561ms] [WARNING] google is not defined @ https://epicentrk.ua/_nuxt/5426bbd12710.modern.js:1

@@ -1,0 +1,42 @@
+- main [ref=f25e2]:
+  - navigation [ref=f25e4]:
+    - link [ref=f25e5] [cursor=pointer]:
+      - /url: /register/
+    - list [ref=f25e6]:
+      - listitem [ref=f25e7]:
+        - link "Пошук лікарських засобів" [ref=f25e8] [cursor=pointer]:
+          - /url: /register/products/
+      - listitem [ref=f25e9]:
+        - link "Законодавство" [ref=f25e10] [cursor=pointer]:
+          - /url: /register/law
+    - text: 
+  - article [ref=f25e11]:
+    - generic [ref=f25e12]:
+      - textbox "Пошук" [active] [ref=f25e14]: альфакальцидол
+      - generic:
+        - generic:
+          - list
+      - link "Відомості із державного реєстру лікарських засобів в форматі csv" [ref=f25e15] [cursor=pointer]:
+        - /url: /export-csv
+      - generic [ref=f25e16]:
+        - generic [ref=f25e17]: Фільтр
+        - generic [ref=f25e18]: "0"
+    - generic [ref=f25e20]: За даними параметрами фільтрації лікарські засоби в системі відсутні
+  - generic [ref=f25e28]:
+    - generic [ref=f25e29]:
+      - link [ref=f25e30] [cursor=pointer]:
+        - /url: /register/
+      - link:
+        - /url: "#"
+    - generic [ref=f25e31]:
+      - link [ref=f25e32] [cursor=pointer]:
+        - /url: https://www.dec.gov.ua/
+        - img "resources" [ref=f25e33]
+      - link [ref=f25e34] [cursor=pointer]:
+        - /url: https://moz.gov.ua/
+        - img "resources" [ref=f25e35]
+      - link [ref=f25e36] [cursor=pointer]:
+        - /url: https://moz.gov.ua/
+    - generic [ref=f25e37]:
+      - paragraph [ref=f25e38]: Фармацевтичне управління Міністерства охорони здоров'я України Державний експертний центр Міністерства охорони здоров'я України
+      - paragraph [ref=f25e39]: Інформація надана у відповідності із Законом України "Про лікарські засоби" та Постановою Кабінету Міністрів України від 31 березня 2004 р. N 411

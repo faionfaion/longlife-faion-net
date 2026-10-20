@@ -1,0 +1,430 @@
+- generic [active] [ref=f36e1]:
+  - region [ref=f36e2]:
+    - generic [ref=f36e3]:
+      - link "Cookiebot від Usercentrics - відкривається в новому вікні" [ref=f36e6] [cursor=pointer]:
+        - /url: https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/?utm_source=banner_cb&utm_medium=referral&utm_content=v2
+      - tablist [ref=f36e34]:
+        - tab "Згода" [selected] [ref=f36e35] [cursor=pointer]
+        - tab "Інформація" [ref=f36e36] [cursor=pointer]
+        - tab "Про програму" [ref=f36e37] [cursor=pointer]
+      - tabpanel "Згода" [ref=f36e39]:
+        - generic [ref=f36e41]:
+          - heading "Ми використовуємо файли cookie" [level=2] [ref=f36e42]
+          - paragraph [ref=f36e44]: Ми використовуємо файли cookie й подібні технології, щоб забезпечити функціонування сайту, персоналізувати його вміст і рекламу, надавати функції соціальних мереж та аналізувати наш трафік.Натиснувши «Дозволити всі», ви погоджуєтеся на використання файлів cookie та подібних технологій відповідно до нашої «Політики конфіденційності». Це дає нам змогу розуміти вашу діяльність на сайті на основі налаштувань пристрою та браузера. Також дозволяє нам забезпечувати і постійно покращувати функціональність нашого веб-сайту, надавати вам релевантну рекламу. Відключення файлів cookie може призвести до неповноцінного функціонування сервісів сайту і погіршення користувацького досвіду. Натисніть «Параметри згоди», щоб дізнатися більше про використання нами файлів cookie, їх призначення і керування вибором згоди.
+        - group "Вибір згоди" [ref=f36e51]:
+          - generic [ref=f36e53]:
+            - generic [ref=f36e54]:
+              - strong [ref=f36e56]: Обов'язкові
+              - generic [ref=f36e57]:
+                - checkbox "Обов'язкові" [checked] [disabled]
+            - generic [ref=f36e58]:
+              - strong [ref=f36e60] [cursor=pointer]: Функціональні
+              - switch "Функціональні" [ref=f36e62] [cursor=pointer]
+            - generic [ref=f36e63]:
+              - strong [ref=f36e65] [cursor=pointer]: Аналітичні
+              - switch "Аналітичні" [ref=f36e67] [cursor=pointer]
+            - generic [ref=f36e68]:
+              - strong [ref=f36e70] [cursor=pointer]: Маркетингові
+              - switch "Маркетингові" [ref=f36e72] [cursor=pointer]
+      - generic [ref=f36e76]:
+        - button "Відхилити" [ref=f36e77] [cursor=pointer]
+        - button "Дозволити вибране" [ref=f36e78] [cursor=pointer]
+        - button "Дозволити всі" [ref=f36e79] [cursor=pointer]
+  - generic [ref=f36e83]:
+    - banner [ref=f36e85]:
+      - generic [ref=f36e87]:
+        - link [ref=f36e89] [cursor=pointer]:
+          - /url: /
+        - button "Київ Київ, вул. Полярна, 20-Д" [ref=f36e97] [cursor=pointer]:
+          - generic:
+            - generic: Київ
+            - generic: Київ, вул. Полярна, 20-Д
+        - button "Інформація" [ref=f36e100] [cursor=pointer]
+        - button [ref=f36e103] [cursor=pointer]
+        - link "Вигода" [ref=f36e109] [cursor=pointer]:
+          - /url: /ua/vygoda/
+        - button [ref=f36e115] [cursor=pointer]
+        - button "Каталог Товарів" [ref=f36e120] [cursor=pointer]
+        - generic [ref=f36e125]:
+          - searchbox "Пошук" [ref=f36e127]
+          - button "Пошук" [ref=f36e128] [cursor=pointer]
+        - generic [ref=f36e131]:
+          - button "Порівняння" [ref=f36e133] [cursor=pointer]
+          - button "Списки бажань" [ref=f36e138] [cursor=pointer]
+          - button "basket" [ref=f36e143] [cursor=pointer]
+    - main [ref=f36e147]:
+      - generic [ref=f36e152]:
+        - mark [ref=f36e153]: Увага!
+        - text: Терміни доставки можуть бути збільшені через ворожі атаки
+      - navigation [ref=f36e154]:
+        - list [ref=f36e157]:
+          - listitem [ref=f36e158]:
+            - link "Епіцентр К" [ref=f36e159] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f36e163]:
+            - link "Каталог" [ref=f36e164] [cursor=pointer]:
+              - /url: /ua/shop/
+          - listitem [ref=f36e168]:
+            - link "Медичні товари" [ref=f36e169] [cursor=pointer]:
+              - /url: /ua/shop/apteka/
+          - listitem [ref=f36e173]:
+            - link "Вітаміни і мінерали" [ref=f36e174] [cursor=pointer]:
+              - /url: /ua/shop/mineralnye-i-vitaminnye-kompleksy/
+          - listitem [ref=f36e178]:
+            - link "Now Foods" [ref=f36e179] [cursor=pointer]:
+              - /url: /ua/shop/mineralnye-i-vitaminnye-kompleksy/fs/brend-now-foods/
+          - listitem [ref=f36e183]:
+            - generic "Вітамін Д3 Vitamin D-3 10000 120 капс. (36128161)" [ref=f36e184]
+      - generic [ref=f36e188]:
+        - generic [ref=f36e189]:
+          - generic [ref=f36e191]:
+            - heading "Вітамін Д3 Vitamin D-3 10000 120 капс. (36128161)" [level=1] [ref=f36e193]
+            - generic [ref=f36e194]: залишити відгук
+          - list [ref=f36e202]:
+            - listitem [ref=f36e203] [cursor=pointer]:
+              - generic [ref=f36e204]: Основна інформація
+            - listitem [ref=f36e205] [cursor=pointer]:
+              - generic [ref=f36e206]: Опис
+            - listitem [ref=f36e207] [cursor=pointer]:
+              - generic [ref=f36e208]: Характеристики
+            - listitem [ref=f36e209] [cursor=pointer]:
+              - generic "Написати відгук про товар" [ref=f36e210]
+          - generic [ref=f36e211]:
+            - generic [ref=f36e212]:
+              - generic [ref=f36e216]:
+                - button "Збільшити зображення" [ref=f36e217] [cursor=pointer]
+                - img "Вітамін Д3 Vitamin D-3 10000 120 капс. (36128161) - фото 1" [ref=f36e228]
+              - generic [ref=f36e229]:
+                - generic [ref=f36e230]:
+                  - generic [ref=f36e231]:
+                    - generic [ref=f36e233]:
+                      - generic [ref=f36e234]: Готовий до відправки
+                      - generic [ref=f36e235]: КОД MP11711242
+                    - generic [ref=f36e237]: Безкоштовна доставка в поштомати Епіцентр
+                  - generic [ref=f36e245]:
+                    - generic [ref=f36e246]: "Вага:"
+                    - list [ref=f36e248]:
+                      - listitem [ref=f36e249]:
+                        - link "240" [ref=f36e250] [cursor=pointer]:
+                          - /url: /ua/shop/mplc-vitamini-now-food-vitamin-d-3-10000-120-gelevij-kaps-36128161-1ee4d6cf-1b8d-6558-a678-a945378fbe61.html
+                      - listitem [ref=f36e251]:
+                        - link "480" [ref=f36e252] [cursor=pointer]:
+                          - /url: /ua/shop/mplc-vitamini-now-food-vitamin-d-3-10000-240-gelevij-kaps-36128161-1ee4d716-12ee-64f0-8561-633c97cbce54.html
+                  - 'generic "ціна: 684 ₴" [ref=f36e257]': 684 ₴/шт.
+                  - generic [ref=f36e260]:
+                    - button "Купити" [ref=f36e261] [cursor=pointer]
+                    - generic [ref=f36e262]:
+                      - button "У бажання" [ref=f36e263] [cursor=pointer]
+                      - button "До порівняння" [ref=f36e267] [cursor=pointer]
+                  - generic [ref=f36e272]:
+                    - generic [ref=f36e273]:
+                      - generic [ref=f36e274]: Продавець
+                      - link "Інші товари продавця" [ref=f36e276] [cursor=pointer]:
+                        - /url: /ua/merchant/foods-body/
+                    - generic [ref=f36e277]:
+                      - generic [ref=f36e278]:
+                        - img "Foods-Body"
+                      - generic [ref=f36e279]: Foods-Body
+                    - generic [ref=f36e291]:
+                      - button [ref=f36e292] [cursor=pointer]
+                      - button [ref=f36e295] [cursor=pointer]
+                      - generic [ref=f36e298]:
+                        - generic [ref=f36e302]:
+                          - generic [ref=f36e303]: Продає в Епіцентрі
+                          - generic [ref=f36e304]:
+                            - generic [ref=f36e305]:
+                              - generic [ref=f36e306]: "5"
+                              - generic: років
+                            - generic [ref=f36e307]:
+                              - generic [ref=f36e308]: "9"
+                              - generic: місяців
+                            - generic [ref=f36e309]:
+                              - generic [ref=f36e310]: "6"
+                              - generic: днів
+                        - generic [ref=f36e314]:
+                          - generic [ref=f36e315]: Вподобання клієнтів
+                          - generic [ref=f36e316]: 99.56%
+                        - generic [ref=f36e320]:
+                          - generic [ref=f36e321]: Вчасність доставок
+                          - generic [ref=f36e322]: 87.82%
+                - generic [ref=f36e324]:
+                  - generic [ref=f36e325]: Основні характеристики
+                  - generic [ref=f36e328]:
+                    - generic [ref=f36e329]:
+                      - generic [ref=f36e330]:
+                        - term [ref=f36e331]: "Призначення:"
+                        - definition [ref=f36e332]:
+                          - generic [ref=f36e333]: для відновлення
+                      - generic [ref=f36e334]:
+                        - term [ref=f36e335]: "Смак:"
+                        - definition [ref=f36e336]:
+                          - generic [ref=f36e337]: без смаку
+                    - generic [ref=f36e338] [cursor=pointer]: Всі характеристики
+            - complementary [ref=f36e341]:
+              - generic [ref=f36e342]:
+                - generic [ref=f36e343]:
+                  - heading "Також купують з категорій" [level=2] [ref=f36e344]
+                  - button "prev" [ref=f36e345] [cursor=pointer]
+                  - button "next" [ref=f36e348] [cursor=pointer]
+                - list [ref=f36e351]:
+                  - listitem [ref=f36e352]:
+                    - link "Амінокислоти" [ref=f36e353] [cursor=pointer]:
+                      - /url: /ua/shop/aminokisloty/
+                  - listitem [ref=f36e358]:
+                    - link "Протеїн" [ref=f36e359] [cursor=pointer]:
+                      - /url: /ua/shop/protein/
+                  - listitem [ref=f36e364]:
+                    - link "Біологічно активні речовини" [ref=f36e365] [cursor=pointer]:
+                      - /url: /ua/shop/biologicheski-aktivnye-veschestva/
+                  - listitem [ref=f36e369]:
+                    - link "Натуральні добавки та екстракти" [ref=f36e370] [cursor=pointer]:
+                      - /url: /ua/shop/naturalnye-dobavki-i-ekstrakty/
+                  - listitem [ref=f36e374]:
+                    - link "Жирні кислоти" [ref=f36e375] [cursor=pointer]:
+                      - /url: /ua/shop/zhirnye-kisloty/
+                  - listitem [ref=f36e379]:
+                    - link "Кросівки" [ref=f36e380] [cursor=pointer]:
+                      - /url: /ua/shop/krosivky/
+                  - listitem [ref=f36e385]:
+                    - link "Гейнери" [ref=f36e386] [cursor=pointer]:
+                      - /url: /ua/shop/geynery/
+                  - listitem [ref=f36e391]:
+                    - link "Креатин" [ref=f36e392] [cursor=pointer]:
+                      - /url: /ua/shop/kreatyn/
+                  - listitem [ref=f36e397]:
+                    - link "Жироспалювачі" [ref=f36e398] [cursor=pointer]:
+                      - /url: /ua/shop/zhiroszhigateli/
+                  - listitem [ref=f36e403]:
+                    - link "Спортивні енергетики" [ref=f36e404] [cursor=pointer]:
+                      - /url: /ua/shop/energetiki/
+                  - listitem [ref=f36e408]:
+                    - link "Добрива" [ref=f36e409] [cursor=pointer]:
+                      - /url: /ua/shop/udobreniya/
+                  - listitem [ref=f36e414]:
+                    - link "Бустери тестостерону" [ref=f36e415] [cursor=pointer]:
+                      - /url: /ua/shop/bustery-testosterona/
+                  - listitem [ref=f36e419]:
+                    - link "Пральний порошок" [ref=f36e420] [cursor=pointer]:
+                      - /url: /ua/shop/stiralnye-poroshki/
+                  - listitem [ref=f36e424]:
+                    - link "Пробіотики та пребіотики" [ref=f36e425] [cursor=pointer]:
+                      - /url: /ua/shop/probiotiki-i-prebiotiki/
+            - generic [ref=f36e429]:
+              - generic [ref=f36e430]:
+                - generic [ref=f36e432]:
+                  - generic [ref=f36e433]: Опис Вітамін Д3 Vitamin D-3 10000 120 капс. (36128161)
+                  - generic [ref=f36e436]:
+                    - text: "Вітамін Д3 Now - повноцінне джерело для здоров'я Знаменита американська компанія Now Foods рада представити своїм шанувальникам та всім прихильникам здорового способу життя унікальний продукт, призначений для комплексної підтримки здоров'я опорно-рухової системи та зміцнення імунітету. Vitamin D-3 10000 допоможе спортсменам та активним людям уникнути травм, посилити природний захист організму від хвороб, підтримувати здорове вироблення гормонів. Основу представленого продукту склав вітамін D3. Головною функцією цього ключового мікроелемента є оптимізація всмоктування кальцію із кишечника. Незважаючи на те, що організм здатний синтезувати його під впливом сонячних променів, а також отримувати із звичайної їжі, найчастіше цих джерел недостатньо для повноцінного підживлення організму людей, які проживають у наших широтах. Справа в тому, що найбільша концентрація вітаміну Д міститься в риб'ячому жирі, печінці тріски, оселедця та інших морепродуктах, яких вкрай мало в раціоні харчування сучасної людини. Коли ж мова йде про сонячне світло, то очевидно, що наш організм недоотримує його, особливо в осінньо-зимовий період. Ось чому так важливо приймати цей вітамін зі спеціалізованих доповнень дієти. Серед позитивних ефектів від використання даного продукту варто виділити: • підтримує здорову мінералізацію кісткової тканини; • зміцнює опорно-рухову систему; • підвищує щільність м'язової тканини; • позитивно впливає на швидкість роботи головного мозку; • знижує ризик захворювання на ГРВІ та грип; /> • підтримує здоровий синтез гормонів, у тому числі і анаболічних; • благотворно впливає на стан шкіри.Чому вітамін Д3 такий важливий для спортсменів? Причина – регулярні фізичні навантаження, які виснажують запаси кальцію в організмі і викликають вимивання цього мінералу з кісткової тканини, сприяючи зниженню міцності та пружності кісток, підвищенню їх крихкості та ламкості. Крім цього, значний дефіцит кальцію в організмі може спровокувати розвиток остеопорозу. Безумовно, для усунення такого дефіциту необхідно приймати достатню кількість цього мінералу, але для його правильного засвоєння необхідний вітамін D3. Представлений продукт виробляється у зручній для прийому формі біодоступних софтгелевих капсул. Він повністю універсальний, не містить ГМО і алергенів, чудово підходить як атлетам, так і особам, які зовсім не пов'язані зі спортом, проте, всерйоз піклуються про власне здоров'я. Зміцніть імунітет і захистіть себе від травм, залишаючись активними та повними сил, разом з Now Foods Vitamin D-3 10000!Склад:"
+                    - generic [ref=f36e437]: "Склад на порцію - 1 капсулу: b> Вітамін D3 (як холекальциферол) (з ланоліну) 10000 МОІнші інгредієнти: капсула (желатин, вода, гліцерин) та органічна оливкова олія найвищої якості. Не виробляється з додаванням дріжджів, пшениці, клейковини, сої, молока, яєць, риби чи молюсків. Виготовляється в установці GMP, яка обробляє інші інгредієнти, що містять ці алергени. лікаря. Попередження: Не використовувати, якщо у вас алергія на якесь із сполук. Не перевищувати добову дозу, що рекомендується. Проконсультуйтеся з лікарем під час вагітності або лактації. Харчові добавки не повинні використовуватися замість різноманітної та збалансованої дієти. Зберігати у недоступному для дітей місці. Зберігати у сухому та прохолодному місці. Захищати від прямих сонячних променів."
+                - generic [ref=f36e439]:
+                  - heading "Характеристики Вітамін Д3 Vitamin D-3 10000 120 капс. (36128161)" [level=2] [ref=f36e440]
+                  - generic [ref=f36e442]:
+                    - generic [ref=f36e445]:
+                      - term [ref=f36e446]: "Форма випуску:"
+                      - definition [ref=f36e447]:
+                        - generic [ref=f36e448]: капсули
+                    - generic [ref=f36e449]:
+                      - paragraph [ref=f36e450]: Основні характеристики Вітамін Д3 Vitamin D-3 10000 120 капс. (36128161)
+                      - generic [ref=f36e451]:
+                        - generic [ref=f36e452]:
+                          - term [ref=f36e453]: "Ціна:"
+                          - definition [ref=f36e454]: 684 ₴/шт.
+                        - generic [ref=f36e455]:
+                          - term [ref=f36e456]: "Бренд:"
+                          - definition [ref=f36e457]:
+                            - generic [ref=f36e458]: Now Foods
+                        - generic [ref=f36e459]:
+                          - term [ref=f36e460]: "Стать:"
+                          - definition [ref=f36e461]:
+                            - generic [ref=f36e462]: унісекс
+                        - generic [ref=f36e463]:
+                          - term [ref=f36e464]: "Країна-виробник:"
+                          - definition [ref=f36e465]:
+                            - generic [ref=f36e466]: США
+                        - generic [ref=f36e467]:
+                          - term [ref=f36e468]: "Вік:"
+                          - definition [ref=f36e469]:
+                            - generic [ref=f36e470]: дорослий
+                    - generic [ref=f36e471]:
+                      - paragraph [ref=f36e472]: Додаткова інформація
+                      - generic [ref=f36e474]:
+                        - term [ref=f36e475]: "Призначення:"
+                        - definition [ref=f36e476]:
+                          - generic [ref=f36e477]: для відновлення
+                    - generic [ref=f36e478]:
+                      - paragraph [ref=f36e479]: Технічні особливості
+                      - generic [ref=f36e480]:
+                        - generic [ref=f36e481]:
+                          - term [ref=f36e482]: "Тип:"
+                          - definition [ref=f36e483]:
+                            - generic [ref=f36e484]: окремі вітаміни
+                        - generic [ref=f36e485]:
+                          - term [ref=f36e486]: "Вітаміни:"
+                          - definition [ref=f36e487]:
+                            - link "D3 (холекальциферол)" [ref=f36e488] [cursor=pointer]:
+                              - /url: /ua/shop/mineralnye-i-vitaminnye-kompleksy/fs/vitaminy-d3-kholekaltsyferol/
+                        - generic [ref=f36e489]:
+                          - term [ref=f36e490]: "Смак:"
+                          - definition [ref=f36e491]:
+                            - generic [ref=f36e492]: без смаку
+                        - generic [ref=f36e493]:
+                          - term [ref=f36e494]: "Вага:"
+                          - definition [ref=f36e495]:
+                            - generic [ref=f36e496]: 240 г
+                - generic [ref=f36e498]:
+                  - generic [ref=f36e499]: Фото Вітамін Д3 Vitamin D-3 10000 120 капс. (36128161)
+                  - img "Вітамін Д3 Vitamin D-3 10000 120 капс. (36128161) - фото 1" [ref=f36e505] [cursor=pointer]
+                - generic [ref=f36e507]:
+                  - heading "Написати відгук про товар" [level=2] [ref=f36e508]
+                  - generic [ref=f36e509]:
+                    - generic [ref=f36e512]:
+                      - button "Написати відгук" [ref=f36e513] [cursor=pointer]
+                      - button "Поставити запитання" [ref=f36e514] [cursor=pointer]
+                    - generic [ref=f36e517]:
+                      - generic [ref=f36e519]:
+                        - generic [ref=f36e520]:
+                          - generic [ref=f36e521]: "1"
+                          - generic [ref=f36e523]: (0)
+                        - generic [ref=f36e524]:
+                          - generic [ref=f36e525]: "2"
+                          - generic [ref=f36e527]: (0)
+                        - generic [ref=f36e528]:
+                          - generic [ref=f36e529]: "3"
+                          - generic [ref=f36e531]: (0)
+                        - generic [ref=f36e532]:
+                          - generic [ref=f36e533]: "4"
+                          - generic [ref=f36e535]: (0)
+                        - generic [ref=f36e536]:
+                          - generic [ref=f36e537]: "5"
+                          - generic [ref=f36e539]: (0)
+                      - generic [ref=f36e543]:
+                        - paragraph [ref=f36e544]: "0"
+                        - generic [ref=f36e552]: оцінок (0)
+                  - generic [ref=f36e553]:
+                    - tablist [ref=f36e555]:
+                      - tab "відгуки (0)" [selected] [ref=f36e556] [cursor=pointer]
+                      - tab "запитання (0)" [ref=f36e557] [cursor=pointer]
+                    - tabpanel "відгуки (0)" [ref=f36e558]:
+                      - paragraph [ref=f36e561]: На цей товар ще не залишили відгук, будьте першим!
+                      - button "Написати відгук" [ref=f36e562] [cursor=pointer]
+              - text: Ваш товар
+        - generic [ref=f36e563]:
+          - heading "Популярні запити" [level=2] [ref=f36e565]
+          - generic [ref=f36e566]:
+            - link "Акції на мінеральні та вітамінні комплекси" [ref=f36e568] [cursor=pointer]:
+              - /url: /ua/shop/mineralnye-i-vitaminnye-kompleksy/aktsii/
+            - link "Спортивне харчування" [ref=f36e570] [cursor=pointer]:
+              - /url: /ua/shop/sportivnoe-pitanie/
+            - link "Вітаміни для жінок" [ref=f36e572] [cursor=pointer]:
+              - /url: /ua/tag/vitamini-dlya-zhinki/
+            - link "Вітаміни D3 (холекальциферол)" [ref=f36e574] [cursor=pointer]:
+              - /url: /ua/shop/mineralnye-i-vitaminnye-kompleksy/fs/vitaminy-d3-kholekaltsyferol/
+            - link "Вітаміни D3 (холекальциферол) для дорослих" [ref=f36e576] [cursor=pointer]:
+              - /url: /ua/shop/mineralnye-i-vitaminnye-kompleksy/fs/vik-doroslyi/vitaminy-d3-kholekaltsyferol/
+    - contentinfo [ref=f36e577]:
+      - generic [ref=f36e581]:
+        - generic [ref=f36e582]: Підписуйтесь, щоб дізнаватись першим про акції та пропозиції
+        - generic [ref=f36e583]:
+          - textbox "Email" [ref=f36e585]
+          - button "Підписатися" [ref=f36e586] [cursor=pointer]
+        - generic [ref=f36e588]:
+          - link "facebook" [ref=f36e589] [cursor=pointer]:
+            - /url: https://www.facebook.com/epicentrkua
+          - link "youtube" [ref=f36e592] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UCU9fGjxtBLZglgZ6W2Dxe9Q/featured
+          - link "instagram" [ref=f36e595] [cursor=pointer]:
+            - /url: https://www.instagram.com/epicentr_ua/
+          - link "viber" [ref=f36e598] [cursor=pointer]:
+            - /url: https://invite.viber.com/?g2=AQBQ%2FgIlaFQqO0lgRS8NfMK%2BvhbcikFfRDVIix6ws0TPNyLwFG39ZGe5odZWx8%2Ft&lang=uk
+          - link "tiktok" [ref=f36e601] [cursor=pointer]:
+            - /url: https://www.tiktok.com/@epicentrk
+          - link "telegram" [ref=f36e604] [cursor=pointer]:
+            - /url: https://telegram.me/epicentrk_sale
+          - link "bot" [ref=f36e607] [cursor=pointer]:
+            - /url: viber://pa?chatURI=epicentrksupport&auth
+          - link "bot" [ref=f36e611] [cursor=pointer]:
+            - /url: https://telegram.me/epicentrk_digitalbot
+      - generic [ref=f36e617]:
+        - generic [ref=f36e619]:
+          - generic [ref=f36e620]: АІ Служба підтримки
+          - link "Інформаційний центр, FAQ" [ref=f36e622] [cursor=pointer]:
+            - /url: /ua/faq/
+          - generic [ref=f36e623]: Написати нам повідомлення
+        - generic [ref=f36e625]:
+          - generic [ref=f36e626]: КОМПАНІЯ
+          - list [ref=f36e627]:
+            - listitem [ref=f36e628]:
+              - link "Про компанію" [ref=f36e629] [cursor=pointer]:
+                - /url: /ua/about/
+            - listitem [ref=f36e630]:
+              - link "Новини" [ref=f36e631] [cursor=pointer]:
+                - /url: /ua/news/
+            - listitem [ref=f36e632]:
+              - link "Контакти" [ref=f36e633] [cursor=pointer]:
+                - /url: /ua/info/contacts/
+            - listitem [ref=f36e634]:
+              - link "Вакансії" [ref=f36e635] [cursor=pointer]:
+                - /url: /ua/info/vakansyy/
+            - listitem [ref=f36e636]:
+              - link "Постачальникам" [ref=f36e637] [cursor=pointer]:
+                - /url: /ua/info/spivpracya/
+            - listitem [ref=f36e638]:
+              - link "Маркетплейс" [ref=f36e639] [cursor=pointer]:
+                - /url: /ua/seller/
+            - listitem [ref=f36e640]:
+              - link "Реклама" [ref=f36e641] [cursor=pointer]:
+                - /url: /ua/info/reklama/
+        - generic [ref=f36e643]:
+          - generic [ref=f36e644]: ПОКУПЦЕВІ
+          - list [ref=f36e645]:
+            - listitem [ref=f36e646]:
+              - link "Оплата" [ref=f36e647] [cursor=pointer]:
+                - /url: /ua/info/paiment/
+            - listitem [ref=f36e648]:
+              - link "Розстрочка та оплата частинами" [ref=f36e649] [cursor=pointer]:
+                - /url: /ua/info/credit/
+            - listitem [ref=f36e650]:
+              - link "Доставка і самовивіз" [ref=f36e651] [cursor=pointer]:
+                - /url: /ua/info/delivery/
+            - listitem [ref=f36e652]:
+              - link "Повернення товару" [ref=f36e653] [cursor=pointer]:
+                - /url: /ua/info/return/
+            - listitem [ref=f36e654]:
+              - link "Гарантія та сервіс" [ref=f36e655] [cursor=pointer]:
+                - /url: /ua/info/garanty/
+            - listitem [ref=f36e656]:
+              - link "Послуги" [ref=f36e657] [cursor=pointer]:
+                - /url: /ua/info/poslugy/
+            - listitem [ref=f36e658]:
+              - link "Подарункові сертифікати" [ref=f36e659] [cursor=pointer]:
+                - /url: /ua/shop/sertifikaty-i-karty-podarochnye/
+            - listitem [ref=f36e660]:
+              - link "Програма Вигода!" [ref=f36e661] [cursor=pointer]:
+                - /url: /ua/vygoda/
+            - listitem [ref=f36e662]:
+              - link "Поштомати Епіцентр" [ref=f36e663] [cursor=pointer]:
+                - /url: /ua/info/parcel-locker/
+        - generic [ref=f36e664]:
+          - generic [ref=f36e665]:
+            - generic [ref=f36e666]: КОРИСНА ІНФОРМАЦІЯ
+            - list [ref=f36e667]:
+              - listitem [ref=f36e668]:
+                - link "Умови користування" [ref=f36e669] [cursor=pointer]:
+                  - /url: /ua/info/terms-of-use/
+              - listitem [ref=f36e670]:
+                - link "Портал для бізнес-клієнтів" [ref=f36e671] [cursor=pointer]:
+                  - /url: /ua/info/b2b-portal/
+              - listitem [ref=f36e672]:
+                - link "Чорна п’ятниця 2026" [ref=f36e673] [cursor=pointer]:
+                  - /url: /ua/actions/chernaya-pyatnitsa.html
+          - list [ref=f36e675]:
+            - listitem [ref=f36e676]:
+              - link "Завантажити з App Store" [ref=f36e677] [cursor=pointer]:
+                - /url: https://apps.apple.com/us/app/%D0%B5%D0%BF%D1%96%D1%86%D0%B5%D0%BD%D1%82%D1%80/id1489179679?l=uk&ls=1
+            - listitem [ref=f36e682]:
+              - link "Завантажити з Google Play" [ref=f36e683] [cursor=pointer]:
+                - /url: https://play.google.com/store/apps/details?id=ua.epicentrk&referrer=utm_source%3Depicentrk.ua%26utm_medium%3Dbutton%26utm_term%3Dfooter
+      - generic [ref=f36e697]:
+        - text: ©
+        - generic [ref=f36e698]: 2016-2026 ТОВ «Епіцентр К» | epicentrk.ua всі права захищені
+  - iframe [aria-hidden] [ref=f36e699]

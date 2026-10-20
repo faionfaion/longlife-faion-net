@@ -1,0 +1,80 @@
+{
+  "timestamp": "2026-10-19_033413",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "korotkozorist-dity-chas-nadvori-ekrany-he-2015-atropin",
+  "author": "Віта",
+  "duration_s": 1869.9,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 334.7,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 69.4,
+      "error": null
+    },
+    {
+      "name": "research:Екрани в класі чи брак вулиці:",
+      "status": "ok",
+      "duration_s": 376.4,
+      "error": null
+    },
+    {
+      "name": "generate:Екрани в класі чи брак вулиці:",
+      "status": "ok",
+      "duration_s": 93.2,
+      "error": null
+    },
+    {
+      "name": "text_edit:Екрани в класі чи брак вулиці:",
+      "status": "ok",
+      "duration_s": 129.1,
+      "error": null
+    },
+    {
+      "name": "review:Екрани в класі чи брак вулиці:",
+      "status": "ok",
+      "duration_s": 242.8,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Екрани в класі чи брак вулиці:",
+      "status": "ok",
+      "duration_s": 19.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Екрани в класі чи брак вулиці:",
+      "status": "ok",
+      "duration_s": 14.0,
+      "error": null
+    },
+    {
+      "name": "save:Екрани в класі чи брак вулиці:",
+      "status": "ok",
+      "duration_s": 586.7,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.6,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}

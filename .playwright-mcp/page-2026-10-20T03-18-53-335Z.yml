@@ -1,0 +1,76 @@
+- generic [ref=f24e2]:
+  - banner [ref=f24e3]:
+    - link [ref=f24e4] [cursor=pointer]:
+      - /url: /register/products/
+      - img "resources" [ref=f24e5]
+    - navigation [ref=f24e6]:
+      - list [ref=f24e7]:
+        - listitem [ref=f24e8]:
+          - link "Пошук лікарських засобів" [ref=f24e9] [cursor=pointer]:
+            - /url: /register/products/
+        - listitem [ref=f24e10]:
+          - link "Законодавство" [ref=f24e11] [cursor=pointer]:
+            - /url: /register/law
+    - text: 
+  - main [ref=f24e12]:
+    - generic [ref=f24e13]:
+      - generic [ref=f24e14]:
+        - generic [ref=f24e16]:
+          - heading "Державний реєстр лікарських засобів України" [level=2] [ref=f24e17]
+          - paragraph [ref=f24e18]: Отримуйте вичерпну інформацію про зареєстровані в Україні лікарські засоби та інструкції для медичного застосування до них
+        - generic [ref=f24e21]:
+          - generic [ref=f24e22]:
+            - textbox "Універсальний пошук" [ref=f24e23]
+            - button "" [disabled] [ref=f24e24]
+          - link "Розширений пошук" [ref=f24e26] [cursor=pointer]:
+            - /url: /register/products/
+      - generic [ref=f24e27]:
+        - generic [ref=f24e28]:
+          - generic [ref=f24e29]:
+            - heading "Статистика" [level=3] [ref=f24e30]
+            - generic [ref=f24e31]: Станом на 19.10.26
+          - generic [ref=f24e35]:
+            - generic [ref=f24e36]: Лікарські засоби у реєстрі
+            - generic [ref=f24e37]:
+              - generic [ref=f24e38]:
+                - paragraph [ref=f24e39]: Разом
+                - generic [ref=f24e40]: "15537"
+              - generic [ref=f24e41]:
+                - paragraph [ref=f24e42]: ГЛЗ
+                - generic [ref=f24e43]: "12254"
+              - generic [ref=f24e44]:
+                - paragraph [ref=f24e45]: Субстанцій
+                - generic [ref=f24e46]: "2443"
+              - generic [ref=f24e47]:
+                - paragraph [ref=f24e48]: In bulk
+                - generic [ref=f24e49]: "676"
+              - generic [ref=f24e50]:
+                - paragraph [ref=f24e51]: Фасування/ пакування з in bulk
+                - generic [ref=f24e52]: "159"
+        - generic [ref=f24e53]:
+          - heading "Корисні ресурси" [level=3] [ref=f24e54]
+          - generic [ref=f24e55]:
+            - link [ref=f24e56] [cursor=pointer]:
+              - /url: https://moz.gov.ua/
+              - img "resources" [ref=f24e58]
+            - link [ref=f24e59] [cursor=pointer]:
+              - /url: https://www.dec.gov.ua/
+              - img "resources" [ref=f24e61]
+  - contentinfo [ref=f24e62]:
+    - generic [ref=f24e63]:
+      - generic [ref=f24e64]:
+        - link [ref=f24e66] [cursor=pointer]:
+          - /url: /register/products/
+          - img "resources" [ref=f24e67]
+        - generic [ref=f24e68]:
+          - link [ref=f24e69] [cursor=pointer]:
+            - /url: https://moz.gov.ua/
+            - img "resources" [ref=f24e70]
+          - link [ref=f24e71] [cursor=pointer]:
+            - /url: https://www.dec.gov.ua/
+            - img "resources" [ref=f24e72]
+          - link [ref=f24e73] [cursor=pointer]:
+            - /url: https://moz.gov.ua/
+      - generic [ref=f24e74]:
+        - paragraph [ref=f24e75]: Фармацевтичне управління Міністерства охорони здоров'я України Державний експертний центр Міністерства охорони здоров'я України
+        - paragraph [ref=f24e76]: Інформація надана у відповідності із Законом України "Про лікарські засоби" та Постановою Кабінету Міністрів України від 31 березня 2004 р. N 411

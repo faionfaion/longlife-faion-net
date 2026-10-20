@@ -1,0 +1,620 @@
+- generic [active] [ref=f28e1]:
+  - generic [ref=f28e2]:
+    - banner [ref=f28e5]:
+      - generic [ref=f28e9]:
+        - link "Аптека 9-1-1" [ref=f28e10] [cursor=pointer]:
+          - /url: https://apteka911.ua/ua
+        - generic [ref=f28e11]:
+          - generic [ref=f28e12]: 
+          - button "Київ" [ref=f28e13] [cursor=pointer]
+        - list [ref=f28e15]:
+          - listitem [ref=f28e16]:
+            - link "Мапа аптек" [ref=f28e17] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/map/ukraina
+          - listitem [ref=f28e18]:
+            - link "Бренди" [ref=f28e19] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/shop/brands
+          - listitem [ref=f28e20]:
+            - link "Довідник ліків" [ref=f28e21] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/drugs
+          - listitem [ref=f28e22]:
+            - link "Відгуки" [ref=f28e23] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/otzyvy
+          - listitem [ref=f28e24]:
+            - link "Кар'єра" [ref=f28e25] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/company/job
+          - listitem [ref=f28e26]:
+            - link "Контакти" [ref=f28e27] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/company/kontaktyi
+        - generic [ref=f28e28]:
+          - button " Налаштування доступності" [ref=f28e30] [cursor=pointer]:
+            - generic [ref=f28e31]: 
+            - text: Налаштування доступності
+          - list [ref=f28e33]:
+            - listitem [ref=f28e34]:
+              - link "RU" [ref=f28e35] [cursor=pointer]:
+                - /url: https://apteka911.ua/shop/vitamin-d3-4000me-kaps-60-solution-pharm-p254998
+            - listitem [ref=f28e37]:
+              - generic [ref=f28e38]: UA
+          - list [ref=f28e40]:
+            - listitem [ref=f28e41]:
+              - generic [ref=f28e44] [cursor=pointer]:
+                - generic [ref=f28e45]: 
+                - text: Вхід
+      - generic [ref=f28e49]:
+        - generic [ref=f28e52]:
+          - generic [ref=f28e53]: 
+          - text: Каталог товарів
+        - generic [ref=f28e54]:
+          - list:
+            - listitem [ref=f28e55]:
+              - paragraph [ref=f28e56] [cursor=pointer]:  Кошик
+            - listitem [ref=f28e57]:
+              - generic [ref=f28e58] [cursor=pointer]:  Ваша аптека 
+            - listitem [ref=f28e60]:
+              - link " Консультація" [ref=f28e61] [cursor=pointer]:
+                - /url: https://apteka911.ua/ua/telemedicine
+          - generic [ref=f28e63] [cursor=pointer]:
+            - generic [ref=f28e64]: 
+            - text: Вам зателефонують!
+        - generic [ref=f28e66]:
+          - button "" [ref=f28e67] [cursor=pointer]
+          - textbox "Пошук" [ref=f28e68]
+    - generic [ref=f28e70]:
+      - list [ref=f28e72]:
+        - listitem [ref=f28e73]:
+          - link "Головна" [ref=f28e74] [cursor=pointer]:
+            - /url: https://apteka911.ua/ua
+          - text: /
+        - listitem [ref=f28e75]:
+          - link "Ліки" [ref=f28e76] [cursor=pointer]:
+            - /url: https://apteka911.ua/ua/shop/lekarstvennyie-preparatyi
+          - text: /
+        - listitem [ref=f28e77]:
+          - link "Вітаміни та добавки" [ref=f28e78] [cursor=pointer]:
+            - /url: https://apteka911.ua/ua/shop/lekarstvennyie-preparatyi/vitaminyi_i_dobavki
+          - text: /
+        - listitem [ref=f28e79]:
+          - link "Вітаміни" [ref=f28e80] [cursor=pointer]:
+            - /url: https://apteka911.ua/ua/shop/lekarstvennyie-preparatyi/vitaminyi
+      - generic [ref=f28e81]:
+        - heading "Вітамін D3 4000 МО капсули м'які желатинові 3 блістери по 20 шт Solution Pharm" [level=1] [ref=f28e82]
+        - generic [ref=f28e83]: "Артикул: 682250"
+      - generic [ref=f28e84]: Фармаком (Україна)
+      - generic [ref=f28e85]:
+        - complementary [ref=f28e86]:
+          - generic [ref=f28e87]:
+            - img "Вітамін D3 4000МО капс. №60 Solution Pharm" [ref=f28e90]
+            - list [ref=f28e91]:
+              - listitem [ref=f28e92]:
+                - generic [ref=f28e93] [cursor=pointer]
+              - listitem [ref=f28e95]:
+                - generic [ref=f28e96] [cursor=pointer]
+        - generic [ref=f28e99]:
+          - list [ref=f28e100]:
+            - listitem [ref=f28e101]: Основна інформація
+            - listitem [ref=f28e102]:
+              - link "Залишити відгук" [ref=f28e103] [cursor=pointer]:
+                - /url: https://apteka911.ua/ua/shop/vitamin-d3-4000mo-kaps-60-solution-pharm-p254998/reviews
+          - generic [ref=f28e105]:
+            - generic [ref=f28e106]:
+              - generic [ref=f28e108]:
+                - generic [ref=f28e109]:
+                  - generic [ref=f28e110]:  
+                  - link "Відгуки (4)" [ref=f28e111] [cursor=pointer]:
+                    - /url: https://apteka911.ua/ua/shop/vitamin-d3-4000mo-kaps-60-solution-pharm-p254998/reviews
+                - button "До обраного " [ref=f28e112] [cursor=pointer]:
+                  - generic [ref=f28e113]: До обраного
+                  - generic [ref=f28e114]: 
+              - generic [ref=f28e116]:
+                - generic [ref=f28e118]:
+                  - generic [ref=f28e119]: 
+                  - generic [ref=f28e120]: Немає в наявності з 19.11.2025
+                - link "Знайдіть товар для мене" [ref=f28e121] [cursor=pointer]:
+                  - /url: https://apteka911.ua/ua/shop/search?query=%D0%92%D1%96%D1%82%D0%B0%D0%BC%D1%96%D0%BD%20D3%204000%D0%9C%D0%9E%20%D0%BA%D0%B0%D0%BF%D1%81.%20%E2%84%9660%20Solution%20Pharm&sp=1
+                - generic [ref=f28e122]:
+                  - generic [ref=f28e123]:
+                    - generic [ref=f28e124]: Упаковка / 60 шт.
+                    - insertion [ref=f28e126]: 474.00 грн
+                  - button " Недоступно" [disabled] [ref=f28e128]:
+                    - generic [ref=f28e129]: 
+                    - generic [ref=f28e130]: Недоступно
+                - generic [ref=f28e133]:
+                  - text: Ціна актуальна на 06:15 |
+                  - generic [ref=f28e134]:
+                    - text: "Придатний до: січень 2027"
+                    - generic [ref=f28e135] [cursor=pointer]: 
+            - generic [ref=f28e136]: "Дозування:"
+            - generic [ref=f28e137]:
+              - link "2000МО" [ref=f28e138] [cursor=pointer]:
+                - /url: https://apteka911.ua/ua/shop/vitamin-d3-2000mo-kaps-60-solution-pharm-p254995
+              - generic [ref=f28e139]: 4000МО
+            - generic [ref=f28e141]:
+              - generic [ref=f28e142]:
+                - generic [ref=f28e143]: Є питання? Потрібна консультація?
+                - paragraph [ref=f28e144]: Цілодобова підтримка клієнтів
+              - generic [ref=f28e146]:
+                - link " Telegram" [ref=f28e147] [cursor=pointer]:
+                  - /url: https://apt911.co/bd9df5
+                  - generic [ref=f28e148]: 
+                  - text: Telegram
+                - generic "Viber" [ref=f28e149] [cursor=pointer]:
+                  - generic [ref=f28e150]: 
+                  - text: Viber
+            - generic [ref=f28e152]:
+              - generic [ref=f28e153] [cursor=pointer]:
+                - img "Grok" [ref=f28e155]
+                - generic [ref=f28e156]: Grok
+              - generic [ref=f28e157] [cursor=pointer]:
+                - img "Perplexity" [ref=f28e159]
+                - generic [ref=f28e160]: Perplexity
+              - generic [ref=f28e161] [cursor=pointer]:
+                - img "ChatGPT" [ref=f28e163]
+                - generic [ref=f28e164]: ChatGPT
+              - generic [ref=f28e165] [cursor=pointer]:
+                - img "Microsoft Copilot" [ref=f28e167]
+                - generic [ref=f28e168]: Microsoft Copilot
+              - generic [ref=f28e169] [cursor=pointer]:
+                - img "YouChat" [ref=f28e171]
+                - generic [ref=f28e172]: YouChat
+            - generic [ref=f28e173]:
+              - generic [ref=f28e174]: Кому можна
+              - generic [ref=f28e175]:
+                - generic [ref=f28e177]:
+                  - generic [ref=f28e178]:
+                    - text: 
+                    - generic [ref=f28e179]: 
+                  - generic [ref=f28e180]:
+                    - generic [ref=f28e181]: Дорослим
+                    - generic [ref=f28e182]: Дозволено
+                - generic [ref=f28e184]:
+                  - generic [ref=f28e185]:
+                    - text: 
+                    - generic [ref=f28e186]: 
+                  - generic [ref=f28e187]:
+                    - generic [ref=f28e188]: Дітям
+                    - generic [ref=f28e189]: Протипоказано
+                - generic [ref=f28e191]:
+                  - generic [ref=f28e192]:
+                    - text: 
+                    - generic [ref=f28e193]: 
+                  - generic [ref=f28e194]:
+                    - generic [ref=f28e195]: Вагітним
+                    - generic [ref=f28e196]: після консультації з лікарем
+                - generic [ref=f28e198]:
+                  - generic [ref=f28e199]:
+                    - text: 
+                    - generic [ref=f28e200]: 
+                  - generic [ref=f28e201]:
+                    - generic [ref=f28e202]: Годуючим
+                    - generic [ref=f28e203]: після консультації з лікарем
+                - generic [ref=f28e205]:
+                  - generic [ref=f28e206]:
+                    - text: 
+                    - generic [ref=f28e207]: 
+                  - generic [ref=f28e208]:
+                    - generic [ref=f28e209]: Алергікам
+                    - generic [ref=f28e210]: з обережністю
+                - generic [ref=f28e212]:
+                  - generic [ref=f28e213]:
+                    - text: 
+                    - generic [ref=f28e214]: 
+                  - generic [ref=f28e215]:
+                    - generic [ref=f28e216]: Діабетикам
+                    - generic [ref=f28e217]: Дозволено
+                - generic [ref=f28e219]:
+                  - generic [ref=f28e220]:
+                    - text: 
+                    - generic [ref=f28e221]: 
+                  - generic [ref=f28e222]:
+                    - generic [ref=f28e223]: Водіям
+                    - generic [ref=f28e224]: Дозволено
+            - table [ref=f28e225]:
+              - rowgroup [ref=f28e226]:
+                - row [ref=f28e227]:
+                  - cell "Торгівельна назва" [ref=f28e228]
+                  - cell [ref=f28e229]:
+                    - link "Вітамін D3 (Холекальциферол)" [ref=f28e230] [cursor=pointer]:
+                      - /url: https://apteka911.ua/ua/drugs/vitamin-d3-d11296
+                - row [ref=f28e231]:
+                  - cell "Діючі речовини" [ref=f28e232]
+                  - cell [ref=f28e233]:
+                    - link "Холекальциферол (Вітамін D3)" [ref=f28e234] [cursor=pointer]:
+                      - /url: https://apteka911.ua/ua/shop/substance/vitamin-d3-s2731
+                - row [ref=f28e235]:
+                  - cell "Кількість діючої речовини" [ref=f28e236]
+                  - cell "4000 МО" [ref=f28e237]
+                - row [ref=f28e238]:
+                  - cell "Форма випуску" [ref=f28e239]
+                  - cell "капсули для внутрішнього застосування" [ref=f28e240]
+                - row [ref=f28e241]:
+                  - cell "Кількість в упаковці" [ref=f28e242]
+                  - cell "60 капсул (3 блістера по 20 шт)" [ref=f28e243]
+                - row [ref=f28e244]:
+                  - cell "Первинна упаковка" [ref=f28e245]
+                  - cell "блістер" [ref=f28e246]
+                - row [ref=f28e247]:
+                  - cell "Спосіб застосування" [ref=f28e248]
+                  - cell "Орально" [ref=f28e249]
+                - row [ref=f28e250]:
+                  - cell "Взаємодія з їжею" [ref=f28e251]
+                  - cell "Після" [ref=f28e252]
+                - row [ref=f28e253]:
+                  - cell "Температура зберігання" [ref=f28e254]
+                  - cell "від 5°C до 25°C" [ref=f28e255]
+                - row [ref=f28e256]:
+                  - cell "Чутливість до світла" [ref=f28e257]
+                  - cell "Не чутливий" [ref=f28e258]
+                - row [ref=f28e259]:
+                  - cell "Ознака" [ref=f28e260]
+                  - cell "Вітчизняний" [ref=f28e261]
+                - row [ref=f28e262]:
+                  - cell "Походження" [ref=f28e263]
+                  - cell "Хімічний" [ref=f28e264]
+                - row [ref=f28e265]:
+                  - cell "Виробник" [ref=f28e266]
+                  - cell "ТОВ ВТФ ФАРМАКОМ" [ref=f28e267]
+                - row [ref=f28e268]:
+                  - cell "Країна виробництва" [ref=f28e269]
+                  - cell "Україна" [ref=f28e270]
+                - row [ref=f28e271]:
+                  - cell "Заявник" [ref=f28e272]
+                  - cell "Беркана +" [ref=f28e273]
+                - row [ref=f28e274]:
+                  - cell "Умови відпуску" [ref=f28e275]
+                  - cell "Без рецепта" [ref=f28e276]
+                - row [ref=f28e277]:
+                  - cell "Код АТС" [ref=f28e278]
+                  - cell [ref=f28e279]:
+                    - paragraph [ref=f28e280]: A Препарати, що впливають на травну систему і обмін речовин
+                    - paragraph [ref=f28e281]: A11 Вітаміни
+                    - paragraph [ref=f28e282]: A11C Вітаміни а і d, в тому числі комбінація цих вітамінів
+                    - paragraph [ref=f28e283]: A11CC Препарати вітаміну d та його аналогів
+                    - paragraph [ref=f28e284]: A11CC05 Колекальциферол
+            - generic [ref=f28e286]:
+              - generic [ref=f28e287]:
+                - paragraph [ref=f28e288]: Вітамін D3 4000 МО (IU) добавка дієтична Vitamin D3.
+                - generic [ref=f28e289]:
+                  - generic [ref=f28e290] [cursor=pointer]:
+                    - heading "Активні компоненти" [level=2] [ref=f28e291]
+                    - text: 
+                  - generic [ref=f28e293]:
+                    - paragraph [ref=f28e294]: Вітамін D3 (холекальциферол) - життєво важливий жиророзчинний вітамін, необхідний для забезпечення діяльності практично всіх органів і систем людського організму.
+                    - paragraph [ref=f28e295]: Вітамін D3 регулює біля 3% геному людини, включно гени інсулінового рецептора та стероїдогенезу (синтезу всіх стероїдних та полових гормонів).
+                    - paragraph [ref=f28e296]: Дефіцит Вітамін D3 може бути фактором ризику розвитку метаболічного синдрому.
+                    - paragraph [ref=f28e297]: Вітамін D3 має захисний ефект на функцію ендотелію шляхом стимулюванню синтезу NO та зниженню утворення активних форм кисню.
+                    - list [ref=f28e298]:
+                      - listitem [ref=f28e299]: "Кісткова система. Вітамін D3 бере участь в регуляції фосфорно-кальцієвого обміну: сприяє засвоєнню кальцію в кишківнику, підтримує необхідний рівень кальцію та фосфору в крові, активізує кістковий метаболізм. Сприяє забезпеченню міцності кісток і зубів, зниженню ризику розвитку рахіту, остеомаляції."
+                      - listitem [ref=f28e300]: Ендокринна система. Вітамін D3 впливає на метаболізм глюкози і інсуліну, а дефіцит вітаміну D3 є фактором ризику для розвитку інсулінорезистентності, порушення толерантності до глюкози. Вітамін D3 може стимулювати секрецію інсуліну бета-клітинами підшлункової залози, а також опосередковано активує кальцій-залежну ендопептідазу бета-клітин, яка перетворює проінсулін в активний інсулін. Вітамін D3 може впливати на чутливість тканин до інсуліну безпосередньо, стимулюючи експресію рецепторів інсуліну в клітинах. Вітамін D3 позитивно впливає на ліпідний обмін, сприяючи зниженню в крові рівня загального холестерину, тригліцеридів та ліпідів низької щільності. Вітамін D3 відіграє істотну роль в корекції ожиріння і перебігу метаболічного синдрому.
+                      - listitem [ref=f28e301]: "Репродуктивна функція. Вітамін D3 стимулює синтез жіночих і чоловічих статевих гормонів: естрогену, прогестерону, тестостерону. Вітамін D3 позитивно впливає на репродуктивну функцію, як жінок, так і чоловіків. Рекомендується для застосування у пар, які планують вагітність або зазнають труднощів при зачатті дитини. У жінок з достатнім рівнем вітаміну D3 запліднення яйцеклітин відбувається частіше. Нормальний рівень вітаміну D дозволяє поліпшити результати екстракорпорального запліднення. Найімовірніше, цей ефект обумовлений впливом вітаміну D3 на ендометрій. Прийом вітаміну D3 дозволяє підвищити товщину ендометрія у жінок з синдромом полікістозних яєчників. Розвиток аденоми передміхурової залози (АПЗ) достовірно асоціюється з дефіцитом/недостатністю Вітаміну D3, згідно з наявними даними клінікоепідеміологічних досліджень."
+                      - listitem [ref=f28e302]: "Імунна система. Вітамін D3 сприяє активації захисної функції організму, позитивно впливаючи як на вроджений, так і набутий імунітет. Вітамін D3 запускає в організмі синтез власних антимікробних пептидів: кателіцидинів і дефензинів. Вітамін D3 сприяє зниженню ризику розвитку застудних захворювань. Вітамін D3 забезпечує регулюючий вплив на зростання, розвиток та оновлення клітин імунної системи. Нестача вітаміну D3 в організмі може призводити до послаблення імунного захисту організму."
+                      - listitem [ref=f28e303]: Органи чуття. Розвиток діабетичної ретинопатії, як найбільш розповсюдженої причини сліпоти, та макулодистрофії (вікова макулярна дегенерація) пов’язані з дефіцитом вітаміну D.
+                      - listitem [ref=f28e304]: Розвиток та важкість перебігу синдрому сухого ока пов’язано з дефіцитом/недостатністю
+                      - listitem [ref=f28e305]: вітаміну D в організмі. Доведено, що додавання вітаміну D до раціону пацієнтів з синдромом сухого ока сприяло секреції сльози, зменшенню нестійкості сльози та зменшенню запалення поверхні очей.
+                      - listitem [ref=f28e306]: Онкогенез. Вітамін D3 та його метаболіти можуть знижувати вірогідність розвитку різних видів раку (найбільш масштабні дослідження були проведені стосовно раку молочної залози та колоректального раку).16,17,18 Вітамін D3 здатний пригнічувати пухлинний ангіогенез (утворення нових кровоносних судин у тканинах пухлини), посилювати міжклітинні взаємодії та за рахунок цього уповільнювати проліферацію (розростання тканини шляхом інтенсивного поділу клітин), крім цього допомагає підтримувати нормальний градієнт кальцію в клітинах, що є важливим чинником для процесів нормальної диференціації клітин, також вітамін D3 сприяє зменшенню проліферації клітин, які ще не є пухлинними, але є високо ризиковими.
+                      - listitem [ref=f28e307]: "Нервова система. Вітамін D3 Позитивно впливає на діяльність нервової системи, у тому числі психо-емоційну сферу та когнітивні функції: настрій, пам'ять, увагу, працездатність, загальний тонус організму. Вітамін D3 бере участь у синтезі нейромедіаторів - біологічно активних речовин, за допомогою яких здійснюється передача імпульсів між нервовими клітинами20. Вітамін D3 здатний надавати позитивний вплив на синтез серотоніну та допаміну, які мають величезне значення для нормального психо-емоційного стану людини."
+                      - listitem [ref=f28e308]: "Серцево-судинна система. Вітамін D3 є важливим фактором нормального функціонування серцево-судинної системи. Вітамін D3 позитивно впливає на важливі фактори протидії розвитку артеріальної гіпертензії: нормальне функціонування ендотелію, стан м'язової стінки судин та на процеси згортання крові."
+                      - listitem [ref=f28e309]: Регулювання енергетичного потенціалу клітин. Вітамін D3 сприяє зняттю втоми і підвищенню тонусу організму через регулювання власного енергетичного потенціалу клітин. В результаті впливу вітаміну D3 в мітохондріях клітин підвищується синтез АТФ (аденозинтрифосфату), який є власним універсальним джерелом енергії для всіх біохімічних процесів, що протікають в організмі.
+                      - listitem [ref=f28e310]: М'язова система. Вітамін D3 сприяє підтримці сили м'язів і нервово-м'язової провідності26, завдяки чому знижує ризик падінь та переломів.
+                      - listitem [ref=f28e311]: Бронхо-легенева система. Вітамін D3 сприяє запобіганню патологічних змін гладких м'язів повітроносних шляхів, регулює скорочення м'язів дихальних шляхів і запальну відповідь, що сприяє нормальному функціонуванню легенів.
+                - generic [ref=f28e312]:
+                  - generic [ref=f28e313] [cursor=pointer]:
+                    - heading "Показання до застосування" [level=2] [ref=f28e314]
+                    - text: 
+                  - generic [ref=f28e316]:
+                    - paragraph [ref=f28e317]: "Дієтична добавка до раціону харчування – додаткове джерело вітаміну D при дефіцитних станах, для регулювання всмоктування та засвоювання кальцію та фосфору в організмі, підтримки нормального рівня кальцію в сироватці крові. Сприяє загальному зміцненню організму: запобігає виникненню порушення співвідношення кальцію й фосфору, яке викликає дефект мінералізації (остеомаляцію), слабкість у проксимальних м’язах кінцівок, що призводить до порушення ходи; поліпшує засвоєння кальцію в організмі, знижує ризик виникнення серцево-судинних захворювань, нормалізує роботу імунної і нервової систем,сприяє покращенню стану нігтів та волосся, зміцненню зубів та кісток."
+                    - paragraph [ref=f28e318]: Рекомендується жінкам в період менопаузи для профілактики остеопорозу.
+                    - paragraph [ref=f28e319]: Перед застосуванням рекомендована консультація лікаря.
+                - generic [ref=f28e320]:
+                  - generic [ref=f28e321] [cursor=pointer]:
+                    - heading "Спосіб застосування" [level=2] [ref=f28e322]
+                    - text: 
+                  - generic [ref=f28e324]:
+                    - paragraph [ref=f28e325]: Дорослим по 1 капсулі на день.
+                    - paragraph [ref=f28e326]: Капсули вживати з невеликою кількістю води під час їди або впродовж 30 хвилин після вживання їжі.
+                - generic [ref=f28e327]:
+                  - generic [ref=f28e328] [cursor=pointer]:
+                    - heading "Особливості застосування" [level=2] [ref=f28e329]
+                    - text: 
+                  - paragraph [ref=f28e332]: Перед застосуванням та в процесі застосування необхідно контролювати рівень вітаміну D3 за показником (25-(OH) D) у сироватці крові. Не перевищувати рекомендовану кількість для щоденного споживання. Не слід використовувати як заміну повноцінного раціону харчування.
+                - generic [ref=f28e333]:
+                  - generic [ref=f28e334] [cursor=pointer]:
+                    - heading "Протипоказання" [level=2] [ref=f28e335]
+                    - text: 
+                  - generic [ref=f28e337]:
+                    - paragraph [ref=f28e338]: Індивідуальна чутливість до компонентів, дитячий вік.
+                    - paragraph [ref=f28e339]: Не є лікарським засобом.
+                - generic [ref=f28e340]:
+                  - generic [ref=f28e341] [cursor=pointer]:
+                    - heading "Склад" [level=2] [ref=f28e342]
+                    - text: 
+                  - generic [ref=f28e344]:
+                    - paragraph [ref=f28e345]: "(1 м’яка капсула):"
+                    - list [ref=f28e346]:
+                      - listitem [ref=f28e347]: "основна речовина: вітамін D3 (холекальциферол) – 100 мкг (μg), що відповідає 4000 МО (IU);"
+                      - listitem [ref=f28e348]: "допоміжні речовини: олія соняшникова рафінована, желюючий агент желатин, вода очишена, загущувач гліцерин, консервант натрію бензоат."
+                - generic [ref=f28e349]:
+                  - generic [ref=f28e350] [cursor=pointer]:
+                    - heading "Умови зберігання" [level=2] [ref=f28e351]
+                    - text: 
+                  - paragraph [ref=f28e354]: В упаковці виробника при температурі від 5 ºС до 25 ºС та відносній вологості повітря не більше 75 %. Зберігати у недоступному для дітей місці.
+              - paragraph [ref=f28e356]:
+                - generic [ref=f28e357]: "Відмова від відповідальності: Опис товару складено виключно на підставі наданої виробником інформації та завірено Фармаком. Опис товару надається споживачу на виконання вимог Закону України «Про захист прав споживачів»."
+              - generic [ref=f28e358]:
+                - generic [ref=f28e359]:
+                  - generic [ref=f28e360]: Редакторська група
+                  - generic [ref=f28e361]: "Дата створення: 18.05.2023 Дата оновлення: 20.10.2026"
+                - generic [ref=f28e362]:
+                  - generic [ref=f28e363]:
+                    - link "Жадько Світлана" [ref=f28e365] [cursor=pointer]:
+                      - /url: https://apteka911.ua/ua/komanda-proekta/editors/zhadko-svitlana-viktorivna
+                    - generic [ref=f28e366]: Автор
+                  - generic [ref=f28e367]:
+                    - link "Турумкулова Ірина Михайлівна" [ref=f28e369] [cursor=pointer]:
+                      - /url: https://apteka911.ua/ua/komanda-proekta/editors/turumkulova-irina-mihaylivna
+                    - generic [ref=f28e370]: Рецензент
+            - generic [ref=f28e371]:
+              - generic [ref=f28e373] [cursor=pointer]:
+                - generic [ref=f28e374]: 
+                - text: НАПИСАТИ ВІДГУК
+              - text:       
+              - paragraph [ref=f28e375]: Відгуки споживачів
+              - article [ref=f28e376]:
+                - generic [ref=f28e377]:
+                  - generic [ref=f28e378]:
+                    - generic [ref=f28e379]: Дмитрий
+                    - text: 15 лютого 2025
+                    - generic [ref=f28e380]:  
+                  - text: Приймав 3 місяці. Жодного покращення не відбулось. Перездав аналіз і виявилось, що рівень піднявся лише на 2 одиниці. Гроші на вітер.
+                - link "Коментувати" [ref=f28e383] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - article [ref=f28e384]:
+                - generic [ref=f28e385]:
+                  - generic [ref=f28e386]:
+                    - generic [ref=f28e387]: Solution pharm
+                    - text: 30 травня 2025
+                  - generic [ref=f28e388]: Шановний Дмитро , дякуємо за Ваш відгук. Нам сумно чути, що Ви залишились незадоволеним нашою продукцією.Якість нашого продукту уважно контролюється, має безліч схвальних відгуків від споживачів. З повагою, Анастасія, представник бренду Solution pharm
+              - article [ref=f28e389]:
+                - generic [ref=f28e390]:
+                  - generic [ref=f28e391]:
+                    - generic [ref=f28e392]: Інна Мельник
+                    - text: 10 липня 2024
+                    - generic [ref=f28e393]:  
+                  - text: Після початку прийому значно покращився настрій та енергія. Капсули зручні, легко приймаються
+                - link "Коментувати" [ref=f28e396] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - article [ref=f28e397]:
+                - generic [ref=f28e398]:
+                  - generic [ref=f28e399]:
+                    - generic [ref=f28e400]: Soluthion Pharm
+                    - text: 12 липня 2024
+                  - generic [ref=f28e401]: Шановна Інна , команда бренду Soluthion Pharm вдячна Вам за Ваш відгук. Для нас найкраща винагорода – знати , що наші Клієнти задоволені нашою продукцією. З повагою ,Анастасія , представник бренду Soluthion Pharm
+              - article [ref=f28e402]:
+                - generic [ref=f28e403]:
+                  - generic [ref=f28e404]:
+                    - generic [ref=f28e405]: Марія Малишко
+                    - text: 9 липня 2024
+                    - generic [ref=f28e406]:  
+                  - text: Капсули м’які, легко ковтаються, ефект відчутний вже через кілька днів
+                - link "Коментувати" [ref=f28e409] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - article [ref=f28e410]:
+                - generic [ref=f28e411]:
+                  - generic [ref=f28e412]:
+                    - generic [ref=f28e413]: Soluthion Pharm
+                    - text: 12 липня 2024
+                  - generic [ref=f28e414]: Шановна Марія , дякуємо за таку високу оцінку нашого продукту! Щиро сподіваємось, що наш продукт вирішив усі Ваші потреби. З повагою, Анастасія, представник бренду Soluthion Pharm
+              - article [ref=f28e415]:
+                - generic [ref=f28e416]:
+                  - generic [ref=f28e417]:
+                    - generic [ref=f28e418]: Світлана
+                    - text: 8 липня 2024
+                    - generic [ref=f28e419]:  
+                  - text: 4000 МО - хороша доза, особливо в зимовий період. Відчуваю себе чудово, енергії додалося. Дуже зручно, що капсули в блістерах, завжди можна мати під рукою
+                - link "Коментувати" [ref=f28e422] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - article [ref=f28e423]:
+                - generic [ref=f28e424]:
+                  - generic [ref=f28e425]:
+                    - generic [ref=f28e426]: Soluthion Pharm
+                    - text: 12 липня 2024
+                  - generic [ref=f28e427]: Вітаємо шановна Світлана . Дякуємо, що Ви знайшли час для такого відгуку. Завжди раді допомогти своєю продукцією у вирішенні Ваших потреб. З повагою, Анастасія ,представник бренду Soluthion Pharm
+            - paragraph [ref=f28e429]: Споживачі мають можливість залишити відгуки про товар за власним бажанням та на власний розсуд. Ми не модеруємо відповідні відгуки та не впливаємо на їхній зміст. Наша думка може відрізнятись від змісту відповідних відгуків. Рекомендуємо не займатись самолікуванням на основі відгуків інших споживачів.
+            - generic [ref=f28e430]:
+              - heading "Поширені запитання" [level=2] [ref=f28e431]
+              - generic [ref=f28e432]:
+                - generic [ref=f28e434] [cursor=pointer]:
+                  - heading "Чому вітамін Д потрібно приймати з К2?" [level=3] [ref=f28e435]
+                  - text: 
+                - generic [ref=f28e437] [cursor=pointer]:
+                  - heading "Чи можна застосовувати разом Ергокальциферол і Холекальциферол?" [level=3] [ref=f28e438]
+                  - text: 
+                - generic [ref=f28e440] [cursor=pointer]:
+                  - heading "Вітамін Д і В12 — сумісність" [level=3] [ref=f28e441]
+                  - text: 
+                - generic [ref=f28e443] [cursor=pointer]:
+                  - heading "Як давати вітамін Д дітям?" [level=3] [ref=f28e444]
+                  - text: 
+                - generic [ref=f28e446] [cursor=pointer]:
+                  - heading "Вітамін Д у яких продуктах?" [level=3] [ref=f28e447]
+                  - text: 
+                - generic [ref=f28e449] [cursor=pointer]:
+                  - heading "В який час доби краще приймати вітамін Д дорослим?" [level=3] [ref=f28e450]
+                  - text: 
+      - generic [ref=f28e451]:
+        - paragraph [ref=f28e452]: РАНІШЕ ВИ ДИВИЛИСЯ
+        - list [ref=f28e455]:
+          - listitem [ref=f28e456]:
+            - generic [ref=f28e457]:
+              - link "Вітамін D3 4000МО капс. №60 Solution Pharm Вітамін D3 4000МО капс. №60 Solution Pharm" [ref=f28e458] [cursor=pointer]:
+                - /url: https://apteka911.ua/ua/shop/vitamin-d3-4000mo-kaps-60-solution-pharm-p254998
+                - img "Вітамін D3 4000МО капс. №60 Solution Pharm" [ref=f28e460]
+                - generic [ref=f28e461]: Вітамін D3 4000МО капс. №60 Solution Pharm
+              - paragraph [ref=f28e462]: ТОВ ВТФ ФАРМАКОМ
+              - generic [ref=f28e463]:
+                - link "4" [ref=f28e464] [cursor=pointer]:
+                  - /url: https://apteka911.ua/ua/shop/vitamin-d3-4000mo-kaps-60-solution-pharm-p254998/reviews
+                - generic [ref=f28e465]:  
+              - paragraph
+              - paragraph [ref=f28e466]: Немає в наявності
+      - text:       
+  - contentinfo [ref=f28e467]:
+    - paragraph [ref=f28e470]: УВАГА! Ціни актуальні лише в разі оформлення замовлення в електронній медичній інформаційній системі Аптека 9-1-1. Ціни на товари в разі купівлі безпосередньо в аптечних закладах-партнерах можуть відрізнятися від тих, що зазначені на сайті!
+    - generic [ref=f28e473]:
+      - link "Наш освітній партнер" [ref=f28e475] [cursor=pointer]:
+        - /url: https://nuph.edu.ua/
+      - generic [ref=f28e478]:
+        - generic [ref=f28e479]: Про нас
+        - list [ref=f28e480]:
+          - listitem [ref=f28e481]:
+            - link "Новини" [ref=f28e482] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/company/novosti
+          - listitem [ref=f28e483]:
+            - link "Блог" [ref=f28e484] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/blog
+          - listitem [ref=f28e485]:
+            - link "Про нас" [ref=f28e486] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/company/history
+          - listitem [ref=f28e487]:
+            - link "Умови використання сайту" [ref=f28e488] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/company/pravila-rabotyi-internet-apteki
+          - listitem [ref=f28e489]:
+            - link "Програма лояльності" [ref=f28e490] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/aktivatsiya-kartyi-postoyannogo-klienta
+          - listitem [ref=f28e491]:
+            - link "Політика конфіденційності" [ref=f28e492] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/company/privacy-policy
+          - listitem [ref=f28e493]:
+            - link "Редакційна політика" [ref=f28e494] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/company/redaktsionnaya-politika
+          - listitem [ref=f28e495]:
+            - link "Маркетингова політика" [ref=f28e496] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/company/marketingovaya-politika
+          - listitem [ref=f28e497]:
+            - link "Політика публікації відгуків" [ref=f28e498] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/company/politika-publikatsii-otzyivov
+          - listitem [ref=f28e499]:
+            - link "Реєстраційні документи" [ref=f28e500] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/company/legitimnost
+          - listitem [ref=f28e501]:
+            - link "Наші нагороди" [ref=f28e502] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/company/nagorodi-ta-sertifikati
+          - listitem [ref=f28e503]:
+            - link "Команда проєкту" [ref=f28e504] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/komanda-proekta
+          - listitem [ref=f28e505]:
+            - link "Команда турботи" [ref=f28e506] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/farmhero
+          - listitem [ref=f28e507]:
+            - link "Наші партнери" [ref=f28e508] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/company/partners
+          - listitem [ref=f28e509]:
+            - link "Відгуки" [ref=f28e510] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/otzyvy
+          - listitem [ref=f28e511]:
+            - link "Соціальні програми" [ref=f28e512] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/company/social
+          - listitem [ref=f28e513]:
+            - link "ЗМІ про нас" [ref=f28e514] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/company/media
+          - listitem [ref=f28e515]:
+            - link "Кар'єра" [ref=f28e516] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/company/job
+          - listitem [ref=f28e517]:
+            - link "Контакти" [ref=f28e518] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/company/kontaktyi
+      - generic [ref=f28e520]:
+        - generic [ref=f28e521]: Допомога
+        - list [ref=f28e522]:
+          - listitem [ref=f28e523]:
+            - link "Як замовити" [ref=f28e524] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/help/order
+          - listitem [ref=f28e525]:
+            - link "Замовлення по фото призначення або товару" [ref=f28e526] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/help/razobrat-retsept
+          - listitem [ref=f28e527]:
+            - link "Доставка" [ref=f28e528] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/help/delivery
+          - listitem [ref=f28e529]:
+            - link "Оплата" [ref=f28e530] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/help/payment
+          - listitem [ref=f28e531]:
+            - link "Перевірка замовлення" [ref=f28e532] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/help/check-order
+          - listitem [ref=f28e533]:
+            - link "Гарантія якості" [ref=f28e534] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/help/assurance
+          - listitem [ref=f28e535]:
+            - link "Повернення" [ref=f28e536] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/help/return
+          - listitem [ref=f28e537]:
+            - link "Популярні питання" [ref=f28e538] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/help/chavo
+          - listitem [ref=f28e539]:
+            - link "Корисні телефони" [ref=f28e540] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/help/gorlin
+          - generic [ref=f28e541]: Сервіси
+          - list
+          - listitem [ref=f28e542]:
+            - link "Телемедицина" [ref=f28e543] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/telemedicine
+          - listitem [ref=f28e544]:
+            - link "Лабораторні послуги" [ref=f28e545] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/doctor911
+          - listitem [ref=f28e546]:
+            - link "Доступні ліки" [ref=f28e547] [cursor=pointer]:
+              - /url: https://dl.apteka911.ua
+          - listitem [ref=f28e548]:
+            - link "Ваша аптека" [ref=f28e549] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/vasha-apteka
+          - generic [ref=f28e550]: Партнерам
+          - list
+          - listitem [ref=f28e551]:
+            - link "Стати партнером" [ref=f28e552] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/for_partners/razmestit-tovar-u-nas-na-sayte
+          - listitem [ref=f28e553]:
+            - link "Реклама на сайті" [ref=f28e554] [cursor=pointer]:
+              - /url: https://apteka911.ua/ua/for_partners/reklama-v-aptekah-911
+      - generic [ref=f28e555]:
+        - generic [ref=f28e556]: Приєднатися
+        - paragraph [ref=f28e557]: Стежити за новинами в соціальних мережах
+        - generic [ref=f28e558]:
+          - link "Facebook" [ref=f28e559] [cursor=pointer]:
+            - /url: https://www.facebook.com/apteki911
+          - link "YouTube" [ref=f28e560] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UC1wLhq1y15EkdP3OzbAjrjQ/featured
+          - link "Instagram" [ref=f28e561] [cursor=pointer]:
+            - /url: https://www.instagram.com/apteka_911/?igshid=d5abri6ect88
+          - generic "Viber" [ref=f28e562] [cursor=pointer]: Viber
+          - link "Telegram" [ref=f28e563] [cursor=pointer]:
+            - /url: https://apt911.co/bd9df5
+      - generic [ref=f28e564]:
+        - generic [ref=f28e565] [cursor=pointer]:
+          - generic [ref=f28e566]: 
+          - generic [ref=f28e567]: Мобільна версія сайту
+        - generic [ref=f28e568] [cursor=pointer]: 
+        - generic [ref=f28e570] [cursor=pointer]: 
+    - generic [ref=f28e572]:
+      - paragraph [ref=f28e573]
+      - paragraph [ref=f28e574]
+      - paragraph [ref=f28e575]: ТОВ «АПТЕКА 911.ЮА» Код ЄДРПОУ 43631965
+      - text: Медична інформаційна система АПТЕКА911.ЮА
+    - generic [ref=f28e578]:
+      - text: Створення та підтримка сайту
+      - link "wu.ua" [ref=f28e579] [cursor=pointer]:
+        - /url: https://wu.ua
+  - generic [ref=f28e580] [cursor=pointer]: Знайшли помилку?
+  - text:     💓 🎫 Досягнуто ліміт к-сті 🌄 🌅 🌄 🌅  💓               
+  - generic [ref=f28e581]:
+    - button " Погоджуюсь" [ref=f28e582] [cursor=pointer]
+    - generic [ref=f28e583]:
+      - generic [ref=f28e584]: 
+      - text: Файли cookieта політика конфіденційності
+    - generic [ref=f28e585]: Наш Сайт використовує файли cookie, які допомагають нам зробити Сайт більш швидким, зручним та функціональним. Продовжуючи переглядати цей Сайт, Ви погоджуєтесь на використання нами файлів cookie.
+    - paragraph [ref=f28e586]:
+      - button "Погоджуюсь" [ref=f28e587] [cursor=pointer]
+    - paragraph [ref=f28e588]: Дізнатися більше можна на сторінці
+    - paragraph [ref=f28e589]:
+      - link "Політика конфіденційності" [ref=f28e590] [cursor=pointer]:
+        - /url: https://apteka911.ua/ua/company/privacy-policy
+  - text: 
