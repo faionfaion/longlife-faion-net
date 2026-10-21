@@ -1,0 +1,86 @@
+{
+  "timestamp": "2026-10-20_034818",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "vitamin-d-profilaktyka-temna-polovyna-roku-jolliffe-2025-uspstf",
+  "author": "Віта",
+  "duration_s": 2715.0,
+  "image_generated": false,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 431.5,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 87.2,
+      "error": null
+    },
+    {
+      "name": "research:Темна половина року: чи варто ",
+      "status": "ok",
+      "duration_s": 1065.1,
+      "error": null
+    },
+    {
+      "name": "generate:Темна половина року: чи варто ",
+      "status": "ok",
+      "duration_s": 267.3,
+      "error": null
+    },
+    {
+      "name": "text_edit:Темна половина року: чи варто ",
+      "status": "ok",
+      "duration_s": 244.4,
+      "error": null
+    },
+    {
+      "name": "review:Темна половина року: чи варто ",
+      "status": "ok",
+      "duration_s": 442.1,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Темна половина року: чи варто ",
+      "status": "ok",
+      "duration_s": 20.5,
+      "error": null
+    },
+    {
+      "name": "material_images:Темна половина року: чи варто ",
+      "status": "ok",
+      "duration_s": 118.0,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Темна половина року: чи варто ",
+      "status": "ok",
+      "duration_s": 12.5,
+      "error": null
+    },
+    {
+      "name": "save:Темна половина року: чи варто ",
+      "status": "ok",
+      "duration_s": 22.4,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.5,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}
