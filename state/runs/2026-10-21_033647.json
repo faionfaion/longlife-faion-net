@@ -1,0 +1,92 @@
+{
+  "timestamp": "2026-10-21_033647",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "ozempic-semahlutyd-myazy-chy-syla-semalean-believe-2026",
+  "author": "Віта",
+  "duration_s": 2023.6,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 309.3,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 63.3,
+      "error": null
+    },
+    {
+      "name": "research:Курцю, який хоче кинути: де до",
+      "status": "ok",
+      "duration_s": 222.7,
+      "error": null
+    },
+    {
+      "name": "generate:Курцю, який хоче кинути: де до",
+      "status": "failed",
+      "duration_s": 8.3,
+      "error": "Claude Code returned an error result: Reached maximum number of turns (1)"
+    },
+    {
+      "name": "research:Скільки з утрачених на «Оземпі",
+      "status": "ok",
+      "duration_s": 356.9,
+      "error": null
+    },
+    {
+      "name": "generate:Скільки з утрачених на «Оземпі",
+      "status": "ok",
+      "duration_s": 108.5,
+      "error": null
+    },
+    {
+      "name": "text_edit:Скільки з утрачених на «Оземпі",
+      "status": "ok",
+      "duration_s": 137.8,
+      "error": null
+    },
+    {
+      "name": "review:Скільки з утрачених на «Оземпі",
+      "status": "ok",
+      "duration_s": 475.0,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Скільки з утрачених на «Оземпі",
+      "status": "ok",
+      "duration_s": 25.3,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Скільки з утрачених на «Оземпі",
+      "status": "ok",
+      "duration_s": 13.3,
+      "error": null
+    },
+    {
+      "name": "save:Скільки з утрачених на «Оземпі",
+      "status": "ok",
+      "duration_s": 298.5,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.4,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}

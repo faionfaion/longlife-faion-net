@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T03:09:16.372646+00:00",
+  "updated_at": "2026-10-22T03:10:01.206238+00:00",
   "entries": [
     {
       "topic": "Дуже гарячий чай і рак стравоходу: де саме проходить межа в градусах",
@@ -55,83 +55,6 @@
       "score": 66,
       "rationale": "Genuine follow-up to 09.09 semaglutide-fakes post with a different question and solid substudy data, but no dated hook.",
       "proposed": "2026-09-22"
-    },
-    {
-      "topic": "Мелатонін: доза в українських аптеках у 5-10 разів більша за ту, що працює",
-      "type": "guide",
-      "category": "sleep",
-      "angle": "Claim-check найпопулярнішої «безпечної» снодійної добавки. Ключове число: мета-аналіз Ferracioli-Oda (PLoS ONE 2013, 19 РКД, 1683 особи) дає скорочення часу засинання приблизно на 7 хвилин і збільшення сну на ~8 хвилин — тобто ефект реальний, але маленький, і він майже не залежить від дози; фізіологічні дози 0,3-0,5 мг у роботах Zhdanova давали не гірший результат, ніж 3-5 мг, а надлишок подовжує ранкову сонливість. Друге, що майже ніхто не знає: мелатонін працює насамперед як регулятор фази, а не як снодійне, тому час прийому (за 2-3 години до бажаного сну, а не «коли ліг») важливіший за дозу — це сильна доказова база саме для джетлагу і синдрому відкладеної фази сну. Третє — контроль якості: аналіз препаратів на ринку США (Erland & Saxena, J Clin Sleep Med 2017) показав відхилення вмісту від -83% до +478% і серотонін у частині зразків. Український блок: у якому статусі мелатонін продається, які дози на полиці, і чому при хронічному безсонні перша лінія — КПТ-Б, а не капсула; окремо — не давати дитині без призначення лікаря.",
-      "sources_hint": "Ferracioli-Oda E et al., PLoS ONE 2013;8:e63773; Zhdanova IV et al., J Clin Endocrinol Metab 2001 (low-dose melatonin); Erland LAE & Saxena PK, J Clin Sleep Med 2017;13:275 (content analysis); AASM clinical practice guideline 2017 (melatonin not recommended for chronic insomnia); Cochrane melatonin for jet lag (Herxheimer); Auld F et al., Sleep Med Rev 2017",
-      "evidence_level": "moderate",
-      "score": 76,
-      "rationale": "Solid meta-analysis and content-purity data make a clean claim-check on a supplement almost everyone has tried, evergreen with no recent duplicate.",
-      "proposed": "2026-09-21"
-    },
-    {
-      "topic": "Креатин: добавка, яка витримує перевірку — і чого вона не робить",
-      "type": "nutrition",
-      "category": "nutrition",
-      "angle": "Зворотний claim-check: найдешевша спортивна добавка з найбільшою кількістю РКД, про яку в Україні досі кажуть, що вона «садить нирки». Що доведено: приріст сили і робочого обсягу при силових тренуваннях (десятки РКД і мета-аналізів; ефект помірний і залежить від того, чи людина взагалі тренується), моногідрат ефективний не гірше за дорожчі форми (HCl, буферизований), схема без фази завантаження працює, просто повільніше. Що не доведено: помітний ефект у витривалості, «жироспалення», обов'язковість циклів. Безпека: огляди ISSN і довготривалі дані не показують шкоди для нирок у здорових людей; підвищений креатинін в аналізі — артефакт, а не ушкодження, і це окремий практичний пункт для тих, хто здає аналізи (попередити лабораторію і лікаря). Затримка води — реальна, переважно внутрішньоклітинна. Окремо чесно про нову лінію: когнітивні ефекти й дані у вегетаріанців та при депривації сну — сигнал, а не доказ. Для практика: 3-5 г на добу, кому це справді має сенс, і кому варто спершу порадитися з лікарем (хвороба нирок, вагітність, підлітки).",
-      "sources_hint": "Kreider RB et al., JISSN 2017 position stand on creatine; Antonio J et al., JISSN 2021 'Common questions and misconceptions about creatine'; Chilibeck PD et al., Open Access J Sports Med 2017 (creatine + resistance training in older adults, meta-analysis); Sandkühler JF et al., BMC Med 2023 (creatine and cognition meta-analysis); de Souza e Silva A et al. (creatinine elevation without renal injury)",
-      "evidence_level": "strong",
-      "score": 74,
-      "rationale": "Deep RCT and position-stand evidence base for a widely-feared supplement, but purely evergreen with no live hook to push it above today's stretching pick.",
-      "proposed": "2026-09-21"
-    },
-    {
-      "topic": "Запитати симптоми в чат-бота: що показують дослідження про точність і де це справді небезпечно",
-      "type": "research",
-      "category": "research",
-      "angle": "Українці вже описують висип, біль у грудях і результати аналізів чат-боту раніше, ніж записуються до лікаря. Що показує доказова база: старі симптом-чекери давали правильний діагноз першим варіантом приблизно в третині випадків (Semigran, BMJ 2015, 23 програми, 45 віньєток); сучасні LLM у контрольованих текстових завданнях виглядають значно краще, але РКД Goh (JAMA Netw Open 2024) показав неочевидне — доступ до моделі майже не покращив діагностичне міркування самих лікарів, а модель окремо працювала краще за людину з моделлю. Головні системні слабкості: сортування за терміновістю (safety-netting) гірше за точність діагнозу; впевнений тон без калібрування; чутливість відповіді до формулювання запитання; віньєтки — не пацієнти, тому зовнішня валідність обмежена. Практичний блок: як питати так, щоб отримати користь (перелік питань до лікаря, пояснення термінів з виписки), і три ситуації, де бот не має права бути першою інстанцією — біль у грудях, раптова неврологічна симптоматика, дитина з високою температурою і висипом. Флаг «зверніться до лікаря» і 103 — обов'язкові.",
-      "sources_hint": "Semigran HL et al., BMJ 2015;351:h3480; Goh E et al., JAMA Netw Open 2024 (LLM diagnostic reasoning RCT); Ayers JW et al., JAMA Intern Med 2023; Zeltzer D et al. (LLM triage accuracy); MHRA/UK regulator statements on AI as medical device (2026); WHO guidance on LMMs in health (2024)",
-      "evidence_level": "moderate",
-      "score": 70,
-      "rationale": "Timely behavior with a real RCT (Goh 2024) behind it, but evidence is moderate and the piece leans more survey-like than single-sitting.",
-      "proposed": "2026-09-21"
-    },
-    {
-      "topic": "65 °C: температура, з якої напій стає канцерогеном (а сам чай і кава — ні)",
-      "type": "research",
-      "category": "prevention",
-      "angle": "Розібрати, звідки взялася цифра 65 °C. У 2016 році IARC (монографія 116) переніс «дуже гарячі напої» до групи 2A саме за температурою — і тим самим рішенням прибрав каву з переліку ймовірних канцерогенів. Головна доказова опора — Golestan Cohort в Ірані (Islami, Int J Cancer 2020, ~50 000 учасників, проспективно): звичка пити чай ≥60 °C і випивати його менш ніж за 2 хвилини після заварювання асоціювалася приблизно з подвоєним ризиком плоскоклітинного раку стравоходу; є дозова залежність за виміряною, а не самозвітною температурою. Чесні межі: когорта в регіоні з дуже високою базовою захворюваністю і поширеним вживанням опію та тютюну; дані спостережні, залишкове змішування не виключене; для України абсолютний ризик значно нижчий, отже мова про дешеву звичку, а не про страх. Практичне: скільки хвилин насправді потрібно окропу, щоб охолонути до ~60 °C у чашці (і чому термос із чаєм у дорозі — окремий випадок), і чому «пити з блюдця» — не марновірство. Окремо — окріп і термічне пошкодження слизової в дітей.",
-      "sources_hint": "IARC Monographs vol.116 (2016) 'Drinking coffee, mate, and very hot beverages'; Islami F et al., Int J Cancer 2020;146:18-25 (Golestan Cohort, measured tea temperature, ESCC); Islami F et al., BMJ 2009;338:b929; Chen Y et al., Ann Intern Med 2022 (UK Biobank tea temperature); WCRF/AICR esophageal cancer report",
-      "evidence_level": "moderate",
-      "score": 64,
-      "rationale": "Good cohort evidence (Golestan) but low urgency for an ordinary Ukrainian reader and no current news hook.",
-      "proposed": "2026-09-21"
-    },
-    {
-      "topic": "Крижана ванна: для настрою — можливо, після силових — радше шкодить",
-      "type": "research",
-      "category": "biohacking",
-      "angle": "Єдиний матеріал плану, де розбирається холодове занурення — тому тут зібрана вся доказова база про нього, а стаття про крепатуру лише посилається сюди. Розділити те, що в соцмережах злите в одну обіцянку. Перше: відновлення після навантаження. Мета-аналізи (Bleakley, Cochrane 2012; Dupuy 2018) показують невелике короткострокове зниження відчуття втоми й болючості, але робота Roberts (J Physiol 2015) і подальші дослідження свідчать, що регулярне холодне занурення одразу після силових притуплює сигнальні шляхи гіпертрофії — тобто для того, хто будує м'язи, це радше мінус, а для того, хто має два матчі за три дні, плюс. Друге: настрій і «стійкість». Тут є фізіологічно вражаючі дані про викид норадреналіну (Šrámek 2000), але РКД з клінічними кінцевими точками майже немає, а систематичні огляди 2025 року прямо пишуть про малі вибірки, відсутність засліплення й сильне очікування ефекту. Третє — безпека, і це головне для України: холодовий шок і рефлекс вдиху під водою, ризик для людей з гіпертензією, аритмією та ІХС, окремо про зимове купання й водохресне занурення без підготовки. Висновок: подобається — робіть з головою і не одразу після силових; це не лікування депресії і не заміна терапії.",
-      "sources_hint": "Roberts LA et al., J Physiol 2015;593:4285 (cold water immersion attenuates resistance training adaptations); Cain T et al., PLoS ONE 2025 (systematic review/meta-analysis of cold water immersion, health and wellbeing); Šrámek P et al., Eur J Appl Physiol 2000 (immersion at different temperatures, catecholamines); Tipton MJ et al., Exp Physiol 2017 (cold shock response); Bleakley CM, Cochrane 2012 (CWI for DOMS)",
-      "evidence_level": "preliminary",
-      "score": 58,
-      "rationale": "Evidence explicitly labeled preliminary with small trials only, and the piece is written to be the DOMS article's reference material rather than today's lead.",
-      "proposed": "2026-09-21"
-    },
-    {
-      "topic": "Тест «біологічного віку» за 4000 гривень: що саме він міряє і чи можна на нього спиратися",
-      "type": "research",
-      "category": "longevity",
-      "angle": "Клеймчек індустрії епігенетичних годинників, які вже продають в Україні через приватні лабораторії й веллнес-центри. Розділити три речі: годинники першого покоління (Horvath, Hannum) навчені передбачати паспортний вік; другого (PhenoAge, GrimAge) — клінічні маркери й смертність, і саме вони мають найкращу асоціацію з наслідками; DunedinPACE — темп старіння. Ключова проблема для покупця тесту: технічна відтворюваність. Робота Higgins-Chen/Levine (Nature Aging 2022) показала, що повторне вимірювання того самого зразка дає розкид у кілька років — тобто «мінус 3 роки після трьох місяців добавок» лежить у межах шуму приладу. Плюс: жоден годинник не валідований як показник, за яким можна змінювати лікування; асоціація на рівні популяції не означає керованості в однієї людини. Що робити натомість: дешеві й доказові маркери, які реально пов'язані з тривалістю життя — артеріальний тиск (з посиланням на протокол домашнього вимірювання від 07.09), ліпіди, HbA1c, сила хвата, VO2max, статус куріння. Практичний висновок: гроші за тест краще витратити на те, що можна змінити.",
-      "sources_hint": "Higgins-Chen AT et al., Nature Aging 2022 (principal-component clocks, technical noise/reliability); Levine ME et al., Aging 2018 (PhenoAge); Lu AT et al., Aging 2019 (GrimAge); Belsky DW et al., eLife 2022 (DunedinPACE); Bell CG et al., Genome Biol 2019 (consensus on epigenetic clocks); reviews on DTC biological age tests in JAMA/Nature Medicine",
-      "evidence_level": "moderate",
-      "score": 54,
-      "rationale": "Solid technical-reliability literature (Higgins-Chen) but a niche purchase decision for few readers, no live hook this week.",
-      "proposed": "2026-09-21"
-    },
-    {
-      "topic": "П'ять хвилин дихання проти тривоги: що саме перевіряли в рандомізованому дослідженні",
-      "type": "lifehack",
-      "category": "mental-health",
-      "angle": "Понеділковий інструмент, який нічого не коштує і має РКД під собою. Balban et al. (Cell Reports Medicine, 2023, n=108, 4 групи, один місяць по 5 хвилин на день) порівняв три дихальні техніки й уважність: найкращий результат за настроєм і зниженням частоти дихання у спокої дав «циклічне зітхання» — подвійний вдих через ніс і довгий видих через рот, тобто техніка з подовженим видихом. Пояснити механізм простими словами (видих довший за вдих = зсув у бік парасимпатичної активності, респіраторна синусова аритмія), не обіцяючи більшого, ніж є. Чесні межі: 108 людей, здорові дорослі, віддалене проведення, один місяць спостереження, самозвітні шкали настрою; це не лікування тривожного розладу і не заміна терапії. Порівняти з тим, що вже має міцнішу базу (Кокран про дихальні вправи при паніці — слабкі докази), і дати покроковий протокол на 5 хвилин, який можна зробити просто зараз. Червоні прапорці: якщо тривога щоденна і заважає працювати — це до фахівця, 7333.",
-      "sources_hint": "Balban MY et al., Cell Reports Medicine 2023;4:100895 (cyclic sighing RCT); Fincham GW et al., Sci Rep 2023 (meta-analysis of breathwork for stress/anxiety, 12 RCTs); Laborde S et al., Neurosci Biobehav Rev 2022 (slow-paced breathing and HRV); Cochrane/NICE on relaxation techniques for anxiety",
-      "evidence_level": "preliminary",
-      "score": 50,
-      "rationale": "Single 108-person RCT is the whole evidentiary spine, evidence explicitly preliminary, too thin to carry a full post on its own today.",
-      "proposed": "2026-09-21"
     },
     {
       "topic": "Рівнодення: де закінчується осіння хандра і починається сезонна депресія — і чи справді працює лампа",
@@ -1292,12 +1215,12 @@
       "topic": "П'ять груп ліків, які після 70 варто переглянути разом із лікарем",
       "type": "guide",
       "category": "longevity",
-      "angle": "Теза, з якої починається текст: у людини 70+ найчастіша причина нових «симптомів старості» — запаморочення, плутанина, падіння, затримка сечі — не вік, а список ліків. Проходимо по групах із доказами: холінолітики (стара димедролова лінія, амітриптилін, оксибутинін) — зв'язок з деменцією в когортах; бензодіазепіни і Z-препарати — падіння й переломи; НПЗЗ при гіпертензії й ХХН; інгібітори протонної помпи, призначені «на два тижні» п'ять років тому; подвійна антигіпертензивна терапія з ортостатичною гіпотензією. Головна чесність, без якої текст перетвориться на небезпечну пораду: систематичні огляди депрескрайбінгу показують зменшення кількості препаратів і побічних ефектів, але не доведене зниження смертності, а різке самостійне скасування частини ліків (бета-блокатори, бензодіазепіни, ІПП) дає синдром відміни. Тому формат — не «припиніть пити», а підготовка до візиту: повний список у пакеті, питання «який результат ми очікуємо від кожного», хто призначив і коли переглядали.",
-      "sources_hint": "AGS Beers Criteria 2023 update; O'Mahony D et al., STOPP/START version 3, Eur Geriatr Med 2023; Thillainadesan J et al., Drugs Aging 2018 (deprescribing systematic review); Coupland CAC et al., JAMA Intern Med 2019 (anticholinergic burden and dementia); Donnelly K et al., PLoS One 2017 (benzodiazepines and falls); Ukrainian MOZ orders on primary care medication review and the Affordable Medicines programme list",
+      "angle": "Теза: у людини 70+ найчастіша причина нових «ознак старості» — не вік, а список ліків. Розбираємо п'ять груп, які найчастіше дають саме такі симптоми: препарати з холінолітичною дією (стара димедролова лінія, амітриптилін, оксибутинін) — сплутаність і асоціація з деменцією в когортах; бензодіазепіни і Z-препарати — падіння й переломи; НПЗП при гіпертензії й нирках; інгібітори протонної помпи «назавжди» після призначення на два тижні; надлишковий контроль цукру сульфонілуреями з гіпоглікеміями. Чесна межа, яку треба назвати вголос: систематичні огляди деприскрайбінгу показують зменшення кількості препаратів і потенційно невідповідних призначень, але переконливого ефекту на смертність і госпіталізації немає — тобто це про якість життя і менше побічних, а не про «житимете довше». Також прямо сказано, що асоціація холінолітиків із деменцією — спостережна, з можливим протопатичним зсувом. Практичний блок: як зібрати повний список (включно з добавками й безрецептурним), три питання до кожного препарату, правило «не кидати самостійно» для бета-блокаторів, антидепресантів і ІПП, і що в Україні сімейний лікар — точка входу для такого перегляду.",
+      "sources_hint": "AGS Beers Criteria 2023 update; O'Mahony D et al., STOPP/START version 3, Eur Geriatr Med 2023; Thillainadesan J et al., Drugs Aging 2018 (deprescribing systematic review); Cochrane review on withdrawal of benzodiazepines/antihypertensives in older people; Coupland CAC et al., JAMA Intern Med 2019 anticholinergic burden and dementia",
       "evidence_level": "moderate",
-      "score": 55,
-      "rationale": "Solid Beers/STOPP-START and deprescribing evidence, but five drug classes plus a prep checklist is more a survey than a subject settled in one sitting, and there's no timeliness hook.",
-      "proposed": "2026-10-21"
+      "score": 68,
+      "rationale": "Beers/STOPP-START plus deprescribing systematic reviews give solid evergreen substance, but no live news hook and the honest 'no mortality benefit' caveat caps the score.",
+      "proposed": "2026-10-22"
     },
     {
       "topic": "Крижана ванна: що насправді показали дослідження про холод, запалення і відновлення",
@@ -1421,17 +1344,6 @@
       "proposed": "2026-10-20"
     },
     {
-      "topic": "Скільки з утрачених на «Оземпіку» кілограмів — це м'язи (і чи справді це проблема)",
-      "type": "research",
-      "category": "research",
-      "angle": "Питання, яке дієтологам і тренерам ставлять щотижня, а відповідь «їжте більше білка» нічого не пояснює. Розкладаємо по пунктах: у DEXA-піданалізах STEP-1 приблизно 35-40% утраченої маси — нежирова тканина, але це та сама пропорція, що й при будь-якому великому дефіциті калорій, і частина цієї «нежирової» втрати — вода, глікоген і зменшений об'єм органів, а не функціональний м'яз. Далі головне: чи змінюється сила й функція, а не цифра на апараті (дані переважно про масу, не про performance — це межа доказів, яку треба назвати вголос). Окремо — підлітки й люди 65+, де втрата м'яза коштує дорожче, спроби врятувати м'яз препаратами (бімагрумаб, фаза 2 — зміна композиції є, твердих результатів немає), і єдине, що має реальні докази: силові 2-3 рази на тиждень плюс достатній білок. Практичний блок: що з цих препаратів зареєстровано в Україні, чому «курс на місяць з маркетплейсу» — не те саме, що лікування, і коли потрібен лікар.",
-      "sources_hint": "Wilding JPH et al., STEP-1 NEJM 2021 + body-composition substudy (Diabetes Obes Metab); Jastreboff AM, SURMOUNT-1 NEJM 2022; Heymsfield SB et al., JAMA Intern Med / Lancet Diabetes Endocrinol 2024 on lean mass during GLP-1 therapy; BELIEVE trial (bimagrumab + semaglutide, phase 2, 2025); Prado CM et al. 2024 commentary on muscle during weight loss; Ukrainian State Register of Medicinal Products (semaglutide, tirzepatide)",
-      "evidence_level": "moderate",
-      "score": 80,
-      "rationale": "STEP-1 substudy plus 2024-25 lean-mass literature is substantial, question is live for anyone on GLP-1 drugs, nothing like it in recent posts, right size for a single-sitting piece.",
-      "proposed": "2026-10-21"
-    },
-    {
       "topic": "Філери, ліпосакція й «естетика за кордоном»: де справжні ризики і як вибирати, щоб не рятуватися потім",
       "type": "guide",
       "category": "prevention",
@@ -1507,6 +1419,94 @@
       "score": 58,
       "rationale": "Fresh BBC hook and a good follow-up angle on the digest's open questions, but the evidence is one preliminary biomarker study in a narrow oncology population with no actionable decision for readers.",
       "proposed": "2026-10-21"
+    },
+    {
+      "topic": "Курцю, який хоче кинути: де докази за електронні сигарети сильні, а де різко закінчуються",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Матеріал закриває відкрите питання з дайджесту 11.10 (новина про мільйон британців, які вейплять, ніколи не курячи) — там була лише новинна згадка, тут повна доказова база. Тема, незручна для обох таборів, подана рівно — бо українському курцю щодня продають обидві крайності. Сильна сторона: Кокранівський живий огляд оцінює певність як високу — нікотиновмісні вейпи дають більше успішних відмов, ніж пластирі й гумки (Hajek 2019: 18% проти 9,9% за рік; Auer 2024 підтвердив у комбінації з консультуванням). Де докази закінчуються: з цього не випливає, що вейп безпечний для того, хто ніколи не курив — логіка заміщення працює лише там, де є ризик, який компенсують. Третій шар: довгих даних про серце й легені немає, EVALI була про THC-ацетат вітаміну Е, а не про нікотинові картриджі — і це варто сказати точно, щоб не підміняти аргументи. Український блок: що є в обігу, закон про заборону ароматизаторів і де взяти безоплатну допомогу з відмови (лінія 0 800, нікотинозамісна терапія в аптеках). Практичне: вейп як інструмент з планом виходу і датою, а не як нова звичка без кінця.",
+      "sources_hint": "Lindson N, Hartmann-Boyce J et al., Cochrane living review: Electronic cigarettes for smoking cessation (latest 2025/2026 update); Hajek P et al., NEJM 2019;380:629-637; Auer R et al., NEJM 2024 (e-cigarettes plus counselling); ASH UK 2026 vaping prevalence among never-smokers; US CDC EVALI investigation reports; Ukrainian law 1978-IX on flavoured tobacco/e-liquids",
+      "evidence_level": "strong",
+      "score": 84,
+      "rationale": "High-certainty Cochrane living review plus two NEJM RCTs resolves an open question flagged in the 11.10 digest; strong reader relevance and enough nuance for full length.",
+      "proposed": "2026-10-22"
+    },
+    {
+      "topic": "Ліки від діабету й АДГД тестують на Альцгеймері: що вже показали перші великі РКД",
+      "type": "research",
+      "category": "research",
+      "angle": "Привід — новина про британське дослідження, у якому відомі препарати (семаглутид, гуанфацин/метформінова лінія) перевіряють проти хвороби Альцгеймера. Матеріал тримає головну межу блогу: перенесення ліків з однієї хвороби в іншу — це гіпотеза механізму, а не доведена користь. Важливо для читача, який бачив матеріал 21.10 про семаглутид і м'язи: тут інша кінцева точка й інша доказова база — не склад тіла, а когніція, тож це не продовження «оземпікової» теми, а приклад провалу репозиціонування (дається перехресне посилання). Ключове: EVOKE та EVOKE+ (семаглутид при ранньому Альцгеймері, разом ~3800 учасників) у 2025 році не показали сповільнення когнітивного зниження — це найчистіший доступний приклад того, як сильна епідеміологія й красивий механізм (запалення, інсулінова сигналізація мозку) не перетворюються на результат. АДГД-препарат згадується лише як приклад репозиціонування — без повернення до теми гіпердіагностики АДГД (покрито 13.10 і 18.10). Далі — чому репозиціонування все одно варте тестування (готовий профіль безпеки, швидкий вихід), і що це означає для читача, якому вже пропонують «метформін для профілактики деменції» або семаглутид «для мозку». Практичний блок: що насправді має доказ для зниження ризику деменції (слух, тиск, фізична активність — комісія Lancet 2024), і чому не варто купувати препарат за пресрелізом.",
+      "sources_hint": "Novo Nordisk EVOKE/EVOKE+ topline results (Alzheimer's disease, semaglutide, 2025) and subsequent NEJM/Lancet Neurology publication; UK repurposing trial news (BBC Health Oct 2026); Livingston G et al., Lancet Commission on dementia prevention 2024; Cochrane review on metformin/antidiabetic drugs for cognitive decline; ClinicalTrials.gov NCT04777396, NCT04777409",
+      "evidence_level": "moderate",
+      "score": 79,
+      "rationale": "Live UK trial hook plus EVOKE/EVOKE+ (~3800 pts) null result and Lancet Commission alternative — strong evidence, distinct endpoint from the 21.10 post, right size for a feature.",
+      "proposed": "2026-10-22"
+    },
+    {
+      "topic": "Косметичні процедури під новими правилами: де справжній ризик, а не страшилки",
+      "type": "guide",
+      "category": "prevention",
+      "angle": "Привід — плани жорсткіше регулювати косметичні процедури після випадків важких ускладнень. Для українського читача це особливо актуально: філери, біоревіталізація й «ліпо» часто роблять люди без медичної освіти, у кабінетах без ліцензії. Розкладаємо ризик за процедурами, а не за емоціями: судинна оклюзія від філера — рідке, але реальне ускладнення з ризиком некрозу й сліпоти (зареєстровані серії випадків; частоти походять із добровільних опитувань лікарів, тож справжній знаменник невідомий — це треба сказати прямо), і головне для читача — чи є в кабінеті гіалуронідаза й хто вміє її вводити; «рідинний BBL» та інжекційні ліполітики — процедури з найгіршим співвідношенням доказів і смертей; ботулотоксин у нормальній дозі має пристойний профіль безпеки, але підробки з маркетплейсів дають ботулізм (спалахи 2024 року в США). Окремо — що взагалі не має доказів: мезотерапія «вітамінними коктейлями», кавітація, плазмоліфтинг для схуднення. Практичний блок: п'ять питань перед процедурою (ліцензія закладу, освіта виконавця, назва й серія препарату, план на ускладнення, письмова згода), червоні прапорці після інʼєкції — біль, побіління шкіри, порушення зору — і що це привід у невідкладну, а не чекати.",
+      "sources_hint": "UK government/JCCP proposals on cosmetic procedure licensing (Oct 2026, BBC Health); Beleznay K et al., Aesthet Surg J blindness from filler injections case series; Goodman GJ et al. consensus on hyaluronidase for vascular occlusion; US CDC 2024 counterfeit botulinum toxin botulism outbreak reports; ISAPS/BAAPS statements on liquid BBL deaths; Ukrainian MOH licensing requirements for medical practice",
+      "evidence_level": "moderate",
+      "score": 72,
+      "rationale": "Live UK licensing-reform hook with case series and CDC outbreak data across several procedure types gives enough material for full length, though true denominators are unknown.",
+      "proposed": "2026-10-22"
+    },
+    {
+      "topic": "Колаген у порошку: що показують дослідження шкіри й суглобів, коли прибрати спонсорів",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Клейм-чек однієї з найбільш продаваних добавок в українських аптеках і маркетплейсах. Починаємо з біохімії, яку продавці описують неправильно: з'їдений колаген розщеплюється до амінокислот і пептидів, тож «піде прямо в шкіру» не буває; реальна гіпотеза тонша — пептиди пролін-гідроксипролін потрапляють у кров і можуть діяти як сигнал фібробластам. Далі — що показують мета-аналізи: для шкіри є низка невеликих РКД із позитивними результатами щодо гідратації й еластичності (мета-аналізи 2021-2023, зазвичай 8-12 тижнів), але майже всі фінансовані виробниками, з м'якими приладовими кінцевими точками й високою гетерогенністю — тому підсумковий рівень доказів у матеріалі ставимо помірний, а не сильний, попри формальну наявність мета-аналізів; для остеоартрозу колінного суглоба ефект на біль існує, але малий і менш певний за фізичні вправи; для сухожиль і «профілактики травм» дані переважно пілотні. Що насправді має кращі докази на тих самих грошах: достатній білок загалом, силові тренування, сонцезахист і третиноїди для шкіри. Практичне: як прочитати етикетку (доза 2,5-10 г, джерело), кому це безпечно, і чому «морський колаген» не має переваги.",
+      "sources_hint": "de Miranda RB et al., Int J Dermatol 2021 meta-analysis of oral collagen for skin; Pu SY et al., Nutrients 2023 collagen peptides skin RCT meta-analysis; García-Coronado JM et al., Int Orthop 2019 collagen for knee osteoarthritis; Shaw G et al., Am J Clin Nutr 2017 gelatin and collagen synthesis; Clark KL et al. 2008; industry funding analyses of supplement trials",
+      "evidence_level": "moderate",
+      "score": 62,
+      "rationale": "Several meta-analyses exist but mostly industry-funded with soft surrogate endpoints; useful evergreen claim-check, but no timeliness holds it to mid-table.",
+      "proposed": "2026-10-22"
+    },
+    {
+      "topic": "Кефір, йогурт і квашена капуста: що ферментовані продукти справді роблять з мікробіомом",
+      "type": "nutrition",
+      "category": "nutrition",
+      "angle": "Тема, де українська кухня має сильну позицію, а добавки продають дорожче за капусту. Головне РКД, на яке варто спертися: Wastyk/Gardner (Cell 2021, n=36, 17 тижнів) порівняло раціон із ферментованими продуктами проти раціону з високим вмістом клітковини — ферментовані збільшили різноманіття мікробіоти й знизили 19 маркерів запалення, тоді як клітковина дала відповідь, залежну від початкового мікробіому; одразу названо межу: 36 людей, маркери запалення, а не хвороби. Друге: мета-аналізи щодо йогурту й кефіру показують помірні сигнали для глікемічного контролю й тиску, а великі когорти — зв'язок кисломолочного з нижчим ризиком діабету 2 типу; це спостережні дані, і їх треба подати як такі. Третє, корисне для дієтологів: ферментований ≠ пробіотичний — пастеризована капуста й більшість промислових «фруктових» йогуртів живих культур не містять, а цукру дають більше, ніж корисного; комбуча має майже нульову клінічну базу. Практичне: прості цілі (одна-дві порції на день, читати «живі культури» і склад, домашня квашена капуста як дешеве джерело), обмеження — гістамінова непереносимість, сіль у солінні при гіпертензії, і чому людям з імуносупресією варто спитати лікаря.",
+      "sources_hint": "Wastyk HC et al., Cell 2021 (fermented food vs high-fibre diet, Gardner lab); Leeuwendaal NK et al., Nutrients 2022 review of fermented foods and health; Companys J et al., Adv Nutr 2020 fermented dairy and cardiometabolic risk meta-analysis; Gille D et al. kefir trials; Marco ML et al., ISAPP consensus statement on fermented foods, Nat Rev Gastroenterol Hepatol 2021",
+      "evidence_level": "moderate",
+      "score": 60,
+      "rationale": "Anchor RCT (Wastyk 2021) is small (n=36) and the rest is observational; good reader fit and local angle, but no live hook and only moderate evidence for 3500 words.",
+      "proposed": "2026-10-22"
+    },
+    {
+      "topic": "Застосунки з медитацією: що показали РКД, коли порівняли їх з активним контролем",
+      "type": "research",
+      "category": "mental-health",
+      "angle": "Мільйони завантажень і обіцянка «знизити стрес за 10 хвилин на день» — варто перевірити. Докази існують і вони не нульові: мета-аналізи РКД застосунків усвідомленості дають малі-помірні ефекти на стрес, тривожність і депресивні симптоми (зазвичай SMD близько 0,2-0,4), причому найкращі дані — у Headspace і Calm на студентах і працівниках. Але далі починаються три чесні обмеження, які читач ніде не побачить: більшість порівнянь — із «нічого не робити» або списком очікування, а там, де контроль активний, різниця тане (та сама пастка, що з самостійним згасанням охоронної поведінки в матеріалі 05.10 — активний контроль з'їдає ефект); відсів учасників величезний (у реальних даних менше третини доходить до кінця курсу), а наміри-до-лікування аналізи роблять не всі; і частина досліджень виконана за участі самих компаній. Окремий блок — для кого це не перша лінія: при вираженій депресії й ПТСР докази за КПТ і структуровані протоколи, а не за застосунок; у невеликої частки людей медитація дає погіршення (дані про побічні ефекти є, приблизно 8% у огляді). Практичне: як використати застосунок із користю — фіксований час, 8 тижнів, перевірка за власною шкалою, і коли це сигнал іти до фахівця.",
+      "sources_hint": "Linardon J et al., meta-analyses of mindfulness and mental health smartphone apps (J Consult Clin Psychol 2024; Clin Psychol Rev); Goldberg SB et al., Perspect Psychol Sci 2022 (methodological quality of app trials); Gal E et al. 2021 Headspace/Calm RCT meta-analysis; Farias M et al., Acta Psychiatr Scand 2020 adverse effects of meditation; NICE guidance on depression and anxiety (first-line psychological therapies)",
+      "evidence_level": "moderate",
+      "score": 58,
+      "rationale": "Decent meta-analytic base (SMD ~0.2-0.4) but effect shrinks against active controls and there is no live hook; solid but ordinary subject for today.",
+      "proposed": "2026-10-22"
+    },
+    {
+      "topic": "Зона 2 проти інтервалів: що насправді дає перевагу витривалості (і для тренерів)",
+      "type": "fitness",
+      "category": "biohacking",
+      "angle": "Для практиків і для читача, якому подкасти продали «80% часу в зоні 2» як універсальний закон. Розбираємо, звідки це взялося: поляризований розподіл інтенсивності описали в елітних спортсменів-витривальників (Seiler), і там логіка — великий тижневий обсяг. Що показують дослідження на звичайних людях: мета-аналізи порівняння високоінтенсивних інтервалів і помірного тривалого навантаження дають схожий, або трохи кращий для інтервалів, приріст VO2max при менших витратах часу — тобто для людини з 3 годинами на тиждень «зона 2» не має переваги, якої їй обіцяють. Третій шар — те, що зникає з обговорення: головні докази для здоров'я стосуються загальної кількості руху (150 хв на тиждень, крива смертності за Ekelund) і сили, а не частоти серцевих скорочень у вузькому коридорі; «мітохондріальний біогенез» — це механізм, а не кінцева точка (той самий розрив механізм/користь, що в дайджесті 11.10). Практичний блок: як визначити зону без лактатного аналізатора (тест розмовою, формули ЧСС і чому вони помиляються на ±10-15 ударів), реалістичний тижневий шаблон, і чому носимий пристрій, що показує «зону 2», часто показує не те.",
+      "sources_hint": "Seiler S, Int J Sports Physiol Perform (polarized training model); Rosenblat MA et al., Sports Med 2022 meta-analysis polarized vs threshold training; Milanović Z et al., Sports Med 2015 HIIT vs moderate continuous training VO2max meta-analysis; Weston KS et al., Br J Sports Med 2014; Ekelund U et al., BMJ 2019 dose-response physical activity and mortality; WHO 2020 physical activity guidelines; validation studies of wrist-based heart rate accuracy",
+      "evidence_level": "moderate",
+      "score": 53,
+      "rationale": "Evidence exists but the subject skews toward athletes/trainers more than ordinary readers, and the mechanism-vs-benefit framing echoes the 11.10 digest already.",
+      "proposed": "2026-10-22"
+    },
+    {
+      "topic": "Фото обличчя як «біологічний вік»: що насправді вміють такі алгоритми",
+      "type": "research",
+      "category": "longevity",
+      "angle": "Привід — публікація про те, чи може звичайне фото обличчя показати, наскільки людина хвора. Розбираємо FaceAge (Lancet Digital Health 2025): алгоритм, навчений на фото, оцінював «вік обличчя» у понад 6 тисяч онкопацієнтів, і він у середньому був приблизно на 5 років більший за паспортний, а вищий FaceAge асоціювався з гіршим виживанням; у тесті алгоритм допомагав лікарям точніше прогнозувати, хто переживе шість місяців. Що з цього не випливає: це прогностичний маркер у вузькій популяції, а не вимірювач старіння, який можна продавати застосунком. Прямий зв'язок із власною наскрізною темою 18.10 — точність тесту залежить від популяції, у якій його валідували. Головні пастки, які варто показати читачеві: алгоритм легко вчиться на освітленні, макіяжі, якості камери й на тому, що людина у стаціонарі; валідації за кольором шкіри й на українській популяції немає; і будь-який «тест біологічного віку» з аптеки чи застосунку не має доказу, що зміна його числа змінює здоров'я. Паралель — метилювальні годинники й «теломерні тести». Практичне: чим мірятися замість цього — тиск, HbA1c, ліпіди, швидкість ходьби, сила кисті.",
+      "sources_hint": "Bontempi D, Mak RH et al., FaceAge deep learning biological age from face photographs, Lancet Digital Health 2025; BBC Health Oct 2026 coverage; Horvath/GrimAge epigenetic clock validation literature; systematic reviews of commercial biological-age tests; Studenski S et al., JAMA 2011 gait speed and survival",
+      "evidence_level": "preliminary",
+      "score": 42,
+      "rationale": "Mostly one narrow-population study (FaceAge) carrying the piece, and its core thesis — test accuracy depends on the validation population — was the 18.10 digest's own headline four days ago.",
+      "proposed": "2026-10-22"
     }
   ]
 }
