@@ -7356,5 +7356,21 @@
       "реабілітація"
     ],
     "summary": "Матеріал про тренування м'язів тазового дна (ТМТД) при стресовому нетриманні сечі, зокрема післяпологовому. Основа - Кокранівський огляд Dumoulin 2018 (31 РКД, 1817 жінок): вилікування 35% проти 6% у контролі, для стресового типу RR 8,38 із високою певністю доказів, побічні ефекти мінімальні; NICE NG123 робить це першою лінією (≥8 скорочень 3 рази на день, ≥3 місяці, з пальпаторною перевіркою м'яза). Ключова недооцінена фактура: Bump 1991 (лише 49% виконували Кегель правильно, 25% натужувалися вниз) і pelviTrust 2026 (88% впевнені, що вміють, об'єктивно вміли 68%, після навчання 97%), а також the knack - скорочення перед кашлем, що миттєво зменшує втрату сечі (43,2 см² → 6,9 см², Miller 2008).\n\nЧесні межі: Кокран Woodley 2020 показує сильні докази для профілактики (допологове ТМТД у континентних жінок), але відсутність доказів ефекту при вже персистентному нетриманні через 6-12 місяців після пологів; при помірному-тяжкому стресовому нетриманні слінг виграє (NEJM 2013 + 12-річне спостереження BJOG 2025, 86,9% перейшли на операцію); жодне РКД не оцінювало результат через рік після завершення курсу. Не додають користі: біозворотний зв'язок (OPAL, n=600), вагінальні конуси, електростимуляція; вагінальний лазер не перевершив фіктивну процедуру у двох sham-РКД. Український контекст: у 180-сторінковому Порядку ПМГ-2026 слова «нетримання», «тазове дно», «пролапс» відсутні повністю; національної клінічної настанови немає (лише перекладений Duodecim 00182); реєстру тазових фізіотерапевтів не існує. Запасний доказовий варіант - застосунок Tät (РКД Asklund 2017, −3,9 бала ICIQ-UI SF). Сила доказів загалом сильна для основної тези. Тема тазового дна на блозі раніше не покривалася."
+  },
+  "khronichnyi-tsystyt-zhinky-estrogen-metenamin-d-manoza-dokazy": {
+    "date": "2026-10-23",
+    "title": "Проти рецидивів циститу працює естроген, а не D-маноза",
+    "type": "roundup",
+    "tags": [
+      "цистит",
+      "інфекції сечових шляхів",
+      "жіноче здоров'я",
+      "антибіотики",
+      "менопауза",
+      "добавки",
+      "дослідження",
+      "профілактика"
+    ],
+    "summary": "Friday roundup on recurrent cystitis in women, pegged to the BBC report on ~1.6 million British women with chronic lower urinary tract symptoms. Core argument: 'chronic cystitis' conflates three distinct conditions - acute cystitis, recurrent UTI (≥2 culture-confirmed episodes in 6 months per AUA 2025) and bladder pain syndrome (AUA 2022, reframed as a chronic pain syndrome) - and a 2025 BJU International systematic review found 'chronic UTI' has no coherent definition across the literature (only 6 of 154 included papers defined it at all), so long antibiotic protocols sold under that label are not evidence-based, while the symptoms themselves are real and under-served.\n\nWhat works: vaginal oestrogen in postmenopausal women (Raz & Stamm NEJM 1993: 0.5 vs 5.9 episodes/person-year; NNT 3-4; Cochrane 2008 shows vaginal yes, oral HRT no benefit, RR 1.08); methenamine hippurate 1 g BD, formally non-inferior to daily antibiotics in ALTAR (BMJ 2022, 0.89 vs 1.38 episodes/person-year against a patient-set margin of 1.0); +1.5 L water/day but only for women drinking under 1.5 L (Hooton, JAMA Intern Med 2018: 1.7 vs 3.2 episodes/year). What failed: D-mannose (MERIT RCT 2024, 598 women, 51.0% vs 55.7%, null; confirmed by 2025 meta-analysis of 6 RCTs). Cranberry corrected rather than debunked: Cochrane 2023 shows ~26% fewer infections in the recurrent-UTI subgroup only, and products need ≥36 mg PACs, which most do not document. Live guideline disagreement flagged: EAU 2025 strongly recommends OM-89 immunoactive prophylaxis while AUA 2025 cannot recommend it, and a 2025 Minerva meta-regression shows effect shrinking in newer trials. Also covers the asymptomatic-bacteriuria trap (IDSA 2019: treat no one except pregnant women), culture before every symptomatic episode, the poor PPV of positive urinalysis, and ketamine uropathy as a missed cause. Cross-links to the pelvic-floor, water-intake and ketamine posts. Evidence strength: moderate overall, strong for not treating asymptomatic bacteriuria and for D-mannose having no benefit."
   }
 }
