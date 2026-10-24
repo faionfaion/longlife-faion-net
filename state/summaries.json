@@ -7372,5 +7372,20 @@
       "профілактика"
     ],
     "summary": "Friday roundup on recurrent cystitis in women, pegged to the BBC report on ~1.6 million British women with chronic lower urinary tract symptoms. Core argument: 'chronic cystitis' conflates three distinct conditions - acute cystitis, recurrent UTI (≥2 culture-confirmed episodes in 6 months per AUA 2025) and bladder pain syndrome (AUA 2022, reframed as a chronic pain syndrome) - and a 2025 BJU International systematic review found 'chronic UTI' has no coherent definition across the literature (only 6 of 154 included papers defined it at all), so long antibiotic protocols sold under that label are not evidence-based, while the symptoms themselves are real and under-served.\n\nWhat works: vaginal oestrogen in postmenopausal women (Raz & Stamm NEJM 1993: 0.5 vs 5.9 episodes/person-year; NNT 3-4; Cochrane 2008 shows vaginal yes, oral HRT no benefit, RR 1.08); methenamine hippurate 1 g BD, formally non-inferior to daily antibiotics in ALTAR (BMJ 2022, 0.89 vs 1.38 episodes/person-year against a patient-set margin of 1.0); +1.5 L water/day but only for women drinking under 1.5 L (Hooton, JAMA Intern Med 2018: 1.7 vs 3.2 episodes/year). What failed: D-mannose (MERIT RCT 2024, 598 women, 51.0% vs 55.7%, null; confirmed by 2025 meta-analysis of 6 RCTs). Cranberry corrected rather than debunked: Cochrane 2023 shows ~26% fewer infections in the recurrent-UTI subgroup only, and products need ≥36 mg PACs, which most do not document. Live guideline disagreement flagged: EAU 2025 strongly recommends OM-89 immunoactive prophylaxis while AUA 2025 cannot recommend it, and a 2025 Minerva meta-regression shows effect shrinking in newer trials. Also covers the asymptomatic-bacteriuria trap (IDSA 2019: treat no one except pregnant women), culture before every symptomatic episode, the poor PPV of positive urinalysis, and ketamine uropathy as a missed cause. Cross-links to the pelvic-floor, water-intake and ketamine posts. Evidence strength: moderate overall, strong for not treating asymptomatic bacteriuria and for D-mannose having no benefit."
+  },
+  "liky-vid-diabetu-adhd-proty-altsheimera-evoke-ad-smart": {
+    "date": "2026-10-24",
+    "title": "Ліки від діабету проти Альцгеймера не спрацювали",
+    "type": "research",
+    "tags": [
+      "Альцгеймер",
+      "деменція",
+      "дослідження",
+      "семаглутид",
+      "метформін",
+      "перепрофілювання ліків",
+      "когніція"
+    ],
+    "summary": "Привід - старт британського платформного РКД AD-SMART (1200 учасників, метформін + атомоксетин, результати ~2030). Головна теза: аналогічна гіпотеза вже перевірена до кінця і провалилася. Повна публікація evoke/evoke+ у The Lancet (травень 2026, n=3808, 104 тижні) показала нульову різницю за CDR-SB (−0,08 бала) і відсутність впливу на переход від MCI до дементності, попри покращення тау й hs-CRP у лікворі та парадоксальне зростання плазмових GFAP/NfL. Метформін: когортний метааналіз на 396 332 особах дає RR 0,79, але систематичний огляд 2025 констатує відсутність РКД і confounding by indication; пілот Luchsinger (n=80) дав змішаний результат; MET-FINGER триває. SNIFF (інтраназальний інсулін, n=289) - нуль з технічним дефектом пристрою. ADMET 2 (метилфенідат, n=200) зменшив апатію, але не когніцію. Атомоксетин має лише фазу 2 на 39 людях з біомаркерними точками.\n\nПрактичний висновок: рамка з трьох питань до новин про перепрофілювання (тверда кінцева точка vs біомаркер; чи доходило раніше; рандомізація vs кохорта). Пряме застереження проти самопризначення метформіну «для мозку» (ШКТ, B12, нирки) та нагадування, що жодна схема не є лікуванням. Сила доказів: сильна для негативних відповідей, слабка/попередня для позитивних гіпотез. Крос-посилання: семаглутид і м'язи (21.10), леканемаб/донанемаб (18.04), метформін і TAME (16.04), 14 факторів ризику (22.07)."
   }
 }
