@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T03:09:56.982768+00:00",
+  "updated_at": "2026-10-24T03:29:56.665453+00:00",
   "entries": [
     {
       "topic": "Дуже гарячий чай і рак стравоходу: де саме проходить межа в градусах",
@@ -1309,17 +1309,6 @@
       "score": 42,
       "rationale": "Mostly one narrow-population study (FaceAge) carrying the piece, and its core thesis — test accuracy depends on the validation population — was the 18.10 digest's own headline four days ago.",
       "proposed": "2026-10-22"
-    },
-    {
-      "topic": "Ліки від діабету й АДГД пробують проти Альцгеймера: що вже перевірили і чим це закінчилося",
-      "type": "research",
-      "category": "research",
-      "angle": "Привід — новина про нове дослідження, де препарати від діабету й АДГД тестують на пацієнтах з Альцгеймером. Текст показує читачеві механіку перепрофілювання ліків, а не сенсацію. Головна чесність, якої в новинах немає: семаглутид уже пройшов цю перевірку — два великі РКД фази 3 (EVOKE і EVOKE+, близько 3800 учасників) не показали сповільнення когнітивного зниження, і це найдорожча негативна відповідь останніх років. Те саме було з метформіном у малих дослідженнях і з інсуліном інтраназально (SNIFF). Чому гіпотеза взагалі виникла: спостережні дані про нижчу частоту дементності в тих, хто приймає GLP-1, запалення й інсулінорезистентність мозку — тобто механізм був, користі не виявилося. Що означає «гуанфацин/АДГД-лінія» в цьому контексті: ставка на норадренергічну систему й увагу, стадія — рання фаза 2, кінцеві точки сурогатні. Практичний висновок для читача: препарати, зареєстровані для діабету чи АДГД, не є лікуванням пам'яті, а те, що має докази для мозку (контроль тиску, слух, фізична активність, лікування депресії), доступне вже сьогодні. Чітко маркувати рівні: спостереження → фаза 2 → фаза 3. Перехресне посилання на матеріал 21.10 про семаглутид і м'язи — там інша кінцева точка (склад тіла), тут когніція, повтору немає.",
-      "sources_hint": "BBC Health Oct 2026 report on diabetes/ADHD drugs trial in Alzheimer's; Novo Nordisk EVOKE and EVOKE+ phase 3 results (semaglutide in early Alzheimer's, 2025 announcement and subsequent publication); Craft S et al., SNIFF intranasal insulin trial, JAMA Neurol 2020; Livingston G et al., Lancet Commission on dementia prevention 2024; search PubMed: \"GLP-1 receptor agonist Alzheimer randomized\", \"guanfacine Alzheimer trial\"",
-      "evidence_level": "moderate",
-      "score": 87,
-      "rationale": "Phase 3 RCT data (EVOKE/EVOKE+) plus metformin and insulin trials give a genuinely broad repurposing theme, timely BBC report, distinct endpoint from 10-21.",
-      "proposed": "2026-10-23"
     },
     {
       "topic": "Воїн вихідного дня: дві тренувальні сесії на тиждень дають майже те саме, що п'ять",

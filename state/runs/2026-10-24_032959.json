@@ -1,0 +1,80 @@
+{
+  "timestamp": "2026-10-24_032959",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "liky-vid-diabetu-adhd-proty-altsheimera-evoke-ad-smart",
+  "author": "Віта",
+  "duration_s": 1616.0,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 363.0,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 50.7,
+      "error": null
+    },
+    {
+      "name": "research:Ліки від діабету й АДГД пробую",
+      "status": "ok",
+      "duration_s": 416.2,
+      "error": null
+    },
+    {
+      "name": "generate:Ліки від діабету й АДГД пробую",
+      "status": "ok",
+      "duration_s": 123.5,
+      "error": null
+    },
+    {
+      "name": "text_edit:Ліки від діабету й АДГД пробую",
+      "status": "ok",
+      "duration_s": 108.4,
+      "error": null
+    },
+    {
+      "name": "review:Ліки від діабету й АДГД пробую",
+      "status": "ok",
+      "duration_s": 206.4,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Ліки від діабету й АДГД пробую",
+      "status": "ok",
+      "duration_s": 16.8,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Ліки від діабету й АДГД пробую",
+      "status": "ok",
+      "duration_s": 14.6,
+      "error": null
+    },
+    {
+      "name": "save:Ліки від діабету й АДГД пробую",
+      "status": "ok",
+      "duration_s": 311.6,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.6,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}
