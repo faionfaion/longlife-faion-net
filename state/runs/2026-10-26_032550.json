@@ -1,0 +1,80 @@
+{
+  "timestamp": "2026-10-26_032550",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "intismeran-faza-3-esmo-2026-melanoma-tsyfry-rfs-vyzhyvannia",
+  "author": "Віта",
+  "duration_s": 1367.3,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 428.7,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 49.1,
+      "error": null
+    },
+    {
+      "name": "research:Персоналізована протипухлинна ",
+      "status": "ok",
+      "duration_s": 289.1,
+      "error": null
+    },
+    {
+      "name": "generate:Персоналізована протипухлинна ",
+      "status": "ok",
+      "duration_s": 93.9,
+      "error": null
+    },
+    {
+      "name": "text_edit:Персоналізована протипухлинна ",
+      "status": "ok",
+      "duration_s": 118.3,
+      "error": null
+    },
+    {
+      "name": "review:Персоналізована протипухлинна ",
+      "status": "ok",
+      "duration_s": 241.9,
+      "error": null
+    },
+    {
+      "name": "comic_scene:Персоналізована протипухлинна ",
+      "status": "ok",
+      "duration_s": 28.5,
+      "error": null
+    },
+    {
+      "name": "tg_caption:Персоналізована протипухлинна ",
+      "status": "ok",
+      "duration_s": 13.1,
+      "error": null
+    },
+    {
+      "name": "save:Персоналізована протипухлинна ",
+      "status": "ok",
+      "duration_s": 100.0,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.3,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}
