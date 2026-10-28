@@ -1,0 +1,86 @@
+{
+  "timestamp": "2026-10-27_033731",
+  "status": "ok",
+  "dry_run": false,
+  "slug": "ferytynove-oblychchia-temni-kola-pid-ochyma-defitsyt-zaliza",
+  "author": "Віта",
+  "duration_s": 2068.5,
+  "image_generated": true,
+  "msg_id": null,
+  "failed_stage": null,
+  "error": null,
+  "stages": [
+    {
+      "name": "editorial_plan",
+      "status": "ok",
+      "duration_s": 319.2,
+      "error": null
+    },
+    {
+      "name": "prioritize",
+      "status": "ok",
+      "duration_s": 74.3,
+      "error": null
+    },
+    {
+      "name": "research:«Феритинове обличчя»: чи справ",
+      "status": "ok",
+      "duration_s": 455.0,
+      "error": null
+    },
+    {
+      "name": "generate:«Феритинове обличчя»: чи справ",
+      "status": "ok",
+      "duration_s": 167.6,
+      "error": null
+    },
+    {
+      "name": "text_edit:«Феритинове обличчя»: чи справ",
+      "status": "ok",
+      "duration_s": 218.3,
+      "error": null
+    },
+    {
+      "name": "review:«Феритинове обличчя»: чи справ",
+      "status": "ok",
+      "duration_s": 360.6,
+      "error": null
+    },
+    {
+      "name": "comic_scene:«Феритинове обличчя»: чи справ",
+      "status": "ok",
+      "duration_s": 31.0,
+      "error": null
+    },
+    {
+      "name": "material_images:«Феритинове обличчя»: чи справ",
+      "status": "ok",
+      "duration_s": 154.1,
+      "error": null
+    },
+    {
+      "name": "tg_caption:«Феритинове обличчя»: чи справ",
+      "status": "ok",
+      "duration_s": 13.2,
+      "error": null
+    },
+    {
+      "name": "save:«Феритинове обличчя»: чи справ",
+      "status": "ok",
+      "duration_s": 270.4,
+      "error": null
+    },
+    {
+      "name": "deploy_site",
+      "status": "ok",
+      "duration_s": 2.9,
+      "error": null
+    },
+    {
+      "name": "verify",
+      "status": "ok",
+      "duration_s": 0.0,
+      "error": null
+    }
+  ]
+}
